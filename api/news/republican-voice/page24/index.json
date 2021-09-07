@@ -2,6 +2,119 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2021-04-04-blunt-biden-infrastructure-bill-should-be-30-of-current-level-slams-partisan-add-ons-as-big-mistake.md",
+      "title": "Blunt: Biden 'infrastructure' bill should be 30% of current level, slams partisan add-ons as 'big mistake'",
+      "excerpt": "President Biden's massive spending plan needs to be cut by around 70% for Republicans to get on board, Sen. Roy Blunt, R-Mo., suggested on \"Fox News Sunday.\"",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/GUlzpMSov2M/sen-blunt-cut-biden-infrastructure-spending",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/GUlzpMSov2M/sen-blunt-cut-biden-infrastructure-spending",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5cff0088-3ae8-45c5-9d0d-54c3a61230a9/61dedd14-c4dc-4e2d-87d1-b2d706b6d011/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/sen-blunt-cut-biden-infrastructure-spending.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sen-blunt-cut-biden-infrastructure-spending.amp",
+      "publishedDateTime": "2021-04-04T10:21:55-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-04-barrasso-slams-biden-over-kids-in-captivity-says-he-was-told-to-delete-photos-of-border-facilities.md",
+      "title": "Barrasso slams Biden over kids in 'captivity,' says he was told to delete photos of border facilities",
+      "excerpt": "\"The irony here is that we're hearing a lot about Joe Biden wanting vaccine passports to prove that people have vaccines,\" Barrasso said. \"Meanwhile, the border crossers, they don't even require I.D. We don't know who they are, where they're coming from ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/politics/barrasso-biden-border-kids-in-captivity-delete-photos",
+      "originalUrl": "https://www.foxnews.com/politics/barrasso-biden-border-kids-in-captivity-delete-photos",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/barrasso-biden-border-kids-in-captivity-delete-photos.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/barrasso-biden-border-kids-in-captivity-delete-photos.amp",
+      "publishedDateTime": "2021-04-04T09:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-04-hunter-biden-100-certain-hell-be-cleared-of-wrongdoing-in-doj-investigation.md",
       "title": "Hunter Biden ‘100% certain’ he’ll be cleared of wrongdoing in DOJ investigation",
       "excerpt": "Hunter Biden said he is \"100% certain\" he will be cleared of any wrongdoing in a Department of Justice investigation into his finances.",
@@ -1553,120 +1666,6 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-vp-harris-thanks-guatemalan-president-giammattei-after-his-crackdown-on-migrants-doesnt-visit-border.md",
-      "title": "VP Harris thanks Guatemalan President Giammattei after his crackdown on migrants, doesn't visit border",
-      "excerpt": "Vice President Kamala Harris shared a call with Guatemalan President Alejandro Giammattei Tuesday to discuss immigration amid a surging crisis and despite declining to visit the U.S.-Mexico border herself since taking office.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/B0pXFkn-dGk/vice-president-harris-guatemalan-president-giammattei-illegal-immigants",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/B0pXFkn-dGk/vice-president-harris-guatemalan-president-giammattei-illegal-immigants",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 209,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/AP21089772700299.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/vice-president-harris-guatemalan-president-giammattei-illegal-immigants.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/vice-president-harris-guatemalan-president-giammattei-illegal-immigants.amp",
-      "publishedDateTime": "2021-03-30T18:39:17-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-trump-endorses-drew-mckissick-over-lin-wood-for-south-carolina-gop-chair.md",
-      "title": "Trump endorses Drew McKissick over Lin Wood for South Carolina GOP chair",
-      "excerpt": "Former President Donald Trump affirmed his endorsement of longtime ally Drew McKissick in his bid for re-election as South Carolina GOP chairman on Tuesday, shortly after attorney Lin Wood announced his intent to challenge him for the position. \"Drew ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/trump-endorses-drew-mckissick-over-lin-wood-sc-gop-chair",
-      "originalUrl": "https://www.foxnews.com/politics/trump-endorses-drew-mckissick-over-lin-wood-sc-gop-chair",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Lin-Wood-1.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-endorses-drew-mckissick-over-lin-wood-sc-gop-chair.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-endorses-drew-mckissick-over-lin-wood-sc-gop-chair.amp",
-      "publishedDateTime": "2021-03-30T16:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Republican Voice"
       ]
     }

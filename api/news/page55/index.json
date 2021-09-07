@@ -2,6 +2,106 @@
   "page": 55,
   "value": [
     {
+      "path": "_news/2021-05-14-nomination-of-kristen-clarke-controversial-biden-civil-rights-pick-hangs-in-balance.md",
+      "title": "Nomination of Kristen Clarke, controversial Biden civil-rights pick, hangs in balance",
+      "excerpt": "The Senate Judiciary Committee advanced the nomination of Kristen Clarke to run the civil rights division at the Department of Justice on Thursday, but her confirmation is still not certain as a handful of key moderate senators have yet to announce their stance on the nominee.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/politics/department-of-justice-kristen-clarke-nomination-moderate-senators-manchin-murkowski-sinema-collins",
+      "originalUrl": "https://www.foxnews.com/politics/department-of-justice-kristen-clarke-nomination-moderate-senators-manchin-murkowski-sinema-collins",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 168,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7b5c045d-f123-483e-bf61-47f1ec138734/82a4dec4-33fd-444e-951d-72ca464a2df4/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/department-of-justice-kristen-clarke-nomination-moderate-senators-manchin-murkowski-sinema-collins.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/department-of-justice-kristen-clarke-nomination-moderate-senators-manchin-murkowski-sinema-collins.amp",
+      "publishedDateTime": "2021-05-14T06:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-14-biden-and-harris-make-first-maskless-appearance-better-days-are-ahead.md",
+      "title": "Biden and Harris make first maskless appearance: ‘Better days are ahead’",
+      "excerpt": "\"We'll laugh again. We’ll know joy again,\" President Biden said Thursday. \"We'll smile again — and now, see one another's smile.\"",
+      "sourceUrl": null,
+      "webUrl": "https://thegrio.com/2021/05/14/biden-harris-maskless-appearance-better-days-ahead/",
+      "originalUrl": "https://thegrio.com/2021/05/14/biden-harris-maskless-appearance-better-days-ahead/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thegrio.com/wp-content/uploads/2021/05/BidenHarris-scaled.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thegrio.com/2021/05/14/biden-harris-maskless-appearance-better-days-ahead/amp/",
+      "cdnAmpWebUrl": "https://thegrio-com.cdn.ampproject.org/c/s/thegrio.com/2021/05/14/biden-harris-maskless-appearance-better-days-ahead/amp/",
+      "publishedDateTime": "2021-05-14T05:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Grio",
+        "domain": "thegrio.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-05-14-bidens-covid-19-rule-tweet-panned-on-social-media.md",
       "title": "Biden’s COVID-19 ‘rule’ tweet panned on social media",
       "excerpt": "President Biden received backlash on social media Thursday over a tweet that some users saw as a thinly veiled ultimatum when it comes to receiving a COVID-19 jab.",
@@ -1241,118 +1341,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-05-12-biden-signs-cybersecurity-executive-order-though-rules-wouldnt-have-applied-to-colonial-pipeline.md",
-      "title": "Biden signs cybersecurity executive order, though rules wouldn't have applied to Colonial Pipeline",
-      "excerpt": "President Joe Biden signed an executive order Wednesday meant to better protect the nation from cyberattacks, but even as he signed it, the White House acknowledged more will need to be done to prevent the type of hack that affected the Colonial Pipeline.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/12gzgGnLCC0/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/12gzgGnLCC0/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 181,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210512155902-04-pipeline-hack-fallout-0512-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/12/politics/cybersecurity-executive-order/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/12/politics/cybersecurity-executive-order/index.html",
-      "publishedDateTime": "2021-05-12T15:51:25-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-12-former-acting-defense-secretary-christopher-miller-walks-back-trump-blame-for-jan-6-riots.md",
-      "title": "Former acting Defense Secretary Christopher Miller walks back Trump blame for Jan. 6 riots",
-      "excerpt": "Former acting Secretary of Defense Christopher Miller said Tuesday during a hearing on the Jan. 6 riot he’d “reassessed” his previous evaluation that former President Trump’s speech that day had led to his supporters storming the Capitol.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/FnofpdG39B8/former-acting-defense-sec-christopher-miller-walks-back-trump-blame-for-jan-6-riots",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/FnofpdG39B8/former-acting-defense-sec-christopher-miller-walks-back-trump-blame-for-jan-6-riots",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 225,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/720/405/gettyimages-Christopher-miller.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/former-acting-defense-sec-christopher-miller-walks-back-trump-blame-for-jan-6-riots.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/former-acting-defense-sec-christopher-miller-walks-back-trump-blame-for-jan-6-riots.amp",
-      "publishedDateTime": "2021-05-12T15:10:47-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

@@ -399,6 +399,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden administration asks for billions in disaster and refugee funding in request to keep government running"
+    excerpt: "The Biden administration is asking for billions of dollars for extreme weather recovery efforts and the resettlement of Afghan refugees in its proposal to keep the government funded past September 30.\n    \n"
+    publishedDateTime: 2021-09-07T19:07:02Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2IZJS_VjGEA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/09/07/politics/administration-budget-request-extreme-weather-afghan-refugees/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/09/07/politics/administration-budget-request-extreme-weather-afghan-refugees/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 156
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210907143144-03-biden-new-jersey-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden says he'll press Congress on infrastructure after wildfires and Ida wreak havoc on US: 'The climate crisis is here'"
     excerpt: "President Joe Biden said Thursday he had spoken to the governors of New York and New Jersey after remnants of Hurricane Ida caused dangerous flash floods and tornadoes across the Northeast.\n    \n"
     publishedDateTime: 2021-09-02T17:39:03Z

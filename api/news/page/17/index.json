@@ -2,6 +2,119 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2021-07-28-biden-confuses-trump-with-obama-calls-it-freudian-slip.md",
+      "title": "Biden confuses Trump with Obama, calls it 'Freudian slip'",
+      "excerpt": "President Biden mixed up former President Obama and former President Trump during a speech Wednesday in what he referred to as a \"Freudian slip.\"",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/hiSObmVXOXA/biden-confuses-trump-obama-freudian",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/hiSObmVXOXA/biden-confuses-trump-obama-freudian",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 370,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/eebeb2c4-cd6e-471f-9a7b-7e1df898ef0f/1f09892a-f282-4ca0-b419-4cecdd6fe1ab/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-confuses-trump-obama-freudian.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-confuses-trump-obama-freudian.amp",
+      "publishedDateTime": "2021-07-28T12:51:18-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-29-jd-vance-rips-nyt-reporters-tweet-about-trump-voters-are-me-and-my-family-domestic-terrorists.md",
+      "title": "JD Vance rips NYT reporter's tweet about Trump voters: ‘Are me and my family domestic terrorists?’",
+      "excerpt": "Ohio Senate candidate J.D. Vance ripped into The New York Times’ Katie Benner on Wednesday after the reporter suggested in a tweet that Trump supporters should be considered 'enemies of the state' following the first day of testimony at the Jan.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/jd-vance-new-york-times-trump-voters-tweet",
+      "originalUrl": "https://www.foxnews.com/media/jd-vance-new-york-times-trump-voters-tweet",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/98734d9c-03bd-4266-a20b-d1e0ee3ed71b/ca1baf02-9b4b-4991-b193-43f2c03cd2ff/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/jd-vance-new-york-times-trump-voters-tweet.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/jd-vance-new-york-times-trump-voters-tweet.amp",
+      "publishedDateTime": "2021-07-28T11:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-28-mcauliffe-attacks-youngkin-by-tying-him-to-trumps-election-lies.md",
       "title": "McAuliffe attacks Youngkin by tying him to Trump's election lies ",
       "excerpt": "Virginia's Terry McAuliffe, in an effort to tie his gubernatorial opponent, Glenn Youngkin, to all things Donald Trump, is now linking the Republican nominee to the former President's top focus: so-called election integrity.\n    \n",
@@ -1202,105 +1315,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-26-trump-ally-tom-barrack-pleads-not-guilty-in-foreign-lobbying-case.md",
-      "title": "Trump ally Tom Barrack pleads not guilty in foreign lobbying case ",
-      "excerpt": "Tom Barrack, a longtime ally of former President Donald Trump and chairman of the Trump 2016 Inaugural Committee, pleaded not guilty through his attorney on Monday to illegal foreign lobbying charges unveiled by the Justice Department last week.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rmU4oL47-EQ/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rmU4oL47-EQ/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 555,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210726113600-tom-barrack-criminal-court-new-york-0726-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/26/politics/tom-barrack-plea-not-guilty-foreign-lobbying-charges/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/26/politics/tom-barrack-plea-not-guilty-foreign-lobbying-charges/index.html",
-      "publishedDateTime": "2021-07-26T11:41:02-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-26-president-joe-biden-picks-suffolk-da-rachael-rollins-as-next-us-attorney.md",
-      "title": "President Joe biden picks Suffolk DA Rachael Rollins as next US attorney",
-      "excerpt": "President Joe Biden on Monday announced Suffolk County District Attorney Rachael Rollins as his nominee to be the next top federal prosecutor in Massachusetts, a historic move that",
-      "sourceUrl": null,
-      "webUrl": "https://www.sentinelandenterprise.com/2021/07/26/president-joe-biden-picks-suffolk-da-rachael-rollins-as-next-us-attorney/",
-      "originalUrl": "https://www.sentinelandenterprise.com/2021/07/26/president-joe-biden-picks-suffolk-da-rachael-rollins-as-next-us-attorney/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.sentinelandenterprise.com/wp-content/uploads/2021/07/112219Youfn06.jpg?w=1024&#038;h=684",
-          "width": 1024,
-          "height": 684,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.sentinelandenterprise.com/2021/07/26/president-joe-biden-picks-suffolk-da-rachael-rollins-as-next-us-attorney/amp/",
-      "cdnAmpWebUrl": "https://www-sentinelandenterprise-com.cdn.ampproject.org/c/s/www.sentinelandenterprise.com/2021/07/26/president-joe-biden-picks-suffolk-da-rachael-rollins-as-next-us-attorney/amp/",
-      "publishedDateTime": "2021-07-26T09:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Sentinel & Enterprise",
-        "domain": "sentinelandenterprise.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

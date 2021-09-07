@@ -2,6 +2,118 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-06-13-pompeo-says-biden-admin-is-taking-america-back-to-obama-years-when-america-was-weak.md",
+      "title": "Pompeo says Biden admin is taking America back to Obama years when 'America was weak'",
+      "excerpt": "Former Secretary of State Mike Pompeo on Sunday said that when he hears the Biden administration talking about “taking America back\" he said they are talking about taking the United States back to the years when “America was weak” during the Obama administration",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/b-a-rOrqQ7w/pompeo-biden-admin-obama-years-america-weak",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/b-a-rOrqQ7w/pompeo-biden-admin-obama-years-america-weak",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 228,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c983db6c-a7f8-4557-9242-2c11f7ed9274/89a027bb-5a9d-4e72-846b-1d33d2f15e8d/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/pompeo-biden-admin-obama-years-america-weak.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pompeo-biden-admin-obama-years-america-weak.amp",
+      "publishedDateTime": "2021-06-13T08:50:23-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-13-biden-to-face-questions-about-rallying-allies-against-chinas-uyghur-treatment.md",
+      "title": "Biden to face questions about rallying allies against China's Uyghur treatment",
+      "excerpt": "President Biden could face questions about his progress convincing allies to publicly call out China over its Uyghur reeducation camps.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/lvJDbn5zp6g/biden-uk-china-uyghurs-g7-press-conference",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/lvJDbn5zp6g/biden-uk-china-uyghurs-g7-press-conference",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 191,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d3ff18a4-6c7f-4a39-a5da-be054b9d608d/2ce9defe-82e0-4faa-909b-84ab2b1e248b/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-uk-china-uyghurs-g7-press-conference.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-uk-china-uyghurs-g7-press-conference.amp",
+      "publishedDateTime": "2021-06-13T06:24:50-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-12-judge-halts-bidens-race-based-aid-for-farmers-says-challenge-is-likely-to-succeed.md",
       "title": "Judge halts Biden's race-based aid for farmers, says challenge is 'likely to succeed'",
       "excerpt": "A Wisconsin federal judge ordered a temporary halt to a $4 billion race-based federal relief program for farmers on Thursday.",
@@ -1542,119 +1654,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-08-kamala-harris-guatemala-comments-wouldve-led-media-to-brand-her-a-racist-6-months-ago-gutfeld-says.md",
-      "title": "Kamala Harris' Guatemala comments would've led media to brand her a 'racist' 6 months ago, Gutfeld says",
-      "excerpt": "Vice President Kamala Harris issued cautionary remarks directed people who may seek to illegally immigrate to the US through the southern border, which Greg Gutfeld commented that those remarks would be considered racist during the Trump administration on \"The Five\".",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/kamala-harris-guatemala-comments-media-brand-her-racist-months-ago-gutfeld",
-      "originalUrl": "https://www.foxnews.com/media/kamala-harris-guatemala-comments-media-brand-her-racist-months-ago-gutfeld",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/00b804f7-55d2-43fd-8325-c596d752f467/6a0dfc8a-4dfe-456b-8ac8-621f5c277501/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/kamala-harris-guatemala-comments-media-brand-her-racist-months-ago-gutfeld.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/kamala-harris-guatemala-comments-media-brand-her-racist-months-ago-gutfeld.amp",
-      "publishedDateTime": "2021-06-07T17:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-07-obama-reacts-to-rise-in-anti-semitism-says-trump-fanned-those-flames.md",
-      "title": "Obama reacts to rise in anti-Semitism, says Trump 'fanned those flames'",
-      "excerpt": "Former President Barack Obama is pointing to his successor as the reason for the rise in anti-Semitism in the United States. In an exclusive interview with Jewish Insider, Obama blamed said former President Donald Trump “fanned those flames\" during his tenure in office.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xAJLo3HclHs/obama-reacts-rise-antisemitism-trump-fanned-flames",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xAJLo3HclHs/obama-reacts-rise-antisemitism-trump-fanned-flames",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a2e4f9aa-47a8-4f80-9d23-fab0e07698c6/59c03c6e-b1f3-4809-b8f0-009b923c55ae/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/obama-reacts-rise-antisemitism-trump-fanned-flames.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/obama-reacts-rise-antisemitism-trump-fanned-flames.amp",
-      "publishedDateTime": "2021-06-07T16:07:38-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Republican Voice"
       ]
     }

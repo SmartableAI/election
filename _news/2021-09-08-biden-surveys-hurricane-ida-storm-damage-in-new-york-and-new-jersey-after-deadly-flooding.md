@@ -55,6 +55,20 @@ related:
         width: 1034
         height: 630
         isCached: true
+  - title: "Joe Biden surveys Hurricane Ida storm damage in New York and New Jersey after deadly flooding"
+    excerpt: "Pointing accusingly at climate change, President Joe Biden toured deadly Northeast flood damage Tuesday and said he was thinking about the all families who suffered"
+    publishedDateTime: 2021-09-07T17:26:00Z
+    webUrl: "https://www.nola.com/news/hurricane/article_c7ff78bc-1000-11ec-a4d1-abcd59d32880.html"
+    type: article
+    provider:
+      name: NOLA.com
+      domain: nola.com
+    quality: 44
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/nola.com/content/tncms/assets/v3/editorial/c/e7/ce7a7b82-1001-11ec-bdf6-3b601b56bba8/6137a290a98b4.image.jpg?resize=945%2C630"
+        width: 945
+        height: 630
+        isCached: true
 
 secured: "pcUgLrJQi9y2G9XvyBoJdXvxFQYabsNkfCL2hqEJL/VTz8zecenw5+4bj418+6n6LaFICEfdR9qJW29IiQiLWymqHCM0VkscIvPfbkzvg8t+8J5rwuEuAMxxQqo2Ed1mUXl31X0Z+VxBMKC4yH7LUknjm0/6E9IKAoo9SdZ5nOJ1gS1xlcVY0itlUatMqLnT2VwP7hKtDDynXltq9Bn9M/nyxBD6YRBx3a8PnjBnw8d/xAWufCNaZKxdeureGeETqAq7xFTtjdioxIvRCkGQR9G7EoPBb5F+of3UerFX8Gskz7suhe08PqtZFPwLHnAAnfPgNppey0dTeuEG6fnwmB46s6Ck94ESmYGGy4mMrwM=;9FfyZM8C9JqEEIaJ6QJN4Q=="
 ---

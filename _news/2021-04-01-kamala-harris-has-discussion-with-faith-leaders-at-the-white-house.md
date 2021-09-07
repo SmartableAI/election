@@ -797,6 +797,20 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Kamala Harris to campaign with Gavin Newsom in final stretch before California recall election"
+    excerpt: "Vice President Kamala Harris will campaign with California Gov. Gavin Newsom on Wednesday in the Bay Area, following through on her commitment to help the embattled Democratic governor defeat the"
+    publishedDateTime: 2021-09-04T17:25:00Z
+    webUrl: "https://www.gwinnettdailypost.com/news/kamala-harris-to-campaign-with-gavin-newsom-in-final-stretch-before-california-recall-election/article_87e1ea4f-40d0-54dd-b1ae-c99bc0617916.html"
+    type: article
+    provider:
+      name: Gwinnett Daily Post
+      domain: gwinnettdailypost.com
+    quality: 58
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/gwinnettdailypost.com/content/tncms/assets/v3/editorial/a/32/a32c8366-0dc3-11ec-a984-7ff65d127747/6133df44dd8da.image.jpg?resize=1119%2C630"
+        width: 1119
+        height: 630
+        isCached: true
   - title: "Kamala Harris to move into official VP residence next week"
     excerpt: "After more than two months of living in temporary housing, Vice President Kamala Harris will soon be able to unpack and unwind at her official residence on the grounds of the U.S. Naval Observatory."
     publishedDateTime: 2021-04-02T12:03:00Z

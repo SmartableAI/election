@@ -2,6 +2,118 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2021-07-10-justice-department-releases-videos-of-jan-6-cop-dragging-attack-near-pro-trump-rioter-who-died.md",
+      "title": "Justice Department releases videos of Jan. 6 cop-dragging attack near pro-Trump rioter who died",
+      "excerpt": "The Justice Department released new police body camera footage Friday showing one of the most disturbing assaults during the Capitol insurrection -- where three officers waded into the crowd to save a pro-Trump rioter who was trampled, only to be stripped of their protective gear, dragged down a set",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ZQIQLzYLYpE/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ZQIQLzYLYpE/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 203,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/191113111541-us-capitol-impeachment-hearing-1113-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/09/politics/justice-department-video-released-january-6/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/09/politics/justice-department-video-released-january-6/index.html",
+      "publishedDateTime": "2021-07-09T18:00:34-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-10-donald-trump-jr-tears-into-avenatti-fauci-hunter-biden-and-cnn-in-a-fiery-cpac-dallas-speech.md",
+      "title": "Donald Trump Jr. tears into Avenatti, Fauci, Hunter Biden, and CNN in a fiery CPAC Dallas speech",
+      "excerpt": "Donald Trump Jr. took aim at several high-profile targets during a fiery speech at CPAC in Dallas.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/VRqfz9RzIuw/donald-trump-jr-cpac-dallas",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/VRqfz9RzIuw/donald-trump-jr-cpac-dallas",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 297,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/17d470ea-38fb-4d7f-b7a5-03a24b8cdba2/d107bd62-0119-4c28-b168-13c81a54275f/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/donald-trump-jr-cpac-dallas.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/donald-trump-jr-cpac-dallas.amp",
+      "publishedDateTime": "2021-07-09T17:58:18-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-10-cpac-trump-jr-calls-biden-dolt-gloats-that-stripper-stormy-daniels-lawyer-is-going-to-prison.md",
       "title": "CPAC: Trump Jr. calls Biden ‘dolt,’ gloats that stripper Stormy Daniels’ lawyer is going to prison",
       "excerpt": "Calling the president who ousted his dad a “dolt” whose aides reward him with ice cream when he doesn’t fumble his lines, Donald Trump Jr.",
@@ -1247,101 +1359,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-07-09-kamala-harris-joins-dnc-to-announce-expansion-of-i-will-vote-campaign.md",
-      "title": "Kamala Harris joins DNC to announce expansion of \"I Will Vote\" campaign",
-      "excerpt": "Vice President Harris on Thursday helped the Democratic National Committee announce an expansion of its \"I Will Vote\" campaign, which focuses on promoting voter registration and participation among minorities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/video/kamala-harris-democrats-i-will-vote-campaign/",
-      "originalUrl": "https://www.cbsnews.com/video/kamala-harris-democrats-i-will-vote-campaign/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2021/07/08/eb79983b-83fe-4e13-921f-49af9512cd63/thumbnail/1200x630/7c220e32a1fe3d584e4098b17c57013b/cbsn-fusion-kamala-harris-democrats-i-will-vote-campaign-thumbnail-749879-640x360.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-08T12:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-07-09-mike-pence-reportedly-once-lost-it-after-trump-threw-a-crumpled-newspaper-article-at-him.md",
-      "title": "Mike Pence reportedly once 'lost it' after Trump threw a crumpled newspaper article at him",
-      "excerpt": "Former Vice President Mike Pence reportedly \"lost it\" and \"snarled\" at former President Donald Trump in 2018 after getting a crumpled up newspaper article thrown at him. At the time, Pence's political committee had just hired Trump's adviser Corey Lewandowski,",
-      "sourceUrl": null,
-      "webUrl": "https://theweek.com/mike-pence/1002422/mike-pence-reportedly-once-lost-it-after-trump-threw-a-crumpled-newspaper",
-      "originalUrl": "https://theweek.com/mike-pence/1002422/mike-pence-reportedly-once-lost-it-after-trump-threw-a-crumpled-newspaper",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mediacloud.theweek.com/image/upload/f_auto,t_primary-image-mobile@1/v1625768503/GettyImages-1208915582%20%281%29.jpg",
-          "width": 375,
-          "height": 211,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://theweek.com/mike-pence/1002422/mike-pence-reportedly-once-lost-it-after-trump-threw-a-crumpled-newspaper?amp",
-      "cdnAmpWebUrl": "https://theweek-com.cdn.ampproject.org/c/s/theweek.com/mike-pence/1002422/mike-pence-reportedly-once-lost-it-after-trump-threw-a-crumpled-newspaper?amp",
-      "publishedDateTime": "2021-07-08T12:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "THE WEEK",
-        "domain": "theweek.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
       ]
     }
   ],

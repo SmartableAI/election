@@ -2,6 +2,114 @@
   "page": 76,
   "value": [
     {
+      "path": "_news/2021-04-03-bidens-quest-to-pass-a-multitrillion-dollar-spending-bill-could-be-imperiled-by-legislative-fatigue.md",
+      "title": "Biden's quest to pass a multitrillion-dollar spending bill could be imperiled by 'legislative fatigue'",
+      "excerpt": "President Biden and Congressional Democrats are prepping trillions of dollars in new spending.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/sTZ2qcybLXw/bidens-quest-multitrillion-spending-bill-legislative-fatigue",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/sTZ2qcybLXw/bidens-quest-multitrillion-spending-bill-legislative-fatigue",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/340/340/PergramNewPic-e1538074445253.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/bidens-quest-multitrillion-spending-bill-legislative-fatigue.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-quest-multitrillion-spending-bill-legislative-fatigue.amp",
+      "publishedDateTime": "2021-04-03T07:13:11-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-03-is-mlb-losing-tremendous-numbers-of-fans-as-donald-trump-claims.md",
+      "title": "Is MLB Losing 'Tremendous Numbers of Fans,' as Donald Trump Claims?",
+      "excerpt": "Former President Donald Trump called for a boycott of Major League Baseball (MLB) on Friday in response to their decision to move the All-Star Game out of Georgia due to the state's controversial new election law. \"Baseball is already losing tremendous ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/mlb-losing-fans-donald-trump-claims-1580852",
+      "originalUrl": "https://www.newsweek.com/mlb-losing-fans-donald-trump-claims-1580852",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1771314/los-angeles-dodgers-celebrate-their-victory.jpg",
+          "width": 3413,
+          "height": 2275,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/mlb-losing-fans-donald-trump-claims-1580852?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mlb-losing-fans-donald-trump-claims-1580852?amp=1",
+      "publishedDateTime": "2021-04-03T06:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-04-03-trump-on-the-ballot-again-daughter-in-law-lara-ponders-senate-run.md",
       "title": "Trump on the ballot again? Daughter-in-law Lara ponders Senate run",
       "excerpt": "Photograph: Chip Somodevilla/Getty Images The Trump flags and yard signs are still up. Flags that shout “Impeach Biden” fly on the back of pickup trucks. “Most people here believe Donald Trump is still the president,” says Nancy Allen of her ...",
@@ -1244,114 +1352,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-01-biden-supports-vaccines-for-undocumented-immigrants-psaki.md",
-      "title": "Biden supports vaccines for undocumented immigrants: Psaki",
-      "excerpt": "White House press secretary Jen Psaki said during Thursday's press briefing that President Biden supports coronavirus vaccines for undocumented immigrants.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/EV8mr7fjMXU/biden-vaccines-undocumented-immigrants-coronavirus-florida",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/EV8mr7fjMXU/biden-vaccines-undocumented-immigrants-coronavirus-florida",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 375,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/COVID-Vaccine-AP.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-vaccines-undocumented-immigrants-coronavirus-florida.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-vaccines-undocumented-immigrants-coronavirus-florida.amp",
-      "publishedDateTime": "2021-04-01T12:48:37-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-02-kamala-harris-and-doug-emhoff-to-move-into-vice-presidents-residence-after-two-month-delay.md",
-      "title": "Kamala Harris and Doug Emhoff to move into vice president's residence after two-month delay",
-      "excerpt": "Vice President Kamala Harris is finally moving into the Naval Observatory next week according to chief spokesperson Symone Sanders, over two months after Inauguration Day. Harris and her husband, second gentleman Doug Emhoff, couldn't immediately settle in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/kamala-harris-and-doug-emhoff-to-move-into-vice-presidents-residence-after-two-month-delay/",
-      "originalUrl": "https://www.cbsnews.com/news/kamala-harris-and-doug-emhoff-to-move-into-vice-presidents-residence-after-two-month-delay/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2021/01/21/148495a4-3240-4dc0-8427-641d12f7e7a7/thumbnail/1200x630/991e9902f84e80b7f0fe3aeb916af9b7/ap-18075519617702.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/kamala-harris-and-doug-emhoff-to-move-into-vice-presidents-residence-after-two-month-delay/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/kamala-harris-and-doug-emhoff-to-move-into-vice-presidents-residence-after-two-month-delay/",
-      "publishedDateTime": "2021-04-01T11:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
       ]
     }
   ],

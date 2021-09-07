@@ -75,6 +75,22 @@ related:
         width: 400
         height: 266
         isCached: true
+  - title: "President Biden surveys deadly storm damage in New York, New Jersey and talks climate change"
+    excerpt: "Pointing accusingly at climate change, President Joe Biden toured deadly Northeast flood damage Tuesday and said he was thinking about the families who suffered “profound” losses from the powerful remnants of Hurricane Ida."
+    publishedDateTime: 2021-09-07T19:54:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-biden-hurricane-ida-20210907-yq524qtn5netbmnkl64ylcptaa-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-biden-hurricane-ida-20210907-yq524qtn5netbmnkl64ylcptaa-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-biden-hurricane-ida-20210907-yq524qtn5netbmnkl64ylcptaa-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 114
+    images:
+      - url: "https://www.chicagotribune.com/resizer/kJmpj6pnNlnxKKS4v4XGZebvdDI=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/AN3G65S5JVGRVN7WWUNJKSM6BU.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Joe Biden’s future looks bleak – he’s shamed and endangered the West"
     excerpt: "A broken man THE charge sheet against Joe Biden grows by the day. It’s not just that his reckless, casual disregard for Afghanistan and its ­people led directly to the suicide bomb slaughter of 13"
     publishedDateTime: 2021-08-28T01:58:00Z
@@ -315,6 +331,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Lying Joe Biden, from comedy to tragedy"
+    excerpt: "How could a comic figure from the world of politics such as President Joe Biden suddenly become such a tragic figure on the American scene?"
+    publishedDateTime: 2021-09-07T19:18:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/sep/7/lying-joe-biden-from-comedy-to-tragedy/"
+    ampWebUrl: "https://amp.washingtontimes.com/news/2021/sep/7/lying-joe-biden-from-comedy-to-tragedy/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/sep/7/lying-joe-biden-from-comedy-to-tragedy/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 75
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2021/09/07/B1-Tyrrell_c0-149-1800-1199_s1200x700.jpg?fe21c64950503d8fffef41ed363bae5783de6b1f"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "President Joe Biden to mark 20th anniversary of 9/11 at 3 memorial sites"
     excerpt: "President Joe Biden will visit ground zero in New York City, the Pentagon and the memorial outside Shanksville, Pennsylvania, where United Flight 93 was forced down, the White House said Saturday."
     publishedDateTime: 2021-09-04T19:29:00Z
@@ -502,6 +534,34 @@ related:
       - url: "https://cdn.field59.com/KOTV/f58dabc5824654575d05dbb188862042667ecc0b_Screenshot_2021_09_07_063328_custom.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Biden surveys NY and NJ storm damage, talks climate change"
+    excerpt: "Pointing accusingly at climate change, President Joe Biden toured deadly Northeast flood damage Tuesday and said he was thinking about the families who suffered “profound” losses"
+    publishedDateTime: 2021-09-07T19:25:00Z
+    webUrl: "https://www.stltoday.com/news/national/govt-and-politics/biden-surveys-ny-and-nj-storm-damage-talks-climate-change/article_d1261433-e656-5de3-b2cf-9b760a88456d.html"
+    type: article
+    provider:
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 55
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/f/a5/fa522c10-4e46-5b47-af72-c68600625cd8/613754cde309a.image.jpg?crop=1446%2C813%2C0%2C75&resize=1120%2C630&order=crop%2Cresize"
+        width: 1120
+        height: 630
+        isCached: true
+  - title: "Biden tours Ida damage, warns climate change 'here'"
+    excerpt: "During a visit to storm-ravaged New Jersey to tour areas devastated by Hurricane Ida's flooding, President Joe Biden warned Tuesday that climate change is here and said the nation has no more time to waste in dealing with it."
+    publishedDateTime: 2021-09-07T19:40:00Z
+    webUrl: "https://www.desmoinesregister.com/videos/news/nation/2021/09/07/biden-tours-ida-damage-warns-climate-change-here/5758461001/"
+    type: article
+    provider:
+      name: Des Moines Register
+      domain: desmoinesregister.com
+    quality: 55
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/b917b3a1-6b50-4e92-b591-0026827665af_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "President Biden Departs White House for New Jersey and New York"
     excerpt: "President Joe Biden speaks with reporters prior to departing the White House via Marine One on Tuesday, September 7, 2021 in Washington, DC. Biden will travel to New Jersey and New York to tour areas effected by Hurricane Ida and meet with local leaders."

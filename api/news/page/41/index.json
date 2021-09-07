@@ -2,6 +2,105 @@
   "page": 41,
   "value": [
     {
+      "path": "_news/2021-06-13-biden-to-face-questions-about-rallying-allies-against-chinas-uyghur-treatment.md",
+      "title": "Biden to face questions about rallying allies against China's Uyghur treatment",
+      "excerpt": "President Biden could face questions about his progress convincing allies to publicly call out China over its Uyghur reeducation camps.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/lvJDbn5zp6g/biden-uk-china-uyghurs-g7-press-conference",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/lvJDbn5zp6g/biden-uk-china-uyghurs-g7-press-conference",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 191,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d3ff18a4-6c7f-4a39-a5da-be054b9d608d/2ce9defe-82e0-4faa-909b-84ab2b1e248b/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-uk-china-uyghurs-g7-press-conference.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-uk-china-uyghurs-g7-press-conference.amp",
+      "publishedDateTime": "2021-06-13T06:24:50-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-13-mike-pence-wife-buy-suburban-indianapolis-home-for-193m.md",
+      "title": "Mike Pence, Wife Buy Suburban Indianapolis Home for $1.93M",
+      "excerpt": "Former Vice President Mike Pence and his wife have purchased a $1.93 million suburban Indianapolis house that sits on a 5-acre spread and features seven bedrooms, a swimming pool and an indoor basketball court.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnewyork.com/news/national-international/mike-pence-wife-buy-suburban-indianapolis-home-for-1-93m/3104043/",
+      "originalUrl": "https://www.nbcnewyork.com/news/national-international/mike-pence-wife-buy-suburban-indianapolis-home-for-1-93m/3104043/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/media.nbcnewyork.com/2020/08/GettyImages-1169849230.jpg?crop=0px%2C44px%2C4991px%2C2807px&quality=85&resize=1200%2C675&strip=all&ssl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnewyork.com/news/national-international/mike-pence-wife-buy-suburban-indianapolis-home-for-1-93m/3104043/?amp",
+      "cdnAmpWebUrl": "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/mike-pence-wife-buy-suburban-indianapolis-home-for-1-93m/3104043/?amp",
+      "publishedDateTime": "2021-06-12T22:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC New York",
+        "domain": "nbcnewyork.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-06-13-lara-trump-urges-americans-living-at-southern-border-to-arm-up-get-guns.md",
       "title": "Lara Trump Urges Americans Living at Southern Border to 'Arm Up, Get Guns'",
       "excerpt": "Lara Trump, former President Donald Trump's daughter-in-law, on Saturday night urged Americans living at the southern border to \"arm up\" and \"get guns\" as she railed against President Joe Biden's immigration policies.",
@@ -1218,106 +1317,6 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-11-biden-administration-restores-929-mln-for-california-high-speed-rail.md",
-      "title": "Biden administration restores $929 mln for California high speed rail",
-      "excerpt": "U.S. President Joe Biden's administration and California on Thursday reached a settlement to restore a $929 million grant agreement that former president Donald Trump tried to revoke.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/usa-rail-california/biden-administration-restores-929-mln-for-california-high-speed-rail-idUSL3N2NT138",
-      "originalUrl": "https://www.reuters.com/article/usa-rail-california/biden-administration-restores-929-mln-for-california-high-speed-rail-idUSL3N2NT138",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 185,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20210611&t=2&i=1565317703&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH5A0AE",
-          "width": 792,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKCN2DN0DY",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2DN0DY",
-      "publishedDateTime": "2021-06-10T22:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-06-11-mike-pence-buys-19m-indiana-home-packed-with-amenities.md",
-      "title": "Mike Pence buys $1.9M Indiana home packed with amenities",
-      "excerpt": "The former Vice President and his wife Karen, have put their Washington D.C. days behind them and are now living in a $1.93 million Indiana home they purchased last month.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/06/10/mike-pence-buys-1-9m-indiana-home-packed-with-amenities/",
-      "originalUrl": "https://nypost.com/2021/06/10/mike-pence-buys-1-9m-indiana-home-packed-with-amenities/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/06/Pence-Mansion.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/06/10/mike-pence-buys-1-9m-indiana-home-packed-with-amenities/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/10/mike-pence-buys-1-9m-indiana-home-packed-with-amenities/amp/",
-      "publishedDateTime": "2021-06-10T17:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
         "Republican Voice"
       ]
     }

@@ -2,6 +2,115 @@
   "page": 52,
   "value": [
     {
+      "path": "_news/2021-05-21-jimmy-kimmel-believes-trump-would-flip-on-his-own-children.md",
+      "title": "Jimmy Kimmel Believes Trump Would Flip on His Own Children",
+      "excerpt": "Kimmel agreed with Michael Cohen, the former president’s longtime personal lawyer, who said in an interview that Trump would turn on anyone to save himself.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/05/21/arts/television/late-night-jimmy-kimmel-trump-children.html",
+      "originalUrl": "https://www.nytimes.com/2021/05/21/arts/television/late-night-jimmy-kimmel-trump-children.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/05/21/arts/21latenight/21latenight-facebookJumbo.png",
+          "width": 909,
+          "height": 476,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/05/21/arts/television/late-night-jimmy-kimmel-trump-children.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/05/21/arts/television/late-night-jimmy-kimmel-trump-children.amp.html",
+      "publishedDateTime": "2021-05-20T23:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-21-trump-justice-dept-secretly-obtained-cnn-correspondents-phone-email-records.md",
+      "title": "Trump Justice Dept. secretly obtained CNN correspondent’s phone, email records",
+      "excerpt": "The revelation underscores how the previous administration was willing to seek journalists’ data to investigate unwanted disclosures.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/national-security/trump-cnn-email-phone-records/2021/05/20/457daa70-b9bc-11eb-96b9-e949d5397de9_story.html",
+      "originalUrl": "https://www.washingtonpost.com/national-security/trump-cnn-email-phone-records/2021/05/20/457daa70-b9bc-11eb-96b9-e949d5397de9_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 161,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LQQAWZW3RAI6RNZSHRZMX4JR6I.jpg&w=1440",
+          "width": 1440,
+          "height": 890,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/national-security/trump-cnn-email-phone-records/2021/05/20/457daa70-b9bc-11eb-96b9-e949d5397de9_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/trump-cnn-email-phone-records/2021/05/20/457daa70-b9bc-11eb-96b9-e949d5397de9_story.html?outputType=amp",
+      "publishedDateTime": "2021-05-20T21:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-05-21-sure-mccarthy-says-hed-tell-jan-6-commission-about-trump-phone-call.md",
       "title": "‘Sure’: McCarthy says he’d tell Jan. 6 commission about Trump phone call",
       "excerpt": "House Minority Leader Kevin McCarthy signaled Thursday that he’d be willing to detail his phone conversation with then-President Donald Trump during the Jan. 6 Capitol riot.",
@@ -1212,119 +1321,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-19-new-york-attorney-general-adds-criminal-capacity-to-probe-of-trump-organization.md",
-      "title": "New York attorney general adds 'criminal capacity' to probe of Trump Organization",
-      "excerpt": "New York Attorney General Letitia James is joining the Manhattan district attorney's office in a criminal investigation of the Trump Organization, James' office said Tuesday.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rxIdNH0extc/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rxIdNH0extc/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 230,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/180108075309-trump-tower-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/18/politics/new-york-attorney-general-trump-organization-criminal-probe/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/18/politics/new-york-attorney-general-trump-organization-criminal-probe/index.html",
-      "publishedDateTime": "2021-05-18T20:32:24-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-19-kirstie-alley-shares-details-with-tucker-on-backlash-for-supporting-trump-feels-like-twilight-zone.md",
-      "title": "Kirstie Alley shares details with Tucker on backlash for supporting Trump: Feels like ‘Twilight Zone'",
-      "excerpt": "Actress Kirstie Alley shares in the newest episode of Fox Nation’s 'Tucker Carlson Today' how being honest about her support for Donald Trump took an extreme turn.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/kirstie-alley-shares-details-with-tucker-on-backlash-for-supporting-trump-feels-like-twilight-zone",
-      "originalUrl": "https://www.foxnews.com/media/kirstie-alley-shares-details-with-tucker-on-backlash-for-supporting-trump-feels-like-twilight-zone",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8ea1fb3b-9765-46cd-895b-15f7b094208f/aef5a418-c8f2-4390-9fe6-69b13ba9c1fd/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/kirstie-alley-shares-details-with-tucker-on-backlash-for-supporting-trump-feels-like-twilight-zone.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/kirstie-alley-shares-details-with-tucker-on-backlash-for-supporting-trump-feels-like-twilight-zone.amp",
-      "publishedDateTime": "2021-05-18T20:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     }
   ],

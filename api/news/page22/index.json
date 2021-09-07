@@ -2,6 +2,114 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2021-07-17-levin-slams-biden-admins-relationship-with-facebook-calls-trumps-big-tech-lawsuit-slam-dunk.md",
+      "title": "Levin slams Biden admin's relationship with Facebook, calls Trump's Big Tech lawsuit 'slam dunk'",
+      "excerpt": "Conservative commentator and author Mark Levin slammed the Biden administration for its relationship with Silicon Valley in its bid to halt the spread of misinformation concerning vaccines.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ag7t6vogZ1A/levin-biden-administration-facebook-not-independent",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ag7t6vogZ1A/levin-biden-administration-facebook-not-independent",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 517,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8dd557d5-4070-482a-bf1c-9bd4730188fc/a1bea93a-e995-457f-b882-6ab308460503/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/levin-biden-administration-facebook-not-independent.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/levin-biden-administration-facebook-not-independent.amp",
+      "publishedDateTime": "2021-07-17T08:31:45-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-17-biden-pledges-appeal-of-deeply-disappointing-daca-ruling.md",
+      "title": "Biden pledges appeal of ‘deeply disappointing’ DACA ruling",
+      "excerpt": "Biden urged Congress to move forward with legislation to permanently protect those covered by the Deferred Action for Childhood Arrivals program.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2021/07/17/joe-biden-pledges-appeal-daca-ruling-deeply-disappointing/8001889002/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/07/17/joe-biden-pledges-appeal-daca-ruling-deeply-disappointing/8001889002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 205,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/07/12/USAT/c222758a-82e2-473d-9d80-155527a55e64-AP_Biden_1.jpg?auto=webp&crop=5999,3375,x0,y305&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/8001889002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/8001889002",
+      "publishedDateTime": "2021-07-17T08:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-07-17-things-keep-getting-worse-for-biden-blm-nominee-tracy-stone-manning.md",
       "title": "Things keep getting worse for Biden BLM nominee Tracy Stone-Manning",
       "excerpt": "Things keep getting worse for Tracy Stone-Manning, President Biden's nominee to lead the Bureau of Land Management.",
@@ -1236,119 +1344,6 @@
       "topics": [
         "Election",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-07-16-ruthless-podcast-plays-veep-or-veep-using-quotes-from-kamala-harris-fictional-vp-selina-meyer.md",
-      "title": "Ruthless podcast plays 'Veep or Veep' using quotes from Kamala Harris, fictional VP Selina Meyer",
-      "excerpt": "The \"Ruthless\" podcast debuted a new game on Thursday called \"Veep or Veep\" involving quotes made by Vice President Kamala Harris and fictional VP Selina Meyer.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/ruthless-podcast-veep-or-veep-kamala-harris-selina-meyer",
-      "originalUrl": "https://www.foxnews.com/media/ruthless-podcast-veep-or-veep-kamala-harris-selina-meyer",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/047dda84-2e62-4f40-92a8-090c4459b838/e0d0db1b-9ff6-4375-a047-9825c20eccbd/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/ruthless-podcast-veep-or-veep-kamala-harris-selina-meyer.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/ruthless-podcast-veep-or-veep-kamala-harris-selina-meyer.amp",
-      "publishedDateTime": "2021-07-15T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-15-biden-says-cuba-is-a-failed-state-and-calls-communism-a-universally-failed-system.md",
-      "title": "Biden says Cuba is a 'failed state' and calls communism 'a universally failed system'",
-      "excerpt": "President Joe Biden said on Thursday that Cuba is a \"failed state\" and called communism a \"failed system\" as protests play out against the Caribbean nation's repressive regime.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bHoC1da5Qcw/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bHoC1da5Qcw/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 168,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210715133120-01-biden-child-tax-credit-0715-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/15/politics/cuba-communism-biden/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/15/politics/cuba-communism-biden/index.html",
-      "publishedDateTime": "2021-07-15T15:36:50-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

@@ -2,6 +2,118 @@
   "page": 66,
   "value": [
     {
+      "path": "_news/2021-04-19-trump-to-hannity-gop-must-run-on-maga-agenda-if-they-want-to-retake-congress-in-2022.md",
+      "title": "Trump to Hannity: GOP must run on 'MAGA' agenda if they want to retake Congress in 2022",
+      "excerpt": "In an exclusive, hour-long interview with Fox News, former President Donald J. Trump will tell host Sean Hannity that the future of the Republican Party hinges on whether it can coalesce behind the \"Make America Great\" platform that brought new voters into the 'big tent' in both 2016 and 2020.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ky4jQEKi0yA/trump-to-hannity-gop-must-run-on-maga-agenda-if-they-want-to-retake-congress-in-2022",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ky4jQEKi0yA/trump-to-hannity-gop-must-run-on-maga-agenda-if-they-want-to-retake-congress-in-2022",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 227,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8619b06d-38ca-4ec4-92ac-536fe858ead7/a00b6967-d2cf-4458-bab9-114c11417d46/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-to-hannity-gop-must-run-on-maga-agenda-if-they-want-to-retake-congress-in-2022.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-to-hannity-gop-must-run-on-maga-agenda-if-they-want-to-retake-congress-in-2022.amp",
+      "publishedDateTime": "2021-04-19T14:28:29-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-19-psaki-says-biden-believes-protests-must-be-peaceful-after-maxine-waters-confrontational-comments.md",
+      "title": "Psaki says Biden believes ‘protests must be peaceful’ after Maxine Waters’ ‘confrontational’ comments",
+      "excerpt": "White House press secretary Jen Psaki said President Biden believes \"protests must be peaceful\" in response to Rep. Maxine Waters, D-Calif., calling for demonstrators to ramp up their actions in the event that Derek Chauvin is acquitted of murder for the death of George Floyd.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1dnlLGzm7ts/psaki-biden-believes-protests-peaceful-maxine-waters-comments",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1dnlLGzm7ts/psaki-biden-believes-protests-peaceful-maxine-waters-comments",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/psaki-biden-believes-protests-peaceful-maxine-waters-comments.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-biden-believes-protests-peaceful-maxine-waters-comments.amp",
+      "publishedDateTime": "2021-04-19T10:23:13-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-19-the-us-counties-lagging-in-covid-19-vaccinations-have-one-thing-in-common-trump-voters.md",
       "title": "The US counties lagging in COVID-19 vaccinations have one thing in common: Trump voters",
       "excerpt": "But in hundreds of counties around the country, vaccination rates are low, with some even languishing in the teens. The disparity in vaccination rates has so far mainly broken down along political lines.",
@@ -1250,119 +1362,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-04-16-trump-epa-appointee-blocked-public-release-of-cancer-danger-inspector-general-says.md",
-      "title": "Trump EPA appointee blocked public release of cancer danger, inspector general says",
-      "excerpt": "Trump administration political appointees at the Environmental Protection Agency repeatedly squashed efforts to warn the public about a cancer-causing gas in their neighborhood, according to a new review.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ywfjBkNVdiw/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ywfjBkNVdiw/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 229,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/170629172604-epa-environmental-protection-agency-logo-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/16/politics/epa-cancer-ethylene-oxide/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/16/politics/epa-cancer-ethylene-oxide/index.html",
-      "publishedDateTime": "2021-04-16T12:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-17-mcenany-liberal-media-ran-with-heinous-allegations-on-russian-bounties-to-hurt-trump.md",
-      "title": "McEnany: Liberal media ran with 'heinous' allegations on Russian bounties to hurt Trump",
-      "excerpt": "Former White House Press Secretary and co-host of 'Outnumbered' Kayleigh McEnany blasted reporters for putting forth a false narrative last year, after U.S. intelligence agencies began to backtrack on reports of Russian bounties being placed on U.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/mcenany-russia-bounty-claims-egregious-trump",
-      "originalUrl": "https://www.foxnews.com/media/mcenany-russia-bounty-claims-egregious-trump",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6c2fe82d-8748-49da-8649-c7d1e65a422c/9578fd0f-96b7-49f5-8bb7-281094431ef9/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/mcenany-russia-bounty-claims-egregious-trump.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/mcenany-russia-bounty-claims-egregious-trump.amp",
-      "publishedDateTime": "2021-04-16T11:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     }
   ],

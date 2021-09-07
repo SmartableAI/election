@@ -2,6 +2,115 @@
   "page": 64,
   "value": [
     {
+      "path": "_news/2021-04-23-outrageous-bank-regulator-lobbies-for-trump-era-rule-angering-democrats.md",
+      "title": "'Outrageous': Bank regulator lobbies for Trump-era rule, angering Democrats",
+      "excerpt": "Consumer watchdogs have warned that it could unleash predatory loans by enabling \"payday\" lenders to evade state interest rate caps.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2021/04/22/outrageous-bank-regulator-lobbies-for-trump-era-rule-angering-democrats-484295",
+      "originalUrl": "https://www.politico.com/news/2021/04/22/outrageous-bank-regulator-lobbies-for-trump-era-rule-angering-democrats-484295",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 133,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/9c/60/6fa5d152480e8c5e5c3979f428d6/190716-sherrod-brown-ap-773.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.com/amp/news/2021/04/22/outrageous-bank-regulator-lobbies-for-trump-era-rule-angering-democrats-484295",
+      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/04/22/outrageous-bank-regulator-lobbies-for-trump-era-rule-angering-democrats-484295",
+      "publishedDateTime": "2021-04-22T12:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-23-kerry-blasts-trump-for-pulling-out-of-the-paris-accord-without-any-scientific-evidence.md",
+      "title": "Kerry blasts Trump for pulling out of the Paris accord ‘without any scientific evidence’",
+      "excerpt": "Special presidential envoy for climate John F. Kerry on April 22 said the Biden administration had to restore credibility on climate after former president Donald Trump pulled out of the Paris climate accord \"without any scientific evidence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/video/politics/kerry-blasts-trump-for-pulling-out-of-the-paris-accord-without-any-scientific-evidence/2021/04/22/a8579bcc-bdf9-48f5-a569-039a3ae08043_video.html",
+      "originalUrl": "https://www.washingtonpost.com/video/politics/kerry-blasts-trump-for-pulling-out-of-the-paris-accord-without-any-scientific-evidence/2021/04/22/a8579bcc-bdf9-48f5-a569-039a3ae08043_video.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/04-22-2021/t_39115ea24e174c02b8ae6ab961c27f0a_name_e0ed4a54_a375_11eb_b314_2e993bd83e31.jpg&w=1080",
+          "width": 1080,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-22T11:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-04-22-with-trumps-backing-walker-freezes-senate-gop-field-in-georgia.md",
       "title": "With Trump's backing, Walker freezes Senate GOP field in Georgia  ",
       "excerpt": "Former President Donald Trump's backing of football great Herschel Walker to run for the Georgia Senate seat has been enough to effectively freeze the GOP field in place -- even though some Republicans privately worry the political neophyte might fizzle against Sen. Raphael Warnock in a high-stakes general",
@@ -1242,115 +1351,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-21-8-podcasts-to-help-make-sense-of-post-trump-america.md",
-      "title": "8 Podcasts to Help Make Sense of Post-Trump America",
-      "excerpt": "In the wake of a most untraditional presidency, these shows will keep you up-to-date on what’s happening in Washington and our politically polarized country.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/04/21/arts/podcasts-trump-politics.html",
-      "originalUrl": "https://www.nytimes.com/2021/04/21/arts/podcasts-trump-politics.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/04/25/arts/25podcasts/25podcasts-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/04/21/arts/podcasts-trump-politics.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/21/arts/podcasts-trump-politics.amp.html",
-      "publishedDateTime": "2021-04-21T08:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-21-ap-sources-biden-to-pledge-halving-greenhouse-gases-by-2030.md",
-      "title": "AP sources: Biden to pledge halving greenhouse gases by 2030",
-      "excerpt": "President Joe Biden will pledge to cut U.S. greenhouse gas emissions at least in half by 2030 as he convenes a virtual climate summit with 40 world leaders",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Business/wireStory/ap-sources-biden-pledge-halving-greenhouse-gases-2030-77214769",
-      "originalUrl": "https://abcnews.go.com/Business/wireStory/ap-sources-biden-pledge-halving-greenhouse-gases-2030-77214769",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 505,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/WireAP_72bb4a2d95044868a55d724a16676fed_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Business/wireStory/ap-sources-biden-pledge-halving-greenhouse-gases-2030-77214769",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/ap-sources-biden-pledge-halving-greenhouse-gases-2030-77214769",
-      "publishedDateTime": "2021-04-21T07:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

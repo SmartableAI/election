@@ -2,6 +2,118 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2021-04-12-biden-urges-calm-after-daunte-wright-shooting-says-no-justification-for-looting-violence.md",
+      "title": "Biden urges calm after Daunte Wright shooting, says 'no justification' for looting, violence",
+      "excerpt": "President Biden urged “peace and calm” on Monday as authorities investigate what led to the fatal police-involved shooting of a Black man during a traffic stop in the Minneapolis suburb of Brooklyn Center, Minnesota.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/6glzABee8e8/biden-urges-calm-daunte-wright-shooting-says-no-justification-for-looting-violence",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/6glzABee8e8/biden-urges-calm-daunte-wright-shooting-says-no-justification-for-looting-violence",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7ada110c-7331-40cd-a281-b8345420ab7d/6ec9a2e0-4688-40b3-b7bb-b7216727bf5a/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-urges-calm-daunte-wright-shooting-says-no-justification-for-looting-violence.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-urges-calm-daunte-wright-shooting-says-no-justification-for-looting-violence.amp",
+      "publishedDateTime": "2021-04-12T13:31:22-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-12-chris-christie-biden-lying-about-spending-package-going-toward-infrastructure.md",
+      "title": "Chris Christie: Biden 'lying' about spending package going toward 'infrastructure'",
+      "excerpt": "Chris Christie on Sunday accused President Biden of \"lying\" about his nearly $2 trillion infrastructure package — saying he’s calling a \"dog a cat\" because it goes far beyond rebuilding roads and bridges to include Democratic priorities like healthcare.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5hHd_PHUK-E/chris-christie-biden-lying-about-spending-package-going-toward-infrastructure",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5hHd_PHUK-E/chris-christie-biden-lying-about-spending-package-going-toward-infrastructure",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 189,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/458e1351-a334-436c-a243-c5de219cc253/ba8d7be5-8ec3-40ae-85ca-a697844886d5/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/chris-christie-biden-lying-about-spending-package-going-toward-infrastructure.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/chris-christie-biden-lying-about-spending-package-going-toward-infrastructure.amp",
+      "publishedDateTime": "2021-04-12T08:44:56-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-12-biden-aims-to-redefine-word-bipartisan-as-dems-work-to-push-spending-bill-without-any-gop-votes.md",
       "title": "Biden aims to redefine word ‘bipartisan’ as Dems work to push spending bill without any GOP votes",
       "excerpt": "President Biden vowed to bridge the partisan political divide but, struggling to garner Republican support for major bills, his administration appears to be changing the narrative by redefinining what \"bipartisan\" means.",
@@ -1565,119 +1677,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-08-biden-doj-slow-to-act-on-opioid-crisis-despite-ag-garland-saying-it-should-be-high-priority.md",
-      "title": "Biden DOJ slow to act on opioid crisis despite AG Garland saying it should be 'high priority'",
-      "excerpt": "Attorney General Merrick Garland pledged to make the opioid crisis still plaguing America a \"high priority\" for the Department of Justice (DOJ), but it seems as though the Biden administration has put the situation on the backburner.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/OCUIicke6Hw/biden-justice-department-opioid-crisis-merrick-garland",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/OCUIicke6Hw/biden-justice-department-opioid-crisis-merrick-garland",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9791ea4e-28cf-44ee-8e5e-eaf4871bac13/6e5b12ba-498f-4f5a-8725-881901e745e5/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-justice-department-opioid-crisis-merrick-garland.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-justice-department-opioid-crisis-merrick-garland.amp",
-      "publishedDateTime": "2021-04-08T07:06:44-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-08-gops-mccarthy-says-vp-harris-should-attend-fbi-cia-terror-briefing-i-know-she-hasnt-been-to-the-border.md",
-      "title": "GOP's McCarthy says VP Harris should attend FBI-CIA terror briefing: 'I know she hasn't been to the border'",
-      "excerpt": "House Minority Leader Kevin McCarthy confirmed Wednesday he has requested a classified briefing from the FBI and CIA over two Yemeni men on the FBI’s terror watch list who were allegedly caught crossing the U.S.-Mexico border two months apart this year.   ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/l2NdPX8M5DY/gops-mccarthy-says-vp-harris-should-attend-fbi-cia-terror-briefing-i-know-she-hasnt-been-to-the-border",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/l2NdPX8M5DY/gops-mccarthy-says-vp-harris-should-attend-fbi-cia-terror-briefing-i-know-she-hasnt-been-to-the-border",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 207,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/25765ca5-95d1-44bd-828f-9e689aac6cea/b5b7fab8-d56e-482d-97e5-1316f522bb1c/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/gops-mccarthy-says-vp-harris-should-attend-fbi-cia-terror-briefing-i-know-she-hasnt-been-to-the-border.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gops-mccarthy-says-vp-harris-should-attend-fbi-cia-terror-briefing-i-know-she-hasnt-been-to-the-border.amp",
-      "publishedDateTime": "2021-04-08T00:59:07-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Kamala Harris"
       ]
     }
   ],

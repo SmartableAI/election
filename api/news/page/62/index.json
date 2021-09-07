@@ -2,6 +2,118 @@
   "page": 62,
   "value": [
     {
+      "path": "_news/2021-04-29-bidens-immigration-policies-hurt-environment-arizona-green-groups-react-to-state-ags-lawsuit.md",
+      "title": "Biden's immigration policies hurt environment? Arizona green groups react to state AG's lawsuit",
+      "excerpt": "Arizona Attorney General Mark Brnovich is suing the Biden administration for failing to examine the environmental effects of its immigration policies.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/YHsDYT4QPRs/biden-immigration-environment-arizona-nepa-lawsuit",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/YHsDYT4QPRs/biden-immigration-environment-arizona-nepa-lawsuit",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 183,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ada9c350-7eb8-4879-8743-c26265764a68/7f71219a-1627-48b2-98d2-7f7f7531e024/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-immigration-environment-arizona-nepa-lawsuit.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-immigration-environment-arizona-nepa-lawsuit.amp",
+      "publishedDateTime": "2021-04-29T08:46:35-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-29-twitter-blocks-tim-scott-uncle-tim-topic-that-trended-for-hours-after-biden-rebuttal.md",
+      "title": "Twitter blocks Tim Scott 'Uncle Tim' topic that trended for hours after Biden rebuttal",
+      "excerpt": "Twitter on Thursday morning blocked the \"Uncle Tim\" trending topic – the racial slur that flooded the platform Wednesday night after Republican Sen. Tim Scott delivered his rebuttal to President Biden's address to Congress.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/sS46Nu5GFR0/twitter-blocks-tim-scott-uncle-tim-trending-topic-biden-rebuttal",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/sS46Nu5GFR0/twitter-blocks-tim-scott-uncle-tim-trending-topic-biden-rebuttal",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/twitter-blocks-tim-scott-uncle-tim-trending-topic-biden-rebuttal.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/twitter-blocks-tim-scott-uncle-tim-trending-topic-biden-rebuttal.amp",
+      "publishedDateTime": "2021-04-29T07:23:43-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-29-bidens-road-trip-starts-as-partisan-paths-loom-larger-the-note.md",
       "title": "Biden's road trip starts as partisan paths loom larger: The Note",
       "excerpt": "President Joe Biden and Vice President Kamala Harris hit the road -- a series of trips to mark 100 days in office that could define what the next 1,000 or so look like.",
@@ -1240,119 +1352,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-04-28-pompeo-slams-iran-news-when-i-was-briefing-trump-kerry-was-briefing-zarif.md",
-      "title": "Pompeo slams Iran news: 'When I was briefing Trump, Kerry was briefing Zarif'",
-      "excerpt": "Biden climate czar and former Senator John Kerry, D-Mass., was essentially acting in the same role Trump Secretary of State Mike Pompeo was, except in relation to Iranian Foreign Minister Mohammad Javad Zarif during the Republican president's administration, Pompeo told \"Hannity\" on Tuesday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/USljndIEoqc/pompeo-slams-iran-news-when-i-was-briefing-trump-kerry-was-briefing-zarif",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/USljndIEoqc/pompeo-slams-iran-news-when-i-was-briefing-trump-kerry-was-briefing-zarif",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 172,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0d680524-8d5e-4af4-9634-ee3d3c117942/72df003f-5c2a-49a6-be0e-459682735a16/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/pompeo-slams-iran-news-when-i-was-briefing-trump-kerry-was-briefing-zarif.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pompeo-slams-iran-news-when-i-was-briefing-trump-kerry-was-briefing-zarif.amp",
-      "publishedDateTime": "2021-04-27T19:39:16-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-28-new-york-post-temporarily-deletes-then-edits-false-story-that-claimed-harris-book-was-given-out-in-migrant-welcome-kits.md",
-      "title": "New York Post temporarily deletes, then edits false story that claimed Harris' book was given out in migrant 'welcome kits'",
-      "excerpt": "The New York Post temporarily deleted, and then edited and republished, a debunked article that falsely claimed that copies of Vice President Kamala Harris' book were being included in \"welcome kits\" given to migrant children at a shelter in Long Beach, California.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NEHePeGr9Go/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NEHePeGr9Go/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210427164345-01-kamala-harris-file-0422-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/27/politics/new-york-post-fact-check-kamala-harris-book-migrants/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/27/politics/new-york-post-fact-check-kamala-harris-book-migrants/index.html",
-      "publishedDateTime": "2021-04-27T17:03:28-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice",
-        "Kamala Harris"
       ]
     }
   ],

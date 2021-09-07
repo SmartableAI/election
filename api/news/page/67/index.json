@@ -2,6 +2,119 @@
   "page": 67,
   "value": [
     {
+      "path": "_news/2021-04-16-trump-epa-appointee-blocked-public-release-of-cancer-danger-inspector-general-says.md",
+      "title": "Trump EPA appointee blocked public release of cancer danger, inspector general says",
+      "excerpt": "Trump administration political appointees at the Environmental Protection Agency repeatedly squashed efforts to warn the public about a cancer-causing gas in their neighborhood, according to a new review.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ywfjBkNVdiw/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ywfjBkNVdiw/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 229,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/170629172604-epa-environmental-protection-agency-logo-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/16/politics/epa-cancer-ethylene-oxide/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/16/politics/epa-cancer-ethylene-oxide/index.html",
+      "publishedDateTime": "2021-04-16T12:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-17-mcenany-liberal-media-ran-with-heinous-allegations-on-russian-bounties-to-hurt-trump.md",
+      "title": "McEnany: Liberal media ran with 'heinous' allegations on Russian bounties to hurt Trump",
+      "excerpt": "Former White House Press Secretary and co-host of 'Outnumbered' Kayleigh McEnany blasted reporters for putting forth a false narrative last year, after U.S. intelligence agencies began to backtrack on reports of Russian bounties being placed on U.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/mcenany-russia-bounty-claims-egregious-trump",
+      "originalUrl": "https://www.foxnews.com/media/mcenany-russia-bounty-claims-egregious-trump",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6c2fe82d-8748-49da-8649-c7d1e65a422c/9578fd0f-96b7-49f5-8bb7-281094431ef9/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/mcenany-russia-bounty-claims-egregious-trump.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/mcenany-russia-bounty-claims-egregious-trump.amp",
+      "publishedDateTime": "2021-04-16T11:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-16-tom-cotton-intel-on-russia-bounties-selectively-leaked-to-media-to-help-biden-campaign.md",
       "title": "Tom Cotton: Intel on Russia bounties 'selectively leaked' to media to help Biden campaign",
       "excerpt": "Sen. Tom Cotton, a Republican member of the Senate Judiciary Committee, told “The Faulkner Focus” Friday that Russia bounty intel “selectively leaked” information to the media to help the Biden campaign, after a senior Biden administration official said the intelligence community only had “low to moderate”",
@@ -1253,114 +1366,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-15-former-daughter-in-law-of-trump-org-cfo-says-she-has-boxes-and-boxes-of-financial-documents-after-bitter-divorce.md",
-      "title": "Former daughter-in-law of Trump Org CFO says she has \"boxes and boxes\" of financial documents after bitter divorce",
-      "excerpt": "Jennifer and Barry Weisselberg's divorce was a contentious battle, but few realized during the 2017 and 2018 proceedings that it would end up at the center of one of the most high-profile criminal investigations in history – the Manhattan District Attorney's probe into Donald Trump.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/video/former-daughter-in-law-of-trump-org-cfo-says-she-has-boxes-and-boxes-of-financial-documents-after-bitter-divorce/",
-      "originalUrl": "https://www.cbsnews.com/video/former-daughter-in-law-of-trump-org-cfo-says-she-has-boxes-and-boxes-of-financial-documents-after-bitter-divorce/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2021/04/14/0c58dbe0-1a4f-4997-a440-4eeb61919fae/thumbnail/1200x630/b69d701028646c5c10400f2d5b1d89f2/0414-redblue-hgp-692909-640x360.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/video/former-daughter-in-law-of-trump-org-cfo-says-she-has-boxes-and-boxes-of-financial-documents-after-bitter-divorce/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/former-daughter-in-law-of-trump-org-cfo-says-she-has-boxes-and-boxes-of-financial-documents-after-bitter-divorce/",
-      "publishedDateTime": "2021-04-14T15:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-04-14-ivanka-trump-just-broke-her-three-month-social-media-silence-with-a-vaccine-post.md",
-      "title": "Ivanka Trump just broke her three-month social media silence with a vaccine post",
-      "excerpt": "Ivanka Trump took to social media Wednesday to share that she was able to get her first shot of the coronavirus vaccine, breaking her social media silence since Donald Trump left the White House in January.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ds-Gk_L5n3o/ivanka-trump-just-broke-her-social-media-silence-since-jan-with-a-vaccine-post",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ds-Gk_L5n3o/ivanka-trump-just-broke-her-social-media-silence-since-jan-with-a-vaccine-post",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 210,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/76ca777e-18e7-43dc-8524-0a7ff654398a/670a042f-a7b6-4265-bab4-3d42f1d68cba/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/ivanka-trump-just-broke-her-social-media-silence-since-jan-with-a-vaccine-post.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ivanka-trump-just-broke-her-social-media-silence-since-jan-with-a-vaccine-post.amp",
-      "publishedDateTime": "2021-04-14T15:43:24-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

@@ -2,6 +2,115 @@
   "page": 74,
   "value": [
     {
+      "path": "_news/2021-04-07-donald-trump-calls-georgia-election-law-too-weak-hope-the-rinos-are-happy.md",
+      "title": "Donald Trump Calls Georgia Election Law 'Too Weak': 'Hope the RINOs Are Happy'",
+      "excerpt": "Former U.S. President Donald Trump has criticized Georgia's recently passed election law as \"too weak.\" \"Hope the RINOs are happy,\" Trump wrote in a Tuesday statement criticizing the law. RINO is an initialism for Republicans in Name Only. The initialism ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/donald-trump-calls-georgia-election-law-too-weak-hope-rinos-are-happy-1581492",
+      "originalUrl": "https://www.newsweek.com/donald-trump-calls-georgia-election-law-too-weak-hope-rinos-are-happy-1581492",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 236,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1772337/donald-trump-georgia-election-law-weak-rinos.jpg",
+          "width": 3000,
+          "height": 2000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/donald-trump-calls-georgia-election-law-too-weak-hope-rinos-are-happy-1581492?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-calls-georgia-election-law-too-weak-hope-rinos-are-happy-1581492?amp=1",
+      "publishedDateTime": "2021-04-06T17:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-04-06-harris-moving-into-naval-observatory-residence-after-renovations-delay.md",
+      "title": "Harris moving into Naval Observatory residence after renovations delay",
+      "excerpt": "Vice President Kamala Harris and second gentleman Doug Emhoff will move in to the Naval Observatory residence Tuesday night after their move was delayed for more than two months because of \"repairs to the home,\" a White House official told CNN.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ByFF3oGXhds/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ByFF3oGXhds/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 285,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210326151148-01-vice-president-residence-2015-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/06/politics/kamala-harris-move-naval-observatory-residence/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/06/politics/kamala-harris-move-naval-observatory-residence/index.html",
+      "publishedDateTime": "2021-04-06T16:55:57-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-04-07-joe-biden-is-not-planning-to-solve-the-israeli-palestinian-conflict.md",
       "title": "Joe Biden is not planning to solve the Israeli-Palestinian conflict",
       "excerpt": "Joe Biden, though, isn’t all that interested. Unlike Barack Obama and Donald Trump, Biden hasn’t named a special envoy to focus on the Israeli-Palestinian portfolio. Unlike Bill Clinton, Biden has no plans for any sort of peace conference, or even a ...",
@@ -769,7 +878,7 @@
       "originalUrl": "https://www.newsweek.com/kamala-harris-backs-gavin-newsom-recall-election-1581208",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1420,
+      "heat": 1440,
       "tags": null,
       "images": [
         {
@@ -1242,118 +1351,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-05-gop-seeks-to-pull-back-curtain-on-biden-tax-shelter-hypocrisy.md",
-      "title": "GOP seeks to pull back curtain on Biden tax shelter ‘hypocrisy’",
-      "excerpt": "A blistering letter from the leader of a House conservative caucus regarding Biden’s own tax loopholes could foreshadow what Republicans aim to include in their oversight agenda should they flip the House of Representative in 2022.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ElR9JLoJZmw/gop-seeks-to-pull-back-curtain-on-biden-tax-shelter-hypocrisy",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ElR9JLoJZmw/gop-seeks-to-pull-back-curtain-on-biden-tax-shelter-hypocrisy",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 235,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Jim-Banks-GETTY.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/gop-seeks-to-pull-back-curtain-on-biden-tax-shelter-hypocrisy.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-seeks-to-pull-back-curtain-on-biden-tax-shelter-hypocrisy.amp",
-      "publishedDateTime": "2021-04-05T04:03:49-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-04-biden-in-easter-message-calls-getting-vaccine-a-moral-obligation.md",
-      "title": "Biden in Easter message calls getting vaccine a 'moral obligation'",
-      "excerpt": "President Biden and First Lady Jill Biden released an Easter video Sunday in which the president insisted that Americans get vaccinated against COVID-19, calling it a \"moral obligation.\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/kzQAWLzz-W8/biden-in-easter-message-calls-getting-vaccine-a-moral-obligation",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/kzQAWLzz-W8/biden-in-easter-message-calls-getting-vaccine-a-moral-obligation",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/morita.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-in-easter-message-calls-getting-vaccine-a-moral-obligation.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-in-easter-message-calls-getting-vaccine-a-moral-obligation.amp",
-      "publishedDateTime": "2021-04-04T16:04:19-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Republican Voice"
       ]
     }

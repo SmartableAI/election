@@ -77,6 +77,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden to give speech on 6-point plan to fight delta variant as poll numbers slip"
+    excerpt: "President Biden on Thursday will address Americans on the next steps he and his administration will take to combat the coronavirus, the worst pandemic to sweep the globe in a century."
+    publishedDateTime: 2021-09-07T17:56:07Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/thrQWQ_mmkg/biden-coronavirus-speech-delta-poll"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-coronavirus-speech-delta-poll.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-coronavirus-speech-delta-poll.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "DeSantis requests Biden administration stop resettling illegal immigrants in Florida"
     excerpt: "Florida Gov. Ron DeSantis this week wrote to the Biden administration, asking it to stop resettling illegal immigrants in the state of Florida -- and to either deport them instead, or send them to a state that supports the \"flouting of our immigration laws.\""
     publishedDateTime: 2021-08-28T23:44:22Z

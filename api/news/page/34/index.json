@@ -2,6 +2,110 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2021-06-26-kamala-harris-el-paso-visit-signals-departure-from-trump-border-policies.md",
+      "title": "Kamala Harris' El Paso Visit Signals Departure From Trump Border Policies",
+      "excerpt": "Biden officials told reporters that Harris chose El Paso as a symbolic reminder of the previous administration's controversial immigration policies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/biden-admin-harris-chose-visit-el-paso-due-historic-connections-trump-policies-1604352",
+      "originalUrl": "https://www.newsweek.com/biden-admin-harris-chose-visit-el-paso-due-historic-connections-trump-policies-1604352",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 459,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1831096/harris.jpg",
+          "width": 3200,
+          "height": 2133,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/biden-admin-harris-chose-visit-el-paso-due-historic-connections-trump-policies-1604352?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/biden-admin-harris-chose-visit-el-paso-due-historic-connections-trump-policies-1604352?amp=1",
+      "publishedDateTime": "2021-06-25T15:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-06-26-biden-calls-chauvin-sentence-appropriate.md",
+      "title": "Biden calls Chauvin sentence 'appropriate'",
+      "excerpt": "President Biden on Friday said that the 22 1/2-year prison sentence handed down to former Minneapolis police officer Derek Chauvin for the murder of George Floyd seemed “appropriate.”",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/administration/560332-biden-calls-chauvin-sentence-appropriate",
+      "originalUrl": "https://thehill.com/homenews/administration/560332-biden-calls-chauvin-sentence-appropriate",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 225,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/article_images/bidenjoe_06252021getty.png",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/administration/560332-biden-calls-chauvin-sentence-appropriate?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/560332-biden-calls-chauvin-sentence-appropriate?amp",
+      "publishedDateTime": "2021-06-25T14:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-06-26-well-remember-biden-signs-law-designating-pulse-nightclub-site-a-national-memorial.md",
       "title": "'We'll remember': Biden signs law designating Pulse nightclub site a national memorial",
       "excerpt": "The site of the Pulse nightclub shooting in Orlando will become a $45 million memorial with a reflecting pool, open-air museum and education center.",
@@ -1245,119 +1349,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-25-nikki-haley-tests-the-iowa-waters-while-the-base-yearns-for-trump.md",
-      "title": "Nikki Haley tests the Iowa waters while the base yearns for Trump",
-      "excerpt": "Nikki Haley took top billing at the Republican Party of Iowa's Lincoln Day dinner Thursday night, decrying what she called Democrats' \"socialist\" agenda and calling for a boycott of the 2022 Beijing Winter Olympics as she became the latest potential 2024 contender to lay her marker in the first-in-the-nation",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/N0cVe1tr0GU/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/N0cVe1tr0GU/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 255,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210624210916-nikki-haley-iowa-0624-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/24/politics/nikki-haley-trump-iowa-2024/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/24/politics/nikki-haley-trump-iowa-2024/index.html",
-      "publishedDateTime": "2021-06-24T20:46:02-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-25-pence-contradicts-trump-on-january-6-calling-plan-to-decertify-2020-election-un-american.md",
-      "title": "Pence contradicts Trump on January 6, calling plan to decertify 2020 election 'un-American'",
-      "excerpt": "Former Vice President Mike Pence rebuked former President Donald Trump on Thursday night on the question of overturning the results of the 2020 presidential election.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HpuEitaBWy0/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HpuEitaBWy0/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 305,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210624233301-mike-pence-0603-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/24/politics/mike-pence-donald-trump-january-6/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/24/politics/mike-pence-donald-trump-january-6/index.html",
-      "publishedDateTime": "2021-06-24T20:36:26-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice",
-        "Mike Pence"
       ]
     }
   ],

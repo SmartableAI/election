@@ -3,22 +3,18 @@ category: news
 title: "President Joe Biden will visit Ida devastation in Manville on Tuesday"
 excerpt: "President Joe Biden will visit flood-ravaged Manville on Tuesday. The White House announced Biden's visit on Saturday, but no details have been released. Biden has already ordered federal assistance to supplement state,"
 publishedDateTime: 2021-09-04T20:08:00Z
-originalUrl: "https://www.usatoday.com/story/news/local/somerset-county/2021/09/04/biden-manville-nj-ida-devastation/5731663001/"
-webUrl: "https://www.usatoday.com/story/news/local/somerset-county/2021/09/04/biden-manville-nj-ida-devastation/5731663001/"
-ampWebUrl: "https://amp.usatoday.com/amp/5731663001"
-cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5731663001"
+originalUrl: "https://www.indystar.com/story/news/local/somerset-county/2021/09/04/biden-manville-nj-ida-devastation/5731663001/"
+webUrl: "https://www.indystar.com/story/news/local/somerset-county/2021/09/04/biden-manville-nj-ida-devastation/5731663001/"
+ampWebUrl: "https://amp.indystar.com/amp/5731663001"
+cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/5731663001"
 type: article
-quality: 125
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: USA Today
-  domain: usatoday.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Indianapolis Star
+  domain: indystar.com
 
 topics:
   - Election
@@ -90,6 +86,6 @@ related:
         height: 675
         isCached: true
 
-secured: "Dvz7DMtZEc2N9PxaFPCjpKXKaJgK95XEUElYJCSqgvqWvzf4HlWfhSoVmJrKeDiSajphitp7stnnz7LirwqySWugv4wwO2MNYl82VljYNZH9kncJRfkmVUePdTQyOK4ZItQp2dCVVrECGDUr6G925w3Zvl+na4YvafYnf96TVpLdlEKiHU0TSWKblCakF8N7mp65upu5Hslsws8VGrdgojNxY5WlpJTR2SKQZ7J1bwpOz283BTNZ35NzFBaVst6IqIsdae0PHNWvyPQ+Wz6wXAsucoJ2sGt3bys1AlsQ7Paq9KoEz7zD8k1eyp74Dm+yRS3bnxDFN8VIVx6cOlKO2HttPV+NnBDpNhl/5OMnrk8=;FHHFtUoYvl9vliQHiuWHrw=="
+secured: "8zQL9RUiiNkeqbLZ74I+PjdNAcan3JBinIPFrnxP5HwbsOCRtl/cKyDAip7E9fGWkL2Y+4sZ4Jn3djPG1Om3Uq71Pm5KIUC2yAShrt56JERorhUYYfx626Tz5Le9vUE5gulGaEvXiZIKqaxFvioZ6TNpLn8nHMORXtxHx3fg7fnsonMCmn0SEFBFfTN8xVDgA0TNbeTVGsjuik1pcBBX7rIp8d4a7i4KZsZuQXUTUiPOWbIJmKIYGqdf1ahsSOYo8X7RzYRRJKpedG+Jtz6uO9AAHCaCiGPU9MXqCZCEv/XYr4E9NsFU/F9MsXDGRothYt2AhmZ5flbBb4fV5tPKnJJ8g/mPZQyhr8/0kxuCeys=;wNL4ugD9vuZkQzB0xTLnIw=="
 ---
 

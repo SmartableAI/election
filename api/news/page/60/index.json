@@ -2,6 +2,114 @@
   "page": 60,
   "value": [
     {
+      "path": "_news/2021-05-03-hilary-mantel-mad-max-and-donald-trump-what-we-learned-from-sydney-writers-festival.md",
+      "title": "Hilary Mantel, Mad Max and Donald Trump: what we learned from Sydney writers’ festival",
+      "excerpt": "Judy Bloom, Paul Kelly, George Miller and Tara June Winch were among the guests at Carriageworks, in a welcome return for the beloved event",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/books/2021/may/03/hilary-mantel-mad-max-and-donald-trump-what-we-learned-from-sydney-writers-festival",
+      "originalUrl": "https://www.theguardian.com/books/2021/may/03/hilary-mantel-mad-max-and-donald-trump-what-we-learned-from-sydney-writers-festival",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/2c655ae1623c7cfb41b0663d4c07406f0ffd65ca/0_118_4800_2880/master/4800.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=3dc8214deac6baa8c683456231825f63",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/books/2021/may/03/hilary-mantel-mad-max-and-donald-trump-what-we-learned-from-sydney-writers-festival",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/books/2021/may/03/hilary-mantel-mad-max-and-donald-trump-what-we-learned-from-sydney-writers-festival",
+      "publishedDateTime": "2021-05-02T18:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-05-02-biden-abandoned-the-rule-of-law-at-border-sending-texas-costs-soaring-gov-abbott-says.md",
+      "title": "Biden 'abandoned the rule of law' at border, sending Texas costs soaring, Gov. Abbott says",
+      "excerpt": "President Biden has abandoned the rule of law at the U.S.-Mexico border amid the migrant crisis, sending costs for border security soaring in Texas, Gov. Greg Abbott said Sunday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/frpdoh4lwwg/biden-border-crisis-texas-costs-greg-abbott",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/frpdoh4lwwg/biden-border-crisis-texas-costs-greg-abbott",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/713587da-5828-4066-8cb4-999e43da8e19/49429ba3-a486-43e2-8995-c2db8564fb63/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-border-crisis-texas-costs-greg-abbott.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-border-crisis-texas-costs-greg-abbott.amp",
+      "publishedDateTime": "2021-05-02T11:03:40-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-05-02-biden-is-a-moderate-no-more-judge-jeanine.md",
       "title": "Biden is a 'moderate no more': Judge Jeanine",
       "excerpt": "Guests: Byron Donalds, Richard Grenell, Steve Moore, Lara Trump, Ashley Strohmier, Joe Concha, Leo Terrell, Tomi Lahren",
@@ -1238,114 +1346,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-30-gop-reps-question-biden-admin-on-alleged-political-interference-in-census-citing-departure-from-estimates.md",
-      "title": "GOP reps question Biden admin on alleged 'political interference' in census, citing departure from estimates",
-      "excerpt": "EXCLUSIVE: A group of House Republicans Friday are questioning Commerce Secretary Gina Raimondo on if there \"was any political interference\" in the final census numbers used to decide how many House members each state will get for the coming decade. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/OyYiolHkBvU/house-republicans-biden-census-numbers-estimates-departures",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/OyYiolHkBvU/house-republicans-biden-census-numbers-estimates-departures",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 136,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/iStock-1158882321.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-30T06:48:17-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-30-officials-in-switzerland-push-back-at-biden-tax-haven-barb.md",
-      "title": "Officials in Switzerland push back at Biden 'tax haven' barb",
-      "excerpt": "Swiss authorities are taking issue with comments from U.S. President Joe Biden to Congress that many companies use Switzerland as a tax haven",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/officials-switzerland-push-back-biden-tax-haven-barb-77417358",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/officials-switzerland-push-back-biden-tax-haven-barb-77417358",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/US/210430_vod_onlocation_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/officials-switzerland-push-back-biden-tax-haven-barb-77417358",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/officials-switzerland-push-back-biden-tax-haven-barb-77417358",
-      "publishedDateTime": "2021-04-30T05:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

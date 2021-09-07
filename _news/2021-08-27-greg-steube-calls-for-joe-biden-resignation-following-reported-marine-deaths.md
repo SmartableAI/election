@@ -44,14 +44,14 @@ related:
   - title: "President Joe Biden will visit Ida devastation in Manville on Tuesday"
     excerpt: "President Joe Biden will visit flood-ravaged Manville on Tuesday. The White House announced Biden's visit on Saturday, but no details have been released. Biden has already ordered federal assistance to supplement state,"
     publishedDateTime: 2021-09-04T20:08:00Z
-    webUrl: "https://www.usatoday.com/story/news/local/somerset-county/2021/09/04/biden-manville-nj-ida-devastation/5731663001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5731663001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5731663001"
+    webUrl: "https://www.indystar.com/story/news/local/somerset-county/2021/09/04/biden-manville-nj-ida-devastation/5731663001/"
+    ampWebUrl: "https://amp.indystar.com/amp/5731663001"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/5731663001"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 125
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 75
     images:
       - url: "https://www.gannett-cdn.com/presto/2021/09/04/PCNJ/1bbedaa8-e3a4-4705-84fc-98daf697d885-Ida_Flooding_Manville_Business_9.4.21-3.jpg?auto=webp&crop=5823,3276,x0,y0&format=pjpg&width=1200"
         width: 1200

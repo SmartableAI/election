@@ -9,7 +9,7 @@ ampWebUrl: "https://www.denverpost.com/2021/09/03/joe-biden-walks-storm-ravaged-
 cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2021/09/03/joe-biden-walks-storm-ravaged-louisiana/amp/"
 type: article
 quality: 75
-heat: 115
+heat: 135
 published: true
 
 provider:
@@ -50,6 +50,20 @@ related:
       name: NOLA.com
       domain: nola.com
     quality: 46
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/nola.com/content/tncms/assets/v3/editorial/c/e7/ce7a7b82-1001-11ec-bdf6-3b601b56bba8/6137a290a98b4.image.jpg?resize=945%2C630"
+        width: 945
+        height: 630
+        isCached: true
+  - title: "Joe Biden surveys Hurricane Ida storm damage in New York and New Jersey after deadly flooding"
+    excerpt: "Pointing accusingly at climate change, President Joe Biden toured deadly Northeast flood damage Tuesday and said he was thinking about the all families who suffered"
+    publishedDateTime: 2021-09-07T17:26:00Z
+    webUrl: "https://www.nola.com/news/hurricane/article_c7ff78bc-1000-11ec-a4d1-abcd59d32880.html"
+    type: article
+    provider:
+      name: NOLA.com
+      domain: nola.com
+    quality: 44
     images:
       - url: "https://bloximages.newyork1.vip.townnews.com/nola.com/content/tncms/assets/v3/editorial/c/e7/ce7a7b82-1001-11ec-bdf6-3b601b56bba8/6137a290a98b4.image.jpg?resize=945%2C630"
         width: 945

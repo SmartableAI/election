@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-06-23-in-central-america-kamala-harris-ignored-our-best-hope-catholic-bishops.md",
+      "title": "In Central America, Kamala Harris ignored our best hope: Catholic bishops",
+      "excerpt": "The Central American bishops are strong opponents of abortion and gay marriage, but they have also prophetically denounced exploitation of the poor and government corruption. In t",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/religion/in-central-america-kamala-harris-ignored-our-best-hope-catholic-bishops/2021/06/23/5c933bc8-d431-11eb-b39f-05a2d776b1f4_story.html",
+      "originalUrl": "https://www.washingtonpost.com/religion/in-central-america-kamala-harris-ignored-our-best-hope-catholic-bishops/2021/06/23/5c933bc8-d431-11eb-b39f-05a2d776b1f4_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 244,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/religion/in-central-america-kamala-harris-ignored-our-best-hope-catholic-bishops/2021/06/23/5c933bc8-d431-11eb-b39f-05a2d776b1f4_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/religion/in-central-america-kamala-harris-ignored-our-best-hope-catholic-bishops/2021/06/23/5c933bc8-d431-11eb-b39f-05a2d776b1f4_story.html?outputType=amp",
+      "publishedDateTime": "2021-06-23T06:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-06-23-cornyn-calls-on-biden-and-harris-to-visit-southern-border-yall-come-visit.md",
       "title": "Cornyn calls on Biden and Harris to visit southern border: 'Y'all come visit'",
       "excerpt": "Sen. John Cornyn (R-Texas) has called on President Biden and Vice President Harris to visit the U.S.- Mexico border amid an ongoing surge of immigrants.",
@@ -1584,54 +1636,6 @@
       "topics": [
         "Election",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-05-19-vp-kamala-harris-covid-an-opportunity-to-transform-how-we-live-how-we-work-and-how-we-vote.md",
-      "title": "VP Kamala Harris: COVID An \"Opportunity\" to \"Transform\" How We Live, How We Work, And How We Vote",
-      "excerpt": "Vice President Kamala Harris called COVID-19 an \"opportunity\" to transform society in a speech to the Asian American Pacific Islander Heritage Month unity summit on Wednesday. \"As we emerge from the pandemic,",
-      "sourceUrl": null,
-      "webUrl": "https://www.realclearpolitics.com/video/2021/05/19/vp_kamala_harris_covid_an_opportunity_to_transform_how_we_live_how_we_work_and_how_we_vote.html#!",
-      "originalUrl": "https://www.realclearpolitics.com/video/2021/05/19/vp_kamala_harris_covid_an_opportunity_to_transform_how_we_live_how_we_work_and_how_we_vote.html#!",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.realclear.com/images/54/543713.jpg",
-          "width": 844,
-          "height": 632,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "http://www.realclearpolitics.com/video/2021/05/19/vp_kamala_harris_covid_an_opportunity_to_transform_how_we_live_how_we_work_and_how_we_vote.amp.html",
-      "cdnAmpWebUrl": "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/05/19/vp_kamala_harris_covid_an_opportunity_to_transform_how_we_live_how_we_work_and_how_we_vote.amp.html",
-      "publishedDateTime": "2021-05-18T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RealClearPolitics",
-        "domain": "realclearpolitics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris",
-        "Republican Voice"
       ]
     }
   ],

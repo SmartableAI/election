@@ -2,6 +2,119 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2021-06-25-nikki-haley-tests-the-iowa-waters-while-the-base-yearns-for-trump.md",
+      "title": "Nikki Haley tests the Iowa waters while the base yearns for Trump",
+      "excerpt": "Nikki Haley took top billing at the Republican Party of Iowa's Lincoln Day dinner Thursday night, decrying what she called Democrats' \"socialist\" agenda and calling for a boycott of the 2022 Beijing Winter Olympics as she became the latest potential 2024 contender to lay her marker in the first-in-the-nation",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/N0cVe1tr0GU/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/N0cVe1tr0GU/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 255,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210624210916-nikki-haley-iowa-0624-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/24/politics/nikki-haley-trump-iowa-2024/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/24/politics/nikki-haley-trump-iowa-2024/index.html",
+      "publishedDateTime": "2021-06-24T20:46:02-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-25-pence-contradicts-trump-on-january-6-calling-plan-to-decertify-2020-election-un-american.md",
+      "title": "Pence contradicts Trump on January 6, calling plan to decertify 2020 election 'un-American'",
+      "excerpt": "Former Vice President Mike Pence rebuked former President Donald Trump on Thursday night on the question of overturning the results of the 2020 presidential election.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HpuEitaBWy0/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HpuEitaBWy0/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 305,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210624233301-mike-pence-0603-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/24/politics/mike-pence-donald-trump-january-6/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/24/politics/mike-pence-donald-trump-january-6/index.html",
+      "publishedDateTime": "2021-06-24T20:36:26-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-06-25-trump-issued-a-statement-calling-giuliani-a-great-american-patriot-and-the-eliot-ness-of-his-generation.md",
       "title": "Trump issued a statement calling Giuliani a 'great American patriot' and the 'Eliot Ness' of his generation",
       "excerpt": "Giuliani was suspended from practicing law in New York for making \"demonstrably false and misleading statements\" about the 2020 election.",
@@ -1245,114 +1358,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-23-democrats-urge-biden-to-extend-student-loan-pause-until-april-2022.md",
-      "title": "Democrats urge Biden to extend student loan pause until April 2022",
-      "excerpt": "Key Democratic lawmakers are calling on President Joe Biden to extend the pandemic-related student loan payment pause another six months beyond October -- or until the economy reaches pre-pandemic employment levels, whichever is longer.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NSIZGlT1bfo/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NSIZGlT1bfo/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 535,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210204163107-schumer-student-loan-debt-presser-0204-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/23/politics/student-loan-payment-pause-extension/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/23/politics/student-loan-payment-pause-extension/index.html",
-      "publishedDateTime": "2021-06-23T14:04:21-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-24-nearly-900-secret-service-members-were-infected-with-the-coronavirus-a-watchdog-blames-trump.md",
-      "title": "Nearly 900 Secret Service members were infected with the coronavirus. A watchdog blames Trump.",
-      "excerpt": "The nonprofit Citizens for Responsibility and Ethics in Washington published a report detailing how 881 Secret Service employees had tested positive between March 1, 2020, and March 9, 2021.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/2021/06/23/secret-service-covid-trump/",
-      "originalUrl": "https://www.washingtonpost.com/politics/2021/06/23/secret-service-covid-trump/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 133,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2FTUJOWTLUI6VATLZQ4U3ASOGU.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/2021/06/23/secret-service-covid-trump/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/06/23/secret-service-covid-trump/?outputType=amp",
-      "publishedDateTime": "2021-06-23T12:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

@@ -2,6 +2,63 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-09-08-tomi-lahren-rips-kamala-harris-havent-seen-this-level-of-tone-deafness-since-american-idol-auditions.md",
+      "title": "Tomi Lahren rips Kamala Harris: Haven't seen this level of tone-deafness since 'American Idol' auditions",
+      "excerpt": "Fox Nation host Tomi Lahren ripped into Vice President Kamala Harris Tuesday on ‘Outnumbered’ for traveling to California to campaign for Governor Gavin Newsom while remaining largely silent on Afghanistan.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/tomi-lahren-kamala-harris-tone-deafness-american-idol-newsom-recall",
+      "originalUrl": "https://www.foxnews.com/media/tomi-lahren-kamala-harris-tone-deafness-american-idol-newsom-recall",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6c75ca39-bfcc-4e29-b458-97825ace5fcd/12358397-8be6-4f5e-96fc-61f6f16b99f7/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-07T10:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-09-05-lara-trump-slams-hypocritical-kamala-harris-michelle-obama-for-silence-on-afghan-women.md",
       "title": "Lara Trump Slams 'Hypocritical' Kamala Harris, Michelle Obama for Silence on Afghan Women",
       "excerpt": "\"They are happy to be activists when it's politically advantageous,\" Donald Trump's daughter-in-law said on Fox News.",
@@ -1528,63 +1585,6 @@
       ],
       "topics": [
         "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-07-29-biden-harris-unveil-strategies-to-address-root-causes-of-immigration.md",
-      "title": "Biden, Harris unveil strategies to address 'root causes' of immigration",
-      "excerpt": "The Biden administration on Thursday rolled out its strategies to address the root causes of immigration, a step officials call a “core component” of efforts to establish a “fair, orderly, and humane immigration system.”",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/9QPgD9fEKYQ/biden-harris-immigration-root-causes-strategy",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/9QPgD9fEKYQ/biden-harris-immigration-root-causes-strategy",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 660,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-harris-immigration-root-causes-strategy.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-harris-immigration-root-causes-strategy.amp",
-      "publishedDateTime": "2021-07-29T03:00:53-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
         "Kamala Harris"
       ]
     }

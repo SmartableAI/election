@@ -2,6 +2,118 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2021-04-24-biden-calls-turkeys-erdogan-ahead-of-possible-armenian-genocide-recognition.md",
+      "title": "Biden calls Turkey’s Erdogan ahead of possible Armenian genocide recognition",
+      "excerpt": "Biden expressed “his interest in a constructive bilateral relationship with expanded areas of cooperation and effective management of disagreements,” the White House said in a statement.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Yl5e2l_yNdY/biden-calls-erdogan-armenian-genocide",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Yl5e2l_yNdY/biden-calls-erdogan-armenian-genocide",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 172,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/aa434e0f-6b4c-404e-89ce-c7e26329c066/ff42937c-f70a-49f7-a7c6-6d27dc8e6c8f/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-calls-erdogan-armenian-genocide.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-calls-erdogan-armenian-genocide.amp",
+      "publishedDateTime": "2021-04-23T17:08:10-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-23-california-gov-newsom-raising-money-by-tying-caitlyn-jenner-to-trump.md",
+      "title": "California Gov. Newsom raising money by tying Caitlyn Jenner to Trump",
+      "excerpt": "Gov. Gavin Newsom’s campaign team wasted no time coming after Caitlyn Jenner as she entered the recall race to take his seat. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5oimLrPheDI/newsom-raise-money-tying-caitlyn-jenner-to-trump",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5oimLrPheDI/newsom-raise-money-tying-caitlyn-jenner-to-trump",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 235,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/04/Caitlyn-Jenner-CC.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/newsom-raise-money-tying-caitlyn-jenner-to-trump.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/newsom-raise-money-tying-caitlyn-jenner-to-trump.amp",
+      "publishedDateTime": "2021-04-23T13:02:31-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-23-kamala-harris-ripped-by-new-hampshire-gop-for-visiting-wrong-border.md",
       "title": "Kamala Harris ripped by New Hampshire GOP for visiting 'wrong border'",
       "excerpt": "The New Hampshire Republican Party called out Vice President Kamala Harris for visiting the \"wrong border\" as she heads to the Granite State for a visit.",
@@ -1550,119 +1662,6 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-16-trump-national-security-advisor-commends-biden-administration-no-more-important-alliance-than-japan.md",
-      "title": "Trump National Security Advisor commends Biden Administration: 'No more important alliance' than Japan",
-      "excerpt": "Former National Security Advisor under President Trump, Robert O'Brien, discusses Biden's response to tension with China and Russia.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/qsH0wm3_xZc/no-more-important-alliance-than-japan-amid-tension-china",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/qsH0wm3_xZc/no-more-important-alliance-than-japan-amid-tension-china",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 314,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/no-more-important-alliance-than-japan-amid-tension-china.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/no-more-important-alliance-than-japan-amid-tension-china.amp",
-      "publishedDateTime": "2021-04-16T13:45:06-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-17-oath-keeper-becomes-first-to-plead-guilty-in-pro-trump-capitol-riot.md",
-      "title": "Oath Keeper Becomes First to Plead Guilty in Pro-Trump Capitol Riot",
-      "excerpt": "Jon Schaffer of Indiana admits to carrying bear spray and obstructing official proceedings.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/oath-keeper-becomes-first-to-plead-guilty-in-capitol-riot-11618596401",
-      "originalUrl": "https://www.wsj.com/articles/oath-keeper-becomes-first-to-plead-guilty-in-capitol-riot-11618596401",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-326217/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/oath-keeper-becomes-first-to-plead-guilty-in-capitol-riot-11618596401",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/oath-keeper-becomes-first-to-plead-guilty-in-capitol-riot-11618596401",
-      "publishedDateTime": "2021-04-16T12:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Republican Voice"
       ]
     }

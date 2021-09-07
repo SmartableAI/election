@@ -2,6 +2,105 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2021-07-26-trump-ally-tom-barrack-pleads-not-guilty-in-foreign-lobbying-case.md",
+      "title": "Trump ally Tom Barrack pleads not guilty in foreign lobbying case ",
+      "excerpt": "Tom Barrack, a longtime ally of former President Donald Trump and chairman of the Trump 2016 Inaugural Committee, pleaded not guilty through his attorney on Monday to illegal foreign lobbying charges unveiled by the Justice Department last week.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rmU4oL47-EQ/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rmU4oL47-EQ/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 555,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210726113600-tom-barrack-criminal-court-new-york-0726-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/26/politics/tom-barrack-plea-not-guilty-foreign-lobbying-charges/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/26/politics/tom-barrack-plea-not-guilty-foreign-lobbying-charges/index.html",
+      "publishedDateTime": "2021-07-26T11:41:02-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-26-president-joe-biden-picks-suffolk-da-rachael-rollins-as-next-us-attorney.md",
+      "title": "President Joe biden picks Suffolk DA Rachael Rollins as next US attorney",
+      "excerpt": "President Joe Biden on Monday announced Suffolk County District Attorney Rachael Rollins as his nominee to be the next top federal prosecutor in Massachusetts, a historic move that",
+      "sourceUrl": null,
+      "webUrl": "https://www.sentinelandenterprise.com/2021/07/26/president-joe-biden-picks-suffolk-da-rachael-rollins-as-next-us-attorney/",
+      "originalUrl": "https://www.sentinelandenterprise.com/2021/07/26/president-joe-biden-picks-suffolk-da-rachael-rollins-as-next-us-attorney/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.sentinelandenterprise.com/wp-content/uploads/2021/07/112219Youfn06.jpg?w=1024&#038;h=684",
+          "width": 1024,
+          "height": 684,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.sentinelandenterprise.com/2021/07/26/president-joe-biden-picks-suffolk-da-rachael-rollins-as-next-us-attorney/amp/",
+      "cdnAmpWebUrl": "https://www-sentinelandenterprise-com.cdn.ampproject.org/c/s/www.sentinelandenterprise.com/2021/07/26/president-joe-biden-picks-suffolk-da-rachael-rollins-as-next-us-attorney/amp/",
+      "publishedDateTime": "2021-07-26T09:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sentinel & Enterprise",
+        "domain": "sentinelandenterprise.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-07-26-biden-and-kadhimi-seal-agreement-to-end-us-combat-mission-in-iraq.md",
       "title": "Biden and Kadhimi seal agreement to end US combat mission in Iraq",
       "excerpt": "President and PM meet at Oval Office and announce schedule to shift mission entirely to training and advisory role by end of this year",
@@ -1191,107 +1290,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-07-24-trump-advisor-says-there-is-zero-chance-the-former-president-will-pick-pence-as-his-running-mate-if-he-runs-in-2024.md",
-      "title": "Trump advisor says there is 'zero' chance the former president will pick Pence as his running mate if he runs in 2024",
-      "excerpt": "Pence decided to certify the 2020 election results on January 6, instead of unlawfully overturning the results in Trump's favor.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/zero-chance-trump-will-pick-pence-vp-2024-report-2021-7",
-      "originalUrl": "https://www.businessinsider.com/zero-chance-trump-will-pick-pence-vp-2024-report-2021-7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 187,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/60fae6e50729770012b99435?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/zero-chance-trump-will-pick-pence-vp-2024-report-2021-7?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/zero-chance-trump-will-pick-pence-vp-2024-report-2021-7?amp",
-      "publishedDateTime": "2021-07-23T10:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-07-23-biden-gives-odd-response-about-sucking-blood-out-of-kids-to-question-about-defunding-police.md",
-      "title": "Biden Gives Odd Response About \"Sucking Blood Out Of Kids\" To Question About Defunding Police",
-      "excerpt": "President Biden caused confusion and concern with a bizarre answer to a question about progressive Democrats who campaigned to \"defund the police\" on Thursday evening. \"Are there people in the Democratic Party who want to defund the police?",
-      "sourceUrl": null,
-      "webUrl": "https://www.realclearpolitics.com/video/2021/07/23/biden_gives_odd_response_to_question_about_defunding_police.html",
-      "originalUrl": "https://www.realclearpolitics.com/video/2021/07/23/biden_gives_odd_response_to_question_about_defunding_police.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.realclear.com/images/54/548899.jpg",
-          "width": 750,
-          "height": 562,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "http://www.realclearpolitics.com/video/2021/07/23/biden_gives_odd_response_to_question_about_defunding_police.amp.html",
-      "cdnAmpWebUrl": "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/07/23/biden_gives_odd_response_to_question_about_defunding_police.amp.html",
-      "publishedDateTime": "2021-07-23T08:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RealClearPolitics",
-        "domain": "realclearpolitics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/michigan-man-held-bomb-hoax-
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/michigan-man-held-bomb-hoax-trump-hotel-las-79778041"
 type: article
 quality: 125
-heat: 245
+heat: 285
 published: true
 
 provider:
@@ -44,6 +44,38 @@ related:
     quality: 90
     images:
       - url: "https://www.gannett-cdn.com/presto/2019/12/19/PDTN/f82e95e2-ecbf-4b17-ba85-069563df9ec5-2019-1218-rb-me-trump-rally518.jpg?auto=webp&crop=3399,1912,x0,y173&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Donald Trump backs Michigan election critic for secretary of state"
+    excerpt: "Trump endorsed Karamo to be Michigan's top election official, saying she is \"strong on crime, including the massive crime of election fraud.\""
+    publishedDateTime: 2021-09-07T19:22:00Z
+    webUrl: "https://www.detroitnews.com/story/news/politics/2021/09/07/donald-trump-backs-michigan-election-critic-secretary-state/5758348001/"
+    ampWebUrl: "https://amp.detroitnews.com/amp/5758348001"
+    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/5758348001"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 90
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/08/10/PDTN/9c432c84-1715-46d4-b7ab-93a95217f457-Kristina_Karamo.jpg?auto=webp&crop=399,224,x1,y53&format=pjpg&width=1200"
+        width: 1200
+        height: 674
+        isCached: true
+  - title: "Trump endorses Michigan primary challenger to U.S. Rep. Fred Upton"
+    excerpt: "Donald Trump's endorsement is a boon for State Rep. Steve Carra, who has led the push in the Legislature for an audit of the 2020 election results."
+    publishedDateTime: 2021-09-07T18:28:00Z
+    webUrl: "https://www.detroitnews.com/story/news/politics/2021/09/07/trump-endorses-michigan-primary-challenger-u-s-rep-upton/5757497001/"
+    ampWebUrl: "https://amp.detroitnews.com/amp/5757497001"
+    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/5757497001"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 75
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/06/PDTN/d699eda2-071d-4619-b3ae-53a1504517d6-010621-tm-MI_Capitol_Protest-0337.jpg?auto=webp&crop=3072,1728,x1294,y611&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true

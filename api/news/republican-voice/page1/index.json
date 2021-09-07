@@ -2,6 +2,119 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-09-07-more-migrants-being-returned-to-mexico-after-supreme-court-order-reinstates-trump-era-policy.md",
+      "title": "More migrants being returned to Mexico after Supreme Court order reinstates Trump-era policy",
+      "excerpt": "A Supreme Court order reinstating the Trump-era \"Remain-in-Mexico\" policy is already having an effect, with Border Patrol officials telling Fox News they have started turning away more migrants trying to enter the U.S.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/y5Rus9i-E7U/more-migrants-mexico-scotus-order-reinstates-trump-era-policy",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/y5Rus9i-E7U/more-migrants-mexico-scotus-order-reinstates-trump-era-policy",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/024e0fbd-ddfc-43c8-9bdf-dd35a37b4713/13048900-b1a3-46da-abd0-f23eb95de595/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/more-migrants-mexico-scotus-order-reinstates-trump-era-policy.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/more-migrants-mexico-scotus-order-reinstates-trump-era-policy.amp",
+      "publishedDateTime": "2021-09-07T12:01:51-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-09-08-tomi-lahren-rips-kamala-harris-havent-seen-this-level-of-tone-deafness-since-american-idol-auditions.md",
+      "title": "Tomi Lahren rips Kamala Harris: Haven't seen this level of tone-deafness since 'American Idol' auditions",
+      "excerpt": "Fox Nation host Tomi Lahren ripped into Vice President Kamala Harris Tuesday on ‘Outnumbered’ for traveling to California to campaign for Governor Gavin Newsom while remaining largely silent on Afghanistan.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/tomi-lahren-kamala-harris-tone-deafness-american-idol-newsom-recall",
+      "originalUrl": "https://www.foxnews.com/media/tomi-lahren-kamala-harris-tone-deafness-american-idol-newsom-recall",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6c75ca39-bfcc-4e29-b458-97825ace5fcd/12358397-8be6-4f5e-96fc-61f6f16b99f7/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-07T10:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-09-06-dem-sen-blumenthal-furious-over-biden-admin-delaying-americans-trying-to-leave-afghanistan.md",
       "title": "Dem Sen. Blumenthal 'furious' over Biden admin delaying Americans trying to leave Afghanistan",
       "excerpt": "Blumenthal issued a press release on Monday eviscerating the Biden administration for delaying flights out of the Mazar-e Sharif airport in Afghanistan following reports of the administration not giving the evacuation flights the green light.",
@@ -14,7 +127,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 224,
+      "heat": 264,
       "tags": null,
       "images": [
         {
@@ -857,7 +970,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 335,
+      "heat": 355,
       "tags": null,
       "images": [
         {
@@ -1554,120 +1667,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-31-cnn-analyst-slammed-for-blaming-trump-for-collapsed-republican-trust-in-national-media-simply-breathtaking.md",
-      "title": "CNN analyst slammed for blaming Trump for collapsed Republican trust in national media: 'Simply breathtaking'",
-      "excerpt": "CNN analyst and New Yorker writer Susan Glasser blamed former President Donald Trump's rhetoric for the plummet in GOP trust in national media over the past five years.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/cnn-analyst-slammed-for-blaming-trump-for-collapsed-republican-trust-in-national-media-simply-breathtaking",
-      "originalUrl": "https://www.foxnews.com/media/cnn-analyst-slammed-for-blaming-trump-for-collapsed-republican-trust-in-national-media-simply-breathtaking",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b5aa6c85-14b2-4ad2-9440-675bda7c16be/bf09b414-0396-40a2-ad41-ceb1fd8f2354/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/cnn-analyst-slammed-for-blaming-trump-for-collapsed-republican-trust-in-national-media-simply-breathtaking.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/cnn-analyst-slammed-for-blaming-trump-for-collapsed-republican-trust-in-national-media-simply-breathtaking.amp",
-      "publishedDateTime": "2021-08-31T08:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-31-pete-hegseth-rips-biden-for-checking-watch-calls-out-betrayal-of-us-military-mission.md",
-      "title": "Pete Hegseth rips Biden for checking watch, calls out 'betrayal' of US military mission",
-      "excerpt": "Army veteran and ‘Fox & Friends Weekend’ co-host Pete Hegseth ripped into Joe Biden on Monday after Gold Star families criticized the president for repeatedly checking his watch while meeting with them.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/biden-checking-watch-betrayal-military-hegseth",
-      "originalUrl": "https://www.foxnews.com/media/biden-checking-watch-betrayal-military-hegseth",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b475c4af-ac40-44aa-a114-920cccc3d52a/51978ba7-0064-41e2-bd9d-73365cc9f209/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/biden-checking-watch-betrayal-military-hegseth.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/biden-checking-watch-betrayal-military-hegseth.amp",
-      "publishedDateTime": "2021-08-31T06:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
         "Republican Voice"
       ]
     }

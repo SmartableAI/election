@@ -2,6 +2,92 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-08-14-moscow-says-no-plans-to-discuss-edward-snowdens-status-during-trump-putin-summit.md",
+      "title": "Moscow says no plans to discuss Edward Snowden’s status during Trump-Putin summit",
+      "excerpt": "Russia's foreign minister on Friday cast doubt on the possibility of extraditing Edward Snowden, the fugitive former National Security Agency contractor who received political asylum from Moscow after leaking classified documents to the media in 2013.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/article/europe-summits-moscow-edward-snowden-be8e1b459165d0679b18d86e21d5deb7",
+      "originalUrl": "https://apnews.com/article/europe-summits-moscow-edward-snowden-be8e1b459165d0679b18d86e21d5deb7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/ShareLogo2.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-13T16:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-08-14-lamborn-dismissed-pandemic-as-hoax-meant-to-derail-trumps-reelection-ex-staffer-says-in-sworn-statement.md",
+      "title": "Lamborn dismissed pandemic as hoax meant to derail Trump’s reelection, ex-staffer says in sworn statement",
+      "excerpt": "Allegations that U.S. Rep. Doug Lamborn, R-Colorado Springs, fired a staffer in retaliation after the staffer sought to protect himself and others during the pandemic are true, another former",
+      "sourceUrl": null,
+      "webUrl": "https://www.denverpost.com/2021/08/13/doug-lamborn-congress-colorado-lawsuit-allegations/",
+      "originalUrl": "https://www.denverpost.com/2021/08/13/doug-lamborn-congress-colorado-lawsuit-allegations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.denverpost.com/wp-content/uploads/2021/01/AP21004705580102.jpg?w=1024&#038;h=683",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.denverpost.com/2021/08/13/doug-lamborn-congress-colorado-lawsuit-allegations/amp/",
+      "cdnAmpWebUrl": "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2021/08/13/doug-lamborn-congress-colorado-lawsuit-allegations/amp/",
+      "publishedDateTime": "2021-08-13T14:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Denver Post",
+        "domain": "denverpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-08-14-trump-fundraises-off-total-loser-andrew-cuomo-resigning.md",
       "title": "Trump fundraises off ‘total loser’ Andrew Cuomo resigning",
       "excerpt": "Former President Donald Trump is fundraising off the resignation of “total loser” and soon-to-be-former New York Gov. Andrew Cuomo.",
@@ -1223,114 +1309,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-08-12-meet-joe-bidens-secret-weapon-the-woman-who-wrangles-with-congress.md",
-      "title": "Meet Joe Biden’s secret weapon: the woman who wrangles with Congress",
-      "excerpt": "Louisa Terrell, White House director of the office of legislative affairs, is the tip of the spear of Biden’s team as she fulfills one of the most difficult jobs in a deeply divided political landscap",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/aug/12/joe-biden-secret-weapon-louisa-terrell-congress",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/aug/12/joe-biden-secret-weapon-louisa-terrell-congress",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 285,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/74a2c7eb79f9c8ef9db653798c8fcb347c1a4719/654_0_3346_2007/master/3346.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=cb7abaeb929f3807f0f8aaed493fc44b",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/aug/12/joe-biden-secret-weapon-louisa-terrell-congress",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/aug/12/joe-biden-secret-weapon-louisa-terrell-congress",
-      "publishedDateTime": "2021-08-12T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-08-12-biden-forges-ahead-where-trump-and-obama-failed-on-infrastructure-and-afghanistan.md",
-      "title": "Biden forges ahead where Trump and Obama failed on infrastructure and Afghanistan",
-      "excerpt": "Every president since George W. Bush has said it's time to leave Afghanistan and turn to nation building at home.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/LvOfikeAgF0/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/LvOfikeAgF0/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 1005,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210811142120-01-biden-0811-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/08/12/politics/joe-biden-donald-trump-barack-obama-afghanistan-infrastructure/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/12/politics/joe-biden-donald-trump-barack-obama-afghanistan-infrastructure/index.html",
-      "publishedDateTime": "2021-08-12T04:27:44-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

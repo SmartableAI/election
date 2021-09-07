@@ -2,6 +2,110 @@
   "page": 73,
   "value": [
     {
+      "path": "_news/2021-04-08-former-vice-president-mike-pence-to-publish-memoir.md",
+      "title": "Former Vice President Mike Pence to publish memoir",
+      "excerpt": "Former Vice President Mike Pence is set to chronical his experience in the Trump White House with a two-book deal he signed with Simon & Schuster Wednesday. The publisher said Pence will pen ...",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/04/07/former-vice-president-mike-pence-to-publish-memoir/",
+      "originalUrl": "https://nypost.com/2021/04/07/former-vice-president-mike-pence-to-publish-memoir/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/04/mike-pence-signs-double-book-deal-331.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/04/07/former-vice-president-mike-pence-to-publish-memoir/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/07/former-vice-president-mike-pence-to-publish-memoir/amp/",
+      "publishedDateTime": "2021-04-07T18:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-08-bidens-planned-pick-for-atf-director-a-fierce-advocate-for-gun-control.md",
+      "title": "Biden's planned pick for ATF director a fierce advocate for gun control",
+      "excerpt": "David Chipman, President Joe Biden's planned nominee for director of the Bureau of Alcohol, Tobacco, Firearms and Explosives, has a long history at the agency and sports credentials in gun control advocacy sure to excite firearm safety groups.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/VX54MO6W-_I/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/VX54MO6W-_I/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 415,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210407172125-david-chipman-2019-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/07/politics/david-chipman-joe-biden-atf-director/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/07/politics/david-chipman-joe-biden-atf-director/index.html",
+      "publishedDateTime": "2021-04-07T18:30:50-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-07-boehner-lays-blame-for-that-bloody-insurrection-at-trumps-feet.md",
       "title": "Boehner lays blame for 'that bloody insurrection' at Trump's feet",
       "excerpt": "Former House Speaker John Boehner said former President Donald Trump \"incited that bloody insurrection\" at the US Capitol and blamed his false election claims for the GOP losing control of Congress, according to excerpts from his forthcoming book obtained by The New York Times.\n    \n",
@@ -1240,115 +1344,6 @@
       ],
       "topics": [
         "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-04-07-donald-trump-calls-georgia-election-law-too-weak-hope-the-rinos-are-happy.md",
-      "title": "Donald Trump Calls Georgia Election Law 'Too Weak': 'Hope the RINOs Are Happy'",
-      "excerpt": "Former U.S. President Donald Trump has criticized Georgia's recently passed election law as \"too weak.\" \"Hope the RINOs are happy,\" Trump wrote in a Tuesday statement criticizing the law. RINO is an initialism for Republicans in Name Only. The initialism ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/donald-trump-calls-georgia-election-law-too-weak-hope-rinos-are-happy-1581492",
-      "originalUrl": "https://www.newsweek.com/donald-trump-calls-georgia-election-law-too-weak-hope-rinos-are-happy-1581492",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 236,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1772337/donald-trump-georgia-election-law-weak-rinos.jpg",
-          "width": 3000,
-          "height": 2000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/donald-trump-calls-georgia-election-law-too-weak-hope-rinos-are-happy-1581492?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-calls-georgia-election-law-too-weak-hope-rinos-are-happy-1581492?amp=1",
-      "publishedDateTime": "2021-04-06T17:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-04-06-harris-moving-into-naval-observatory-residence-after-renovations-delay.md",
-      "title": "Harris moving into Naval Observatory residence after renovations delay",
-      "excerpt": "Vice President Kamala Harris and second gentleman Doug Emhoff will move in to the Naval Observatory residence Tuesday night after their move was delayed for more than two months because of \"repairs to the home,\" a White House official told CNN.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ByFF3oGXhds/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ByFF3oGXhds/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 285,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210326151148-01-vice-president-residence-2015-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/06/politics/kamala-harris-move-naval-observatory-residence/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/06/politics/kamala-harris-move-naval-observatory-residence/index.html",
-      "publishedDateTime": "2021-04-06T16:55:57-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice",
         "Kamala Harris"
       ]
     }

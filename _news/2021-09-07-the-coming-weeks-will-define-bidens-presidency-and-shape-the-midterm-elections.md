@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/09/07/politics/joe-biden-september-batt
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/09/07/politics/joe-biden-september-battles-ahead/index.html"
 type: article
 quality: 186
-heat: 746
+heat: 766
 published: true
 
 provider:
@@ -380,6 +380,22 @@ related:
     quality: 157
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210226160610-02-ron-klain-2020-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden administration asks for billions in disaster and refugee funding in request to keep government running"
+    excerpt: "The Biden administration is asking for billions of dollars for extreme weather recovery efforts and the resettlement of Afghan refugees in its proposal to keep the government funded past September 30.\n    \n"
+    publishedDateTime: 2021-09-07T19:07:02Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2IZJS_VjGEA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/09/07/politics/administration-budget-request-extreme-weather-afghan-refugees/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/09/07/politics/administration-budget-request-extreme-weather-afghan-refugees/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 156
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210907143144-03-biden-new-jersey-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
