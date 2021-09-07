@@ -75,6 +75,22 @@ related:
         width: 400
         height: 266
         isCached: true
+  - title: "Jill Biden heads back to classroom as a working first lady"
+    excerpt: "Jill Biden is going back to her whiteboard. After months of teaching writing and English to community college students in boxes on a computer screen, the first lady resumes teaching in person Tuesday from a classroom at Northern Virginia Community College,"
+    publishedDateTime: 2021-09-07T09:13:00Z
+    webUrl: "https://www.houstonchronicle.com/news/article/Jill-Biden-heads-back-to-classroom-as-a-working-16439318.php"
+    ampWebUrl: "https://www.houstonchronicle.com/news/amp/Jill-Biden-heads-back-to-classroom-as-a-working-16439318.php"
+    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Jill-Biden-heads-back-to-classroom-as-a-working-16439318.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 125
+    images:
+      - url: "https://s.hdnux.com/photos/01/21/61/10/21434892/3/ratio3x2_400.jpg"
+        width: 400
+        height: 267
+        isCached: true
   - title: "Joe Biden’s future looks bleak – he’s shamed and endangered the West"
     excerpt: "A broken man THE charge sheet against Joe Biden grows by the day. It’s not just that his reckless, casual disregard for Afghanistan and its ­people led directly to the suicide bomb slaughter of 13"
     publishedDateTime: 2021-08-28T01:58:00Z
@@ -441,6 +457,17 @@ related:
         width: 1024
         height: 640
         isCached: true
+  - title: "Biden to survey NY and NJ storm damage after deadly flooding"
+    excerpt: "WASHINGTON (AP) — President Joe Biden will survey damage in parts of the northeast that suffered catastrophic flash flooding from the remnants of Hurricane Ida, and use the muddy backdrop to call for federal spending to fortify infrastructure so it can ..."
+    publishedDateTime: 2021-09-07T05:22:00Z
+    webUrl: "https://www.bostonglobe.com/2021/09/07/nation/biden-survey-ny-nj-storm-damage-after-deadly-flooding/"
+    ampWebUrl: "https://www.bostonglobe.com/2021/09/07/nation/biden-survey-ny-nj-storm-damage-after-deadly-flooding/?outputType=amp"
+    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2021/09/07/nation/biden-survey-ny-nj-storm-damage-after-deadly-flooding/?outputType=amp"
+    type: article
+    provider:
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 55
   - title: "President Joe Biden Proclaims Thursday, 26, 2021 as Women’s Equality Day"
     excerpt: "On President Joe Biden proclaimed August 26, 2021 as Women’s Equality Day. Today, we celebrate Women’s Equality Day, a reminder not only of the progress women have won through the years, but of the important work that remains to be done."
     publishedDateTime: 2021-08-26T21:01:00Z
@@ -495,6 +522,6 @@ related:
         height: 1453
         isCached: true
 
-secured: "a9prgfG9VyFaNJ3KGGQh5IrH2NzLxUE5cTx4xYDYMBkCjlLkTipxMpvTzlQAbF+uuiHdzRCu3MMPkg2auXb7By/ryasFVhWU9mXcmgJFqzl5PK+iDJNl8iMhrikxZHHtoTaCBAjTHS8JgLKeExE/mR/y4cwEZfGS8XE7wMo+v7kS+LzhYAR+t+bLiNY86f5Gb8YBipXGqpQntSiJ3wbhmjqXs+xJhMMGbxbISWKz1OQ2iKeWTnL4HIb9VnxQL7bQxo1GfEF8a3Ry+xMxqeEDjADz44kMMdct8lYfMPlDHERHRblHebKnGpG4aZRV9/jVpHUVMNDi6QvmoPR+ejddaQVKgMJpQGLvAxGdM7bG3HM=;vUKi5zRacOzbwxc3xNff3g=="
+secured: "+Rs0611BbTEVAb1F02ZMfFggKlwQxU6rL0z9BSpFi0aDHMjAO7WN2Q2vJrAFfV3HwHSBm3iWwrKuKL7tR3I4DmD75d7WIIAK3bmCO/Aftp4cCs6Gqtj1isOITBg/DQCfxJSjg8MoUEu3OnUXvKaLrQDBipOEcthZB/Df1AqN6EcFAiFtXFvmr8LX6TIijIzoibj1pa3nlFlF3VGZpYJIM0e+4rb2MVSGTXi2yafeQrkuqW1pUO8saFgwhsIgTnbwIRRm1qnPllCrosaQp6k6dp14Ocf+o/kyXnRN40RD3M773EjQHKpcjR6ynlMASEtvy5OBNBCXEP6CcAYnchuC+xaWMhhpzbyupiuxpdKlTaEkIuXT4nU/H7Os72ofYBNu9jzW++eN7tZlUviW9IZ4AVY9UF9BPGG39m7681N2MeIz3/LNhVPOUf6hW5XCNyitUAJfZaCXmHH4hNMjLzOX/2jCEoLo8DsoflBQwd3DnQ/qgt3dUBhBeiUjVdoNOtJw3UPIvuY9eSmSdPPnYFP3Pg==;k/dJ3sjnEm8y6kQZWIhHrQ=="
 ---
 

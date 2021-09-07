@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-08-27-seven-capitol-cops-sue-donald-trump-and-his-allies-for-plot-on-the-capitol.md",
+      "title": "Seven Capitol cops SUE Donald Trump and his allies for 'plot' on the Capitol",
+      "excerpt": "Seven Capitol Police officers have filed suit against former President Donald Trump, and some of his associates, claiming they caused the Capitol riot that caused them to face beatings and injuries",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailymail.co.uk/news/article-9930019/Seven-Capitol-cops-SUE-Donald-Trump-allies-plot-Capitol.html",
+      "originalUrl": "https://www.dailymail.co.uk/news/article-9930019/Seven-Capitol-cops-SUE-Donald-Trump-allies-plot-Capitol.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.dailymail.co.uk/1s/2021/08/26/17/47138019-0-image-a-43_1629996316019.jpg",
+          "width": 636,
+          "height": 382,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailymail.co.uk/news/article-9930019/amp/Seven-Capitol-cops-SUE-Donald-Trump-allies-plot-Capitol.html",
+      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-9930019/amp/Seven-Capitol-cops-SUE-Donald-Trump-allies-plot-Capitol.html",
+      "publishedDateTime": "2021-08-26T10:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Mail",
+        "domain": "dailymail.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-08-26-mike-lindells-obsession-with-trump-a-symptom-of-human-nature-letter.md",
       "title": "Mike Lindell’s obsession with Trump a symptom of human nature | Letter",
       "excerpt": "Mike Lindell may be in love with “the Donald,” an unrequited love that will never become realized, writer says.",
@@ -1413,49 +1456,6 @@
       "provider": {
         "name": "Associated Press",
         "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-08-16-where-is-camp-david-and-did-donald-trump-invite-the-taliban-there.md",
-      "title": "Where is Camp David and did Donald Trump invite the Taliban there?",
-      "excerpt": "JOE Biden is facing fury for “hiding out on vacation” at Camp David while the Taliban seize control of Afghanistan. The president left for the retreat on Friday, August 13, and appears",
-      "sourceUrl": null,
-      "webUrl": "https://www.the-sun.com/news/3480762/camp-david-donald-trump-taliban/",
-      "originalUrl": "https://www.the-sun.com/news/3480762/camp-david-donald-trump-taliban/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.the-sun.com/wp-content/uploads/sites/6/2021/08/Camp-David.jpg?strip=all&quality=100&w=1200&h=800&crop=1",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.the-sun.com/news/3480762/camp-david-donald-trump-taliban/amp/",
-      "cdnAmpWebUrl": "https://www-the--sun-com.cdn.ampproject.org/c/s/www.the-sun.com/news/3480762/camp-david-donald-trump-taliban/amp/",
-      "publishedDateTime": "2021-08-16T01:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Sun",
-        "domain": "the-sun.com",
         "images": null,
         "publishers": null,
         "authors": null

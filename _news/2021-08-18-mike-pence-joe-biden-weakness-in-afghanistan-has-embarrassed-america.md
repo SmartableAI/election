@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/mike-pence-joe-biden-weakness-afghanistan-e
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mike-pence-joe-biden-weakness-afghanistan-embarrassed-america-taliban-1620432?amp=1"
 type: article
 quality: 139
-heat: 2399
+heat: 2419
 published: true
 
 provider:
@@ -656,6 +656,22 @@ related:
       - url: "https://images.hindustantimes.com/img/2021/08/23/1600x900/HT_Normal_Thumbnail_-_AUG__2021_1629737552559_1629737630771.png"
         width: 1600
         height: 899
+        isCached: true
+  - title: "Pence blasts Biden’s approach on Iran, Afghanistan as ‘arousing evil’ - opinion"
+    excerpt: "The former vice president called Bennett ‘immensely talented,’ and urged him to strengthen bipartisan support of Israel."
+    publishedDateTime: 2021-08-25T17:20:00Z
+    webUrl: "https://www.jpost.com/opinion/pence-blasts-bidens-approach-on-iran-afghanistan-as-arousing-evil-opinion-677712"
+    ampWebUrl: "https://m.jpost.com/opinion/pence-blasts-bidens-approach-on-iran-afghanistan-as-arousing-evil-opinion-677712/amp"
+    cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/opinion/pence-blasts-bidens-approach-on-iran-afghanistan-as-arousing-evil-opinion-677712/amp"
+    type: article
+    provider:
+      name: The Jerusalem Post Blogs
+      domain: jpost.com
+    quality: 86
+    images:
+      - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/482041"
+        width: 640
+        height: 428
         isCached: true
   - title: "Joe Biden’s credibility has been shredded in Afghanistan"
     excerpt: "Since it is Joe Biden in the White House there is instead, largely, an embarrassed silence. It is true that Trump set the US on the path out of Afghanistan and began the delusional peace talks with the Taliban that have gone nowhere."

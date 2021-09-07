@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-09-07-mueller-filings-close-in-on-trump-darcy-cartoon.md",
+      "title": "Mueller filings close in on Trump: Darcy cartoon",
+      "excerpt": "Darcy cartoon CLEVELAND, Ohio -- Rex Tillerson told Bob Schieffer it was \"challenging\" going from \"the disciplined, highly process-oriented ExxonMobil corporation \" to working for President Trump \"who is pretty undisciplined,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/article/europe-crime-robert-mueller-rex-tillerson-bob-schieffer-74252f70f31643639ab3f8adaa068186",
+      "originalUrl": "https://apnews.com/article/europe-crime-robert-mueller-rex-tillerson-bob-schieffer-74252f70f31643639ab3f8adaa068186",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/ShareLogo2.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-07T02:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-09-06-melania-trump-doesnt-want-to-be-first-lady-again-its-over.md",
       "title": "Melania Trump Doesn’t Want To Be First Lady Again: ‘It’s Over’",
       "excerpt": "Melania Trump, the wife of former President Donald Trump, has no interest in returning to the White House as the first lady again, according to a report. The former first lady has",
@@ -1433,49 +1476,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-08-27-seven-capitol-cops-sue-donald-trump-and-his-allies-for-plot-on-the-capitol.md",
-      "title": "Seven Capitol cops SUE Donald Trump and his allies for 'plot' on the Capitol",
-      "excerpt": "Seven Capitol Police officers have filed suit against former President Donald Trump, and some of his associates, claiming they caused the Capitol riot that caused them to face beatings and injuries",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailymail.co.uk/news/article-9930019/Seven-Capitol-cops-SUE-Donald-Trump-allies-plot-Capitol.html",
-      "originalUrl": "https://www.dailymail.co.uk/news/article-9930019/Seven-Capitol-cops-SUE-Donald-Trump-allies-plot-Capitol.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.dailymail.co.uk/1s/2021/08/26/17/47138019-0-image-a-43_1629996316019.jpg",
-          "width": 636,
-          "height": 382,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailymail.co.uk/news/article-9930019/amp/Seven-Capitol-cops-SUE-Donald-Trump-allies-plot-Capitol.html",
-      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-9930019/amp/Seven-Capitol-cops-SUE-Donald-Trump-allies-plot-Capitol.html",
-      "publishedDateTime": "2021-08-26T10:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Mail",
-        "domain": "dailymail.co.uk",
-        "images": null,
         "publishers": null,
         "authors": null
       },

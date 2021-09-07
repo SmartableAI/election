@@ -63,6 +63,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Joe Biden to referee Democrats in brewing battle over $3.5tn budget bill"
+    excerpt: "Centrists are concerned about the price tag, while progressives say they will oppose attempt to cut funding in the proposal"
+    publishedDateTime: 2021-09-07T08:01:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/sep/07/biden-democrats-brewing-battle-budget-bill"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/sep/07/biden-democrats-brewing-battle-budget-bill"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/sep/07/biden-democrats-brewing-battle-budget-bill"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 124
+    images:
+      - url: "https://i.guim.co.uk/img/media/b4326151f5553ee7c3a61ebdb13a9e32c10ffb50/0_541_8192_4918/master/8192.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=662bdb331b7f81a8b7b99dff453c03e8"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Biden heads to Capitol Hill to boost Democrats’ ‘human infrastructure’ plan"
     excerpt: "President joins Senate Democrats for lunch a day after Schumer announces agreement on spending proposal"
     publishedDateTime: 2021-07-14T20:54:00Z

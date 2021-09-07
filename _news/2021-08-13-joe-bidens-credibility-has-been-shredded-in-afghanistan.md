@@ -665,6 +665,22 @@ related:
         width: 1600
         height: 899
         isCached: true
+  - title: "Pence blasts Biden’s approach on Iran, Afghanistan as ‘arousing evil’ - opinion"
+    excerpt: "The former vice president called Bennett ‘immensely talented,’ and urged him to strengthen bipartisan support of Israel."
+    publishedDateTime: 2021-08-25T17:20:00Z
+    webUrl: "https://www.jpost.com/opinion/pence-blasts-bidens-approach-on-iran-afghanistan-as-arousing-evil-opinion-677712"
+    ampWebUrl: "https://m.jpost.com/opinion/pence-blasts-bidens-approach-on-iran-afghanistan-as-arousing-evil-opinion-677712/amp"
+    cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/opinion/pence-blasts-bidens-approach-on-iran-afghanistan-as-arousing-evil-opinion-677712/amp"
+    type: article
+    provider:
+      name: The Jerusalem Post Blogs
+      domain: jpost.com
+    quality: 86
+    images:
+      - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/482041"
+        width: 640
+        height: 428
+        isCached: true
   - title: "Afghanistan War: Liz Cheney Slams Joe Biden, Donald Trump As Kabul Falls To Taliban"
     excerpt: "Wyo., slammed the Trump and Biden administrations for its handling of the U.S. withdrawal from Afghanistan. She suggested Trump instigated the problem and now Biden has continued it. Afghanistan President Ashraf Ghani fled the country on Sunday,"
     publishedDateTime: 2021-08-15T20:42:00Z

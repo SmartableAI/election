@@ -669,6 +669,22 @@ related:
         width: 1600
         height: 899
         isCached: true
+  - title: "Pence blasts Biden’s approach on Iran, Afghanistan as ‘arousing evil’ - opinion"
+    excerpt: "The former vice president called Bennett ‘immensely talented,’ and urged him to strengthen bipartisan support of Israel."
+    publishedDateTime: 2021-08-25T17:20:00Z
+    webUrl: "https://www.jpost.com/opinion/pence-blasts-bidens-approach-on-iran-afghanistan-as-arousing-evil-opinion-677712"
+    ampWebUrl: "https://m.jpost.com/opinion/pence-blasts-bidens-approach-on-iran-afghanistan-as-arousing-evil-opinion-677712/amp"
+    cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/opinion/pence-blasts-bidens-approach-on-iran-afghanistan-as-arousing-evil-opinion-677712/amp"
+    type: article
+    provider:
+      name: The Jerusalem Post Blogs
+      domain: jpost.com
+    quality: 86
+    images:
+      - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/482041"
+        width: 640
+        height: 428
+        isCached: true
   - title: "Joe Biden’s credibility has been shredded in Afghanistan"
     excerpt: "Since it is Joe Biden in the White House there is instead, largely, an embarrassed silence. It is true that Trump set the US on the path out of Afghanistan and began the delusional peace talks with the Taliban that have gone nowhere."
     publishedDateTime: 2021-08-13T11:03:00Z
