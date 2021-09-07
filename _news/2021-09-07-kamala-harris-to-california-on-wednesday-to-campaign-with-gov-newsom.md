@@ -73,6 +73,22 @@ related:
         width: 1024
         height: 580
         isCached: true
+  - title: "Biden to travel to California ‘early next week’ to campaign for Gov. Newsom ahead of recall vote"
+    excerpt: "Biden’s visit would come in the final hours of an election in which most of the voting is expected to be done by mail."
+    publishedDateTime: 2021-09-07T17:49:00Z
+    webUrl: "https://www.ocregister.com/2021/09/07/biden-to-travel-to-california-early-next-week-to-campaign-for-gov-newsom-ahead-of-recall-vote"
+    ampWebUrl: "https://www.ocregister.com/2021/09/07/biden-to-travel-to-california-early-next-week-to-campaign-for-gov-newsom-ahead-of-recall-vote/amp/"
+    cdnAmpWebUrl: "https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2021/09/07/biden-to-travel-to-california-early-next-week-to-campaign-for-gov-newsom-ahead-of-recall-vote/amp/"
+    type: article
+    provider:
+      name: Orange County Register
+      domain: ocregister.com
+    quality: 62
+    images:
+      - url: "https://www.ocregister.com/wp-content/uploads/2021/09/hypatia-h_445738d11f947fa702d582d2258d89fe-h_9dc4f292e4652abd89a22192843dbeb5.jpg?w=1024&#038;h=682"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Larry Elder Dares Joe Biden to Campaign for Gavin Newsom"
     excerpt: "Larry Elder Dares Joe Biden to Campaign for Gavin Newsom - [quote]Elder spoke exclusively to Breitbart News after an event addressing hundreds of supporters in Woo"
     publishedDateTime: 2021-08-25T16:20:00Z
@@ -110,6 +126,6 @@ related:
       domain: kentucky.com
     quality: 55
 
-secured: "NNNLn/lvlmVB1G+ozwfQ8U4fwL/xec7k2StJdnl6BxKs2cEVQMnoqMWk9zJRYdrKlPHHCju260L95G9Om0lziu7IQxELIjPW7H10NFKlPc4wSboug66uEGk+ZBqT6nDywu8CT6Zm2cs2P7HWlFaAdcqT3GkBhi/VWYOUk3zQ/5TugthiK/AFT9JAEYKm48YTPbvFXczKIrQUVKLA+FD/apksBjx1kvXzcGyaP9yFDgnaGbPvtS2vqr5189YO9oriSexobZlKTuc8reWCFfVJ5XFQAsF8qcrbhLBvqMaqR9ITHNoCcoUxN/FxwBYR90hqJXFmATBGfp6/1zDfwIkFGSPWV4xk6mZRVwZRPhEULpc=;aOh/y4aPJaM3Ig6uUiE0dQ=="
+secured: "xPfYdewjWkwEADtuBVHtDkBciuNZpKyHI8u8P+zg7RKYVzYzi/XN0REHjqIhvMNCn1tN1GNoxkj0zF6giOxvvCfMEilCFSS7CNg96/ulrRf/ayTPcT5mVCmsbl1PEvgVHIDARApscuvoISBvvHIQozm2s1Y57Tqai6/jGdCwMiwsblcCaeerfyiyhLUq5wOFhqxs9qC6keWm9LEZ/m/Unmsk/U1DdXoEUoiD5fjG0WPJzNXJITAgls8ZRrO5dVMR5SyiwgJFgJdU2eVt4n5J+tpubwwgLp3oq/WzHqiKq+r5aFGWkKrPuBk5NuHW8IhbQ8LKeEVlo3h5QjBO9h/P6VQ0VIonobAreS07e0avAMJPSW9+zQHUN/f9xMfj/1/Cr1ixW1tjv7u4QHSelR5I80/J6LwtoEdxxurXad8kXHJUNmkvM9n33c9OdQWGcox0jjshTNj56p+S20EXPmQK2PwqgR10Ye0VEYqp8MWo2Gn4VUla3IshizahqOwszPTmaeQw8/K+A02JRTrFemAULg==;GXS1WYcta4Fb0cbeb4ZyNA=="
 ---
 

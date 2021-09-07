@@ -9,7 +9,7 @@ ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/09/07/new-york-jersey-joe-b
 cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/09/07/new-york-jersey-joe-biden-hurricane-ida/7121631012476/"
 type: article
 quality: 75
-heat: 75
+heat: 95
 published: true
 
 provider:
@@ -25,6 +25,24 @@ images:
     width: 800
     height: 533
     isCached: true
+
+related:
+  - title: "'We don't have any more time:' Biden highlights climate change as he tours Hurricane Ida damage in NY, NJ"
+    excerpt: "Biden is using the trip to highlight climate change and underscore his infrastructure bill, which will help communities prepare for extreme weather."
+    publishedDateTime: 2021-09-07T17:28:00Z
+    webUrl: "https://www.indystar.com/story/news/politics/2021/09/07/biden-talk-climate-change-ny-nj-tour-hurricane-ida-damage/5751911001/"
+    ampWebUrl: "https://amp.indystar.com/amp/5751911001"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/5751911001"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 58
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/09/07/USAT/d9420a68-f0d8-4cdf-b3cf-e9ea0e81c78a-GTY_1338886053.jpg?auto=webp&crop=6658,3746,x0,y414&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "YPB4NY6M4e5EXTW8KbA390N8GgwvKHTJjuR+0O0VWsPzN3AEs+XhIryadTkPX/l33xRn3evBBEnwUBnc3Q8mkuO0UKk9iYVOD5HdW+WWToujnFmK6pOVHC6vWqHbBp6BwAQIxAu1e4LPPjeGNI7eJ/++8URCFXhVzs59ouwjXl8+KMnXYcHxToMY7rTIbVCQlZMu0ZZHi3VIfbz3Cp1anB8IYcSw+hambYZN11HlpZU27CRQilUifL3n2Yw68ZktgTdLaNAnxNC89JIbuq5qE0MekLiitirSQQk/hzTgmPPfrgMDg8c1B2HhkH4D8gMldGsCJeBx2z4etxExrkUYxShCFwelkpKbp8upJCbl+sw=;7umanJ+IL0GmURYwrxwXVg=="
 ---

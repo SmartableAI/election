@@ -44,6 +44,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "House Oversight Republicans probe Hunter Biden's art dealings"
+    excerpt: "Fox News has obtained a letter sent by Rep. James Comer, R-Ky., the ranking member of the House Oversight Committee, to Hunter Biden’s high-flying New York City art dealer, Georges Berges."
+    publishedDateTime: 2021-09-07T16:10:42Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Pc0HyD3GETw/house-oversight-republicans-probe-hunter-bidens-art-dealings"
+    ampWebUrl: "https://www.foxnews.com/politics/house-oversight-republicans-probe-hunter-bidens-art-dealings.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/house-oversight-republicans-probe-hunter-bidens-art-dealings.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a1df13ce-b28b-4902-8af9-3d98396a1a45/2b3eef5c-18e5-4ad6-8de0-c654fa702cdb/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Hunter Biden's art dealer said he wanted to be the 'lead guy in China' in 2015"
     excerpt: "Georges Berges, who is representing Hunter Biden as he ventures into the art world, has talked about his business dealings in China in the past, but his reported ties could pose an ethics issue as he sells Biden's art to anonymous buyers."
     publishedDateTime: 2021-07-26T16:57:04Z

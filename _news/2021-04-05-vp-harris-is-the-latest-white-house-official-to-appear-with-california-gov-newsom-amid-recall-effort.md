@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden to travel to California 'early next week' to campaign for Newsom ahead of recall vote"
+    excerpt: "President Joe Biden will travel to California \"early next week\" to campaign for Democratic Gov. Gavin Newsom ahead of the September 14 recall election, White House press secretary Jen Psaki said Tuesday.\n    \n"
+    publishedDateTime: 2021-09-07T16:44:29Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/CKHACwr1cFY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/09/07/politics/president-travel-california-recall/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/09/07/politics/president-travel-california-recall/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 165
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210902140750-01-biden-ida-0902-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "hRSZ2gQWhGj3DoyTb7MAkEnsCgRoipq99lm/R3y4Un9TbMh8ETA6KGZe33UHX+Oy3z+k3JKyaRjb02vLnNlkFK+8Lb69OJTf47z4wg/qBZ39AzlQvC+BP7Z8jEXNLPHxeI3y9zvqqHszWW38bzhBqWQWjXXn975cEJGGAo8RAcZcHMutFDTQfP6wy9G+p2BQIJ6AECl6HONZPC04lSMIADexX/uJfEaFlJ5/quluvsfBR2t1PZoKK5Fq2XWPkjWUPDdo2kMuD4R4UjcPeYyA+/LY+YqTeeWZEeF9y/mvTqNcE2maE4cJoNrtbP3IdC6Fmna7ougKnNtt+U5TNWSfc4KK6L5qRVCetr8QEJ3z0S8=;zZrDdYJCOG4MclTjfrbfFg=="
 ---

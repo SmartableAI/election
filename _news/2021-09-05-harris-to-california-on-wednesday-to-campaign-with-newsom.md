@@ -59,6 +59,22 @@ related:
         width: 1024
         height: 580
         isCached: true
+  - title: "Biden to travel to California ‘early next week’ to campaign for Gov. Newsom ahead of recall vote"
+    excerpt: "Biden’s visit would come in the final hours of an election in which most of the voting is expected to be done by mail."
+    publishedDateTime: 2021-09-07T17:49:00Z
+    webUrl: "https://www.ocregister.com/2021/09/07/biden-to-travel-to-california-early-next-week-to-campaign-for-gov-newsom-ahead-of-recall-vote"
+    ampWebUrl: "https://www.ocregister.com/2021/09/07/biden-to-travel-to-california-early-next-week-to-campaign-for-gov-newsom-ahead-of-recall-vote/amp/"
+    cdnAmpWebUrl: "https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2021/09/07/biden-to-travel-to-california-early-next-week-to-campaign-for-gov-newsom-ahead-of-recall-vote/amp/"
+    type: article
+    provider:
+      name: Orange County Register
+      domain: ocregister.com
+    quality: 62
+    images:
+      - url: "https://www.ocregister.com/wp-content/uploads/2021/09/hypatia-h_445738d11f947fa702d582d2258d89fe-h_9dc4f292e4652abd89a22192843dbeb5.jpg?w=1024&#038;h=682"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Larry Elder Dares Joe Biden to Campaign for Gavin Newsom"
     excerpt: "Larry Elder Dares Joe Biden to Campaign for Gavin Newsom - [quote]Elder spoke exclusively to Breitbart News after an event addressing hundreds of supporters in Woo"
     publishedDateTime: 2021-08-25T16:20:00Z

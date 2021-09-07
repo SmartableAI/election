@@ -47,6 +47,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden expected to campaign with Newsom next week, ahead of California recall election"
+    excerpt: "With one week to go until ballots must be postmarked, deposited in drop boxes, or handed in in-person in California’s gubernatorial recall election, embattled Democratic Gov. Gavin Newsom is making his closing pitch to save his job steering the nation’s most populous state."
+    publishedDateTime: 2021-09-07T16:52:23Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/LFMGOyab9ss/newsom-spends-big-bucks-teams-up-with-big-names-in-california-recall-election-closing-push"
+    ampWebUrl: "https://www.foxnews.com/politics/newsom-spends-big-bucks-teams-up-with-big-names-in-california-recall-election-closing-push.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/newsom-spends-big-bucks-teams-up-with-big-names-in-california-recall-election-closing-push.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 183
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "President Biden urges voters to vote ‘no’ in Newsom’s recall vote"
     excerpt: "President Joe Biden made a statement on Thursday supporting California Governor Gavin Newsom and urging voters to vote “no” in the recall election."
     publishedDateTime: 2021-08-13T02:00:00Z

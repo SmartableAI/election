@@ -47,6 +47,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Refugee organizations scramble to settle Afghans after years of Trump-era budget cuts"
+    excerpt: "After the Biden administration finished one of the largest airlifts in the nation’s history Tuesday, organizations helping Afghans arriving in the U.S. are scrambling."
+    publishedDateTime: 2021-09-07T16:23:00Z
+    webUrl: "https://abcnews.go.com/Politics/refugee-organizations-scramble-settle-afghans-years-trump-era/story?id=79812415"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/refugee-organizations-scramble-settle-afghans-years-trump-era/story?id=79812415"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/refugee-organizations-scramble-settle-afghans-years-trump-era/story?id=79812415"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 118
+    images:
+      - url: "https://s.abcnews.com/images/Politics/dulles-airport-afghan-refugees-rt-jt-210903_1630696932723_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "‘He embodies America First.’ Trump endorses Herschel Walker’s U.S. Senate bid"
     excerpt: "Herschel Walker will never let you down. He was a great football player and will be an even better U.S. Senator — if that is even possible,” Trump said."
     publishedDateTime: 2021-09-03T12:53:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/americans-emailed-pence-officials-asking-re
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/americans-emailed-pence-officials-asking-remove-trump-office-after-capitol-riot-1626418?amp=1"
 type: article
 quality: 131
-heat: 171
+heat: 191
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Refugee organizations scramble to settle Afghans after years of Trump-era budget cuts"
+    excerpt: "After the Biden administration finished one of the largest airlifts in the nation’s history Tuesday, organizations helping Afghans arriving in the U.S. are scrambling."
+    publishedDateTime: 2021-09-07T16:23:00Z
+    webUrl: "https://abcnews.go.com/Politics/refugee-organizations-scramble-settle-afghans-years-trump-era/story?id=79812415"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/refugee-organizations-scramble-settle-afghans-years-trump-era/story?id=79812415"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/refugee-organizations-scramble-settle-afghans-years-trump-era/story?id=79812415"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 118
+    images:
+      - url: "https://s.abcnews.com/images/Politics/dulles-airport-afghan-refugees-rt-jt-210903_1630696932723_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "House panel investigating Capitol riot plans to ask telecom firms to preserve Trump allies' phone records"
     excerpt: "The Jan. 6 committee's list of names — including Trump loyalists Marjorie Taylor Greene, Matt Gaetz and Mo Brooks — is still evolving."
     publishedDateTime: 2021-08-30T15:51:00Z

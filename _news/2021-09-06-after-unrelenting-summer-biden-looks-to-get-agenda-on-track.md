@@ -287,6 +287,22 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "Biden surveys N.Y. and N.J. storm damage after deadly flooding"
+    excerpt: "Pointing accusingly at climate change, President Joe Biden toured deadly Northeast flood damage Tuesday and said he was thinking about the all families who suffered “profound” losses"
+    publishedDateTime: 2021-09-07T17:40:00Z
+    webUrl: "https://www.denverpost.com/2021/09/07/biden-surveys-ny-and-nj-storm-damage-after-deadly-flooding/"
+    ampWebUrl: "https://www.denverpost.com/2021/09/07/biden-surveys-ny-and-nj-storm-damage-after-deadly-flooding/amp/"
+    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2021/09/07/biden-surveys-ny-and-nj-storm-damage-after-deadly-flooding/amp/"
+    type: article
+    provider:
+      name: The Denver Post
+      domain: denverpost.com
+    quality: 75
+    images:
+      - url: "https://www.denverpost.com/wp-content/uploads/2021/09/AP21250592847228.jpg?w=1024&#038;h=683"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "President Joe Biden to mark 20th anniversary of 9/11 at 3 memorial sites"
     excerpt: "President Joe Biden will visit ground zero in New York City, the Pentagon and the memorial outside Shanksville, Pennsylvania, where United Flight 93 was forced down, the White House said Saturday."
     publishedDateTime: 2021-09-04T19:29:00Z
@@ -334,6 +350,22 @@ related:
       - url: "https://www.bostonherald.com/wp-content/uploads/2021/08/GettyImages-1234946450.jpg?w=1024&#038;h=642"
         width: 1024
         height: 642
+        isCached: true
+  - title: "Biden surveys storm damage after deadly flooding from remnants of Hurricane Ida"
+    excerpt: "Every part of the country is getting hit by extreme weather,” President Joe Biden said at the Somerset County emergency management center Tuesday."
+    publishedDateTime: 2021-09-07T17:43:00Z
+    webUrl: "https://www.mycentraljersey.com/story/news/local/2021/09/07/joe-biden-surveys-hurricane-ida-storm-damage-nj-ny/5756977001/"
+    ampWebUrl: "https://amp.mycentraljersey.com/amp/5756977001"
+    cdnAmpWebUrl: "https://amp-mycentraljersey-com.cdn.ampproject.org/c/s/amp.mycentraljersey.com/amp/5756977001"
+    type: article
+    provider:
+      name: MyCentralJersey
+      domain: mycentraljersey.com
+    quality: 71
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/09/07/PCNJ/da791caf-583a-4f46-b602-30061b9db3a6-AP21250592847228.jpg?auto=webp&crop=5799,3262,x0,y295&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Biden praises WNBA champs for social justice activism"
     excerpt: "President Joe Biden honored the 2020 WNBA champions Seattle Storm on Monday, celebrating their success on the court and hailing the four-time title holders for changing lives with"
@@ -475,6 +507,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "President Biden Departs White House for New Jersey and New York"
+    excerpt: "President Joe Biden speaks with reporters prior to departing the White House via Marine One on Tuesday, September 7, 2021 in Washington, DC. Biden will travel to New Jersey and New York to tour areas effected by Hurricane Ida and meet with local leaders."
+    publishedDateTime: 2021-09-07T17:20:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/489f9bb614d9129707cde3f23fe45d79/President-Biden-Departs-White-House-for-New-Jersey-and-New-York/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/489f9bb614d9129707cde3f23fe45d79/BIDEN-IDA.jpg"
+        width: 650
+        height: 433
+        isCached: true
   - title: "President Joe Biden Proclaims Thursday, 26, 2021 as Women’s Equality Day"
     excerpt: "On President Joe Biden proclaimed August 26, 2021 as Women’s Equality Day. Today, we celebrate Women’s Equality Day, a reminder not only of the progress women have won through the years, but of the important work that remains to be done."
     publishedDateTime: 2021-08-26T21:01:00Z
@@ -488,6 +534,20 @@ related:
       - url: "https://goldrushcam.com/sierrasuntimes/images/2020/white-house-gov.jpg"
         width: 679
         height: 357
+        isCached: true
+  - title: "Biden surveys New York and New Jersey storm damage after deadly flooding"
+    excerpt: "Pointing accusingly at climate change, President Joe Biden toured deadly Northeast flood damage Tuesday and said he was thinking about the all families who suffered \"profound\" losses from the powerful remnants of Hurricane Ida."
+    publishedDateTime: 2021-09-07T17:44:00Z
+    webUrl: "https://www.arkansasonline.com/news/2021/sep/07/biden-surveys-ny-and-nj-storm-damage-after-deadly-/"
+    type: article
+    provider:
+      name: Arkansas Democrat-Gazette
+      domain: arkansasonline.com
+    quality: 54
+    images:
+      - url: "https://wehco.media.clients.ellingtoncms.com/img/photos/2021/09/07/Biden_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
+        width: 600
+        height: 400
         isCached: true
   - title: "President Joe Biden walks storm-devastated LaPlace: 'I know you're hurting'"
     excerpt: "As widespread suffering continued five days after Hurricane Ida ransacked southeast Louisiana, President Joe Biden walked through storm-ravaged LaPlace on Friday while residents tossed rotting insulat"

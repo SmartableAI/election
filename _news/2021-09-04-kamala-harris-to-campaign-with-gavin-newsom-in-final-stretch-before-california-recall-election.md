@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/09/04/politics/kamala-harris-gavin-news
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/09/04/politics/kamala-harris-gavin-newsom-california-recall/index.html"
 type: article
 quality: 188
-heat: 208
+heat: 228
 published: true
 
 provider:
@@ -45,6 +45,22 @@ related:
     quality: 170
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210405145532-01-harris-newsom-0405-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden to travel to California 'early next week' to campaign for Newsom ahead of recall vote"
+    excerpt: "President Joe Biden will travel to California \"early next week\" to campaign for Democratic Gov. Gavin Newsom ahead of the September 14 recall election, White House press secretary Jen Psaki said Tuesday.\n    \n"
+    publishedDateTime: 2021-09-07T16:44:29Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/CKHACwr1cFY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/09/07/politics/president-travel-california-recall/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/09/07/politics/president-travel-california-recall/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 165
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210902140750-01-biden-ida-0902-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
