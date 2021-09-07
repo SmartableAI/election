@@ -2,6 +2,114 @@
   "page": 47,
   "value": [
     {
+      "path": "_news/2021-06-02-anheuser-busch-to-give-away-free-alcohol-if-us-hits-bidens-goal-of-70-of-adults-with-at-least-one-covid-vaccine-shot-by-july-4.md",
+      "title": "Anheuser-Busch to give away free alcohol if US hits Biden's goal of 70% of adults with at least one Covid vaccine shot by July 4",
+      "excerpt": "Anheuser-Busch, the national brewer that produces Budweiser, announced Wednesday it will give away free alcohol if the nation reaches President Joe Biden's goal to have 70% of US adults receive at least dose of the vaccine by July 4. \n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FpCgOhzgwY4/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FpCgOhzgwY4/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 146,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210602134454-anheuser-busch-st-louis-file-restricted-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/02/politics/anheuser-busch-white-house-vaccinations-beer/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/02/politics/anheuser-busch-white-house-vaccinations-beer/index.html",
+      "publishedDateTime": "2021-06-02T06:29:51-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-02-the-hills-morning-report-presented-by-citizens-climate-lobby-biden-capito-meet-today-as-deadline-looms.md",
+      "title": "The Hill's Morning Report - Presented by Citizens' Climate Lobby - Biden, Capito meet today as deadline looms",
+      "excerpt": "Welcome to The Hill’s Morning Report. It is Wednesday! We get you up to speed on the most important developments in politics and policy, plus trends to watch. Alexis Simendinger and Al Weaver are the co-creators.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/morning-report/556422-the-hills-morning-report",
+      "originalUrl": "https://thehill.com/homenews/morning-report/556422-the-hills-morning-report",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/newsletter-open_060221getty.jpg",
+          "width": 580,
+          "height": 386,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/morning-report/556422-the-hills-morning-report?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/morning-report/556422-the-hills-morning-report?amp",
+      "publishedDateTime": "2021-06-02T03:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-06-02-fauci-denied-being-muzzled-by-trump-early-in-pandemic-emails-show.md",
       "title": "Fauci denied being ‘muzzled’ by Trump early in pandemic, emails show",
       "excerpt": "As COVID-19 started becoming a threat last year, Dr. Anthony Fauci started receiving emails from people asking if he was being censored by the Trump administration. He denied the assertions.",
@@ -1214,118 +1322,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/biden-admin-now-investigating-covid-origin-because-of-the-public-outcry-rep-mike-turner.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-admin-now-investigating-covid-origin-because-of-the-public-outcry-rep-mike-turner.amp",
       "publishedDateTime": "2021-05-30T09:58:29-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-30-for-biden-the-white-house-is-a-monday-through-friday-kind-of-place.md",
-      "title": "For Biden, the White House is 'a Monday-through-Friday kind of place'",
-      "excerpt": "Beginning in 1973, when he was a United States Senator from Delaware, Joe Biden had a ritual: nearly every evening he would hop a train back to Wilmington after his work day on Capitol Hill, spending most nights and weekends at the place he considered home, 100 miles from Washington.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ktY8gcR-aO0/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ktY8gcR-aO0/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210529191117-01-joe-biden-camp-david-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/30/politics/biden-white-house-weekends-away-wilmington/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/30/politics/biden-white-house-weekends-away-wilmington/index.html",
-      "publishedDateTime": "2021-05-30T05:54:34-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-29-bipartisan-group-of-senators-to-travel-to-eastern-europe-as-biden-announces-new-crackdowns-against-belarus.md",
-      "title": "Bipartisan group of senators to travel to Eastern Europe as Biden announces new crackdowns against Belarus",
-      "excerpt": "",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ESVDFW2UxMg/senators-belarus",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ESVDFW2UxMg/senators-belarus",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/340/340/Marisa-Schultz.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/senators-belarus.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/senators-belarus.amp",
-      "publishedDateTime": "2021-05-29T14:11:52-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

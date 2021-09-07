@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.ft.com/content/893cd8eb-c070-49f9-a049-1ad15532950f"
 cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/893cd8eb-c070-49f9-a049-1ad15532950f"
 type: article
 quality: 125
-heat: 325
+heat: 345
 published: true
 
 provider:
@@ -175,6 +175,20 @@ related:
       - url: "https://www.thesun.co.uk/wp-content/uploads/2021/08/JG-COMP-AFGHAN-SOMALIA-1.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Cory Mills evacuates Americans from Afghanistan, says Joe Biden admin wrongly wants credit"
+    excerpt: "Congressional candidate Cory Mills went to Afghanistan to successfully rescue Americans still on the ground in the war-torn nation. Now he’s upset President Joe Biden ’s administration wants credit. Mills,"
+    publishedDateTime: 2021-09-07T21:56:00Z
+    webUrl: "https://floridapolitics.com/archives/455728-cory-mills-evacuates-americans-from-afghanistan-says-joe-biden-admin-wrongly-wants-credit/"
+    type: article
+    provider:
+      name: Florida Politics
+      domain: floridapolitics.com
+    quality: 45
+    images:
+      - url: "https://floridapolitics.com/wp-content/uploads/2021/04/Cory-Mills-4.jpg"
+        width: 917
+        height: 430
         isCached: true
 
 secured: "o9mqPGX8k0k3kZhNT6WcHONsDKkzT0X6x8BYXdAHp3wT9coUueNKLfwb3Y3N5lfMJaU9O1/z+1dDOiD25GeOnsJNq8S9EDXJ6WqzVF0GlYpIqcVG0+4k/tRa8RzxPvEdolmzDCfYhp4BbXg3iz65HN3THRz9Enp/SJggpjNMYk4hu+uxdus+hB8t9ez5d5AlL9un3sYkNLUbdMxKsNMlpoK/g0ClUi3KA5JCMH3J1cajZLa8r9c8xlvwzt1sLUuurS7dZq3p1Mvq289WRix7wEmg9KwFV761/gT1D/C1Evi3HGwuGbSdfbEIXS9k4MBw0TIWTXHgZxaaqyDF7zK4lFBdUU/vmnF3FNo8RcwJ8oropGBYjmG+1II5KaNdOGQSWBOtoFPjrKNKHPP25S2Z7NOUvNvqTu800umVL9AO6/QCLEvKGDjNUJpibmgHPRcY7wjPzu017djcXr/G4uWpFbXR5VzLe+mvGfY2IdZdHhOR/1+QuOvTJkI5rwoZqVO/pEqe/rXs2Xim9QxhE309oA==;eUoNp5tWUN/UM49lgyfCZw=="

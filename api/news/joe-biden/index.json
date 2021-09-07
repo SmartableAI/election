@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-09-08-in-nyc-after-ida-biden-calls-climate-everybodys-crisis.md",
+      "title": "In NYC after IDA, Biden calls climate ‘everybody’s crisis’",
+      "excerpt": "President Joe Biden declared climate change “everybody's crisis” on Tuesday after touring neighborhoods severely damaged by the remnants of Hurricane Ida and said it's time for America to get serious about the danger or face ever worse loss of life and property.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/article/floods-storms-52e6e031e5e4286dcd8c5db2175a9698",
+      "originalUrl": "https://apnews.com/article/floods-storms-52e6e031e5e4286dcd8c5db2175a9698",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/afs-prod/media/b67ef898bb434221a1d8e8fef8c517a0/3000.jpeg",
+          "width": 3000,
+          "height": 2000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-07T14:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-09-07-biden-expected-to-campaign-for-newsom-in-california-next-week.md",
       "title": "Biden expected to campaign for Newsom in California next week",
       "excerpt": "President Biden is expected to travel to California next week to campaign on behalf of California Gov. Gavin. Newsom (D) ahead of the Sept. 14 recall election.",
@@ -54,21 +97,21 @@
       ]
     },
     {
-      "path": "_news/2021-09-07-biden-to-visit-areas-of-nyc-nj-damaged-by-floods-from-hurricane-ida.md",
-      "title": "Biden to visit areas of NYC, N.J. damaged by floods from Hurricane Ida",
-      "excerpt": "President Joe Biden on Tuesday will visit New York City and multiple locations in New Jersey that were heavily damaged by major flooding and rains that killed dozens of people last week.",
+      "path": "_news/2021-09-07-watch-live-president-joe-biden-speaks-about-administrations-response-to-hurricane-ida.md",
+      "title": "Watch Live: President Joe Biden speaks about administration’s response to Hurricane Ida",
+      "excerpt": "Ida was the fifth most powerful storm to hit the U.S. when it made landfall on Aug. 29. At least 50 people were killed in six Eastern states as record rainfall overwhelmed rivers and sewer systems.",
       "sourceUrl": null,
-      "webUrl": "https://www.upi.com/Top_News/US/2021/09/07/new-york-jersey-joe-biden-hurricane-ida/7121631012476/",
-      "originalUrl": "https://www.upi.com/Top_News/US/2021/09/07/new-york-jersey-joe-biden-hurricane-ida/7121631012476/",
+      "webUrl": "https://www.tristatehomepage.com/weather-news/biden-to-survey-northeast-damage-after-deadly-ida-flooding/",
+      "originalUrl": "https://www.tristatehomepage.com/weather-news/biden-to-survey-northeast-damage-after-deadly-ida-flooding/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 87,
       "tags": null,
       "images": [
         {
-          "url": "https://cdnph.upi.com/sv/ph/og/i/7121631012476/2021/1/16310151479197/v1.5/Biden-to-visit-areas-of-NYC-NJ-damaged-by-floods-from-Hurricane-Ida.jpg",
-          "width": 800,
-          "height": 533,
+          "url": "https://www.tristatehomepage.com/wp-content/uploads/sites/92/2021/09/AP21250670353459.jpg?w=1280",
+          "width": 1280,
+          "height": 853,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -76,13 +119,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.upi.com/amp/Top_News/US/2021/09/07/new-york-jersey-joe-biden-hurricane-ida/7121631012476/",
-      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/09/07/new-york-jersey-joe-biden-hurricane-ida/7121631012476/",
-      "publishedDateTime": "2021-09-07T04:48:00-07:00",
+      "ampWebUrl": "https://www.tristatehomepage.com/weather-news/biden-to-survey-northeast-damage-after-deadly-ida-flooding/amp/",
+      "cdnAmpWebUrl": "https://www-tristatehomepage-com.cdn.ampproject.org/c/s/www.tristatehomepage.com/weather-news/biden-to-survey-northeast-damage-after-deadly-ida-flooding/amp/",
+      "publishedDateTime": "2021-09-07T08:03:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "UPI.com",
-        "domain": "upi.com",
+        "name": "WTVW",
+        "domain": "tristatehomepage.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -361,7 +404,7 @@
       "originalUrl": "https://www.denverpost.com/2021/09/03/joe-biden-walks-storm-ravaged-louisiana/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 135,
+      "heat": 95,
       "tags": null,
       "images": [
         {
@@ -456,7 +499,7 @@
       "originalUrl": "https://www.cbsnews.com/video/senator-joe-manchin-calls-for-pause-on-bidens-3-trillion-plan/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 205,
+      "heat": 225,
       "tags": null,
       "images": [
         {
@@ -651,7 +694,7 @@
       "originalUrl": "https://www.ft.com/content/893cd8eb-c070-49f9-a049-1ad15532950f",
       "featuredContent": null,
       "highlight": null,
-      "heat": 325,
+      "heat": 345,
       "tags": null,
       "images": [
         {
@@ -703,7 +746,7 @@
       "originalUrl": "https://www.ft.com/content/bfe24854-3bf2-4ada-b3a2-778b4707c31f",
       "featuredContent": null,
       "highlight": null,
-      "heat": 985,
+      "heat": 1025,
       "tags": null,
       "images": [
         {
@@ -1439,49 +1482,6 @@
         "Election",
         "Joe Biden",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-28-franklin-delano-roosevelt-vs-john-f-kennedy-vs-joe-robinette-biden.md",
-      "title": "Franklin Delano Roosevelt vs. John F. Kennedy vs. Joe Robinette Biden",
-      "excerpt": "After the deaths of 13 U.S. troops and at least 90 Afghans outside the Kabul airport, Joe Biden gave a speech from a position of weakness.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailysignal.com/2021/08/27/franklin-delano-roosevelt-vs-john-f-kennedy-vs-joe-robinette-biden/",
-      "originalUrl": "https://www.dailysignal.com/2021/08/27/franklin-delano-roosevelt-vs-john-f-kennedy-vs-joe-robinette-biden/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dailysignal.com/wp-content/uploads/Biden-2.gif",
-          "width": 1250,
-          "height": 650,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailysignal.com/2021/08/27/franklin-delano-roosevelt-vs-john-f-kennedy-vs-joe-robinette-biden/amp/",
-      "cdnAmpWebUrl": "https://www-dailysignal-com.cdn.ampproject.org/c/s/www.dailysignal.com/2021/08/27/franklin-delano-roosevelt-vs-john-f-kennedy-vs-joe-robinette-biden/amp/",
-      "publishedDateTime": "2021-08-27T16:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Signal",
-        "domain": "dailysignal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

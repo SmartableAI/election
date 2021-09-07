@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Biden tours destruction of storm-ravaged Manville"
+    excerpt: "President Joe Biden toured a neighborhood in storm-ravaged New Jersey, surveying the aftermath of Hurricane Ida's floods. Biden heard a harrowing tale from a couple who escaped before the storm destroyed their home and their daughter's nursery."
+    publishedDateTime: 2021-09-07T21:40:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/09/07/biden-tours-destruction-storm-ravaged-manville/5761266001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/b8fb48c8-bf48-4cc7-a11b-f7f7caa0bc04_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "President Joe Biden will visit Ida devastation in Manville on Tuesday"
     excerpt: "President Joe Biden will visit flood-ravaged Manville on Tuesday. The White House announced Biden's visit on Saturday, but no details have been released. Biden has already ordered federal assistance to supplement state,"
     publishedDateTime: 2021-09-04T20:08:00Z

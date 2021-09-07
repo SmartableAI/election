@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/bidens-tree-of-life-synagogue-claim
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-tree-of-life-synagogue-claim-not-true-white-house-admits.amp"
 type: article
 quality: 175
-heat: 255
+heat: 275
 published: true
 
 provider:
@@ -94,6 +94,22 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1aee9309-2c7d-4e72-bd64-4f2de56eccf1/b63873e4-b91c-4c61-88a1-1d907c7646e3/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "President Biden Declares \"Code Red\" On Climate Change"
+    excerpt: "President Joe Biden gave a warning on climate change as he toured areas damaged by Hurricane Ida in New York and New Jersey. \"We’ve got to listen to the scientists… they all tell us this is code red,\" President Biden said."
+    publishedDateTime: 2021-09-07T21:39:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/09/07/president_biden_declares_code_red_on_climate_change.html"
+    ampWebUrl: "http://www.realclearpolitics.com/video/2021/09/07/president_biden_declares_code_red_on_climate_change.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/09/07/president_biden_declares_code_red_on_climate_change.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://amp.spot.im/loader.png"
+        width: 375
+        height: 815
         isCached: true
 
 secured: "x349K6+XyXq0c/ERQE2TdrStw2fP1oJFaivmpeUmPb+0ctUO0gQa7cPmUFWHkeNQ63oB7G9gCrCye5rr0K+Z7rz5QloEKh5h/NNVusD+aEJnPYe22PGnV6OksAagYGhbyj57dszRsmUNlR985OFn+WylyM4A1h92zDVCCt8G4YhJOBbhFHEWGNdRvclAP2yboJYp/7nBwJoW90s+NeV6KpNQhdnQxq/6vpy0TwvM7z9W6Z5bm2l1RK3PPPDqznXmsoV+gFA1Kjleka7vr6qUAiG72qkKJkWG7AipK9Mdv99iC2piJ+Z11JkltiriD6Que37GEYl2QJ9ySW5vsafIj3qVdcsg2e9ax39PP0bcIHc=;8dIqhfGPORGo4U3lQHxWjQ=="

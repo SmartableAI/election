@@ -331,6 +331,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Biden surveys storm damage in NY, NJ, talks climate change"
+    excerpt: "Biden’s plan to spend $1 trillion on infrastructure nationwide is pending in Congress, and the White House asked Congress on Tuesday for an additional $24 billion to cover the costs of"
+    publishedDateTime: 2021-09-07T21:45:00Z
+    webUrl: "https://www.eastbaytimes.com/2021/09/07/biden-surveys-storm-damage-in-ny-nj-talks-climate-change/"
+    ampWebUrl: "https://www.eastbaytimes.com/2021/09/07/biden-surveys-storm-damage-in-ny-nj-talks-climate-change/amp/"
+    cdnAmpWebUrl: "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2021/09/07/biden-surveys-storm-damage-in-ny-nj-talks-climate-change/amp/"
+    type: article
+    provider:
+      name: East Bay Times
+      domain: eastbaytimes.com
+    quality: 75
+    images:
+      - url: "https://www.eastbaytimes.com/wp-content/uploads/2021/09/sjm-iden_87782709-1.jpg?w=1024&#038;h=683"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "President Joe Biden to mark 20th anniversary of 9/11 at 3 memorial sites"
     excerpt: "President Joe Biden will visit ground zero in New York City, the Pentagon and the memorial outside Shanksville, Pennsylvania, where United Flight 93 was forced down, the White House said Saturday."
     publishedDateTime: 2021-09-04T19:29:00Z
@@ -644,6 +660,20 @@ related:
         width: 2048
         height: 1453
         isCached: true
+  - title: "President Biden Tours New York & New Jersey, Surveying Flood Damage From Tropical Storm Ida"
+    excerpt: "\"Climate change poses an existential threat to our lives, our economy,\" Biden said. \"The threat is here. It's not going to get any better. The question is, can it get worse? We can stop it from getting worse."
+    publishedDateTime: 2021-09-07T21:45:00Z
+    webUrl: "https://gothamist.com/news/president-biden-tours-new-york-new-jersey-surveying-flood-damage-tropical-storm-ida"
+    type: article
+    provider:
+      name: Gothamist
+      domain: gothamist.com
+    quality: 45
+    images:
+      - url: "https://cms.prod.nypr.digital/images/323549/fill-1200x650/"
+        width: 1200
+        height: 650
+        isCached: true
   - title: "Biden to survey NY and NJ storm damage after deadly flooding"
     excerpt: "President Joe Biden focused on long-term fixes as well as short-term relief Tuesday as he headed for tours of parts of the Northeast that suffered deadly flash"
     publishedDateTime: 2021-09-07T15:38:00Z
@@ -663,6 +693,6 @@ related:
       domain: lasvegassun.com
     quality: 35
 
-secured: "8cCuEowm0alZDAbh5IOminM6SIL+oNbPsYy2lWjEcBW9awuG+SpTgIKJXlIuJIlOHSHayKHhcUznwqcuGCwhtFHPPgP9aoP4u3p9A0CvMKg4G24p8rd9Z+n8LX9L21C6E+1TO6uohs2eVGopKVbgjsNrad3smmvTmJp/Y+l7O3q+CESDhTogCQnS0QhcD58SW3GR68pvXkNZw11fM2vvqPGVFBT9RYq+XwjWE4xCBpABRu+XIVOwGEapOU7+oOlSWei8gvpk0/2c2TuYKy1QXUW/dGcpb69ismfA2/Ht2/AfjC25VFATYMcXmxHH440zXdOVycoFeVcQQRs0jwzoJg6JZT1Wk6VC3/wPRPHunkU=;U97vt7MtD6Tew/I2ysyxlA=="
+secured: "HNbbwyXptAhdUvPLT54elSs5sOz1cFQ6mibdXPB10aBQo/iG3zv5Mei5Y7JD8kn4uwosPmizTDYOS16u3HWdVnwxckf7xNjEDyZlOYHdx5uKYCnLAVGTUr9B/T10obniP8mqUXk6nyQy3s0pTToOLdoksTngbSqc9zV7KaJhH93utSJlDTmXwY3yinjJabOnNccwWk/n1w3RNP0aR8Z6YQyx+YPdyUsePNK3GhkZ92e0OgVzXIENhVP+C5Ns+2mJ22gCci6m+8ntJ7Zx0fp1aELtJfbmUc3fq7924tLlsG/ahOpRKVl1gY6OQczUvSw3G5dF0uw6OVblRFUM+Xb61bQYB0BlPXfJPcb8akViUSnOLbQodvr3sWXfleQAs0sFlWl6cyJVJtD0k4wLcxA4w/JWUPm0UGxKXLCLxa3K7WvB4nJHYP0zssSlW9iZ7rd/59554FmSmYNI0JpTqlzhEJRfmOqLoTY9ZVkUq7AJTKfUrrRuaYLh0GVO0/CsIoNhsaBenjQ3JmKc+IzVS2PZvw==;wbq5fWj/DHhFUL09optMCA=="
 ---
 

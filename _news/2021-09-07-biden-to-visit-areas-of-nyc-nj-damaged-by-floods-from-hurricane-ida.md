@@ -9,8 +9,8 @@ ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/09/07/new-york-jersey-joe-b
 cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/09/07/new-york-jersey-joe-biden-hurricane-ida/7121631012476/"
 type: article
 quality: 75
-heat: 95
-published: true
+heat: -1
+published: false
 
 provider:
   name: UPI.com
@@ -27,21 +27,47 @@ images:
     isCached: true
 
 related:
-  - title: "'We don't have any more time:' Biden highlights climate change as he tours Hurricane Ida damage in NY, NJ"
-    excerpt: "Biden is using the trip to highlight climate change and underscore his infrastructure bill, which will help communities prepare for extreme weather."
-    publishedDateTime: 2021-09-07T17:28:00Z
-    webUrl: "https://www.indystar.com/story/news/politics/2021/09/07/biden-talk-climate-change-ny-nj-tour-hurricane-ida-damage/5751911001/"
-    ampWebUrl: "https://amp.indystar.com/amp/5751911001"
-    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/5751911001"
+  - title: "In NYC after IDA, Biden calls climate ‘everybody’s crisis’"
+    excerpt: "President Joe Biden declared climate change “everybody's crisis” on Tuesday after touring neighborhoods severely damaged by the remnants of Hurricane Ida and said it's time for America to get serious about the danger or face ever worse loss of life and property."
+    publishedDateTime: 2021-09-07T21:42:00Z
+    webUrl: "https://apnews.com/article/floods-storms-52e6e031e5e4286dcd8c5db2175a9698"
     type: article
     provider:
-      name: Indianapolis Star
-      domain: indystar.com
-    quality: 58
+      name: Associated Press
+      domain: apnews.com
+    quality: 105
     images:
-      - url: "https://www.gannett-cdn.com/presto/2021/09/07/USAT/d9420a68-f0d8-4cdf-b3cf-e9ea0e81c78a-GTY_1338886053.jpg?auto=webp&crop=6658,3746,x0,y414&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://storage.googleapis.com/afs-prod/media/b67ef898bb434221a1d8e8fef8c517a0/3000.jpeg"
+        width: 3000
+        height: 2000
+        isCached: true
+  - title: "Biden surveys Hurricane Ida storm damage in New York and New Jersey after deadly flooding"
+    excerpt: "Pointing accusingly at climate change, President Joe Biden toured deadly Northeast flood damage Tuesday and said he was thinking about the all families who suffered"
+    publishedDateTime: 2021-09-07T17:26:00Z
+    webUrl: "https://www.nola.com/news/article_c7ff78bc-1000-11ec-a4d1-abcd59d32880.html"
+    type: article
+    provider:
+      name: NOLA.com
+      domain: nola.com
+    quality: 46
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/nola.com/content/tncms/assets/v3/editorial/c/e7/ce7a7b82-1001-11ec-bdf6-3b601b56bba8/6137a290a98b4.image.jpg?resize=945%2C630"
+        width: 945
+        height: 630
+        isCached: true
+  - title: "Joe Biden surveys Hurricane Ida storm damage in New York and New Jersey after deadly flooding"
+    excerpt: "Pointing accusingly at climate change, President Joe Biden toured deadly Northeast flood damage Tuesday and said he was thinking about the all families who suffered"
+    publishedDateTime: 2021-09-07T17:26:00Z
+    webUrl: "https://www.nola.com/news/hurricane/article_c7ff78bc-1000-11ec-a4d1-abcd59d32880.html"
+    type: article
+    provider:
+      name: NOLA.com
+      domain: nola.com
+    quality: 44
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/nola.com/content/tncms/assets/v3/editorial/c/e7/ce7a7b82-1001-11ec-bdf6-3b601b56bba8/6137a290a98b4.image.jpg?resize=945%2C630"
+        width: 945
+        height: 630
         isCached: true
 
 secured: "YPB4NY6M4e5EXTW8KbA390N8GgwvKHTJjuR+0O0VWsPzN3AEs+XhIryadTkPX/l33xRn3evBBEnwUBnc3Q8mkuO0UKk9iYVOD5HdW+WWToujnFmK6pOVHC6vWqHbBp6BwAQIxAu1e4LPPjeGNI7eJ/++8URCFXhVzs59ouwjXl8+KMnXYcHxToMY7rTIbVCQlZMu0ZZHi3VIfbz3Cp1anB8IYcSw+hambYZN11HlpZU27CRQilUifL3n2Yw68ZktgTdLaNAnxNC89JIbuq5qE0MekLiitirSQQk/hzTgmPPfrgMDg8c1B2HhkH4D8gMldGsCJeBx2z4etxExrkUYxShCFwelkpKbp8upJCbl+sw=;7umanJ+IL0GmURYwrxwXVg=="

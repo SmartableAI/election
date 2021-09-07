@@ -186,6 +186,22 @@ related:
         width: 375
         height: 211
         isCached: true
+  - title: "Trump attacks Lehigh Valley’s Pat Toomey as ‘not the sharpest tool in the shed’"
+    excerpt: "A fundraising email from the former president claims the senator from Lehigh County only won re-election \"because of my victory.\""
+    publishedDateTime: 2021-09-07T20:37:00Z
+    webUrl: "https://www.lehighvalleylive.com/elections/2021/09/trump-attacks-lehigh-valleys-pat-toomey-as-not-the-sharpest-tool-in-the-shed.html"
+    ampWebUrl: "https://www.lehighvalleylive.com/elections/2021/09/trump-attacks-lehigh-valleys-pat-toomey-as-not-the-sharpest-tool-in-the-shed.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-lehighvalleylive-com.cdn.ampproject.org/c/s/www.lehighvalleylive.com/elections/2021/09/trump-attacks-lehigh-valleys-pat-toomey-as-not-the-sharpest-tool-in-the-shed.html?outputType=amp"
+    type: article
+    provider:
+      name: Lehigh Valley Live
+      domain: lehighvalleylive.com
+    quality: 71
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/GNV6CJNKC5HUPD6BRFBFVV6LDU.jpg"
+        width: 3158
+        height: 1969
+        isCached: true
   - title: "Retiring Trump Critic Urges GOP Not To Renominate 'Unacceptable' Ex-President In 2024"
     excerpt: "Retiring Republican Senator Pat Toomey is urging his party to become a \"party of ideas\" over that of an individual."
     publishedDateTime: 2021-09-03T16:59:00Z

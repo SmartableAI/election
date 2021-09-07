@@ -202,6 +202,22 @@ related:
         width: 375
         height: 211
         isCached: true
+  - title: "Trump attacks Lehigh Valley’s Pat Toomey as ‘not the sharpest tool in the shed’"
+    excerpt: "A fundraising email from the former president claims the senator from Lehigh County only won re-election \"because of my victory.\""
+    publishedDateTime: 2021-09-07T20:37:00Z
+    webUrl: "https://www.lehighvalleylive.com/elections/2021/09/trump-attacks-lehigh-valleys-pat-toomey-as-not-the-sharpest-tool-in-the-shed.html"
+    ampWebUrl: "https://www.lehighvalleylive.com/elections/2021/09/trump-attacks-lehigh-valleys-pat-toomey-as-not-the-sharpest-tool-in-the-shed.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-lehighvalleylive-com.cdn.ampproject.org/c/s/www.lehighvalleylive.com/elections/2021/09/trump-attacks-lehigh-valleys-pat-toomey-as-not-the-sharpest-tool-in-the-shed.html?outputType=amp"
+    type: article
+    provider:
+      name: Lehigh Valley Live
+      domain: lehighvalleylive.com
+    quality: 71
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/GNV6CJNKC5HUPD6BRFBFVV6LDU.jpg"
+        width: 3158
+        height: 1969
+        isCached: true
   - title: "Bernie Sanders sets out to sell big government in Trump country"
     excerpt: "He's specifically targeting two congressional districts where Trump's vote totals increased between 2016 and 2020."
     publishedDateTime: 2021-08-27T10:03:00Z

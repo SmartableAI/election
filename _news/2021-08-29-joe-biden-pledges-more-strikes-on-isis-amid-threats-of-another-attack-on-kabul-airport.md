@@ -172,6 +172,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Cory Mills evacuates Americans from Afghanistan, says Joe Biden admin wrongly wants credit"
+    excerpt: "Congressional candidate Cory Mills went to Afghanistan to successfully rescue Americans still on the ground in the war-torn nation. Now he’s upset President Joe Biden ’s administration wants credit. Mills,"
+    publishedDateTime: 2021-09-07T21:56:00Z
+    webUrl: "https://floridapolitics.com/archives/455728-cory-mills-evacuates-americans-from-afghanistan-says-joe-biden-admin-wrongly-wants-credit/"
+    type: article
+    provider:
+      name: Florida Politics
+      domain: floridapolitics.com
+    quality: 45
+    images:
+      - url: "https://floridapolitics.com/wp-content/uploads/2021/04/Cory-Mills-4.jpg"
+        width: 917
+        height: 430
+        isCached: true
 
 secured: "WzLdz9BpLMMAxMrdBZoz7ghb4KateI0GtLFReXGRZwpDjyFC/1c6x4vyUYPM2gOdrx+bWTtokUSgIcTQzpFHLNOEGOE37ghljfrdyEIpiIQl4sG2A8F17UTJONnAPjrj4Rb/mrf4lG4uwq3r/rz1gLHul49BVMgUc/SXtIBLiIgLTmi0r9k0w8oFSSm4IZqnoUYmMeIXY+r/Bm6alKd+PN5q5A5+UJDQv72dV/kvIuTGIVuzGrUewCZOkrcjoGnbEiMJFq9z/4hWY1+rbdieVmqoPm9ooddBIAO97n8M6grow+zWQS8uJUTV1VQmn/xo3OHowS0njPyfh+uvS0sY+U8MbEyXf8f+Y2cbbKPYyYI=;5Q+6Z/fTmtLsC7MDJlCTAg=="
 ---

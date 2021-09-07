@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-09-07-fox-news-confirms-trump-to-hold-rally-next-month-at-iowa-state-fairgrounds.md",
+      "title": "Fox News confirms: Trump to hold rally next month at Iowa State Fairgrounds",
+      "excerpt": "Donald Trump is set to return to Iowa next month where he will hold a rally in Des Moines, a source familiar with the former president's political operation has confirmed to Fox News.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/p1SQXkab8YE/trump-to-hold-rally-next-month-at-iowa-state-fairgrounds",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/p1SQXkab8YE/trump-to-hold-rally-next-month-at-iowa-state-fairgrounds",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 173,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2d61962e-952f-4698-9058-a9a01195062c/626edbfe-3d45-4eba-88a5-2e3e1a4f31ac/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-to-hold-rally-next-month-at-iowa-state-fairgrounds.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-to-hold-rally-next-month-at-iowa-state-fairgrounds.amp",
+      "publishedDateTime": "2021-09-07T14:11:13-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-09-07-more-migrants-being-returned-to-mexico-after-supreme-court-order-reinstates-trump-era-policy.md",
       "title": "More migrants being returned to Mexico after Supreme Court order reinstates Trump-era policy",
       "excerpt": "A Supreme Court order reinstating the Trump-era \"Remain-in-Mexico\" policy is already having an effect, with Border Patrol officials telling Fox News they have started turning away more migrants trying to enter the U.S.",
@@ -521,7 +577,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 255,
+      "heat": 275,
       "tags": null,
       "images": [
         {
@@ -1619,54 +1675,6 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-31-donald-trump-is-not-a-big-fan-of-crypto.md",
-      "title": "Donald Trump is not a ‘big fan’ of crypto",
-      "excerpt": "Former President Donald Trump lashed out at cryptocurrencies in an interview with Fox News on Tuesday. “I have not been a big fan of cryptos,” Trump told Fox. While the interview focused primarily on Trump’s reaction to America’s Afghanistan exit,",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/08/31/donald-trump-is-not-a-big-fan-of-crypto/",
-      "originalUrl": "https://nypost.com/2021/08/31/donald-trump-is-not-a-big-fan-of-crypto/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/08/trump-crypto-hp.jpg?quality=90&strip=all&w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/08/31/donald-trump-is-not-a-big-fan-of-crypto/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/31/donald-trump-is-not-a-big-fan-of-crypto/amp/",
-      "publishedDateTime": "2021-08-31T08:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Republican Voice"
       ]
     }

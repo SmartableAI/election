@@ -2,6 +2,119 @@
   "page": 44,
   "value": [
     {
+      "path": "_news/2021-06-08-mediabuzz-on-facebooks-trump-ban-media-treatment-of-biden.md",
+      "title": "‘MediaBuzz’ on Facebook’s Trump ban, media treatment of Biden",
+      "excerpt": "What drives me crazy about the media is that when they totally blow it, an all-out, no doubt deep-rooted red-faced botching of a major story, they barely acknowledge it before moving on. You read the coverage now of the circumstantial evidence of the Wuhan lab as the original source of the COVID scourge and there's this flat,",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/transcript/mediabuzz-on-facebooks-trump-ban-media-treatment-of-biden",
+      "originalUrl": "https://www.foxnews.com/transcript/mediabuzz-on-facebooks-trump-ban-media-treatment-of-biden",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 230,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1830dbee-539b-438a-9afb-ee5b8eba9049/5d7d1d25-f5a8-4a38-951b-018ce87fc784/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/transcript/mediabuzz-on-facebooks-trump-ban-media-treatment-of-biden.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/mediabuzz-on-facebooks-trump-ban-media-treatment-of-biden.amp",
+      "publishedDateTime": "2021-06-08T04:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-08-new-jersey-republicans-weigh-loyalty-to-trump-in-tuesdays-gubernatorial-primary.md",
+      "title": "New Jersey Republicans weigh loyalty to Trump in Tuesday's gubernatorial primary",
+      "excerpt": "Republicans in New Jersey will choose Tuesday between an establishment-backed candidate for governor who would prefer to avoid the topic of former President Donald Trump and contenders who have forcefully embraced Trump's lies about the 2020 election.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wlG3q_Xs6LA/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wlG3q_Xs6LA/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 190,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210607180658-nj-primary-gov-candidates-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/08/politics/new-jersey-republican-governors-primary/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/08/politics/new-jersey-republican-governors-primary/index.html",
+      "publishedDateTime": "2021-06-08T03:00:41-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-08-fed-lawyers-trump-not-liable-for-crude-remarks-at-accuser.md",
       "title": "Fed lawyers: Trump not liable for 'crude' remarks at accuser",
       "excerpt": "Justice Department lawyers say Donald Trump cannot be held personally liable for “crude and disrespectful” remarks he made while president about a woman who accused him of rape",
@@ -1250,120 +1363,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-06-donald-trump-assault-weapons-prom-your-weekend-briefing.md",
-      "title": "Donald Trump, Assault Weapons, Prom: Your Weekend Briefing",
-      "excerpt": "Donald Trump began his next act Saturday night at the North Carolina Republican convention. In a 90-minute speech, Mr. Trump ran through a litany of conservative culture war issues and ended with an extended frontal attack on voting and American democracy in which he endorsed a long list of Republican voter suppression proposals.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/06/06/briefing/donald-trump-assault-weapons-prom.html",
-      "originalUrl": "https://www.nytimes.com/2021/06/06/briefing/donald-trump-assault-weapons-prom.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/05/26/multimedia/06weekendbriefing-gun-promo-holder/06weekendbriefing-cali-gins-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/06/06/briefing/donald-trump-assault-weapons-prom.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/06/briefing/donald-trump-assault-weapons-prom.amp.html",
-      "publishedDateTime": "2021-06-06T03:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-06-biden-harris-packing-their-bags-this-week-for-first-foreign-trips-since-taking-office.md",
-      "title": "Biden, Harris packing their bags this week for first foreign trips since taking office",
-      "excerpt": "After more than four months in office, President Joe Biden and Vice President Kamala Harris are both planning this week to leave the U.S. and take the first foreign trips of their administration.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_1JAu3opITA/biden-harris-packing-their-bags-this-week-for-first-foreign-trips-since-taking-office",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_1JAu3opITA/biden-harris-packing-their-bags-this-week-for-first-foreign-trips-since-taking-office",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 1132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5d804ca7-92c4-4052-92f1-2c73cbe36b5c/0a7739a1-8be0-4390-891e-d5b2a298df51/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-harris-packing-their-bags-this-week-for-first-foreign-trips-since-taking-office.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-harris-packing-their-bags-this-week-for-first-foreign-trips-since-taking-office.amp",
-      "publishedDateTime": "2021-06-05T21:53:08-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Kamala Harris"
       ]
     }
   ],

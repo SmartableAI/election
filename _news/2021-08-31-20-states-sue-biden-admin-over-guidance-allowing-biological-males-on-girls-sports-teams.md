@@ -95,6 +95,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "President Biden Declares \"Code Red\" On Climate Change"
+    excerpt: "President Joe Biden gave a warning on climate change as he toured areas damaged by Hurricane Ida in New York and New Jersey. \"We’ve got to listen to the scientists… they all tell us this is code red,\" President Biden said."
+    publishedDateTime: 2021-09-07T21:39:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/09/07/president_biden_declares_code_red_on_climate_change.html"
+    ampWebUrl: "http://www.realclearpolitics.com/video/2021/09/07/president_biden_declares_code_red_on_climate_change.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/09/07/president_biden_declares_code_red_on_climate_change.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://amp.spot.im/loader.png"
+        width: 375
+        height: 815
+        isCached: true
 
 secured: "qxqv2ghvW2MijPjkxNLoIj9z7LdJ49jTseyzC0147JaglyvTdI0F0Zr4PcRicyEBizqZ6NyEmXxWxb1+mIQ7mtBJruKnH6m31wUzbaG5GfNy/GlnTFTKLhjvRuu6lPU0wguv47Ja/jyp6EjF4T9FFDFHsOUpXXv8sJU72lcqSbxFStdxecc4+ufxVjDiSMvzyCcwOg0oI3pb4FYl8RoR0OvdHYsRzoZxTf4SYBnVwUJmLxzokE9ts/2NUHhcsBGGCBjKXYZ5PkABqeyc7FWI2sehKMPfSIjOR9LL1+cqj8DFtm8Pp9i8VUPN4Gng6XmZDttyWt723J1WkoWSfu4mRxUdQG4I0qhS1EfofZhD32w=;pMmgvTgJWqbd+Om3xAX5tQ=="
 ---

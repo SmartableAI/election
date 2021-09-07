@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2021/09/03/trump-should-not-lead-gop-ticket
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/09/03/trump-should-not-lead-gop-ticket-in-2024-retiring-sen-pat-toomey-says.html"
 type: article
 quality: 125
-heat: 385
+heat: 405
 published: true
 
 provider:
@@ -185,6 +185,22 @@ related:
       - url: "https://cdnmedia.sendtonews.com/players/library/placeholder.png"
         width: 375
         height: 211
+        isCached: true
+  - title: "Trump attacks Lehigh Valley’s Pat Toomey as ‘not the sharpest tool in the shed’"
+    excerpt: "A fundraising email from the former president claims the senator from Lehigh County only won re-election \"because of my victory.\""
+    publishedDateTime: 2021-09-07T20:37:00Z
+    webUrl: "https://www.lehighvalleylive.com/elections/2021/09/trump-attacks-lehigh-valleys-pat-toomey-as-not-the-sharpest-tool-in-the-shed.html"
+    ampWebUrl: "https://www.lehighvalleylive.com/elections/2021/09/trump-attacks-lehigh-valleys-pat-toomey-as-not-the-sharpest-tool-in-the-shed.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-lehighvalleylive-com.cdn.ampproject.org/c/s/www.lehighvalleylive.com/elections/2021/09/trump-attacks-lehigh-valleys-pat-toomey-as-not-the-sharpest-tool-in-the-shed.html?outputType=amp"
+    type: article
+    provider:
+      name: Lehigh Valley Live
+      domain: lehighvalleylive.com
+    quality: 71
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/GNV6CJNKC5HUPD6BRFBFVV6LDU.jpg"
+        width: 3158
+        height: 1969
         isCached: true
   - title: "Retiring Trump Critic Urges GOP Not To Renominate 'Unacceptable' Ex-President In 2024"
     excerpt: "Retiring Republican Senator Pat Toomey is urging his party to become a \"party of ideas\" over that of an individual."
