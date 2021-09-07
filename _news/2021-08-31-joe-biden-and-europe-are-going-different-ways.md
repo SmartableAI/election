@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.ft.com/content/bfe24854-3bf2-4ada-b3a2-778b4707c31f"
 cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/bfe24854-3bf2-4ada-b3a2-778b4707c31f"
 type: article
 quality: 125
-heat: 725
+heat: 745
 published: true
 
 provider:
@@ -254,6 +254,22 @@ related:
       - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
         width: 600
         height: 336
+        isCached: true
+  - title: "‘Thanks, Joe’: Biden delivers sandwiches to union workers"
+    excerpt: "President Joe Biden marked the Labor Day holiday on Monday by delivering deli sandwiches to union members, the people he says built the middle class."
+    publishedDateTime: 2021-09-07T02:27:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/sep/6/biden-takes-sandwiches-international-brotherhood-e/"
+    ampWebUrl: "https://amp.washingtontimes.com/news/2021/sep/6/biden-takes-sandwiches-international-brotherhood-e/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/sep/6/biden-takes-sandwiches-international-brotherhood-e/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 75
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2021/09/06/Biden_Labor_76711.jpg-f863e_c0-199-4784-2989_s1200x700.jpg?8764f8a20e26312fa94a421e62c60176dfe0387a"
+        width: 1200
+        height: 700
         isCached: true
   - title: "President Joe Biden to mark 20th anniversary of 9/11 at 3 memorial sites"
     excerpt: "President Joe Biden will visit ground zero in New York City, the Pentagon and the memorial outside Shanksville, Pennsylvania, where United Flight 93 was forced down, the White House said Saturday."

@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Joe Biden moves to declassify documents about Sept. 11 attacks"
-excerpt: "President Joe Biden on Friday directed the declassification of certain documents related to the Sept. 11, 2001, terrorist attacks, a supportive gesture to victims’ families who have long"
-publishedDateTime: 2021-09-05T01:46:00Z
-originalUrl: "https://www.denverpost.com/2021/09/04/joe-biden-declassify-documents-sept-11-attacks/"
-webUrl: "https://www.denverpost.com/2021/09/04/joe-biden-declassify-documents-sept-11-attacks/"
-ampWebUrl: "https://www.denverpost.com/2021/09/04/joe-biden-declassify-documents-sept-11-attacks/amp/"
-cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2021/09/04/joe-biden-declassify-documents-sept-11-attacks/amp/"
+title: "‘Thanks, Joe’: Biden delivers sandwiches to union workers"
+excerpt: "President Joe Biden marked the Labor Day holiday on Monday by delivering deli sandwiches to union members, the people he says built the middle class."
+publishedDateTime: 2021-09-07T02:27:00Z
+originalUrl: "https://www.washingtontimes.com/news/2021/sep/6/biden-takes-sandwiches-international-brotherhood-e/"
+webUrl: "https://www.washingtontimes.com/news/2021/sep/6/biden-takes-sandwiches-international-brotherhood-e/"
+ampWebUrl: "https://amp.washingtontimes.com/news/2021/sep/6/biden-takes-sandwiches-international-brotherhood-e/"
+cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/sep/6/biden-takes-sandwiches-international-brotherhood-e/"
 type: article
 quality: 75
 heat: -1
 published: false
 
 provider:
-  name: The Denver Post
-  domain: denverpost.com
+  name: Washington Times
+  domain: washingtontimes.com
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://www.denverpost.com/wp-content/uploads/2021/09/AP21246541227903.jpg?w=1024&#038;h=683"
-    width: 1024
-    height: 683
+  - url: "https://twt-thumbs.washtimes.com/media/image/2021/09/06/Biden_Labor_76711.jpg-f863e_c0-199-4784-2989_s1200x700.jpg?8764f8a20e26312fa94a421e62c60176dfe0387a"
+    width: 1200
+    height: 700
     isCached: true
 
 related:
@@ -203,6 +203,22 @@ related:
         width: 600
         height: 600
         isCached: true
+  - title: "Joe Biden moves to declassify documents about Sept. 11 attacks"
+    excerpt: "President Joe Biden on Friday directed the declassification of certain documents related to the Sept. 11, 2001, terrorist attacks, a supportive gesture to victims’ families who have long"
+    publishedDateTime: 2021-09-05T01:46:00Z
+    webUrl: "https://www.denverpost.com/2021/09/04/joe-biden-declassify-documents-sept-11-attacks/"
+    ampWebUrl: "https://www.denverpost.com/2021/09/04/joe-biden-declassify-documents-sept-11-attacks/amp/"
+    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2021/09/04/joe-biden-declassify-documents-sept-11-attacks/amp/"
+    type: article
+    provider:
+      name: The Denver Post
+      domain: denverpost.com
+    quality: 75
+    images:
+      - url: "https://www.denverpost.com/wp-content/uploads/2021/09/AP21246541227903.jpg?w=1024&#038;h=683"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Will Liz Warren give the presidency another go? 'Joe Biden is running'"
     excerpt: "Elizabeth Warren in 2024? Massachusetts' senior senator has been busy traveling throughout the state, stopping in various communities to help promote a"
     publishedDateTime: 2021-09-05T09:27:00Z
@@ -250,22 +266,6 @@ related:
       - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
         width: 600
         height: 336
-        isCached: true
-  - title: "‘Thanks, Joe’: Biden delivers sandwiches to union workers"
-    excerpt: "President Joe Biden marked the Labor Day holiday on Monday by delivering deli sandwiches to union members, the people he says built the middle class."
-    publishedDateTime: 2021-09-07T02:27:00Z
-    webUrl: "https://www.washingtontimes.com/news/2021/sep/6/biden-takes-sandwiches-international-brotherhood-e/"
-    ampWebUrl: "https://amp.washingtontimes.com/news/2021/sep/6/biden-takes-sandwiches-international-brotherhood-e/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/sep/6/biden-takes-sandwiches-international-brotherhood-e/"
-    type: article
-    provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 75
-    images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2021/09/06/Biden_Labor_76711.jpg-f863e_c0-199-4784-2989_s1200x700.jpg?8764f8a20e26312fa94a421e62c60176dfe0387a"
-        width: 1200
-        height: 700
         isCached: true
   - title: "President Joe Biden to mark 20th anniversary of 9/11 at 3 memorial sites"
     excerpt: "President Joe Biden will visit ground zero in New York City, the Pentagon and the memorial outside Shanksville, Pennsylvania, where United Flight 93 was forced down, the White House said Saturday."
@@ -495,6 +495,6 @@ related:
         height: 1453
         isCached: true
 
-secured: "VaB6tsdyg/j17wPwmm0Yhe2LfETifi1geYvoWmUKdL8bbyKuJWxdpZesKpCrih0DvIviz1d31ZBXEEvam4iQfdde8YFJ9ThKJwuau48fD4MD4qvXw9f1A33YC4rNznPjJO9uHN68E2INjamWmtHBVW5qmwuwx8G7yewytUrdI36VTIDESWz23f3tg7fiLvoaUk837uIWc7zCS06Xn3lhwrFzhrF7lIj5WolMIg6t0/k18J4CQoB1GknvBCmbj+HQgiCViJ7Ivw06Ag90//VrHKa6TLlmI36vf2+/Y2rH0G+UfWV088410BlSSE5WiLrQ6LOZdftYmOVDL93LwMHXFZ64Do0GUF8Hj4ZqS5Z/vIpq8W+ko98R6hhv1b9zqIBLNxmu3/v52A0lS7pH7yEOz4OTfC8i+9wzFcd5dx/V1lJvxHGornvZxvaU/+PQNlo2jYPLByDjzoydf3gc6A+mY9zjif6o/0ORJ5hfsFKafNSsY696vPD6pktfXhOpkC+vb/3eWrmhuOp4v9PQsDGjiQ==;93upn79VfLsOEpCdkVWv2A=="
+secured: "a9prgfG9VyFaNJ3KGGQh5IrH2NzLxUE5cTx4xYDYMBkCjlLkTipxMpvTzlQAbF+uuiHdzRCu3MMPkg2auXb7By/ryasFVhWU9mXcmgJFqzl5PK+iDJNl8iMhrikxZHHtoTaCBAjTHS8JgLKeExE/mR/y4cwEZfGS8XE7wMo+v7kS+LzhYAR+t+bLiNY86f5Gb8YBipXGqpQntSiJ3wbhmjqXs+xJhMMGbxbISWKz1OQ2iKeWTnL4HIb9VnxQL7bQxo1GfEF8a3Ry+xMxqeEDjADz44kMMdct8lYfMPlDHERHRblHebKnGpG4aZRV9/jVpHUVMNDi6QvmoPR+ejddaQVKgMJpQGLvAxGdM7bG3HM=;vUKi5zRacOzbwxc3xNff3g=="
 ---
 
