@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-to-hold-rally-next-month-at-i
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-to-hold-rally-next-month-at-iowa-state-fairgrounds.amp"
 type: article
 quality: 173
-heat: 173
+heat: 193
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 720
     height: 405
     isCached: true
+
+related:
+  - title: "‘It would be such an honor’: Gold Star mom invites Trump to son’s funeral"
+    excerpt: "Shana Chappell invited former President Donald Trump to attend the funeral of Kareem Nikoui, one of the service members killed in a terror attack in Afghanistan last month."
+    publishedDateTime: 2021-09-08T05:55:00Z
+    webUrl: "https://nypost.com/2021/09/08/fallen-marine-kareem-nikouis-mother-invites-trump-to-sons-funeral/"
+    ampWebUrl: "https://nypost.com/2021/09/08/fallen-marine-kareem-nikouis-mother-invites-trump-to-sons-funeral/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/09/08/fallen-marine-kareem-nikouis-mother-invites-trump-to-sons-funeral/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 134
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/09/kareem_nikoui_.jpg?quality=90&strip=all&w=1024"
+        width: 1024
+        height: 683
+        isCached: true
 
 secured: "3BBoRSQgtH7B+dcwhxjLRZQTMyB8fpPXGgS37TQNg2GOmeQuyk+Nt0pUu+UbK133Cd3h9HQ1KjF7Poq+P047UfsVWyj+YH/LXiumM6zinMXox/ISMCQQ5DxhA97ETTj3BfiRIzTYX3MHLwXoydCCbIyH5tJNBhYdYVlnFtFlXWCwpDEIAHX74jvL8qWxDYPjDNBkjOZJDHkU8uJPJOpJCm07VliqfdSDiLVFxrzOVxbOyDXTCKKb+Yg84PA4DmuUATugAxXs+K1woQQc6jDNgIUPz0MeLJubizkDYPKtxcC7spUzuLNs1n52S6Svnpb8KDD+S7L39FG1N06l8EgLrNlzrfEgvCzkw6ZEUvqdVqo=;dIdGuNite9tSf9hswHBpFw=="
 ---
