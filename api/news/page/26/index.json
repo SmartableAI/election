@@ -2,6 +2,49 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2021-07-11-donald-trump-celebrities-take-in-ufc-264-dustin-poirier-vs-conor-mcgregor-3.md",
+      "title": "Donald Trump, celebrities take in UFC 264: Dustin Poirier vs. Conor McGregor 3",
+      "excerpt": "A long list of celebrities made their way to T-Mobile Arena on Saturday night for what has been dubbed, \"the biggest fight of the year.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.desmoinesregister.com/story/sports/mma/2021/07/10/ufc-264-stars-attending-conor-mcgregor-dustin-poirier/7926801002/",
+      "originalUrl": "https://www.desmoinesregister.com/story/sports/mma/2021/07/10/ufc-264-stars-attending-conor-mcgregor-dustin-poirier/7926801002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/07/11/USAT/c10004b2-9a25-4f15-80d7-6d975aa3d98b-USP_MMA__UFC_264-Tuivasa_vs_Hardy.jpg?auto=webp&crop=3971,2234,x1,y74&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.desmoinesregister.com/amp/7926801002",
+      "cdnAmpWebUrl": "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/7926801002",
+      "publishedDateTime": "2021-07-10T17:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Des Moines Register",
+        "domain": "desmoinesregister.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-07-10-pro-biden-super-pac-warns-voters-cant-name-his-accomplishments-as-midterms-loom.md",
       "title": "Pro-Biden super PAC warns voters can't name his accomplishments as midterms loom",
       "excerpt": "A super PAC supporting President Biden warns that Democrats could face defeat in the 2022 midterm elections if they don't campaign more \"aggressively\" on Biden's policies. ",
@@ -1306,63 +1349,6 @@
         "Election",
         "Joe Biden",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-09-gov-kemp-blasts-kamala-harris-lies-about-georgia-voting-law-truth-is-on-our-side.md",
-      "title": "Gov. Kemp blasts Kamala Harris' lies about Georgia voting law: 'Truth is on our side'",
-      "excerpt": "Georgia Governor Brian Kemp defended his state's election laws after Vice President Kamala Harris announced a $25 million plan to combat Republican legislation on voting requirements.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/georgia-gov-kemp-kamala-harris-target-gop-voting-laws",
-      "originalUrl": "https://www.foxnews.com/media/georgia-gov-kemp-kamala-harris-target-gop-voting-laws",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 128,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/be18983e-102b-4a83-a0ab-6ce22e463732/428d02d3-ffd3-47d9-8a16-654ed62d1101/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/georgia-gov-kemp-kamala-harris-target-gop-voting-laws.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/georgia-gov-kemp-kamala-harris-target-gop-voting-laws.amp",
-      "publishedDateTime": "2021-07-09T07:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris",
-        "Republican Voice"
       ]
     }
   ],

@@ -2,6 +2,62 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2021-08-02-biden-nominee-for-us-anti-semitism-envoy-blasted-ilhan-omar-comment-as-textbook-example.md",
+      "title": "Biden nominee for US anti-Semitism envoy blasted Ilhan Omar comment as 'textbook' example",
+      "excerpt": "President Biden’s nominee to serve as U.S. Special Envoy to Monitor and Combat Anti-Semitism once blasted Rep. Ilhan Omar’s controversial statements criticizing Israel.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WGgJGSIwUjI/bidens-nominee-for-u-s-anti-semitism-envoy-blasted-ilhan-omars-anti-israel-comments",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WGgJGSIwUjI/bidens-nominee-for-u-s-anti-semitism-envoy-blasted-ilhan-omars-anti-israel-comments",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 166,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b6692f51-10a4-4b60-8193-3361ffff93fb/407bb340-cf36-49ee-b791-25b1989e3e34/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/bidens-nominee-for-u-s-anti-semitism-envoy-blasted-ilhan-omars-anti-israel-comments.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-nominee-for-u-s-anti-semitism-envoy-blasted-ilhan-omars-anti-israel-comments.amp",
+      "publishedDateTime": "2021-08-02T14:23:41-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-08-03-meghan-mccain-i-skipped-mary-trump-interview-because-shes-too-irrelevant-for-my-time.md",
       "title": "Meghan McCain: I skipped Mary Trump interview because she's 'too irrelevant for my time'",
       "excerpt": "Soon-to-be-former “The View” co-host Meghan McCain skipped an interview with guest Mary Trump on Monday's program, saying the former president's niece wasn't worth her time.",
@@ -1282,63 +1338,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-31-delta-trump-haiti-your-friday-evening-briefing.md",
-      "title": "Delta, Trump, Haiti: Your Friday Evening Briefing",
-      "excerpt": "The rare Friday session comes as Senate Democrats race to pass the bipartisan bill before leaving for the August recess. The emerging deal will provide $550 billion in new funding,but it still faces a bumpy road.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/07/30/briefing/delta-trump-haiti.html",
-      "originalUrl": "https://www.nytimes.com/2021/07/30/briefing/delta-trump-haiti.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/07/30/multimedia/30PMBriefing-virus-vaccines-promo/merlin_192102756_b1244776-fd01-4502-9da6-419fbdd217b0-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/07/30/briefing/delta-trump-haiti.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/30/briefing/delta-trump-haiti.amp.html",
-      "publishedDateTime": "2021-07-30T14:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     }
   ],

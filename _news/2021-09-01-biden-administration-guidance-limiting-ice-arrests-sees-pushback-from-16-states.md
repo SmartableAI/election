@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/16-states-push-back-biden-administr
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/16-states-push-back-biden-administration-guidance-ice-arrests.amp"
 type: article
 quality: 171
-heat: 231
+heat: 251
 published: true
 
 provider:
@@ -76,6 +76,22 @@ related:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/08/haggerty.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Brit Hume dubs American evacuation from Afghanistan a ‘train wreck,' permanent 'stain’ on Biden admin"
+    excerpt: "Senior political analyst Brit Hume puts the blame on President Biden for his Afghanistan withdrawal decision which stranded American citizens and jeopardized national security."
+    publishedDateTime: 2021-09-08T03:33:00Z
+    webUrl: "https://www.foxnews.com/media/brit-hume-american-evacuation-afghanistan-trainwreck"
+    ampWebUrl: "https://www.foxnews.com/media/brit-hume-american-evacuation-afghanistan-trainwreck.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/brit-hume-american-evacuation-afghanistan-trainwreck.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 120
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/eab76908-ee5b-4652-9605-d5f40a3e1534/550ae648-f798-4a6c-bfee-8afb4fea992a/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
 
 secured: "pD8BcKpXY4UBj+SlcU+y3VhvMJlxjtvh7mqPH520Dr8GSM0JueWpy1ZBFd12nfMdUAGjZVHaO+DYUlJM/iPa+Xo1TPFMl40vX7rZkTNLxdNEZkgLE4TYM8atfOnmveiNIOMTcPFCHvskjM98y78C5tR/C7fB3jwhxlLP2zg/8+RRQCg6qrf/a9tXD3Gbrfh0oad2GfvOXDogax7dWJalPMUdcnT/ESHFKRcLH2X2+z/dfZBfOhBNH6AkiDmmm02FaBnCAQojVngbt8oWc1UfuieWpVhiQTJaxH1jLaSL7LmFrE0QEyXt8GbjU9BFtk7eWDLqtDwVUeJB1kpiYqqcXodUCA+c0wCepouOU4FyXXo=;d+Rr8aQb0rlQSEthMA0Xuw=="

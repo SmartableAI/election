@@ -77,6 +77,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Brit Hume dubs American evacuation from Afghanistan a ‘train wreck,' permanent 'stain’ on Biden admin"
+    excerpt: "Senior political analyst Brit Hume puts the blame on President Biden for his Afghanistan withdrawal decision which stranded American citizens and jeopardized national security."
+    publishedDateTime: 2021-09-08T03:33:00Z
+    webUrl: "https://www.foxnews.com/media/brit-hume-american-evacuation-afghanistan-trainwreck"
+    ampWebUrl: "https://www.foxnews.com/media/brit-hume-american-evacuation-afghanistan-trainwreck.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/brit-hume-american-evacuation-afghanistan-trainwreck.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 120
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/eab76908-ee5b-4652-9605-d5f40a3e1534/550ae648-f798-4a6c-bfee-8afb4fea992a/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
 
 secured: "uMTpOcA0MvGWgWLimL+eP8o4Nzj9joBiD7CWpkWzpyySvfyd3ZwshZ3jBeVeM+hh/T2YjZOV7S4F59OXXIIsNDvp1QbuFkc5vu3yJ18lHafHNNeZKghnN8uv2lnstJS210AQnTrCcxCpM/r7kFQHw8MvBUVKBcJ7/1gpcTFKtbW0Mh0MY7NbQnVemb2Lld95WdlZfNIHvf4pVZf8frZ9brRv/z1hWk2CU01Y9IfVgyt2bQp0EfOCUY8Hb3gEH99Pi9irHj4lxxfU3xaUJPgnIUYVwYhJdyk1pUWy4Fif55g9P3Ei5PxwIqQR4cB/0bcUeTmUzGFB2OIz8acj/FHKaqSq1A2w6lL3p3H1VpQ7Npw=;RS3XW2PthShgCEvNSOzrwA=="
 ---

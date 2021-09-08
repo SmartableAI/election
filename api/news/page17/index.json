@@ -2,6 +2,58 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2021-07-29-where-in-the-world-is-kamala-harris-opinion.md",
+      "title": "Where in the World is Kamala Harris? | Opinion",
+      "excerpt": "Kamala Harris is not an effective politician. The Biden team is keeping her out of sight because she would do nothing useful to build support for the administration or its latest initiative.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/where-world-kamala-harris-opinion-1613148",
+      "originalUrl": "https://www.newsweek.com/where-world-kamala-harris-opinion-1613148",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 945,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1857513/vice-president-kamala-harris.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/where-world-kamala-harris-opinion-1613148?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/where-world-kamala-harris-opinion-1613148?amp=1",
+      "publishedDateTime": "2021-07-29T03:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-07-29-biden-harris-unveil-strategies-to-address-root-causes-of-immigration.md",
       "title": "Biden, Harris unveil strategies to address 'root causes' of immigration",
       "excerpt": "The Biden administration on Thursday rolled out its strategies to address the root causes of immigration, a step officials call a “core component” of efforts to establish a “fair, orderly, and humane immigration system.”",
@@ -1264,58 +1316,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-27-sarah-sanders-promotes-trump-vaccine-but-says-americans-should-pray-about-it.md",
-      "title": "Sarah Sanders promotes ‘Trump vaccine’ but says Americans should ‘pray about it’",
-      "excerpt": "Former Trump press secretary criticises ‘arrogant’ medical experts but admits the benefits of the shot outweigh any potential risks",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/world/2021/jul/27/sarah-sanders-promotes-trump-vaccine-pray-about-it",
-      "originalUrl": "https://www.theguardian.com/world/2021/jul/27/sarah-sanders-promotes-trump-vaccine-pray-about-it",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 160,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/699629989a3abb0f158a0982c38aa36cdc03c78b/0_100_3000_1800/master/3000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f0b46b53cdbfcb6db94a57599466617b",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/world/2021/jul/27/sarah-sanders-promotes-trump-vaccine-pray-about-it",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2021/jul/27/sarah-sanders-promotes-trump-vaccine-pray-about-it",
-      "publishedDateTime": "2021-07-27T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

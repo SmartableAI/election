@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Biden Education Department opens civil rights investigations into 5 states for banning school mask mandates"
-excerpt: "The U.S. Department of Education is opening an investigation into whether prohibitions on indoor masking mandates constitute discrimination against kids with disabilities."
-publishedDateTime: 2021-08-30T17:39:15Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xGnlNRq3GOY/biden-education-department-civil-rights-investigations-masks-schools"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xGnlNRq3GOY/biden-education-department-civil-rights-investigations-masks-schools"
-ampWebUrl: "https://www.foxnews.com/politics/biden-education-department-civil-rights-investigations-masks-schools.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-education-department-civil-rights-investigations-masks-schools.amp"
+title: "Brit Hume dubs American evacuation from Afghanistan a ‘train wreck,' permanent 'stain’ on Biden admin"
+excerpt: "Senior political analyst Brit Hume puts the blame on President Biden for his Afghanistan withdrawal decision which stranded American citizens and jeopardized national security."
+publishedDateTime: 2021-09-08T03:33:00Z
+originalUrl: "https://www.foxnews.com/media/brit-hume-american-evacuation-afghanistan-trainwreck"
+webUrl: "https://www.foxnews.com/media/brit-hume-american-evacuation-afghanistan-trainwreck"
+ampWebUrl: "https://www.foxnews.com/media/brit-hume-american-evacuation-afghanistan-trainwreck.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/brit-hume-american-evacuation-afghanistan-trainwreck.amp"
 type: article
-quality: 157
+quality: 120
 heat: -1
 published: false
 
@@ -22,10 +22,11 @@ provider:
 
 topics:
   - Election
+  - Joe Biden
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f51b3476-234e-4048-a476-76c810bde5ad/9be3c475-e32a-4b19-bdf9-55aba86bdf91/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/eab76908-ee5b-4652-9605-d5f40a3e1534/550ae648-f798-4a6c-bfee-8afb4fea992a/1280x720/match/720/405/image.jpg?ve=1&tl=1"
     width: 720
     height: 405
     isCached: true
@@ -63,6 +64,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden Education Department opens civil rights investigations into 5 states for banning school mask mandates"
+    excerpt: "The U.S. Department of Education is opening an investigation into whether prohibitions on indoor masking mandates constitute discrimination against kids with disabilities."
+    publishedDateTime: 2021-08-30T17:39:15Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xGnlNRq3GOY/biden-education-department-civil-rights-investigations-masks-schools"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-education-department-civil-rights-investigations-masks-schools.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-education-department-civil-rights-investigations-masks-schools.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 157
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f51b3476-234e-4048-a476-76c810bde5ad/9be3c475-e32a-4b19-bdf9-55aba86bdf91/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "GOP Sen. Hagerty wants Congress to review Biden immigration enforcement limit"
     excerpt: "FIRST ON FOX: Sen. Bill Hagerty, R-Tenn., is asking the Government Accountability Office if controversial Immigration and Customs Enforcement (ICE) guidance that dramatically reduced the scope of immigration enforcement could be subject to review by Congress -- days after the Biden administration suffered"
     publishedDateTime: 2021-08-30T19:35:52Z
@@ -77,23 +94,7 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Brit Hume dubs American evacuation from Afghanistan a ‘train wreck,' permanent 'stain’ on Biden admin"
-    excerpt: "Senior political analyst Brit Hume puts the blame on President Biden for his Afghanistan withdrawal decision which stranded American citizens and jeopardized national security."
-    publishedDateTime: 2021-09-08T03:33:00Z
-    webUrl: "https://www.foxnews.com/media/brit-hume-american-evacuation-afghanistan-trainwreck"
-    ampWebUrl: "https://www.foxnews.com/media/brit-hume-american-evacuation-afghanistan-trainwreck.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/brit-hume-american-evacuation-afghanistan-trainwreck.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 120
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/eab76908-ee5b-4652-9605-d5f40a3e1534/550ae648-f798-4a6c-bfee-8afb4fea992a/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
 
-secured: "DUWcWofSmqhbWxzEmf/i49A/6I0DyY2QZ2vW8oVE0slPlSHetOPvHOleJCS7bNo0uB9uDgyoKZtdW/KFTJwuS/iJd39fySFJGYgpx7s7zzoJ8O0YwvWI4iHmjSHlZ45AE1SWAj4ibHiSq49by0mJuOLgjfNbByzBrY2EMTNkKKPRC7Bd8JMiEQgx2cUZ0Tny2pSXgd7igtrXoFZdgwNUoHa3GuavoAd95Nfgli3ZP4wQiF7n8t3fI69pZJBC68T3fr3XyCO0JbGlUjC+PnTip/D31zgvC4j15PStRdV7EZohcEGFZRsMBFUwrqY7jmpLoFgcMpfzQPHgSwwS+1EkS5Zuv0O5cGN6gRS2B+47sI4=;OGr7VE/CQgv+27ocm42phg=="
+secured: "XxKtpUSbuJ16EndvXqwNxrgMmzUPQnSsqkJ1YvcZWoFNcvoJW5BHLwVWs/nzcYBsTt77R2n/S3PGj6zBaBNmD9xwqzWmy6SITF9QXskAWzYEFmgoEmHcCx+zXYBJ4II52LR/hL9GOX7/Sy8p4wUOFJUsP+8zrVjT3LXxzce0jJ7gx/vB9Fo0VnbybpI4S/lseRPE91xL93tcqhz/dMTSXq8ijZdmEJoR6qt2B6G4jUWrVeNEje4HP2S12k4cvuw4RjPPw7Nn00/KB4Q1mOBc3wGdxqbBothmjhEwoU1ZuOkbf4Y+IuxRUhoeYfuKvRKjYx+u0rGtDXPYSO0Udrqf55QhN8UzRPlmFCc9xB1wYvA=;42V5JCqA2mOthH9EUEpuGA=="
 ---
 

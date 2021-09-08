@@ -1,29 +1,29 @@
 ---
 category: news
-title: "'We don't have any more time:' Biden highlights climate change as he tours Hurricane Ida damage in NY, NJ"
-excerpt: "Biden is using the trip to highlight climate change and underscore his infrastructure bill, which will help communities prepare for extreme weather."
-publishedDateTime: 2021-09-07T17:28:00Z
-originalUrl: "https://www.indystar.com/story/news/politics/2021/09/07/biden-talk-climate-change-ny-nj-tour-hurricane-ida-damage/5751911001/"
-webUrl: "https://www.indystar.com/story/news/politics/2021/09/07/biden-talk-climate-change-ny-nj-tour-hurricane-ida-damage/5751911001/"
-ampWebUrl: "https://amp.indystar.com/amp/5751911001"
-cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/5751911001"
+title: "Biden visit buoys up NJ family who lost home to Ida remnants"
+excerpt: "The Dommar family of Manville, New Jersey, gave a tour Tuesday to the president of the United States of their home, devastated by the torrential leftovers of Ida: That’s the roof down the block. The baby’s room is in two pieces on the west and east sides of their property."
+publishedDateTime: 2021-09-08T03:10:00Z
+originalUrl: "https://www.chron.com/news/article/Biden-visit-buoys-up-NJ-family-who-lost-home-to-16441534.php"
+webUrl: "https://www.chron.com/news/article/Biden-visit-buoys-up-NJ-family-who-lost-home-to-16441534.php"
+ampWebUrl: "https://www.chron.com/news/amp/Biden-visit-buoys-up-NJ-family-who-lost-home-to-16441534.php"
+cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Biden-visit-buoys-up-NJ-family-who-lost-home-to-16441534.php"
 type: article
-quality: 58
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: Indianapolis Star
-  domain: indystar.com
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://www.gannett-cdn.com/presto/2021/09/07/USAT/d9420a68-f0d8-4cdf-b3cf-e9ea0e81c78a-GTY_1338886053.jpg?auto=webp&crop=6658,3746,x0,y414&format=pjpg&width=1200"
-    width: 1200
-    height: 675
+  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+    width: 600
+    height: 336
     isCached: true
 
 related:
@@ -42,22 +42,6 @@ related:
       - url: "https://cdnph.upi.com/sv/ph/og/i/7121631012476/2021/1/16310151479197/v1.5/Biden-to-visit-areas-of-NYC-NJ-damaged-by-floods-from-Hurricane-Ida.jpg"
         width: 800
         height: 533
-        isCached: true
-  - title: "Biden visit buoys up NJ family who lost home to Ida remnants"
-    excerpt: "The Dommar family of Manville, New Jersey, gave a tour Tuesday to the president of the United States of their home, devastated by the torrential leftovers of Ida: That’s the roof down the block. The baby’s room is in two pieces on the west and east sides of their property."
-    publishedDateTime: 2021-09-08T03:10:00Z
-    webUrl: "https://www.chron.com/news/article/Biden-visit-buoys-up-NJ-family-who-lost-home-to-16441534.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Biden-visit-buoys-up-NJ-family-who-lost-home-to-16441534.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Biden-visit-buoys-up-NJ-family-who-lost-home-to-16441534.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 75
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
         isCached: true
   - title: "In NYC after Ida, Biden calls climate ‘everybody’s crisis’"
     excerpt: "President Joe Biden declared climate change has become “everybody’s crisis” on Tuesday as he toured neighborhoods flooded by the remnants of Hurricane Ida,"
@@ -91,7 +75,23 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "'We don't have any more time:' Biden highlights climate change as he tours Hurricane Ida damage in NY, NJ"
+    excerpt: "Biden is using the trip to highlight climate change and underscore his infrastructure bill, which will help communities prepare for extreme weather."
+    publishedDateTime: 2021-09-07T17:28:00Z
+    webUrl: "https://www.indystar.com/story/news/politics/2021/09/07/biden-talk-climate-change-ny-nj-tour-hurricane-ida-damage/5751911001/"
+    ampWebUrl: "https://amp.indystar.com/amp/5751911001"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/5751911001"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 58
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/09/07/USAT/d9420a68-f0d8-4cdf-b3cf-e9ea0e81c78a-GTY_1338886053.jpg?auto=webp&crop=6658,3746,x0,y414&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
-secured: "vT6Do5x/znpP/YDp0MdFCSyMoMwiIR+81exMC+MrxJDOx+u7B9XgPJYBX1HFBtPswJ6xz2Ri1tN10+jo9o/1f/tfivSZFry1S/YCnChuj6QQj2lqho/yg20PGh+17/gmyb+txLIceBU3G+5O74UknBmEgvpUtotv2UJZwta//q9Z2UrbE4j7hisebroQf81+fUHyAAYk2QPTmJT1SbzJdffxicxFPbHkz//mPaCR/vAyu3WpqxIu+h2J8hpbOl/g4KIpsOY7y8fzUyd5AOWMhIWt42P4brhWEcoPv2nNtJ+BLk/EOdgsXe4JW3mBN3FL2gscfxFaKouz9zoslf5ImZzOV78rGxqVRBeyIS8b3sI=;RNrJkPUYjP9dwunv22kU5A=="
+secured: "wht4fTELh2NirmJJ8CIxKrccPaLEHQJNs2LgSdjPfa/k2HHE+vP0JCgG7AIzlsKPyWCaOoe69jmHVwGVRgJGMCX4urW9U6TO6CYxuIEqgPyqLdqyaku5Gsjw0+F/IZ9yg3EucyeeX8TlYIteNm+eqHXQJP+oW1gEeWo8K5aVsIL58qWCYSae/OpKZlp+IqiU2cmc3lWZAe2QKcSf0A86lBns/qOVgOjMoxIJes41Uj+i0eU12vkWsN/tRXifOcUZh0w9lHR4qOMRs+zt/CWW2g+h6PVw62J+wL+FmDYf7QgLCBsl/lSHRm3FBRPpa1BMxQed+CK7iucA8C8LlhrO8TvPEbellxudLOpqhbNQcPc=;0rAoa7P5rUjVoiipLR2FeA=="
 ---
 

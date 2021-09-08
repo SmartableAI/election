@@ -2,6 +2,54 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2021-07-02-trump-riddles-followers-with-strong-message-who-shot-ashli-babbitt.md",
+      "title": "Trump riddles followers with strong message: ‘Who shot Ashli Babbitt?’",
+      "excerpt": "Former President Donald Trump fired off a message to his followers that asks for the cop who fatally shot a woman during the Capitol Building siege.",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/07/02/trump-riddles-followers-with-strong-message-who-shot-ashli-babbitt/",
+      "originalUrl": "https://nypost.com/2021/07/02/trump-riddles-followers-with-strong-message-who-shot-ashli-babbitt/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/07/who-shot-ashli-babbitt-hp2.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/07/02/trump-riddles-followers-with-strong-message-who-shot-ashli-babbitt/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/02/trump-riddles-followers-with-strong-message-who-shot-ashli-babbitt/amp/",
+      "publishedDateTime": "2021-07-02T08:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-02-biden-is-rated-poorly-on-handling-crime-alternative-approaches-win-broad-favor-poll.md",
       "title": "Biden is rated poorly on handling crime; alternative approaches win broad favor: POLL",
       "excerpt": "Americans seeing crime as an extremely serious problem in the U.S. is at a more than 20-year high and President Joe Biden is underwater in trust to handle it: POLL",
@@ -1291,62 +1339,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-01-trump-visits-the-south-texas-border-amid-a-shift-in-the-region-toward-republicans.md",
-      "title": "Trump visits the South Texas border amid a shift in the region toward Republicans",
-      "excerpt": "Former President Donald Trump still wants a wall on the southern border. And he said it's Democrats' fault it hasn't happened yet.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sUFJRgbxCVk/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sUFJRgbxCVk/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 210,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210615220004-conclu-trump-border-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/30/politics/donald-trump-south-texas-shift-republicans-democrats-border-vicente-gonzalez/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/30/politics/donald-trump-south-texas-shift-republicans-democrats-border-vicente-gonzalez/index.html",
-      "publishedDateTime": "2021-06-30T17:43:42-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

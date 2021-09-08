@@ -43,6 +43,22 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Biden visit buoys up NJ family who lost home to Ida remnants"
+    excerpt: "The Dommar family of Manville, New Jersey, gave a tour Tuesday to the president of the United States of their home, devastated by the torrential leftovers of Ida: That’s the roof down the block. The baby’s room is in two pieces on the west and east sides of their property."
+    publishedDateTime: 2021-09-08T03:10:00Z
+    webUrl: "https://www.chron.com/news/article/Biden-visit-buoys-up-NJ-family-who-lost-home-to-16441534.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Biden-visit-buoys-up-NJ-family-who-lost-home-to-16441534.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Biden-visit-buoys-up-NJ-family-who-lost-home-to-16441534.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "In NYC after Ida, Biden calls climate ‘everybody’s crisis’"
     excerpt: "President Joe Biden declared climate change has become “everybody’s crisis” on Tuesday as he toured neighborhoods flooded by the remnants of Hurricane Ida,"
     publishedDateTime: 2021-09-07T23:48:00Z
