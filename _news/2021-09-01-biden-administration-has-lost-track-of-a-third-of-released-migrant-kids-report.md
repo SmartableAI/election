@@ -63,6 +63,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden blames storm damage in northeast on climate change, calls on Congress to pass infrastructure bill"
+    excerpt: "President Joe Biden toured storm-ravaged areas of New York and New Jersey on Tuesday, blaming the devastation on climate change."
+    publishedDateTime: 2021-09-07T23:27:51Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3YBZ1KsntwM/biden-blames-storm-damage-in-northeast-on-climate-change-calls-on-congress-to-pass-infrastructure-spending"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-blames-storm-damage-in-northeast-on-climate-change-calls-on-congress-to-pass-infrastructure-spending.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-blames-storm-damage-in-northeast-on-climate-change-calls-on-congress-to-pass-infrastructure-spending.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 159
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f188be8b-e340-4069-80b9-ad723e80a3cf/dace7a46-d606-4e77-905a-4480e0c2bb8d/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Biden ripped for apparently glancing at watch during ceremony for fallen troops"
     excerpt: "President Joe Biden has come under fire for apparently glancing at his watch during a solemn ceremony at Dover Air Force Base in Delaware for the 13 US troops killed in the terror attack near the"
     publishedDateTime: 2021-08-30T11:02:00Z

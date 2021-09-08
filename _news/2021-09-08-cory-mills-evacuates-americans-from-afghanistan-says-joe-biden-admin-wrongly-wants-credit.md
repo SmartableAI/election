@@ -186,7 +186,18 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Passenger growls, shouts ‘Joe Biden’ at American Airlines attendant, video shows"
+    excerpt: "Armstrong was recorded on video by Dennis Busch, who was also on the flight and said Armstrong told an Asian woman that she “didn’t belong here,” Fox 13 Now reported. Armstrong was also filmed yelling “Joe Biden” at a flight attendant and growling at the crew,"
+    publishedDateTime: 2021-09-07T21:11:00Z
+    webUrl: "https://www.sacbee.com/news/nation-world/national/article254060303.html"
+    ampWebUrl: "https://amp.sacbee.com/news/nation-world/national/article254060303.html"
+    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/nation-world/national/article254060303.html"
+    type: article
+    provider:
+      name: Sacramento Bee
+      domain: sacbee.com
+    quality: 50
 
-secured: "+EiAgHL3FWSPVghARldwWS08et8AFl30U3euv4BLnAqxaTHf/1miUVFrFwzNoAkqFy94wpB3gVu6TdjInHL1VYXOoBjNzDhkLPY6C8QmqK/39BL9+OeAgj2ojWqL89MfJzpKMCXu09CFljDgSG9aKfZwQpQAGpCwqjo7m/i/rYc4u2Ih+uf0ohzYSlBjIV/E3/OvQnyG3PZey7sCUI1lY/EJtJlVM/2chTjF4MCOx/Aggr2l3sjmI/p1SgjSQ7iV7CO8yWNPjFwvavKa4miyRRorwRq8Q9hdx3XiX45vnFYPf5fB7voVnQvIgF37i9wE7BVkFHooBNksZ4rhss/hYuitdR2G/YwV1rROWTyT55I=;UrAUzLrI80//LjAYI0y+Ug=="
+secured: "lnq9SoR7PIiIXb9U3f8xN1kVwhP49d3CQnLj9OaWykJoEAvRuL326H97Y+YO+PSP0yiC5ZgDJe3s9eSIk2Fx7kp1q+wEMdAHKUDon9LgnYZjHgEIzW2xee5IseLeGJA8YtAhA6cR4bfq9lGjqh4pRhQl+UD3iuoAF0FAnjIEbnPzuTpsfQ/FKoqYTe1w+dbeo4TZiDA8v06b1lzMi1c0kcx5WONaPgN5a4OFRF49JHRyB/ltnLCzBfWA9fHrPcWTtCzV1KdzI9jXJTVjjj1t+kbTvgemThhLQ/r4vePpMArjts7xkNAIXc+zUc86yAgpOZw8dAtXIw0+dJP5RYgWlfiyNoL/a438le5NM322AyiZsWwqjktxjqShFS22Y4vC9sAP1UsIY3NVL2kiuUcQUPho2udN8mSJjjmXM87/ieO2FA2OZSV/fZsOJLhirhSX1peojUdGoY9/Wrh35uUmJJ0W4yr14B7xu7fjo93+GRj7/WZdiomAjpa5YXKE/UnRXE49w+r1yFFuZLjSqMsqAg==;FYG7AHtuMw3K1vAR+XrgjQ=="
 ---
 

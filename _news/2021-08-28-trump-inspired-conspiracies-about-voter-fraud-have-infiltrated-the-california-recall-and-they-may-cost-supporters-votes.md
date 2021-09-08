@@ -27,89 +27,36 @@ images:
     isCached: true
 
 related:
-  - title: "Trump Justices Cast Crucial Votes on Texas Abortion Ban Undermining Roe v. Wade"
-    excerpt: "The Supreme Court has declined to prevent a new law in Texas that severely restricts abortion access from coming into effect. The law will effectively ban all abortions in the state after around six weeks of pregnancy in what reproductive rights advocates view as a blow to the precedent set in Roe v."
-    publishedDateTime: 2021-09-02T08:28:00Z
-    webUrl: "https://www.newsweek.com/trump-justices-cast-crucial-votes-texas-abortion-ban-undermining-roe-v-wade-1625266"
-    ampWebUrl: "https://www.newsweek.com/trump-justices-cast-crucial-votes-texas-abortion-ban-undermining-roe-v-wade-1625266?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-justices-cast-crucial-votes-texas-abortion-ban-undermining-roe-v-wade-1625266?amp=1"
+  - title: "Meet the 9 local Georgia investigators who have Donald Trump in their sights"
+    excerpt: "An inside look at the top Georgia investigators that are leading an effort that — at the extreme — could land Trump in prison."
+    publishedDateTime: 2021-08-26T08:00:00Z
+    webUrl: "https://www.businessinsider.com/fani-willis-georgia-investigation-election-trump-phone-call-2021-8"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 121
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 102
     images:
-      - url: "https://d.newsweek.com/en/full/1885475/trump-appointed-justices-shown-composite-image.jpg"
-        width: 2400
-        height: 1600
-        isCached: true
-  - title: "Trump Organization’s security director agrees to testify to grand jury"
-    excerpt: "The Trump Organization’s director of security has agreed to testify before a Manhattan grand jury investigating the former president and his company, according to a person familiar with the case. Matthew Calamari Jr."
-    publishedDateTime: 2021-09-02T10:46:00Z
-    webUrl: "https://www.washingtonpost.com/politics/trump-organization-calamari-grand-jury/2021/09/01/ee8cd3c0-0b7e-11ec-9781-07796ffb56fe_story.html"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 105
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5IFS5RW2U4I6XDEHVVXSPEMMPA.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "President Joe Biden says Texas' new abortion law \"unleashes unconstitutional chaos\""
-    excerpt: "Biden promised to mobilize the federal government to respond to the Texas law “to ensure that women in Texas have access to safe and legal abortions as protected by Roe.\""
-    publishedDateTime: 2021-09-02T16:24:00Z
-    webUrl: "https://www.texastribune.org/2021/09/02/texas-abortion-law-joe-biden/"
-    ampWebUrl: "https://www.texastribune.org/2021/09/02/texas-abortion-law-joe-biden/amp/"
-    cdnAmpWebUrl: "https://www-texastribune-org.cdn.ampproject.org/c/s/www.texastribune.org/2021/09/02/texas-abortion-law-joe-biden/amp/"
-    type: article
-    provider:
-      name: Texas Tribune
-      domain: texastribune.org
-    quality: 69
-    images:
-      - url: "https://thumbnails.texastribune.org/awXUfugw4V8ATiBjcqo7A4RnVXA=/1200x630/filters:quality(95)/static.texastribune.org/media/files/302214eb567a50813c271e480d6ebd7b/Biden%20Aug%2031%20REUTERS%20TT.jpg"
+      - url: "https://i.insider.com/6126d12512b9cc001962e5c2?width=1200&format=jpeg"
         width: 1200
-        height: 630
+        height: 600
         isCached: true
-  - title: "Trump Organization employees to testify before NY grand jury"
-    excerpt: "Matthew Calamari Jr., the Trump Organization’s corporate director of security, will testify this week before a Manhattan grand jury investigating former President Donald Trump’s company and its"
-    publishedDateTime: 2021-09-02T00:52:00Z
-    webUrl: "https://www.bozemandailychronicle.com/ap_news/trump-organization-employees-to-testify-before-ny-grand-jury/article_3bee4d08-b4d6-5bb7-a308-a04ac80ddfc4.html"
+  - title: "How the Trump Tax Law Created a Loophole That Lets Top Executives Net Millions by Slashing Their Own Salaries"
+    excerpt: "The 2017 tax cuts made it more attractive for certain company owners to be paid in profits instead of wages. Some cut their own wages, expanding a loophole that was already costing the U.S. billions."
+    publishedDateTime: 2021-08-19T09:00:00Z
+    webUrl: "https://www.propublica.org/article/how-the-trump-tax-law-created-a-loophole-that-lets-top-executives-net-millions-by-slashing-their-own-salaries"
+    ampWebUrl: "https://www.propublica.org/article/how-the-trump-tax-law-created-a-loophole-that-lets-top-executives-net-millions-by-slashing-their-own-salaries/amp"
+    cdnAmpWebUrl: "https://www-propublica-org.cdn.ampproject.org/c/s/www.propublica.org/article/how-the-trump-tax-law-created-a-loophole-that-lets-top-executives-net-millions-by-slashing-their-own-salaries/amp"
     type: article
     provider:
-      name: Bozeman Daily Chronicle
-      domain: bozemandailychronicle.com
-    quality: 55
+      name: ProPublica
+      domain: propublica.org
+    quality: 56
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/custom/image/2ffee154-edef-11e4-a572-ab4a61dde6eb.png"
-        width: 1200
-        height: 630
+      - url: "https://assets-c3.propublica.org/images/series/_threeTwo400w/series-3x2.jpg"
+        width: 400
+        height: 267
         isCached: true
-  - title: "On the trail: Trump administration secretaries visit N.H."
-    excerpt: "Former Secretary of State Mike Pompeo had politics at the top of his agenda as he visited New Hampshire this week.But the trip to the first-in-the-nation presidential primary state by the man who served as American’s top diplomat for the last two"
-    publishedDateTime: 2021-09-02T18:11:00Z
-    webUrl: "https://www.concordmonitor.com/Trump-s-secretary-pompeo-devos-New-Hampshire-42276621"
-    type: article
-    provider:
-      name: Concord Monitor
-      domain: concordmonitor.com
-    quality: 55
-    images:
-      - url: "http://www.concordmonitor.com/getattachment/816e6156-73be-4c02-9629-513efd0d089e/attachment.aspx"
-        width: 499
-        height: 325
-        isCached: true
-  - title: "Biden Calls Top Court Ruling on Texas Abortion Ban 'Unprecedented Assault' on Women's Rights"
-    excerpt: "President Joe Biden on Thursday said the U.S. Supreme Court's ruling on Texas' abortion ban \"is an unprecedented assault on a woman's constitutional rights,\" after the top court allowed the law to remain in place."
-    publishedDateTime: 2021-09-02T15:42:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2021-09-02/biden-calls-top-court-ruling-on-texas-abortion-ban-unprecedented-assault-on-womens-rights"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 24
 
 secured: "6TCPY09OA/7LtzhZogrTLUhKMvquBjDDnXchDl4UB50zkzP/Uq2XPIDbcfGV18sPl+CGDpgq7z2lnCGvGr/yEpWygQhY3flqXefiiWoF8oVKUQX4Y+Ke49U63XebHSZXWBNs8SEELfB2MTgi2gLniKbJIdXDqpkS4OuA/T4fipTfn5luqbSbi4KVNjBzdkkkUFmX7IqM50OrknuaHeeZCE07HAjCpa46zXS6eD0bi3o1XMLf+Awafeod8enslH++epAoCvBbwgivw0WiKCsFIkV6YMVfkb6iuOvSS1Nu49oLBQ56TqRKKqq69TkRMeQrTNm2NYWVr+diZ4gEjaT5itqJ49nXnDvBBrkhq0wjK86uGJ4dCnsQKSmcqqoOiu9VGU1mGf52r5PAy6m8DyFCEmdABw6bxUV0tjux4BSUtabAotfMUca8dN//mFOZH8cz07LxBNHH+aqDmAsVAxeFOAB9C3cs4CzMnwfM3U/zrYl/dKTloNNoOdNSdJdKF7AtT04/pVmjsXMaLyX8RahQXw==;xoB13yx+zH3UloM+lmnnqA=="
 ---

@@ -2,6 +2,166 @@
   "page": 52,
   "value": [
     {
+      "path": "_news/2021-05-21-biden-claims-progressives-dont-like-him-because-he-doesnt-embrace-a-socialist-agenda.md",
+      "title": "Biden claims progressives don't like him because he doesn't embrace 'a socialist agenda'",
+      "excerpt": "President Biden opened up about his conflict with the more progressive side of the Democratic Party, arguing in a recent interview that he encounters criticism for not embracing a socialist agenda.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/0MvcIGnfMcY/biden-progressives-socialist-agenda",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/0MvcIGnfMcY/biden-progressives-socialist-agenda",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 166,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/618f5785-2270-40bc-abf4-5aaf713d2c2a/71d14e4e-5cad-445f-8928-823183c1bf9d/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-progressives-socialist-agenda.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-progressives-socialist-agenda.amp",
+      "publishedDateTime": "2021-05-21T08:17:43-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-21-the-federal-government-puts-out-a-help-wanted-notice-as-biden-seeks-to-undo-trump-cuts.md",
+      "title": "The federal government puts out a ‘help wanted’ notice as Biden seeks to undo Trump cuts",
+      "excerpt": "The federal bureaucracy, reeling under the effects of the former president, is struggling to make good on the current president’s promises.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/2021/05/21/biden-trump-government-rebuilding/",
+      "originalUrl": "https://www.washingtonpost.com/politics/2021/05/21/biden-trump-government-rebuilding/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 271,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MJRD2WVUJAI6XPEW7X2V3ZB354.jpg&w=1440",
+          "width": 1440,
+          "height": 962,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/2021/05/21/biden-trump-government-rebuilding/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/05/21/biden-trump-government-rebuilding/?outputType=amp",
+      "publishedDateTime": "2021-05-21T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-05-21-10-things-in-politics-trumps-legal-jeopardy-has-gop-worried.md",
+      "title": "10 Things in Politics: Trump's legal jeopardy has GOP worried",
+      "excerpt": "And the cease-fire between Israel and Hamas appears to be holding.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/10-things-in-politics-trump-investigations-new-york-legal-jeopardy",
+      "originalUrl": "https://www.businessinsider.com/10-things-in-politics-trump-investigations-new-york-legal-jeopardy",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 305,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6066cc80902281001950ab74?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/10-things-in-politics-trump-investigations-new-york-legal-jeopardy?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/10-things-in-politics-trump-investigations-new-york-legal-jeopardy?amp",
+      "publishedDateTime": "2021-05-21T05:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-05-21-walshs-baggage-arrives-in-dc-boston-awaits-ruling-after-white-hearing-mail-voting-compromise-warren-pushes-biden-on-childcare.md",
       "title": "WALSH’S BAGGAGE arrives in D.C. — BOSTON awaits RULING after WHITE hearing — Mail voting COMPROMISE — WARREN pushes BIDEN on CHILDCARE",
       "excerpt": "Labor Secretary Marty Walsh was on a press call Thursday talking about climate change with other senior Biden administration officials. He didn’t take questions. But as the former Boston mayor went about his new day job,",
@@ -1179,149 +1339,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-20-trump-vance-james-trying-to-cancel-voters-with-criminal-probe-into-organization.md",
-      "title": "Trump: Vance, James trying to ‘cancel’ voters with criminal probe into organization",
-      "excerpt": "Former President Donald Trump blasted New York Attorney General Letitia James and Manhattan District Attorney Cy​rus​ Vance Jr. for their joint criminal investigation into his organization.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/05/19/trump-vance-james-trying-to-cancel-voters-with-probe/",
-      "originalUrl": "https://nypost.com/2021/05/19/trump-vance-james-trying-to-cancel-voters-with-probe/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/05/james-vs-trump-hp1.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/05/19/trump-vance-james-trying-to-cancel-voters-with-probe/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/19/trump-vance-james-trying-to-cancel-voters-with-probe/amp/",
-      "publishedDateTime": "2021-05-19T11:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-20-fact-check-mike-pence-was-not-shot-while-fleeing-military-arrest-on-april-14.md",
-      "title": "Fact Check-Mike Pence was not ‘shot while fleeing military arrest’ on April 14",
-      "excerpt": "Posts sharing information that former Vice President Mike Pence was shot while fleeing military arrest are false. There is no credible evidence to support this claim.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/factcheck-pence-shot-idUSL2N2N62VB",
-      "originalUrl": "https://www.reuters.com/article/factcheck-pence-shot-idUSL2N2N62VB",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL2N2N62VB",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL2N2N62VB",
-      "publishedDateTime": "2021-05-19T10:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-05-19-what-trump-obama-and-clinton-have-said-about-ufos.md",
-      "title": "What Trump, Obama and Clinton Have Said About UFOs",
-      "excerpt": "The former presidents have all left the door open to the possibility that extraterrestrial craft could in fact be real.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/what-trump-obama-clinton-have-said-about-ufos-1592844",
-      "originalUrl": "https://www.newsweek.com/what-trump-obama-clinton-have-said-about-ufos-1592844",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1800994/three-former-presidents-have-spoken-about-ufos.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/what-trump-obama-clinton-have-said-about-ufos-1592844?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/what-trump-obama-clinton-have-said-about-ufos-1592844?amp=1",
-      "publishedDateTime": "2021-05-19T08:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

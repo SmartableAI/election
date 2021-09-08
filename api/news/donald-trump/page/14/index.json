@@ -2,6 +2,158 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-05-28-former-house-speaker-paul-ryan-joined-the-fight-against-donald-trump-by-urging-fellow-conservatives-to-reject-the-former-presidents-politics.md",
+      "title": "Former House Speaker Paul Ryan joined the fight against Donald Trump by urging fellow conservatives to reject the former president’s politics",
+      "excerpt": "Emerging from two years of relative silence, former House Speaker Paul Ryan joined the fight against Donald Trump on Thursday, urging fellow conservatives to reject the former president’s divisive politics and those Republican leaders who emulate him.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chicagotribune.com/nation-world/ct-aud-nw-paul-ryan-donald-trump-republicans-gop-reject-poltics-20210528-5rmkikur35hqreddnnt7gk5jje-story.html",
+      "originalUrl": "https://www.chicagotribune.com/nation-world/ct-aud-nw-paul-ryan-donald-trump-republicans-gop-reject-poltics-20210528-5rmkikur35hqreddnnt7gk5jje-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chicagotribune.com/resizer/TeYNpM4qwEPkL99MF8R8RkqIgFI=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/ZVAH3T2NCBH5AJHZHQCLFWV7LA.aspx",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.chicagotribune.com/nation-world/ct-aud-nw-paul-ryan-donald-trump-republicans-gop-reject-poltics-20210528-5rmkikur35hqreddnnt7gk5jje-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-paul-ryan-donald-trump-republicans-gop-reject-poltics-20210528-5rmkikur35hqreddnnt7gk5jje-story.html?outputType=amp",
+      "publishedDateTime": "2021-05-27T19:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Tribune",
+        "domain": "chicagotribune.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-05-28-trump-laments-7-year-high-gas-prices-as-americans-prep-for-memorial-day.md",
+      "title": "Trump laments 7-year-high gas prices as Americans prep for Memorial Day",
+      "excerpt": "Former President Donald Trump expressed concern Thursday for Americans forced to pay sky-high gas prices as millions hit the road for the Memorial Day holiday. “With Memorial Day Weekend",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/05/27/trump-laments-7-year-high-gas-prices-before-memorial-day/",
+      "originalUrl": "https://nypost.com/2021/05/27/trump-laments-7-year-high-gas-prices-before-memorial-day/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/05/trump-2.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/05/27/trump-laments-7-year-high-gas-prices-before-memorial-day/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/27/trump-laments-7-year-high-gas-prices-before-memorial-day/amp/",
+      "publishedDateTime": "2021-05-27T15:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-28-matt-gaetz-plans-to-run-for-president-in-2024-but-only-if-donald-trump-doesnt.md",
+      "title": "Matt Gaetz Plans to Run For President in 2024— But Only If Donald Trump Doesn't",
+      "excerpt": "In a text sent to the New York Post, Gaetz said, \"I support Donald Trump for president. I've directly encouraged him to run and he gives me every indication he will.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/matt-gaetz-plans-run-president-2024-only-if-donald-trump-doesnt-1595562",
+      "originalUrl": "https://www.newsweek.com/matt-gaetz-plans-run-president-2024-only-if-donald-trump-doesnt-1595562",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 141,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1809008/matt-gaetz.jpg",
+          "width": 2500,
+          "height": 1665,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/matt-gaetz-plans-run-president-2024-only-if-donald-trump-doesnt-1595562?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/matt-gaetz-plans-run-president-2024-only-if-donald-trump-doesnt-1595562?amp=1",
+      "publishedDateTime": "2021-05-27T10:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-05-27-us-judge-says-trumps-election-falsehoods-still-pose-security-risk.md",
       "title": "U.S. judge says Trump's election falsehoods still pose security risk",
       "excerpt": "A U.S. judge said there is a risk that Donald Trump's supporters could still carry out attacks similar to the deadly Jan. 6 assault on the U.S. Capitol, noting the former president's \"near-daily fulminations\" about his election loss have not subsided.",
@@ -1423,167 +1575,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-05-21-10-things-in-politics-trumps-legal-jeopardy-has-gop-worried.md",
-      "title": "10 Things in Politics: Trump's legal jeopardy has GOP worried",
-      "excerpt": "And the cease-fire between Israel and Hamas appears to be holding.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/10-things-in-politics-trump-investigations-new-york-legal-jeopardy",
-      "originalUrl": "https://www.businessinsider.com/10-things-in-politics-trump-investigations-new-york-legal-jeopardy",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 305,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6066cc80902281001950ab74?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/10-things-in-politics-trump-investigations-new-york-legal-jeopardy?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/10-things-in-politics-trump-investigations-new-york-legal-jeopardy?amp",
-      "publishedDateTime": "2021-05-21T05:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-05-21-since-leaving-office-trump-has-charged-the-secret-service-more-than-40000-to-use-space-at-mar-a-lago.md",
-      "title": "Since leaving office, Trump has charged the Secret Service more than $40,000 to use space at Mar-a-Lago",
-      "excerpt": "Trump charged his own protective detail $396.15 per night to rent a room near him, and U.S. taxpayers footed the bill, documents show.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/trump-secret-service-charges/2021/05/20/d328eb5c-9d36-11eb-b7a8-014b14aeb9e4_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/trump-secret-service-charges/2021/05/20/d328eb5c-9d36-11eb-b7a8-014b14aeb9e4_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HUC7EFU5NMI6XHIFVYDPIUU6ZY.jpg&w=1440",
-          "width": 1440,
-          "height": 930,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/trump-secret-service-charges/2021/05/20/d328eb5c-9d36-11eb-b7a8-014b14aeb9e4_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-secret-service-charges/2021/05/20/d328eb5c-9d36-11eb-b7a8-014b14aeb9e4_story.html?outputType=amp",
-      "publishedDateTime": "2021-05-21T01:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-05-21-jimmy-kimmel-believes-trump-would-flip-on-his-own-children.md",
-      "title": "Jimmy Kimmel Believes Trump Would Flip on His Own Children",
-      "excerpt": "Kimmel agreed with Michael Cohen, the former president’s longtime personal lawyer, who said in an interview that Trump would turn on anyone to save himself.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/05/21/arts/television/late-night-jimmy-kimmel-trump-children.html",
-      "originalUrl": "https://www.nytimes.com/2021/05/21/arts/television/late-night-jimmy-kimmel-trump-children.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/05/21/arts/21latenight/21latenight-facebookJumbo.png",
-          "width": 909,
-          "height": 476,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/05/21/arts/television/late-night-jimmy-kimmel-trump-children.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/05/21/arts/television/late-night-jimmy-kimmel-trump-children.amp.html",
-      "publishedDateTime": "2021-05-20T23:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     }
   ],

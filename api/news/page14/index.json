@@ -2,6 +2,161 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-08-04-trump-big-winner-progressives-big-losers-in-twin-ohio-congressional-primaries.md",
+      "title": "Trump big winner, progressives big losers in twin Ohio congressional primaries",
+      "excerpt": "Former President Trump wasn’t on the ballot, but he was one of the winners as the candidate he backed won a GOP primary in a special House election in Ohio’s 15th Congressional District.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Gbe4eDHTHX4/trump-winner-progressives-losers-ohio-primaries",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Gbe4eDHTHX4/trump-winner-progressives-losers-ohio-primaries",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 171,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-winner-progressives-losers-ohio-primaries.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-winner-progressives-losers-ohio-primaries.amp",
+      "publishedDateTime": "2021-08-04T09:27:23-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-08-04-pence-to-take-part-in-symposium-with-college-of-the-ozarks.md",
+      "title": "Pence To Take Part In Symposium With College Of The Ozarks",
+      "excerpt": "Vice President Micheal Pence poses for his official portrait at The White House, in Washington, D.C., on Tuesday, October 24, 2017. (Official White House Photo by D. Myles Cullen)Former Vice-President",
+      "sourceUrl": null,
+      "webUrl": "https://www.ktts.com/2021/08/04/pence-to-take-part-in-symposium-with-college-of-the-ozarks/",
+      "originalUrl": "https://www.ktts.com/2021/08/04/pence-to-take-part-in-symposium-with-college-of-the-ozarks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/1028/2021/08/04110751/Mike-Pence-MEDIA-300-dpi-819x1024.jpg",
+          "width": 819,
+          "height": 1024,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ktts.com/2021/08/04/pence-to-take-part-in-symposium-with-college-of-the-ozarks/amp/",
+      "cdnAmpWebUrl": "https://www-ktts-com.cdn.ampproject.org/c/s/www.ktts.com/2021/08/04/pence-to-take-part-in-symposium-with-college-of-the-ozarks/amp/",
+      "publishedDateTime": "2021-08-04T09:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KTTS",
+        "domain": "ktts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-08-04-boston-mayor-uses-slavery-trump-to-shoot-down-questions-about-vaccine-passports.md",
+      "title": "Boston mayor uses slavery, Trump to shoot down questions about vaccine passports",
+      "excerpt": "Acting Boston Mayor Kim Janey shot down talks of enforcing vaccine passports in the city, comparing such papers to the Jim Crow era and former President Donald Trump’s birtherism theories.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5WZ_sj_NUq4/boston-mayor-vaccine-passports-new-york-city",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5WZ_sj_NUq4/boston-mayor-vaccine-passports-new-york-city",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 170,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5a29dc84-ff99-4991-ad67-439ad4c35eec/a0545df5-b69a-4b20-8cda-e2fb50bc90f7/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/boston-mayor-vaccine-passports-new-york-city.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/boston-mayor-vaccine-passports-new-york-city.amp",
+      "publishedDateTime": "2021-08-04T06:28:32-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-08-04-cuomo-jams-democrats-with-trump-playbook-the-note.md",
       "title": "Cuomo jams Democrats with Trump playbook: The Note",
       "excerpt": "Gov. Andrew Cuomo is clinging to office by running plays made familiar by former President Trump, mixing indignant denials with what-aboutism and an instinct to fight.",
@@ -1172,175 +1327,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-03-meghan-mccain-i-skipped-mary-trump-interview-because-shes-too-irrelevant-for-my-time.md",
-      "title": "Meghan McCain: I skipped Mary Trump interview because she's 'too irrelevant for my time'",
-      "excerpt": "Soon-to-be-former “The View” co-host Meghan McCain skipped an interview with guest Mary Trump on Monday's program, saying the former president's niece wasn't worth her time.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/meghan-mccain-skipped-mary-trump-interview-irrelevant-time",
-      "originalUrl": "https://www.foxnews.com/media/meghan-mccain-skipped-mary-trump-interview-irrelevant-time",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/74e56eda-375c-4101-a9f3-324be02bfe0e/34369108-f858-4525-a4f9-3556412e89f1/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/meghan-mccain-skipped-mary-trump-interview-irrelevant-time.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/meghan-mccain-skipped-mary-trump-interview-irrelevant-time.amp",
-      "publishedDateTime": "2021-08-02T13:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-02-fundraiser-in-chief-biden-headlining-democratic-party-fundraiser.md",
-      "title": "Fundraiser-in-chief: Biden headlining Democratic Party fundraiser",
-      "excerpt": "President Biden headlines a fundraiser for the Democratic National Committee on Monday evening, in an effort to build up resources ahead of next year’s midterm elections, when the Democrats will be defending the razor thin majorities in both the House and Senate.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/273rEu_bMWg/fundraiser-in-chief-biden-headlining-democratic-party-fundraiser",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/273rEu_bMWg/fundraiser-in-chief-biden-headlining-democratic-party-fundraiser",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 215,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://amp.spot.im/loader.png",
-          "width": 375,
-          "height": 815,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/fundraiser-in-chief-biden-headlining-democratic-party-fundraiser.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/fundraiser-in-chief-biden-headlining-democratic-party-fundraiser.amp",
-      "publishedDateTime": "2021-08-02T08:10:34-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-02-white-house-once-again-makes-covid-19-the-focus-of-bidens-schedule.md",
-      "title": "White House once again makes Covid-19 the focus of Biden's schedule",
-      "excerpt": "The White House is making a concerted effort to return the focus of President Joe Biden's schedule to Covid-19 this week as the year-and-a-half-long pandemic again consumes his agenda amid a new spike in cases.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3avBHG0W9pc/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3avBHG0W9pc/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 375,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210730093822-biden-cnn-primera-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/08/02/politics/white-house-covid-push/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/02/politics/white-house-covid-push/index.html",
-      "publishedDateTime": "2021-08-02T07:10:15-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

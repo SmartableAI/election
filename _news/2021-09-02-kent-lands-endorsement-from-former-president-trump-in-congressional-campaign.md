@@ -25,54 +25,192 @@ images:
     isCached: true
 
 related:
-  - title: "Trump’s Long Campaign to Steal the Presidency: A Timeline"
-    excerpt: "The insurrection wasn’t a one-day event. It was the culmination of a multifaceted, yearslong plot — and it isn’t over."
-    publishedDateTime: 2021-09-05T20:00:00Z
-    webUrl: "https://nymag.com/intelligencer/article/trump-campaign-steal-presidency-timeline.html"
-    ampWebUrl: "https://nymag.com/intelligencer/amp/article/trump-campaign-steal-presidency-timeline.html"
-    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/article/trump-campaign-steal-presidency-timeline.html"
+  - title: "How the new Texas elections law follows up on Trump's voter fraud claims"
+    excerpt: "Texas Republicans enacted a massive election restrictions law on Tuesday that has echoes of the former president Donald Trump’s false claims that widespread voter fraud kept him from a second term in the White House."
+    publishedDateTime: 2021-09-07T23:13:00Z
+    webUrl: "https://www.houstonchronicle.com/politics/texas/article/How-Texas-is-following-up-on-Trump-s-voter-16441526.php"
+    ampWebUrl: "https://www.houstonchronicle.com/politics/texas/amp/How-Texas-is-following-up-on-Trump-s-voter-16441526.php"
+    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/politics/texas/amp/How-Texas-is-following-up-on-Trump-s-voter-16441526.php"
     type: article
     provider:
-      name: New York Magazine
-      domain: nymag.com
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 139
+    images:
+      - url: "https://s.hdnux.com/photos/01/21/61/73/21438188/3/400x0.jpg"
+        width: 400
+        height: 270
+        isCached: true
+  - title: "Donald Trump Says Not Yet Sure Whether He Supports Texas Abortion Law"
+    excerpt: "Trump dodged when asked whether he agrees with the Supreme Court ruling, saying it's \"complex and also probably temporary.\""
+    publishedDateTime: 2021-09-05T22:27:00Z
+    webUrl: "https://www.newsweek.com/donald-trump-says-not-yet-sure-whether-he-supports-texas-abortion-law-1626284"
+    ampWebUrl: "https://www.newsweek.com/donald-trump-says-not-yet-sure-whether-he-supports-texas-abortion-law-1626284?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-says-not-yet-sure-whether-he-supports-texas-abortion-law-1626284?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
+    images:
+      - url: "https://d.newsweek.com/en/full/1887991/trump-texas-abortion-supreme-court-ruling.jpg"
+        width: 3428
+        height: 2486
+        isCached: true
+  - title: "Trump Justices Cast Crucial Votes on Texas Abortion Ban Undermining Roe v. Wade"
+    excerpt: "The Supreme Court has declined to prevent a new law in Texas that severely restricts abortion access from coming into effect. The law will effectively ban all abortions in the state after around six weeks of pregnancy in what reproductive rights advocates view as a blow to the precedent set in Roe v."
+    publishedDateTime: 2021-09-02T08:28:00Z
+    webUrl: "https://www.newsweek.com/trump-justices-cast-crucial-votes-texas-abortion-ban-undermining-roe-v-wade-1625266"
+    ampWebUrl: "https://www.newsweek.com/trump-justices-cast-crucial-votes-texas-abortion-ban-undermining-roe-v-wade-1625266?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-justices-cast-crucial-votes-texas-abortion-ban-undermining-roe-v-wade-1625266?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 121
+    images:
+      - url: "https://d.newsweek.com/en/full/1885475/trump-appointed-justices-shown-composite-image.jpg"
+        width: 2400
+        height: 1600
+        isCached: true
+  - title: "Trump fans election fraud theme as Virginia governor candidate Youngkin walks tightrope"
+    excerpt: "Former president Donald Trump on Wednesday warned that Democrats might try to steal the Virginia governor's race, pegging his prediction on baseless claims of 2020 election fraud that Republican candidate Glenn Youngkin has flirted with but not fully embraced."
+    publishedDateTime: 2021-09-01T22:52:00Z
+    webUrl: "https://www.washingtonpost.com/local/virginia-politics/trump-virginia-governor-youngkin-election/2021/09/01/c8583584-0b3b-11ec-aea1-42a8138f132a_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 112
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/X2IE7EQLOYI6ZLVBIKUBHDYTFI.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Trump Organization’s security director agrees to testify to grand jury"
+    excerpt: "The Trump Organization’s director of security has agreed to testify before a Manhattan grand jury investigating the former president and his company, according to a person familiar with the case. Matthew Calamari Jr."
+    publishedDateTime: 2021-09-02T10:46:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-organization-calamari-grand-jury/2021/09/01/ee8cd3c0-0b7e-11ec-9781-07796ffb56fe_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5IFS5RW2U4I6XDEHVVXSPEMMPA.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "A judge rebukes Donald Trump Jr. for misinformation — as Trump Jr. doubles down on misinformation"
+    excerpt: "A West Virginia judge ruled that a lawsuit against Trump Jr. can proceed because there is evidence he knowingly shared false and potentially defamatory information."
+    publishedDateTime: 2021-09-02T18:39:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/09/02/judge-rebukes-donald-trump-jr-misinformation-trump-jr-doubles-down-misinformation/"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 92
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KC5D45HBB4I6XIT7RMUUSMHJLM.jpg&w=1440"
+        width: 1440
+        height: 961
+        isCached: true
+  - title: "Judge tosses Trump rollback of clean water safeguards"
+    excerpt: "A federal judge has thrown out a Trump-era rule that ended federal protections for hundreds of thousands of small streams, wetlands and other waterways and left them vulnerable to pollution from nearby development."
+    publishedDateTime: 2021-08-31T21:36:00Z
+    webUrl: "https://www.thehour.com/news/article/Judge-tosses-Trump-rollback-of-clean-water-16426305.php"
+    ampWebUrl: "https://www.thehour.com/news/amp/Judge-tosses-Trump-rollback-of-clean-water-16426305.php"
+    cdnAmpWebUrl: "https://www-thehour-com.cdn.ampproject.org/c/s/www.thehour.com/news/amp/Judge-tosses-Trump-rollback-of-clean-water-16426305.php"
+    type: article
+    provider:
+      name: The Hour
+      domain: thehour.com
     quality: 75
     images:
-      - url: "https://pyxis.nymag.com/v1/imgs/0c7/d7c/20a3acd661e5113bfd8825a177d26a0649-trump-steal-01.1x.rsocial.w1200.jpg"
-        width: 1200
-        height: 630
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
-  - title: "Trump will 'definitely' run for president in 2024, former adviser predicts"
-    excerpt: "A former adviser to former President Donald Trump has confidently declared there's nearly a 100 percent chance he'll seek another term as president. Jason Miller, who served as senior adviser to Trump's 2020 campaign,"
-    publishedDateTime: 2021-09-03T14:40:00Z
-    webUrl: "https://theweek.com/donald-trump/1004509/trump-will-definitely-run-for-president-in-2024-former-adviser-predicts"
-    ampWebUrl: "https://theweek.com/donald-trump/1004509/trump-will-definitely-run-for-president-in-2024-former-adviser-predicts?amp"
-    cdnAmpWebUrl: "https://theweek-com.cdn.ampproject.org/c/s/theweek.com/donald-trump/1004509/trump-will-definitely-run-for-president-in-2024-former-adviser-predicts?amp"
+  - title: "Georgia lieutenant governor declares independence from Trump"
+    excerpt: "Georgia’s Republican lieutenant governor is declaring independence from Donald Trump in a new book and urging other members of the GOP to follow. Geoff Duncan has been a target of heavy criticism from the former president and many other Republicans for his outspoken criticism of Trump’s efforts to overturn his presidential election loss."
+    publishedDateTime: 2021-09-04T01:05:00Z
+    webUrl: "https://www.seattlepi.com/news/article/Georgia-lieutenant-governor-declares-independence-16434184.php"
+    ampWebUrl: "https://www.seattlepi.com/news/amp/Georgia-lieutenant-governor-declares-independence-16434184.php"
+    cdnAmpWebUrl: "https://www-seattlepi-com.cdn.ampproject.org/c/s/www.seattlepi.com/news/amp/Georgia-lieutenant-governor-declares-independence-16434184.php"
     type: article
     provider:
-      name: THE WEEK
-      domain: theweek.com
-    quality: 73
+      name: seattlepi.com
+      domain: seattlepi.com
+    quality: 75
     images:
-      - url: "https://mediacloud.theweek.com/image/upload/f_auto,t_primary-image-mobile@1/v1630678687/GettyImages-1057825656%20%281%29.jpg"
-        width: 375
-        height: 211
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
-  - title: "‘Reign of Terror’ brilliantly traces the course from 9/11 to President Trump"
-    excerpt: "Government euphemisms and constant portrayal of Muslims as potential terrorists contributed to an ugly, winning narrative, author Spencer Ackerman argues."
-    publishedDateTime: 2021-09-05T09:45:00Z
-    webUrl: "https://www.dailypress.com/entertainment/books/vp-db-book-nyt-reign-terror-ackerman-090521-20210905-wezrbfxjozapxhreornstjgonq-story.html"
-    ampWebUrl: "https://www.dailypress.com/entertainment/books/vp-db-book-nyt-reign-terror-ackerman-090521-20210905-wezrbfxjozapxhreornstjgonq-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-dailypress-com.cdn.ampproject.org/c/s/www.dailypress.com/entertainment/books/vp-db-book-nyt-reign-terror-ackerman-090521-20210905-wezrbfxjozapxhreornstjgonq-story.html?outputType=amp"
+  - title: "Republican Donors Show Disinterest In Trump 2024 Campaign, Focus On Midterms"
+    excerpt: "Top Republican Party donors have pushed back on fundraising for former President Donald Trump’s potential 2024 campaign and are instead focused on the 2022 midterm elections, CNBC reported Tuesday. Almost immediately after leaving the White House in January,"
+    publishedDateTime: 2021-08-31T21:38:00Z
+    webUrl: "https://www.ibtimes.com/republican-donors-show-disinterest-trump-2024-campaign-focus-midterms-3285139"
+    ampWebUrl: "https://www.ibtimes.com/republican-donors-show-disinterest-trump-2024-campaign-focus-midterms-3285139?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/republican-donors-show-disinterest-trump-2024-campaign-focus-midterms-3285139?amp=1"
     type: article
     provider:
-      name: Daily Press
-      domain: dailypress.com
+      name: International Business Times
+      domain: ibtimes.com
     quality: 72
     images:
-      - url: "https://www.dailypress.com/resizer/rzRqmwl_SFH_ZWmHsoGrjUUsI3g=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/G7GHEQYAJVAXPBXDGX2R2AHHZM.png"
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/07/07/former-us-president-donald-trump-reportedly-told-his.jpg"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "Pro-Trump lawyers who pushed fraud cases face serious consequences"
+    excerpt: "Lawyers who sought to overturn the 2020 election results in key states, alleging fraud, were sanctioned last week by a federal judge in Michigan."
+    publishedDateTime: 2021-08-31T20:06:00Z
+    webUrl: "https://www.csmonitor.com/USA/Politics/2021/0831/Pro-Trump-lawyers-who-pushed-fraud-cases-face-serious-consequences"
+    ampWebUrl: "https://www.csmonitor.com/layout/set/amphtml/USA/Politics/2021/0831/Pro-Trump-lawyers-who-pushed-fraud-cases-face-serious-consequences"
+    cdnAmpWebUrl: "https://www-csmonitor-com.cdn.ampproject.org/c/s/www.csmonitor.com/layout/set/amphtml/USA/Politics/2021/0831/Pro-Trump-lawyers-who-pushed-fraud-cases-face-serious-consequences"
+    type: article
+    provider:
+      name: Christian Science Monitor
+      domain: csmonitor.com
+    quality: 55
+  - title: "Trump Organization employees to testify before NY grand jury"
+    excerpt: "Matthew Calamari Jr., the Trump Organization’s corporate director of security, will testify this week before a Manhattan grand jury investigating former President Donald Trump’s company and its"
+    publishedDateTime: 2021-09-02T00:52:00Z
+    webUrl: "https://www.bozemandailychronicle.com/ap_news/trump-organization-employees-to-testify-before-ny-grand-jury/article_3bee4d08-b4d6-5bb7-a308-a04ac80ddfc4.html"
+    type: article
+    provider:
+      name: Bozeman Daily Chronicle
+      domain: bozemandailychronicle.com
+    quality: 55
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/custom/image/2ffee154-edef-11e4-a572-ab4a61dde6eb.png"
         width: 1200
         height: 630
         isCached: true
+  - title: "On the trail: Trump administration secretaries visit N.H."
+    excerpt: "Former Secretary of State Mike Pompeo had politics at the top of his agenda as he visited New Hampshire this week.But the trip to the first-in-the-nation presidential primary state by the man who served as American’s top diplomat for the last two"
+    publishedDateTime: 2021-09-02T18:11:00Z
+    webUrl: "https://www.concordmonitor.com/Trump-s-secretary-pompeo-devos-New-Hampshire-42276621"
+    type: article
+    provider:
+      name: Concord Monitor
+      domain: concordmonitor.com
+    quality: 55
+    images:
+      - url: "http://www.concordmonitor.com/getattachment/816e6156-73be-4c02-9629-513efd0d089e/attachment.aspx"
+        width: 499
+        height: 325
+        isCached: true
+  - title: "Trump Backs Challenger to Third House Republican Who Voted to Impeach"
+    excerpt: "Former President Donald Trump on Tuesday endorsed Michigan state lawmaker Steve Carra's bid to unseat U.S. Representative Fred Upton, his third endorsement of a challenger to a Republican who voted to impeach him on a charge of sparking the Capitol riot."
+    publishedDateTime: 2021-09-07T19:34:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-09-07/trump-backs-challenger-to-third-house-republican-who-voted-to-impeach"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "Y/ToUUz8c1DAuUnVQy3fExMIveJietT7Ifm+ITFUCvm3tTduAl17SVfemggLAcx+/YrQtFL4hqMesSMfuqI9TqZ3DLoIAvbyi+jZ2EvRpsdGdU/2/Px+uEMAWC6ZtRIOUmZI47ytmytVtXxWYqAFU7PPSemCC4ZeFRcjxts6AcOoHMJJ1L6tZKE1oxtedEUz91jd/R01Js1HSQMHYlxG+5sC+arYLci1V0eoVfEbcjg677tp65DRr2wnqaUBdJwz01m+lyvksQYi9DPXM18UExuq0qcMiEPFzBbgkzwxUVcozyPAs1/uLxJol23rdpEAtGc5XgwY5fyB+9qs4jYIIyqrKqBkjO0xaAUp1lo92c4=;xj5q1N1etemx413dQKoOcA=="
 ---

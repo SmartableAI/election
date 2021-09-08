@@ -25,58 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "Trump fans election fraud theme as Virginia governor candidate Youngkin walks tightrope"
-    excerpt: "Former president Donald Trump on Wednesday warned that Democrats might try to steal the Virginia governor's race, pegging his prediction on baseless claims of 2020 election fraud that Republican candidate Glenn Youngkin has flirted with but not fully embraced."
-    publishedDateTime: 2021-09-01T22:52:00Z
-    webUrl: "https://www.washingtonpost.com/local/virginia-politics/trump-virginia-governor-youngkin-election/2021/09/01/c8583584-0b3b-11ec-aea1-42a8138f132a_story.html"
+  - title: "Carlyle Alum’s Governor Run Mixes Trump Backing, MAGA-Lite Style"
+    excerpt: "The crowd of about 300 Republican stalwarts in Norfolk, Virginia, included those wearing the requisite red baseball caps."
+    publishedDateTime: 2021-08-23T06:00:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-08-23/carlyle-alum-s-governor-run-mixes-trump-backing-maga-lite-style"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 112
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 105
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/X2IE7EQLOYI6ZLVBIKUBHDYTFI.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iD7mjU39SxqU/v1/1200x800.jpg"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Georgia lieutenant governor declares independence from Trump"
-    excerpt: "Georgia’s Republican lieutenant governor is declaring independence from Donald Trump in a new book and urging other members of the GOP to follow. Geoff Duncan has been a target of heavy criticism from the former president and many other Republicans for his outspoken criticism of Trump’s efforts to overturn his presidential election loss."
-    publishedDateTime: 2021-09-04T01:05:00Z
-    webUrl: "https://www.seattlepi.com/news/article/Georgia-lieutenant-governor-declares-independence-16434184.php"
-    ampWebUrl: "https://www.seattlepi.com/news/amp/Georgia-lieutenant-governor-declares-independence-16434184.php"
-    cdnAmpWebUrl: "https://www-seattlepi-com.cdn.ampproject.org/c/s/www.seattlepi.com/news/amp/Georgia-lieutenant-governor-declares-independence-16434184.php"
-    type: article
-    provider:
-      name: seattlepi.com
-      domain: seattlepi.com
-    quality: 75
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
-  - title: "Trump backs Jones in Georgia, renews support for Walker"
-    excerpt: "Former President Donald Trump put his thumb on the scale of Georgia Republican politics again Thursday, endorsing state Sen. Burt Jones in the GOP primary for lieutenant governor and reiterating his support for newly declared U."
-    publishedDateTime: 2021-09-03T09:32:00Z
-    webUrl: "https://www.islandpacket.com/news/politics-government/national-politics/article253963198.html"
-    ampWebUrl: "https://amp.islandpacket.com/news/politics-government/national-politics/article253963198.html"
-    cdnAmpWebUrl: "https://amp-islandpacket-com.cdn.ampproject.org/c/s/amp.islandpacket.com/news/politics-government/national-politics/article253963198.html"
-    type: article
-    provider:
-      name: The Island Packet
-      domain: islandpacket.com
-    quality: 55
-  - title: "Georgia lieutenant governor declares independence from Trump"
-    excerpt: "Georgia’s Republican lieutenant governor is declaring independence from Donald Trump in a new book, and urging other Republicans to follow."
-    publishedDateTime: 2021-09-05T02:35:00Z
-    webUrl: "https://www.bellinghamherald.com/news/politics-government/national-politics/article253983268.html"
-    ampWebUrl: "https://amp.bellinghamherald.com/news/politics-government/national-politics/article253983268.html"
-    cdnAmpWebUrl: "https://amp-bellinghamherald-com.cdn.ampproject.org/c/s/amp.bellinghamherald.com/news/politics-government/national-politics/article253983268.html"
-    type: article
-    provider:
-      name: The Bellingham Herald
-      domain: bellinghamherald.com
-    quality: 55
 
 secured: "TSNGyqhA5PG8Qkn/m4H+th56HzBmzbCIXCVqilW0CP3taov6mVqtrppFOhxWC/o/tV3p8QYx6g3E7g8mh8gvLCr2SMT17K7hP9JYS5Mw69lKySRMWSYTZR97x7c/mRskTwEv7G9TBUJDk8B+bymCwfaNZ9+WXCkCHQyOGn6AD25JVn5cZBm7w+aIj1ANHk9kHkOwY9P2upj8tSIpIGKT1X2MBKoA6r4v6YEZ5rogbIIOLG8VYK4SIdpkAF1b8bHSvQl19kdGUXNqYmJ8dKbr+I6ZakJDYok8jIi1vNacioepJoUXAN/m84Zwg/PgS95GzlwSz0rwCcsPrSSzeFjak0O7GL0aiFSAcF2MYd5g+58=;Yo+4Pi+mY3vaBNGl/Ol23w=="
 ---

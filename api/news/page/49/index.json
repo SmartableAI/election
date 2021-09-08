@@ -2,6 +2,158 @@
   "page": 49,
   "value": [
     {
+      "path": "_news/2021-05-28-inside-trumps-hot-vax-new-jersey-summer-where-hes-playing-golf-and-plotting-rallies-while-legal-storms-form.md",
+      "title": "Inside Trump's hot vax New Jersey summer, where he's playing golf and plotting rallies while legal storms form",
+      "excerpt": "Trump's political machine is humming from his summer perch in Bedminster, New Jersey. But legal trouble is brewing in New York",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/inside-donald-trumps-hot-vax-new-jersey-summer-vacation-2021-5",
+      "originalUrl": "https://www.businessinsider.com/inside-donald-trumps-hot-vax-new-jersey-summer-vacation-2021-5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/60b0198ebee0fc0019d5a154?width=1200&format=jpeg",
+          "width": 802,
+          "height": 401,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-28T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-05-28-biden-to-gop-dont-get-in-the-way-of-infrastructure-plan.md",
+      "title": "Biden to GOP: 'Don't get in the way' of infrastructure plan",
+      "excerpt": "President Joe Biden is warning naysayers in Congress not to “get in the way” of his big infrastructure plans as the White House panned a counteroffer from Republican senators to tap unused COVID-19 relief for a more modest investment in roads,",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Business/wireStory/biden-gop-dont-infrastructure-plan-77955654",
+      "originalUrl": "https://abcnews.go.com/Business/wireStory/biden-gop-dont-infrastructure-plan-77955654",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/WireAP_f31c9f06758e48e98c1f2a10ec488122_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Business/wireStory/biden-gop-dont-infrastructure-plan-77955654",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/biden-gop-dont-infrastructure-plan-77955654",
+      "publishedDateTime": "2021-05-27T21:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-05-28-men-booted-from-yankee-stadium-after-displaying-trump-won-banner.md",
+      "title": "Men booted from Yankee Stadium after displaying ‘Trump Won’ banner",
+      "excerpt": "Two men who brought a ‘Trump Won Save America’ banner to the May 27, 2021 doubleheader between the Yankees and Blue Jays were greeted with boos from the crowd and escorted out of the",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/05/28/two-men-booted-from-yankee-game-for-holding-a-trump-won-sign/",
+      "originalUrl": "https://nypost.com/2021/05/28/two-men-booted-from-yankee-game-for-holding-a-trump-won-sign/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/05/trump-fans-ejected-index.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/05/28/two-men-booted-from-yankee-game-for-holding-a-trump-won-sign/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/28/two-men-booted-from-yankee-game-for-holding-a-trump-won-sign/amp/",
+      "publishedDateTime": "2021-05-27T21:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-05-28-biden-administrations-return-to-libya-inexplicable-when-us-faces-multiple-crises-at-home-jim-jordan.md",
       "title": "Biden administration's return to Libya inexplicable when US faces multiple crises at home: Jim Jordan",
       "excerpt": "House Judiciary Committee Ranking Member Jim Jordan, R-Ohio, said on Thursday's \"Fox News Primetime\" that President Biden seeking a diplomatic return to Libya “doesn't make sense” as the U.S. faces a number of domestic crises.",
@@ -1207,166 +1359,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-26-biden-intel-community-torn-between-two-likely-scenarios-on-covid-19-outbreak-source.md",
-      "title": "Biden: Intel community torn between 'two likely scenarios' on COVID-19 outbreak source",
-      "excerpt": "President Biden on Wednesday asked the Intelligence Community to \"redouble\" their efforts to \"collect and analyze\" information that could bring the U.S. closer to a \"definitive conclusion\" on the origins of the novel coronavirus, saying U.S. intelligence officials are currently torn between \"two likely",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/giqHf44JnaQ/biden-intel-community-covid-origin-probe-lab-leak-theory",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/giqHf44JnaQ/biden-intel-community-covid-origin-probe-lab-leak-theory",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-intel-community-covid-origin-probe-lab-leak-theory.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-intel-community-covid-origin-probe-lab-leak-theory.amp",
-      "publishedDateTime": "2021-05-26T10:10:09-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-26-trump-asks-court-to-toss-out-capitol-assault-suit-from-eric-swalwell.md",
-      "title": "Trump asks court to toss out Capitol assault suit from Eric Swalwell",
-      "excerpt": "Swalwell is suing Mr. Trump, Donald Trump Jr., GOP Congressman Mo Brooks of Alabama and Rudy Giuliani, the former president's lawyer, over the events of January 6.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/capitol-riot-suit-trump-swalwell/",
-      "originalUrl": "https://www.cbsnews.com/news/capitol-riot-suit-trump-swalwell/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/20/2d48bb4f-3279-4bf6-90d9-c7543fa89033/thumbnail/1200x630/61ea42e1b42e185ea35df3dd7de18759/gettyimages-1230692812.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/capitol-riot-suit-trump-swalwell/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/capitol-riot-suit-trump-swalwell/",
-      "publishedDateTime": "2021-05-26T07:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-05-26-son-ghostwriter-of-late-senator-say-trump-intervened-to-stop-probe-of-patriots-spygate-scandal.md",
-      "title": "Son, ghostwriter of late senator say Trump intervened to stop probe of Patriots' Spygate scandal",
-      "excerpt": "A hard-charging United States senator from Pennsylvania named Arlen Specter had launched an investigation into the Spygate scandal. He tried to determine how many games the New England Patriots' illegal videotaping operation of opposing coaches' signals had helped the team win and learn why the NFL,",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Sports/son-ghostwriter-late-senator-trump-intervened-stop-probe/story?id=77914778",
-      "originalUrl": "https://abcnews.go.com/Sports/son-ghostwriter-late-senator-trump-intervened-stop-probe/story?id=77914778",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 172,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/site/ABCNews_flat_black.png",
-          "width": 834,
-          "height": 308,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Sports/son-ghostwriter-late-senator-trump-intervened-stop-probe/story?id=77914778",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Sports/son-ghostwriter-late-senator-trump-intervened-stop-probe/story?id=77914778",
-      "publishedDateTime": "2021-05-26T05:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

@@ -2,6 +2,111 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-06-14-media-fawning-over-joe-biden-for-return-to-normalcy-are-missing-destabilizing-effects-ben-domenech.md",
+      "title": "Media fawning over Joe Biden for ‘return to normalcy’ are missing 'destabilizing effects': Ben Domenech",
+      "excerpt": "The mainstream media has spotlighted President Biden for replacing Trump, The Federalist founder Ben Domenech argued on \"Media Buzz.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/media-fawning-over-joe-biden-for-return-to-normalcy-from-trump-years-ben-domenech",
+      "originalUrl": "https://www.foxnews.com/media/media-fawning-over-joe-biden-for-return-to-normalcy-from-trump-years-ben-domenech",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2411cae0-9c18-4a55-abf0-2cae2c64bb7d/a9cabb4f-5ce4-40c3-84ca-8a10a3d1e0ba/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/media-fawning-over-joe-biden-for-return-to-normalcy-from-trump-years-ben-domenech.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/media-fawning-over-joe-biden-for-return-to-normalcy-from-trump-years-ben-domenech.amp",
+      "publishedDateTime": "2021-06-13T12:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-14-carl-bernstein-trump-and-enthralled-republican-party-are-guilty-of-crimes-against-democracy.md",
+      "title": "Carl Bernstein: Trump And \"Enthralled\" Republican Party Are Guilty Of Crimes Against Democracy",
+      "excerpt": "Key Watergate figures Carl Bernstein and John Dean explain the differences between former Presidents Donald Trump and Richard Nixon following reports the Department of Justice under Trump demanded data on 73 phone numbers and 36 email addresses related to lawmakers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.realclearpolitics.com/video/2021/06/13/carl_bernstein_trump_and_enthralled_republican_party_are_guilty_of_crimes_against_democracy.html",
+      "originalUrl": "https://www.realclearpolitics.com/video/2021/06/13/carl_bernstein_trump_and_enthralled_republican_party_are_guilty_of_crimes_against_democracy.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.realclear.com/images/49/494847.jpg",
+          "width": 1202,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "http://www.realclearpolitics.com/video/2021/06/13/carl_bernstein_trump_and_enthralled_republican_party_are_guilty_of_crimes_against_democracy.amp.html",
+      "cdnAmpWebUrl": "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/06/13/carl_bernstein_trump_and_enthralled_republican_party_are_guilty_of_crimes_against_democracy.amp.html",
+      "publishedDateTime": "2021-06-13T11:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RealClearPolitics",
+        "domain": "realclearpolitics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-13-doj-sought-account-information-of-top-trump-white-house-lawyer-report.md",
       "title": "DOJ sought account information of top Trump White House lawyer: report",
       "excerpt": "Apple informed former Trump administration White House counsel Don McGahn that the Justice Department subpoenaed information about an email account of his in 2018, and forbade Apple from letting him know, according to a New York Times report.",
@@ -1541,119 +1646,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-08-ivanka-trump-focusing-on-family-time-in-months-after-trump-administration.md",
-      "title": "Ivanka Trump 'focusing on family time' in months after Trump administration",
-      "excerpt": "Ivanka Trump is focusing on her family and living in Miami, Florida, with her husband Jared Kushner, sources familiar with the couple’s plans told Fox News, following four years in Washington, D.C., serving in the Trump administration.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/BXbrvMGtcwY/ivanka-trump-family-time-months-after-trump-administration",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/BXbrvMGtcwY/ivanka-trump-family-time-months-after-trump-administration",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 193,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/ivanka-trump-family-time-months-after-trump-administration.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ivanka-trump-family-time-months-after-trump-administration.amp",
-      "publishedDateTime": "2021-06-08T13:02:17-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-08-white-house-says-harris-may-go-to-the-border-at-some-point.md",
-      "title": "White House says Harris 'may go to the border' 'at some point'",
-      "excerpt": "Vice President Kamala Harris “may go to the border” “at some point,” the White House said Tuesday, as the vice president faces criticism for not yet visiting the southern border after being tappen by President Biden to handle the “root causes” of migration.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/GP25tINgYlk/white-house-harris-may-go-to-the-border-at-some-point",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/GP25tINgYlk/white-house-harris-may-go-to-the-border-at-some-point",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 345,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/white-house-harris-may-go-to-the-border-at-some-point.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-harris-may-go-to-the-border-at-some-point.amp",
-      "publishedDateTime": "2021-06-08T12:14:03-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Kamala Harris"
       ]
     }
   ],

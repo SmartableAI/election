@@ -2,6 +2,171 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-08-07-rose-mcgowan-tears-into-alyssa-milano-joe-biden-times-up-ceo-amid-cuomo-scandal-your-time-is-up.md",
+      "title": "Rose McGowan tears into Alyssa Milano, Joe Biden, Time's Up CEO amid Cuomo scandal: 'Your time is up'",
+      "excerpt": "Rose McGowan ripped Alyssa Milano, Time's Up President Tina Tchen, and President Biden when referring to Andrew Cuomo's sex harassment scandal.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/entertainment/rose-mcgowan-slams-alyssa-milano-joe-biden-times-up-ceo-cuomo-sex-scandal",
+      "originalUrl": "https://www.foxnews.com/entertainment/rose-mcgowan-slams-alyssa-milano-joe-biden-times-up-ceo-cuomo-sex-scandal",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/08/720/405/cuomo-mcgowan-milano-getty.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/entertainment/rose-mcgowan-slams-alyssa-milano-joe-biden-times-up-ceo-cuomo-sex-scandal.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/rose-mcgowan-slams-alyssa-milano-joe-biden-times-up-ceo-cuomo-sex-scandal.amp",
+      "publishedDateTime": "2021-08-07T06:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-08-07-trumps-recurring-donation-tactics-led-to-128m-in-refunds-but-his-pac-is-still-using-pre-checked-boxes-to-steer-supporters-into-unwitting.md",
+      "title": "Trump's recurring donation tactics led to $12.8m in refunds, but his PAC is still using pre-checked boxes to steer supporters into unwitting payments",
+      "excerpt": "Trump and the GOP refunded millions to donors in the first half of 2021 after using the controversial fundraising tactic, per The New York Times.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/trump-pre-checked-box-donation-tactic-leads-millions-in-refunds-2021-8",
+      "originalUrl": "https://www.businessinsider.com/trump-pre-checked-box-donation-tactic-leads-millions-in-refunds-2021-8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 146,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/610e7ba12a24d00018624384?width=1200&format=jpeg",
+          "width": 695,
+          "height": 347,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/trump-pre-checked-box-donation-tactic-leads-millions-in-refunds-2021-8?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-pre-checked-box-donation-tactic-leads-millions-in-refunds-2021-8?amp",
+      "publishedDateTime": "2021-08-07T06:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-08-07-911-families-tell-biden-to-stay-away-from-memorial-service-if-he-doesnt-authorize-release-of-records-related-to-attacks.md",
+      "title": "9/11 families tell Biden to stay away from memorial service if he doesn't authorize release of records related to attacks",
+      "excerpt": "More than 1,600 people affected by the September 11 attacks are asking President Joe Biden to refrain from coming to Ground Zero to mark the 20th anniversary of the event unless he releases documents and information related to the attacks, according to a letter released by the group.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9Po5li0GG28/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9Po5li0GG28/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 150,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200911154718-03-joe-biden-0911-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/08/06/politics/joe-biden-9-11-records-memorial-service/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/06/politics/joe-biden-9-11-records-memorial-service/index.html",
+      "publishedDateTime": "2021-08-06T17:48:23-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-08-07-pence-is-joining-other-gop-officials-in-pushing-the-covid-19-vaccine-telling-young-conservatives-i-got-the-shot.md",
       "title": "Pence is joining other GOP officials in pushing the COVID-19 vaccine, telling young conservatives: 'I got the shot'",
       "excerpt": "Pence joins the ranks of other GOP officials who are asking their Republican base to get vaccinated.",
@@ -1151,161 +1316,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/missouri-senate-gop-primary-a-race-to-spotlight-loyalty-to-trump.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/missouri-senate-gop-primary-a-race-to-spotlight-loyalty-to-trump.amp",
       "publishedDateTime": "2021-08-04T11:04:22-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-04-trump-big-winner-progressives-big-losers-in-twin-ohio-congressional-primaries.md",
-      "title": "Trump big winner, progressives big losers in twin Ohio congressional primaries",
-      "excerpt": "Former President Trump wasn’t on the ballot, but he was one of the winners as the candidate he backed won a GOP primary in a special House election in Ohio’s 15th Congressional District.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Gbe4eDHTHX4/trump-winner-progressives-losers-ohio-primaries",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Gbe4eDHTHX4/trump-winner-progressives-losers-ohio-primaries",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 171,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-winner-progressives-losers-ohio-primaries.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-winner-progressives-losers-ohio-primaries.amp",
-      "publishedDateTime": "2021-08-04T09:27:23-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-04-pence-to-take-part-in-symposium-with-college-of-the-ozarks.md",
-      "title": "Pence To Take Part In Symposium With College Of The Ozarks",
-      "excerpt": "Vice President Micheal Pence poses for his official portrait at The White House, in Washington, D.C., on Tuesday, October 24, 2017. (Official White House Photo by D. Myles Cullen)Former Vice-President",
-      "sourceUrl": null,
-      "webUrl": "https://www.ktts.com/2021/08/04/pence-to-take-part-in-symposium-with-college-of-the-ozarks/",
-      "originalUrl": "https://www.ktts.com/2021/08/04/pence-to-take-part-in-symposium-with-college-of-the-ozarks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/1028/2021/08/04110751/Mike-Pence-MEDIA-300-dpi-819x1024.jpg",
-          "width": 819,
-          "height": 1024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ktts.com/2021/08/04/pence-to-take-part-in-symposium-with-college-of-the-ozarks/amp/",
-      "cdnAmpWebUrl": "https://www-ktts-com.cdn.ampproject.org/c/s/www.ktts.com/2021/08/04/pence-to-take-part-in-symposium-with-college-of-the-ozarks/amp/",
-      "publishedDateTime": "2021-08-04T09:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KTTS",
-        "domain": "ktts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-08-04-boston-mayor-uses-slavery-trump-to-shoot-down-questions-about-vaccine-passports.md",
-      "title": "Boston mayor uses slavery, Trump to shoot down questions about vaccine passports",
-      "excerpt": "Acting Boston Mayor Kim Janey shot down talks of enforcing vaccine passports in the city, comparing such papers to the Jim Crow era and former President Donald Trump’s birtherism theories.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5WZ_sj_NUq4/boston-mayor-vaccine-passports-new-york-city",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5WZ_sj_NUq4/boston-mayor-vaccine-passports-new-york-city",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 170,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5a29dc84-ff99-4991-ad67-439ad4c35eec/a0545df5-b69a-4b20-8cda-e2fb50bc90f7/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/boston-mayor-vaccine-passports-new-york-city.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/boston-mayor-vaccine-passports-new-york-city.amp",
-      "publishedDateTime": "2021-08-04T06:28:32-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

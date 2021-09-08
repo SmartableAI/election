@@ -2,6 +2,163 @@
   "page": 47,
   "value": [
     {
+      "path": "_news/2021-06-02-barack-obama-interview-joe-biden-is-finishing-the-job.md",
+      "title": "Barack Obama Interview: Joe Biden Is 'Finishing the Job'",
+      "excerpt": "Barack Obama tells Ezra Klein how American went from \"Yes We Can\" to \"MAGA.\" The former president also discuss Joe Biden, aliens, and three of his favorite books.",
+      "sourceUrl": null,
+      "webUrl": "https://www.realclearpolitics.com/video/2021/06/02/barack_obama_interview_joe_biden_is_finishing_the_job.html#!",
+      "originalUrl": "https://www.realclearpolitics.com/video/2021/06/02/barack_obama_interview_joe_biden_is_finishing_the_job.html#!",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.realclear.com/images/54/544771.jpg",
+          "width": 3851,
+          "height": 2562,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-02T09:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RealClearPolitics",
+        "domain": "realclearpolitics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-02-mcenany-slams-medias-hunter-biden-cover-up-they-hid-the-story-and-influenced-the-election.md",
+      "title": "McEnany slams media's Hunter Biden cover-up: 'They hid the story and influenced the election'",
+      "excerpt": "Fox News host Kayleigh McEnany blasted the media’s ongoing cover-up of the Hunter Biden scandal, Wednesday, on the heels a New York Post editorial lamenting the paper’s scoops are \"being ignored by outlets that would be all over them if they were about the Trump family.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/kayleigh-mcenany-hunter-biden-hid-story-influenced-election",
+      "originalUrl": "https://www.foxnews.com/media/kayleigh-mcenany-hunter-biden-hid-story-influenced-election",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f69d72d8-f7d2-46cd-a7f7-8d7c46cc8456/1bda30c1-a454-452c-b317-c1c3244792b0/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/kayleigh-mcenany-hunter-biden-hid-story-influenced-election.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/kayleigh-mcenany-hunter-biden-hid-story-influenced-election.amp",
+      "publishedDateTime": "2021-06-02T08:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-02-ohio-abortion-ban-inspired-by-gods-agenda-written-in-texas-defended-by-trump-lawyer.md",
+      "title": "Ohio abortion ban: Inspired by 'God's agenda,' written in Texas, defended by Trump lawyer",
+      "excerpt": "A group of anti-abortion activists worked behind the scenes for weeks with a city councilman to make Lebanon, Ohio's new abortion ban possible.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2021/06/02/abortion-ban-texas-group-trump-lawyer-behind-ohios-law/7491809002/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/06/02/abortion-ban-texas-group-trump-lawyer-behind-ohios-law/7491809002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/05/28/PCIN/667d5789-17e9-4e0a-b905-1a8fd239ee68-052521_LEBANONABORTION_0003.jpg?auto=webp&crop=5507,3098,x0,y280&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/7491809002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7491809002",
+      "publishedDateTime": "2021-06-02T07:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-06-02-anheuser-busch-to-give-away-free-alcohol-if-us-hits-bidens-goal-of-70-of-adults-with-at-least-one-covid-vaccine-shot-by-july-4.md",
       "title": "Anheuser-Busch to give away free alcohol if US hits Biden's goal of 70% of adults with at least one Covid vaccine shot by July 4",
       "excerpt": "Anheuser-Busch, the national brewer that produces Budweiser, announced Wednesday it will give away free alcohol if the nation reaches President Joe Biden's goal to have 70% of US adults receive at least dose of the vaccine by July 4. \n    \n",
@@ -1186,166 +1343,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-05-31-senator-ted-cruz-in-israel-calls-on-biden-to-deliver-more-weapons-to-the-country.md",
-      "title": "Senator Ted Cruz, in Israel, calls on Biden to deliver more weapons to the country",
-      "excerpt": "Cruz last week, introduced a resolution approving two arms sales to Israel after Democrats voiced concern and moved to block a sale of weapons.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/ted-cruz-israel-calls-on-biden-deliver-weapons-to-country-2021-5",
-      "originalUrl": "https://www.businessinsider.com/ted-cruz-israel-calls-on-biden-deliver-weapons-to-country-2021-5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/60b4379fbee0fc0019d5a791?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/ted-cruz-israel-calls-on-biden-deliver-weapons-to-country-2021-5?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ted-cruz-israel-calls-on-biden-deliver-weapons-to-country-2021-5?amp",
-      "publishedDateTime": "2021-05-30T19:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-05-31-pastor-greg-locke-continues-to-insist-trump-won-election-biden-is-still-a-fraud.md",
-      "title": "Pastor Greg Locke Continues to Insist Trump Won Election, Biden 'Is Still a Fraud'",
-      "excerpt": "Controversial right-wing Pastor Greg Locke on Sunday continued to claim that President Joe Biden \"is still a fraud\" and former President Donald Trump won the 2020 presidential election. Locke, head of the Baptist Global Vision Bible Church in Juliet,",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/pastor-greg-locke-continues-insist-trump-won-election-biden-still-fraud-1596230",
-      "originalUrl": "https://www.newsweek.com/pastor-greg-locke-continues-insist-trump-won-election-biden-still-fraud-1596230",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 429,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1810171/greg-locke-continues-insist-trump-won.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/pastor-greg-locke-continues-insist-trump-won-election-biden-still-fraud-1596230?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/pastor-greg-locke-continues-insist-trump-won-election-biden-still-fraud-1596230?amp=1",
-      "publishedDateTime": "2021-05-30T13:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-05-30-biden-admin-now-investigating-covid-origin-because-of-the-public-outcry-rep-mike-turner.md",
-      "title": "Biden admin now investigating COVID origin 'because of the public outcry’: Rep. Mike Turner",
-      "excerpt": "Rep. Mike Turner, R-Ohio, argued during an exclusive interview with “Sunday Morning Futures” that “everything points to the Wuhan lab” as it pertains to the origin of COVID-19, and added that “we need to get to the bottom of it.”",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/LDmntR4pwR0/biden-admin-now-investigating-covid-origin-because-of-the-public-outcry-rep-mike-turner",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/LDmntR4pwR0/biden-admin-now-investigating-covid-origin-because-of-the-public-outcry-rep-mike-turner",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-admin-now-investigating-covid-origin-because-of-the-public-outcry-rep-mike-turner.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-admin-now-investigating-covid-origin-because-of-the-public-outcry-rep-mike-turner.amp",
-      "publishedDateTime": "2021-05-30T09:58:29-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

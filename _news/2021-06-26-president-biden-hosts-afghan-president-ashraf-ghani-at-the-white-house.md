@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/video/president-biden-hosts-afghan-presi
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/president-biden-hosts-afghan-president-ashraf-ghani-at-the-white-house/"
 type: article
 quality: 125
-heat: 645
+heat: 665
 published: true
 
 provider:
@@ -388,6 +388,20 @@ related:
     quality: 52
     images:
       - url: "https://cdnph.upi.com/pv/upi/81ed3af5614aca61b93e6717ccdfbd50/BIDEN-DODGERS.jpg"
+        width: 650
+        height: 433
+        isCached: true
+  - title: "President Biden Arrives at the White House After Viewing Hurricane Ida Damage"
+    excerpt: "U.S. President Joe Biden arrives at the White House via Marine One on Tuesday September 7, 2021 in Washington, DC. Biden traveled to New Jersey and New York to tour areas effected by Hurricane Ida and meet with local leaders."
+    publishedDateTime: 2021-09-07T23:19:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/d274bc235e06247ad6625e987b20986c/President-Biden-Arrives-at-the-White-House-After-Viewing-Hurricane-Ida-Damage/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 52
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/d274bc235e06247ad6625e987b20986c/BIDEN-HURRICANE-IDA.jpg"
         width: 650
         height: 433
         isCached: true

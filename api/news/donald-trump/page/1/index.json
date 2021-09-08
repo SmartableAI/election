@@ -2,6 +2,158 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-09-08-donald-trump-son-to-provide-commentary-on-evander-holyfield-vitor-belfort-alternate-telecast.md",
+      "title": "Donald Trump, son to provide commentary on Evander Holyfield-Vitor Belfort alternate telecast",
+      "excerpt": "Former president Donald Trump has signed a contract to provide commentary on a \"gamecast\" of Saturday's boxing event headlined by Evander Holyfield vs. Vitor Belfort, Triller told ESPN. His son, Donald Trump Jr.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Sports/donald-trump-son-provide-commentary-evander-holyfield-vitor/story?id=79884415",
+      "originalUrl": "https://abcnews.go.com/Sports/donald-trump-son-provide-commentary-evander-holyfield-vitor/story?id=79884415",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/site/ABCNews_flat_black.png",
+          "width": 834,
+          "height": 308,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Sports/donald-trump-son-provide-commentary-evander-holyfield-vitor/story?id=79884415",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Sports/donald-trump-son-provide-commentary-evander-holyfield-vitor/story?id=79884415",
+      "publishedDateTime": "2021-09-07T17:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-09-08-trump-to-headline-nrcc-fundraiser-in-november-with-eye-on-2022.md",
+      "title": "Trump to headline NRCC fundraiser in November with eye on 2022",
+      "excerpt": "Former President Donald Trump is slated to attend a National Republican Congressional Committee fundraiser in Tampa in early November.",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/09/07/trump-to-headline-nrcc-fundraiser-in-november-with-eye-on-2022/",
+      "originalUrl": "https://nypost.com/2021/09/07/trump-to-headline-nrcc-fundraiser-in-november-with-eye-on-2022/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/09/trump.jpg?quality=90&strip=all&w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/09/07/trump-to-headline-nrcc-fundraiser-in-november-with-eye-on-2022/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/09/07/trump-to-headline-nrcc-fundraiser-in-november-with-eye-on-2022/amp/",
+      "publishedDateTime": "2021-09-07T16:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-09-08-how-the-new-texas-elections-law-follows-up-on-trumps-voter-fraud-claims.md",
+      "title": "How the new Texas elections law follows up on Trump's voter fraud claims",
+      "excerpt": "Texas Republicans enacted a massive election restrictions law on Tuesday that has echoes of the former president Donald Trump’s false claims that widespread voter fraud kept him from a second term in the White House.",
+      "sourceUrl": null,
+      "webUrl": "https://www.houstonchronicle.com/politics/texas/article/How-Texas-is-following-up-on-Trump-s-voter-16441526.php",
+      "originalUrl": "https://www.houstonchronicle.com/politics/texas/article/How-Texas-is-following-up-on-Trump-s-voter-16441526.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 399,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.hdnux.com/photos/01/21/61/73/21438188/3/400x0.jpg",
+          "width": 400,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.houstonchronicle.com/politics/texas/amp/How-Texas-is-following-up-on-Trump-s-voter-16441526.php",
+      "cdnAmpWebUrl": "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/politics/texas/amp/How-Texas-is-following-up-on-Trump-s-voter-16441526.php",
+      "publishedDateTime": "2021-09-07T16:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Houston Chronicle",
+        "domain": "houstonchronicle.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/houstonchronicle.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-09-07-donald-trump-jr-says-his-dad-is-getting-younger-because-stress-fuels-him.md",
       "title": "Donald Trump Jr. Says His Dad is Getting Younger Because Stress 'Fuels Him'",
       "excerpt": "Trump Jr. has regularly sung his father's praises and was a key figure for Trump's 2020 presidential campaign.",
@@ -54,6 +206,58 @@
       ]
     },
     {
+      "path": "_news/2021-09-07-shana-chappell-asks-donald-trump-to-attend-killed-marine-kareem-nikouis-funeral.md",
+      "title": "Shana Chappell Asks Donald Trump to Attend Killed Marine Kareem Nikoui's Funeral",
+      "excerpt": "Shana Chappell's Facebook post accusing Biden of having \"blood on his hands\" went viral after her son Kareem Nikoui was killed in the Kabul airport attack.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/donald-trump-funeral-kareem-nikoui-marine-mother-joe-biden-1626610",
+      "originalUrl": "https://www.newsweek.com/donald-trump-funeral-kareem-nikoui-marine-mother-joe-biden-1626610",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1888503/kareem-nikoui-funeral.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/donald-trump-funeral-kareem-nikoui-marine-mother-joe-biden-1626610?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-funeral-kareem-nikoui-marine-mother-joe-biden-1626610?amp=1",
+      "publishedDateTime": "2021-09-07T04:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-09-07-mueller-filings-close-in-on-trump-darcy-cartoon.md",
       "title": "Mueller filings close in on Trump: Darcy cartoon",
       "excerpt": "Darcy cartoon CLEVELAND, Ohio -- Rex Tillerson told Bob Schieffer it was \"challenging\" going from \"the disciplined, highly process-oriented ExxonMobil corporation \" to working for President Trump \"who is pretty undisciplined,",
@@ -62,7 +266,7 @@
       "originalUrl": "https://apnews.com/article/europe-crime-robert-mueller-rex-tillerson-bob-schieffer-74252f70f31643639ab3f8adaa068186",
       "featuredContent": null,
       "highlight": null,
-      "heat": 125,
+      "heat": 145,
       "tags": null,
       "images": [
         {
@@ -157,7 +361,7 @@
       "originalUrl": "https://nymag.com/intelligencer/article/trump-campaign-steal-presidency-timeline.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 135,
+      "heat": 115,
       "tags": null,
       "images": [
         {
@@ -400,7 +604,7 @@
       "originalUrl": "https://www.cnbc.com/2021/09/03/trump-should-not-lead-gop-ticket-in-2024-retiring-sen-pat-toomey-says.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 405,
+      "heat": 385,
       "tags": null,
       "images": [
         {
@@ -591,6 +795,40 @@
       ]
     },
     {
+      "path": "_news/2021-09-03-trump-backs-jones-in-georgia-renews-support-for-walker.md",
+      "title": "Trump backs Jones in Georgia, renews support for Walker",
+      "excerpt": "Former President Donald Trump put his thumb on the scale of Georgia Republican politics again Thursday, endorsing state Sen. Burt Jones in the GOP primary for lieutenant governor and reiterating his support for newly declared U.",
+      "sourceUrl": null,
+      "webUrl": "https://www.islandpacket.com/news/politics-government/national-politics/article253963198.html",
+      "originalUrl": "https://www.islandpacket.com/news/politics-government/national-politics/article253963198.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.islandpacket.com/news/politics-government/national-politics/article253963198.html",
+      "cdnAmpWebUrl": "https://amp-islandpacket-com.cdn.ampproject.org/c/s/amp.islandpacket.com/news/politics-government/national-politics/article253963198.html",
+      "publishedDateTime": "2021-09-03T02:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Island Packet",
+        "domain": "islandpacket.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-09-03-twitter-wants-trumps-lawsuit-moved-to-san-francisco-court-and-then-dismissed.md",
       "title": "Twitter wants Trump’s lawsuit moved to San Francisco court and then dismissed",
       "excerpt": "Twitter wants former President Donald Trump’s lawsuit transferred to a federal judge in San Francisco and scrapped.",
@@ -729,58 +967,6 @@
       ]
     },
     {
-      "path": "_news/2021-09-02-trump-justices-cast-crucial-votes-on-texas-abortion-ban-undermining-roe-v-wade.md",
-      "title": "Trump Justices Cast Crucial Votes on Texas Abortion Ban Undermining Roe v. Wade",
-      "excerpt": "The Supreme Court has declined to prevent a new law in Texas that severely restricts abortion access from coming into effect. The law will effectively ban all abortions in the state after around six weeks of pregnancy in what reproductive rights advocates view as a blow to the precedent set in Roe v.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/trump-justices-cast-crucial-votes-texas-abortion-ban-undermining-roe-v-wade-1625266",
-      "originalUrl": "https://www.newsweek.com/trump-justices-cast-crucial-votes-texas-abortion-ban-undermining-roe-v-wade-1625266",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 241,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1885475/trump-appointed-justices-shown-composite-image.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/trump-justices-cast-crucial-votes-texas-abortion-ban-undermining-roe-v-wade-1625266?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-justices-cast-crucial-votes-texas-abortion-ban-undermining-roe-v-wade-1625266?amp=1",
-      "publishedDateTime": "2021-09-02T01:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-09-02-things-are-not-working-well-for-the-trump-picked-pandemic-relief-watchdog.md",
       "title": "Things are 'not working well' for the Trump-picked pandemic relief watchdog",
       "excerpt": "\"Everybody kind of expects you to fail. It's kind of set up to fail,\" Brian Miller told Insider.",
@@ -865,58 +1051,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-09-02-trump-fans-election-fraud-theme-as-virginia-governor-candidate-youngkin-walks-tightrope.md",
-      "title": "Trump fans election fraud theme as Virginia governor candidate Youngkin walks tightrope",
-      "excerpt": "Former president Donald Trump on Wednesday warned that Democrats might try to steal the Virginia governor's race, pegging his prediction on baseless claims of 2020 election fraud that Republican candidate Glenn Youngkin has flirted with but not fully embraced.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/local/virginia-politics/trump-virginia-governor-youngkin-election/2021/09/01/c8583584-0b3b-11ec-aea1-42a8138f132a_story.html",
-      "originalUrl": "https://www.washingtonpost.com/local/virginia-politics/trump-virginia-governor-youngkin-election/2021/09/01/c8583584-0b3b-11ec-aea1-42a8138f132a_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 192,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/X2IE7EQLOYI6ZLVBIKUBHDYTFI.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-01T15:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1198,7 +1332,7 @@
       "originalUrl": "https://thehill.com/regulation/court-battles/569743-house-panel-tees-up-trump-executive-privilege-fight-in-jan-6-probe",
       "featuredContent": null,
       "highlight": null,
-      "heat": 465,
+      "heat": 405,
       "tags": null,
       "images": [
         {
@@ -1343,149 +1477,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-08-27-michael-caputo-not-comfortable-with-his-smashmouth-style-advising-donald-trump.md",
-      "title": "Michael Caputo 'Not Comfortable' With His 'Smashmouth' Style Advising Donald Trump",
-      "excerpt": "\"It nearly killed me,\" the former assistant secretary for public affairs said about the style of politics he once engaged in.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/michael-caputo-not-comfortable-smashmouth-style-advising-donald-trump-1623670",
-      "originalUrl": "https://www.newsweek.com/michael-caputo-not-comfortable-smashmouth-style-advising-donald-trump-1623670",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1881567/michael-caputo-waves-reporters-2017.jpg",
-          "width": 3000,
-          "height": 2000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/michael-caputo-not-comfortable-smashmouth-style-advising-donald-trump-1623670?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/michael-caputo-not-comfortable-smashmouth-style-advising-donald-trump-1623670?amp=1",
-      "publishedDateTime": "2021-08-27T08:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-08-27-opinion-like-donald-trump-in-16-larry-elder-may-benefit-from-all-the-criticism.md",
-      "title": "Opinion: Like Donald Trump in ’16, Larry Elder May Benefit from All the Criticism",
-      "excerpt": "Elder may be, as his critics say, unfit to be governor. However, like Trump, he probably loves the attention because his enemies are making him more friends.",
-      "sourceUrl": null,
-      "webUrl": "https://timesofsandiego.com/opinion/2021/08/26/like-donald-trump-in-16-larry-elder-may-benefit-from-all-the-criticism/",
-      "originalUrl": "https://timesofsandiego.com/opinion/2021/08/26/like-donald-trump-in-16-larry-elder-may-benefit-from-all-the-criticism/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://timesofsandiego.com/wp-content/uploads/2021/07/Larry-Elder-e1626989678782.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://timesofsandiego.com/opinion/2021/08/26/like-donald-trump-in-16-larry-elder-may-benefit-from-all-the-criticism/",
-      "cdnAmpWebUrl": "https://timesofsandiego-com.cdn.ampproject.org/c/s/timesofsandiego.com/opinion/2021/08/26/like-donald-trump-in-16-larry-elder-may-benefit-from-all-the-criticism/",
-      "publishedDateTime": "2021-08-27T05:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Times of San Diego",
-        "domain": "timesofsandiego.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-08-27-trump-says-kabul-airport-explosion-wouldnt-have-happened-if-he-was-president.md",
-      "title": "Trump says Kabul airport explosion wouldn’t have happened if he was president",
-      "excerpt": "Donald Trump hammered Biden over the suicide bombings outside Kabul’s airport, claiming that “it would not have happened if I was your president.”",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/08/27/trump-says-kabul-airport-explosion-wouldnt-have-happened-if-he-was-president/",
-      "originalUrl": "https://nypost.com/2021/08/27/trump-says-kabul-airport-explosion-wouldnt-have-happened-if-he-was-president/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/08/trump-afghanistan-bomging-index.jpg?quality=90&strip=all&w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/08/27/trump-says-kabul-airport-explosion-wouldnt-have-happened-if-he-was-president/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/27/trump-says-kabul-airport-explosion-wouldnt-have-happened-if-he-was-president/amp/",
-      "publishedDateTime": "2021-08-26T21:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     }
   ],

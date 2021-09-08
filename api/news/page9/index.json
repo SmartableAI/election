@@ -2,6 +2,135 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-08-19-pence-accuses-president-biden-of-breaking-deal-with-taliban-calls-withdrawal-a-disgrace.md",
+      "title": "Pence accuses President Biden of breaking deal with Taliban, calls withdrawal a 'disgrace'",
+      "excerpt": "Former Vice President Mike Pence criticized President Joe Biden for breaking a deal the Trump administration struck with the Taliban in a Wall Street Journal opinion piece published on Tuesday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.indystar.com/story/news/politics/2021/08/18/pence-bidens-withdrawal-of-afghanistan-a-disgrace/8182830002/",
+      "originalUrl": "https://www.indystar.com/story/news/politics/2021/08/18/pence-bidens-withdrawal-of-afghanistan-a-disgrace/8182830002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 260,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/08/18/NCOD/fb7cc8da-c6d3-4109-b45a-ca37c306cb0f-Afghanistan_50883.jpg-4722d.JPG?auto=webp&crop=4031,2268,x0,y205&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.indystar.com/amp/8182830002",
+      "cdnAmpWebUrl": "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/8182830002",
+      "publishedDateTime": "2021-08-18T16:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indianapolis Star",
+        "domain": "indystar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-08-19-vice-president-mike-pence-abruptly-cancels-events-to-return-to-dc.md",
+      "title": "Vice President Mike Pence Abruptly Cancels Events to Return to DC",
+      "excerpt": "Vice President Mike Pence suddenly canceled all of his scheduled speaking events in Indiana on October 9 in order to fly back to Washington D.C., according to Associated Press White House reporter ...",
+      "sourceUrl": null,
+      "webUrl": "https://heavy.com/news/mike-pence-canceled-indiana-dc-coronavirus/",
+      "originalUrl": "https://heavy.com/news/mike-pence-canceled-indiana-dc-coronavirus/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://heavy.com/wp-content/uploads/2020/10/Pence.jpg?quality=65&strip=all",
+          "width": 780,
+          "height": 439,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://heavy.com/news/mike-pence-canceled-indiana-dc-coronavirus/amp/",
+      "cdnAmpWebUrl": "https://heavy-com.cdn.ampproject.org/c/s/heavy.com/news/mike-pence-canceled-indiana-dc-coronavirus/amp/",
+      "publishedDateTime": "2021-08-18T15:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Heavy.com",
+        "domain": "heavy.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-08-19-joe-biden-says-there-was-no-way-to-exit-without-chaos-as-it-happened.md",
+      "title": "Joe Biden says there was no way to exit without ‘chaos’ – as it happened",
+      "excerpt": "This blog is now closed, You can find our latest live coverage here.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/world/live/2021/aug/18/afghanistan-live-news-updates-taliban-kabul-airport-deaths-afghan-crisis?page=with:block-611d91488f0865f6db860f9d",
+      "originalUrl": "https://www.theguardian.com/world/live/2021/aug/18/afghanistan-live-news-updates-taliban-kabul-airport-deaths-afghan-crisis?page=with:block-611d91488f0865f6db860f9d",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/world/live/2021/aug/18/afghanistan-live-news-updates-taliban-kabul-airport-deaths-afghan-crisis",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/live/2021/aug/18/afghanistan-live-news-updates-taliban-kabul-airport-deaths-afghan-crisis",
+      "publishedDateTime": "2021-08-18T15:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-08-18-biden-pushes-for-vaccine-booster-shots-starting-in-september.md",
       "title": "Biden pushes for vaccine booster shots starting in September",
       "excerpt": "Biden announced a plan to offer COVID-19 vaccine booster shots beginning the week of September 20",
@@ -1160,148 +1289,6 @@
         "Election",
         "Republican Voice",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-08-15-biden-administration-struggles-to-project-order-as-taliban-enters-kabul.md",
-      "title": "Biden administration struggles to project order as Taliban enters Kabul",
-      "excerpt": "President Joe Biden and his administration struggled Sunday to project order amid a race by American and other foreign personnel to evacuate Afghanistan as Taliban fighters entered Kabul.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/oD9xOBuzblk/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/oD9xOBuzblk/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 375,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210815102517-antony-blinken-august-15-2021-screengrab-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/08/15/politics/biden-administration-taliban-kabul-afghanistan/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/15/politics/biden-administration-taliban-kabul-afghanistan/index.html",
-      "publishedDateTime": "2021-08-15T08:03:53-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-15-donald-trump-blasts-former-secretary-of-state-rex-tillerson-dumb-as-a-rock.md",
-      "title": "Donald Trump blasts former secretary of state Rex Tillerson; ‘Dumb as a rock’",
-      "excerpt": "President Trump denounced his former Secretary of State Thursday following reports Rex Tillerson quietly met with the House Foreign Affairs Committee and testified about his time in the Trump administration.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/article/donald-trump-europe-rex-tillerson-96b455a30118c4b2ac668418b27073f2",
-      "originalUrl": "https://apnews.com/article/donald-trump-europe-rex-tillerson-96b455a30118c4b2ac668418b27073f2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/ShareLogo2.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-14T20:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-08-15-biden-praises-arizona-florida-school-chiefs-on-mask-wearing.md",
-      "title": "Biden praises Arizona, Florida school chiefs on mask-wearing",
-      "excerpt": "President Joe Biden has commended the leadership of two Arizona and Florida school district superintendents after the districts' boards recently implemented mask requirements in defiance of their Republican governors.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nhregister.com/news/article/Biden-praises-Arizona-Florida-school-chiefs-on-16387253.php",
-      "originalUrl": "https://www.nhregister.com/news/article/Biden-praises-Arizona-Florida-school-chiefs-on-16387253.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
-          "width": 600,
-          "height": 336,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nhregister.com/news/amp/Biden-praises-Arizona-Florida-school-chiefs-on-16387253.php",
-      "cdnAmpWebUrl": "https://www-nhregister-com.cdn.ampproject.org/c/s/www.nhregister.com/news/amp/Biden-praises-Arizona-Florida-school-chiefs-on-16387253.php",
-      "publishedDateTime": "2021-08-14T12:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Haven Register",
-        "domain": "nhregister.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

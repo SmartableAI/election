@@ -2,6 +2,171 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2021-07-04-biden-defends-shacarri-richardson-suspension-as-progressives-some-in-gop-balk-rules-are-the-rules.md",
+      "title": "Biden defends Sha'Carri Richardson suspension as progressives, some in GOP balk: ‘Rules are the rules’",
+      "excerpt": "President Biden gave a muted response Saturday to sprinter Sha’Carri Richardson’s suspension due to a positive marijuana test that will cut her from the Tokyo Olympics later this month. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ePvqmbWyuzM/biden-shacarri-richardson-suspension-progressives-republicans-rules-olympics-sprinter",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ePvqmbWyuzM/biden-shacarri-richardson-suspension-progressives-republicans-rules-olympics-sprinter",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c1499995-3ae7-4bfb-bdea-c7f4b639b969/48ba74f1-175b-4fa2-b2a5-712e11a6e961/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-shacarri-richardson-suspension-progressives-republicans-rules-olympics-sprinter.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-shacarri-richardson-suspension-progressives-republicans-rules-olympics-sprinter.amp",
+      "publishedDateTime": "2021-07-03T23:14:28-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-04-trump-rails-against-prosecutorial-misconduct-during-florida-rally.md",
+      "title": "Trump rails against ‘prosecutorial misconduct’ during Florida rally",
+      "excerpt": "The former president brought a MAGA-style rally to Sarasota, where he derided the indictments as \"prosecutorial misconduct.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/states/florida/story/2021/07/03/trump-attacks-indictments-against-his-company-during-florida-rally-1387897",
+      "originalUrl": "https://www.politico.com/states/florida/story/2021/07/03/trump-attacks-indictments-against-his-company-during-florida-rally-1387897",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/70/07/902631d6403eb54c1f8d5e3c2adc/ap21185068176846.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-03T19:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-04-donald-trump-compares-new-york-tax-fraud-charges-to-a-communist-dictatorship.md",
+      "title": "Donald Trump Compares New York Tax Fraud Charges to a 'Communist Dictatorship'",
+      "excerpt": "\"It's unprecedented, unheard of and totally unacceptable in America for prosecutors to run for office on a promise to get their political enemies,\" Trump said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/donald-trump-compares-new-york-tax-fraud-charges-communist-dictatorship-1606706",
+      "originalUrl": "https://www.newsweek.com/donald-trump-compares-new-york-tax-fraud-charges-communist-dictatorship-1606706",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1837397/trump-speaks-sarasota-rally-florida.jpg",
+          "width": 3000,
+          "height": 2001,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/donald-trump-compares-new-york-tax-fraud-charges-communist-dictatorship-1606706?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-compares-new-york-tax-fraud-charges-communist-dictatorship-1606706?amp=1",
+      "publishedDateTime": "2021-07-03T18:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-07-04-harris-in-optimistic-speech-says-america-getting-back-to-work.md",
       "title": "Harris, in optimistic speech, says America 'getting back to work'",
       "excerpt": "Vice President Harris said Saturday touted the United States’ progress amid the coronavirus pandemic, proclaiming during an optimistic speech that America is “getting back to work.”",
@@ -1184,166 +1349,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-02-biden-is-rated-poorly-on-handling-crime-alternative-approaches-win-broad-favor-poll.md",
-      "title": "Biden is rated poorly on handling crime; alternative approaches win broad favor: POLL",
-      "excerpt": "Americans seeing crime as an extremely serious problem in the U.S. is at a more than 20-year high and President Joe Biden is underwater in trust to handle it: POLL",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/biden-rated-poorly-handling-crime-alternative-approaches-win/story?id=78609540",
-      "originalUrl": "https://abcnews.go.com/Politics/biden-rated-poorly-handling-crime-alternative-approaches-win/story?id=78609540",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/biden-garland-ss-jt-210701_1625166177193_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-02T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-07-02-trump-rolls-out-his-defense-for-all-seasons-its-all-politics.md",
-      "title": "Trump rolls out his defense for all seasons: It's all politics",
-      "excerpt": "No matter the charge, the defense is the same: Donald Trump is the victim of a vicious political vendetta.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jxD8-6_crog/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jxD8-6_crog/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210626213522-trump-rally-ohio-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/02/politics/donald-trump-organization-indictments-january-6-committee/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/02/politics/donald-trump-organization-indictments-january-6-committee/index.html",
-      "publishedDateTime": "2021-07-02T01:59:33-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-02-eric-trump-says-he-don-jr-and-ivanka-lead-nice-clean-lives.md",
-      "title": "Eric Trump Says He, Don Jr. and Ivanka Lead 'Nice, Clean Lives'",
-      "excerpt": "Donald Trump's son also attacked the current president's son, Hunter Biden, for allegedly paying for a prostitute and smoking crack in 2018.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/eric-trump-don-jr-ivanka-lead-nice-clean-lives-hunter-biden-organization-charges-cfo-1606264",
-      "originalUrl": "https://www.newsweek.com/eric-trump-don-jr-ivanka-lead-nice-clean-lives-hunter-biden-organization-charges-cfo-1606264",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 205,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1835921/trumps-virtual-2020-national-convention.jpg",
-          "width": 2500,
-          "height": 1649,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/eric-trump-don-jr-ivanka-lead-nice-clean-lives-hunter-biden-organization-charges-cfo-1606264?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/eric-trump-don-jr-ivanka-lead-nice-clean-lives-hunter-biden-organization-charges-cfo-1606264?amp=1",
-      "publishedDateTime": "2021-07-02T01:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

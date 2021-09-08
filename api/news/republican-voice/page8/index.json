@@ -2,6 +2,119 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-07-15-mcconnell-condemns-biden-fury-over-gop-voting-reform-as-utter-nonsense.md",
+      "title": "McConnell condemns Biden fury over GOP voting reform as 'utter nonsense'",
+      "excerpt": "Senate Minority Leader Mitch McConnell on Wednesday condemned a fiery speech by President Biden as “utter nonsense” for alleging GOP voting reform laws were comparable to the Civil War.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/0UlAfIHWo4o/mcconnell-condemns-biden-urgency-over-gop-voting-reform-as-utter-nonsense",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/0UlAfIHWo4o/mcconnell-condemns-biden-urgency-over-gop-voting-reform-as-utter-nonsense",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 214,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6f38ee14-d816-4591-864f-dac261609a32/60b2a75e-81f7-4c1a-956c-dc27519da183/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/mcconnell-condemns-biden-urgency-over-gop-voting-reform-as-utter-nonsense.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-condemns-biden-urgency-over-gop-voting-reform-as-utter-nonsense.amp",
+      "publishedDateTime": "2021-07-14T18:36:44-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-14-pence-calls-on-biden-to-demand-olympics-move-out-of-beijing-until-china-offers-transparency-on-covid-19.md",
+      "title": "Pence calls on Biden to demand Olympics move out of Beijing until China offers transparency on COVID-19",
+      "excerpt": "Former Vice President Mike Pence called on President Biden to demand the 2022 Olympics be moved out of Beijing unless China offers transparency on the origins of COVID-19 and ends human rights abuses against the county's Muslim minority populations in Xinjiang.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/e6fAb3WCVkE/pence-biden-olympics-beijing-covid",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/e6fAb3WCVkE/pence-biden-olympics-beijing-covid",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 444,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3da8478d-1e2c-4b7a-9da3-315d44adb9c3/a1fc8b66-1770-40f0-8564-e8c23e587ad2/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/pence-biden-olympics-beijing-covid.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-biden-olympics-beijing-covid.amp",
+      "publishedDateTime": "2021-07-14T13:10:08-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-07-14-david-gergen-trump-more-dangerous-than-nixon-could-bring-the-whole-system-down.md",
       "title": "David Gergen: Trump More Dangerous Than Nixon, Could \"Bring The Whole System Down\"",
       "excerpt": "Former Nixon advisor David Gergen told CNN on Tuesday that he fears President Trump was \"more dangerous\" than Richard Nixon because he was \"crazy.\" \"what we worried about with Trump was that he was crazy,",
@@ -1539,120 +1652,6 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-09-your-world-on-biden-withdrawing-troops-florida-recovery-efforts.md",
-      "title": "'Your World' on Biden withdrawing troops, Florida recovery efforts",
-      "excerpt": "That seems to be a pretty poor messaging optic to get out of there, but, overall, to leave and withdraw the troops, it's the old cliche of just ripping off the Band-Aid. It has to be done. There's a lot of forces behind this that are slow-rolling it and that benefit monetarily and economically and geopolitically from us being there.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/transcript/your-world-on-biden-withdrawing-troops-florida-recovery-efforts",
-      "originalUrl": "https://www.foxnews.com/transcript/your-world-on-biden-withdrawing-troops-florida-recovery-efforts",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/36252476-19c9-4a59-a6d4-df7224b15714/53c54f86-6bf4-4bc5-a5bd-04fada55dcfd/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/transcript/your-world-on-biden-withdrawing-troops-florida-recovery-efforts.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/your-world-on-biden-withdrawing-troops-florida-recovery-efforts.amp",
-      "publishedDateTime": "2021-07-09T08:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-09-gov-kemp-blasts-kamala-harris-lies-about-georgia-voting-law-truth-is-on-our-side.md",
-      "title": "Gov. Kemp blasts Kamala Harris' lies about Georgia voting law: 'Truth is on our side'",
-      "excerpt": "Georgia Governor Brian Kemp defended his state's election laws after Vice President Kamala Harris announced a $25 million plan to combat Republican legislation on voting requirements.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/georgia-gov-kemp-kamala-harris-target-gop-voting-laws",
-      "originalUrl": "https://www.foxnews.com/media/georgia-gov-kemp-kamala-harris-target-gop-voting-laws",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 128,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/be18983e-102b-4a83-a0ab-6ce22e463732/428d02d3-ffd3-47d9-8a16-654ed62d1101/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/georgia-gov-kemp-kamala-harris-target-gop-voting-laws.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/georgia-gov-kemp-kamala-harris-target-gop-voting-laws.amp",
-      "publishedDateTime": "2021-07-09T07:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris",
         "Republican Voice"
       ]
     }

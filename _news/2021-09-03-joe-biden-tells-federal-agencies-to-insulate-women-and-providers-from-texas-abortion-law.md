@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/joe-biden-tells-federal-agencies-insulate-w
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-tells-federal-agencies-insulate-women-providers-texas-abortion-law-1625552?amp=1"
 type: article
 quality: 115
-heat: 135
+heat: 175
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "President Joe Biden says Texas' new abortion law \"unleashes unconstitutional chaos\""
+    excerpt: "Biden promised to mobilize the federal government to respond to the Texas law “to ensure that women in Texas have access to safe and legal abortions as protected by Roe.\""
+    publishedDateTime: 2021-09-02T16:24:00Z
+    webUrl: "https://www.texastribune.org/2021/09/02/texas-abortion-law-joe-biden/"
+    ampWebUrl: "https://www.texastribune.org/2021/09/02/texas-abortion-law-joe-biden/amp/"
+    cdnAmpWebUrl: "https://www-texastribune-org.cdn.ampproject.org/c/s/www.texastribune.org/2021/09/02/texas-abortion-law-joe-biden/amp/"
+    type: article
+    provider:
+      name: Texas Tribune
+      domain: texastribune.org
+    quality: 69
+    images:
+      - url: "https://thumbnails.texastribune.org/awXUfugw4V8ATiBjcqo7A4RnVXA=/1200x630/filters:quality(95)/static.texastribune.org/media/files/302214eb567a50813c271e480d6ebd7b/Biden%20Aug%2031%20REUTERS%20TT.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Biden approves N.Y. major disaster declaration after Ida; homeowners can now file for FEMA"
     excerpt: "President Joe Biden on Monday approved a major disaster declaration for New York in the wake of Hurricane Ida, making federal funding available to those who had property damaged by the storm. Biden first granted an emergency declaration for New York last week;"
     publishedDateTime: 2021-09-06T17:37:00Z
@@ -47,6 +63,15 @@ related:
         width: 1024
         height: 643
         isCached: true
+  - title: "Biden Calls Top Court Ruling on Texas Abortion Ban 'Unprecedented Assault' on Women's Rights"
+    excerpt: "President Joe Biden on Thursday said the U.S. Supreme Court's ruling on Texas' abortion ban \"is an unprecedented assault on a woman's constitutional rights,\" after the top court allowed the law to remain in place."
+    publishedDateTime: 2021-09-02T15:42:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-09-02/biden-calls-top-court-ruling-on-texas-abortion-ban-unprecedented-assault-on-womens-rights"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 24
 
 secured: "5kPrWSLxaT87rdregnEcKtaW65hQXEHdgRm5GfLSeu2krXEtbDbeRzvmOqIiAgNOGt0xo7xTAZjp68OFiUzVQ8UWwQBtmyZs25rcLn46b8wY90AaOaSdnCTMHw+lOqC9n1v6pPHgzqmFwRGzwJtyrOZG01AZPi0om35ziZfZC93YRh8B1Wl5TjH2Lo8NU305dLu7ebhK0PHP8oMKPNKQDM+LO8mG+aHKSXSxFHVuwCN+cVWJ9hhceMB52NJZzFvdaRt7f4Aq/m3FwdMt2wIE5MgW2QAIep3ubCjaKHxpanPIbXc6dWR4SekyUQtQq2J/xezyNBqzBPzFArTNZxwj73ub0y34HjLaVjRggCqr9VQ=;TyhM5RIWP8z4Z9W00BnpYA=="
 ---

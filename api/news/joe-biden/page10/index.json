@@ -2,58 +2,6 @@
   "page": 10,
   "value": [
     {
-      "path": "_news/2021-05-12-more-than-120-retired-generals-and-admirals-wrote-to-biden-suggesting-he-wasnt-legitimately-elected-and-questioning-his-mental-health.md",
-      "title": "More than 120 retired generals and admirals wrote to Biden suggesting he wasn't legitimately elected and questioning his mental health",
-      "excerpt": "The letter published by \"Flag Officers 4 America\" appeared to advance a false conspiracy theory that the 2020 election was illegitimate.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/former-generals-admirals-letter-question-election-biden-health-2021-5",
-      "originalUrl": "https://www.businessinsider.com/former-generals-admirals-letter-question-election-biden-health-2021-5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6077445474da0300181e1b3a?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/former-generals-admirals-letter-question-election-biden-health-2021-5?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/former-generals-admirals-letter-question-election-biden-health-2021-5?amp",
-      "publishedDateTime": "2021-05-12T07:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
       "path": "_news/2021-05-12-exclusive-biden-names-new-federal-judges-including-a-bush-nominee-with-an-emphasis-on-diversity.md",
       "title": "Exclusive: Biden names new federal judges, including a Bush nominee, with an emphasis on diversity",
       "excerpt": "Biden is filling federal judgeships with an eye toward racial and professional diversity. The White House is now unveiling its next round of nominees.",
@@ -1595,6 +1543,63 @@
       "topics": [
         "Election",
         "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-04-30-leon-panetta-on-bidens-lack-bipartisanship-it-takes-two-to-tango.md",
+      "title": "Leon Panetta on Biden's lack bipartisanship: It takes two to tango",
+      "excerpt": "We're going to get into the details of all of that, fair and balanced, with John Barrasso, the Republican senator from Wyoming, and Leon Panetta, Bill Clinton's chief of staff, and whether we are building up a lot of debt very,",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/transcript/leon-panetta-on-bidens-lack-bipartisanship-it-takes-two-to-tango",
+      "originalUrl": "https://www.foxnews.com/transcript/leon-panetta-on-bidens-lack-bipartisanship-it-takes-two-to-tango",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/81623771-3b4f-45ee-8b65-03c338f4a578/58b06d7d-6c90-487b-aebe-6f2abac016ad/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/transcript/leon-panetta-on-bidens-lack-bipartisanship-it-takes-two-to-tango.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/leon-panetta-on-bidens-lack-bipartisanship-it-takes-two-to-tango.amp",
+      "publishedDateTime": "2021-04-29T17:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
       ]
     }
   ],

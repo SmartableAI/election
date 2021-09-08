@@ -2,6 +2,163 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2021-07-13-what-will-president-biden-do-about-cuba-20m-pumped-into-sports-betting-push-florida-gop-dominates-again-in-raising-money.md",
+      "title": "What will President Biden do about Cuba? — $20M pumped into sports betting push — Florida GOP dominates again in raising money",
+      "excerpt": "Next steps — What will President Joe Biden do about Cuba? That mystery really wasn’t solved on Monday at the White House. Cautious — As reports of a second day of protests took place on the island nation,",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/newsletters/florida-playbook/2021/07/13/what-will-president-biden-do-about-cuba-20m-pumped-into-sports-betting-push-florida-gop-dominates-again-in-raising-money-493547",
+      "originalUrl": "https://www.politico.com/newsletters/florida-playbook/2021/07/13/what-will-president-biden-do-about-cuba-20m-pumped-into-sports-betting-push-florida-gop-dominates-again-in-raising-money-493547",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/d3/05/ba68c9f5400bbef72003544b41ba/fineoutlogo.jpg",
+          "width": 900,
+          "height": 1165,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-13T03:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-13-joe-biden-styles-himself-as-a-21st-century-trust-buster.md",
+      "title": "Joe Biden styles himself as a 21st century ‘trust buster’",
+      "excerpt": "Joe Biden’s biggest supporters insist he is the most progressive US president since his reforming predecessor Franklin Delano. Now Biden is trying to place himself in",
+      "sourceUrl": null,
+      "webUrl": "https://www.ft.com/content/2db2f9d4-7a91-476b-bb22-d0a7cf0d4805",
+      "originalUrl": "https://www.ft.com/content/2db2f9d4-7a91-476b-bb22-d0a7cf0d4805",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-12T21:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Times",
+        "domain": "ft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/ft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-07-13-tammy-bruce-kamala-harris-clearly-doesnt-know-america-at-all.md",
+      "title": "Tammy Bruce: Kamala Harris clearly doesn't know America at all",
+      "excerpt": "Fox News contributor Tammy Bruce joined “Tucker Carlson Tonight” to react to Vice President Kamala Harris' comments on rural voters not being able to photocopy an ID.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/tammy-bruce-kamala-harris-doesnt-know-america",
+      "originalUrl": "https://www.foxnews.com/media/tammy-bruce-kamala-harris-doesnt-know-america",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 215,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4aed3fb8-f75b-402e-999e-50a80149916a/543856b3-355a-4b2a-836b-d49bc1330f04/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/tammy-bruce-kamala-harris-doesnt-know-america.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/tammy-bruce-kamala-harris-doesnt-know-america.amp",
+      "publishedDateTime": "2021-07-12T19:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-13-angela-merkel-doubts-joe-biden-meeting-will-solve-gas-pipeline-dispute.md",
       "title": "Angela Merkel doubts Joe Biden meeting will solve gas pipeline dispute",
       "excerpt": "German Chancellor Angela Merkel said Monday that she doubts the dispute between her country and the United States over a nearly completed gas pipeline from Russia will be fully resolved at a meeting with President Joe Biden this week.",
@@ -1165,171 +1322,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-10-pro-biden-super-pac-warns-voters-cant-name-his-accomplishments-as-midterms-loom.md",
-      "title": "Pro-Biden super PAC warns voters can't name his accomplishments as midterms loom",
-      "excerpt": "A super PAC supporting President Biden warns that Democrats could face defeat in the 2022 midterm elections if they don't campaign more \"aggressively\" on Biden's policies. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ld-iqgW9OHA/biden-super-pac-voters-accomplishments-midterms",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ld-iqgW9OHA/biden-super-pac-voters-accomplishments-midterms",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 170,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/340/340/Marisa-Schultz.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-super-pac-voters-accomplishments-midterms.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-super-pac-voters-accomplishments-midterms.amp",
-      "publishedDateTime": "2021-07-10T16:15:54-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-11-trump-ally-matt-schlapp-complains-hes-not-welcome-on-cnnwhile-on-cnns-cuomo-prime-time.md",
-      "title": "Trump Ally Matt Schlapp Complains He's 'Not Welcome' on CNN—While on CNN's 'Cuomo Prime Time'",
-      "excerpt": "A visibly annoyed Chris Cuomo appeared to challenge Schlapp's reason for coming on the show if all he wanted to discuss was whether President Joe Biden defeated Trump last year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/trump-ally-matt-schlapp-complains-hes-not-welcome-cnnwhile-cnns-cuomo-prime-time-1608567",
-      "originalUrl": "https://www.newsweek.com/trump-ally-matt-schlapp-complains-hes-not-welcome-cnnwhile-cnns-cuomo-prime-time-1608567",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1842671/matt-schlapp-cnn-chris-cuomo.jpg",
-          "width": 683,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/trump-ally-matt-schlapp-complains-hes-not-welcome-cnnwhile-cnns-cuomo-prime-time-1608567?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-ally-matt-schlapp-complains-hes-not-welcome-cnnwhile-cnns-cuomo-prime-time-1608567?amp=1",
-      "publishedDateTime": "2021-07-10T12:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-10-vp-harris-talks-about-multiple-assignments-from-biden-maybe-i-dont-say-no-enough.md",
-      "title": "VP Harris talks about multiple assignments from Biden: 'Maybe I don't say 'no' enough'",
-      "excerpt": "Vice President Kamala Harris marveled at her full plate of major White House responsibilities quipping that she'll have to work on saying \"no\" to President Biden more often.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/IdETTSvdkG4/vp-harris-talks-about-multiple-assignments-biden",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/IdETTSvdkG4/vp-harris-talks-about-multiple-assignments-biden",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 232,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/340/340/Marisa-Schultz.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/vp-harris-talks-about-multiple-assignments-biden.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/vp-harris-talks-about-multiple-assignments-biden.amp",
-      "publishedDateTime": "2021-07-10T11:53:52-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Kamala Harris"
       ]
     }
   ],

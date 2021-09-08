@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "When Will Trump Answer the Big 2024 Question?"
+    excerpt: "Trump dodged a half-dozen opportunities to say whether he is planning to run for president once again in 2024. Mr. Fredericks, who alongside his radio gig also served as a chairman of Mr. Trump’s campaigns in Virginia,"
+    publishedDateTime: 2021-09-07T22:04:00Z
+    webUrl: "https://www.nytimes.com/2021/09/07/us/politics/will-trump-run-2024.html"
+    ampWebUrl: "https://www.nytimes.com/2021/09/07/us/politics/will-trump-run-2024.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/09/07/us/politics/will-trump-run-2024.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/09/07/us/07onpolitics-pm-newsletter/07onpolitics-pm-newsletter-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "ggpssjBRbeCDsp4MMGCxTBxwFtdAWSnkYVoLziG3+qjqvla0ODSkYS5vE5BRYY4CRK5FfuyDpTtXaQGAjiNkwKUIwcsk3pi9FxgaELN2HR0lTiCq0PuGdfFpuzxBt4tXvnVIraIxCiVEcXh1UiwN2D8JyVut2r5h+GYoQkJAeJimEaFbV/QBv73KhIyCxzeWRXmUB2+xMcmGZdqWlwQUjwXkvEaTV5vKmQuRrnjsOMp0qW3YAUclOXIYGyLnSId5pjTPFPRvZLsHVcfb6fb0kBRbYTA4Sbjr8baaMZODIOxXOcx+lBd0HuTzLbfTgdyA8GwBLpaio84mkvAlmOrD20SYzqcjmCLLxUC4DNaYZjWZrv6plmfYIwQOfwQfP+GpLaFeLHoppCy7wT0M8oC8nbYKBvMxJscvRx3gS0G79Z4+1jrW3HF6MZPhFq2Y1i20GKend3xzQvGWwDIfT6c7AAYPmkrGaVZCqhI6tZNKmZe/n/qneg/STFxd1gEJY4aLLz5y9iNIh1eZs0ztyFOe1w==;SrIwrYy1GmGm4oLBxsZBxA=="
 ---

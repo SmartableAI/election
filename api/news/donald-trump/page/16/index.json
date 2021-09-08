@@ -2,6 +2,153 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2021-05-13-trump-white-house-counsel-donald-mcgahn-expected-to-answer-house-committee-questions-as-soon-as-possible.md",
+      "title": "Trump White House counsel Donald McGahn expected to answer House committee questions ‘as soon as possible’",
+      "excerpt": "McGahn will be asked whether Trump interfered with Mueller’s Russia investigation. House Democrats have been fighting for years to enforce a subpoena for his testimony.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/local/legal-issues/mcgahn-committee-interview-subpoena/2021/05/12/d3b2217a-b38d-11eb-a980-a60af976ed44_story.html",
+      "originalUrl": "https://www.washingtonpost.com/local/legal-issues/mcgahn-committee-interview-subpoena/2021/05/12/d3b2217a-b38d-11eb-a980-a60af976ed44_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TJLL2AUPQAI6RPGVTWIRY6CMHA.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/local/legal-issues/mcgahn-committee-interview-subpoena/2021/05/12/d3b2217a-b38d-11eb-a980-a60af976ed44_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/legal-issues/mcgahn-committee-interview-subpoena/2021/05/12/d3b2217a-b38d-11eb-a980-a60af976ed44_story.html?outputType=amp",
+      "publishedDateTime": "2021-05-13T00:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-05-12-the-latest-rosen-wont-answer-question-on-trump-fraud-claim.md",
+      "title": "The Latest: Rosen won't answer question on Trump fraud claim",
+      "excerpt": "Former acting Attorney General Jeffrey Rosen won't answer questions from Congress about whether then-President Donald Trump instructed him to take any action to try to advance Trump’s unfounded claims of election fraud.",
+      "sourceUrl": null,
+      "webUrl": "https://www.stltoday.com/news/national/govt-and-politics/the-latest-rosen-wont-answer-question-on-trump-fraud-claim/article_c63f9a1d-48b9-5a57-859f-6f2f883332df.html",
+      "originalUrl": "https://www.stltoday.com/news/national/govt-and-politics/the-latest-rosen-wont-answer-question-on-trump-fraud-claim/article_c63f9a1d-48b9-5a57-859f-6f2f883332df.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/8/e4/8e468fe4-4107-5a69-a0b7-ca50a1f0c3c9/609bf15831d3e.image.jpg",
+          "width": 400,
+          "height": 225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.stltoday.com/news/national/govt-and-politics/the-latest-rosen-wont-answer-question-on-trump-fraud-claim/article_c63f9a1d-48b9-5a57-859f-6f2f883332df.amp.html",
+      "cdnAmpWebUrl": "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/national/govt-and-politics/the-latest-rosen-wont-answer-question-on-trump-fraud-claim/article_c63f9a1d-48b9-5a57-859f-6f2f883332df.amp.html",
+      "publishedDateTime": "2021-05-12T09:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "St. Louis Post-Dispatch",
+        "domain": "stltoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-05-12-former-trump-officials-to-defend-response-to-capitol-riot-when-they-appear-before-congress-wednesday.md",
+      "title": "Former Trump officials to defend response to Capitol riot when they appear before Congress Wednesday",
+      "excerpt": "Two senior Trump administration officials plan to defend their actions during the Jan. 6 riot at the U.S. Capitol when they appear before Congress Wednesday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chicagotribune.com/nation-world/ct-aud-nw-capitol-riot-defense-secretary-congress-20210512-moa2hajy3naa3mdftdmhln4a34-story.html",
+      "originalUrl": "https://www.chicagotribune.com/nation-world/ct-aud-nw-capitol-riot-defense-secretary-congress-20210512-moa2hajy3naa3mdftdmhln4a34-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chicagotribune.com/resizer/FRpP3hB8ynGmt-z0pw-6qbu9_Cc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/PGYJO7TJW2FMIGATWOMTP4VVCY.aspx",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.chicagotribune.com/nation-world/ct-aud-nw-capitol-riot-defense-secretary-congress-20210512-moa2hajy3naa3mdftdmhln4a34-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-capitol-riot-defense-secretary-congress-20210512-moa2hajy3naa3mdftdmhln4a34-story.html?outputType=amp",
+      "publishedDateTime": "2021-05-12T04:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Tribune",
+        "domain": "chicagotribune.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-05-12-ilhan-omar-fires-back-at-donald-trump-for-support-of-israel.md",
       "title": "Ilhan Omar Fires Back at Donald Trump for Support of Israel",
       "excerpt": "Violence in Israel, the worst seen since the 2014 Gaza war, has left at least 36 people dead—five Israelis and 31 Palestinians.",
@@ -1368,162 +1515,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-05-02-trump-is-fixated-and-talks-constantly-about-arizona-election-recount-allies-say.md",
-      "title": "Trump is 'fixated' and talks 'constantly' about Arizona election recount, allies say",
-      "excerpt": "Trump asks aides multiple times a day about the vote recount that is currently underway in Maricopa County, according to The Washington Post.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/donald-trump-is-fixated-on-arizona-election-recount-allies-say-2021-5",
-      "originalUrl": "https://www.businessinsider.com/donald-trump-is-fixated-on-arizona-election-recount-allies-say-2021-5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 153,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/608d156434af8d001859a6a3?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/donald-trump-is-fixated-on-arizona-election-recount-allies-say-2021-5?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/donald-trump-is-fixated-on-arizona-election-recount-allies-say-2021-5?amp",
-      "publishedDateTime": "2021-05-01T10:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-05-01-watch-trump-bid-farewell-to-mar-a-lago-members-for-the-summer-after-yet-another-speech-about-the-rigged-election.md",
-      "title": "Watch Trump bid farewell to Mar-a-Lago members for the summer after yet another speech about the 'rigged' election",
-      "excerpt": "Former President Donald Trump is planning to move his political operation to New Jersey for the summer.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/watch-trump-farewell-mar-a-lago-new-jersey-election-rigged-2021-5",
-      "originalUrl": "https://www.businessinsider.com/watch-trump-farewell-mar-a-lago-new-jersey-election-rigged-2021-5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/608d76c834af8d001859a6d9?width=1200&format=jpeg",
-          "width": 762,
-          "height": 381,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/watch-trump-farewell-mar-a-lago-new-jersey-election-rigged-2021-5?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/watch-trump-farewell-mar-a-lago-new-jersey-election-rigged-2021-5?amp",
-      "publishedDateTime": "2021-05-01T09:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-05-01-president-trump-fires-fbi-director-james-comey.md",
-      "title": "President Trump fires FBI Director James Comey",
-      "excerpt": "President Trump has fired FBI Director James Comey, which is only the second time an FBI director has been fired. CBSN contributor and Time politcal reporter Zeke Miller spoke with CBSN about Comey's dismissal.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/video/president-trump-fires-fbi-director-james-comey-1/",
-      "originalUrl": "https://www.cbsnews.com/video/president-trump-fires-fbi-director-james-comey-1/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 185,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews3.cbsistatic.com/hub/i/r/2021/04/30/b375bccc-a264-4c3b-ba0a-9230d2206ffe/thumbnail/1200x630/ef4b250acb1ae3e7891c9eedf19255c9/0509-cbsn-vhd-1312519-640x360.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/video/president-trump-fires-fbi-director-james-comey-1/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/president-trump-fires-fbi-director-james-comey-1/",
-      "publishedDateTime": "2021-04-30T14:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -188,20 +188,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "A judge rebukes Donald Trump Jr. for misinformation — as Trump Jr. doubles down on misinformation"
-    excerpt: "A West Virginia judge ruled that a lawsuit against Trump Jr. can proceed because there is evidence he knowingly shared false and potentially defamatory information."
-    publishedDateTime: 2021-09-02T18:39:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2021/09/02/judge-rebukes-donald-trump-jr-misinformation-trump-jr-doubles-down-misinformation/"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 92
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KC5D45HBB4I6XIT7RMUUSMHJLM.jpg&w=1440"
-        width: 1440
-        height: 961
-        isCached: true
   - title: "Tammy Baldwin seeks panel to probe election hacking; Ron Johnson echoes Donald Trump’s Russia stance"
     excerpt: "Democratic U.S. Sen. Tammy Baldwin this week called for a new committee to probe Russian meddling in the recent U.S. election, while her Republican counterpart from Wisconsin, Sen. Ron Johnson, echoed President-elect Donald Trump's call for warmer Russian relations."
     publishedDateTime: 2021-08-16T16:21:00Z

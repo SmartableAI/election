@@ -172,6 +172,17 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Passenger growls, shouts ‘Joe Biden’ at American Airlines attendant, video shows"
+    excerpt: "Armstrong was recorded on video by Dennis Busch, who was also on the flight and said Armstrong told an Asian woman that she “didn’t belong here,” Fox 13 Now reported. Armstrong was also filmed yelling “Joe Biden” at a flight attendant and growling at the crew,"
+    publishedDateTime: 2021-09-07T21:11:00Z
+    webUrl: "https://www.sacbee.com/news/nation-world/national/article254060303.html"
+    ampWebUrl: "https://amp.sacbee.com/news/nation-world/national/article254060303.html"
+    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/nation-world/national/article254060303.html"
+    type: article
+    provider:
+      name: Sacramento Bee
+      domain: sacbee.com
+    quality: 50
   - title: "Cory Mills evacuates Americans from Afghanistan, says Joe Biden admin wrongly wants credit"
     excerpt: "Congressional candidate Cory Mills went to Afghanistan to successfully rescue Americans still on the ground in the war-torn nation. Now he’s upset President Joe Biden ’s administration wants credit. Mills,"
     publishedDateTime: 2021-09-07T21:56:00Z

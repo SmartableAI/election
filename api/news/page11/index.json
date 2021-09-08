@@ -2,6 +2,163 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-08-12-bidens-approval-rating-sinks-to-new-low-of-50-amid-economic-fears-polls-show.md",
+      "title": "Biden’s approval rating sinks to new low of 50% amid economic fears, polls show",
+      "excerpt": "Support for President Joe Biden is taking a hit with his average approval rating sinking to a record low of 50 percent, new polls show.",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/08/12/bidens-approval-rating-sinks-to-record-low-of-50-polls-show/",
+      "originalUrl": "https://nypost.com/2021/08/12/bidens-approval-rating-sinks-to-record-low-of-50-polls-show/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/08/rcp-poll-biden-01.jpg?quality=90&strip=all&w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/08/12/bidens-approval-rating-sinks-to-record-low-of-50-polls-show/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/12/bidens-approval-rating-sinks-to-record-low-of-50-polls-show/amp/",
+      "publishedDateTime": "2021-08-12T09:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-08-12-lara-trump-torches-kamala-harris-spectacular-failures-as-vp-on-fox-friends.md",
+      "title": "Lara Trump torches Kamala Harris' 'spectacular' failures as VP on 'Fox & Friends'",
+      "excerpt": "Fox News contributor Lara Trump joined \"Fox & Friends\" Thursday, after an op-ed was penned in the New York Post stating that some Democrats do not want Vice President Kamala Harris to run for president in 2024.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/lara-trump-torches-kamala-harris-failures",
+      "originalUrl": "https://www.foxnews.com/media/lara-trump-torches-kamala-harris-failures",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/22c44787-0d2a-4a77-a89d-680775135204/a28385c8-4809-4e82-9655-7cb6502df422/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/lara-trump-torches-kamala-harris-failures.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/lara-trump-torches-kamala-harris-failures.amp",
+      "publishedDateTime": "2021-08-12T08:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-08-12-what-rosen-told-us-senators-trump-applied-persistent-pressure-to-get-justice-to-discredit-election.md",
+      "title": "What Rosen told U.S. senators: Trump applied ‘persistent’ pressure to get Justice to discredit election",
+      "excerpt": "Trump’s last attorney general told lawmakers he had to “persuade the president not to pursue a different path.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/national-security/rosen-senate-judiciary-testimony-trump/2021/08/12/4b500618-fabd-11eb-8a67-f14cd1d28e47_story.html",
+      "originalUrl": "https://www.washingtonpost.com/national-security/rosen-senate-judiciary-testimony-trump/2021/08/12/4b500618-fabd-11eb-8a67-f14cd1d28e47_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EOFJRDH3DQI6XCTH6FGNDUUOI4.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-12T08:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-08-12-cuomo-avenatti-the-lincoln-project-the-medias-anti-trump-idols-whove-collapsed-in-disgrace.md",
       "title": "Cuomo, Avenatti, The Lincoln Project: The media's anti-Trump idols who've collapsed in disgrace",
       "excerpt": "Democratic New York Gov. Andrew Cuomo was not only hailed by the media as a hero of the coronavirus pandemic; he was also being floated as a presidential candidate.",
@@ -67,7 +224,7 @@
       "originalUrl": "https://www.cbsnews.com/news/dominion-defamation-case-rudy-giuliani-sidney-powell-mike-lindell/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 825,
+      "heat": 805,
       "tags": null,
       "images": [
         {
@@ -1164,158 +1321,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-11-times-up-co-founder-robbie-kaplan-sued-donald-trump-and-nazis-but-shes-also-helped-at-least-3-targets-of-sex-misconduct-claims.md",
-      "title": "Time's Up co-founder Robbie Kaplan sued Donald Trump and Nazis. But she's also helped at least 3 targets of sex misconduct claims.",
-      "excerpt": "Robbie Kaplan is well-known for her progressive legal work. But her work for clients accused of sexual misconduct cover-ups has reared its head.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/times-up-lawyer-roberta-robbie-kaplans-sex-misconduct-clients-cuomo-2021-8",
-      "originalUrl": "https://www.businessinsider.com/times-up-lawyer-roberta-robbie-kaplans-sex-misconduct-clients-cuomo-2021-8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6112dd38d00b150018b4041f?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-10T13:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-08-11-china-hawk-mike-gallagher-bridges-gops-establishment-trump-wings.md",
-      "title": "China hawk Mike Gallagher bridges GOP’s establishment, Trump wings",
-      "excerpt": "Mike Gallagher never intended to be in Washington for the long haul. Since being elected in 2016, the Wisconsin Republican has advocated for congressional reforms such as term limits and lobbying restrictions for officeholders.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtontimes.com/news/2021/aug/10/china-hawk-gallagher-bridges-gops-establishment-tr/",
-      "originalUrl": "https://www.washingtontimes.com/news/2021/aug/10/china-hawk-gallagher-bridges-gops-establishment-tr/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://twt-thumbs.washtimes.com/media/image/2020/07/11/wisconsin_republicans_99295_c0-99-3045-1875_s1200x700.jpg?6dd222043ace9bd30a2cfe94c2947fd8a83f4703",
-          "width": 1200,
-          "height": 700,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.washingtontimes.com/news/2021/aug/10/china-hawk-gallagher-bridges-gops-establishment-tr/",
-      "cdnAmpWebUrl": "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/aug/10/china-hawk-gallagher-bridges-gops-establishment-tr/",
-      "publishedDateTime": "2021-08-10T12:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Times",
-        "domain": "washingtontimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-08-11-biden-1-trillion-infrastructure-bill-will-transform-america.md",
-      "title": "Biden: $1 trillion infrastructure bill ‘will transform America’",
-      "excerpt": "President Joe Biden called the $1 trillion infrastructure bill “historic” and said that it will “transform America.” The bill will make a huge investment in nation’s roads, public transit, water and broadband.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/now/video/president-joe-biden-says-infrastructure-bill-will-transform-america-118302277953",
-      "originalUrl": "https://www.nbcnews.com/now/video/president-joe-biden-says-infrastructure-bill-will-transform-america-118302277953",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_08/Biden_47801.jpg-85cec.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo118302277953",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo118302277953",
-      "publishedDateTime": "2021-08-10T12:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
       ]
     }
   ],

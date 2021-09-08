@@ -2,6 +2,166 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2021-07-24-biden-authorizes-100-million-in-emergency-funds-for-afghan-refugees.md",
+      "title": "Biden authorizes $100 million in emergency funds for Afghan refugees",
+      "excerpt": "U.S. President Joe Biden on Friday authorized up to $100 million from an emergency fund to meet \"unexpected urgent\" refugee needs stemming from the situation in Afghanistan, including for Afghan special immigration visa applicants,",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-afghanistan-conflict-refugees-idUSKBN2ET29T",
+      "originalUrl": "https://www.reuters.com/article/us-afghanistan-conflict-refugees-idUSKBN2ET29T",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 485,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20210724&t=2&i=1569833827&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH6N07X",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2ET29T",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2ET29T",
+      "publishedDateTime": "2021-07-24T02:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-07-24-donald-trump-was-almost-giddy-watching-the-capitol-riot-on-tv-author-says.md",
+      "title": "Donald Trump was 'almost giddy' watching the Capitol riot on TV, author says",
+      "excerpt": "It took hours for Ivanka Trump and aides to convince the president to rebuke the Capitol riot, according to \"I Alone Can Fix It\" author Carol Leonnig.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/donald-trump-was-almost-giddy-during-the-capitol-riot-author-says-2021-7",
+      "originalUrl": "https://www.businessinsider.com/donald-trump-was-almost-giddy-during-the-capitol-riot-author-says-2021-7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/60fbcc2228e2cf0018905856?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/donald-trump-was-almost-giddy-during-the-capitol-riot-author-says-2021-7?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/donald-trump-was-almost-giddy-during-the-capitol-riot-author-says-2021-7?amp",
+      "publishedDateTime": "2021-07-24T02:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-07-24-biden-heckled-at-terry-mcauliffe-rally-plagued-by-another-small-crowd.md",
+      "title": "Biden heckled at Terry McAuliffe rally, plagued by another small crowd",
+      "excerpt": "President Biden was heckled by an audience member during an appearance in Virginia on Friday and stopped his speech to address the individual.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Rlc-o-UYTto/biden-heckled-plagued-by-another-small-crowd-at-mcauliffe-event",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Rlc-o-UYTto/biden-heckled-plagued-by-another-small-crowd-at-mcauliffe-event",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7fbf889c-b70b-48da-8ae6-495e8e02a8ee/840bcc45-5e37-4994-9e60-a1f39dd62771/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-heckled-plagued-by-another-small-crowd-at-mcauliffe-event.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-heckled-plagued-by-another-small-crowd-at-mcauliffe-event.amp",
+      "publishedDateTime": "2021-07-23T17:40:43-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-24-such-a-disgrace-trump-blasts-cleveland-indians-name-change.md",
       "title": "‘Such a disgrace’: Trump blasts Cleveland Indians name change",
       "excerpt": "Former President Donald Trump blasted the Cleveland Indians Friday over their name change announcement. “Can anybody believe that the Cleveland Indians, a storied and cherished baseball franchise since taking the name in 1915,",
@@ -1180,171 +1340,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-22-pelosi-weighs-adding-kinzinger-a-second-anti-trump-republican-to-the-jan-6-inquiry.md",
-      "title": "Pelosi weighs adding Kinzinger, a second anti-Trump Republican, to the Jan. 6 inquiry.",
-      "excerpt": "The speaker has already given one of the eight Democratic seats on the panel to Representative Liz Cheney, Republican of Wyoming.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/07/22/us/politics/pelosi-kinzinger-jan-6-inquiry.html",
-      "originalUrl": "https://www.nytimes.com/2021/07/22/us/politics/pelosi-kinzinger-jan-6-inquiry.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/07/22/us/politics/22political-briefing-kinzinger/22political-briefing-kinzinger-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/07/22/us/politics/pelosi-kinzinger-jan-6-inquiry.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/22/us/politics/pelosi-kinzinger-jan-6-inquiry.amp.html",
-      "publishedDateTime": "2021-07-22T05:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-22-biden-says-eliminating-filibuster-would-throw-the-entire-congress-into-chaos.md",
-      "title": "Biden says eliminating filibuster would \"throw the entire Congress into chaos\"",
-      "excerpt": "President Biden essentially rejected the idea of eliminating the filibuster, asserting, that doing so would \"throw the entire Congress into chaos, and nothing would get done.\" He was in Cincinnati at a town hall Wednesday night,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/live-updates/joe-biden-town-hall-filibuster/",
-      "originalUrl": "https://www.cbsnews.com/live-updates/joe-biden-town-hall-filibuster/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2021/07/22/6db0226c-75a4-4efe-9e3d-62440af84a2d/thumbnail/1200x630/9c7781d3b07754207b8d6a007309ab26/ap21203035322896-cropped.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/live-updates/joe-biden-town-hall-filibuster/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/live-updates/joe-biden-town-hall-filibuster/",
-      "publishedDateTime": "2021-07-22T04:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-07-22-biden-estimates-when-fda-will-fully-approve-covid-19-jabs.md",
-      "title": "Biden estimates when FDA will fully approve COVID-19 jabs",
-      "excerpt": "President Biden said Wednesday night that his “expectation” is that the COVID-19 vaccines being used in the U.S. under an emergency use authorization should be approved by the Food and Drug Administration by the fall.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/9p0MGVybb6M/biden-estimates-fda-covid",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/9p0MGVybb6M/biden-estimates-fda-covid",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/vaccine_mask_istock.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-22T02:33:22-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

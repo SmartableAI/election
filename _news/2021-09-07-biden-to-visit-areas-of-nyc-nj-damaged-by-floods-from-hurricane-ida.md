@@ -9,8 +9,8 @@ ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/09/07/new-york-jersey-joe-b
 cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/09/07/new-york-jersey-joe-biden-hurricane-ida/7121631012476/"
 type: article
 quality: 75
-heat: -1
-published: false
+heat: 135
+published: true
 
 provider:
   name: UPI.com
@@ -27,47 +27,53 @@ images:
     isCached: true
 
 related:
-  - title: "In NYC after IDA, Biden calls climate ‘everybody’s crisis’"
-    excerpt: "President Joe Biden declared climate change “everybody's crisis” on Tuesday after touring neighborhoods severely damaged by the remnants of Hurricane Ida and said it's time for America to get serious about the danger or face ever worse loss of life and property."
-    publishedDateTime: 2021-09-07T21:42:00Z
-    webUrl: "https://apnews.com/article/floods-storms-52e6e031e5e4286dcd8c5db2175a9698"
+  - title: "In NYC after Ida, Biden calls climate ‘everybody’s crisis’"
+    excerpt: "President Joe Biden declared climate change has become “everybody’s crisis” on Tuesday as he toured neighborhoods flooded by the remnants of Hurricane Ida,"
+    publishedDateTime: 2021-09-07T23:48:00Z
+    webUrl: "https://www.bostonherald.com/2021/09/07/in-nyc-after-ida-biden-calls-climate-everybodys-crisis-2/"
+    ampWebUrl: "https://www.bostonherald.com/2021/09/07/in-nyc-after-ida-biden-calls-climate-everybodys-crisis-2/amp/"
+    cdnAmpWebUrl: "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2021/09/07/in-nyc-after-ida-biden-calls-climate-everybodys-crisis-2/amp/"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 105
+      name: Boston Herald
+      domain: bostonherald.com
+    quality: 75
     images:
-      - url: "https://storage.googleapis.com/afs-prod/media/b67ef898bb434221a1d8e8fef8c517a0/3000.jpeg"
-        width: 3000
-        height: 2000
+      - url: "https://www.bostonherald.com/wp-content/uploads/2021/09/Biden_57720.jpg?w=1024&#038;h=683"
+        width: 1024
+        height: 683
         isCached: true
-  - title: "Biden surveys Hurricane Ida storm damage in New York and New Jersey after deadly flooding"
-    excerpt: "Pointing accusingly at climate change, President Joe Biden toured deadly Northeast flood damage Tuesday and said he was thinking about the all families who suffered"
-    publishedDateTime: 2021-09-07T17:26:00Z
-    webUrl: "https://www.nola.com/news/article_c7ff78bc-1000-11ec-a4d1-abcd59d32880.html"
+  - title: "Watch Live: President Joe Biden speaks about administration’s response to Hurricane Ida"
+    excerpt: "Ida was the fifth most powerful storm to hit the U.S. when it made landfall on Aug. 29. At least 50 people were killed in six Eastern states as record rainfall overwhelmed rivers and sewer systems."
+    publishedDateTime: 2021-09-07T15:03:00Z
+    webUrl: "https://www.tristatehomepage.com/weather-news/biden-to-survey-northeast-damage-after-deadly-ida-flooding/"
+    ampWebUrl: "https://www.tristatehomepage.com/weather-news/biden-to-survey-northeast-damage-after-deadly-ida-flooding/amp/"
+    cdnAmpWebUrl: "https://www-tristatehomepage-com.cdn.ampproject.org/c/s/www.tristatehomepage.com/weather-news/biden-to-survey-northeast-damage-after-deadly-ida-flooding/amp/"
     type: article
     provider:
-      name: NOLA.com
-      domain: nola.com
-    quality: 46
+      name: WTVW
+      domain: tristatehomepage.com
+    quality: 67
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/nola.com/content/tncms/assets/v3/editorial/c/e7/ce7a7b82-1001-11ec-bdf6-3b601b56bba8/6137a290a98b4.image.jpg?resize=945%2C630"
-        width: 945
-        height: 630
+      - url: "https://www.tristatehomepage.com/wp-content/uploads/sites/92/2021/09/AP21250670353459.jpg?w=1280"
+        width: 1280
+        height: 853
         isCached: true
-  - title: "Joe Biden surveys Hurricane Ida storm damage in New York and New Jersey after deadly flooding"
-    excerpt: "Pointing accusingly at climate change, President Joe Biden toured deadly Northeast flood damage Tuesday and said he was thinking about the all families who suffered"
-    publishedDateTime: 2021-09-07T17:26:00Z
-    webUrl: "https://www.nola.com/news/hurricane/article_c7ff78bc-1000-11ec-a4d1-abcd59d32880.html"
+  - title: "'We don't have any more time:' Biden highlights climate change as he tours Hurricane Ida damage in NY, NJ"
+    excerpt: "Biden is using the trip to highlight climate change and underscore his infrastructure bill, which will help communities prepare for extreme weather."
+    publishedDateTime: 2021-09-07T17:28:00Z
+    webUrl: "https://www.indystar.com/story/news/politics/2021/09/07/biden-talk-climate-change-ny-nj-tour-hurricane-ida-damage/5751911001/"
+    ampWebUrl: "https://amp.indystar.com/amp/5751911001"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/5751911001"
     type: article
     provider:
-      name: NOLA.com
-      domain: nola.com
-    quality: 44
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 58
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/nola.com/content/tncms/assets/v3/editorial/c/e7/ce7a7b82-1001-11ec-bdf6-3b601b56bba8/6137a290a98b4.image.jpg?resize=945%2C630"
-        width: 945
-        height: 630
+      - url: "https://www.gannett-cdn.com/presto/2021/09/07/USAT/d9420a68-f0d8-4cdf-b3cf-e9ea0e81c78a-GTY_1338886053.jpg?auto=webp&crop=6658,3746,x0,y414&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "YPB4NY6M4e5EXTW8KbA390N8GgwvKHTJjuR+0O0VWsPzN3AEs+XhIryadTkPX/l33xRn3evBBEnwUBnc3Q8mkuO0UKk9iYVOD5HdW+WWToujnFmK6pOVHC6vWqHbBp6BwAQIxAu1e4LPPjeGNI7eJ/++8URCFXhVzs59ouwjXl8+KMnXYcHxToMY7rTIbVCQlZMu0ZZHi3VIfbz3Cp1anB8IYcSw+hambYZN11HlpZU27CRQilUifL3n2Yw68ZktgTdLaNAnxNC89JIbuq5qE0MekLiitirSQQk/hzTgmPPfrgMDg8c1B2HhkH4D8gMldGsCJeBx2z4etxExrkUYxShCFwelkpKbp8upJCbl+sw=;7umanJ+IL0GmURYwrxwXVg=="

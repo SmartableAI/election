@@ -2,6 +2,167 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2021-07-16-ticket-sales-are-moving-slowly-for-the-coming-trump-oreilly-stadium-tour.md",
+      "title": "Ticket sales are moving slowly for the coming Trump-O’Reilly stadium tour",
+      "excerpt": "Time remains to sell out the stadiums. But those familiar with the current sales pace say it lags behind other acts.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2021/07/16/trump-oreilly-tickets-499795",
+      "originalUrl": "https://www.politico.com/news/2021/07/16/trump-oreilly-tickets-499795",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/a3/98/4a7696cc4883b5ff031956fc291d/7-15-21-donaldtrump-ap-773.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.com/amp/news/2021/07/16/trump-oreilly-tickets-499795",
+      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/07/16/trump-oreilly-tickets-499795",
+      "publishedDateTime": "2021-07-16T01:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-16-mike-pence-refused-to-get-in-car-with-secret-service-during-capitol-riot-book.md",
+      "title": "Mike Pence Refused to Get in Car With Secret Service During Capitol Riot: Book",
+      "excerpt": "The former vice president twice refused to be evacuated as rioters stormed the Capitol on January 6, according to a new book about the final days of the Trump administration.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/mike-pence-refused-car-secret-service-capitol-riot-book-1610326",
+      "originalUrl": "https://www.newsweek.com/mike-pence-refused-car-secret-service-capitol-riot-book-1610326",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 141,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1847383/mike-pence-speaks-crowd.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/mike-pence-refused-car-secret-service-capitol-riot-book-1610326?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mike-pence-refused-car-secret-service-capitol-riot-book-1610326?amp=1",
+      "publishedDateTime": "2021-07-16T01:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-07-16-inside-donald-trump-jrs-97-million-florida-mansion-with-a-12-acre-backyard.md",
+      "title": "Inside Donald Trump Jr's $9.7 Million Florida Mansion With A 1.2 Acre Backyard",
+      "excerpt": "Donald Trump Jr. and his girlfriend, Kimberly Guilfoyle, bought a new $9.7 million house in Jupiter, Florida that has a massive 1.2-acre backyard with a swimming pool.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/inside-donald-trump-jrs-97-million-florida-mansion-12-acre-backyard-3253012",
+      "originalUrl": "https://www.ibtimes.com/inside-donald-trump-jrs-97-million-florida-mansion-12-acre-backyard-3253012",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/08/04/donald-trump-jr-kimberly-guilfoyle.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/inside-donald-trump-jrs-97-million-florida-mansion-12-acre-backyard-3253012?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/inside-donald-trump-jrs-97-million-florida-mansion-12-acre-backyard-3253012?amp=1",
+      "publishedDateTime": "2021-07-15T22:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-07-16-biden-sees-us-child-tax-credit-as-giant-step-to-counter-poverty.md",
       "title": "Biden sees U.S. child tax credit as 'giant step' to counter poverty",
       "excerpt": "Some 35 million American families have received their first monthly payout from the U.S. government in an expanded income-support program that President Joe Biden said on Thursday could help end child poverty.",
@@ -1172,166 +1333,6 @@
         "Election",
         "Republican Voice",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-07-14-pro-trump-senate-hopeful-jd-vance-called-then-president-a-moral-disaster-in-2017-messages.md",
-      "title": "Pro-Trump Senate hopeful J.D. Vance called then-President a 'moral disaster' in 2017 messages",
-      "excerpt": "Ohio Republican Senate candidate J.D. Vance, a venture capitalist and author of the bestselling book \"Hillbilly Elegy,\" disparaged then-President Donald Trump as a \"moral disaster\" whose administration had \"no domestic policy agenda besides tax cuts\" in Twitter direct messages from summer 2017.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-U3o2EgtfvE/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-U3o2EgtfvE/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210714141649-jd-vance-trump-split-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/14/politics/kfile-jd-vance-donald-trump-2017/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/14/politics/kfile-jd-vance-donald-trump-2017/index.html",
-      "publishedDateTime": "2021-07-14T13:00:20-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-15-mike-pence-says-china-seizing-on-biden-admin-weakness-to-become-evil-empire.md",
-      "title": "Mike Pence Says China Seizing on Biden Admin 'Weakness' to Become 'Evil Empire'",
-      "excerpt": "Pence called America's return to the WHO under Biden without \"demanding a single concession\" an example of the U.S. \"rolling over to communist China.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/mike-pence-says-china-seizing-biden-admin-weakness-become-evil-empire-1609794",
-      "originalUrl": "https://www.newsweek.com/mike-pence-says-china-seizing-biden-admin-weakness-become-evil-empire-1609794",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 216,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1846054/mike-pence-china-biden-admin.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/mike-pence-says-china-seizing-biden-admin-weakness-become-evil-empire-1609794?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mike-pence-says-china-seizing-biden-admin-weakness-become-evil-empire-1609794?amp=1",
-      "publishedDateTime": "2021-07-14T12:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-07-15-trumps-ag-bill-barr-denies-he-blocked-election-fraud-probes-in-pennsylvania.md",
-      "title": "Trump's AG Bill Barr denies he blocked election fraud probes in Pennsylvania",
-      "excerpt": "The former U.S. attorney general says he never blocked former U.S. Attorney William McSwain from investigating election fraud claims in Pennsylvania.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2021/07/14/attorney-general-bill-barr-trump-pennsylvania-election-fraud/7968006002/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/07/14/attorney-general-bill-barr-trump-pennsylvania-election-fraud/7968006002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 257,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/-mm-/3aaa5390e2198791e1539a5c55e668f463ec89a9/c=0-106-2036-1251/local/-/media/2021/05/26/Hagerstown/9601e05ba52fd734e7351590674f3aec.jpg?auto=webp&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/7968006002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7968006002",
-      "publishedDateTime": "2021-07-14T11:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

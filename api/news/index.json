@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-09-08-in-nyc-after-ida-biden-calls-climate-everybodys-crisis.md",
-      "title": "In NYC after IDA, Biden calls climate ‘everybody’s crisis’",
-      "excerpt": "President Joe Biden declared climate change “everybody's crisis” on Tuesday after touring neighborhoods severely damaged by the remnants of Hurricane Ida and said it's time for America to get serious about the danger or face ever worse loss of life and property.",
+      "path": "_news/2021-09-08-donald-trump-son-to-provide-commentary-on-evander-holyfield-vitor-belfort-alternate-telecast.md",
+      "title": "Donald Trump, son to provide commentary on Evander Holyfield-Vitor Belfort alternate telecast",
+      "excerpt": "Former president Donald Trump has signed a contract to provide commentary on a \"gamecast\" of Saturday's boxing event headlined by Evander Holyfield vs. Vitor Belfort, Triller told ESPN. His son, Donald Trump Jr.",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/article/floods-storms-52e6e031e5e4286dcd8c5db2175a9698",
-      "originalUrl": "https://apnews.com/article/floods-storms-52e6e031e5e4286dcd8c5db2175a9698",
+      "webUrl": "https://abcnews.go.com/Sports/donald-trump-son-provide-commentary-evander-holyfield-vitor/story?id=79884415",
+      "originalUrl": "https://abcnews.go.com/Sports/donald-trump-son-provide-commentary-evander-holyfield-vitor/story?id=79884415",
       "featuredContent": null,
       "highlight": null,
-      "heat": 165,
+      "heat": 114,
       "tags": null,
       "images": [
         {
-          "url": "https://storage.googleapis.com/afs-prod/media/b67ef898bb434221a1d8e8fef8c517a0/3000.jpeg",
-          "width": 3000,
-          "height": 2000,
+          "url": "https://s.abcnews.com/images/site/ABCNews_flat_black.png",
+          "width": 834,
+          "height": 308,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,69 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-07T14:42:00-07:00",
+      "ampWebUrl": "https://abcnews.go.com/amp/Sports/donald-trump-son-provide-commentary-evander-holyfield-vitor/story?id=79884415",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Sports/donald-trump-son-provide-commentary-evander-holyfield-vitor/story?id=79884415",
+      "publishedDateTime": "2021-09-07T17:39:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-09-08-trump-to-headline-nrcc-fundraiser-in-november-with-eye-on-2022.md",
+      "title": "Trump to headline NRCC fundraiser in November with eye on 2022",
+      "excerpt": "Former President Donald Trump is slated to attend a National Republican Congressional Committee fundraiser in Tampa in early November.",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/09/07/trump-to-headline-nrcc-fundraiser-in-november-with-eye-on-2022/",
+      "originalUrl": "https://nypost.com/2021/09/07/trump-to-headline-nrcc-fundraiser-in-november-with-eye-on-2022/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/09/trump.jpg?quality=90&strip=all&w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/09/07/trump-to-headline-nrcc-fundraiser-in-november-with-eye-on-2022/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/09/07/trump-to-headline-nrcc-fundraiser-in-november-with-eye-on-2022/amp/",
+      "publishedDateTime": "2021-09-07T16:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -41,7 +97,116 @@
       ],
       "topics": [
         "Election",
-        "Joe Biden"
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-09-08-how-the-new-texas-elections-law-follows-up-on-trumps-voter-fraud-claims.md",
+      "title": "How the new Texas elections law follows up on Trump's voter fraud claims",
+      "excerpt": "Texas Republicans enacted a massive election restrictions law on Tuesday that has echoes of the former president Donald Trump’s false claims that widespread voter fraud kept him from a second term in the White House.",
+      "sourceUrl": null,
+      "webUrl": "https://www.houstonchronicle.com/politics/texas/article/How-Texas-is-following-up-on-Trump-s-voter-16441526.php",
+      "originalUrl": "https://www.houstonchronicle.com/politics/texas/article/How-Texas-is-following-up-on-Trump-s-voter-16441526.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 399,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.hdnux.com/photos/01/21/61/73/21438188/3/400x0.jpg",
+          "width": 400,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.houstonchronicle.com/politics/texas/amp/How-Texas-is-following-up-on-Trump-s-voter-16441526.php",
+      "cdnAmpWebUrl": "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/politics/texas/amp/How-Texas-is-following-up-on-Trump-s-voter-16441526.php",
+      "publishedDateTime": "2021-09-07T16:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Houston Chronicle",
+        "domain": "houstonchronicle.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/houstonchronicle.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-09-07-biden-dismisses-protesters-who-heckled-him-as-he-toured-storm-damaged-northeast-they-dont-understand.md",
+      "title": "Biden dismisses protesters who heckled him as he toured storm-damaged northeast: 'They don't understand'",
+      "excerpt": "President Joe Biden addressed hecklers who shouted at him about his chaotic withdrawal from Afghanistan and claimed they don’t actually live in the area he was touring and suggested they were upset about his climate change position.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/hvc8ph_w4OE/biden-protesters-who-heckled-him-as-he-toured-storm-damaged-northeast-they-dont-understand",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/hvc8ph_w4OE/biden-protesters-who-heckled-him-as-he-toured-storm-damaged-northeast-they-dont-understand",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 158,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1c649efb-45d4-4f8b-927c-ba62139ec925/842ee78d-4f0f-4584-9bc6-1838db8c0ae5/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-protesters-who-heckled-him-as-he-toured-storm-damaged-northeast-they-dont-understand.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-protesters-who-heckled-him-as-he-toured-storm-damaged-northeast-they-dont-understand.amp",
+      "publishedDateTime": "2021-09-07T15:01:05-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
       ]
     },
     {
@@ -266,49 +431,6 @@
       ]
     },
     {
-      "path": "_news/2021-09-07-watch-live-president-joe-biden-speaks-about-administrations-response-to-hurricane-ida.md",
-      "title": "Watch Live: President Joe Biden speaks about administration’s response to Hurricane Ida",
-      "excerpt": "Ida was the fifth most powerful storm to hit the U.S. when it made landfall on Aug. 29. At least 50 people were killed in six Eastern states as record rainfall overwhelmed rivers and sewer systems.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tristatehomepage.com/weather-news/biden-to-survey-northeast-damage-after-deadly-ida-flooding/",
-      "originalUrl": "https://www.tristatehomepage.com/weather-news/biden-to-survey-northeast-damage-after-deadly-ida-flooding/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tristatehomepage.com/wp-content/uploads/sites/92/2021/09/AP21250670353459.jpg?w=1280",
-          "width": 1280,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.tristatehomepage.com/weather-news/biden-to-survey-northeast-damage-after-deadly-ida-flooding/amp/",
-      "cdnAmpWebUrl": "https://www-tristatehomepage-com.cdn.ampproject.org/c/s/www.tristatehomepage.com/weather-news/biden-to-survey-northeast-damage-after-deadly-ida-flooding/amp/",
-      "publishedDateTime": "2021-09-07T08:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WTVW",
-        "domain": "tristatehomepage.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
       "path": "_news/2021-09-07-donald-trump-jr-says-his-dad-is-getting-younger-because-stress-fuels-him.md",
       "title": "Donald Trump Jr. Says His Dad is Getting Younger Because Stress 'Fuels Him'",
       "excerpt": "Trump Jr. has regularly sung his father's praises and was a key figure for Trump's 2020 presidential campaign.",
@@ -361,6 +483,101 @@
       ]
     },
     {
+      "path": "_news/2021-09-07-biden-to-visit-areas-of-nyc-nj-damaged-by-floods-from-hurricane-ida.md",
+      "title": "Biden to visit areas of NYC, N.J. damaged by floods from Hurricane Ida",
+      "excerpt": "President Joe Biden on Tuesday will visit New York City and multiple locations in New Jersey that were heavily damaged by major flooding and rains that killed dozens of people last week.",
+      "sourceUrl": null,
+      "webUrl": "https://www.upi.com/Top_News/US/2021/09/07/new-york-jersey-joe-biden-hurricane-ida/7121631012476/",
+      "originalUrl": "https://www.upi.com/Top_News/US/2021/09/07/new-york-jersey-joe-biden-hurricane-ida/7121631012476/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdnph.upi.com/sv/ph/og/i/7121631012476/2021/1/16310151479197/v1.5/Biden-to-visit-areas-of-NYC-NJ-damaged-by-floods-from-Hurricane-Ida.jpg",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.upi.com/amp/Top_News/US/2021/09/07/new-york-jersey-joe-biden-hurricane-ida/7121631012476/",
+      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/09/07/new-york-jersey-joe-biden-hurricane-ida/7121631012476/",
+      "publishedDateTime": "2021-09-07T04:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UPI.com",
+        "domain": "upi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-09-07-shana-chappell-asks-donald-trump-to-attend-killed-marine-kareem-nikouis-funeral.md",
+      "title": "Shana Chappell Asks Donald Trump to Attend Killed Marine Kareem Nikoui's Funeral",
+      "excerpt": "Shana Chappell's Facebook post accusing Biden of having \"blood on his hands\" went viral after her son Kareem Nikoui was killed in the Kabul airport attack.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/donald-trump-funeral-kareem-nikoui-marine-mother-joe-biden-1626610",
+      "originalUrl": "https://www.newsweek.com/donald-trump-funeral-kareem-nikoui-marine-mother-joe-biden-1626610",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1888503/kareem-nikoui-funeral.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/donald-trump-funeral-kareem-nikoui-marine-mother-joe-biden-1626610?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-funeral-kareem-nikoui-marine-mother-joe-biden-1626610?amp=1",
+      "publishedDateTime": "2021-09-07T04:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-09-07-mueller-filings-close-in-on-trump-darcy-cartoon.md",
       "title": "Mueller filings close in on Trump: Darcy cartoon",
       "excerpt": "Darcy cartoon CLEVELAND, Ohio -- Rex Tillerson told Bob Schieffer it was \"challenging\" going from \"the disciplined, highly process-oriented ExxonMobil corporation \" to working for President Trump \"who is pretty undisciplined,",
@@ -369,7 +586,7 @@
       "originalUrl": "https://apnews.com/article/europe-crime-robert-mueller-rex-tillerson-bob-schieffer-74252f70f31643639ab3f8adaa068186",
       "featuredContent": null,
       "highlight": null,
-      "heat": 125,
+      "heat": 145,
       "tags": null,
       "images": [
         {
@@ -416,7 +633,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 766,
+      "heat": 806,
       "tags": null,
       "images": [
         {
@@ -996,7 +1213,7 @@
       "originalUrl": "https://nymag.com/intelligencer/article/trump-campaign-steal-presidency-timeline.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 135,
+      "heat": 115,
       "tags": null,
       "images": [
         {
@@ -1085,213 +1302,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-09-05-lara-trump-slams-hypocritical-kamala-harris-michelle-obama-for-silence-on-afghan-women.md",
-      "title": "Lara Trump Slams 'Hypocritical' Kamala Harris, Michelle Obama for Silence on Afghan Women",
-      "excerpt": "\"They are happy to be activists when it's politically advantageous,\" Donald Trump's daughter-in-law said on Fox News.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/lara-trump-slams-hypocritical-kamala-harris-michelle-obama-silence-afghan-women-1626238",
-      "originalUrl": "https://www.newsweek.com/lara-trump-slams-hypocritical-kamala-harris-michelle-obama-silence-afghan-women-1626238",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 171,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1887939/lara-trump-slams-kamala-harris-michelle-obama.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/lara-trump-slams-hypocritical-kamala-harris-michelle-obama-silence-afghan-women-1626238?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/lara-trump-slams-hypocritical-kamala-harris-michelle-obama-silence-afghan-women-1626238?amp=1",
-      "publishedDateTime": "2021-09-05T08:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-09-05-did-trump-just-go-up-with-the-first-tv-ad-of-the-2024-presidential-campaign.md",
-      "title": "Did Trump just go up with the first TV ad of the 2024 presidential campaign?",
-      "excerpt": "A new ad by former President Trump's political action committee that blasts President Biden over the U.S. exit from Afghanistan can be seen as the first TV ad of the 2024 presidential campaign",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5iY7Yflm_LQ/did-trump-just-go-up-with-the-first-tv-ad-of-the-2024-presidential-campaign",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5iY7Yflm_LQ/did-trump-just-go-up-with-the-first-tv-ad-of-the-2024-presidential-campaign",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 232,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/did-trump-just-go-up-with-the-first-tv-ad-of-the-2024-presidential-campaign.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/did-trump-just-go-up-with-the-first-tv-ad-of-the-2024-presidential-campaign.amp",
-      "publishedDateTime": "2021-09-05T07:23:27-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-09-05-as-donald-trump-makes-noise-about-2024-melania-trump-tries-to-stay-out-of-the-public-eye.md",
-      "title": "As Donald Trump makes noise about 2024, Melania Trump tries to stay out of the public eye",
-      "excerpt": "As Donald Trump publicly mulls his political future, playing a game of \"will he-won't he\" in a potential bid for the White House in 2024, all the while flexing influence in primaries for next year's midterms, there is one key person noticeably quiet. Again.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/kt6Ckaj3lzo/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/kt6Ckaj3lzo/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 166,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210903203732-melania-donald-trump-split-restricted-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/09/05/politics/melania-trump-out-of-the-public-eye-2024/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/09/05/politics/melania-trump-out-of-the-public-eye-2024/index.html",
-      "publishedDateTime": "2021-09-05T06:45:12-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-09-05-white-house-keeping-kamala-harris-from-afghanistan-crisis-to-stop-contamination.md",
-      "title": "White House keeping Kamala Harris from Afghanistan crisis 'to stop contamination'",
-      "excerpt": "The White House is deliberately keeping Kamala Harris insulated from the Afghanistan withdrawal debacle to clear her way for a future presidential run, sources have told the Teleg",
-      "sourceUrl": null,
-      "webUrl": "https://www.telegraph.co.uk/world-news/2021/09/05/white-house-keeping-kamala-harris-afghanistan-crisis-stop-contamination/",
-      "originalUrl": "https://www.telegraph.co.uk/world-news/2021/09/05/white-house-keeping-kamala-harris-afghanistan-crisis-stop-contamination/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.telegraph.co.uk/content/dam/world-news/2021/09/05/TELEMMGLPICT000269145920_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQf0Rf_Wk3V23H2268P_XkPxc.jpeg",
-          "width": 2500,
-          "height": 1563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.telegraph.co.uk/world-news/2021/09/05/white-house-keeping-kamala-harris-afghanistan-crisis-stop-contamination/amp/",
-      "cdnAmpWebUrl": "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/world-news/2021/09/05/white-house-keeping-kamala-harris-afghanistan-crisis-stop-contamination/amp/",
-      "publishedDateTime": "2021-09-05T06:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Telegraph",
-        "domain": "telegraph.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
       ]
     }
   ],

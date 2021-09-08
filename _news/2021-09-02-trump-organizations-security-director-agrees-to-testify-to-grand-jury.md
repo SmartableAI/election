@@ -29,6 +29,38 @@ images:
     isCached: true
 
 related:
+  - title: "How the new Texas elections law follows up on Trump's voter fraud claims"
+    excerpt: "Texas Republicans enacted a massive election restrictions law on Tuesday that has echoes of the former president Donald Trump’s false claims that widespread voter fraud kept him from a second term in the White House."
+    publishedDateTime: 2021-09-07T23:13:00Z
+    webUrl: "https://www.houstonchronicle.com/politics/texas/article/How-Texas-is-following-up-on-Trump-s-voter-16441526.php"
+    ampWebUrl: "https://www.houstonchronicle.com/politics/texas/amp/How-Texas-is-following-up-on-Trump-s-voter-16441526.php"
+    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/politics/texas/amp/How-Texas-is-following-up-on-Trump-s-voter-16441526.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 139
+    images:
+      - url: "https://s.hdnux.com/photos/01/21/61/73/21438188/3/400x0.jpg"
+        width: 400
+        height: 270
+        isCached: true
+  - title: "Donald Trump Says Not Yet Sure Whether He Supports Texas Abortion Law"
+    excerpt: "Trump dodged when asked whether he agrees with the Supreme Court ruling, saying it's \"complex and also probably temporary.\""
+    publishedDateTime: 2021-09-05T22:27:00Z
+    webUrl: "https://www.newsweek.com/donald-trump-says-not-yet-sure-whether-he-supports-texas-abortion-law-1626284"
+    ampWebUrl: "https://www.newsweek.com/donald-trump-says-not-yet-sure-whether-he-supports-texas-abortion-law-1626284?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-says-not-yet-sure-whether-he-supports-texas-abortion-law-1626284?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
+    images:
+      - url: "https://d.newsweek.com/en/full/1887991/trump-texas-abortion-supreme-court-ruling.jpg"
+        width: 3428
+        height: 2486
+        isCached: true
   - title: "Trump Justices Cast Crucial Votes on Texas Abortion Ban Undermining Roe v. Wade"
     excerpt: "The Supreme Court has declined to prevent a new law in Texas that severely restricts abortion access from coming into effect. The law will effectively ban all abortions in the state after around six weeks of pregnancy in what reproductive rights advocates view as a blow to the precedent set in Roe v."
     publishedDateTime: 2021-09-02T08:28:00Z
@@ -45,22 +77,93 @@ related:
         width: 2400
         height: 1600
         isCached: true
-  - title: "President Joe Biden says Texas' new abortion law \"unleashes unconstitutional chaos\""
-    excerpt: "Biden promised to mobilize the federal government to respond to the Texas law “to ensure that women in Texas have access to safe and legal abortions as protected by Roe.\""
-    publishedDateTime: 2021-09-02T16:24:00Z
-    webUrl: "https://www.texastribune.org/2021/09/02/texas-abortion-law-joe-biden/"
-    ampWebUrl: "https://www.texastribune.org/2021/09/02/texas-abortion-law-joe-biden/amp/"
-    cdnAmpWebUrl: "https://www-texastribune-org.cdn.ampproject.org/c/s/www.texastribune.org/2021/09/02/texas-abortion-law-joe-biden/amp/"
+  - title: "Trump fans election fraud theme as Virginia governor candidate Youngkin walks tightrope"
+    excerpt: "Former president Donald Trump on Wednesday warned that Democrats might try to steal the Virginia governor's race, pegging his prediction on baseless claims of 2020 election fraud that Republican candidate Glenn Youngkin has flirted with but not fully embraced."
+    publishedDateTime: 2021-09-01T22:52:00Z
+    webUrl: "https://www.washingtonpost.com/local/virginia-politics/trump-virginia-governor-youngkin-election/2021/09/01/c8583584-0b3b-11ec-aea1-42a8138f132a_story.html"
     type: article
     provider:
-      name: Texas Tribune
-      domain: texastribune.org
-    quality: 69
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 112
     images:
-      - url: "https://thumbnails.texastribune.org/awXUfugw4V8ATiBjcqo7A4RnVXA=/1200x630/filters:quality(95)/static.texastribune.org/media/files/302214eb567a50813c271e480d6ebd7b/Biden%20Aug%2031%20REUTERS%20TT.jpg"
-        width: 1200
-        height: 630
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/X2IE7EQLOYI6ZLVBIKUBHDYTFI.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
+  - title: "A judge rebukes Donald Trump Jr. for misinformation — as Trump Jr. doubles down on misinformation"
+    excerpt: "A West Virginia judge ruled that a lawsuit against Trump Jr. can proceed because there is evidence he knowingly shared false and potentially defamatory information."
+    publishedDateTime: 2021-09-02T18:39:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/09/02/judge-rebukes-donald-trump-jr-misinformation-trump-jr-doubles-down-misinformation/"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 92
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KC5D45HBB4I6XIT7RMUUSMHJLM.jpg&w=1440"
+        width: 1440
+        height: 961
+        isCached: true
+  - title: "Judge tosses Trump rollback of clean water safeguards"
+    excerpt: "A federal judge has thrown out a Trump-era rule that ended federal protections for hundreds of thousands of small streams, wetlands and other waterways and left them vulnerable to pollution from nearby development."
+    publishedDateTime: 2021-08-31T21:36:00Z
+    webUrl: "https://www.thehour.com/news/article/Judge-tosses-Trump-rollback-of-clean-water-16426305.php"
+    ampWebUrl: "https://www.thehour.com/news/amp/Judge-tosses-Trump-rollback-of-clean-water-16426305.php"
+    cdnAmpWebUrl: "https://www-thehour-com.cdn.ampproject.org/c/s/www.thehour.com/news/amp/Judge-tosses-Trump-rollback-of-clean-water-16426305.php"
+    type: article
+    provider:
+      name: The Hour
+      domain: thehour.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
+  - title: "Georgia lieutenant governor declares independence from Trump"
+    excerpt: "Georgia’s Republican lieutenant governor is declaring independence from Donald Trump in a new book and urging other members of the GOP to follow. Geoff Duncan has been a target of heavy criticism from the former president and many other Republicans for his outspoken criticism of Trump’s efforts to overturn his presidential election loss."
+    publishedDateTime: 2021-09-04T01:05:00Z
+    webUrl: "https://www.seattlepi.com/news/article/Georgia-lieutenant-governor-declares-independence-16434184.php"
+    ampWebUrl: "https://www.seattlepi.com/news/amp/Georgia-lieutenant-governor-declares-independence-16434184.php"
+    cdnAmpWebUrl: "https://www-seattlepi-com.cdn.ampproject.org/c/s/www.seattlepi.com/news/amp/Georgia-lieutenant-governor-declares-independence-16434184.php"
+    type: article
+    provider:
+      name: seattlepi.com
+      domain: seattlepi.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
+  - title: "Republican Donors Show Disinterest In Trump 2024 Campaign, Focus On Midterms"
+    excerpt: "Top Republican Party donors have pushed back on fundraising for former President Donald Trump’s potential 2024 campaign and are instead focused on the 2022 midterm elections, CNBC reported Tuesday. Almost immediately after leaving the White House in January,"
+    publishedDateTime: 2021-08-31T21:38:00Z
+    webUrl: "https://www.ibtimes.com/republican-donors-show-disinterest-trump-2024-campaign-focus-midterms-3285139"
+    ampWebUrl: "https://www.ibtimes.com/republican-donors-show-disinterest-trump-2024-campaign-focus-midterms-3285139?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/republican-donors-show-disinterest-trump-2024-campaign-focus-midterms-3285139?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 72
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/07/07/former-us-president-donald-trump-reportedly-told-his.jpg"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "Pro-Trump lawyers who pushed fraud cases face serious consequences"
+    excerpt: "Lawyers who sought to overturn the 2020 election results in key states, alleging fraud, were sanctioned last week by a federal judge in Michigan."
+    publishedDateTime: 2021-08-31T20:06:00Z
+    webUrl: "https://www.csmonitor.com/USA/Politics/2021/0831/Pro-Trump-lawyers-who-pushed-fraud-cases-face-serious-consequences"
+    ampWebUrl: "https://www.csmonitor.com/layout/set/amphtml/USA/Politics/2021/0831/Pro-Trump-lawyers-who-pushed-fraud-cases-face-serious-consequences"
+    cdnAmpWebUrl: "https://www-csmonitor-com.cdn.ampproject.org/c/s/www.csmonitor.com/layout/set/amphtml/USA/Politics/2021/0831/Pro-Trump-lawyers-who-pushed-fraud-cases-face-serious-consequences"
+    type: article
+    provider:
+      name: Christian Science Monitor
+      domain: csmonitor.com
+    quality: 55
   - title: "Trump Organization employees to testify before NY grand jury"
     excerpt: "Matthew Calamari Jr., the Trump Organization’s corporate director of security, will testify this week before a Manhattan grand jury investigating former President Donald Trump’s company and its"
     publishedDateTime: 2021-09-02T00:52:00Z
@@ -89,31 +192,29 @@ related:
         width: 499
         height: 325
         isCached: true
-  - title: "Trump-inspired conspiracies about voter fraud have infiltrated the California recall. And they may cost supporters votes"
-    excerpt: "The campaign to recall California Gov. Gavin Newsom has a conspiracy theory problem, and it just might siphon off votes that could aid its cause. In an illustration of the fallout from Donald Trump’s “Stop the Steal” lie that the 2020 presidential election was stolen from him,"
-    publishedDateTime: 2021-08-27T17:00:00Z
-    webUrl: "https://www.sfchronicle.com/politics/article/Trump-inspired-conspiracies-about-voter-fraud-16415308.php"
-    ampWebUrl: "https://www.sfchronicle.com/politics/amp/Trump-inspired-conspiracies-about-voter-fraud-16415308.php"
-    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/politics/amp/Trump-inspired-conspiracies-about-voter-fraud-16415308.php"
+  - title: "Kent lands endorsement from former President Trump in congressional campaign"
+    excerpt: "Joe Kent has added one of the biggest potential Republican endorsements to his campaign to take Jaime Herrera Beutler's seat in the House of Representatives: President Donald Trump."
+    publishedDateTime: 2021-09-02T00:15:00Z
+    webUrl: "https://tdn.com/news/local/govt-and-politics/kent-lands-endorsement-from-former-president-trump-in-congressional-campaign/article_97c2b1ff-101d-565d-b6d7-b79c0a965ebf.html"
     type: article
     provider:
-      name: San Francisco Chronicle
-      domain: sfchronicle.com
-    quality: 50
+      name: The Daily News
+      domain: tdn.com
+    quality: 52
     images:
-      - url: "https://s.hdnux.com/photos/01/21/50/21/21398598/3/400x0.jpg"
-        width: 400
-        height: 300
+      - url: "https://bloximages.chicago2.vip.townnews.com/tdn.com/content/tncms/custom/image/3f2525f4-c54d-11ea-acb2-93abb9ea72c7.jpg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Biden Calls Top Court Ruling on Texas Abortion Ban 'Unprecedented Assault' on Women's Rights"
-    excerpt: "President Joe Biden on Thursday said the U.S. Supreme Court's ruling on Texas' abortion ban \"is an unprecedented assault on a woman's constitutional rights,\" after the top court allowed the law to remain in place."
-    publishedDateTime: 2021-09-02T15:42:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2021-09-02/biden-calls-top-court-ruling-on-texas-abortion-ban-unprecedented-assault-on-womens-rights"
+  - title: "Trump Backs Challenger to Third House Republican Who Voted to Impeach"
+    excerpt: "Former President Donald Trump on Tuesday endorsed Michigan state lawmaker Steve Carra's bid to unseat U.S. Representative Fred Upton, his third endorsement of a challenger to a Republican who voted to impeach him on a charge of sparking the Capitol riot."
+    publishedDateTime: 2021-09-07T19:34:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-09-07/trump-backs-challenger-to-third-house-republican-who-voted-to-impeach"
     type: article
     provider:
       name: U.S. News & World Report
       domain: usnews.com
-    quality: 24
+    quality: 35
 
 secured: "aGEPkbGH4YVUkaIH3O8BnsujnukivaSGVpPHpqqZM8pCPgaGHiBIHIAPhOtWHkpj7hvAoJrxleXjW3OZ9TKch0FRdlpL+Mirym9RuuaECMS4PAyIw+xw+RV2NB1A6VagzBqidgjiqZXoCnFlnMZwClrl+HN9erE0JYISN5qbFfvaDbTm5PJyCDKhPu2IUvd1neLnDGAd4RA3UFMBzgmU64Vdb2/hQJZYwlVPJTwHERne8RuU+HN+lWQQHsTdajdhi3lC3cOY9TFUavU4xulUJZqtr9xIw/1eqMlvZ2a2WvKIWEbtTdksydQFYzf073LV3yN89dg36cObLTfVOhoubRf3V32j/8yZ3Dz6T7bhCy4yfmkgAgnVA530sQ4r04vHwXbpo4aSWqVIm0ODob/4Qlgg0xk1bfUFMG7EZUUejNamcDZ8CDNmEx4PS61Gu2oGXmCxgzNKy8t5qKwP2+ZHazb4MeZAHt67Vu58hJlAU3bfTbzy8mnhX3ztJYTBnLvAkos6PHz+CBZP3W/3UV42vA==;XBzqTatXWUkrnYBDhiXYPA=="
 ---

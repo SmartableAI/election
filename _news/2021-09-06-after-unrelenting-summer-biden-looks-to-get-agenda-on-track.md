@@ -335,6 +335,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Jill Biden heads back to classroom as a working first lady"
+    excerpt: "After months of teaching writing and English to community college students in boxes on a computer screen, the first lady resumed teaching in person Tuesday from a classroom at Northern Virginia Community College,"
+    publishedDateTime: 2021-09-07T23:42:00Z
+    webUrl: "https://www.spokesman.com/stories/2021/sep/07/jill-biden-heads-back-to-classroom-as-a-working-fi/"
+    ampWebUrl: "https://www.spokesman.com/stories/2021/sep/07/jill-biden-heads-back-to-classroom-as-a-working-fi/?amp-content=amp"
+    cdnAmpWebUrl: "https://www-spokesman-com.cdn.ampproject.org/c/s/www.spokesman.com/stories/2021/sep/07/jill-biden-heads-back-to-classroom-as-a-working-fi/?amp-content=amp"
+    type: article
+    provider:
+      name: The Spokesman-Review
+      domain: spokesman.com
+    quality: 75
+    images:
+      - url: "https://thumb.spokesman.com/hNtRjLptDlZ4uBoikepHKTU_pCQ=/480x0/media.spokesman.com/photos/2021/09/07/6137f41150a50.hires.jpg"
+        width: 480
+        height: 320
+        isCached: true
   - title: "Lying Joe Biden, from comedy to tragedy"
     excerpt: "How could a comic figure from the world of politics such as President Joe Biden suddenly become such a tragic figure on the American scene?"
     publishedDateTime: 2021-09-07T19:18:00Z
@@ -691,6 +707,15 @@ related:
     excerpt: "Jill Biden is going back to her whiteboard. After months of teaching writing and English to community college students in boxes on a computer screen, the first lady resumes teaching in person Tuesday from"
     publishedDateTime: 2021-09-07T15:57:00Z
     webUrl: "https://lasvegassun.com/news/2021/sep/07/jill-biden-heads-back-to-classroom-as-a-working-fi/"
+    type: article
+    provider:
+      name: Las Vegas Sun
+      domain: lasvegassun.com
+    quality: 35
+  - title: "White House taps populist message as Biden pushes $3.5T plan"
+    excerpt: "The White House is preparing an urgent and populist message for selling President Joe Biden's $3.5 trillion “build back better” agenda, even as House committee leaders begin churning out pieces of the forthcoming measure."
+    publishedDateTime: 2021-09-08T01:23:00Z
+    webUrl: "https://lasvegassun.com/news/2021/sep/07/white-house-taps-populist-message-as-biden-pushes/"
     type: article
     provider:
       name: Las Vegas Sun

@@ -2,6 +2,120 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-07-09-your-world-on-biden-withdrawing-troops-florida-recovery-efforts.md",
+      "title": "'Your World' on Biden withdrawing troops, Florida recovery efforts",
+      "excerpt": "That seems to be a pretty poor messaging optic to get out of there, but, overall, to leave and withdraw the troops, it's the old cliche of just ripping off the Band-Aid. It has to be done. There's a lot of forces behind this that are slow-rolling it and that benefit monetarily and economically and geopolitically from us being there.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/transcript/your-world-on-biden-withdrawing-troops-florida-recovery-efforts",
+      "originalUrl": "https://www.foxnews.com/transcript/your-world-on-biden-withdrawing-troops-florida-recovery-efforts",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/36252476-19c9-4a59-a6d4-df7224b15714/53c54f86-6bf4-4bc5-a5bd-04fada55dcfd/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/transcript/your-world-on-biden-withdrawing-troops-florida-recovery-efforts.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/your-world-on-biden-withdrawing-troops-florida-recovery-efforts.amp",
+      "publishedDateTime": "2021-07-09T08:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-09-gov-kemp-blasts-kamala-harris-lies-about-georgia-voting-law-truth-is-on-our-side.md",
+      "title": "Gov. Kemp blasts Kamala Harris' lies about Georgia voting law: 'Truth is on our side'",
+      "excerpt": "Georgia Governor Brian Kemp defended his state's election laws after Vice President Kamala Harris announced a $25 million plan to combat Republican legislation on voting requirements.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/georgia-gov-kemp-kamala-harris-target-gop-voting-laws",
+      "originalUrl": "https://www.foxnews.com/media/georgia-gov-kemp-kamala-harris-target-gop-voting-laws",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 128,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/be18983e-102b-4a83-a0ab-6ce22e463732/428d02d3-ffd3-47d9-8a16-654ed62d1101/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/georgia-gov-kemp-kamala-harris-target-gop-voting-laws.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/georgia-gov-kemp-kamala-harris-target-gop-voting-laws.amp",
+      "publishedDateTime": "2021-07-09T07:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-08-biden-changes-end-of-us-combat-mission-in-afghanistan-from-sept-11-to-aug-31.md",
       "title": "Biden changes end of US combat mission in Afghanistan from Sept. 11 to Aug. 31",
       "excerpt": "President Biden said U.S. troops will be out of Afghanistan sooner than his original Sept. 11 deadline, telling reporters Thursday U.S. forces will be home by Aug. 31. ",
@@ -1486,119 +1600,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/trump-adviser-jason-miller-to-launch-gettr-a-cancel-free-social-media-platform.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-adviser-jason-miller-to-launch-gettr-a-cancel-free-social-media-platform.amp",
       "publishedDateTime": "2021-07-01T12:11:06-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-02-meghan-mccain-pans-leaker-on-kamala-harris-staff-running-to-politico-like-a-little-b-ch.md",
-      "title": "Meghan McCain pans leaker on Kamala Harris' staff: 'Running to Politico like a little b--ch'",
-      "excerpt": "\"The View\" co-host Meghan McCain flamed the anonymous leaker responsible for claims of internal tensions amongst Vice President Kamala Harris' staff, which were originally reported by Politico on Wednesday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/meghan-mccain-leaker-kamala-harris-staff-running-politico-little-bitch",
-      "originalUrl": "https://www.foxnews.com/media/meghan-mccain-leaker-kamala-harris-staff-running-politico-little-bitch",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a1119a04-143c-41cc-9e55-a99b4305cc0c/b4135bd6-3dfd-4823-b239-5ae6d4917de2/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/meghan-mccain-leaker-kamala-harris-staff-running-politico-little-bitch.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/meghan-mccain-leaker-kamala-harris-staff-running-politico-little-bitch.amp",
-      "publishedDateTime": "2021-07-01T11:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-01-aclu-sues-biden-administration-to-block-transfers-of-ice-detainees.md",
-      "title": "ACLU sues Biden administration to block transfers of ICE detainees",
-      "excerpt": "The American Civil Liberties Union (ACLU) on Wednesday filed a lawsuit against the Biden administration seeking to block the long-distance transfer of illegal immigrants detained by Immigration and Customs Enforcement (ICE) in New Jersey.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/JnlEsEXIhIQ/aclu-sues-biden-block-transfers-ice-detainees",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/JnlEsEXIhIQ/aclu-sues-biden-block-transfers-ice-detainees",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 595,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c6375586-3e83-4636-8ad5-44e5a66303f1/f9483464-7aa5-44ec-91d5-1ce72f513f88/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/aclu-sues-biden-block-transfers-ice-detainees.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aclu-sues-biden-block-transfers-ice-detainees.amp",
-      "publishedDateTime": "2021-07-01T08:07:23-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

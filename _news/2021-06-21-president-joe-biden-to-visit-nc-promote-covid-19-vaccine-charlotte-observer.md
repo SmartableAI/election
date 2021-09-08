@@ -397,6 +397,20 @@ related:
         width: 650
         height: 433
         isCached: true
+  - title: "President Biden Arrives at the White House After Viewing Hurricane Ida Damage"
+    excerpt: "U.S. President Joe Biden arrives at the White House via Marine One on Tuesday September 7, 2021 in Washington, DC. Biden traveled to New Jersey and New York to tour areas effected by Hurricane Ida and meet with local leaders."
+    publishedDateTime: 2021-09-07T23:19:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/d274bc235e06247ad6625e987b20986c/President-Biden-Arrives-at-the-White-House-After-Viewing-Hurricane-Ida-Damage/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 52
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/d274bc235e06247ad6625e987b20986c/BIDEN-HURRICANE-IDA.jpg"
+        width: 650
+        height: 433
+        isCached: true
   - title: "Ohio’s Sen. Rob Portman discusses the road ahead for the infrastructure deal he helped negotiate with President Joe Biden"
     excerpt: "\"This is a truly bipartisan effort that is good for the country and good for the American people in every respect,\" said Portman"
     publishedDateTime: 2021-06-30T21:44:00Z

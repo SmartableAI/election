@@ -2,6 +2,119 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-07-02-meghan-mccain-pans-leaker-on-kamala-harris-staff-running-to-politico-like-a-little-b-ch.md",
+      "title": "Meghan McCain pans leaker on Kamala Harris' staff: 'Running to Politico like a little b--ch'",
+      "excerpt": "\"The View\" co-host Meghan McCain flamed the anonymous leaker responsible for claims of internal tensions amongst Vice President Kamala Harris' staff, which were originally reported by Politico on Wednesday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/meghan-mccain-leaker-kamala-harris-staff-running-politico-little-bitch",
+      "originalUrl": "https://www.foxnews.com/media/meghan-mccain-leaker-kamala-harris-staff-running-politico-little-bitch",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a1119a04-143c-41cc-9e55-a99b4305cc0c/b4135bd6-3dfd-4823-b239-5ae6d4917de2/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/meghan-mccain-leaker-kamala-harris-staff-running-politico-little-bitch.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/meghan-mccain-leaker-kamala-harris-staff-running-politico-little-bitch.amp",
+      "publishedDateTime": "2021-07-01T11:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-01-aclu-sues-biden-administration-to-block-transfers-of-ice-detainees.md",
+      "title": "ACLU sues Biden administration to block transfers of ICE detainees",
+      "excerpt": "The American Civil Liberties Union (ACLU) on Wednesday filed a lawsuit against the Biden administration seeking to block the long-distance transfer of illegal immigrants detained by Immigration and Customs Enforcement (ICE) in New Jersey.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/JnlEsEXIhIQ/aclu-sues-biden-block-transfers-ice-detainees",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/JnlEsEXIhIQ/aclu-sues-biden-block-transfers-ice-detainees",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 595,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c6375586-3e83-4636-8ad5-44e5a66303f1/f9483464-7aa5-44ec-91d5-1ce72f513f88/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/aclu-sues-biden-block-transfers-ice-detainees.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aclu-sues-biden-block-transfers-ice-detainees.amp",
+      "publishedDateTime": "2021-07-01T08:07:23-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-01-gop-house-hopefuls-come-out-swinging-at-vulnerable-dems-retire-nancy-pelosi-put-a-check-on-joe-biden.md",
       "title": "GOP House hopefuls come out swinging at vulnerable Dems: 'Retire Nancy Pelosi,' 'Put a check on Joe Biden'",
       "excerpt": "Two new Republican challengers eying vulnerable Democratic House members are announcing their candidacies Thursday morning.",
@@ -1538,120 +1651,6 @@
       "ampWebUrl": "https://www.foxnews.com/media/kamala-harris-liberal-media-propaganda-tammy-bruce.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/kamala-harris-liberal-media-propaganda-tammy-bruce.amp",
       "publishedDateTime": "2021-06-25T10:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-25-congress-restores-pre-trump-era-methane-gas-emissions-standards.md",
-      "title": "Congress Restores Pre-Trump Era Methane-Gas Emissions Standards",
-      "excerpt": "President Biden is expected to sign the measure, which would mark one of the first major federal actions toward reaching his goal of cutting U.S. emissions from their 2005 level in half within the decade.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/congress-restores-pre-trump-era-methane-gas-emissions-standards-11624634101",
-      "originalUrl": "https://www.wsj.com/articles/congress-restores-pre-trump-era-methane-gas-emissions-standards-11624634101",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-359652/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/congress-restores-pre-trump-era-methane-gas-emissions-standards-11624634101",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/congress-restores-pre-trump-era-methane-gas-emissions-standards-11624634101",
-      "publishedDateTime": "2021-06-25T07:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-25-nbc-reporter-to-kamala-harris-husband-are-attacks-on-her-motivated-by-her-race-or-sex.md",
-      "title": "NBC reporter to Kamala Harris' husband: Are attacks on her motivated by her race or sex?",
-      "excerpt": "NBC White House correspondent Peter Alexander caught flak Thursday for asking Second Gentleman Douglas Emhoff if Republican criticisms of his wife, Vice President Kamala Harris, were motivated by racism or sexism.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/nbc-reporter-to-kamala-harris-husband-motivated-race-sex",
-      "originalUrl": "https://www.foxnews.com/media/nbc-reporter-to-kamala-harris-husband-motivated-race-sex",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 146,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ad72c4da-8a99-401d-9171-f6eb09076278/70f38fe0-04e0-46b1-a998-fd5eeb4e9e80/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/nbc-reporter-to-kamala-harris-husband-motivated-race-sex.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/nbc-reporter-to-kamala-harris-husband-motivated-race-sex.amp",
-      "publishedDateTime": "2021-06-24T13:27:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

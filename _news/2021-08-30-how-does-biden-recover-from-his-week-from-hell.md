@@ -336,6 +336,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden administration adjusts processing guidance for Afghan children arriving without a parent"
+    excerpt: "The Biden administration is adjusting guidance for Afghan children who arrived in the US without a parent to allow them to stay with the adult they traveled with, according to guidance obtained by CNN.\n    \n"
+    publishedDateTime: 2021-09-07T21:37:32Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/TaXKco4TZSA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/09/07/politics/afghan-children-guidance/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/09/07/politics/afghan-children-guidance/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 163
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210831161620-biden-afghanistan-presser-0831-video-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden's first August as president shreds his momentum, tosses daunting new challenges in his path"
     excerpt: "President Joe Biden tried twice last month to get to his beach house on the Delaware coast. He never made it.\n    \n"
     publishedDateTime: 2021-09-01T11:33:49Z
@@ -477,6 +493,22 @@ related:
     quality: 135
     images:
       - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_08/1628427876601_mtp_clip_a2_210808_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Video shows unruly passenger growling, screaming 'Joe Biden' on American Airlines flight"
+    excerpt: "Timothy Armstrong, 61, of Las Vegas, was cited for public intoxication and disorderly conduct on the flight from Los Angeles to Salt Lake City, police said."
+    publishedDateTime: 2021-09-07T19:24:00Z
+    webUrl: "https://www.nbcnews.com/news/us-news/video-shows-unruly-passenger-growling-screaming-joe-biden-american-airlines-n1278623"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1278623"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1278623"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 126
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_09/f_mo_unruly_plane_210907-5jvmrs.jpg"
         width: 1920
         height: 1080
         isCached: true

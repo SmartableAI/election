@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Biden to travel to California ‘early next week’ to campaign for Gov. Newsom ahead of recall vote"
-excerpt: "Biden’s visit would come in the final hours of an election in which most of the voting is expected to be done by mail."
-publishedDateTime: 2021-09-07T17:49:00Z
-originalUrl: "https://www.ocregister.com/2021/09/07/biden-to-travel-to-california-early-next-week-to-campaign-for-gov-newsom-ahead-of-recall-vote"
-webUrl: "https://www.ocregister.com/2021/09/07/biden-to-travel-to-california-early-next-week-to-campaign-for-gov-newsom-ahead-of-recall-vote"
-ampWebUrl: "https://www.ocregister.com/2021/09/07/biden-to-travel-to-california-early-next-week-to-campaign-for-gov-newsom-ahead-of-recall-vote/amp/"
-cdnAmpWebUrl: "https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2021/09/07/biden-to-travel-to-california-early-next-week-to-campaign-for-gov-newsom-ahead-of-recall-vote/amp/"
+excerpt: "Newsom is attempting to stave off a Republican-backed effort to oust him, which is motivated in part by anger toward his pandemic restrictions. Biden’s visit would come in the final hours of"
+publishedDateTime: 2021-09-07T23:38:00Z
+originalUrl: "https://www.mercurynews.com/2021/09/07/biden-to-travel-to-california-early-next-week-to-campaign-for-gov-newsom-ahead-of-recall-vote/"
+webUrl: "https://www.mercurynews.com/2021/09/07/biden-to-travel-to-california-early-next-week-to-campaign-for-gov-newsom-ahead-of-recall-vote/"
+ampWebUrl: "https://www.mercurynews.com/2021/09/07/biden-to-travel-to-california-early-next-week-to-campaign-for-gov-newsom-ahead-of-recall-vote/amp/"
+cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/09/07/biden-to-travel-to-california-early-next-week-to-campaign-for-gov-newsom-ahead-of-recall-vote/amp/"
 type: article
 quality: 62
 heat: -1
 published: false
 
 provider:
-  name: Orange County Register
-  domain: ocregister.com
+  name: Mercury News
+  domain: mercurynews.com
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://www.ocregister.com/wp-content/uploads/2021/09/hypatia-h_445738d11f947fa702d582d2258d89fe-h_9dc4f292e4652abd89a22192843dbeb5.jpg?w=1024&#038;h=682"
+  - url: "https://www.mercurynews.com/wp-content/uploads/2021/09/hypatia-h_445738d11f947fa702d582d2258d89fe-h_9dc4f292e4652abd89a22192843dbeb5.jpg?w=1024&#038;h=683"
     width: 1024
-    height: 682
+    height: 683
     isCached: true
 
 related:
@@ -126,6 +126,6 @@ related:
         height: 800
         isCached: true
 
-secured: "Zgz45nl0O9kikEBO90DNsHXgBURCRw/zxNU7zrzB/OEobia3JF8R4Tp5d70m6uOj/O2MB+6p3HnB9gyRZ8xLp52mwzYg3JjCjl1CcxqJNbjO/xAUwJ9v+qL3WNvP3ypo95aSJNxze3V0bAM7gNs5KW5lufQNuSxaJS0paa/HnMQMk6eYRmWDN9PywGxJEw2cJzHz/YukKo31c5TwtDxp8VZGlIpcQ7+iFlCJXQQJ+tq4+tpmkN8x/xDfaiWRS+LWbyvygeSodulTDZUQlkAXNFB/7MtfQqBq/KND1gONFYZld24ZSH6JjsKRDUHQl9Z1Yr0oZtqhcTSQl1dVU/9eFtUeFiGZXyMgt2MG707joQw=;7eO2+ksK5ne3At23JnFjXA=="
+secured: "NXXNRbnwIaRV7KQyHX/osOIv+w9ZnI03pCY6a1P/X/IcFQ/51n9FgeGlGDBCGZVLw0RQfx9iZXT8g+oqSiKvOf9vEhGpcQCppXL0MSs6V5ClEAFW7U5Ym0ax5a4nVbDaxINhuFeWOlNKB6iLgWSuaGNAD9BOXDZ9mSkuB8N7RiXdAohHr0rzMNH/mDWkchs+mVROYWAvXyVpEnKAuThlWK0Zh2xbrNOP3ptT2eVv7KZ3jUN0Okx8fh6BUZ8IMOye7ay8alEUrxMKCf3tjYMjkHN6AaKUFn3YnvCOqTKl60pUfPGzL5JDg+AOMlmN36DKKsjrz1C1jypDS6Fu/IwYNE/02BoVDj438iOKR8Hb3DQ=;QrkZqQErnoIYbFOHmpLxtg=="
 ---
 

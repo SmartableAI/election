@@ -2,6 +2,118 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2021-06-01-biden-seemingly-blasts-sinema-manchin-for-voting-more-with-my-republican-friends.md",
+      "title": "Biden seemingly blasts Sinema, Manchin for 'voting more with my Republican friends'",
+      "excerpt": "President Biden laid blame on two Democratic senators for not passing voting rights legislation while speaking in Tulsa, Okla. on Tuesday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/KkNJroQDveg/biden-sinema-manchin-voting-republicans",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/KkNJroQDveg/biden-sinema-manchin-voting-republicans",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7c819f4d-29e3-40e1-a5eb-928bef64e622/7b993a18-9673-4ecf-a637-462dd7d51236/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-sinema-manchin-voting-republicans.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-sinema-manchin-voting-republicans.amp",
+      "publishedDateTime": "2021-06-01T16:41:26-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-01-doj-seeks-dismissal-of-case-by-aclu-blm-against-trump-barr-for-clearing-lafayette-park.md",
+      "title": "DOJ seeks dismissal of case by ACLU, BLM against Trump, Barr for clearing Lafayette Park",
+      "excerpt": "Tuesday marks one year since the controversial clearing of Lafayette Square protesters before President Trump visited St. John’s Church, and Department of Justice (DOJ) lawyers have requested a federal judge toss out cases against former President Trump, former Attorney General Bill Barr and other Trump-era",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-4QeX3236BY/doj-dismissal-aclu-blm-trump-barr-clearing-lafayette-park",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-4QeX3236BY/doj-dismissal-aclu-blm-trump-barr-clearing-lafayette-park",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 226,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/720/405/Lafayette-Park.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/doj-dismissal-aclu-blm-trump-barr-clearing-lafayette-park.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/doj-dismissal-aclu-blm-trump-barr-clearing-lafayette-park.amp",
+      "publishedDateTime": "2021-06-01T14:20:56-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-01-house-conservatives-slam-bidens-pathway-to-bankruptcy-budget-showcase-separate-plan-for-fiscal-stability.md",
       "title": "House conservatives slam Biden's 'Pathway to Bankruptcy' budget, showcase separate plan for 'fiscal stability'",
       "excerpt": "EXCLUSIVE: The largest House conservative caucus is releasing a new playbook to fight back against President Biden's $6 trillion budget proposal, calling out provisions on abortion, tax hikes and expanding the \"welfare state.\"",
@@ -1558,102 +1670,6 @@
         "Election",
         "Republican Voice",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-05-26-trump-it-was-obvious-to-smart-people-covid-came-from-wuhan-lab.md",
-      "title": "Trump: ‘It was obvious to smart people’ COVID came from Wuhan lab",
-      "excerpt": "Former President Donald Trump claimed in a Newsmax interview that “it was obvious to smart people” that COVID-19 emerged from a lab in the Chinese city of Wuhan.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/05/25/trump-it-was-obvious-to-smart-people-covid-came-from-wuhan-lab/",
-      "originalUrl": "https://nypost.com/2021/05/25/trump-it-was-obvious-to-smart-people-covid-came-from-wuhan-lab/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/05/trump-wuhan-index.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/05/25/trump-it-was-obvious-to-smart-people-covid-came-from-wuhan-lab/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/25/trump-it-was-obvious-to-smart-people-covid-came-from-wuhan-lab/amp/",
-      "publishedDateTime": "2021-05-25T20:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-26-trump-blasts-reported-grand-jury-says-part-of-greatest-witch-hunt.md",
-      "title": "Trump blasts reported grand jury, says part of ‘greatest Witch Hunt’",
-      "excerpt": "The 45th president claimed the grand jury probe is an extension of the Russia investigation that plagued his administration for two years.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/05/25/trump-blasts-reported-grand-jury-part-of-greatest-witch-hunt/",
-      "originalUrl": "https://nypost.com/2021/05/25/trump-blasts-reported-grand-jury-part-of-greatest-witch-hunt/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/05/trump-legal-troubles-524.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/05/25/trump-blasts-reported-grand-jury-part-of-greatest-witch-hunt/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/25/trump-blasts-reported-grand-jury-part-of-greatest-witch-hunt/amp/",
-      "publishedDateTime": "2021-05-25T18:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     }
   ],

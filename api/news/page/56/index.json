@@ -2,6 +2,174 @@
   "page": 56,
   "value": [
     {
+      "path": "_news/2021-05-13-aoc-criticizes-biden-statement-of-support-for-israel-as-siding-with-occupation.md",
+      "title": "AOC criticizes Biden statement of support for Israel as siding with 'occupation'",
+      "excerpt": "U.S. Rep. Alexandria Ocasio-Cortez, D-N.Y., criticized President Biden over his Wednesday statement of support for Israel amid escalating violence with Hamas, claiming he gave little context for what stoked the tensions and was consequently “siding with occupation.”",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/wNI60u2TCG4/aoc-criticizes-biden-statement-of-support-for-israel-as-sideing-with-occupation",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/wNI60u2TCG4/aoc-criticizes-biden-statement-of-support-for-israel-as-sideing-with-occupation",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 210,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/10fce050-6dfa-430f-9d44-b46217b4aa55/8e11a4a9-96be-45e4-b6f4-6430454f1d93/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/aoc-criticizes-biden-statement-of-support-for-israel-as-sideing-with-occupation.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aoc-criticizes-biden-statement-of-support-for-israel-as-sideing-with-occupation.amp",
+      "publishedDateTime": "2021-05-12T22:10:05-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-13-ex-wh-counsel-mcgahn-to-testify-behind-closed-doors-about-trump-efforts-to-obstruct-russia-investigation.md",
+      "title": "Ex-WH counsel McGahn to testify behind closed doors about Trump efforts to obstruct Russia investigation",
+      "excerpt": "Former Trump White House counsel Don McGahn will testify before the House Judiciary Committee behind closed doors about then-President Donald Trump's attempts to obstruct the Russia investigation, the House and the Justice Department announced in a court filing Wednesday night.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5d3bRlEiH-Y/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5d3bRlEiH-Y/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 158,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/170519173358-don-mcgahn-2-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/12/politics/don-mcgahn-house-testimony/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/12/politics/don-mcgahn-house-testimony/index.html",
+      "publishedDateTime": "2021-05-12T18:59:15-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-13-anti-trump-former-gop-officials-readying-threat-to-start-a-third-party-report.md",
+      "title": "Anti-Trump former GOP officials readying threat to start a third party: report",
+      "excerpt": "A group of 100 former Republican officials reportedly will release a letter this week threatening to create a third party if the GOP does not change its course and break from former President Trump.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/tpx6Z_QJWCc/100-former-gop-officials-form-third-party",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/tpx6Z_QJWCc/100-former-gop-officials-form-third-party",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 231,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/720/405/AP20334644546013-e1606925054815.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/100-former-gop-officials-form-third-party.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/100-former-gop-officials-form-third-party.amp",
+      "publishedDateTime": "2021-05-12T17:31:02-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-05-12-biden-calls-netanyahu-says-israel-has-right-to-defend-itself-against-hamas-rockets.md",
       "title": "Biden calls Netanyahu, says Israel ‘has right to defend itself’ against Hamas rockets",
       "excerpt": "President Biden on Wednesday spoke with Prime Minister Benjamin Netanyahu to reaffirm U.S. support for Israel after a night of bloodshed with civilians in Tel Aviv sheltering from Hamas rockets.",
@@ -1183,166 +1351,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-11-ap-source-biden-to-tap-rahm-emanuel-for-ambassador-to-japan.md",
-      "title": "AP source: Biden to tap Rahm Emanuel for ambassador to Japan",
-      "excerpt": "President Joe Biden is expected to nominate former Chicago Mayor Rahm Emanuel to serve as the U.S. ambassador to Japan",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/ap-source-biden-to-tap-rahm-emanuel-for-ambassador-to-japan/2021/05/11/436b9316-b276-11eb-bc96-fdf55de43bef_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/ap-source-biden-to-tap-rahm-emanuel-for-ambassador-to-japan/2021/05/11/436b9316-b276-11eb-bc96-fdf55de43bef_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 245,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6RMFI2FSOQI6XPEW7X2V3ZB354.jpg&w=1440",
-          "width": 1440,
-          "height": 890,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/ap-source-biden-to-tap-rahm-emanuel-for-ambassador-to-japan/2021/05/11/436b9316-b276-11eb-bc96-fdf55de43bef_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/ap-source-biden-to-tap-rahm-emanuel-for-ambassador-to-japan/2021/05/11/436b9316-b276-11eb-bc96-fdf55de43bef_story.html?outputType=amp",
-      "publishedDateTime": "2021-05-11T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-05-11-biden-administration-is-open-to-sharing-coronavirus-vaccines-with-north-korea.md",
-      "title": "Biden administration is open to sharing coronavirus vaccines with North Korea",
-      "excerpt": "The Biden administration is open to sharing coronavirus vaccines and other humanitarian assistance to help North Korea combat the deadly pandemic, according to two sources familiar with internal discussions.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/z9CM_hlC2Go/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/z9CM_hlC2Go/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 232,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210505110405-file-pfizer-covid-19-vaccine-canada-december-2020-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/11/politics/us-coronavirus-vaccines-north-korea/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/11/politics/us-coronavirus-vaccines-north-korea/index.html",
-      "publishedDateTime": "2021-05-11T02:09:11-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-11-british-elections-send-a-message-to-trump-gop-and-bidens-democrats.md",
-      "title": "British elections send a message to Trump, GOP and Biden’s Democrats",
-      "excerpt": "If Donald Trump were at all self-reflective, he would probably be kicking himself right now as he surveys the results of last week’s British elections. Through his own mistakes and obstinance in his handling of the coronavirus pandemic,",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/british-elections-send-a-message-to-trump-gop-and-bidens-democrats/2021/05/10/40b7beec-b1d6-11eb-9059-d8176b9e3798_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/british-elections-send-a-message-to-trump-gop-and-bidens-democrats/2021/05/10/40b7beec-b1d6-11eb-9059-d8176b9e3798_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 1495,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WSYQ6HFR7QI6XECZ3ALWXHRXTA.jpg&w=1440",
-          "width": 1440,
-          "height": 934,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/british-elections-send-a-message-to-trump-gop-and-bidens-democrats/2021/05/10/40b7beec-b1d6-11eb-9059-d8176b9e3798_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/british-elections-send-a-message-to-trump-gop-and-bidens-democrats/2021/05/10/40b7beec-b1d6-11eb-9059-d8176b9e3798_story.html?outputType=amp",
-      "publishedDateTime": "2021-05-11T02:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

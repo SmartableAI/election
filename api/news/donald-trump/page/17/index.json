@@ -2,6 +2,162 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2021-05-02-trump-is-fixated-and-talks-constantly-about-arizona-election-recount-allies-say.md",
+      "title": "Trump is 'fixated' and talks 'constantly' about Arizona election recount, allies say",
+      "excerpt": "Trump asks aides multiple times a day about the vote recount that is currently underway in Maricopa County, according to The Washington Post.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/donald-trump-is-fixated-on-arizona-election-recount-allies-say-2021-5",
+      "originalUrl": "https://www.businessinsider.com/donald-trump-is-fixated-on-arizona-election-recount-allies-say-2021-5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 153,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/608d156434af8d001859a6a3?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/donald-trump-is-fixated-on-arizona-election-recount-allies-say-2021-5?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/donald-trump-is-fixated-on-arizona-election-recount-allies-say-2021-5?amp",
+      "publishedDateTime": "2021-05-01T10:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-05-01-watch-trump-bid-farewell-to-mar-a-lago-members-for-the-summer-after-yet-another-speech-about-the-rigged-election.md",
+      "title": "Watch Trump bid farewell to Mar-a-Lago members for the summer after yet another speech about the 'rigged' election",
+      "excerpt": "Former President Donald Trump is planning to move his political operation to New Jersey for the summer.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/watch-trump-farewell-mar-a-lago-new-jersey-election-rigged-2021-5",
+      "originalUrl": "https://www.businessinsider.com/watch-trump-farewell-mar-a-lago-new-jersey-election-rigged-2021-5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/608d76c834af8d001859a6d9?width=1200&format=jpeg",
+          "width": 762,
+          "height": 381,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/watch-trump-farewell-mar-a-lago-new-jersey-election-rigged-2021-5?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/watch-trump-farewell-mar-a-lago-new-jersey-election-rigged-2021-5?amp",
+      "publishedDateTime": "2021-05-01T09:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-05-01-president-trump-fires-fbi-director-james-comey.md",
+      "title": "President Trump fires FBI Director James Comey",
+      "excerpt": "President Trump has fired FBI Director James Comey, which is only the second time an FBI director has been fired. CBSN contributor and Time politcal reporter Zeke Miller spoke with CBSN about Comey's dismissal.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/video/president-trump-fires-fbi-director-james-comey-1/",
+      "originalUrl": "https://www.cbsnews.com/video/president-trump-fires-fbi-director-james-comey-1/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 185,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews3.cbsistatic.com/hub/i/r/2021/04/30/b375bccc-a264-4c3b-ba0a-9230d2206ffe/thumbnail/1200x630/ef4b250acb1ae3e7891c9eedf19255c9/0509-cbsn-vhd-1312519-640x360.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/video/president-trump-fires-fbi-director-james-comey-1/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/president-trump-fires-fbi-director-james-comey-1/",
+      "publishedDateTime": "2021-04-30T14:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-04-30-paul-ryan-trump-debate-will-fade-as-new-candidates-emerge.md",
       "title": "Paul Ryan: Trump debate will fade as new candidates emerge",
       "excerpt": "Nearly six months after the presidential election, Republicans remain divided over former President Donald Trump",
@@ -1413,172 +1569,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-04-21-brian-sicknick-death-ruling-debunks-media-narrative-that-fueled-second-trump-impeachment-hurt.md",
-      "title": "Brian Sicknick death ruling debunks media narrative that fueled second Trump impeachment: Hurt",
-      "excerpt": "The official ruling on the cause of U.S. Capitol Police officer Brian Sicknick's death debunks the media narrative upon which former President Donald Trump's second impeachment was largely predicated,",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/brian-sicknick-death-medical-examiner-charlie-hurt-reaction",
-      "originalUrl": "https://www.foxnews.com/media/brian-sicknick-death-medical-examiner-charlie-hurt-reaction",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/Brian-Sicknick-sharp.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/brian-sicknick-death-medical-examiner-charlie-hurt-reaction.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/brian-sicknick-death-medical-examiner-charlie-hurt-reaction.amp",
-      "publishedDateTime": "2021-04-20T13:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-21-durbin-wants-more-info-on-trump-appointees-burrowed-into-career-justice-dept-jobs.md",
-      "title": "Durbin wants more info on Trump appointees 'burrowed' into career Justice Dept. jobs",
-      "excerpt": "The Illinois senator, citing NBC News' reporting, requested info on Trump appointees who landed career civil service jobs at the Executive Office of Immigration Review.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/politics-news/durbin-wants-more-info-trump-appointees-burrowed-career-justice-dept-n1264671",
-      "originalUrl": "https://www.nbcnews.com/politics/politics-news/durbin-wants-more-info-trump-appointees-burrowed-career-justice-dept-n1264671",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 128,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media4.s-nbcnews.com/i/newscms/2021_16/3466278/210420-dick-durbin-jm-1306_d00a3138f4489653a7a5e7fcf1f1050f.jpg",
-          "width": 2500,
-          "height": 1666,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1264671",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1264671",
-      "publishedDateTime": "2021-04-20T12:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-21-steve-scalise-says-maxine-waters-wants-violent-protests-trump-urged-peaceful-dc-rally.md",
-      "title": "Steve Scalise Says Maxine Waters Wants 'Violent' Protests, Trump Urged Peaceful D.C. Rally",
-      "excerpt": "\"I haven't heard Maxine saying anything about people 'peacefully' protesting,\" said Louisiana GOP Rep. Scalise Tuesday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/steve-scalise-says-maxine-waters-wants-violent-protests-trump-urged-peaceful-dc-rally-1585107",
-      "originalUrl": "https://www.newsweek.com/steve-scalise-says-maxine-waters-wants-violent-protests-trump-urged-peaceful-dc-rally-1585107",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1780605/donald-trump-steve-scalise-insurrection.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/steve-scalise-says-maxine-waters-wants-violent-protests-trump-urged-peaceful-dc-rally-1585107?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/steve-scalise-says-maxine-waters-wants-violent-protests-trump-urged-peaceful-dc-rally-1585107?amp=1",
-      "publishedDateTime": "2021-04-20T10:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

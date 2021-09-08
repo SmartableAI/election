@@ -2,6 +2,163 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-06-26-pence-rebukes-trump-and-says-he-was-proud-to-certify-election-result.md",
+      "title": "Pence rebukes Trump and says he was ‘proud’ to certify election result",
+      "excerpt": "Former vice-president says he did his duty and takes aim at effort to overturn Biden victory, without mentioning Trump by name",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/jun/25/mike-pence-trump-capitol-attack-election-result",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/jun/25/mike-pence-trump-capitol-attack-election-result",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 1225,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/0ee4d84b4f601054dd1c4aff8d6cd328eac46d0c/0_104_2769_1662/master/2769.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=37852aa968c67d086cec272cbbf2c055",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/jun/25/mike-pence-trump-capitol-attack-election-result",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/25/mike-pence-trump-capitol-attack-election-result",
+      "publishedDateTime": "2021-06-25T13:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-06-26-trump-frequently-mocked-rudy-giuliani-called-him-pathetic-and-said-he-sucked-new-book-says.md",
+      "title": "Trump frequently mocked Rudy Giuliani, called him 'pathetic,' and said he 'sucked,' new book says",
+      "excerpt": "Trump berated and belittled Giuliani, while Giuliani craved Trump's attention and competed with other aides to sit next to him.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/trump-mocked-rudy-giuliani-called-him-pathetic-new-book-2021-6",
+      "originalUrl": "https://www.businessinsider.com/trump-mocked-rudy-giuliani-called-him-pathetic-new-book-2021-6",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/60d62256df1db80018f3a519?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/trump-mocked-rudy-giuliani-called-him-pathetic-new-book-2021-6?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-mocked-rudy-giuliani-called-him-pathetic-new-book-2021-6?amp",
+      "publishedDateTime": "2021-06-25T12:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-06-26-trump-organization-cfo-weisselberg-could-face-charges-in-da-probe.md",
+      "title": "Trump Organization, CFO Weisselberg could face charges in DA probe",
+      "excerpt": "Attorneys have told former President Donald Trump's lawyers that the Trump Organization and its CFO Allen Weisselberg could face charges as a result of the continuing probe by the Manhattan district a",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/administration/560262-trump-organization-chief-financial-officer-could-face-charges",
+      "originalUrl": "https://thehill.com/homenews/administration/560262-trump-organization-chief-financial-officer-could-face-charges",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 1465,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/trumps_weisselbergallen_01112017getty.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/administration/560262-trump-organization-chief-financial-officer-could-face-charges?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/560262-trump-organization-chief-financial-officer-could-face-charges?amp",
+      "publishedDateTime": "2021-06-25T10:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-06-25-congress-restores-pre-trump-era-methane-gas-emissions-standards.md",
       "title": "Congress Restores Pre-Trump Era Methane-Gas Emissions Standards",
       "excerpt": "President Biden is expected to sign the measure, which would mark one of the first major federal actions toward reaching his goal of cutting U.S. emissions from their 2005 level in half within the decade.",
@@ -1418,158 +1575,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-20-qanon-supporters-dismayed-at-donald-trumps-december-tour-with-bill-oreilly.md",
-      "title": "QAnon Supporters Dismayed at Donald Trump's December Tour With Bill O'Reilly",
-      "excerpt": "The conspiracy theorists come to the realization that Trump will not be president by end of the year if he is touring the country with former Fox News host.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/qanon-trump-december-dates-bill-oreilley-president-1602328",
-      "originalUrl": "https://www.newsweek.com/qanon-trump-december-dates-bill-oreilley-president-1602328",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 142,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1825858/donald-trump-december-qanon.jpg",
-          "width": 3565,
-          "height": 2259,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/qanon-trump-december-dates-bill-oreilley-president-1602328?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/qanon-trump-december-dates-bill-oreilley-president-1602328?amp=1",
-      "publishedDateTime": "2021-06-20T02:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-20-trump-backs-challenger-to-gop-sen-lisa-murkowski-who-voted-to-convict-him-in-second-impeachment-trial.md",
-      "title": "Trump backs challenger to GOP Sen. Lisa Murkowski, who voted to convict him in second impeachment trial",
-      "excerpt": "In a statement, Trump threw his support behind Kelly Tshibaka, the former state commissioner of administration, calling Murkowski \"bad for Alaska.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-backs-kelly-tshibaka-republican-challenger-lisa-murkowski-alaska-senate-2021-6",
-      "originalUrl": "https://www.businessinsider.com/trump-backs-kelly-tshibaka-republican-challenger-lisa-murkowski-alaska-senate-2021-6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/60ce34e53093db00197021b8?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trump-backs-kelly-tshibaka-republican-challenger-lisa-murkowski-alaska-senate-2021-6?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-backs-kelly-tshibaka-republican-challenger-lisa-murkowski-alaska-senate-2021-6?amp",
-      "publishedDateTime": "2021-06-19T16:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-20-trump-supporter-sues-town-for-25m-theyre-trying-to-silence-me.md",
-      "title": "Trump supporter sues town for $25M: ‘They’re trying to silence me’",
-      "excerpt": "Michael Wasserman wants to let his freedom fly — but his town of Long Beach, LI, isn’t having it. “I believe the city is trying to silence me because I’m pro-Trump,” he told The Post. The",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/06/19/trump-supporter-sues-town-for-25m-theyre-trying-to-silence-me/",
-      "originalUrl": "https://nypost.com/2021/06/19/trump-supporter-sues-town-for-25m-theyre-trying-to-silence-me/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/06/Wasserman-biden-flag-4.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/06/19/trump-supporter-sues-town-for-25m-theyre-trying-to-silence-me/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/19/trump-supporter-sues-town-for-25m-theyre-trying-to-silence-me/amp/",
-      "publishedDateTime": "2021-06-19T14:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     }
   ],

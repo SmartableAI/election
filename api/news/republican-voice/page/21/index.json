@@ -2,6 +2,118 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2021-04-17-biden-describes-border-surge-as-a-crisis-as-he-defends-refugee-moves.md",
+      "title": "Biden describes border surge as a ‘crisis’ as he defends refugee moves",
+      "excerpt": "President Biden on Saturday described the situation at the border as a “crisis” for the first time, as he defended his administration’s walkback on refugee policy a day earlier.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/c6AdPR2-6fU/biden-border-surge-crisis-defends-refugee-move",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/c6AdPR2-6fU/biden-border-surge-crisis-defends-refugee-move",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 355,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1ac25484-fac1-4ecf-b124-ea380a233327/cbcb9339-768d-4e2f-ac1a-33ebf8eab21e/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-border-surge-crisis-defends-refugee-move.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-border-surge-crisis-defends-refugee-move.amp",
+      "publishedDateTime": "2021-04-17T14:37:13-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-16-fox-nation-takes-a-look-at-taxes-how-trump-cuomo-and-the-rolling-stones-have-shaped-the-taxation-debate.md",
+      "title": "Fox Nation takes a look at taxes: How Trump, Cuomo and the Rolling Stones have shaped the taxation debate",
+      "excerpt": "In the fifth, and final, episode of Fox Nation's special \"An Unauthorized History of Taxes,\" anchor Bret Baier and his guest experts explore the contemporary state of taxation, and its cause-and-effect.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/GzptEPeQPZ0/fox-nation-takes-a-look-at-taxes-how-trump-cuomo-and-the-rolling-stones",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/GzptEPeQPZ0/fox-nation-takes-a-look-at-taxes-how-trump-cuomo-and-the-rolling-stones",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 178,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4bf88bfc-054a-4218-bd34-235119560599/e8d018ef-f1fd-47a8-af14-3b2e8bfb605b/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/fox-nation-takes-a-look-at-taxes-how-trump-cuomo-and-the-rolling-stones.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/fox-nation-takes-a-look-at-taxes-how-trump-cuomo-and-the-rolling-stones.amp",
+      "publishedDateTime": "2021-04-16T15:07:21-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-16-biden-says-us-japan-committed-to-working-together-on-challenges-from-china-north-korea.md",
       "title": "Biden says US, Japan 'committed to working together' on challenges from China, North Korea",
       "excerpt": "President Biden on Friday said he and Japanese Prime Minister Yoshihide Suga affirmed their “ironclad support” of the U.S.-Japanese alliance, saying the two nations committed to take on challenges posed by China and North Korea together to “ensure a future of a free and open Indo-Pacific.”",
@@ -1543,118 +1655,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/johnson-johnson-vaccine-pause-biden-covid-19-vaccine-plan.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/johnson-johnson-vaccine-pause-biden-covid-19-vaccine-plan.amp",
       "publishedDateTime": "2021-04-13T08:08:14-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-boehner-on-fox-friends-biden-infrastructure-bill-a-new-word-for-the-green-new-deal.md",
-      "title": "Boehner on 'Fox & Friends': Biden infrastructure bill a 'new word for the Green New Deal'",
-      "excerpt": "Former House Speaker John Boehner calls President Biden's infrastructure plan a 'new word for the Green New Deal' on 'Fox & Friends.'",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/H60vXvNBMUw/john-boehner-biden-infrastructure-bill-fox-friends",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/H60vXvNBMUw/john-boehner-biden-infrastructure-bill-fox-friends",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 166,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ab1bf457-1339-4a5f-8fb3-a11d1dae0812/872588d7-6f3d-4545-bcb4-715442d38b78/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/john-boehner-biden-infrastructure-bill-fox-friends.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/john-boehner-biden-infrastructure-bill-fox-friends.amp",
-      "publishedDateTime": "2021-04-13T07:56:58-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-south-dakotas-noem-asks-biden-to-reverse-ban-on-mount-rushmore-fireworks-display.md",
-      "title": "South Dakota's Noem asks Biden to reverse ban on Mount Rushmore fireworks display",
-      "excerpt": "South Dakota Gov. Kristi Noem sent a letter Tuesday requesting that President Biden reverse his administration's ban on an Independence Day fireworks celebration at Mount Rushmore this year, arguing doing so would be in keeping with an agreement the federal government made with her state last year.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/cHdhDa7JdB4/biden-mount-rushmore-fireworks-ban-south-dakota-noem",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/cHdhDa7JdB4/biden-mount-rushmore-fireworks-ban-south-dakota-noem",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 190,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/597cc29d-971d-4c45-bea4-94b1bb269ef7/b444c0d4-0e4f-4b88-b49d-d9a73622ebbb/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-mount-rushmore-fireworks-ban-south-dakota-noem.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-mount-rushmore-fireworks-ban-south-dakota-noem.amp",
-      "publishedDateTime": "2021-04-13T06:37:53-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

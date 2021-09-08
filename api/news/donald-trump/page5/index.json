@@ -2,6 +2,168 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-07-29-joe-bidens-motorcade-jeered-by-trump-supporters-during-pennsylvania-visit.md",
+      "title": "Joe Biden's Motorcade Jeered by Trump Supporters During Pennsylvania Visit",
+      "excerpt": "Supporters of former President Donald Trump yelled and jeered at President Joe Biden 's motorcade on Wednesday as it traveled through Pennsylvania's Lehigh Valley. A short video clip shared on social sites including Twitter and Gab shows a large group of people lining the route Biden's motorcade took and shouting at the cars as they pass.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/joe-biden-motorcade-jeered-trump-supporters-pennsylvania-1614258",
+      "originalUrl": "https://www.newsweek.com/joe-biden-motorcade-jeered-trump-supporters-pennsylvania-1614258",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 648,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1858183/president-joe-biden-speaks-macungie-pennsylvania.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/joe-biden-motorcade-jeered-trump-supporters-pennsylvania-1614258?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-motorcade-jeered-trump-supporters-pennsylvania-1614258?amp=1",
+      "publishedDateTime": "2021-07-29T08:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-07-29-charlie-kirks-pro-trump-youth-group-stokes-vaccine-resistance-as-covid-surges-again.md",
+      "title": "Charlie Kirk’s pro-Trump youth group stokes vaccine resistance as covid surges again",
+      "excerpt": "Charlie Kirk’s Turning Point USA and its affiliates are urging students to resist mandates and spreading baseless claims about “medical raids,” part of a bid for donations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/2021/07/29/vaccine-mandates-charlie-kirk-tpusa/",
+      "originalUrl": "https://www.washingtonpost.com/politics/2021/07/29/vaccine-mandates-charlie-kirk-tpusa/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 158,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TIVJHDHUOYI6VN4WFXIJSYTETQ.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-29T06:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-07-29-plan-to-honor-trump-with-banquet-becomes-flashpoint-at-one-of-americas-most-elite-golf-clubs.md",
+      "title": "Plan to honor Trump with banquet becomes flashpoint at one of America's most elite golf clubs",
+      "excerpt": "The former president has been a member of Winged Foot, one of the country's top golf clubs and host of the 2020 U.S. Open, for more than 50 years.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/politics-news/plans-honor-trump-roil-elite-golf-club-n1275130",
+      "originalUrl": "https://www.nbcnews.com/politics/politics-news/plans-honor-trump-roil-elite-golf-club-n1275130",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_30/3494391/210727-donald-trump-golf-course-jm-1049.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1275130",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1275130",
+      "publishedDateTime": "2021-07-28T17:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-29-jd-vance-rips-nyt-reporters-tweet-about-trump-voters-are-me-and-my-family-domestic-terrorists.md",
       "title": "JD Vance rips NYT reporter's tweet about Trump voters: ‘Are me and my family domestic terrorists?’",
       "excerpt": "Ohio Senate candidate J.D. Vance ripped into The New York Times’ Katie Benner on Wednesday after the reporter suggested in a tweet that Trump supporters should be considered 'enemies of the state' following the first day of testimony at the Jan.",
@@ -1379,158 +1541,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-22-pelosi-bars-trump-allies-from-jan-6-probe-gop-vows-boycott.md",
-      "title": "Pelosi bars Trump allies from Jan. 6 probe; GOP vows boycott",
-      "excerpt": "House Speaker Nancy Pelosi is rejecting two Republicans tapped by House GOP leader Kevin McCarthy to sit on a committee investigating the Jan. 6 Capitol insurrection",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/pelosi-bars-trump-allies-jan-probe-gop-vows-78983176",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/pelosi-bars-trump-allies-jan-probe-gop-vows-78983176",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 425,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/WireAP_08c0f3dbff9944a7a4a9f9fb80897461_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/pelosi-bars-trump-allies-jan-probe-gop-vows-78983176",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/pelosi-bars-trump-allies-jan-probe-gop-vows-78983176",
-      "publishedDateTime": "2021-07-21T21:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-22-trump-implores-gop-to-push-back-against-dems-35t-spending-spree.md",
-      "title": "Trump implores GOP to ‘push back’ against Dems’ $3.5T spending spree",
-      "excerpt": "Former President Donald Trump urged House Republicans Wednesday to block the Democrats’ $3.5 trillion budget resolution from passing the Senate after a $1.2 trillion bipartisan",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/07/21/trump-wants-gop-to-push-back-against-dems-3-5t-spending/",
-      "originalUrl": "https://nypost.com/2021/07/21/trump-wants-gop-to-push-back-against-dems-3-5t-spending/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/07/DonaldTrump.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/07/21/trump-wants-gop-to-push-back-against-dems-3-5t-spending/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/21/trump-wants-gop-to-push-back-against-dems-3-5t-spending/amp/",
-      "publishedDateTime": "2021-07-21T14:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-21-trump-liz-cheney-opponents-to-meet-with-him-pre-endorsement.md",
-      "title": "Trump: Liz Cheney opponents to meet with him pre-endorsement",
-      "excerpt": "Donald Trump says he will meet next week with Republicans running against Rep. Liz Cheney and endorse one in the next few months",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/trump-liz-cheney-opponents-meet-pre-endorsement-78955486",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/trump-liz-cheney-opponents-meet-pre-endorsement-78955486",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 205,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/WireAP_b37d921d72d742fd9d217beb767a21bb_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/trump-liz-cheney-opponents-meet-pre-endorsement-78955486",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-liz-cheney-opponents-meet-pre-endorsement-78955486",
-      "publishedDateTime": "2021-07-20T14:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

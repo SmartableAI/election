@@ -2,6 +2,158 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2021-04-08-donald-trump-is-not-too-queens-for-iowa.md",
+      "title": "Donald Trump is not “too Queens” for Iowa",
+      "excerpt": "CBS News Correspondent Julianna Goldman, Ed O'Keefe of the Washington Post, Mark Leibovich of The New York Times Magazine, and the Atlantic’s Jeffrey Goldberg discuss Trump’s newfound Iowa appeal.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/video/donald-trump-is-not-too-queens-for-iowa-1/",
+      "originalUrl": "https://www.cbsnews.com/video/donald-trump-is-not-too-queens-for-iowa-1/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2021/04/07/c1a68032-f68e-4bcd-ba4a-c86f3966bce4/thumbnail/1200x630/3c6d955cdc8e82a852c383f95c1b2883/ftn-panel3-0830-438452-640x360.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/video/donald-trump-is-not-too-queens-for-iowa-1/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/donald-trump-is-not-too-queens-for-iowa-1/",
+      "publishedDateTime": "2021-04-07T14:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-04-08-nasty-notes-left-for-trump-staffers-came-from-celebs-not-obama-aides-dave-chappelle-says.md",
+      "title": "Nasty notes left for Trump staffers came from celebs, not Obama aides, Dave Chappelle says",
+      "excerpt": "When former President Donald Trump first moved into the White House in January 2017, his staffers said they found nasty notes stuffed into the drawers and cabinets — a claim President Barack",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/04/07/notes-left-for-trump-staffers-came-from-celebs-dave-chappelle/",
+      "originalUrl": "https://nypost.com/2021/04/07/notes-left-for-trump-staffers-came-from-celebs-dave-chappelle/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/04/donald-trump-dave-chappelle.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/04/07/notes-left-for-trump-staffers-came-from-celebs-dave-chappelle/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/07/notes-left-for-trump-staffers-came-from-celebs-dave-chappelle/amp/",
+      "publishedDateTime": "2021-04-07T11:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-07-donald-trump-defends-matt-gaetz-denies-florida-congressman-asked-for-pardon.md",
+      "title": "Donald Trump Defends Matt Gaetz, Denies Florida Congressman Asked for Pardon",
+      "excerpt": "Former President Donald Trump has released a brief statement denying that GOP Representative Matt Gaetz of Florida solicited a pardon from him, while also offering a defense of the embattled congressman. \"Congressman Matt Gaetz has never asked me for a pardon.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/donald-trump-defends-matt-gaetz-denies-florida-congressman-asked-pardon-1581697",
+      "originalUrl": "https://www.newsweek.com/donald-trump-defends-matt-gaetz-denies-florida-congressman-asked-pardon-1581697",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 262,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1772657/matt-gaetz.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/donald-trump-defends-matt-gaetz-denies-florida-congressman-asked-pardon-1581697?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-defends-matt-gaetz-denies-florida-congressman-asked-pardon-1581697?amp=1",
+      "publishedDateTime": "2021-04-07T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-04-07-trump-slams-woke-mlb-in-tv-interview-claims-fans-giving-up-on-baseball.md",
       "title": "Trump slams 'woke' MLB in TV interview, claims fans 'giving up on baseball'",
       "excerpt": "In a TV interview on Tuesday, former President Trump expounded on his recent statements objecting to Major League Baseball's recent decision to move the All-Star Game out of Atlanta. The league's move was a reaction to Georgia's recently passed voting ...",
@@ -1426,167 +1578,6 @@
         "Election",
         "Mike Pence",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-04-01-chinese-sculptor-makes-trump-buddha-statues-orders-pour-in.md",
-      "title": "Chinese Sculptor Makes Trump Buddha Statues; Orders Pour In",
-      "excerpt": "The statue by furniture maker Hong Jinshi has Trump with his legs crossed, hands folded in his laps, thumbs pointing outwards.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/chinese-sculptor-makes-trump-buddha-statues-orders-pour-3173056",
-      "originalUrl": "https://www.ibtimes.com/chinese-sculptor-makes-trump-buddha-statues-orders-pour-3173056",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/25/us-president-donald-trump-during-a-february-16.jpg",
-          "width": 1024,
-          "height": 731,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/chinese-sculptor-makes-trump-buddha-statues-orders-pour-3173056?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/chinese-sculptor-makes-trump-buddha-statues-orders-pour-3173056?amp=1",
-      "publishedDateTime": "2021-04-01T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-04-01-rep-adam-kinzinger-raises-11-million-for-his-anti-trump-pac-in-first-quarter-and-an-equal-amount-for-his-reelection-fund.md",
-      "title": "Rep. Adam Kinzinger raises $1.1 million for his anti-Trump PAC in first quarter, and an equal amount for his reelection fund",
-      "excerpt": "U.S. Rep. Adam Kinzinger, one of 10 House Republicans who voted to impeach Trump, raises $1.1 million in the first quarter for his anti-Trump political action committee.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chicagotribune.com/politics/ct-adam-kinzinger-pac-finances-20210401-jhglluotk5hj3ezkydmxx2yzx4-story.html",
-      "originalUrl": "https://www.chicagotribune.com/politics/ct-adam-kinzinger-pac-finances-20210401-jhglluotk5hj3ezkydmxx2yzx4-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.chicagotribune.com/resizer/OC4YOxgHLTPntlyCk-6Obhq8MW4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/RUQJ3J5JPYQCBSSFXMQTABTKDM.aspx",
-          "width": 1200,
-          "height": 807,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.chicagotribune.com/politics/ct-adam-kinzinger-pac-finances-20210401-jhglluotk5hj3ezkydmxx2yzx4-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/politics/ct-adam-kinzinger-pac-finances-20210401-jhglluotk5hj3ezkydmxx2yzx4-story.html?outputType=amp",
-      "publishedDateTime": "2021-04-01T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chicago Tribune",
-        "domain": "chicagotribune.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-04-01-gaetz-runs-the-trump-playbook-for-scandal-keep-talking-and-talking.md",
-      "title": "Gaetz runs the Trump playbook for scandal: Keep talking, and talking",
-      "excerpt": "One thing the former president proved is that unless you're Donald Trump and sit in the White House, his strategy doesn't work as well.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2021/03/31/gaetz-trump-playbook-scandal-478740",
-      "originalUrl": "https://www.politico.com/news/2021/03/31/gaetz-trump-playbook-scandal-478740",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/0f/fa/d04271264dcea2393f58d534ba8d/210331-gaetz-getty-773.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/2021/03/31/gaetz-trump-playbook-scandal-478740",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/03/31/gaetz-trump-playbook-scandal-478740",
-      "publishedDateTime": "2021-03-31T14:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     }
   ],

@@ -27,6 +27,38 @@ images:
     isCached: true
 
 related:
+  - title: "Biden to visit areas of NYC, N.J. damaged by floods from Hurricane Ida"
+    excerpt: "President Joe Biden on Tuesday will visit New York City and multiple locations in New Jersey that were heavily damaged by major flooding and rains that killed dozens of people last week."
+    publishedDateTime: 2021-09-07T11:48:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2021/09/07/new-york-jersey-joe-biden-hurricane-ida/7121631012476/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/09/07/new-york-jersey-joe-biden-hurricane-ida/7121631012476/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/09/07/new-york-jersey-joe-biden-hurricane-ida/7121631012476/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 75
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/i/7121631012476/2021/1/16310151479197/v1.5/Biden-to-visit-areas-of-NYC-NJ-damaged-by-floods-from-Hurricane-Ida.jpg"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "In NYC after Ida, Biden calls climate ‘everybody’s crisis’"
+    excerpt: "President Joe Biden declared climate change has become “everybody’s crisis” on Tuesday as he toured neighborhoods flooded by the remnants of Hurricane Ida,"
+    publishedDateTime: 2021-09-07T23:48:00Z
+    webUrl: "https://www.bostonherald.com/2021/09/07/in-nyc-after-ida-biden-calls-climate-everybodys-crisis-2/"
+    ampWebUrl: "https://www.bostonherald.com/2021/09/07/in-nyc-after-ida-biden-calls-climate-everybodys-crisis-2/amp/"
+    cdnAmpWebUrl: "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2021/09/07/in-nyc-after-ida-biden-calls-climate-everybodys-crisis-2/amp/"
+    type: article
+    provider:
+      name: Boston Herald
+      domain: bostonherald.com
+    quality: 75
+    images:
+      - url: "https://www.bostonherald.com/wp-content/uploads/2021/09/Biden_57720.jpg?w=1024&#038;h=683"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Watch Live: President Joe Biden speaks about administration’s response to Hurricane Ida"
     excerpt: "Ida was the fifth most powerful storm to hit the U.S. when it made landfall on Aug. 29. At least 50 people were killed in six Eastern states as record rainfall overwhelmed rivers and sewer systems."
     publishedDateTime: 2021-09-07T15:03:00Z

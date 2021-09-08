@@ -403,6 +403,20 @@ related:
         width: 650
         height: 433
         isCached: true
+  - title: "President Biden Arrives at the White House After Viewing Hurricane Ida Damage"
+    excerpt: "U.S. President Joe Biden arrives at the White House via Marine One on Tuesday September 7, 2021 in Washington, DC. Biden traveled to New Jersey and New York to tour areas effected by Hurricane Ida and meet with local leaders."
+    publishedDateTime: 2021-09-07T23:19:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/d274bc235e06247ad6625e987b20986c/President-Biden-Arrives-at-the-White-House-After-Viewing-Hurricane-Ida-Damage/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 52
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/d274bc235e06247ad6625e987b20986c/BIDEN-HURRICANE-IDA.jpg"
+        width: 650
+        height: 433
+        isCached: true
   - title: "President Joe Biden to visit NC, promote COVID-19 vaccine | Charlotte Observer"
     excerpt: "The presidential visit comes as part of Biden’s “National Month of Action,” a nationwide sprint in June to get 70% of adults at least partially vaccinated."
     publishedDateTime: 2021-06-20T17:01:00Z

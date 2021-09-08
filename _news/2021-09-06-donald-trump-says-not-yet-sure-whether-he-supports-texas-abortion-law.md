@@ -31,223 +31,190 @@ images:
     isCached: true
 
 related:
-  - title: "Retiring GOP Sen. Toomey says Trump should not lead ticket in 2024"
-    excerpt: "Sen. Pat Toomey has urged his party not to nominate former President Donald Trump as its presidential nominee in 2024."
-    publishedDateTime: 2021-09-03T13:03:00Z
-    webUrl: "https://www.cnbc.com/2021/09/03/trump-should-not-lead-gop-ticket-in-2024-retiring-sen-pat-toomey-says.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2021/09/03/trump-should-not-lead-gop-ticket-in-2024-retiring-sen-pat-toomey-says.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/09/03/trump-should-not-lead-gop-ticket-in-2024-retiring-sen-pat-toomey-says.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 125
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106937287-1630677698608-IMG_6416.JPG?v=1630677935"
-        width: 3744
-        height: 5616
-        isCached: true
-  - title: "Melania Trump isn’t keen on Donald running in 2024 – but that won’t stop him"
-    excerpt: "The former president is thinking about standing again. While I’d love to laugh at the idea of him winning a second time, the polls offer a heavy note of caution, says Guardian columnist Arwa Mahdawi"
-    publishedDateTime: 2021-09-07T11:06:00Z
-    webUrl: "https://www.theguardian.com/commentisfree/2021/sep/07/melania-trump-isnt-keen-on-donald-running-in-2024-but-that-wont-stop-him?fr=operanews"
-    ampWebUrl: "https://amp.theguardian.com/commentisfree/2021/sep/07/melania-trump-isnt-keen-on-donald-running-in-2024-but-that-wont-stop-him"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2021/sep/07/melania-trump-isnt-keen-on-donald-running-in-2024-but-that-wont-stop-him"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 122
-    images:
-      - url: "https://i.guim.co.uk/img/media/ac4789c4c8027f2e16e7a21c8d5a529999f7dcc1/0_200_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=4dd9e8999cf147c26e915be43206dfa8"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Republican Adam Kinzinger Says GOP Audits 'About Being Too Scared' to Admit Trump Lost"
-    excerpt: "The GOP congressman's criticism comes as Republicans continue to push for probes of last year's presidential election—10 months after it was held."
-    publishedDateTime: 2021-09-04T20:51:00Z
-    webUrl: "https://www.newsweek.com/republican-adam-kinzinger-says-gop-audits-about-being-too-scared-admit-trump-lost-1626180"
-    ampWebUrl: "https://www.newsweek.com/republican-adam-kinzinger-says-gop-audits-about-being-too-scared-admit-trump-lost-1626180?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/republican-adam-kinzinger-says-gop-audits-about-being-too-scared-admit-trump-lost-1626180?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 117
-    images:
-      - url: "https://d.newsweek.com/en/full/1887862/adam-kinzinger.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Former President Donald Trump says he will return to Iowa, adding grist to 2024 speculation"
-    excerpt: "Trump's announcement on the show comes as other potential Republican presidential contenders are already making trips to Iowa."
-    publishedDateTime: 2021-08-31T17:05:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/08/31/donald-trump-says-he-will-rally-iowa-stoking-2024-speculation/5666433001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5666433001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5666433001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 115
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/01/PDEM/63d5811d-248f-4d1b-a046-a644d1ea0203-AP20306724939532.jpg?auto=webp&crop=5999,3375,x0,y305&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Trump 'hates' Florida Gov. Ron DeSantis because of his rising popularity in the GOP, report says"
-    excerpt: "Trump previously said he'd consider DeSantis as a potential running mate if he decides to run for president in 2024."
-    publishedDateTime: 2021-09-03T16:58:00Z
-    webUrl: "https://www.businessinsider.com/trump-hates-ron-desantis-because-of-his-popularity-report-2021-9"
-    ampWebUrl: "https://www.businessinsider.com/trump-hates-ron-desantis-because-of-his-popularity-report-2021-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-hates-ron-desantis-because-of-his-popularity-report-2021-9?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 112
-    images:
-      - url: "https://i.insider.com/61323af064313400196cd1e1?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Trump's backing lands early in wide-open US Senate race"
-    excerpt: "Trump's endorsement, issued in a statement Wednesday afternoon, came early in the race, nearly nine months before next May's primary in what is expected to be one of the nation’s most competitive Senate contests in next year’s election."
-    publishedDateTime: 2021-09-04T02:58:00Z
-    webUrl: "https://www.houstonchronicle.com/news/article/Trump-s-backing-lands-early-in-wide-open-US-16434611.php"
-    ampWebUrl: "https://www.houstonchronicle.com/news/amp/Trump-s-backing-lands-early-in-wide-open-US-16434611.php"
-    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Trump-s-backing-lands-early-in-wide-open-US-16434611.php"
+  - title: "How the new Texas elections law follows up on Trump's voter fraud claims"
+    excerpt: "Texas Republicans enacted a massive election restrictions law on Tuesday that has echoes of the former president Donald Trump’s false claims that widespread voter fraud kept him from a second term in the White House."
+    publishedDateTime: 2021-09-07T23:13:00Z
+    webUrl: "https://www.houstonchronicle.com/politics/texas/article/How-Texas-is-following-up-on-Trump-s-voter-16441526.php"
+    ampWebUrl: "https://www.houstonchronicle.com/politics/texas/amp/How-Texas-is-following-up-on-Trump-s-voter-16441526.php"
+    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/politics/texas/amp/How-Texas-is-following-up-on-Trump-s-voter-16441526.php"
     type: article
     provider:
       name: Houston Chronicle
       domain: houstonchronicle.com
+    quality: 139
+    images:
+      - url: "https://s.hdnux.com/photos/01/21/61/73/21438188/3/400x0.jpg"
+        width: 400
+        height: 270
+        isCached: true
+  - title: "Trump Justices Cast Crucial Votes on Texas Abortion Ban Undermining Roe v. Wade"
+    excerpt: "The Supreme Court has declined to prevent a new law in Texas that severely restricts abortion access from coming into effect. The law will effectively ban all abortions in the state after around six weeks of pregnancy in what reproductive rights advocates view as a blow to the precedent set in Roe v."
+    publishedDateTime: 2021-09-02T08:28:00Z
+    webUrl: "https://www.newsweek.com/trump-justices-cast-crucial-votes-texas-abortion-ban-undermining-roe-v-wade-1625266"
+    ampWebUrl: "https://www.newsweek.com/trump-justices-cast-crucial-votes-texas-abortion-ban-undermining-roe-v-wade-1625266?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-justices-cast-crucial-votes-texas-abortion-ban-undermining-roe-v-wade-1625266?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 121
+    images:
+      - url: "https://d.newsweek.com/en/full/1885475/trump-appointed-justices-shown-composite-image.jpg"
+        width: 2400
+        height: 1600
+        isCached: true
+  - title: "Trump fans election fraud theme as Virginia governor candidate Youngkin walks tightrope"
+    excerpt: "Former president Donald Trump on Wednesday warned that Democrats might try to steal the Virginia governor's race, pegging his prediction on baseless claims of 2020 election fraud that Republican candidate Glenn Youngkin has flirted with but not fully embraced."
+    publishedDateTime: 2021-09-01T22:52:00Z
+    webUrl: "https://www.washingtonpost.com/local/virginia-politics/trump-virginia-governor-youngkin-election/2021/09/01/c8583584-0b3b-11ec-aea1-42a8138f132a_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 112
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/X2IE7EQLOYI6ZLVBIKUBHDYTFI.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Trump Organization’s security director agrees to testify to grand jury"
+    excerpt: "The Trump Organization’s director of security has agreed to testify before a Manhattan grand jury investigating the former president and his company, according to a person familiar with the case. Matthew Calamari Jr."
+    publishedDateTime: 2021-09-02T10:46:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-organization-calamari-grand-jury/2021/09/01/ee8cd3c0-0b7e-11ec-9781-07796ffb56fe_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 105
-  - title: "GOP Sen. Pat Toomey says that Trump should not be the party's 2024 presidential nominee, slams his 'unacceptable' behavior"
-    excerpt: "\"I think that the future of our party is to be a party of ideas, and not to be a party about any one individual,\" Toomey said in a CNBC interview."
-    publishedDateTime: 2021-09-04T16:11:00Z
-    webUrl: "https://www.businessinsider.com/pat-toomey-disapproves-trump-2024-election-republican-party-presidential-nominee-2021-9"
-    ampWebUrl: "https://www.businessinsider.com/pat-toomey-disapproves-trump-2024-election-republican-party-presidential-nominee-2021-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/pat-toomey-disapproves-trump-2024-election-republican-party-presidential-nominee-2021-9?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 99
     images:
-      - url: "https://i.insider.com/6133869361f7d80018f2555d?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5IFS5RW2U4I6XDEHVVXSPEMMPA.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
-  - title: "US Sen. Mike Rounds isn't convinced Donald Trump would win GOP nomination in 2024 election"
-    excerpt: "South Dakota U.S. Sen. Mike Rounds, in discussion with Sioux Falls Rotarians, speculated what might lie ahead for the Republican Party for 2024."
-    publishedDateTime: 2021-08-30T19:39:00Z
-    webUrl: "https://www.argusleader.com/story/news/2021/08/30/mike-rounds-2024-election-donald-trump-kristi-noem-republican-nomination-speculation/5653852001/"
-    ampWebUrl: "https://amp.argusleader.com/amp/5653852001"
-    cdnAmpWebUrl: "https://amp-argusleader-com.cdn.ampproject.org/c/s/amp.argusleader.com/amp/5653852001"
+  - title: "A judge rebukes Donald Trump Jr. for misinformation — as Trump Jr. doubles down on misinformation"
+    excerpt: "A West Virginia judge ruled that a lawsuit against Trump Jr. can proceed because there is evidence he knowingly shared false and potentially defamatory information."
+    publishedDateTime: 2021-09-02T18:39:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/09/02/judge-rebukes-donald-trump-jr-misinformation-trump-jr-doubles-down-misinformation/"
     type: article
     provider:
-      name: Argus Leader
-      domain: argusleader.com
-    quality: 80
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 92
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/08/20/PSIF/c96ac377-3e03-4c86-a475-a751d7dde2e0-Rounds_ChamberOfCommerce_003.JPG?auto=webp&crop=5759,3240,x0,y292&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KC5D45HBB4I6XIT7RMUUSMHJLM.jpg&w=1440"
+        width: 1440
+        height: 961
         isCached: true
-  - title: "There’s a little Donald Trump in Erin O’Toole"
-    excerpt: "Flags, tweets, opposing vaccination for all, personal political hatred, that’s all part of the American catastrophe. But we do things differently in"
-    publishedDateTime: 2021-08-28T11:26:00Z
-    webUrl: "https://www.thestar.com/politics/political-opinion/2021/08/28/theres-a-little-donald-trump-in-erin-otoole.html"
-    ampWebUrl: "https://www.thestar.com/amp/politics/political-opinion/2021/08/28/theres-a-little-donald-trump-in-erin-otoole.html"
-    cdnAmpWebUrl: "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/amp/politics/political-opinion/2021/08/28/theres-a-little-donald-trump-in-erin-otoole.html"
+  - title: "Judge tosses Trump rollback of clean water safeguards"
+    excerpt: "A federal judge has thrown out a Trump-era rule that ended federal protections for hundreds of thousands of small streams, wetlands and other waterways and left them vulnerable to pollution from nearby development."
+    publishedDateTime: 2021-08-31T21:36:00Z
+    webUrl: "https://www.thehour.com/news/article/Judge-tosses-Trump-rollback-of-clean-water-16426305.php"
+    ampWebUrl: "https://www.thehour.com/news/amp/Judge-tosses-Trump-rollback-of-clean-water-16426305.php"
+    cdnAmpWebUrl: "https://www-thehour-com.cdn.ampproject.org/c/s/www.thehour.com/news/amp/Judge-tosses-Trump-rollback-of-clean-water-16426305.php"
     type: article
     provider:
-      name: The Star
-      domain: thestar.com
+      name: The Hour
+      domain: thehour.com
     quality: 75
     images:
-      - url: "https://images.thestar.com/soahNZMLOq0N9TKI2BA5jCHk9f0=/1200x925/smart/filters:cb(1630102320482)/https://www.thestar.com/content/dam/thestar/politics/political-opinion/2021/08/28/theres-a-little-donald-trump-in-erin-otoole/half_mast.jpg"
-        width: 1200
-        height: 925
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
-  - title: "Trump’s backing lands early in wide-open US Senate race"
-    excerpt: "HARRISBURG, Pa. (AP) — The most sought-after endorsement in Pennsylvania’s wide-open Republican primary for U.S. Senate went early to Sean Parnell, but the backing of former President Donald Trump isn’t clearing the field for Parnell and it’s yet ..."
-    publishedDateTime: 2021-09-05T01:00:00Z
-    webUrl: "https://www.timesleader.com/wire/state-wire/1510510/trumps-backing-lands-early-in-wide-open-us-senate-race"
-    ampWebUrl: "https://www.timesleader.com/wire/state-wire/1510510/trumps-backing-lands-early-in-wide-open-us-senate-race/amp"
-    cdnAmpWebUrl: "https://www-timesleader-com.cdn.ampproject.org/c/s/www.timesleader.com/wire/state-wire/1510510/trumps-backing-lands-early-in-wide-open-us-senate-race/amp"
+  - title: "Georgia lieutenant governor declares independence from Trump"
+    excerpt: "Georgia’s Republican lieutenant governor is declaring independence from Donald Trump in a new book and urging other members of the GOP to follow. Geoff Duncan has been a target of heavy criticism from the former president and many other Republicans for his outspoken criticism of Trump’s efforts to overturn his presidential election loss."
+    publishedDateTime: 2021-09-04T01:05:00Z
+    webUrl: "https://www.seattlepi.com/news/article/Georgia-lieutenant-governor-declares-independence-16434184.php"
+    ampWebUrl: "https://www.seattlepi.com/news/amp/Georgia-lieutenant-governor-declares-independence-16434184.php"
+    cdnAmpWebUrl: "https://www-seattlepi-com.cdn.ampproject.org/c/s/www.seattlepi.com/news/amp/Georgia-lieutenant-governor-declares-independence-16434184.php"
     type: article
     provider:
-      name: The Times Leader
-      domain: timesleader.com
+      name: seattlepi.com
+      domain: seattlepi.com
     quality: 75
     images:
-      - url: "https://cdnmedia.sendtonews.com/players/library/placeholder.png"
-        width: 375
-        height: 211
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
-  - title: "Trump attacks Lehigh Valley’s Pat Toomey as ‘not the sharpest tool in the shed’"
-    excerpt: "A fundraising email from the former president claims the senator from Lehigh County only won re-election \"because of my victory.\""
-    publishedDateTime: 2021-09-07T20:37:00Z
-    webUrl: "https://www.lehighvalleylive.com/elections/2021/09/trump-attacks-lehigh-valleys-pat-toomey-as-not-the-sharpest-tool-in-the-shed.html"
-    ampWebUrl: "https://www.lehighvalleylive.com/elections/2021/09/trump-attacks-lehigh-valleys-pat-toomey-as-not-the-sharpest-tool-in-the-shed.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-lehighvalleylive-com.cdn.ampproject.org/c/s/www.lehighvalleylive.com/elections/2021/09/trump-attacks-lehigh-valleys-pat-toomey-as-not-the-sharpest-tool-in-the-shed.html?outputType=amp"
-    type: article
-    provider:
-      name: Lehigh Valley Live
-      domain: lehighvalleylive.com
-    quality: 71
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/GNV6CJNKC5HUPD6BRFBFVV6LDU.jpg"
-        width: 3158
-        height: 1969
-        isCached: true
-  - title: "Retiring Trump Critic Urges GOP Not To Renominate 'Unacceptable' Ex-President In 2024"
-    excerpt: "Retiring Republican Senator Pat Toomey is urging his party to become a \"party of ideas\" over that of an individual."
-    publishedDateTime: 2021-09-03T16:59:00Z
-    webUrl: "https://www.ibtimes.com/retiring-trump-critic-urges-gop-not-renominate-unacceptable-ex-president-2024-3287869"
-    ampWebUrl: "https://www.ibtimes.com/retiring-trump-critic-urges-gop-not-renominate-unacceptable-ex-president-2024-3287869?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/retiring-trump-critic-urges-gop-not-renominate-unacceptable-ex-president-2024-3287869?amp=1"
+  - title: "Republican Donors Show Disinterest In Trump 2024 Campaign, Focus On Midterms"
+    excerpt: "Top Republican Party donors have pushed back on fundraising for former President Donald Trump’s potential 2024 campaign and are instead focused on the 2022 midterm elections, CNBC reported Tuesday. Almost immediately after leaving the White House in January,"
+    publishedDateTime: 2021-08-31T21:38:00Z
+    webUrl: "https://www.ibtimes.com/republican-donors-show-disinterest-trump-2024-campaign-focus-midterms-3285139"
+    ampWebUrl: "https://www.ibtimes.com/republican-donors-show-disinterest-trump-2024-campaign-focus-midterms-3285139?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/republican-donors-show-disinterest-trump-2024-campaign-focus-midterms-3285139?amp=1"
     type: article
     provider:
       name: International Business Times
       domain: ibtimes.com
-    quality: 68
+    quality: 72
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/07/16/gevers-managed-to-access-trumps-twitter-account-twice.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Bernie Sanders sets out to sell big government in Trump country"
-    excerpt: "He's specifically targeting two congressional districts where Trump's vote totals increased between 2016 and 2020."
-    publishedDateTime: 2021-08-27T10:03:00Z
-    webUrl: "https://bangordailynews.com/2021/08/27/national-politics/bernie-sanders-sets-out-to-sell-big-government-in-trump-country/"
-    type: article
-    provider:
-      name: Bangor Daily News
-      domain: bangordailynews.com
-    quality: 55
-    images:
-      - url: "https://bdn-data.s3.amazonaws.com/uploads/2021/08/Sanders-in-Trump-Country.jpg"
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/07/07/former-us-president-donald-trump-reportedly-told-his.jpg"
         width: 1024
         height: 682
         isCached: true
-  - title: "Trump-supporting GOP candidate in Northampton County says he’ll bring ‘strong men’ to confront pro-mask school board"
-    excerpt: "Northampton County executive candidate Steve Lynch told a crowd he would bring '20 strong men' to a school board meeting and oppose"
-    publishedDateTime: 2021-08-30T18:06:00Z
-    webUrl: "https://www.mcall.com/news/elections/mc-nws-lynch-mask-school-board-video-20210830-liumhjqm3nfkpn75zx37i5ka5a-story.html"
-    ampWebUrl: "https://www.mcall.com/news/elections/mc-nws-lynch-mask-school-board-video-20210830-liumhjqm3nfkpn75zx37i5ka5a-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-mcall-com.cdn.ampproject.org/c/s/www.mcall.com/news/elections/mc-nws-lynch-mask-school-board-video-20210830-liumhjqm3nfkpn75zx37i5ka5a-story.html?outputType=amp"
+  - title: "Pro-Trump lawyers who pushed fraud cases face serious consequences"
+    excerpt: "Lawyers who sought to overturn the 2020 election results in key states, alleging fraud, were sanctioned last week by a federal judge in Michigan."
+    publishedDateTime: 2021-08-31T20:06:00Z
+    webUrl: "https://www.csmonitor.com/USA/Politics/2021/0831/Pro-Trump-lawyers-who-pushed-fraud-cases-face-serious-consequences"
+    ampWebUrl: "https://www.csmonitor.com/layout/set/amphtml/USA/Politics/2021/0831/Pro-Trump-lawyers-who-pushed-fraud-cases-face-serious-consequences"
+    cdnAmpWebUrl: "https://www-csmonitor-com.cdn.ampproject.org/c/s/www.csmonitor.com/layout/set/amphtml/USA/Politics/2021/0831/Pro-Trump-lawyers-who-pushed-fraud-cases-face-serious-consequences"
     type: article
     provider:
-      name: Morning Call PA
-      domain: mcall.com
+      name: Christian Science Monitor
+      domain: csmonitor.com
+    quality: 55
+  - title: "Trump Organization employees to testify before NY grand jury"
+    excerpt: "Matthew Calamari Jr., the Trump Organization’s corporate director of security, will testify this week before a Manhattan grand jury investigating former President Donald Trump’s company and its"
+    publishedDateTime: 2021-09-02T00:52:00Z
+    webUrl: "https://www.bozemandailychronicle.com/ap_news/trump-organization-employees-to-testify-before-ny-grand-jury/article_3bee4d08-b4d6-5bb7-a308-a04ac80ddfc4.html"
+    type: article
+    provider:
+      name: Bozeman Daily Chronicle
+      domain: bozemandailychronicle.com
+    quality: 55
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/custom/image/2ffee154-edef-11e4-a572-ab4a61dde6eb.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "On the trail: Trump administration secretaries visit N.H."
+    excerpt: "Former Secretary of State Mike Pompeo had politics at the top of his agenda as he visited New Hampshire this week.But the trip to the first-in-the-nation presidential primary state by the man who served as American’s top diplomat for the last two"
+    publishedDateTime: 2021-09-02T18:11:00Z
+    webUrl: "https://www.concordmonitor.com/Trump-s-secretary-pompeo-devos-New-Hampshire-42276621"
+    type: article
+    provider:
+      name: Concord Monitor
+      domain: concordmonitor.com
+    quality: 55
+    images:
+      - url: "http://www.concordmonitor.com/getattachment/816e6156-73be-4c02-9629-513efd0d089e/attachment.aspx"
+        width: 499
+        height: 325
+        isCached: true
+  - title: "Kent lands endorsement from former President Trump in congressional campaign"
+    excerpt: "Joe Kent has added one of the biggest potential Republican endorsements to his campaign to take Jaime Herrera Beutler's seat in the House of Representatives: President Donald Trump."
+    publishedDateTime: 2021-09-02T00:15:00Z
+    webUrl: "https://tdn.com/news/local/govt-and-politics/kent-lands-endorsement-from-former-president-trump-in-congressional-campaign/article_97c2b1ff-101d-565d-b6d7-b79c0a965ebf.html"
+    type: article
+    provider:
+      name: The Daily News
+      domain: tdn.com
     quality: 52
     images:
-      - url: "https://www.mcall.com/resizer/gnZB9NKaGVGfQofCPjLmlNLxRIU=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/JXB6NMF62VHMTIR2W6DL4WCASY.jpg"
+      - url: "https://bloximages.chicago2.vip.townnews.com/tdn.com/content/tncms/custom/image/3f2525f4-c54d-11ea-acb2-93abb9ea72c7.jpg"
         width: 1200
-        height: 946
+        height: 630
         isCached: true
+  - title: "Trump Backs Challenger to Third House Republican Who Voted to Impeach"
+    excerpt: "Former President Donald Trump on Tuesday endorsed Michigan state lawmaker Steve Carra's bid to unseat U.S. Representative Fred Upton, his third endorsement of a challenger to a Republican who voted to impeach him on a charge of sparking the Capitol riot."
+    publishedDateTime: 2021-09-07T19:34:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-09-07/trump-backs-challenger-to-third-house-republican-who-voted-to-impeach"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "On42gMr+zsMyqvESaPuBwCHY+d3NidzfffQ0bow25L0lBzTO6O1IndehcYtuEpqbuu+FvHVoYPSoPIkvlnTmyzloNbgHCkrmoiYyNhLan3blgp5q6kHOd5HkR0e+V7hhsC4chLN26/kkAKGkeGH/CqXFaTDRu63k338tfAI/1xeJnX9hzTHqUBx286lcN1r3QsQQ3kori+h3SX1lv5ydRu7/pcvGMksaS5AoTAyoHST3wcOBhsP7WhsPuQbfPWOiyURyBwND+UFYfsaMT+8UlyZC9eYSEvVTvrQe2ZHdrPZopg3Y38SBO+pqwNAfVLRCokunkPJqQIjrs6ExKLYZHCqb8dD3V9i/iTeQcw5kH+wrFstmXfr43TDFWy7xGbFCFOFAS7MrdOAJMRNS3WHbfqlFEuDCVuQA2bvISwAfd2N39FT8lfREYENG+1wD9Kk9qKooSt6gU+pXNU7FnGAIaZQAQUjyVwRYKLb7/q9nCI0yKfWMiJCytpc7tC5G2CPvMsUzrs/9aCBHEteXmJtu4A==;hC3agJKjvbGVIaK3qFgoFw=="
 ---

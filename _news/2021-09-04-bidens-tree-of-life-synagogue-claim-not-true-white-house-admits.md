@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/bidens-tree-of-life-synagogue-claim
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-tree-of-life-synagogue-claim-not-true-white-house-admits.amp"
 type: article
 quality: 175
-heat: 275
+heat: 295
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
     quality: 166
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/17d03a4d-b676-45f8-a470-769625091d70/1492c709-10eb-419f-8345-d50968bbe61c/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Biden blames storm damage in northeast on climate change, calls on Congress to pass infrastructure bill"
+    excerpt: "President Joe Biden toured storm-ravaged areas of New York and New Jersey on Tuesday, blaming the devastation on climate change."
+    publishedDateTime: 2021-09-07T23:27:51Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3YBZ1KsntwM/biden-blames-storm-damage-in-northeast-on-climate-change-calls-on-congress-to-pass-infrastructure-spending"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-blames-storm-damage-in-northeast-on-climate-change-calls-on-congress-to-pass-infrastructure-spending.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-blames-storm-damage-in-northeast-on-climate-change-calls-on-congress-to-pass-infrastructure-spending.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 159
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f188be8b-e340-4069-80b9-ad723e80a3cf/dace7a46-d606-4e77-905a-4480e0c2bb8d/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true

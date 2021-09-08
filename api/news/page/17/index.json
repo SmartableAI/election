@@ -2,6 +2,163 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2021-07-29-biden-harris-unveil-strategies-to-address-root-causes-of-immigration.md",
+      "title": "Biden, Harris unveil strategies to address 'root causes' of immigration",
+      "excerpt": "The Biden administration on Thursday rolled out its strategies to address the root causes of immigration, a step officials call a “core component” of efforts to establish a “fair, orderly, and humane immigration system.”",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/9QPgD9fEKYQ/biden-harris-immigration-root-causes-strategy",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/9QPgD9fEKYQ/biden-harris-immigration-root-causes-strategy",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 660,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-harris-immigration-root-causes-strategy.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-harris-immigration-root-causes-strategy.amp",
+      "publishedDateTime": "2021-07-29T03:00:53-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-07-29-plan-to-honor-trump-with-banquet-becomes-flashpoint-at-one-of-americas-most-elite-golf-clubs.md",
+      "title": "Plan to honor Trump with banquet becomes flashpoint at one of America's most elite golf clubs",
+      "excerpt": "The former president has been a member of Winged Foot, one of the country's top golf clubs and host of the 2020 U.S. Open, for more than 50 years.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/politics-news/plans-honor-trump-roil-elite-golf-club-n1275130",
+      "originalUrl": "https://www.nbcnews.com/politics/politics-news/plans-honor-trump-roil-elite-golf-club-n1275130",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_30/3494391/210727-donald-trump-golf-course-jm-1049.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1275130",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1275130",
+      "publishedDateTime": "2021-07-28T17:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-29-mike-pence-joins-conservative-groups-in-jumping-into-abortion-debate-at-supreme-court.md",
+      "title": "Mike Pence joins conservative groups in jumping into abortion debate at Supreme Court",
+      "excerpt": "WASHINGTON – A conservative advocacy group launched by former Vice President Mike Pence is wading into a high-profile abortion case at the Supreme Court, arguing the landmark Roe v. Wade decision has contributed to the destabilization of families.",
+      "sourceUrl": null,
+      "webUrl": "https://www.visaliatimesdelta.com/story/news/politics/2021/07/29/mike-pence-wades-into-abortion-debate-supreme-court/5423404001/",
+      "originalUrl": "https://www.visaliatimesdelta.com/story/news/politics/2021/07/29/mike-pence-wades-into-abortion-debate-supreme-court/5423404001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/07/29/USAT/492ab61d-848c-4d77-8004-e33c65d0f7d6-AP_Conservative_Summit.jpg?auto=webp&crop=5451,3066,x1,y160&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.visaliatimesdelta.com/amp/5423404001",
+      "cdnAmpWebUrl": "https://amp-visaliatimesdelta-com.cdn.ampproject.org/c/s/amp.visaliatimesdelta.com/amp/5423404001",
+      "publishedDateTime": "2021-07-28T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Visalia Times-Delta",
+        "domain": "visaliatimesdelta.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-07-28-elizabeth-warren-backs-newsom-in-recall-fight-accuses-trump-republicans-of-coming-to-grab-power.md",
       "title": "Elizabeth Warren backs Newsom in recall fight, accuses 'Trump Republicans' of 'coming to grab power'",
       "excerpt": "California Gov. Gavin Newsom received the backing of Sen. Elizabeth Warren in a fiery ad released Wednesday by the top progressive who accused “Trump Republicans” of “coming to grab power in California.”",
@@ -1159,170 +1316,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-27-trump-goes-all-in-on-texas-all-gop-special-election-runoff-for-congress.md",
-      "title": "Trump goes all in on Texas all-GOP special election runoff for Congress",
-      "excerpt": "From robocalls to TV ads, statements to an election eve tele-rally, former President Trump is throwing his considerable political clout around in Tuesday’s special election runoff between two Republican candidates in the race to fill a vacant House seat in Texas.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/gYWMzFh28E8/trump-texas-house-special-election-runoff",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/gYWMzFh28E8/trump-texas-house-special-election-runoff",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 570,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-texas-house-special-election-runoff.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-texas-house-special-election-runoff.amp",
-      "publishedDateTime": "2021-07-27T04:15:53-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-27-january-6-committee-opening-is-crucial-chance-to-correct-trumps-lies.md",
-      "title": "January 6 committee opening is crucial chance to correct Trump's lies",
-      "excerpt": "The tasks before the Democratic-led House Select Committee examining the January 6 insurrection that opens on Tuesday, after bitter partisan feuding over its make-up, could hardly be more critical.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/o7huMFv6nEg/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/o7huMFv6nEg/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 355,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210702051004-02-capitol-riot-file-0106-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/27/politics/donald-trump-nancy-pelosi-january-6-commission/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/27/politics/donald-trump-nancy-pelosi-january-6-commission/index.html",
-      "publishedDateTime": "2021-07-26T21:01:35-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-27-gop-lawmakers-request-cuba-meeting-with-biden.md",
-      "title": "GOP lawmakers request Cuba meeting with Biden",
-      "excerpt": "A group of 19 Republican lawmakers penned a letter to President Biden on Monday requesting a meeting to discuss the ongoing situation in Cuba, which has escalated in recent weeks following protests ag",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/administration/564956-gop-lawmakers-request-cuba-meeting-with-biden",
-      "originalUrl": "https://thehill.com/homenews/administration/564956-gop-lawmakers-request-cuba-meeting-with-biden",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 645,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/article_images/cuba-protest_miami_071121getty_cuba.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/administration/564956-gop-lawmakers-request-cuba-meeting-with-biden?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/564956-gop-lawmakers-request-cuba-meeting-with-biden?amp",
-      "publishedDateTime": "2021-07-26T17:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

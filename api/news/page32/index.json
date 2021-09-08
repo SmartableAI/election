@@ -2,6 +2,166 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2021-07-01-oreilly-biden-is-out-to-get-vp-kamala-harris-biden-doesnt-like-her.md",
+      "title": "O'Reilly: Biden Is Out To Get VP Kamala Harris, \"Biden Doesn't Like Her\"",
+      "excerpt": "\"The First\" host Bill O'Reilly said President Joe Biden is \"out to get\" Vice President Kamala Harris due to her primary debate performance where she basically accused him of being a racist with the \"that little girl was me\" line.",
+      "sourceUrl": null,
+      "webUrl": "https://www.realclearpolitics.com/video/2021/07/01/oreilly_biden_is_out_to_get_vp_kamala_harris_biden_doesnt_like_her.html",
+      "originalUrl": "https://www.realclearpolitics.com/video/2021/07/01/oreilly_biden_is_out_to_get_vp_kamala_harris_biden_doesnt_like_her.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.realclear.com/images/54/547161.jpg",
+          "width": 1006,
+          "height": 754,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "http://www.realclearpolitics.com/video/2021/07/01/oreilly_biden_is_out_to_get_vp_kamala_harris_biden_doesnt_like_her.amp.html",
+      "cdnAmpWebUrl": "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/07/01/oreilly_biden_is_out_to_get_vp_kamala_harris_biden_doesnt_like_her.amp.html",
+      "publishedDateTime": "2021-06-30T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RealClearPolitics",
+        "domain": "realclearpolitics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-30-biden-signs-bill-repealing-trump-era-epa-rule-on-methane-emissions.md",
+      "title": "Biden signs bill repealing Trump-era EPA rule on methane emissions",
+      "excerpt": "President Joe Biden on Wednesday signed a bill repealing a Trump-era rule that rolled back regulations on methane emissions -- a particularly potent greenhouse gas believed to contribute significantly to the climate crisis -- from the oil and gas industries.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/U2lze8ypKcM/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/U2lze8ypKcM/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 670,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210629161844-03-biden-wisconsin-infrastructure-0629-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/30/politics/biden-methane-emissions/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/30/politics/biden-methane-emissions/index.html",
+      "publishedDateTime": "2021-06-30T15:15:04-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-30-analysis-how-nyc-board-of-elections-mistake-fuels-trumps-false-election-fraud-claims.md",
+      "title": "Analysis: How NYC Board of Elections' mistake fuels Trump's false election fraud claims",
+      "excerpt": "The New York City Democratic mayoral primary is a total mess. The city's Board of Elections, known for previous errors, managed to make its biggest one to date when it accidentally included about 135,000 test ballots in its initial calculation of the primary results under the city's new ranked-choice",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/An96uP27e2U/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/An96uP27e2U/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 282,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210618094727-03-nyc-mayoral-election-early-voting-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/30/politics/board-of-elections-nyc-analysis/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/30/politics/board-of-elections-nyc-analysis/index.html",
+      "publishedDateTime": "2021-06-30T14:02:39-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-30-cheney-calls-select-committee-our-only-remaining-option-and-attacks-gop-leaders-for-appeasing-trump.md",
       "title": "Cheney calls select committee 'our only remaining option' and attacks GOP leaders for appeasing Trump",
       "excerpt": "Wyoming Rep. Liz Cheney sharply criticized Republican leaders ahead of a vote Wednesday to create a select committee to investigate the January 6 attack on the US Capitol, which she said she supported.\n    \n",
@@ -1203,162 +1363,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-29-bidens-visit-to-western-wisconsin-brings-him-to-one-of-the-states-leading-political-battlegrounds.md",
-      "title": "Biden's visit to western Wisconsin brings him to one of the state's leading political battlegrounds",
-      "excerpt": "The president's trip to western Wisconsin brings him to a congressional district that will be among the most hotly contested in the nation in 2022.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/analysis/2021/06/29/bidens-visit-western-wisconsin-brings-him-leading-battleground/7793245002/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/analysis/2021/06/29/bidens-visit-western-wisconsin-brings-him-leading-battleground/7793245002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/06/24/USAT/1ad11457-d090-4ebf-ac4a-9c4c401d1f5b-biden_and_manchin.jpg?auto=webp&crop=5999,3375,x0,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/7793245002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7793245002",
-      "publishedDateTime": "2021-06-29T06:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-06-29-online-activism-is-spilling-into-the-streets-of-southern-california-sparking-a-post-trump-movement.md",
-      "title": "Online activism is spilling into the streets of Southern California, sparking a post-Trump movement",
-      "excerpt": "Researchers say a combination of the pandemic and the election radicalized people and enabled right-leaning groups that were not previously aligned to find one another online — creating a mega-network that was often fueled by outrage and misinformation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/technology/2021/06/29/social-media-california-right-trump/",
-      "originalUrl": "https://www.washingtonpost.com/technology/2021/06/29/social-media-california-right-trump/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YO7NMVX4PVG5RL4LICS6GKJFDY.jpg&w=1440",
-          "width": 1440,
-          "height": 1081,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/technology/2021/06/29/social-media-california-right-trump/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2021/06/29/social-media-california-right-trump/?outputType=amp",
-      "publishedDateTime": "2021-06-29T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-29-trump-again-becomes-gops-main-show-the-note.md",
-      "title": "Trump again becomes GOP's main show: The Note",
-      "excerpt": "To many elected Republicans, former President Donald Trump is engaged in a sideshow that they'd just as soon ignore, but he's going to keep feeding the news cycle.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/trump-gops-main-show-note/story?id=78540913",
-      "originalUrl": "https://abcnews.go.com/Politics/trump-gops-main-show-note/story?id=78540913",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 425,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/trump-rt-er-210628_1624925077210_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/trump-gops-main-show-note/story?id=78540913",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-gops-main-show-note/story?id=78540913",
-      "publishedDateTime": "2021-06-29T03:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

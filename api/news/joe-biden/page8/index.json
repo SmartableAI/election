@@ -2,58 +2,6 @@
   "page": 8,
   "value": [
     {
-      "path": "_news/2021-06-11-how-bidenland-is-courting-joe-manchin-with-house-boat-dinners-millions-of-dollars-in-grants-and-west-virginia-visits.md",
-      "title": "How BidenLand is courting Joe Manchin with house boat dinners, millions of dollars in grants, and West Virginia visits",
-      "excerpt": "The conservative Democrat continues to play hard-to-get as the White House seeks his crucial vote to move Biden's priorities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/biden-is-courting-manchin-with-political-favors-west-virginia-democrat-2021-6",
-      "originalUrl": "https://www.businessinsider.com/biden-is-courting-manchin-with-political-favors-west-virginia-democrat-2021-6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/60c2397d6d855e00181575b0?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 599,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-10T16:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
       "path": "_news/2021-06-11-white-house-downplays-biden-putin-summit-not-expecting-huge-outcome.md",
       "title": "White House downplays Biden-Putin summit, not expecting 'huge outcome'",
       "excerpt": "White House press secretary Jen Psaki on Thursday doubled down on Biden using the summit as an opportunity to confront Putin. \"He's going to be straightforward, he's going to be candid, he's not going to hold back,",
@@ -1583,6 +1531,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-05-28-biden-to-gop-dont-get-in-the-way-of-infrastructure-plan.md",
+      "title": "Biden to GOP: 'Don't get in the way' of infrastructure plan",
+      "excerpt": "President Joe Biden is warning naysayers in Congress not to “get in the way” of his big infrastructure plans as the White House panned a counteroffer from Republican senators to tap unused COVID-19 relief for a more modest investment in roads,",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Business/wireStory/biden-gop-dont-infrastructure-plan-77955654",
+      "originalUrl": "https://abcnews.go.com/Business/wireStory/biden-gop-dont-infrastructure-plan-77955654",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/WireAP_f31c9f06758e48e98c1f2a10ec488122_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Business/wireStory/biden-gop-dont-infrastructure-plan-77955654",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/biden-gop-dont-infrastructure-plan-77955654",
+      "publishedDateTime": "2021-05-27T21:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

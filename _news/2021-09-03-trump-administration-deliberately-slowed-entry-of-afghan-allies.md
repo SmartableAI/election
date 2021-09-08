@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/09/03/politics/trump-adviser-stephen-mi
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/09/03/politics/trump-adviser-stephen-miller-afghan-allies-us-entry/index.html"
 type: article
 quality: 175
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 135
     images:
       - url: "https://static01.nyt.com/images/2021/08/31/us/politics/31GOP-Afghanistan-1/merlin_193632333_b6959d88-e372-410f-b324-f7b17d1c4361-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "When Will Trump Answer the Big 2024 Question?"
+    excerpt: "Trump dodged a half-dozen opportunities to say whether he is planning to run for president once again in 2024. Mr. Fredericks, who alongside his radio gig also served as a chairman of Mr. Trump’s campaigns in Virginia,"
+    publishedDateTime: 2021-09-07T22:04:00Z
+    webUrl: "https://www.nytimes.com/2021/09/07/us/politics/will-trump-run-2024.html"
+    ampWebUrl: "https://www.nytimes.com/2021/09/07/us/politics/will-trump-run-2024.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/09/07/us/politics/will-trump-run-2024.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/09/07/us/07onpolitics-pm-newsletter/07onpolitics-pm-newsletter-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true

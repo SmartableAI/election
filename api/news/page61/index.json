@@ -2,6 +2,166 @@
   "page": 61,
   "value": [
     {
+      "path": "_news/2021-04-30-paul-ryan-trump-debate-will-fade-as-new-candidates-emerge.md",
+      "title": "Paul Ryan: Trump debate will fade as new candidates emerge",
+      "excerpt": "Nearly six months after the presidential election, Republicans remain divided over former President Donald Trump",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/paul-ryan-trump-debate-fade-candidates-emerge-77422027",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/paul-ryan-trump-debate-fade-candidates-emerge-77422027",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 205,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/WireAP_c9db11371d264d36a3059ee975d86cbf_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/paul-ryan-trump-debate-fade-candidates-emerge-77422027",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/paul-ryan-trump-debate-fade-candidates-emerge-77422027",
+      "publishedDateTime": "2021-04-30T09:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-04-30-biden-claims-weve-now-gotten-control-of-migrant-surge-at-southern-border-amid-criticism.md",
+      "title": "Biden claims 'we've now gotten control' of migrant surge at southern border, amid criticism",
+      "excerpt": "President Biden, in an interview this week, claimed that his administration has \"now gotten control\" of the high number of migrants surging at the southern border -- while again blaming the Trump administration for the crisis that overwhelmed officials in recent months.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/LTluZE7NV9I/biden-claims-control-migrant-surge",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/LTluZE7NV9I/biden-claims-control-migrant-surge",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e67ffbe5-2bb3-479b-9dc1-24505bb3bacf/5c55c28e-ad94-4fb5-8434-0f3fa509ec88/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-claims-control-migrant-surge.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-claims-control-migrant-surge.amp",
+      "publishedDateTime": "2021-04-30T08:31:49-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-30-eyeing-2024-pence-says-hell-push-back-on-liberal-agenda.md",
+      "title": "Eyeing 2024, Pence says he'll push back on 'liberal agenda'",
+      "excerpt": "Former Vice President Mike Pence, positioning himself for a possible return to elected office, told an audience in early-voting South Carolina that he will spend the coming months “pushing back on the liberal agenda” he says is wrong for the country.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/eying-2024-pence-hell-push-back-liberal-agenda-77418589",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/eying-2024-pence-hell-push-back-liberal-agenda-77418589",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 285,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/WireAP_e879d412648940fd99d8c946815b25be_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/eying-2024-pence-hell-push-back-liberal-agenda-77418589",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/eying-2024-pence-hell-push-back-liberal-agenda-77418589",
+      "publishedDateTime": "2021-04-30T07:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-04-30-kinzinger-goes-to-texas-in-search-of-anti-trump-republicans.md",
       "title": "Kinzinger goes to Texas in search of anti-Trump Republicans",
       "excerpt": "Adam Kinzinger came to Texas this week to hunt unicorns. The Illinois congressman was looking for Republicans who, like him, see former President Donald Trump as a scourge on their party and a threat to democracy.",
@@ -1204,174 +1364,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-04-29-republican-house-leader-kevin-mccarthy-repeats-debunked-claim-that-biden-is-trying-to-impose-meat-limits.md",
-      "title": "Republican House leader Kevin McCarthy repeats debunked claim that Biden is trying to impose meat limits ",
-      "excerpt": "By Monday, numerous media outlets had debunked the viral false claim that President Joe Biden has proposed to restrict how much red meat Americans are allowed to eat. Even a Fox News anchor admitted on air on Monday afternoon that the claim was inaccurate.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/EPghEnEPet0/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/EPghEnEPet0/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 158,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210420081324-02-kevin-mccarthy-0415-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/29/politics/fact-check-kevin-mccarthy-biden-red-meat-limit-four-pounds/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/29/politics/fact-check-kevin-mccarthy-biden-red-meat-limit-four-pounds/index.html",
-      "publishedDateTime": "2021-04-29T11:54:23-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-29-biden-on-giuliani-raid-i-had-no-idea-this-was-underway.md",
-      "title": "Biden on Giuliani raid: 'I had no idea this was underway'",
-      "excerpt": "President Biden said he did not know about the FBI plans to raid the home of former President Trump's personal attorney and former New York City Mayor Rudy Giuliani before it happened, and that he learned of the operation \"when the rest of the world learned about it.\" ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ihkz_eflo94/biden-giuliani-raid-no-briefing",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ihkz_eflo94/biden-giuliani-raid-no-briefing",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8cb5def7-c7ec-4869-9e44-bcfb49f0e718/dc85f01a-d724-4d4d-a71d-8ab6d7d1f754/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-giuliani-raid-no-briefing.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-giuliani-raid-no-briefing.amp",
-      "publishedDateTime": "2021-04-29T10:25:51-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-29-in-her-first-100-days-jill-biden-shows-shes-not-her-predecessor.md",
-      "title": "In her first 100 days, Jill Biden shows she's not her predecessor",
-      "excerpt": "Jill Biden has no time for dawdling; she has work to do. At a vaccine clinic in Albuquerque, New Mexico, last week, sensing hesitancy from a woman waiting to get her first shot, the first lady spoke up: \"It's, like, so fast.\" The woman said she was scared, so Biden went to stand next to her. With an",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/E15vecptCKY/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/E15vecptCKY/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 335,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210428181601-01-jill-biden-first-100-days-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/29/politics/jill-biden-first-100-days/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/29/politics/jill-biden-first-100-days/index.html",
-      "publishedDateTime": "2021-04-29T09:07:15-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

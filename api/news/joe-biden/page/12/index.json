@@ -2,63 +2,6 @@
   "page": 12,
   "value": [
     {
-      "path": "_news/2021-04-18-biden-takes-on-democrats-mission-impossible-revitalizing-coal-country.md",
-      "title": "Biden takes on Democrats’ ‘Mission Impossible’: Revitalizing coal country",
-      "excerpt": "Despite deep skepticism from union allies, Democrats are determined to make their “Just Transition” away from fossil fuels work.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2021/04/18/coal-country-revitalization-biden-482659",
-      "originalUrl": "https://www.politico.com/news/2021/04/18/coal-country-revitalization-biden-482659",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/b4/f4/20b4238648d1847bddb50f5e9183/210417-coal-kentucky-2-getty-773.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-18T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2021-04-17-swipes-at-china-as-joe-biden-and-japanese-pm-seek-united-front-in-asia-pacific.md",
       "title": "Swipes at China as Joe Biden and Japanese PM seek united front in Asia Pacific",
       "excerpt": "In his first in-person summit since taking office, the US president hosts Yoshihide Suga as part of efforts to face down Beijing",
@@ -1589,6 +1532,58 @@
         "Election",
         "Joe Biden",
         "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-08-biden-nominates-interior-deputy-as-departments-top-lawyer.md",
+      "title": "Biden nominates Interior deputy as department's top lawyer",
+      "excerpt": "President Biden Joe Biden Iran espionage-linked ship attacked at sea Biden exceeds expectations on vaccines — so far Jill Biden to visit Alabama with actress Jennifer Garner MORE has nominated ...",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/policy/energy-environment/546949-biden-nominates-interior-deputy-as-departments-top-lawyer",
+      "originalUrl": "https://thehill.com/policy/energy-environment/546949-biden-nominates-interior-deputy-as-departments-top-lawyer",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 1145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/deptofinterior11172020.jpg",
+          "width": 827,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/policy/energy-environment/546949-biden-nominates-interior-deputy-as-departments-top-lawyer?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/energy-environment/546949-biden-nominates-interior-deputy-as-departments-top-lawyer?amp",
+      "publishedDateTime": "2021-04-07T10:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
       ]
     }
   ],

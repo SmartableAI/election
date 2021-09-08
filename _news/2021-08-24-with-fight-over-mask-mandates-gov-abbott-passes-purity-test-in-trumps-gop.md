@@ -135,22 +135,6 @@ related:
         width: 1200
         height: 700
         isCached: true
-  - title: "Judge tosses Trump rollback of clean water safeguards"
-    excerpt: "A federal judge has thrown out a Trump-era rule that ended federal protections for hundreds of thousands of small streams, wetlands and other waterways and left them vulnerable to pollution from nearby development."
-    publishedDateTime: 2021-08-31T21:36:00Z
-    webUrl: "https://www.thehour.com/news/article/Judge-tosses-Trump-rollback-of-clean-water-16426305.php"
-    ampWebUrl: "https://www.thehour.com/news/amp/Judge-tosses-Trump-rollback-of-clean-water-16426305.php"
-    cdnAmpWebUrl: "https://www-thehour-com.cdn.ampproject.org/c/s/www.thehour.com/news/amp/Judge-tosses-Trump-rollback-of-clean-water-16426305.php"
-    type: article
-    provider:
-      name: The Hour
-      domain: thehour.com
-    quality: 75
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
   - title: "The House panel probing the Capitol riot seeks a host of Trump-era records"
     excerpt: "The requested documents are just the beginning of what is expected to be lengthy partisan and rancorous investigation."
     publishedDateTime: 2021-08-25T18:47:00Z
@@ -183,22 +167,6 @@ related:
         width: 800
         height: 534
         isCached: true
-  - title: "Republican Donors Show Disinterest In Trump 2024 Campaign, Focus On Midterms"
-    excerpt: "Top Republican Party donors have pushed back on fundraising for former President Donald Trump’s potential 2024 campaign and are instead focused on the 2022 midterm elections, CNBC reported Tuesday. Almost immediately after leaving the White House in January,"
-    publishedDateTime: 2021-08-31T21:38:00Z
-    webUrl: "https://www.ibtimes.com/republican-donors-show-disinterest-trump-2024-campaign-focus-midterms-3285139"
-    ampWebUrl: "https://www.ibtimes.com/republican-donors-show-disinterest-trump-2024-campaign-focus-midterms-3285139?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/republican-donors-show-disinterest-trump-2024-campaign-focus-midterms-3285139?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 72
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/07/07/former-us-president-donald-trump-reportedly-told-his.jpg"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "GOP Senate candidates take page from Trump playbook as they fight for populist title"
     excerpt: "Republicans in Ohio's Senate race are running on the message that propelled former President Donald Trump to office."
     publishedDateTime: 2021-08-23T10:26:00Z
@@ -229,17 +197,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Pro-Trump lawyers who pushed fraud cases face serious consequences"
-    excerpt: "Lawyers who sought to overturn the 2020 election results in key states, alleging fraud, were sanctioned last week by a federal judge in Michigan."
-    publishedDateTime: 2021-08-31T20:06:00Z
-    webUrl: "https://www.csmonitor.com/USA/Politics/2021/0831/Pro-Trump-lawyers-who-pushed-fraud-cases-face-serious-consequences"
-    ampWebUrl: "https://www.csmonitor.com/layout/set/amphtml/USA/Politics/2021/0831/Pro-Trump-lawyers-who-pushed-fraud-cases-face-serious-consequences"
-    cdnAmpWebUrl: "https://www-csmonitor-com.cdn.ampproject.org/c/s/www.csmonitor.com/layout/set/amphtml/USA/Politics/2021/0831/Pro-Trump-lawyers-who-pushed-fraud-cases-face-serious-consequences"
-    type: article
-    provider:
-      name: Christian Science Monitor
-      domain: csmonitor.com
-    quality: 55
   - title: "Trump in talks to sell rights to DC hotel, report says"
     excerpt: "Former President Donald Trump is in talks with hotel chains and investors to sell the leasing rights to his hotel in Washington, Axios reported."
     publishedDateTime: 2021-09-04T20:41:00Z

@@ -2,6 +2,243 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-09-03-donald-trump-told-jim-jordan-hell-announce-2024-run-any-day-now-report.md",
+      "title": "Donald Trump Told Jim Jordan He'll Announce 2024 Run 'Any Day Now': Report",
+      "excerpt": "Jim Jordan (R-OH) has reportedly told Undercurrent journalist Lauren Windsor that former President Donald Trump will announce his intention to run for head of state again in 2024 \"any day now.\" Undercurrent News calls itself \"a grassroots political web-show for investigative and field reporting.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/donald-trump-told-jim-jordan-announce-2024-run-any-day-now-report-1625778",
+      "originalUrl": "https://www.newsweek.com/donald-trump-told-jim-jordan-announce-2024-run-any-day-now-report-1625778",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 143,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1881943/trump-osama-bin-laden.jpg",
+          "width": 2500,
+          "height": 1665,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/donald-trump-told-jim-jordan-announce-2024-run-any-day-now-report-1625778?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-told-jim-jordan-announce-2024-run-any-day-now-report-1625778?amp=1",
+      "publishedDateTime": "2021-09-03T04:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-09-03-this-is-an-everybody-problem-study-by-wsu-researchers-links-trump-votes-with-lgbtq-bullying-in-schools.md",
+      "title": "‘This is an everybody problem’: Study by WSU researchers links Trump votes with LGBTQ+ bullying in schools",
+      "excerpt": "Hobaica co-authored a study published this summer examining the correlation between the political leanings of a school district and levels of bullying against LGBTQ+ students. To do so, authors used the 2018 Washington State Healthy Youth Survey,",
+      "sourceUrl": null,
+      "webUrl": "https://www.spokesman.com/stories/2021/sep/03/this-is-an-everybody-problem-study-by-wsu-research/",
+      "originalUrl": "https://www.spokesman.com/stories/2021/sep/03/this-is-an-everybody-problem-study-by-wsu-research/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumb.spokesman.com/KG-kgiXMHyqWGTDBbw19vnXTBWM=/480x0/media.spokesman.com/photos/2021/09/02/6131463fd3fde.hires.jpg",
+          "width": 480,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.spokesman.com/stories/2021/sep/03/this-is-an-everybody-problem-study-by-wsu-research/?amp-content=amp",
+      "cdnAmpWebUrl": "https://www-spokesman-com.cdn.ampproject.org/c/s/www.spokesman.com/stories/2021/sep/03/this-is-an-everybody-problem-study-by-wsu-research/?amp-content=amp",
+      "publishedDateTime": "2021-09-03T04:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Spokesman-Review",
+        "domain": "spokesman.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-09-03-biden-set-to-travel-to-louisiana-to-survey-damage-from-hurricane-ida.md",
+      "title": "Biden set to travel to Louisiana to survey damage from Hurricane Ida",
+      "excerpt": "President Joe Biden is headed to Louisiana on Friday to survey damage from Hurricane Ida, after almost a week of the deadly storm ravaging the eastern half of the United States.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vbv-IqXj3qo/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vbv-IqXj3qo/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210902140750-01-biden-ida-0902-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/09/03/politics/biden-hurricane-ida-travel-louisiana/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/09/03/politics/biden-hurricane-ida-travel-louisiana/index.html",
+      "publishedDateTime": "2021-09-03T03:08:38-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-09-03-trump-towers-key-tenants-have-fallen-behind-on-rent-and-moved-out-but-trump-has-one-reliable-customer-his-own-pac.md",
+      "title": "Trump Tower’s key tenants have fallen behind on rent and moved out. But Trump has one reliable customer: His own PAC.",
+      "excerpt": "Trump’s PAC pays more than $37,000 a month for space at the tower — the latest instance of Trump using donors’ money to prop up his businesses.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/trump-tower-pac-rent-campaign-finance/2021/09/02/dfeae19e-0b2f-11ec-9781-07796ffb56fe_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/trump-tower-pac-rent-campaign-finance/2021/09/02/dfeae19e-0b2f-11ec-9781-07796ffb56fe_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JEFP3DGEWII6VKBFQ4RAATSBKA.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-03T03:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-09-03-trump-backs-jones-in-georgia-renews-support-for-walker.md",
+      "title": "Trump backs Jones in Georgia, renews support for Walker",
+      "excerpt": "Former President Donald Trump put his thumb on the scale of Georgia Republican politics again Thursday, endorsing state Sen. Burt Jones in the GOP primary for lieutenant governor and reiterating his support for newly declared U.",
+      "sourceUrl": null,
+      "webUrl": "https://www.islandpacket.com/news/politics-government/national-politics/article253963198.html",
+      "originalUrl": "https://www.islandpacket.com/news/politics-government/national-politics/article253963198.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.islandpacket.com/news/politics-government/national-politics/article253963198.html",
+      "cdnAmpWebUrl": "https://amp-islandpacket-com.cdn.ampproject.org/c/s/amp.islandpacket.com/news/politics-government/national-politics/article253963198.html",
+      "publishedDateTime": "2021-09-03T02:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Island Packet",
+        "domain": "islandpacket.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-09-03-biden-gets-foggy-talking-about-daughters-wedding-my-mind-is-going-blank-now.md",
       "title": "Biden gets foggy talking about daughter's wedding: 'My mind is going blank now'",
       "excerpt": "President Biden appeared to get a bit confused Thursday when recalling his daughter's wedding during a virtual event to celebrate the start of the Jewish High Holidays.",
@@ -273,7 +510,7 @@
       "originalUrl": "https://www.newsweek.com/joe-biden-tells-federal-agencies-insulate-women-providers-texas-abortion-law-1625552",
       "featuredContent": null,
       "highlight": null,
-      "heat": 135,
+      "heat": 175,
       "tags": null,
       "images": [
         {
@@ -580,58 +817,6 @@
       ]
     },
     {
-      "path": "_news/2021-09-02-trump-justices-cast-crucial-votes-on-texas-abortion-ban-undermining-roe-v-wade.md",
-      "title": "Trump Justices Cast Crucial Votes on Texas Abortion Ban Undermining Roe v. Wade",
-      "excerpt": "The Supreme Court has declined to prevent a new law in Texas that severely restricts abortion access from coming into effect. The law will effectively ban all abortions in the state after around six weeks of pregnancy in what reproductive rights advocates view as a blow to the precedent set in Roe v.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/trump-justices-cast-crucial-votes-texas-abortion-ban-undermining-roe-v-wade-1625266",
-      "originalUrl": "https://www.newsweek.com/trump-justices-cast-crucial-votes-texas-abortion-ban-undermining-roe-v-wade-1625266",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 241,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1885475/trump-appointed-justices-shown-composite-image.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/trump-justices-cast-crucial-votes-texas-abortion-ban-undermining-roe-v-wade-1625266?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-justices-cast-crucial-votes-texas-abortion-ban-undermining-roe-v-wade-1625266?amp=1",
-      "publishedDateTime": "2021-09-02T01:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-09-02-things-are-not-working-well-for-the-trump-picked-pandemic-relief-watchdog.md",
       "title": "Things are 'not working well' for the Trump-picked pandemic relief watchdog",
       "excerpt": "\"Everybody kind of expects you to fail. It's kind of set up to fail,\" Brian Miller told Insider.",
@@ -905,58 +1090,6 @@
       ]
     },
     {
-      "path": "_news/2021-09-02-trump-fans-election-fraud-theme-as-virginia-governor-candidate-youngkin-walks-tightrope.md",
-      "title": "Trump fans election fraud theme as Virginia governor candidate Youngkin walks tightrope",
-      "excerpt": "Former president Donald Trump on Wednesday warned that Democrats might try to steal the Virginia governor's race, pegging his prediction on baseless claims of 2020 election fraud that Republican candidate Glenn Youngkin has flirted with but not fully embraced.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/local/virginia-politics/trump-virginia-governor-youngkin-election/2021/09/01/c8583584-0b3b-11ec-aea1-42a8138f132a_story.html",
-      "originalUrl": "https://www.washingtonpost.com/local/virginia-politics/trump-virginia-governor-youngkin-election/2021/09/01/c8583584-0b3b-11ec-aea1-42a8138f132a_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 192,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/X2IE7EQLOYI6ZLVBIKUBHDYTFI.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-01T15:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-09-01-biden-administration-guidance-limiting-ice-arrests-sees-pushback-from-16-states.md",
       "title": "Biden administration guidance limiting ICE arrests sees pushback from 16 states",
       "excerpt": "A coalition of 16 attorneys general is pushing back against \"interim guidance\" issued under President Biden’s administration which limits the number of deportations and immigration-related arrests by U.S. Immigration and Customs Enforcement (ICE).",
@@ -1154,161 +1287,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/biden-texas-abortion-law-extreme-violation-of-roe-v-wade.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-texas-abortion-law-extreme-violation-of-roe-v-wade.amp",
       "publishedDateTime": "2021-09-01T11:56:31-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-09-01-mcconnell-there-isnt-going-to-be-an-impeachment-of-biden.md",
-      "title": "McConnell: 'There isn't going to be an impeachment' of Biden",
-      "excerpt": "Senate Republican Leader Mitch McConnell said Wednesday that \"there isn't going to be an impeachment\" of President Joe Biden over the withdrawal of US troops from Afghanistan, noting that Democrats control the House and Senate.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tFLpMm3w29U/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tFLpMm3w29U/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200830232940-joe-biden-mitch-mcconnell-photo-split-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/09/01/politics/mitch-mcconnell-impeachment-biden/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/09/01/politics/mitch-mcconnell-impeachment-biden/index.html",
-      "publishedDateTime": "2021-09-01T11:11:19-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-09-01-biden-defends-departure-from-forever-war-praises-airlift.md",
-      "title": "Biden defends departure from 'forever war,' praises airlift",
-      "excerpt": "A defensive President Joe Biden called the U.S. airlift to extract more than 120,000 Americans, Afghans and other allies from Afghanistan to end a 20-year war an “extraordinary success,\" though more than 100 Americans and thousands of others were left behind.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chron.com/news/article/Biden-defends-departure-from-forever-war-16427032.php",
-      "originalUrl": "https://www.chron.com/news/article/Biden-defends-departure-from-forever-war-16427032.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
-          "width": 600,
-          "height": 336,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.chron.com/news/amp/Biden-defends-departure-from-forever-war-16427032.php",
-      "cdnAmpWebUrl": "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Biden-defends-departure-from-forever-war-16427032.php",
-      "publishedDateTime": "2021-09-01T06:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Houston Chronicle",
-        "domain": "chron.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-09-01-aoc-slams-bidens-rahm-emanuel-nomination-as-deeply-shameful.md",
-      "title": "AOC slams Biden's Rahm Emanuel nomination as 'deeply shameful'",
-      "excerpt": "Rep. Alexandria Ocasio-Cortez, D-N.Y., forcefully came out against the nomination of former Chicago Mayor Rahm Emanuel to be the next U.S. ambassador to Japan, calling the selection \"deeply shameful.\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/0sbkC3edoTA/aoc-biden-nomination-rahm-emanuel-ambassador-to-japan",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/0sbkC3edoTA/aoc-biden-nomination-rahm-emanuel-ambassador-to-japan",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/aoc-biden-nomination-rahm-emanuel-ambassador-to-japan.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aoc-biden-nomination-rahm-emanuel-ambassador-to-japan.amp",
-      "publishedDateTime": "2021-09-01T05:45:18-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

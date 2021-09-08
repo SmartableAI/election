@@ -25,35 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "In NYC after IDA, Biden calls climate ‘everybody’s crisis’"
-    excerpt: "President Joe Biden declared climate change “everybody's crisis” on Tuesday after touring neighborhoods severely damaged by the remnants of Hurricane Ida and said it's time for America to get serious about the danger or face ever worse loss of life and property."
-    publishedDateTime: 2021-09-07T21:42:00Z
-    webUrl: "https://apnews.com/article/floods-storms-52e6e031e5e4286dcd8c5db2175a9698"
+  - title: "Joe Biden walks storm-ravaged Louisiana: “I know you’re hurting”"
+    excerpt: "Less than a week after Hurricane Ida battered the Gulf Coast, President Joe Biden walked the streets of a hardhit Louisiana neighborhood on Friday and told local residents, “I know you’re hurting, I know you’re hurting."
+    publishedDateTime: 2021-09-03T23:58:00Z
+    webUrl: "https://www.denverpost.com/2021/09/03/joe-biden-walks-storm-ravaged-louisiana/"
+    ampWebUrl: "https://www.denverpost.com/2021/09/03/joe-biden-walks-storm-ravaged-louisiana/amp/"
+    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2021/09/03/joe-biden-walks-storm-ravaged-louisiana/amp/"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 105
-    images:
-      - url: "https://storage.googleapis.com/afs-prod/media/b67ef898bb434221a1d8e8fef8c517a0/3000.jpeg"
-        width: 3000
-        height: 2000
-        isCached: true
-  - title: "Biden to visit areas of NYC, N.J. damaged by floods from Hurricane Ida"
-    excerpt: "President Joe Biden on Tuesday will visit New York City and multiple locations in New Jersey that were heavily damaged by major flooding and rains that killed dozens of people last week."
-    publishedDateTime: 2021-09-07T11:48:00Z
-    webUrl: "https://www.upi.com/Top_News/US/2021/09/07/new-york-jersey-joe-biden-hurricane-ida/7121631012476/"
-    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/09/07/new-york-jersey-joe-biden-hurricane-ida/7121631012476/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/09/07/new-york-jersey-joe-biden-hurricane-ida/7121631012476/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
+      name: The Denver Post
+      domain: denverpost.com
     quality: 75
     images:
-      - url: "https://cdnph.upi.com/sv/ph/og/i/7121631012476/2021/1/16310151479197/v1.5/Biden-to-visit-areas-of-NYC-NJ-damaged-by-floods-from-Hurricane-Ida.jpg"
-        width: 800
-        height: 533
+      - url: "https://www.denverpost.com/wp-content/uploads/2021/09/AP21246697540433.jpg?w=1024&#038;h=683"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Watch live: President Joe Biden to address storm devastated region from LaPlace"
+    excerpt: "President Joe Biden arrived in the storm devastated region on Friday to see the damage caused by Hurricane Ida first hand. He is scheduled to make remarks this afternoon from LaPlace. Watch Biden's remarks live in the player below. Can't see the video?"
+    publishedDateTime: 2021-09-03T19:53:00Z
+    webUrl: "https://www.nola.com/news/article_a5abc5bc-0cf0-11ec-9097-a72190939a4f.html"
+    type: article
+    provider:
+      name: NOLA.com
+      domain: nola.com
+    quality: 51
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/nola.com/content/tncms/assets/v3/editorial/d/c3/dc398d03-b1ad-5e9c-a416-76ef41dd07f3/61326f876679f.image.jpg?resize=1034%2C630"
+        width: 1034
+        height: 630
         isCached: true
   - title: "Biden surveys Hurricane Ida storm damage in New York and New Jersey after deadly flooding"
     excerpt: "Pointing accusingly at climate change, President Joe Biden toured deadly Northeast flood damage Tuesday and said he was thinking about the all families who suffered"
@@ -70,6 +70,6 @@ related:
         height: 630
         isCached: true
 
-secured: "JX/J7FDgJHOUkpLKQuPZI8GKgyrKt4cwBUb+Tn9qzZsCYsWbIoOxjognorLJKTT1+9/kG/pqLyeoYc1LA5weox42Fgsq6rBUdbPxkpMCZNpf66IYeeo6HveRnBuI6QKJSbZUDWjt8ZYKSMtB+pFbL14DqdlKEA5divK+IMQ07YD72kl9G7LVinK2EluAdIP2u7VPFjRV10+ASPpvX0W083m+FHRdi4vxGOnqDtE1XfspdYf+E3dVWNHKWxCUy5LNAt4Ji7mwREfs5mFmqJJKezwcJDV+dyK8mRcZBR1Qu1+PHdq9ThC5daOUycsvtqut/cFD4EKE1/cl2Y98NJnV0PqPjgdBxgVeC9XdraEPR90=;R3gYeFifBqegOnBHSXt1GA=="
+secured: "vlnTkpOgmiREVwxcerH0hS7ceow1D9DN/jBZ3b1HCRJ13iNi+rTVw3WzgMyVMCTFkttriFfVd11aJtyr2/6jY7ABlnoBuvGfzeVRGhz4ALnyLaxg6dGJivOhYDw2Pqcu0maxvElF+xnRSFE4xbOQlJErb5JnlEC/ZYpseBf6/dPLmnK4Na9rOMTA7We5JCxL/ODI+ar8adnDI9Kk6urbv1v6iA5qVchdqwIXqBha4rQxBiWThqUcXrfHiAkmCBfIUPGvtsYEvoAUp0PyMS2JZr4stBweFRAOpw8SSLc5i0d3KN9ndBPwW1ufJvM2aNiHD+RybxK3iERcyva3IkhvnR2kduq4/2KbgQexYZlPNwWJK/ys93qoogjuSxtjezF0zmvv2srLXIMoItHlIsNc5dV2RKEwcvloOn4P+kHRHOXeylmPnuevrH9eD7M3AVIBGA2EEgw83WqIoPMvOqYT0O+ouifrmwzNWadBnV4JHXd4S57bRRzXTYw7JUolfxvxs7x9arJ95O1eZ1VtEVtHow==;BUdPps8O6G22Y9+FcUiG6w=="
 ---
 
