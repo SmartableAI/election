@@ -1,22 +1,30 @@
 ---
 category: news
 title: "California recall vote offers test of Biden political clout"
-excerpt: "President Joe Biden has been beset by public health, military and climate crises in the past month. Not much time has been left for a potential political disaster brewing for his party in California."
-publishedDateTime: 2021-09-08T07:08:00Z
-originalUrl: "https://lasvegassun.com/news/2021/sep/08/california-recall-vote-offers-test-of-biden-politi/"
-webUrl: "https://lasvegassun.com/news/2021/sep/08/california-recall-vote-offers-test-of-biden-politi/"
+excerpt: "President Joe Biden has been beset by public health, military and climate crises in the past month. Not much time has been left for a potential political disaster brewing for his party in California Biden himself to try to alleviate lingering concerns about Democratic turnout in the unusual September vote."
+publishedDateTime: 2021-09-08T13:17:00Z
+originalUrl: "https://www.ourmidland.com/news/article/California-recall-vote-offers-test-of-Biden-16442015.php"
+webUrl: "https://www.ourmidland.com/news/article/California-recall-vote-offers-test-of-Biden-16442015.php"
+ampWebUrl: "https://www.ourmidland.com/news/amp/California-recall-vote-offers-test-of-Biden-16442015.php"
+cdnAmpWebUrl: "https://www-ourmidland-com.cdn.ampproject.org/c/s/www.ourmidland.com/news/amp/California-recall-vote-offers-test-of-Biden-16442015.php"
 type: article
-quality: 35
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: Las Vegas Sun
-  domain: lasvegassun.com
+  name: Our Midland MI
+  domain: ourmidland.com
 
 topics:
   - Election
   - Joe Biden
+
+images:
+  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+    width: 600
+    height: 336
+    isCached: true
 
 related:
   - title: "Biden administration restores $929 mln for California high speed rail"
@@ -77,6 +85,6 @@ related:
         height: 682
         isCached: true
 
-secured: "7z7x9EFd87cg1jy8UT9MoIUOsaAJAq3z5ikRX01VcVRZyhWMGNFbcgY4Ff4Ru2kqB8MXG0S/y7BCFLGTr+MI10WvqJ5goHwNLQLgqjugbzskc7Eiy9U6Z7jRGcsOEGv6uOIxMuGkxBNG5zd8pjUaDgesVqHlG+diAdMXbbCdamn2RF7ZvkwGRBe8NVPIXF3MZOZ7HYWfUezXBZ5FKzycCTdSWV7c7v8gsZfcmaWQ51xV7yNFQrCaRfNFOVPc1qXGHvvzgcZLeu5AicPOCsngwCCznPg1aSYHpPtfWqVjlMhVK6+1b0lAlA3ugZB1Ck6Abf2GoAG6w/g8/2zhXXmhtv1yw3I2XMBpJ55LDgbG/6iPDYYG+jFmPPD8qSYnp1WWxc2j6bjxFj9Hf5fQPtcypuL3n+0ADxRa7QHIG66UJ7BRkKXLNSDbEFrbR6JV2u+W37r6yPxBo+1+mDHTJ0mdY79BKICPSGCFchW5CckgLuMz4xxueId9p8BtKnhB75wrUy0fBSEFN+3NFRVuSNOXxA==;2jh9EQsqbEUIHl+ngl+zjg=="
+secured: "05yMUrgvtTxkOKrwYDO2rjuQk3tMDxg7HD1O1W9Q2ioVgw+8GpHQTy4vX3y89ConVIspYi/PdnTrStXbejHC0F0pH9MnxQsW7fhuePBlFjAM3tJYbiasrCBT9ktS0jibqkAPP7NfQXtpuFg5iSepLc9ffycMbwkjs5tHFGBGEr0zHGMz8DjN3AXQGLsr+R619CkEAtLUI3qK/rBi12ty/efIQHCzRLvZoFdhTHqvBvBQQwFaL3YqsW3HIybLGGDBkwgbtxPRzNT2xuDGPwaJD6+8VGaRlF+K0zngm7iNci63DwM2svqR2io6BiRWCVZn3w96ZysjFaUVTkPiRVcuAxIUvitH0gnNPM9eAkRv+vs=;uzwaYSUi3MZQaeuk+D4wmg=="
 ---
 

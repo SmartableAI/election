@@ -143,6 +143,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden misses deadline to provide GOP senators with number of Americans left behind in Afghanistan"
+    excerpt: "President Biden missed a deadline Tuesday evening set by Republican senators who demanded he provide the exact number of Americans, green card holders and special immigrant visa applicants who remain in Afghanistan."
+    publishedDateTime: 2021-09-08T17:07:07Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sMPz4lWG1vM/biden-deadline-senators-americans-left-behind-afghanistan"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-deadline-senators-americans-left-behind-afghanistan.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-deadline-senators-americans-left-behind-afghanistan.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b9a0c2dd-1e66-4317-8b67-9f4161e8908c/9cf29e65-61e2-46f5-8c39-978298d0794e/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Border agents slam Biden for securing Tajikistan's border while US border in crisis: 'Slap in the face'"
     excerpt: "President Biden's decision to help secure Tajikistan's border with Afghanistan has infuriated those on the front lines of the U.S. border crisis, who say that America's own southern border still isn't secure."
     publishedDateTime: 2021-09-02T23:01:22Z

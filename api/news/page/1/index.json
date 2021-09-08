@@ -2,6 +2,419 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-09-09-pelosi-to-hold-security-briefing-ahead-of-sept-18-rally-planned-by-trump-supporters.md",
+      "title": "Pelosi to hold security briefing ahead of Sept. 18 rally planned by Trump supporters",
+      "excerpt": "Speaker Nancy Pelosi has invited her fellow congressional leaders from the House and Senate to attend a security briefing about an upcoming rally planned at the Capitol in support people who were arrested during the Jan.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/congress/pelosi-hold-security-briefing-ahead-sept-18-rally-planned-trump-n1278713",
+      "originalUrl": "https://www.nbcnews.com/politics/congress/pelosi-hold-security-briefing-ahead-sept-18-rally-planned-trump-n1278713",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 128,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_36/3504362/210908-nancy-pelosi-ew-1238p.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1278713",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1278713",
+      "publishedDateTime": "2021-09-08T10:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-09-08-top-jimmy-carter-aide-says-biden-admin-is-reminiscent-of-reliving-carter-years.md",
+      "title": "Top Jimmy Carter aide says Biden admin is 'reminiscent of reliving' Carter years",
+      "excerpt": "Former White House deputy chief of staff under Carter, Les Francis, said that President Biden seems unable to “catch a break” amid the chaotic, crisis-ridden first year of his term.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8PiYsm3iSrQ/top-jimmy-carter-aide-says-biden-admin-is-reminiscent-of-reliving-carter-years",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8PiYsm3iSrQ/top-jimmy-carter-aide-says-biden-admin-is-reminiscent-of-reliving-carter-years",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 170,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fce9db3d-9d8c-42e7-a5e0-eb6777d4f9ee/80bbd468-54e3-49a9-a0e0-8398c2ee7e4c/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/top-jimmy-carter-aide-says-biden-admin-is-reminiscent-of-reliving-carter-years.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/top-jimmy-carter-aide-says-biden-admin-is-reminiscent-of-reliving-carter-years.amp",
+      "publishedDateTime": "2021-09-08T08:03:03-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-09-08-donald-trump-will-call-evander-holyfield-vitor-belfort-fight-with-son-don-jr.md",
+      "title": "Donald Trump will call Evander Holyfield-Vitor Belfort fight with son Don Jr.",
+      "excerpt": "Former President Donald Trump and his son Donald Trump Jr. will provide commentary on a “gamecast” for Saturday’s pay-per-view boxing event led by the Evander Holyfield vs. Vitor",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/09/08/donald-trump-and-son-calling-belfort-holyfield-triller-fight/",
+      "originalUrl": "https://nypost.com/2021/09/08/donald-trump-and-son-calling-belfort-holyfield-triller-fight/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 112,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/09/08/donald-trump-and-son-calling-belfort-holyfield-triller-fight/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/09/08/donald-trump-and-son-calling-belfort-holyfield-triller-fight/amp/",
+      "publishedDateTime": "2021-09-08T07:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-09-08-donald-trump-to-provide-commentary-on-boxing-match-between-evander-holyfield-and-vitor-belfort.md",
+      "title": "Donald Trump to provide commentary on boxing match between Evander Holyfield and Vitor Belfort",
+      "excerpt": "President Donald Trump will host and commentate the Triller Fight Club heavyweight boxing match between Evander Holyfield and Vitor Belfort. Trump is providing \"guest commentary\" for the fight, which will take place at the Seminole Hard Rock Hotel in Hollywood,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/news/sports/donald-trump-provide-commentary-boxing-match-between-evander-holyfield-vitor-n1278685",
+      "originalUrl": "https://www.nbcnews.com/news/sports/donald-trump-provide-commentary-boxing-match-between-evander-holyfield-vitor-n1278685",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_36/3504322/210917-donald-trump-mn-1015.jpg",
+          "width": 3489,
+          "height": 2327,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1278685",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1278685",
+      "publishedDateTime": "2021-09-08T07:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-09-08-gold-star-mom-invites-trump-to-sons-funeral-would-be-such-an-honor.md",
+      "title": "Gold Star mom invites Trump to son's funeral: 'Would be such an honor'",
+      "excerpt": "A California Gold Star mother whose Marine son was killed in last month’s ISIS suicide terror attack outside Kabul’s international airport invited former President Trump to her child’s funeral, writing on Facebook that “[i]t would be such an honor” if he could be there.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ecpP8vhOKCY/mom-invites-trump-sons-funeral-honor",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ecpP8vhOKCY/mom-invites-trump-sons-funeral-honor",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 215,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b8170602-a7b7-4573-b8cb-b65b69a3d703/ae6557dc-bd9e-41d6-9033-898ec939eb36/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/mom-invites-trump-sons-funeral-honor.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mom-invites-trump-sons-funeral-honor.amp",
+      "publishedDateTime": "2021-09-08T07:16:23-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-09-08-trump-fueled-by-stress-and-looking-younger-at-75-don-jr-says.md",
+      "title": "Trump ‘fueled by stress’ and looking younger at 75, Don Jr. says",
+      "excerpt": "The secret to former President Donald Trump looking good at 75? Agita. Donald Trump Jr. said “stress fuels him” and pointed out that his father has had to take “more crap than",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/09/08/trump-fueled-by-stress-and-looking-younger-at-75-don-jr-says/",
+      "originalUrl": "https://nypost.com/2021/09/08/trump-fueled-by-stress-and-looking-younger-at-75-don-jr-says/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/09/donald-trump-health-03.jpg?quality=90&strip=all&w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/09/08/trump-fueled-by-stress-and-looking-younger-at-75-don-jr-says/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/09/08/trump-fueled-by-stress-and-looking-younger-at-75-don-jr-says/amp/",
+      "publishedDateTime": "2021-09-08T06:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-09-08-fact-check-did-chinese-media-depict-joe-biden-as-loser-soldier-captured-by-taliban.md",
+      "title": "Fact Check: Did Chinese Media Depict Joe Biden as 'Loser' Soldier Captured by Taliban?",
+      "excerpt": "A cartoon of President Joe Biden surrendering to Taliban militants appeared on popular social media sites in the final days of the U.S. military withdrawal from Afghanistan. An illustration showing a giant figure of Biden—in military fatigues and kneeling on the ground while surrounded by smaller Taliban fighters—was said to have been produced by China 's state-owned media to mock America.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/fact-check-did-chinese-media-depict-joe-biden-loser-soldier-captured-taliban-1626732",
+      "originalUrl": "https://www.newsweek.com/fact-check-did-chinese-media-depict-joe-biden-loser-soldier-captured-taliban-1626732",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1889652/president-joe-biden-addresses-nation-afghanistan.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/fact-check-did-chinese-media-depict-joe-biden-loser-soldier-captured-taliban-1626732?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/fact-check-did-chinese-media-depict-joe-biden-loser-soldier-captured-taliban-1626732?amp=1",
+      "publishedDateTime": "2021-09-08T03:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-09-08-trump-announces-rallies-in-georgia-iowa-as-2024-speculation-mounts.md",
+      "title": "Trump announces rallies in Georgia, Iowa as 2024 speculation mounts",
+      "excerpt": "Former President Donald Trump will hold two more campaign-style rallies in the coming weeks, as speculation continues to grow that he will make yet another run for the White House in 2024.",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/09/08/trump-to-hold-rallies-in-georgia-iowa-amid-rumors-of-2024-presidential-run/",
+      "originalUrl": "https://nypost.com/2021/09/08/trump-to-hold-rallies-in-georgia-iowa-amid-rumors-of-2024-presidential-run/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/09/AFP_9LP8WG.jpg?quality=90&strip=all&w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/09/08/trump-to-hold-rallies-in-georgia-iowa-amid-rumors-of-2024-presidential-run/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/09/08/trump-to-hold-rallies-in-georgia-iowa-amid-rumors-of-2024-presidential-run/amp/",
+      "publishedDateTime": "2021-09-08T01:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-09-08-donald-trump-son-to-provide-commentary-on-evander-holyfield-vitor-belfort-alternate-telecast.md",
       "title": "Donald Trump, son to provide commentary on Evander Holyfield-Vitor Belfort alternate telecast",
       "excerpt": "Former president Donald Trump has signed a contract to provide commentary on a \"gamecast\" of Saturday's boxing event headlined by Evander Holyfield vs. Vitor Belfort, Triller told ESPN. His son, Donald Trump Jr.",
@@ -239,62 +652,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/biden-protesters-who-heckled-him-as-he-toured-storm-damaged-northeast-they-dont-understand.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-protesters-who-heckled-him-as-he-toured-storm-damaged-northeast-they-dont-understand.amp",
       "publishedDateTime": "2021-09-07T15:01:05-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-09-07-fox-news-confirms-trump-to-hold-rally-next-month-at-iowa-state-fairgrounds.md",
-      "title": "Fox News confirms: Trump to hold rally next month at Iowa State Fairgrounds",
-      "excerpt": "Donald Trump is set to return to Iowa next month where he will hold a rally in Des Moines, a source familiar with the former president's political operation has confirmed to Fox News.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/p1SQXkab8YE/trump-to-hold-rally-next-month-at-iowa-state-fairgrounds",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/p1SQXkab8YE/trump-to-hold-rally-next-month-at-iowa-state-fairgrounds",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 213,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2d61962e-952f-4698-9058-a9a01195062c/626edbfe-3d45-4eba-88a5-2e3e1a4f31ac/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-to-hold-rally-next-month-at-iowa-state-fairgrounds.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-to-hold-rally-next-month-at-iowa-state-fairgrounds.amp",
-      "publishedDateTime": "2021-09-07T14:11:13-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -689,7 +1046,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 806,
+      "heat": 906,
       "tags": null,
       "images": [
         {
@@ -853,7 +1210,7 @@
       "originalUrl": "https://www.newsweek.com/joe-biden-chants-break-college-football-games-country-1626438",
       "featuredContent": null,
       "highlight": null,
-      "heat": 141,
+      "heat": 161,
       "tags": null,
       "images": [
         {
@@ -951,356 +1308,6 @@
         "Election",
         "Joe Biden",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-09-06-the-trump-factor-newsom-spotlights-former-president-in-california-gubernatorial-recall-election.md",
-      "title": "The Trump factor: Newsom spotlights former president in California gubernatorial recall election",
-      "excerpt": "He’s not on the ballot in the California recall election of Gov. Gavin Newsom, but former President Trump’s front and center as the embattled Democratic governor fights to save his job steering the Golden State.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/DqxgJTzrifo/the-trump-factor-newsom-spotlights-former-president-in-california-gubernatorial-recall-election",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/DqxgJTzrifo/the-trump-factor-newsom-spotlights-former-president-in-california-gubernatorial-recall-election",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 197,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/the-trump-factor-newsom-spotlights-former-president-in-california-gubernatorial-recall-election.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/the-trump-factor-newsom-spotlights-former-president-in-california-gubernatorial-recall-election.amp",
-      "publishedDateTime": "2021-09-06T07:42:38-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-09-06-americans-emailed-pence-officials-asking-to-remove-trump-from-office-after-capitol-riot.md",
-      "title": "Americans Emailed Pence, Officials Asking to Remove Trump From Office After Capitol Riot",
-      "excerpt": "Emails accused Trump of inciting the violence and called for members of the administration to take drastic action.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/americans-emailed-pence-officials-asking-remove-trump-office-after-capitol-riot-1626418",
-      "originalUrl": "https://www.newsweek.com/americans-emailed-pence-officials-asking-remove-trump-office-after-capitol-riot-1626418",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 191,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1888243/mike-pence-25th-amendment-trump-removal-january6.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/americans-emailed-pence-officials-asking-remove-trump-office-after-capitol-riot-1626418?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/americans-emailed-pence-officials-asking-remove-trump-office-after-capitol-riot-1626418?amp=1",
-      "publishedDateTime": "2021-09-06T06:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-09-06-joe-bidens-granddaughter-naomi-announces-engagement-to-longtime-beau-peter-neal.md",
-      "title": "Joe Biden's Granddaughter Naomi Announces Engagement To Longtime Beau Peter Neal",
-      "excerpt": "Naomi Biden, President Joe Biden's granddaughter, is now engaged. The 27-year-old daughter of Hunter Biden with ex-wife Kathleen Buhle took to Instagram Wednesday to confirm she's tying the knot with her longtime beau,",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/joe-bidens-granddaughter-naomi-announces-engagement-longtime-beau-peter-neal-3289026",
-      "originalUrl": "https://www.ibtimes.com/joe-bidens-granddaughter-naomi-announces-engagement-longtime-beau-peter-neal-3289026",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/07/04/us-president-joe-biden-2nd-l-first-lady.jpg",
-          "width": 1024,
-          "height": 681,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/joe-bidens-granddaughter-naomi-announces-engagement-longtime-beau-peter-neal-3289026?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/joe-bidens-granddaughter-naomi-announces-engagement-longtime-beau-peter-neal-3289026?amp=1",
-      "publishedDateTime": "2021-09-06T03:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-09-06-curley-bad-news-is-nothing-a-little-spin-cant-fix-at-biden-white-house.md",
-      "title": "Curley: Bad news is nothing a little spin can’t fix at Biden White House",
-      "excerpt": "Where is the White House cat? I only ask because we were specifically cautioned by White House press secretary Jen Psaki that the feline might appear when the going got tough. “I’ve",
-      "sourceUrl": null,
-      "webUrl": "https://www.bostonherald.com/2021/09/05/curley-bad-news-is-nothing-a-little-spin-cant-fix-at-biden-white-house/",
-      "originalUrl": "https://www.bostonherald.com/2021/09/05/curley-bad-news-is-nothing-a-little-spin-cant-fix-at-biden-white-house/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.bostonherald.com/wp-content/uploads/2021/03/AP21085637016977.jpg?w=1024&#038;h=683",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bostonherald.com/2021/09/05/curley-bad-news-is-nothing-a-little-spin-cant-fix-at-biden-white-house/amp/",
-      "cdnAmpWebUrl": "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2021/09/05/curley-bad-news-is-nothing-a-little-spin-cant-fix-at-biden-white-house/amp/",
-      "publishedDateTime": "2021-09-05T20:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Boston Herald",
-        "domain": "bostonherald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-09-06-melania-trump-doesnt-want-to-be-first-lady-again-its-over.md",
-      "title": "Melania Trump Doesn’t Want To Be First Lady Again: ‘It’s Over’",
-      "excerpt": "Melania Trump, the wife of former President Donald Trump, has no interest in returning to the White House as the first lady again, according to a report. The former first lady has",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/melania-trump-doesnt-want-be-first-lady-again-its-over-3288729",
-      "originalUrl": "https://www.ibtimes.com/melania-trump-doesnt-want-be-first-lady-again-its-over-3288729",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/02/03/melania-trump-seen-here-on-january-20-which.jpg",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/melania-trump-doesnt-want-be-first-lady-again-its-over-3288729?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/melania-trump-doesnt-want-be-first-lady-again-its-over-3288729?amp=1",
-      "publishedDateTime": "2021-09-05T18:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-09-06-crisis-isnt-over-progressives-push-biden-to-revive-unemployment-benefits-amid-pandemic.md",
-      "title": "'Crisis Isn't Over': Progressives Push Biden to Revive Unemployment Benefits Amid Pandemic",
-      "excerpt": "\"We're still in a pandemic, and the latest jobs numbers prove that. Doing our part to support Americans right now includes extending expanded\" unemployment insurance benefits, Representative Jamaal Bowman told Newsweek.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/crisis-isnt-over-progressives-push-biden-revive-unemployment-benefits-amid-pandemic-1626267",
-      "originalUrl": "https://www.newsweek.com/crisis-isnt-over-progressives-push-biden-revive-unemployment-benefits-amid-pandemic-1626267",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1887979/ocasio-cortez-jamaal-bowman-progressive-unemployment-benefits-revive.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/crisis-isnt-over-progressives-push-biden-revive-unemployment-benefits-amid-pandemic-1626267?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/crisis-isnt-over-progressives-push-biden-revive-unemployment-benefits-amid-pandemic-1626267?amp=1",
-      "publishedDateTime": "2021-09-05T14:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-09-06-trumps-long-campaign-to-steal-the-presidency-a-timeline.md",
-      "title": "Trump’s Long Campaign to Steal the Presidency: A Timeline",
-      "excerpt": "The insurrection wasn’t a one-day event. It was the culmination of a multifaceted, yearslong plot — and it isn’t over.",
-      "sourceUrl": null,
-      "webUrl": "https://nymag.com/intelligencer/article/trump-campaign-steal-presidency-timeline.html",
-      "originalUrl": "https://nymag.com/intelligencer/article/trump-campaign-steal-presidency-timeline.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://pyxis.nymag.com/v1/imgs/0c7/d7c/20a3acd661e5113bfd8825a177d26a0649-trump-steal-01.1x.rsocial.w1200.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nymag.com/intelligencer/amp/article/trump-campaign-steal-presidency-timeline.html",
-      "cdnAmpWebUrl": "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/article/trump-campaign-steal-presidency-timeline.html",
-      "publishedDateTime": "2021-09-05T13:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Magazine",
-        "domain": "nymag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

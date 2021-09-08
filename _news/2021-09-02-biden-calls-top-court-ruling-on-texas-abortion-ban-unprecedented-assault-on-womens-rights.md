@@ -71,6 +71,22 @@ related:
         width: 1024
         height: 643
         isCached: true
+  - title: "'An all-out assault on our democracy' | President Joe Biden speaks out against new Texas voting rights law"
+    excerpt: "Biden urged Congress to send both bills “to my desk immediately.” “We’re facing an all-out assault on our democracy,” Biden wrote in a tweet. “We need to pass the For the People Act and the John Lewis Voting Rights Advancement Act to protect the sacred right to vote."
+    publishedDateTime: 2021-09-08T11:40:00Z
+    webUrl: "https://www.khou.com/article/news/politics/president-joe-biden-kamala-harris-texas-voting-rights-law/269-552e0c5f-4871-4a5d-8bc1-c561ae193511"
+    ampWebUrl: "https://www.khou.com/amp/article/news/politics/president-joe-biden-kamala-harris-texas-voting-rights-law/269-552e0c5f-4871-4a5d-8bc1-c561ae193511"
+    cdnAmpWebUrl: "https://www-khou-com.cdn.ampproject.org/c/s/www.khou.com/amp/article/news/politics/president-joe-biden-kamala-harris-texas-voting-rights-law/269-552e0c5f-4871-4a5d-8bc1-c561ae193511"
+    type: article
+    provider:
+      name: KHOU 11
+      domain: khou.com
+    quality: 57
+    images:
+      - url: "https://media.khou.com/assets/KHOU/images/275f81fd-b79a-420e-aa1c-c32cb165a206/275f81fd-b79a-420e-aa1c-c32cb165a206_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
 
 secured: "m7owM1+ECGl/lZ9kzkFsVKQOueMCAMQvy5qlVuF/b0D3ZlrqIwJwWLtJMm/6of0zVISr8Bccyl2QBYb9uqrLmUWG8nn87sGR+53OwfrE7FIWK7+BH04Qnke/QtbMOmqn7l9UyBY0m6jtRw0qpOTZ4CyjMYYI7+9z8KzNtFB8Fx2pXO5u0vt7/1lNA2PRJ3h+H5X/S7CI4EhOkpa972xXJc7P9z24kC4A9eND+zLIlFD3tzn18RNUFYLukiretMolij/CkkuT6oZ5t7Og3/TDx6dxP4Eq6ok/T8cvKOL2cdVYSO3VeTiqX4Bx4EvHn4GFFesB33Oz2dK71AmL36iXrH5Q25ut0qRvnr7QgVHuglI4UtremO1HlYcCvSVBFqq5YVmYTlVmWriQJt2QIVJZufK7r4HHFq/Ey6VZ6hra3uIwTqCcBW5h1KCRGY3N2rB8iwHXp60334pOtOoe+3/F7n3Lv1OFssSlAbz8D4Yc7h2bJzd7UxWnrDJMV9G4+o6/wlG2Q6JDuA7cPW3BCBs7Gg==;pAPnPl2RxByn7DD1Ib3eZg=="
 ---

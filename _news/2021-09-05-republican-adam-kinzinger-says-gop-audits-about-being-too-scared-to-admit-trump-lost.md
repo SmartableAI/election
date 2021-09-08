@@ -170,6 +170,22 @@ related:
         width: 375
         height: 211
         isCached: true
+  - title: "Trump to provide commentary during boxing match on 9/11, promoter says"
+    excerpt: "Former President Donald Trump will provide commentary during a pay-per-view boxing match Saturday, the 20th anniversary of the Sept. 11 terrorist attacks, the broadcaster of the event announced Wednesday."
+    publishedDateTime: 2021-09-08T13:56:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/sep/8/donald-trump-to-provide-commentary-during-boxing-m/"
+    ampWebUrl: "https://amp.washingtontimes.com/news/2021/sep/8/donald-trump-to-provide-commentary-during-boxing-m/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/sep/8/donald-trump-to-provide-commentary-during-boxing-m/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 75
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2018/05/24/trump_boxer_pardon_01668_c0-0-4379-2554_s1200x700.jpg?9603964afa13a5906e806f1d74dc2f34fa0a56a6"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "Trump attacks Lehigh Valley’s Pat Toomey as ‘not the sharpest tool in the shed’"
     excerpt: "A fundraising email from the former president claims the senator from Lehigh County only won re-election \"because of my victory.\""
     publishedDateTime: 2021-09-07T20:37:00Z
@@ -231,6 +247,20 @@ related:
       - url: "https://www.mcall.com/resizer/gnZB9NKaGVGfQofCPjLmlNLxRIU=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/JXB6NMF62VHMTIR2W6DL4WCASY.jpg"
         width: 1200
         height: 946
+        isCached: true
+  - title: "Lincoln Project ad taunts Donald Trump, says Ron DeSantis is ‘running away’ with GOP"
+    excerpt: "The professional provocateurs of The Lincoln Project are throwing some hot grease on the simmering embers of the 2024 Republican presidential race. A new ad from the Never Trumper troupe juxtaposes former President Donald Trump and Florida Gov."
+    publishedDateTime: 2021-09-08T14:26:00Z
+    webUrl: "https://floridapolitics.com/archives/455860-new-lincoln-project-ad-taunts-donald-trump-says-ron-desantis-is-running-away-with-gop/"
+    type: article
+    provider:
+      name: Florida Politics
+      domain: floridapolitics.com
+    quality: 48
+    images:
+      - url: "https://floridapolitics.com/wp-content/uploads/2021/09/Trump-sad.jpg"
+        width: 1242
+        height: 689
         isCached: true
 
 secured: "8i3ddqwi4JzUiA8YkqhheOBH5defy1cpda+68fyqKJEysAhmrFcXg1N+RfSya4FP2e7YZLh8mUMO/e/MJbaEqYkJkmUGXCuAg7lIx/+R8rNb5eg4oDgJWVxNFy8lRZ5N2Dlsx6fbXRNHeQDw3ZbaD8GJAK3bDEjZ6NqMpN5auYQOWYvtfCDRTHn2Ks6Oi10oMMNKbw2bO1BWtkrY52HTGRPve4YCuR4oSLWlA7NdHdxma3xFdFkBMASKZQ5hG2AVuyTBXfs3TLPhILLodvnywWW9JA9JSg5aVvGlJH6+s3YmdIQeiiiIaKOfzFbnKUEzJqDKlJ3Y77FbiRfzq7ZgExyM+WSJEdFNo2141lNUSD0=;oVpXGvHzdu59Hmxywr6V+Q=="

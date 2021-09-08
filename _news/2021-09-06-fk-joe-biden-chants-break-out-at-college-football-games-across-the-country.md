@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/joe-biden-chants-break-college-football-gam
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-chants-break-college-football-games-country-1626438?amp=1"
 type: article
 quality: 121
-heat: 141
+heat: 161
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden names eight federal judges, three for the 9th Circuit"
+    excerpt: "“President Biden has spent decades committed to strengthening the federal bench, which is why he continues to move rapidly to fill judicial vacancies,” the press statement read. TOP STORIES Joe Rogan threatens to sue CNN for ripping his use of ..."
+    publishedDateTime: 2021-09-08T17:49:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/sep/8/biden-names-eight-federal-judges-three-9th-circuit/"
+    ampWebUrl: "https://amp.washingtontimes.com/news/2021/sep/8/biden-names-eight-federal-judges-three-9th-circuit/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/sep/8/biden-names-eight-federal-judges-three-9th-circuit/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 75
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/04/08/virus_outbreak_courts_80730_c0-149-2448-1577_s1200x700.jpg?47cf4be8323f82ed9b93b201ac1ebbd56278768b"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "Still ridin' with Biden?"
     excerpt: "That Donald Trump was unfit for the presidency was obvious well before he assumed it, more obvious as he occupied it, and most obvious by his behavior after losing it."
     publishedDateTime: 2021-08-30T11:11:00Z

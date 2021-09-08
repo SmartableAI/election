@@ -148,7 +148,7 @@
       "originalUrl": "https://www.businessinsider.com/kabul-ex-pence-adviser-warned-trump-setting-up-another-benghazi-2021-8",
       "featuredContent": null,
       "highlight": null,
-      "heat": 345,
+      "heat": 325,
       "tags": null,
       "images": [
         {
@@ -237,6 +237,58 @@
         "Election",
         "Mike Pence",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-08-21-pence-aide-blames-stephen-miller-for-devastating-visa-system-for-afghans.md",
+      "title": "Pence aide blames Stephen Miller for 'devastating' visa system for Afghans",
+      "excerpt": "WASHINGTON – A former aide to former Vice President Mike Pence blamed racist views of a top Trump administration official for the inability of many translators and other allies to get out of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2021/08/21/mike-pence-aide-blames-stephen-miller-wrecking-afghan-visa-system/8228495002/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/08/21/mike-pence-aide-blames-stephen-miller-wrecking-afghan-visa-system/8228495002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2019/11/13/USAT/53207fad-8816-4697-bd9b-a3dd79d8e3f3-VPC_STEPHEN_MILLER_DESK_THUMB.00_00_52_15.Still001.jpg?auto=webp&crop=1911,1075,x8,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/8228495002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/8228495002",
+      "publishedDateTime": "2021-08-21T09:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
       ]
     },
     {
@@ -1382,58 +1434,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-07-16-local-matters-mike-pence-and-other-gop-heavyweights-to-address-evangelicals-in-iowa.md",
-      "title": "Local Matters: Mike Pence and other GOP heavyweights to address evangelicals in Iowa",
-      "excerpt": "Despite the sustained popularity of former President Donald Trump in the GOP, other would-be 2024 Republican presidential contenders are heading to Iowa to address conservative voters. The Des Moines Register's chief political reporter Brianne Pfannenstiel has more on who will be headlining the Family Leadership Summit on Friday,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/video/former-vice-president-mike-pence-other-gop-heavyweights-to-address-evangelicals-in-iowa/",
-      "originalUrl": "https://www.cbsnews.com/video/former-vice-president-mike-pence-other-gop-heavyweights-to-address-evangelicals-in-iowa/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2021/07/15/611f287a-7b5c-4e02-bb41-b92cca8eb6d8/thumbnail/1200x630/020e22e248c34977f4c8ddd07f019c4c/cbsn-fusion-former-vice-president-mike-pence-other-gop-heavyweights-to-address-evangelicals-in-iowa-thumbnail-754977-640x360.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-15T18:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

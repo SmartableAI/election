@@ -79,6 +79,22 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "Watch Live: Vice President Harris campaigns for Newsom in tight recall race"
+    excerpt: "Vice President Kamala Harris is returning to her home state of California on Wednesday to campaign for Governor Gavin Newsom, who is facing a recall election on September 14. Although Democrats hold a massive advantage in party registration and no Republican has won a statewide race since 2006,"
+    publishedDateTime: 2021-09-08T17:45:00Z
+    webUrl: "https://www.cbsnews.com/live-updates/newsom-recall-election-california-kamala-harris-campaign-watch-live-stream-today-2021-09-08/"
+    ampWebUrl: "https://www.cbsnews.com/amp/live-updates/newsom-recall-election-california-kamala-harris-campaign-watch-live-stream-today-2021-09-08/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/live-updates/newsom-recall-election-california-kamala-harris-campaign-watch-live-stream-today-2021-09-08/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 123
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/09/08/bbccc89c-cbfa-46c3-b60e-f07ec1fcc02b/thumbnail/1200x630/46062e3fadfcaedb3cd609ad3c968aaf/gettyimages-1310969349.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Gavin Newsom's Anti-Recall Rally With Kamala Harris Canceled After Kabul Attack"
     excerpt: "The vice president will instead return to Washington, D.C. after the conclusion of her Southeast Asia trip, a spokesperson for her office said."
     publishedDateTime: 2021-08-26T20:56:00Z
@@ -244,6 +260,22 @@ related:
       - url: "https://i.insider.com/60707da14943790018bb1a41?width=700"
         width: 700
         height: 525
+        isCached: true
+  - title: "Kamala Harris brings political clout to California to help Newsom in recall election"
+    excerpt: "Vice President Kamala Harris is lending California Gov. Gavin Newsom her support in the recall election, previewing a role she could play for Democrats in the 2022 midterms."
+    publishedDateTime: 2021-09-08T11:00:00Z
+    webUrl: "https://www.sacbee.com/news/politics-government/capitol-alert/article254066123.html"
+    ampWebUrl: "https://amp.sacbee.com/news/politics-government/capitol-alert/article254066123.html"
+    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/politics-government/capitol-alert/article254066123.html"
+    type: article
+    provider:
+      name: Sacramento Bee
+      domain: sacbee.com
+    quality: 83
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557042001/615ff921-7db1-4f3b-9944-fea466d47a13/d6166ffe-75f3-4972-b399-35ef606ee9d5/1280x720/match/image.jpg"
+        width: 1061
+        height: 720
         isCached: true
   - title: "A Black conservative takes on Kamala Harris"
     excerpt: "A leading Black conservative is troubled by President Biden‘s decision to place Vice President Kamala Harris in charge of immigration policy. “Our greatest concern about her appointment to such a crucial task is not just the spread of the COVID-19 ..."
@@ -926,6 +958,20 @@ related:
       - url: "https://npr.brightspotcdn.com/dims4/default/ae4d079/2147483647/strip/true/crop/1600x840+0+113/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F61%2F05%2Fe89c908c4a13892a8c8afb804079%2F50987557866-7aa59531bc-o.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Kamala Harris to visit California Bay Area to campaign for Gavin Newsom this week"
+    excerpt: "Following the campaigning of several other Democratic lawmakers who voiced their support for the state’s governor, Vice President Kamala Harris will also be visiting the Bay Area in California this week to campaign for her longtime ally. Harris will be ..."
+    publishedDateTime: 2021-09-08T05:56:00Z
+    webUrl: "https://www.econotimes.com/Kamala-Harris-to-visit-California-Bay-Area-to-campaign-for-Gavin-Newsom-this-week-1616726"
+    type: article
+    provider:
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 50
+    images:
+      - url: "https://s1.econotimes.com/assets/uploads/20210908f070a964bb7da647b_th_1024x0.jpg"
+        width: 800
+        height: 533
         isCached: true
   - title: "For her first major task as VP, Kamala Harris is handed a thorny diplomatic mission"
     excerpt: "“And you’re smiling.” Kamala Harris’s first major mission as vice president is not one a lot of politicians would be happy to receive. She’s been deputized to own arguably the most politically thorny issue the administration has on its ..."

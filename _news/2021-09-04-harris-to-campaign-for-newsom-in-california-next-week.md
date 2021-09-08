@@ -62,6 +62,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "VP Harris headed to California to help campaign for Gov. Newsom"
+    excerpt: "Harris has a public event scheduled with Newsom, who’s been accused of hypocrisy for imposing COVID-19 restrictions before treating himself to a mask-free indoor soiree."
+    publishedDateTime: 2021-09-08T16:19:00Z
+    webUrl: "https://nypost.com/2021/09/08/kamala-harris-headed-to-california-to-help-gov-gavin-newsom/"
+    ampWebUrl: "https://nypost.com/2021/09/08/kamala-harris-headed-to-california-to-help-gov-gavin-newsom/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/09/08/kamala-harris-headed-to-california-to-help-gov-gavin-newsom/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/09/kamala-gavin-ca-05.jpg?quality=90&strip=all&w=1024"
+        width: 1024
+        height: 682
+        isCached: true
 
 secured: "xAKPDACj+rc2oqbPcpAj4ypV0HCKVwsTlZEhCj0bhCUjTaChYiJgrA+KUhjlo+19yf0MQjR32qub9lcBtMLZhit2Kp9x5WgcHmxpcD/7LYb9xQ9hikITL1E8R5/SnvvPA1uj985WAiHUUbVZ9h4YTW2j0z4f9wVCWgN7hpql19Q9qRmILykwR8JOa2zNYqBgpmckiNcz2frI2Vyb0/BInUq7AC8xDa/oT9xFlN07gGFSsaWSpRxEpFQ0XPGvs70/1Gmidy3yHbtdSxAxnjjfShIAvirlv49zLMU2LUCOxAdl/eVXBULL5vuXSb/hgODwVYsKRFftMtDBhBVyiD6Zw2EvCP6ABLPTH0R7bAMbzIY=;7stJZtIPPQniBZ7Htiwn4Q=="
 ---

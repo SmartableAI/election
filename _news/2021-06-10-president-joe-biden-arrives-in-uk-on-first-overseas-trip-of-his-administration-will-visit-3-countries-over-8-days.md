@@ -56,6 +56,22 @@ related:
       name: ABC
       domain: abcnews.go.com
     quality: 85
+  - title: "California recall vote offers test of Biden political clout"
+    excerpt: "President Joe Biden has been beset by public health, military and climate crises in the past month. Not much time has been left for a potential political disaster brewing for his party in California Biden himself to try to alleviate lingering concerns about Democratic turnout in the unusual September vote."
+    publishedDateTime: 2021-09-08T13:17:00Z
+    webUrl: "https://www.ourmidland.com/news/article/California-recall-vote-offers-test-of-Biden-16442015.php"
+    ampWebUrl: "https://www.ourmidland.com/news/amp/California-recall-vote-offers-test-of-Biden-16442015.php"
+    cdnAmpWebUrl: "https://www-ourmidland-com.cdn.ampproject.org/c/s/www.ourmidland.com/news/amp/California-recall-vote-offers-test-of-Biden-16442015.php"
+    type: article
+    provider:
+      name: Our Midland MI
+      domain: ourmidland.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Slain California Marine’s mother slams President Joe Biden on social media"
     excerpt: "The mother of a Norco Marine killed in Afghanistan has blasted President Joe Biden on social media, saying the president rolled his eyes when meeting with families of slain service members and that her son’s blood is on his hands."
     publishedDateTime: 2021-09-02T10:48:00Z
@@ -72,15 +88,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "California recall vote offers test of Biden political clout"
-    excerpt: "President Joe Biden has been beset by public health, military and climate crises in the past month. Not much time has been left for a potential political disaster brewing for his party in California."
-    publishedDateTime: 2021-09-08T07:08:00Z
-    webUrl: "https://lasvegassun.com/news/2021/sep/08/california-recall-vote-offers-test-of-biden-politi/"
-    type: article
-    provider:
-      name: Las Vegas Sun
-      domain: lasvegassun.com
-    quality: 35
 
 secured: "wVi5h8J4G+uBx74VTBD2BbndQ2AtpDB0CFSHPxPDE7ZPdI2o2rScRnZkuVsQMM5qFkUTMczrWXIHTTlr2K8pOYJxAYB/R67khv3XuMgTx8uG2FARP8FfAOAqgNpjIhTYb2GPElYwDDrWc8KbF5p8Fo2Q5u4/UTXIN+nq/eci2Q1ANKNm6f7ljN0LPlgwjM8qUJmlw4QoqFOnc5Oz1Wbs8Ot2RV8c8SsBN5Tgaio4uyC7xZo10b+bku86AT3v6jdEYNojIfELu+wIsNonKNRGOfRqgvVwdkZPewnal88hL97llYMR2DO1Xe+hzvoj+qqq6ZWDR3utsmIaO/LvoQqQuuF7ur3JdBrJCGQ98SRT9yg=;OBB1J/mwp56vgHKMCFvHfg=="
 ---

@@ -1758,6 +1758,15 @@ related:
       name: Las Vegas Sun
       domain: lasvegassun.com
     quality: 50
+  - title: "Why does everyone hate Joe Biden and Kamala Harris?"
+    excerpt: "With President Joe Biden and Vice President Kamala Harris chosen as the new leaders, we must ask ourselves: how does the public feel? Get the latest info!"
+    publishedDateTime: 2021-09-07T22:41:00Z
+    webUrl: "https://filmdaily.co/news/biden-harris-hatred/"
+    type: article
+    provider:
+      name: filmdaily
+      domain: filmdaily.co
+    quality: 50
   - title: "US: Biden, Kamala Harris briefed by national security team on Afghan situation"
     excerpt: "US President Joe Biden and Vice President Kamala Harris were briefed by the national security team on the evolving situation in Afghanistan on Wednesday morning, according to a White House official. Besides Biden and Harris,"
     publishedDateTime: 2021-08-19T08:15:00Z

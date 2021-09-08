@@ -1758,6 +1758,15 @@ related:
       name: Las Vegas Sun
       domain: lasvegassun.com
     quality: 50
+  - title: "Why does everyone hate Joe Biden and Kamala Harris?"
+    excerpt: "With President Joe Biden and Vice President Kamala Harris chosen as the new leaders, we must ask ourselves: how does the public feel? Get the latest info!"
+    publishedDateTime: 2021-09-07T22:41:00Z
+    webUrl: "https://filmdaily.co/news/biden-harris-hatred/"
+    type: article
+    provider:
+      name: filmdaily
+      domain: filmdaily.co
+    quality: 50
   - title: "President Biden and Vice President Harris on Passage of Infrastructure Deal"
     excerpt: "T13:30:00-04:00 Biden and Vice President Harris deliver remarks at the White House after the Senate approved 69-30 a $1.2 infrastructure package. President Biden and Vice President Harris deliver remarks at the White House after the Senate approved 69-30 a $1."
     publishedDateTime: 2021-08-10T16:46:00Z

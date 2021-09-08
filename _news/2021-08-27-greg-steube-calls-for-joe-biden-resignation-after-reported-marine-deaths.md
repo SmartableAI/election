@@ -41,6 +41,38 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "President Joe Biden will visit Ida devastation in Manville on Tuesday"
+    excerpt: "President Joe Biden will visit flood-ravaged Manville on Tuesday. The White House announced Biden's visit on Saturday, but no details have been released. Biden has already ordered federal assistance to supplement state,"
+    publishedDateTime: 2021-09-04T20:08:00Z
+    webUrl: "https://www.usatoday.com/story/news/local/somerset-county/2021/09/04/biden-manville-nj-ida-devastation/5731663001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5731663001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5731663001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 125
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/09/04/PCNJ/1bbedaa8-e3a4-4705-84fc-98daf697d885-Ida_Flooding_Manville_Business_9.4.21-3.jpg?auto=webp&crop=5823,3276,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Schumer rejects Manchin's call for pause on Biden plan"
+    excerpt: "Senate Majority Leader Charles Schumer (D-N.Y.) is rejecting a call for Democrats to hit pause on President Biden's spending plan, indicating that they are sticking to an ambitious timeline."
+    publishedDateTime: 2021-09-08T14:56:00Z
+    webUrl: "https://thehill.com/homenews/senate/571265-schumer-rejects-manchins-call-for-pause-on-biden-plan"
+    ampWebUrl: "https://thehill.com/homenews/senate/571265-schumer-rejects-manchins-call-for-pause-on-biden-plan?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/571265-schumer-rejects-manchins-call-for-pause-on-biden-plan?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/schumercharles_081121gn18_lead.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Biden tours destruction of storm-ravaged Manville"
     excerpt: "President Joe Biden toured a neighborhood in storm-ravaged New Jersey, surveying the aftermath of Hurricane Ida's floods. Biden heard a harrowing tale from a couple who escaped before the storm destroyed their home and their daughter's nursery."
     publishedDateTime: 2021-09-07T21:40:00Z
@@ -55,22 +87,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "President Joe Biden will visit Ida devastation in Manville on Tuesday"
-    excerpt: "President Joe Biden will visit flood-ravaged Manville on Tuesday. The White House announced Biden's visit on Saturday, but no details have been released. Biden has already ordered federal assistance to supplement state,"
-    publishedDateTime: 2021-09-04T20:08:00Z
-    webUrl: "https://www.indystar.com/story/news/local/somerset-county/2021/09/04/biden-manville-nj-ida-devastation/5731663001/"
-    ampWebUrl: "https://amp.indystar.com/amp/5731663001"
-    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/5731663001"
-    type: article
-    provider:
-      name: Indianapolis Star
-      domain: indystar.com
-    quality: 75
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/09/04/PCNJ/1bbedaa8-e3a4-4705-84fc-98daf697d885-Ida_Flooding_Manville_Business_9.4.21-3.jpg?auto=webp&crop=5823,3276,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "John Rutherford calls for Joe Biden’s resignation"
     excerpt: "A Republican Congressman from Northeast Florida is calling for President Joe Biden to resign from office. U.S. Rep. John Rutherford, who represents Florida’s 4th Congressional District, blasted Biden in the wake of the Afghanistan withdrawal."
     publishedDateTime: 2021-08-31T18:12:00Z
@@ -84,6 +100,20 @@ related:
       - url: "https://floridapolitics.com/wp-content/uploads/2020/09/John-Rutherford-4.png"
         width: 1600
         height: 1000
+        isCached: true
+  - title: "President Joe Biden Deliver Remarks in Honor of Labor Unions"
+    excerpt: "President Joe Biden deliver remarks in honor of labor unions during an event in the East Room of the White House in Washington, DC, on Wednesday, September 8 2021. Photo by Shawn Thew/UPI"
+    publishedDateTime: 2021-09-08T16:34:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/8ab0fecbf42e5fd55ef8b467cf867165/President-Joe-Biden-Deliver-Remarks-in-Honor-of-Labor-Unions/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/8ab0fecbf42e5fd55ef8b467cf867165/BIDEN-LABOR-UNIONS.jpg"
+        width: 650
+        height: 433
         isCached: true
   - title: "Greg Steube calls for Joe Biden resignation following reported Marine deaths"
     excerpt: "Greg Steube called for President Joe Biden’s resignation after the reported death of four Marines in Kabul. “Horrific,” Steube tweeted. “Joe Biden needs to take"

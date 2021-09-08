@@ -9,7 +9,7 @@ ampWebUrl: "https://www.telegraph.co.uk/world-news/2021/09/05/white-house-keepin
 cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/world-news/2021/09/05/white-house-keeping-kamala-harris-afghanistan-crisis-stop-contamination/amp/"
 type: article
 quality: 70
-heat: 110
+heat: 130
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Minneapolis man charged with murder weeks after being bailed out by Kamala Harris bail fund"
+    excerpt: "Minnesota man George Howard,48, was charged with murder on August 29 weeks after he was released on domestic abuse charges by a bail fund supported by Vice President Kamala Harris"
+    publishedDateTime: 2021-09-08T06:45:00Z
+    webUrl: "https://www.dailymail.co.uk/news/article-9968369/Minneapolis-man-charged-murder-weeks-bailed-Kamala-Harris-bail-fund.html?fr=operanews"
+    ampWebUrl: "https://www.dailymail.co.uk/news/article-9968369/amp/Minneapolis-man-charged-murder-weeks-bailed-Kamala-Harris-bail-fund.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-9968369/amp/Minneapolis-man-charged-murder-weeks-bailed-Kamala-Harris-bail-fund.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 65
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2021/09/08/07/47640795-0-image-a-9_1631080935223.jpg"
+        width: 636
+        height: 382
+        isCached: true
   - title: "This simple advice from Kamala Harris will make you a better public speaker"
     excerpt: "The vice president has, several times, offered smart, assuring words to nervous workers and students that this communications coach says are spot-on."
     publishedDateTime: 2021-09-03T14:00:00Z

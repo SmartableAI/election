@@ -41,6 +41,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Biden names eight federal judges, three for the 9th Circuit"
+    excerpt: "“President Biden has spent decades committed to strengthening the federal bench, which is why he continues to move rapidly to fill judicial vacancies,” the press statement read. TOP STORIES Joe Rogan threatens to sue CNN for ripping his use of ..."
+    publishedDateTime: 2021-09-08T17:49:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/sep/8/biden-names-eight-federal-judges-three-9th-circuit/"
+    ampWebUrl: "https://amp.washingtontimes.com/news/2021/sep/8/biden-names-eight-federal-judges-three-9th-circuit/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/sep/8/biden-names-eight-federal-judges-three-9th-circuit/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 75
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/04/08/virus_outbreak_courts_80730_c0-149-2448-1577_s1200x700.jpg?47cf4be8323f82ed9b93b201ac1ebbd56278768b"
+        width: 1200
+        height: 700
+        isCached: true
 
 secured: "G22k2Ztm4OqT0ywp2xZpjgtSWplvY7TcoxR9gq0WpqGQ36urV/X7X0mNVUQ1akNZPuhHQDdj2Ujhk1eMsHrhEde0MrsL6azfBY4QntJdri66WejrZRcQ9xJJwwDa+XGhnq8rsE4JbZwhvUzG2M/yQt7Jzd+cn2u3A4NJEJOUhJI/bfwtKYOqNx9mSF/jgsLNPZN6y2K8pR0N7aFzJH3eEhKn80QzdJUpzLRfCFi3kVWeAB2z2ZpC0SKr5vLl4/W54dC5QUdUGeb1rEcGGjHtwIQEEGEKm4z7VFbWaVDJWQwq+Ex0PpWyPLifSbTzQV68ycgy7F+deHJpvjvz69tu3jyzRrI+UN6/r4/IYsUoPJE=;jXBjr8yMOXrxoP3e5aCwyw=="
 ---

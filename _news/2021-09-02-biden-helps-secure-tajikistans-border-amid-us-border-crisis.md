@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-secure-tajikistans-border-us-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-secure-tajikistans-border-us-crisis.amp"
 type: article
 quality: 175
-heat: 355
+heat: 375
 published: true
 
 provider:
@@ -124,6 +124,22 @@ related:
     quality: 163
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/15769fbd-0b21-4f5a-8c09-0e3029a328c2/81f25dce-10d1-4c45-b884-0c3ec9a033f2/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Biden misses deadline to provide GOP senators with number of Americans left behind in Afghanistan"
+    excerpt: "President Biden missed a deadline Tuesday evening set by Republican senators who demanded he provide the exact number of Americans, green card holders and special immigrant visa applicants who remain in Afghanistan."
+    publishedDateTime: 2021-09-08T17:07:07Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sMPz4lWG1vM/biden-deadline-senators-americans-left-behind-afghanistan"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-deadline-senators-americans-left-behind-afghanistan.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-deadline-senators-americans-left-behind-afghanistan.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b9a0c2dd-1e66-4317-8b67-9f4161e8908c/9cf29e65-61e2-46f5-8c39-978298d0794e/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true

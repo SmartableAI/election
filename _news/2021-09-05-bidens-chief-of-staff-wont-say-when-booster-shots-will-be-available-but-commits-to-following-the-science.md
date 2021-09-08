@@ -191,6 +191,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Mandates and testing among Biden's plans to combat Delta surge"
+    excerpt: "President Joe Biden, entering autumn with coronavirus still wreaking havoc on the nation's health and economy, will push for vaccine mandates and testing programs as part of a revamped approach to ending the pandemic.\n    \n"
+    publishedDateTime: 2021-09-08T14:06:22Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_v3KrGg84gg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/09/08/politics/biden-covid-speech-plans/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/09/08/politics/biden-covid-speech-plans/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210823141949-02-biden-covid-0923-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden set to address the nation following the US withdrawal from Afghanistan"
     excerpt: "President Joe Biden is slated to address the nation Tuesday on the end of the war in Afghanistan, a day after the last American military planes left the country, concluding the nation's longest war nearly 20 years after it began.\n    \n"
     publishedDateTime: 2021-08-31T14:05:37Z
@@ -204,6 +220,22 @@ related:
     quality: 172
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210829171242-03-biden-afghanistan-0829-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden turns storm devastation into disaster-zone sales pitch for legacy bills"
+    excerpt: "President Joe Biden has a new and aggressive sales pitch for the ambitious domestic agenda that would define his place in history.\n    \n"
+    publishedDateTime: 2021-09-08T11:39:10Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2S3zrFQKsHA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/09/08/politics/joe-biden-disaster-zone-politics/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/09/08/politics/joe-biden-disaster-zone-politics/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210907151855-04-biden-new-jersey-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -268,6 +300,22 @@ related:
     quality: 168
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210714142031-03-biden-us-capitol-schumer-0714-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden admin adjusts processing guidance for Afghan children arriving without a parent"
+    excerpt: "The Biden administration is adjusting guidance for Afghan children who arrived in the US without a parent to allow them to stay with the adult they traveled with, according to guidance obtained by CNN.\n    \n"
+    publishedDateTime: 2021-09-08T13:25:07Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/TaXKco4TZSA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/09/07/politics/afghan-children-guidance/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/09/07/politics/afghan-children-guidance/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210831161620-biden-afghanistan-presser-0831-video-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -399,6 +447,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden wants an aggressive transition to electric vehicles. A surprising ally is pumping the brakes"
+    excerpt: "President Joe Biden wants to corner the market on electric vehicles. In August, he announced a target that by 2030, half of the vehicles sold in the United States will be battery electric, fuel-cell electric or plug-in hybrid. It would be a seismic shift for an auto industry dominated by gas-powered"
+    publishedDateTime: 2021-09-08T11:41:48Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5x1hdOuNydI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/09/08/business/biden-uaw-electric-vehicles-climate/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/09/08/business/biden-uaw-electric-vehicles-climate/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 161
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210907123050-uaw-ford-plant-us-0927-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden administration asks for billions in disaster and refugee funding in request to keep government running"
     excerpt: "The Biden administration is asking for billions of dollars for extreme weather recovery efforts and the resettlement of Afghan refugees in its proposal to keep the government funded past September 30.\n    \n"
     publishedDateTime: 2021-09-07T19:07:02Z
@@ -494,6 +558,22 @@ related:
       - url: "https://static01.nyt.com/images/2021/08/30/opinion/30conversation-use/merlin_193879332_3c494cf9-787e-4f63-a0e0-3572e5d09d6a-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "September is set to be a defining month for Biden, congressional Democrats"
+    excerpt: "First Read is your briefing from \"Meet the Press\" and the NBC Political Unit on the day's most important political stories and why they matter."
+    publishedDateTime: 2021-09-08T13:03:00Z
+    webUrl: "https://www.nbcnews.com/politics/meet-the-press/september-set-be-defining-month-biden-congressional-democrats-n1278680"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1278680"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1278680"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 133
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_36/3504269/210908-joe-biden-jm-0826.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "Video shows unruly passenger growling, screaming 'Joe Biden' on American Airlines flight"
     excerpt: "Timothy Armstrong, 61, of Las Vegas, was cited for public intoxication and disorderly conduct on the flight from Los Angeles to Salt Lake City, police said."

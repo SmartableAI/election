@@ -573,6 +573,20 @@ related:
         width: 1024
         height: 640
         isCached: true
+  - title: "How has Joe Biden become so unpopular?"
+    excerpt: "President Joe Biden’s job approval rating is on the downslope. As of Friday morning, he was at 45.8% approval and 48.5% disapproval — from a high of 54% approval, 41%"
+    publishedDateTime: 2021-09-06T20:22:00Z
+    webUrl: "https://www.standardspeaker.com/how-has-joe-biden-become-so-unpopular/article_86694d31-7acb-58a7-bbb8-a0ca0db9ba9e.html"
+    type: article
+    provider:
+      name: Hazleton Standard Speaker
+      domain: standardspeaker.com
+    quality: 55
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/standardspeaker.com/content/tncms/custom/image/ab92f72c-bcc2-11ea-a96c-efdf727d93b6.jpg"
+        width: 1080
+        height: 1080
+        isCached: true
   - title: "President Biden To Survey NY, NJ Storm Damage After Deadly Flooding"
     excerpt: "President Joe Biden will survey damage in parts of the northeast that suffered catastrophic flash flooding from the remnants of Hurricane Ida, and use the muddy backdrop to call for federal spending to fortify infrastructure so it can better withstand such powerful storms."
     publishedDateTime: 2021-09-07T11:34:00Z

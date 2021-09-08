@@ -2,6 +2,255 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-09-09-pelosi-to-hold-security-briefing-ahead-of-sept-18-rally-planned-by-trump-supporters.md",
+      "title": "Pelosi to hold security briefing ahead of Sept. 18 rally planned by Trump supporters",
+      "excerpt": "Speaker Nancy Pelosi has invited her fellow congressional leaders from the House and Senate to attend a security briefing about an upcoming rally planned at the Capitol in support people who were arrested during the Jan.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/congress/pelosi-hold-security-briefing-ahead-sept-18-rally-planned-trump-n1278713",
+      "originalUrl": "https://www.nbcnews.com/politics/congress/pelosi-hold-security-briefing-ahead-sept-18-rally-planned-trump-n1278713",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 128,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_36/3504362/210908-nancy-pelosi-ew-1238p.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1278713",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1278713",
+      "publishedDateTime": "2021-09-08T10:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-09-08-donald-trump-will-call-evander-holyfield-vitor-belfort-fight-with-son-don-jr.md",
+      "title": "Donald Trump will call Evander Holyfield-Vitor Belfort fight with son Don Jr.",
+      "excerpt": "Former President Donald Trump and his son Donald Trump Jr. will provide commentary on a “gamecast” for Saturday’s pay-per-view boxing event led by the Evander Holyfield vs. Vitor",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/09/08/donald-trump-and-son-calling-belfort-holyfield-triller-fight/",
+      "originalUrl": "https://nypost.com/2021/09/08/donald-trump-and-son-calling-belfort-holyfield-triller-fight/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 112,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/09/08/donald-trump-and-son-calling-belfort-holyfield-triller-fight/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/09/08/donald-trump-and-son-calling-belfort-holyfield-triller-fight/amp/",
+      "publishedDateTime": "2021-09-08T07:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-09-08-donald-trump-to-provide-commentary-on-boxing-match-between-evander-holyfield-and-vitor-belfort.md",
+      "title": "Donald Trump to provide commentary on boxing match between Evander Holyfield and Vitor Belfort",
+      "excerpt": "President Donald Trump will host and commentate the Triller Fight Club heavyweight boxing match between Evander Holyfield and Vitor Belfort. Trump is providing \"guest commentary\" for the fight, which will take place at the Seminole Hard Rock Hotel in Hollywood,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/news/sports/donald-trump-provide-commentary-boxing-match-between-evander-holyfield-vitor-n1278685",
+      "originalUrl": "https://www.nbcnews.com/news/sports/donald-trump-provide-commentary-boxing-match-between-evander-holyfield-vitor-n1278685",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_36/3504322/210917-donald-trump-mn-1015.jpg",
+          "width": 3489,
+          "height": 2327,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1278685",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1278685",
+      "publishedDateTime": "2021-09-08T07:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-09-08-trump-fueled-by-stress-and-looking-younger-at-75-don-jr-says.md",
+      "title": "Trump ‘fueled by stress’ and looking younger at 75, Don Jr. says",
+      "excerpt": "The secret to former President Donald Trump looking good at 75? Agita. Donald Trump Jr. said “stress fuels him” and pointed out that his father has had to take “more crap than",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/09/08/trump-fueled-by-stress-and-looking-younger-at-75-don-jr-says/",
+      "originalUrl": "https://nypost.com/2021/09/08/trump-fueled-by-stress-and-looking-younger-at-75-don-jr-says/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/09/donald-trump-health-03.jpg?quality=90&strip=all&w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/09/08/trump-fueled-by-stress-and-looking-younger-at-75-don-jr-says/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/09/08/trump-fueled-by-stress-and-looking-younger-at-75-don-jr-says/amp/",
+      "publishedDateTime": "2021-09-08T06:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-09-08-trump-announces-rallies-in-georgia-iowa-as-2024-speculation-mounts.md",
+      "title": "Trump announces rallies in Georgia, Iowa as 2024 speculation mounts",
+      "excerpt": "Former President Donald Trump will hold two more campaign-style rallies in the coming weeks, as speculation continues to grow that he will make yet another run for the White House in 2024.",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/09/08/trump-to-hold-rallies-in-georgia-iowa-amid-rumors-of-2024-presidential-run/",
+      "originalUrl": "https://nypost.com/2021/09/08/trump-to-hold-rallies-in-georgia-iowa-amid-rumors-of-2024-presidential-run/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/09/AFP_9LP8WG.jpg?quality=90&strip=all&w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/09/08/trump-to-hold-rallies-in-georgia-iowa-amid-rumors-of-2024-presidential-run/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/09/08/trump-to-hold-rallies-in-georgia-iowa-amid-rumors-of-2024-presidential-run/amp/",
+      "publishedDateTime": "2021-09-08T01:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-09-08-donald-trump-son-to-provide-commentary-on-evander-holyfield-vitor-belfort-alternate-telecast.md",
       "title": "Donald Trump, son to provide commentary on Evander Holyfield-Vitor Belfort alternate telecast",
       "excerpt": "Former president Donald Trump has signed a contract to provide commentary on a \"gamecast\" of Saturday's boxing event headlined by Evander Holyfield vs. Vitor Belfort, Triller told ESPN. His son, Donald Trump Jr.",
@@ -604,7 +853,7 @@
       "originalUrl": "https://www.cnbc.com/2021/09/03/trump-should-not-lead-gop-ticket-in-2024-retiring-sen-pat-toomey-says.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 385,
+      "heat": 425,
       "tags": null,
       "images": [
         {
@@ -1225,257 +1474,6 @@
       "topics": [
         "Election",
         "Joe Biden",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-08-31-float-with-trump-towing-caged-clintons-obama-biden-sanders-crashes-amish-parade.md",
-      "title": "Float with Trump towing caged Clintons, Obama, Biden, Sanders crashes Amish parade",
-      "excerpt": "Organizers of Yoder Heritage Day and Carriage Crossing restaurant disavow float and claim not to know who was behind it",
-      "sourceUrl": null,
-      "webUrl": "https://www.kansas.com/news/politics-government/article253851843.html",
-      "originalUrl": "https://www.kansas.com/news/politics-government/article253851843.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998037001/b4b4d1de-761b-4a6b-9391-e003e5f44b22/7160e791-51b3-4239-8ab8-fa2030ad6e78/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.kansas.com/news/politics-government/article253851843.html",
-      "cdnAmpWebUrl": "https://amp-kansas-com.cdn.ampproject.org/c/s/amp.kansas.com/news/politics-government/article253851843.html",
-      "publishedDateTime": "2021-08-30T14:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wichita Eagle",
-        "domain": "kansas.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-08-30-rand-paul-hatred-for-trump-blocking-research-into-ivermectin-as-covid-19-treatment.md",
-      "title": "Rand Paul: 'Hatred for Trump' blocking research into Ivermectin as COVID-19 treatment",
-      "excerpt": "Sen. Rand Paul (R-Ky.) suggested researchers are not pursuing ivermectin as a possible COVID-19 treatment because of their disdain for former President Trump.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/569975-rand-paul-hatred-for-trump-blocking-research-into-ivermectin",
-      "originalUrl": "https://thehill.com/homenews/569975-rand-paul-hatred-for-trump-blocking-research-into-ivermectin",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 198,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/paulrand_081021gn_lead.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/569975-rand-paul-hatred-for-trump-blocking-research-into-ivermectin?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/569975-rand-paul-hatred-for-trump-blocking-research-into-ivermectin?amp",
-      "publishedDateTime": "2021-08-30T07:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-08-30-house-panel-tees-up-trump-executive-privilege-fight-in-jan-6-probe.md",
-      "title": "House panel tees up Trump executive privilege fight in Jan. 6 probe",
-      "excerpt": "The House committee seeking executive branch documents in its investigation of the Jan. 6 attack is likely to force a standoff between Congress and former President Trump Donald Trump Pollsters confront tough survey landscape after 2020 flubs The Memo: Will DeSantis's star fall as Florida COVID numbers rise?",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/regulation/court-battles/569743-house-panel-tees-up-trump-executive-privilege-fight-in-jan-6-probe",
-      "originalUrl": "https://thehill.com/regulation/court-battles/569743-house-panel-tees-up-trump-executive-privilege-fight-in-jan-6-probe",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 405,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/article_images/trumpdonald_070321getty_executive-standoff.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/regulation/court-battles/569743-house-panel-tees-up-trump-executive-privilege-fight-in-jan-6-probe?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/regulation/court-battles/569743-house-panel-tees-up-trump-executive-privilege-fight-in-jan-6-probe?amp",
-      "publishedDateTime": "2021-08-29T16:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-08-28-trump-insists-he-would-have-stopped-the-isis-k-bombing-at-kabul-airport-but-kept-calling-the-terror-group-isis-x.md",
-      "title": "Trump insists he would have stopped the ISIS-K bombing at Kabul airport but kept calling the terror group 'ISIS-X'",
-      "excerpt": "Speaking to Sean Hannity on Fox News, Trump said that the attack wouldn't \"would not have happened if I were your president.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/watch-trump-says-he-would-have-stopped-isis-k-but-calls-them-isis-x-2021-8",
-      "originalUrl": "https://www.businessinsider.com/watch-trump-says-he-would-have-stopped-isis-k-but-calls-them-isis-x-2021-8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6129fe7212b9cc0019633e61?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/watch-trump-says-he-would-have-stopped-isis-k-but-calls-them-isis-x-2021-8?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/watch-trump-says-he-would-have-stopped-isis-k-but-calls-them-isis-x-2021-8?amp",
-      "publishedDateTime": "2021-08-28T04:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-08-28-jack-nicklaus-on-if-tiger-woods-will-play-again-supporting-donald-trump-and-needing-a-cane.md",
-      "title": "Jack Nicklaus on if Tiger Woods will play again, supporting Donald Trump and needing a cane",
-      "excerpt": "Jack Nicklaus with a cane? Apparently the 81-year-old legend suffered an injury playing pickleball. Allow me to speak for everyone when I say that’s an image we’re not ready to see. It’s bad",
-      "sourceUrl": null,
-      "webUrl": "https://golfweek.usatoday.com/lists/jack-nicklaus-qa-tiger-woods-donald-trump-cane/",
-      "originalUrl": "https://golfweek.usatoday.com/lists/jack-nicklaus-qa-tiger-woods-donald-trump-cane/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://golfweek.usatoday.com/wp-content/uploads/sites/87/2017/03/gettyimages-463960886.jpg",
-          "width": 3656,
-          "height": 2339,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://golfweek.usatoday.com/lists/jack-nicklaus-qa-tiger-woods-donald-trump-cane/amp/",
-      "cdnAmpWebUrl": "https://golfweek-usatoday-com.cdn.ampproject.org/c/s/golfweek.usatoday.com/lists/jack-nicklaus-qa-tiger-woods-donald-trump-cane/amp/",
-      "publishedDateTime": "2021-08-27T12:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Donald Trump"
       ]
     }

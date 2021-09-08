@@ -85,22 +85,6 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 80
-  - title: "Pence aide blames Stephen Miller for 'devastating' visa system for Afghans"
-    excerpt: "Olivia Troye said Stephen Miller, a senior adviser to former President Donald Trump, undermined anyone trying to get the allies out of Afghanistan."
-    publishedDateTime: 2021-08-21T16:43:00Z
-    webUrl: "https://www.indystar.com/story/news/politics/2021/08/21/mike-pence-aide-blames-stephen-miller-wrecking-afghan-visa-system/8228495002/"
-    ampWebUrl: "https://amp.indystar.com/amp/8228495002"
-    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/8228495002"
-    type: article
-    provider:
-      name: Indianapolis Star
-      domain: indystar.com
-    quality: 73
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2019/11/13/USAT/53207fad-8816-4697-bd9b-a3dd79d8e3f3-VPC_STEPHEN_MILLER_DESK_THUMB.00_00_52_15.Still001.jpg?auto=webp&crop=1911,1075,x8,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Former Pence aide faults Stephen Miller's 'racist hysteria' for US refusal to accept Afghan refugees under Trump"
     excerpt: "A former aide to former Vice President Mike Pence said the last administration deliberately obstructed visa processing for U.S. allies in Afghanistan due to the \"racist hysteria\" of Stephen Miller,"
     publishedDateTime: 2021-08-21T19:27:00Z

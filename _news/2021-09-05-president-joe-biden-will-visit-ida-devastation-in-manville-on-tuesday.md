@@ -3,18 +3,22 @@ category: news
 title: "President Joe Biden will visit Ida devastation in Manville on Tuesday"
 excerpt: "President Joe Biden will visit flood-ravaged Manville on Tuesday. The White House announced Biden's visit on Saturday, but no details have been released. Biden has already ordered federal assistance to supplement state,"
 publishedDateTime: 2021-09-04T20:08:00Z
-originalUrl: "https://www.indystar.com/story/news/local/somerset-county/2021/09/04/biden-manville-nj-ida-devastation/5731663001/"
-webUrl: "https://www.indystar.com/story/news/local/somerset-county/2021/09/04/biden-manville-nj-ida-devastation/5731663001/"
-ampWebUrl: "https://amp.indystar.com/amp/5731663001"
-cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/5731663001"
+originalUrl: "https://www.usatoday.com/story/news/local/somerset-county/2021/09/04/biden-manville-nj-ida-devastation/5731663001/"
+webUrl: "https://www.usatoday.com/story/news/local/somerset-county/2021/09/04/biden-manville-nj-ida-devastation/5731663001/"
+ampWebUrl: "https://amp.usatoday.com/amp/5731663001"
+cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5731663001"
 type: article
-quality: 75
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Indianapolis Star
-  domain: indystar.com
+  name: USA Today
+  domain: usatoday.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
@@ -43,6 +47,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Schumer rejects Manchin's call for pause on Biden plan"
+    excerpt: "Senate Majority Leader Charles Schumer (D-N.Y.) is rejecting a call for Democrats to hit pause on President Biden's spending plan, indicating that they are sticking to an ambitious timeline."
+    publishedDateTime: 2021-09-08T14:56:00Z
+    webUrl: "https://thehill.com/homenews/senate/571265-schumer-rejects-manchins-call-for-pause-on-biden-plan"
+    ampWebUrl: "https://thehill.com/homenews/senate/571265-schumer-rejects-manchins-call-for-pause-on-biden-plan?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/571265-schumer-rejects-manchins-call-for-pause-on-biden-plan?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/schumercharles_081121gn18_lead.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Biden tours destruction of storm-ravaged Manville"
     excerpt: "President Joe Biden toured a neighborhood in storm-ravaged New Jersey, surveying the aftermath of Hurricane Ida's floods. Biden heard a harrowing tale from a couple who escaped before the storm destroyed their home and their daughter's nursery."
     publishedDateTime: 2021-09-07T21:40:00Z
@@ -70,6 +90,20 @@ related:
       - url: "https://floridapolitics.com/wp-content/uploads/2020/09/John-Rutherford-4.png"
         width: 1600
         height: 1000
+        isCached: true
+  - title: "President Joe Biden Deliver Remarks in Honor of Labor Unions"
+    excerpt: "President Joe Biden deliver remarks in honor of labor unions during an event in the East Room of the White House in Washington, DC, on Wednesday, September 8 2021. Photo by Shawn Thew/UPI"
+    publishedDateTime: 2021-09-08T16:34:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/8ab0fecbf42e5fd55ef8b467cf867165/President-Joe-Biden-Deliver-Remarks-in-Honor-of-Labor-Unions/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/8ab0fecbf42e5fd55ef8b467cf867165/BIDEN-LABOR-UNIONS.jpg"
+        width: 650
+        height: 433
         isCached: true
   - title: "Greg Steube calls for Joe Biden resignation after reported Marine deaths"
     excerpt: "Greg Steube called for President Joe Biden’s resignation after the reported death of four Marines in Kabul. “Horrific,” Steube tweeted. “Joe Biden needs to take"
@@ -100,6 +134,6 @@ related:
         height: 675
         isCached: true
 
-secured: "8zQL9RUiiNkeqbLZ74I+PjdNAcan3JBinIPFrnxP5HwbsOCRtl/cKyDAip7E9fGWkL2Y+4sZ4Jn3djPG1Om3Uq71Pm5KIUC2yAShrt56JERorhUYYfx626Tz5Le9vUE5gulGaEvXiZIKqaxFvioZ6TNpLn8nHMORXtxHx3fg7fnsonMCmn0SEFBFfTN8xVDgA0TNbeTVGsjuik1pcBBX7rIp8d4a7i4KZsZuQXUTUiPOWbIJmKIYGqdf1ahsSOYo8X7RzYRRJKpedG+Jtz6uO9AAHCaCiGPU9MXqCZCEv/XYr4E9NsFU/F9MsXDGRothYt2AhmZ5flbBb4fV5tPKnJJ8g/mPZQyhr8/0kxuCeys=;wNL4ugD9vuZkQzB0xTLnIw=="
+secured: "FANTou+6qvu4N8wxElmPO6cXKSUH8ywMcG6wo4Kj5NZFx4EvDjUbfsUUY/oXRckFZagJNR90aLdzjuK9N+1EGf3D8TsUCI6Seta8Xup8Pa9s+I2Im6f/0pngC6dkhU/iiLXb0U2FizE1sis9TOQ+UHF1bp/uvHCycne6rMoHxaqobBK6Lefw26S2NwkHsEyHZyIZrh23OOriiyNUXER3DgmajBVA40w4QVGVVwg4o5Tex9sICqIFqIwxj6oyPlcUkdgqW9/zTl17qCd4yJRVKfRk23p7UOEUxqOzaANQfnyyFvbVQ3YgXfyo1giwmHhBLk07aHLBe5YscpmfrD4LWXZ9utRDWnj5tBGqqFqCXOjYHuXxWSUWY56PBoj7bDdeVfHHNSKTb1v3hncuPktZJNiEGsyQBKseBF1vVFCSS2NxZC13Vk0hsrPBMW/BIv9szhZ6hhSv0FrjJFQZuUGkXGbhch2cneLAlwexdpA9UGcshDSMfxq8ahKYDj3HzOmC+usk9MF6B7cUrlo7v3ri1Q==;qxtPEwfKgeReQex89EIE1w=="
 ---
 

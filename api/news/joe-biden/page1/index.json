@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-09-08-fact-check-did-chinese-media-depict-joe-biden-as-loser-soldier-captured-by-taliban.md",
+      "title": "Fact Check: Did Chinese Media Depict Joe Biden as 'Loser' Soldier Captured by Taliban?",
+      "excerpt": "A cartoon of President Joe Biden surrendering to Taliban militants appeared on popular social media sites in the final days of the U.S. military withdrawal from Afghanistan. An illustration showing a giant figure of Biden—in military fatigues and kneeling on the ground while surrounded by smaller Taliban fighters—was said to have been produced by China 's state-owned media to mock America.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/fact-check-did-chinese-media-depict-joe-biden-loser-soldier-captured-taliban-1626732",
+      "originalUrl": "https://www.newsweek.com/fact-check-did-chinese-media-depict-joe-biden-loser-soldier-captured-taliban-1626732",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1889652/president-joe-biden-addresses-nation-afghanistan.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/fact-check-did-chinese-media-depict-joe-biden-loser-soldier-captured-taliban-1626732?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/fact-check-did-chinese-media-depict-joe-biden-loser-soldier-captured-taliban-1626732?amp=1",
+      "publishedDateTime": "2021-09-08T03:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-09-07-biden-expected-to-campaign-for-newsom-in-california-next-week.md",
       "title": "Biden expected to campaign for Newsom in California next week",
       "excerpt": "President Biden is expected to travel to California next week to campaign on behalf of California Gov. Gavin. Newsom (D) ahead of the Sept. 14 recall election.",
@@ -105,7 +157,7 @@
       "originalUrl": "https://www.newsweek.com/joe-biden-chants-break-college-football-games-country-1626438",
       "featuredContent": null,
       "highlight": null,
-      "heat": 141,
+      "heat": 161,
       "tags": null,
       "images": [
         {
@@ -404,7 +456,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/2021/sep/03/joe-biden-fbi-release-files-september-11-investigation-saudi",
       "featuredContent": null,
       "highlight": null,
-      "heat": 118,
+      "heat": 138,
       "tags": null,
       "images": [
         {
@@ -456,7 +508,7 @@
       "originalUrl": "https://www.cbsnews.com/video/senator-joe-manchin-calls-for-pause-on-bidens-3-trillion-plan/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 225,
+      "heat": 265,
       "tags": null,
       "images": [
         {
@@ -508,7 +560,7 @@
       "originalUrl": "https://www.newsweek.com/joe-biden-tells-federal-agencies-insulate-women-providers-texas-abortion-law-1625552",
       "featuredContent": null,
       "highlight": null,
-      "heat": 175,
+      "heat": 195,
       "tags": null,
       "images": [
         {
@@ -703,7 +755,7 @@
       "originalUrl": "https://www.ft.com/content/bfe24854-3bf2-4ada-b3a2-778b4707c31f",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1085,
+      "heat": 1105,
       "tags": null,
       "images": [
         {
@@ -1439,49 +1491,6 @@
         "Election",
         "Joe Biden",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-28-franklin-delano-roosevelt-vs-john-f-kennedy-vs-joe-robinette-biden.md",
-      "title": "Franklin Delano Roosevelt vs. John F. Kennedy vs. Joe Robinette Biden",
-      "excerpt": "After the deaths of 13 U.S. troops and at least 90 Afghans outside the Kabul airport, Joe Biden gave a speech from a position of weakness.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailysignal.com/2021/08/27/franklin-delano-roosevelt-vs-john-f-kennedy-vs-joe-robinette-biden/",
-      "originalUrl": "https://www.dailysignal.com/2021/08/27/franklin-delano-roosevelt-vs-john-f-kennedy-vs-joe-robinette-biden/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dailysignal.com/wp-content/uploads/Biden-2.gif",
-          "width": 1250,
-          "height": 650,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailysignal.com/2021/08/27/franklin-delano-roosevelt-vs-john-f-kennedy-vs-joe-robinette-biden/amp/",
-      "cdnAmpWebUrl": "https://www-dailysignal-com.cdn.ampproject.org/c/s/www.dailysignal.com/2021/08/27/franklin-delano-roosevelt-vs-john-f-kennedy-vs-joe-robinette-biden/amp/",
-      "publishedDateTime": "2021-08-27T16:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Signal",
-        "domain": "dailysignal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],
