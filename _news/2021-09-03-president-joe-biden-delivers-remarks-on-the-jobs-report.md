@@ -389,6 +389,20 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "Biden tours Ida ruin, says climate in crisis"
+    excerpt: "President Joe Biden declared climate change \"everybody's crisis\" Tuesday after touring two northeastern states ravaged by the remnants of Hurricane Ida, and said it's time for America to get serious about the danger or face ever worse loss of life and property."
+    publishedDateTime: 2021-09-08T09:53:00Z
+    webUrl: "https://www.arkansasonline.com/news/2021/sep/08/biden-tours-ida-ruin-says-climate-in-crisis/"
+    type: article
+    provider:
+      name: Arkansas Democrat-Gazette
+      domain: arkansasonline.com
+    quality: 55
+    images:
+      - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/199338282_1ABiden_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
+        width: 600
+        height: 386
+        isCached: true
   - title: "VP Kamala Harris slams China right on their doorstep – here’s what she said"
     excerpt: "During her visit to Singapore on Tuesday, Vice President Kamala Harris railed against China for coercing and intimidating countries in the South China Sea. 'We know that Beijing continues to coerce, to intimidate,"
     publishedDateTime: 2021-08-25T17:42:00Z

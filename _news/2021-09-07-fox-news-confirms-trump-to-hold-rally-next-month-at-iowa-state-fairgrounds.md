@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-to-hold-rally-next-month-at-i
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-to-hold-rally-next-month-at-iowa-state-fairgrounds.amp"
 type: article
 quality: 173
-heat: 193
+heat: 213
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump announces rallies in Georgia, Iowa as 2024 speculation mounts"
+    excerpt: "Former President Donald Trump will hold two more campaign-style rallies in the coming weeks, as speculation continues to grow that he will make yet another run for the White House in 2024."
+    publishedDateTime: 2021-09-08T08:36:00Z
+    webUrl: "https://nypost.com/2021/09/08/trump-to-hold-rallies-in-georgia-iowa-amid-rumors-of-2024-presidential-run/"
+    ampWebUrl: "https://nypost.com/2021/09/08/trump-to-hold-rallies-in-georgia-iowa-amid-rumors-of-2024-presidential-run/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/09/08/trump-to-hold-rallies-in-georgia-iowa-amid-rumors-of-2024-presidential-run/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/09/AFP_9LP8WG.jpg?quality=90&strip=all&w=1024"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "‘It would be such an honor’: Gold Star mom invites Trump to son’s funeral"
     excerpt: "Shana Chappell invited former President Donald Trump to attend the funeral of Kareem Nikoui, one of the service members killed in a terror attack in Afghanistan last month."
     publishedDateTime: 2021-09-08T05:55:00Z

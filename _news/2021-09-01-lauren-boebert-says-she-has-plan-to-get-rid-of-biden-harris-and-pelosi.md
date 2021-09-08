@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/lauren-boebert-remove-impeach-president-bid
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/lauren-boebert-remove-impeach-president-biden-harris-pelosi-afghanistan-1624896?amp=1"
 type: article
 quality: 140
-heat: 680
+heat: 700
 published: true
 
 provider:
@@ -392,6 +392,20 @@ related:
       - url: "https://media.khou.com/assets/KHOU/images/187344c7-06c1-42d5-85c7-adfa7305becf/187344c7-06c1-42d5-85c7-adfa7305becf_1140x641.jpg"
         width: 1140
         height: 641
+        isCached: true
+  - title: "Biden tours Ida ruin, says climate in crisis"
+    excerpt: "President Joe Biden declared climate change \"everybody's crisis\" Tuesday after touring two northeastern states ravaged by the remnants of Hurricane Ida, and said it's time for America to get serious about the danger or face ever worse loss of life and property."
+    publishedDateTime: 2021-09-08T09:53:00Z
+    webUrl: "https://www.arkansasonline.com/news/2021/sep/08/biden-tours-ida-ruin-says-climate-in-crisis/"
+    type: article
+    provider:
+      name: Arkansas Democrat-Gazette
+      domain: arkansasonline.com
+    quality: 55
+    images:
+      - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/199338282_1ABiden_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
+        width: 600
+        height: 386
         isCached: true
   - title: "VP Kamala Harris slams China right on their doorstep – here’s what she said"
     excerpt: "During her visit to Singapore on Tuesday, Vice President Kamala Harris railed against China for coercing and intimidating countries in the South China Sea. 'We know that Beijing continues to coerce, to intimidate,"

@@ -1,24 +1,28 @@
 ---
 category: news
-title: "For Biden’s presidency has been driven by crisis and is the ‘loneliest job’"
-excerpt: "President Biden wore the weight of a lonely man as he came to grips in recent days with the deadly end of the American effort in Afghanistan, even as he and the nation continued to battle the COVID-19 pandemic."
-publishedDateTime: 2021-08-28T13:24:00Z
-originalUrl: "https://www.bostonglobe.com/2021/08/28/nation/bidens-presidency-has-been-driven-by-crisis-is-loneliest-job/"
-webUrl: "https://www.bostonglobe.com/2021/08/28/nation/bidens-presidency-has-been-driven-by-crisis-is-loneliest-job/"
-ampWebUrl: "https://www.bostonglobe.com/2021/08/28/nation/bidens-presidency-has-been-driven-by-crisis-is-loneliest-job/?outputType=amp"
-cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2021/08/28/nation/bidens-presidency-has-been-driven-by-crisis-is-loneliest-job/?outputType=amp"
+title: "Biden tours Ida ruin, says climate in crisis"
+excerpt: "President Joe Biden declared climate change \"everybody's crisis\" Tuesday after touring two northeastern states ravaged by the remnants of Hurricane Ida, and said it's time for America to get serious about the danger or face ever worse loss of life and property."
+publishedDateTime: 2021-09-08T09:53:00Z
+originalUrl: "https://www.arkansasonline.com/news/2021/sep/08/biden-tours-ida-ruin-says-climate-in-crisis/"
+webUrl: "https://www.arkansasonline.com/news/2021/sep/08/biden-tours-ida-ruin-says-climate-in-crisis/"
 type: article
-quality: 53
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: The Boston Globe
-  domain: bostonglobe.com
+  name: Arkansas Democrat-Gazette
+  domain: arkansasonline.com
 
 topics:
   - Election
   - Joe Biden
+
+images:
+  - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/199338282_1ABiden_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
+    width: 600
+    height: 386
+    isCached: true
 
 related:
   - title: "Lauren Boebert Says She Has Plan to Get Rid of Biden, Harris and Pelosi"
@@ -399,20 +403,6 @@ related:
         width: 1140
         height: 641
         isCached: true
-  - title: "Biden tours Ida ruin, says climate in crisis"
-    excerpt: "President Joe Biden declared climate change \"everybody's crisis\" Tuesday after touring two northeastern states ravaged by the remnants of Hurricane Ida, and said it's time for America to get serious about the danger or face ever worse loss of life and property."
-    publishedDateTime: 2021-09-08T09:53:00Z
-    webUrl: "https://www.arkansasonline.com/news/2021/sep/08/biden-tours-ida-ruin-says-climate-in-crisis/"
-    type: article
-    provider:
-      name: Arkansas Democrat-Gazette
-      domain: arkansasonline.com
-    quality: 55
-    images:
-      - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/199338282_1ABiden_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
-        width: 600
-        height: 386
-        isCached: true
   - title: "VP Kamala Harris slams China right on their doorstep – here’s what she said"
     excerpt: "During her visit to Singapore on Tuesday, Vice President Kamala Harris railed against China for coercing and intimidating countries in the South China Sea. 'We know that Beijing continues to coerce, to intimidate,"
     publishedDateTime: 2021-08-25T17:42:00Z
@@ -427,6 +417,17 @@ related:
         width: 1130
         height: 759
         isCached: true
+  - title: "For Biden’s presidency has been driven by crisis and is the ‘loneliest job’"
+    excerpt: "President Biden wore the weight of a lonely man as he came to grips in recent days with the deadly end of the American effort in Afghanistan, even as he and the nation continued to battle the COVID-19 pandemic."
+    publishedDateTime: 2021-08-28T13:24:00Z
+    webUrl: "https://www.bostonglobe.com/2021/08/28/nation/bidens-presidency-has-been-driven-by-crisis-is-loneliest-job/"
+    ampWebUrl: "https://www.bostonglobe.com/2021/08/28/nation/bidens-presidency-has-been-driven-by-crisis-is-loneliest-job/?outputType=amp"
+    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2021/08/28/nation/bidens-presidency-has-been-driven-by-crisis-is-loneliest-job/?outputType=amp"
+    type: article
+    provider:
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 53
   - title: "Lauren Boebert demands Kamala Harris be impeached for the most ridiculous reason possible"
     excerpt: "Lauren Boebert (R-CO) cannot help herself. She opens her mouth and words fall out that are best kept inside. This time, at a Freedom Caucus press conference, the congress member decided to call for the impeachment of Vice President Kamala Harris for a reason so ridiculously stupid even her fellow legislators could barely keep a straight face."
     publishedDateTime: 2021-08-31T19:00:00Z
@@ -442,6 +443,6 @@ related:
         height: 630
         isCached: true
 
-secured: "gxXun2YQhijI9SefyYDVBENgty3oEQ1AJihPFbVtRDfTb3ptrMQUgytKe05fWXrJc3FjJwrIuu3aDdr+FfwpbfC3MqyMwpB43eE8BJguzIZOm8qGkHwlU7Q0TdnFy41+qCYHV8fdPVc6NDz/PRSFwEUUivu0/LalI672JPs5Z8ZUnX8e6BpLDAcMkcpNCnvC+6tUdo8xilmy+5sIWDPcCoHwfF2dP3oC7G3zeflESGCZzjqry6AZ+CPOD2+bjGJo8uVuWuQUcchnIaBTnn49qKbj7LOQlX913YkdH69Ukbb1Q8ZdiOn9NYa7nxvM+CB93m5k0wXtBZrvpdaVwp3fiXWGk5NvsvHGuYtmcn75wWw=;WvzUR7Sz9NU3HNoZEMSGig=="
+secured: "zIa7OJssPVT9txyrPQbjzPonS0SPn1kJs/F+jaDdFUtqBi9Aj5TEcHv8YRgpbWpmmpnH+yfbQpU6cy49A5Lu3oOmoaZFsdScNEcn/1IPNcYAQISN9OO+/qRujBCLTwfMymbUrZzxZkj5y6kEn+h1mUyAUbVEUnVlks7wpyoHFkDGmKlW3W9J4XhFZijSQL5opkWjM4mgfimg+rs9aFZ3QFtSwqmb9hMaK50k9itklXppSnUo/w5CSod7s4tYSepQ+G6RTLqUonFx35ZFbRBATv00N6KB+EGtn/eMaorLUWDy8VaNwceQP4tSTVXRJijdzLMjWtivic/l94fuCDRo7Ij0qjNx2QZ9646BxH5feII=;fhf+qAUEi6vMt21qbVMWug=="
 ---
 

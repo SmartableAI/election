@@ -1,33 +1,27 @@
 ---
 category: news
-title: "Trump Denies Asking Federal Government To Stop 'Saturday Night Live' From Mocking Him"
-excerpt: "A report says that former President Donald Trump asked the U.S. Justice Department to look into possible punishments against late-night shows for mocking him in their comedy skits, but he has denied the claim as “fake news."
-publishedDateTime: 2021-06-23T03:58:00Z
-originalUrl: "https://www.ibtimes.com/trump-denies-asking-federal-government-stop-saturday-night-live-mocking-him-3232937"
-webUrl: "https://www.ibtimes.com/trump-denies-asking-federal-government-stop-saturday-night-live-mocking-him-3232937"
-ampWebUrl: "https://www.ibtimes.com/trump-denies-asking-federal-government-stop-saturday-night-live-mocking-him-3232937?amp=1"
-cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-denies-asking-federal-government-stop-saturday-night-live-mocking-him-3232937?amp=1"
+title: "Donald Trump, son to provide boxing commentary Saturday"
+excerpt: "Former President Donald Trump and his son, Donald Trump Jr., have agreed to provide commentary during Triller's gamecast of four boxing matches on Saturday."
+publishedDateTime: 2021-09-08T04:41:00Z
+originalUrl: "https://www.mdjonline.com/fieldlevel/donald-trump-son-to-provide-boxing-commentary-saturday/article_ebb32858-a2b6-53dd-b055-5cbd9e95e278.html"
+webUrl: "https://www.mdjonline.com/fieldlevel/donald-trump-son-to-provide-boxing-commentary-saturday/article_ebb32858-a2b6-53dd-b055-5cbd9e95e278.html"
 type: article
-quality: 68
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: International Business Times
-  domain: ibtimes.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Marietta Daily Journal
+  domain: mdjonline.com
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/06/11/as-president-donald-trump-repeatedly-attacked-democrats-including.jpg"
-    width: 1024
-    height: 657
+  - url: "https://bloximages.newyork1.vip.townnews.com/mdjonline.com/content/tncms/custom/image/4df9d750-8f54-11e7-ba56-dfb3dab930d6.jpg"
+    width: 1280
+    height: 853
     isCached: true
 
 related:
@@ -207,6 +201,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Trump Denies Asking Federal Government To Stop 'Saturday Night Live' From Mocking Him"
+    excerpt: "A report says that former President Donald Trump asked the U.S. Justice Department to look into possible punishments against late-night shows for mocking him in their comedy skits, but he has denied the claim as “fake news."
+    publishedDateTime: 2021-06-23T03:58:00Z
+    webUrl: "https://www.ibtimes.com/trump-denies-asking-federal-government-stop-saturday-night-live-mocking-him-3232937"
+    ampWebUrl: "https://www.ibtimes.com/trump-denies-asking-federal-government-stop-saturday-night-live-mocking-him-3232937?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-denies-asking-federal-government-stop-saturday-night-live-mocking-him-3232937?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 68
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/06/11/as-president-donald-trump-repeatedly-attacked-democrats-including.jpg"
+        width: 1024
+        height: 657
+        isCached: true
   - title: "Donald Trump holds Ohio rally in support of Max Miller, discusses ‘scam of the century’"
     excerpt: "The rally, held five months after Trump left office, marks the beginning of a new, more public phase of his post-presidency."
     publishedDateTime: 2021-06-27T09:15:00Z
@@ -250,20 +260,6 @@ related:
       name: Christian Science Monitor
       domain: csmonitor.com
     quality: 55
-  - title: "Donald Trump, son to provide boxing commentary Saturday"
-    excerpt: "Former President Donald Trump and his son, Donald Trump Jr., have agreed to provide commentary during Triller's gamecast of four boxing matches on Saturday."
-    publishedDateTime: 2021-09-08T04:41:00Z
-    webUrl: "https://www.mdjonline.com/fieldlevel/donald-trump-son-to-provide-boxing-commentary-saturday/article_ebb32858-a2b6-53dd-b055-5cbd9e95e278.html"
-    type: article
-    provider:
-      name: Marietta Daily Journal
-      domain: mdjonline.com
-    quality: 55
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/mdjonline.com/content/tncms/custom/image/4df9d750-8f54-11e7-ba56-dfb3dab930d6.jpg"
-        width: 1280
-        height: 853
-        isCached: true
   - title: "Trump Joins Video Platform Rumble Ahead of Ohio Rally"
     excerpt: "Former U.S. President Donald Trump joined video platform Rumble on Saturday, the same day he will take the stage at a campaign-style rally in Ohio, his first such event since the Jan. 6 attack on the U."
     publishedDateTime: 2021-06-26T22:09:00Z
@@ -292,6 +288,6 @@ related:
       domain: chattanoogan.com
     quality: 35
 
-secured: "oA6jU0hcDMbNAuZFY9eHqwfgslf6dxXX4l91y4ub45c8jhQXMJxH7P6UwJwyRnA+KN/rG6nzFtb/43irVVH0IWI4IicZvowgu1cSytJHo0Ob+tiMdq5s3oNbbHvXBU8Uevdgo3BFQoaRskQJWz9KF87J5fFX0PS86mqyZ0Z0Mrj+CotEgAmxJ04xCb8Ebopbmw+T8JVCIO0SbWtaVVvIaaeOI6djoE8JeGpZQZ4li9L06MxE9toNdk8Nsd1uOnBP7zdKq2+vveZyxas5sZYeu1hAbgw/RxHV36DnzZCOEJ+M/VgbfzyyIG3CKiL8rLCQBEIL68F5HmHdYQfv0QurnQCURqLBfB/cCaxRAMQcuIvtBPHZtJqE7kxfrH+1skx7WoyYv2W7j9yRyag37nE8XlfYbCEgP2P/wLdJ7iLf5zAvp6CygDF9Qe9MqHT5ZK+gbY5XMSoAo77cQP5QocGGcTiDIWte5UPghnkQvAg02FxF0VTo8k+POrSjy4UsVtgan6AFruhARLxLqtEhC6FIhg==;w7i0G9e7WeDA1049uQ3dgw=="
+secured: "IbWR+Ze6JmWwmXGAGSXvFjhe38ozDqEbFnUle1avc+HpH9SLLGV73wmhdEKK2m860fwtqt8jGdCSOa2bWu57pWy3tmz1WNRtRfOfLIhpjytg18iaxMJjaG/WwehCE6eFyENJVvok17OJhl6Cq9flcTmkWzM42T2+GaJXBKe4ZNzrdtIVmoTlHCiosNOD5E+rJv1zL8yq8qYBmoYe8lY0A0iKIbtSI0rOVPuw7P8ldiB8rjuAVOEcOWiwyz5UmujGE+FHas5yw+pDPpDyvu3qpv10nTI0m7U4mY0P0io3gmIuRdi/jtt1lF2TKHc15nhQVPSDUiqs73mYX4RAm+ZYvShVCiO1/R30a6lTosiAETE=;sawmQ343lHEU8QlhgwmvGQ=="
 ---
 

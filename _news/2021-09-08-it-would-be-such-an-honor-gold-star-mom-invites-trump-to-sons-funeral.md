@@ -44,7 +44,23 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Trump announces rallies in Georgia, Iowa as 2024 speculation mounts"
+    excerpt: "Former President Donald Trump will hold two more campaign-style rallies in the coming weeks, as speculation continues to grow that he will make yet another run for the White House in 2024."
+    publishedDateTime: 2021-09-08T08:36:00Z
+    webUrl: "https://nypost.com/2021/09/08/trump-to-hold-rallies-in-georgia-iowa-amid-rumors-of-2024-presidential-run/"
+    ampWebUrl: "https://nypost.com/2021/09/08/trump-to-hold-rallies-in-georgia-iowa-amid-rumors-of-2024-presidential-run/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/09/08/trump-to-hold-rallies-in-georgia-iowa-amid-rumors-of-2024-presidential-run/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/09/AFP_9LP8WG.jpg?quality=90&strip=all&w=1024"
+        width: 1024
+        height: 683
+        isCached: true
 
-secured: "t59AMHB4/vYzerWUlP1NzwVbhwttMca3kcEAQb6nBjHI1zm7d5kclbJXRPGM17cgcHfPtYIfqVvhf7qbSTwED7IjMy6vIYMdfilVDbQSOluAD7JUXFrI8eMXaaFjNgozfP3uFo4bjWF46dKIWimmHqYINN9CflR8aFXn2iVEXT7EMehvq90t9kgoGngz82oYL5eXauAIE55iYH+h4FyvOTcXApkJHbEpjXy+y5x/S0QCOFrh4ZMB497+PnhXMiH4rjWPx7XoQfrlEpgRQgY/HLGB852FWRJfs5jEcotEFFxEbeamsG3dqS1doxfaDPdtyalWFRAvuVpmyu1288MDuFcq36hQm+yW6fubF58k+W4=;hn0L9hqSw2XpsAEQj1UiaQ=="
+secured: "0B0thRi+PCJBT37pSz0BoEg8tf3zG629SZvVsbHb1b547J0S6BmlvykvWP0uhmvccVJXRWVSA8XdJ0NgSYRPC++Mwm3WGuMok9Ca2HdC+edFCP4P+lzSfBl1u6oVpylXqL9olC1vyhJAA7WhBizADmVwJ6Lr5c5X3Ev9HbfmJ4h6nLYVzC5+aTdp1+4qTYSPD5nRXUL10m4dFUNEFxeKAavR4y/mmp187lZnRD/PP/hKbD8qf/Uoz3tiSnAm1H12GsNyPMnPzJohkwXoZqB3HjdPqB/M8AlnSTBii5AZdHybxWzdhWQDDwtUg+yU9h0sY1aem+N+iQT+ZZ59SPgR6e/kcbCesZAG1BxBfpJuqt6mgucBA6szqHB47IM1mM5X4K0mwkRI435xXsjrohZCOlhr2kgI20TTrXVX7VsHFZsflNKj/dX+kXhGeB/QLQr5zLJ0bmQAwA36ENi9q6heORxiLWdqZRA65amkyC/I9zHufg73Lhx/DRNCohk9tVbjW/QCNa0LLLOcDNhZ5oR6FA==;pG8fsfg3zuANg1BHiu0LDQ=="
 ---
 

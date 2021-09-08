@@ -258,6 +258,20 @@ related:
       name: Christian Science Monitor
       domain: csmonitor.com
     quality: 55
+  - title: "Donald Trump, son to provide boxing commentary Saturday"
+    excerpt: "Former President Donald Trump and his son, Donald Trump Jr., have agreed to provide commentary during Triller's gamecast of four boxing matches on Saturday."
+    publishedDateTime: 2021-09-08T04:41:00Z
+    webUrl: "https://www.mdjonline.com/fieldlevel/donald-trump-son-to-provide-boxing-commentary-saturday/article_ebb32858-a2b6-53dd-b055-5cbd9e95e278.html"
+    type: article
+    provider:
+      name: Marietta Daily Journal
+      domain: mdjonline.com
+    quality: 55
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/mdjonline.com/content/tncms/custom/image/4df9d750-8f54-11e7-ba56-dfb3dab930d6.jpg"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "Trump Voices Radio Ad for Rep. Mo Brooks in US Senate Race"
     excerpt: "Former President Donald Trump is appearing in a radio ad for U.S. Rep Mo Brooks as he tries to sway the outcome of the state’s Senate race."
     publishedDateTime: 2021-07-03T20:38:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Sports/donald-trump-son-provide-commentar
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Sports/donald-trump-son-provide-commentary-evander-holyfield-vitor/story?id=79884415"
 type: article
 quality: 114
-heat: 154
+heat: 174
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://i.insider.com/613820872534ab0018533db4?width=1200&format=jpeg"
         width: 799
         height: 399
+        isCached: true
+  - title: "Fight club: Donald Trump will be boxing analyst for Evander Holyfield-Vitor Belfort bout"
+    excerpt: "Former President Donald Trump will serve as a commentator for Saturday's fight card at the Hard Rock Hotel & Casino in Hollywood, Florida."
+    publishedDateTime: 2021-09-08T09:52:00Z
+    webUrl: "https://www.nj.com/sports/2021/09/fight-club-donald-trump-will-be-boxing-analyst-for-evander-holyfield-vitor-belfort-bout.html"
+    ampWebUrl: "https://www.nj.com/sports/2021/09/fight-club-donald-trump-will-be-boxing-analyst-for-evander-holyfield-vitor-belfort-bout.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nj-com.cdn.ampproject.org/c/s/www.nj.com/sports/2021/09/fight-club-donald-trump-will-be-boxing-analyst-for-evander-holyfield-vitor-belfort-bout.html?outputType=amp"
+    type: article
+    provider:
+      name: NJ.com
+      domain: nj.com
+    quality: 66
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/5KLDYFWUI5FLFFLUVXJNSFMOAU.jpg"
+        width: 3324
+        height: 2217
         isCached: true
   - title: "Donald Trump to call Evander Holyfield fight with Vitor Belfort"
     excerpt: "When former heavyweight champion Evander Holyfield enters the ring to fight Vitor Belfort this weekend, the tag team of Donald Trump and Donald Trump Jr. will be sitting ringside. ESPN fight reporter Mike Coppinger said Tuesday that event organizers told him the ink is dry on a deal that will have the two Trumps weighing in when Holyfield,"
