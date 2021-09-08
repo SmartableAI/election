@@ -41,6 +41,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Biden tells storm-ravaged Louisiana: 'I know you're hurting'"
+    excerpt: "Less than a week after Hurricane Ida battered the Gulf Coast, President Joe Biden walked the streets of a hardhit Louisiana neighborhood and told local residents, “I know you're hurting, I know you're hurting."
+    publishedDateTime: 2021-09-08T07:17:00Z
+    webUrl: "https://www.mysanantonio.com/news/article/Biden-tells-storm-ravaged-Louisiana-I-know-16435210.php"
+    ampWebUrl: "https://www.mysanantonio.com/news/amp/Biden-tells-storm-ravaged-Louisiana-I-know-16435210.php"
+    cdnAmpWebUrl: "https://www-mysanantonio-com.cdn.ampproject.org/c/s/www.mysanantonio.com/news/amp/Biden-tells-storm-ravaged-Louisiana-I-know-16435210.php"
+    type: article
+    provider:
+      name: My San Antonio
+      domain: mysanantonio.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Biden surveys Hurricane Ida storm damage in New York and New Jersey after deadly flooding"
     excerpt: "Pointing accusingly at climate change, President Joe Biden toured deadly Northeast flood damage Tuesday and said he was thinking about the all families who suffered"
     publishedDateTime: 2021-09-07T17:26:00Z

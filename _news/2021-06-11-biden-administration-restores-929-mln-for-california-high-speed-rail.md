@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2DN0DY"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2DN0DY"
 type: article
 quality: 125
-heat: 185
+heat: 205
 published: true
 
 provider:
@@ -72,6 +72,15 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "California recall vote offers test of Biden political clout"
+    excerpt: "President Joe Biden has been beset by public health, military and climate crises in the past month. Not much time has been left for a potential political disaster brewing for his party in California."
+    publishedDateTime: 2021-09-08T07:08:00Z
+    webUrl: "https://lasvegassun.com/news/2021/sep/08/california-recall-vote-offers-test-of-biden-politi/"
+    type: article
+    provider:
+      name: Las Vegas Sun
+      domain: lasvegassun.com
+    quality: 35
 
 secured: "7GRmgdf5W5aBRJNIjf6n7cWjaxsZyWtGAaXuIjUElVwkI6ioLsgbYgXQxGX5iVWzMpqQs8PfHX3LEuUHn/CqK4T7lt6Xt+MLHbMSXlDd3hsFi7bVAIjWSFZf2auueblVD35raDxm6BFFYbCT33f0akd1eEZxQqv8rbwDL9s8c/MWd7zW6/6q49zzmERuUL8eQNqRDRo7UJg4iXuVaNFaevpeUdzY6n9CnoGqXPIw8OuazD/xwkjB68aUOVM0MPsHI5UJXVJ+KnSYiE2je0lCFjOEmRh6VPB3Q/gPOsaK1UeO/kIvfnj4VHHG73/OPyR3BLKgI/LUskOafhc08ug+irqKo2c9wGOwC+fP0wJJiqY=;2DuucPNJYOfnBzyqjVE1Cg=="
 ---

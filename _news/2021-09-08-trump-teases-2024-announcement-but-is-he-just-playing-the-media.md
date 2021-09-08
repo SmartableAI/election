@@ -1,20 +1,22 @@
 ---
 category: news
-title: "Trump Hits Biden On Afghanistan: \"We Must Have Hostages Released And Our Military Equipment Returned Now\""
-excerpt: "Former President Trump's \"Save America\" Joint Fundraising Committee is not technically a political action committee and not technically an election campaign, but they released this ad slamming President Biden's performance on Afghanistan."
-publishedDateTime: 2021-09-02T14:19:00Z
-originalUrl: "https://www.realclearpolitics.com/video/2021/09/02/trump_team_ad_on_afghanistan_we_must_have_hostages_released_and_our_military_equipment_returned_now.html"
-webUrl: "https://www.realclearpolitics.com/video/2021/09/02/trump_team_ad_on_afghanistan_we_must_have_hostages_released_and_our_military_equipment_returned_now.html"
-ampWebUrl: "http://www.realclearpolitics.com/video/2021/09/02/trump_team_ad_on_afghanistan_we_must_have_hostages_released_and_our_military_equipment_returned_now.amp.html"
-cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/09/02/trump_team_ad_on_afghanistan_we_must_have_hostages_released_and_our_military_equipment_returned_now.amp.html"
+title: "Trump teases 2024 announcement, but is he just playing the media?"
+excerpt: "It may be the big move or it may be a head fake, but Donald Trump wants you to believe he’s about to start running for president."
+publishedDateTime: 2021-09-08T06:48:00Z
+originalUrl: "https://www.foxnews.com/media/trump-teases-2024-announcement-just-playing-media"
+webUrl: "https://www.foxnews.com/media/trump-teases-2024-announcement-just-playing-media"
 type: article
-quality: 83
+quality: 115
 heat: -1
 published: false
 
 provider:
-  name: RealClearPolitics
-  domain: realclearpolitics.com
+  name: Fox News
+  domain: foxnews.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
@@ -22,9 +24,9 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://amp.spot.im/loader.png"
-    width: 375
-    height: 815
+  - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/08/Trump-Biden-split-2.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -76,21 +78,23 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "Trump teases 2024 announcement, but is he just playing the media?"
-    excerpt: "It may be the big move or it may be a head fake, but Donald Trump wants you to believe he’s about to start running for president."
-    publishedDateTime: 2021-09-08T06:48:00Z
-    webUrl: "https://www.foxnews.com/media/trump-teases-2024-announcement-just-playing-media"
+  - title: "Trump Hits Biden On Afghanistan: \"We Must Have Hostages Released And Our Military Equipment Returned Now\""
+    excerpt: "Former President Trump's \"Save America\" Joint Fundraising Committee is not technically a political action committee and not technically an election campaign, but they released this ad slamming President Biden's performance on Afghanistan."
+    publishedDateTime: 2021-09-02T14:19:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/09/02/trump_team_ad_on_afghanistan_we_must_have_hostages_released_and_our_military_equipment_returned_now.html"
+    ampWebUrl: "http://www.realclearpolitics.com/video/2021/09/02/trump_team_ad_on_afghanistan_we_must_have_hostages_released_and_our_military_equipment_returned_now.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/09/02/trump_team_ad_on_afghanistan_we_must_have_hostages_released_and_our_military_equipment_returned_now.amp.html"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 115
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 83
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/08/Trump-Biden-split-2.jpg"
-        width: 1280
-        height: 720
+      - url: "https://amp.spot.im/loader.png"
+        width: 375
+        height: 815
         isCached: true
 
-secured: "7yRxuqc9Iu3JaCBKFcEk2No98IOoKL/Z7ZmD963UUU0Y4i7VgTdCdrsxDpyAJu7MI8ZB4Cr+18yr9NCDcZVaC2iTwWoViHVLkpltvlWyl7OGh+W3FGfG4DSLZN6WPicsJnNv+040uz3O86Z8+ZzRGeh/KDFBKcPAU+xFSClGLGRpkA1E5FOrH+dSoLdM8E2lSqNx9PwnbEX3I9WHZKlpk9cm1x0ZxP+lD12RbYH8oiZUem0ADDjYmnAr+izY2YZrDkjvnX4YJWnfNjdsUr/TENKMjpuOMblmci41EtZMgABht7kP7w/1hZj6DvMkh79yDNRpZuq9nKIoAGXzPJNQY1sITH1rO0LvtYYMZqLTbZI=;w48Jbtgq3NrGfxYSAZHvFA=="
+secured: "APmdKxx+iOQs5gPy65MjydizXrNzj78pbxg5qJenxWyJo1QJ9USpaaRM5lp/B0Uy4n3sM/1Lquekt2L06Hrh4fI+zfu7nrct1QftX4yX2BCVKNdTfnEhLjSn1xpf0gmsfUS275YFclYqJSBJhwfjuq4//3yLLT1/PuZpMMVXxCz0oVivhhSIuVaF+y7mKejh9S+xyxIwJ0batS1cgYKCo4xriU7TccmoY6bIlRXAMpxzxQJTHkJgyD31m0Q6GFvZgORDK4F29/WvUTUc45ES2zGcNCbRZrQH5BR573cpNxNqIS3ozZpjE5pD14VJqc7A6ibsGU41qmHv2E/U01GXP1y3jKLXKIWfd9rCt+cN6bQ=;x9JyibD1Wt9N6ur2lYRopw=="
 ---
 

@@ -68,6 +68,15 @@ related:
       name: ABC
       domain: abcnews.go.com
     quality: 85
+  - title: "California recall vote offers test of Biden political clout"
+    excerpt: "President Joe Biden has been beset by public health, military and climate crises in the past month. Not much time has been left for a potential political disaster brewing for his party in California."
+    publishedDateTime: 2021-09-08T07:08:00Z
+    webUrl: "https://lasvegassun.com/news/2021/sep/08/california-recall-vote-offers-test-of-biden-politi/"
+    type: article
+    provider:
+      name: Las Vegas Sun
+      domain: lasvegassun.com
+    quality: 35
 
 secured: "XBsvwuHYJmEpx+0LUE7KmE15ZlEtJ2T8q7dE+idrGp0ZlYtpdShMfnEuNp/+ztE9Dh+Oqkdn80xNXRhkDlFIa2UaAmLhE9JKsHXjQuC1Q+lAovveJ0d/ZKDl+mIaqn/1Qg0c5pS171LwgD+cSMQgqKDWH0JpdL38/OMQ5ptIbYRxyuqgzOGVkrcrxPDrxmx1ps+Rwjflj3vAJv9/LFvKgagwFeAZmGrWDOMVWjxctwcuLpJepLFN6w6+MSIdATHkiplMoeo6UAbOivpKpvTCdt7G5/j3mTJ82DNj5DQVpG05CdV2bikAxzHzcA4EWoMyCPpkXeJ0f4i0f8Z94/yvT41PRpkjsJoKRb2EmYYnP+g9NiD7nGgLDIH50Fns94+dF8rnOEXjPZpIWEvuqj4nXljJMJgbqYq14lkrvJ/x6/8wuSzFx8p2frepdf6DXbgHIt+UfOBWHv/tQKxqwMHIluMYTmEin/I3mvZ/6VCud7ZOqzpk+gF1VoARrWiAZ8i3OrMHGdATIqGO+ERr0/yCzw==;erkXf/Tqm9VofIo3oSSvMA=="
 ---

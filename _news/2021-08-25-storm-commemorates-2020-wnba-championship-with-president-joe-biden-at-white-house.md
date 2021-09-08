@@ -421,6 +421,22 @@ related:
         width: 1024
         height: 642
         isCached: true
+  - title: "SEE IT: Unruly airplane passenger growls, screams ‘Joe Biden’ before arrest"
+    excerpt: "An American Airlines passenger was arrested on a flight, growling at flight attendants and screaming “Joe Biden” during a bizarre rant that was partially recorded on video. Timothy Armstrong, 61, of Las Vegas,"
+    publishedDateTime: 2021-09-07T22:27:00Z
+    webUrl: "https://www.nydailynews.com/news/national/ny-20210907-xbgy2aotfvgexm4yems5ixtxq4-story.html"
+    ampWebUrl: "https://www.nydailynews.com/news/national/ny-20210907-xbgy2aotfvgexm4yems5ixtxq4-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/news/national/ny-20210907-xbgy2aotfvgexm4yems5ixtxq4-story.html?outputType=amp"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 73
+    images:
+      - url: "https://www.nydailynews.com/resizer/LVAH_Gk05_JlyBYw8jZL4HmshlE=/1200x0/right/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/O7EJWFOIZBCUBMVWPWUPN72KSQ.png"
+        width: 1200
+        height: 1188
+        isCached: true
   - title: "Biden surveys storm damage after deadly flooding from remnants of Hurricane Ida"
     excerpt: "Every part of the country is getting hit by extreme weather,” President Joe Biden said at the Somerset County emergency management center Tuesday."
     publishedDateTime: 2021-09-07T17:43:00Z

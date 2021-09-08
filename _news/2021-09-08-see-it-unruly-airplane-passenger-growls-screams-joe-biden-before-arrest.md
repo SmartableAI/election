@@ -1,27 +1,29 @@
 ---
 category: news
-title: "What the end of Joe Biden’s eviction moratorium will look like in Maine"
-excerpt: "The end of the moratorium comes as the pandemic situation in Maine grows more grim and could test a new state law for renters."
-publishedDateTime: 2021-08-27T13:22:00Z
-originalUrl: "https://bangordailynews.com/2021/08/27/politics/daily-brief/what-the-end-of-joe-bidens-eviction-moratorium-will-look-like-in-maine/"
-webUrl: "https://bangordailynews.com/2021/08/27/politics/daily-brief/what-the-end-of-joe-bidens-eviction-moratorium-will-look-like-in-maine/"
+title: "SEE IT: Unruly airplane passenger growls, screams ‘Joe Biden’ before arrest"
+excerpt: "An American Airlines passenger was arrested on a flight, growling at flight attendants and screaming “Joe Biden” during a bizarre rant that was partially recorded on video. Timothy Armstrong, 61, of Las Vegas,"
+publishedDateTime: 2021-09-07T22:27:00Z
+originalUrl: "https://www.nydailynews.com/news/national/ny-20210907-xbgy2aotfvgexm4yems5ixtxq4-story.html"
+webUrl: "https://www.nydailynews.com/news/national/ny-20210907-xbgy2aotfvgexm4yems5ixtxq4-story.html"
+ampWebUrl: "https://www.nydailynews.com/news/national/ny-20210907-xbgy2aotfvgexm4yems5ixtxq4-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/news/national/ny-20210907-xbgy2aotfvgexm4yems5ixtxq4-story.html?outputType=amp"
 type: article
-quality: 55
+quality: 73
 heat: -1
 published: false
 
 provider:
-  name: Bangor Daily News
-  domain: bangordailynews.com
+  name: New York Daily News
+  domain: nydailynews.com
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://bdn-data.s3.amazonaws.com/uploads/2021/08/LewistonAuburnHousing-090419-2.jpg"
-    width: 1024
-    height: 681
+  - url: "https://www.nydailynews.com/resizer/LVAH_Gk05_JlyBYw8jZL4HmshlE=/1200x0/right/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/O7EJWFOIZBCUBMVWPWUPN72KSQ.png"
+    width: 1200
+    height: 1188
     isCached: true
 
 related:
@@ -425,22 +427,6 @@ related:
         width: 1024
         height: 642
         isCached: true
-  - title: "SEE IT: Unruly airplane passenger growls, screams ‘Joe Biden’ before arrest"
-    excerpt: "An American Airlines passenger was arrested on a flight, growling at flight attendants and screaming “Joe Biden” during a bizarre rant that was partially recorded on video. Timothy Armstrong, 61, of Las Vegas,"
-    publishedDateTime: 2021-09-07T22:27:00Z
-    webUrl: "https://www.nydailynews.com/news/national/ny-20210907-xbgy2aotfvgexm4yems5ixtxq4-story.html"
-    ampWebUrl: "https://www.nydailynews.com/news/national/ny-20210907-xbgy2aotfvgexm4yems5ixtxq4-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/news/national/ny-20210907-xbgy2aotfvgexm4yems5ixtxq4-story.html?outputType=amp"
-    type: article
-    provider:
-      name: New York Daily News
-      domain: nydailynews.com
-    quality: 73
-    images:
-      - url: "https://www.nydailynews.com/resizer/LVAH_Gk05_JlyBYw8jZL4HmshlE=/1200x0/right/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/O7EJWFOIZBCUBMVWPWUPN72KSQ.png"
-        width: 1200
-        height: 1188
-        isCached: true
   - title: "Biden surveys storm damage after deadly flooding from remnants of Hurricane Ida"
     excerpt: "Every part of the country is getting hit by extreme weather,” President Joe Biden said at the Somerset County emergency management center Tuesday."
     publishedDateTime: 2021-09-07T17:43:00Z
@@ -498,6 +484,20 @@ related:
       - url: "https://localnews8.b-cdn.net/2021/06/Politics-logo-new_KIFIMIFI.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "What the end of Joe Biden’s eviction moratorium will look like in Maine"
+    excerpt: "The end of the moratorium comes as the pandemic situation in Maine grows more grim and could test a new state law for renters."
+    publishedDateTime: 2021-08-27T13:22:00Z
+    webUrl: "https://bangordailynews.com/2021/08/27/politics/daily-brief/what-the-end-of-joe-bidens-eviction-moratorium-will-look-like-in-maine/"
+    type: article
+    provider:
+      name: Bangor Daily News
+      domain: bangordailynews.com
+    quality: 55
+    images:
+      - url: "https://bdn-data.s3.amazonaws.com/uploads/2021/08/LewistonAuburnHousing-090419-2.jpg"
+        width: 1024
+        height: 681
         isCached: true
   - title: "Ashley Moody demands border control assurance from Joe Biden"
     excerpt: "Attorney General Ashley Moody was among 20 Republican AGs signing on to a letter demanding federal assurances of tighter immigration policy. The letter to U.S. Attorney General Merrick Garland followed a favorable ruling in the U."
@@ -734,6 +734,6 @@ related:
       domain: lasvegassun.com
     quality: 35
 
-secured: "LE1bEfbHbJNKe9uiyenLXYfMALRADpfRntxrl+7aWd6tkpyZ3PrIzlSYWJ6SO1TQiDPS1zi95+lfNs1FCD3SUdeWdKQcvJ24KlQFEtjh7tZ/fBzneFERkx+GSz0VigFkLQQ+0c7leymMi3Z+aZW0t4mfJncsJ7g2JOzdzLDxalhjKZDl2k4mqzDAkQpYdB/FagdGFpMJe8H2qFo9drs/oKJdk7jVoRJ1c9r57RFuWPH+m/fifoinU3/VYyrEzA9o5vfoqJKLJIpdLPunZ9R8GPKn843Bb1CHgfLZVbtsWaYsQTLnv1ln5TNOdvhplIPKTIQKjmSO7KQy/iGfRV0M7+/PTpiTKh06Ege3xIU0Efzw0R0yPxiIXXLUQ5r9QkKbwQuT1wezxQk7grtH5xL0l1EU1WEXDHTYL9PvyR96XvpsbN0GNVaG4IbR5CRh5TNed1v7mJypUiL9vs4IsFlC5Scm8YZwCxdBo4bz4tkM07ohyoEYueSnylX7F5L3vEMuuyBCYgnTqzEqIBvLwOLQJw==;RUnWt7aViOYe/HowU0DTtQ=="
+secured: "GdAhlLNlDd/t6sP4084T4ud/neTy/hl32nolrnfJlKdx2YndurIDL03u08eLiE9o+VYKPUS/Nr6+hrg9tNVZxytD+7zqRtsJuoOEY9VlufEabvMPZhfEscFuzwimCPdLKyBSSpLiGnmLgdEH+K1+ObOBOg3Nf/UxwG6NqcyEDUiM2ySqL3o2/SH2ax2VlGxOvL1a01cXByoDJpUyuRmoJwoYTERviisxIXZ/hYHxIbGfme+p4GTwyiFkuHAReGWloiu4jEicV0dC4fo5mxEEPUdKoiWUX6nITR7o42aEotQdAQ+tOus7r2qleyaRyH5bwQue6mSB+8GC+iCaYdHh+ohLOIy4QC1BtVYd/AOz3MQ=;msGtg8m1+jZklgGqY6rAzg=="
 ---
 

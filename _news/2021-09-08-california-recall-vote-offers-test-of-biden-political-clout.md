@@ -1,22 +1,18 @@
 ---
 category: news
-title: "Biden administration to increase pay for airport screeners"
-excerpt: "The Biden administration says it is moving to increase the pay and union rights for security screeners at the nation’s airports"
-publishedDateTime: 2021-06-03T22:22:00Z
-originalUrl: "https://abcnews.go.com/Business/wireStory/biden-administration-increase-pay-airport-screeners-78073415"
-webUrl: "https://abcnews.go.com/Business/wireStory/biden-administration-increase-pay-airport-screeners-78073415"
+title: "California recall vote offers test of Biden political clout"
+excerpt: "President Joe Biden has been beset by public health, military and climate crises in the past month. Not much time has been left for a potential political disaster brewing for his party in California."
+publishedDateTime: 2021-09-08T07:08:00Z
+originalUrl: "https://lasvegassun.com/news/2021/sep/08/california-recall-vote-offers-test-of-biden-politi/"
+webUrl: "https://lasvegassun.com/news/2021/sep/08/california-recall-vote-offers-test-of-biden-politi/"
 type: article
-quality: 85
+quality: 35
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Las Vegas Sun
+  domain: lasvegassun.com
 
 topics:
   - Election
@@ -55,6 +51,15 @@ related:
         width: 834
         height: 308
         isCached: true
+  - title: "Biden administration to increase pay for airport screeners"
+    excerpt: "The Biden administration says it is moving to increase the pay and union rights for security screeners at the nation’s airports"
+    publishedDateTime: 2021-06-03T22:22:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/biden-administration-increase-pay-airport-screeners-78073415"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 85
   - title: "Slain California Marine’s mother slams President Joe Biden on social media"
     excerpt: "The mother of a Norco Marine killed in Afghanistan has blasted President Joe Biden on social media, saying the president rolled his eyes when meeting with families of slain service members and that her son’s blood is on his hands."
     publishedDateTime: 2021-09-02T10:48:00Z
@@ -71,16 +76,7 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "California recall vote offers test of Biden political clout"
-    excerpt: "President Joe Biden has been beset by public health, military and climate crises in the past month. Not much time has been left for a potential political disaster brewing for his party in California."
-    publishedDateTime: 2021-09-08T07:08:00Z
-    webUrl: "https://lasvegassun.com/news/2021/sep/08/california-recall-vote-offers-test-of-biden-politi/"
-    type: article
-    provider:
-      name: Las Vegas Sun
-      domain: lasvegassun.com
-    quality: 35
 
-secured: "Xw6jl6E4p/SKI96ynIxw/8tgTPp4RpS4zpHPk+YisteTqhAguxh1XvAMMj3vcpMuBX5NHAeIVsyYKwjzsWGYJMWQHvPJqLV9yVc+Jg3jkF8roB9/q/YKk56aEzYdMOJw9Le9TwXdhDt3qS8lgqaW57uwq8gjthbh00coCWorMk6axqdZzjbeB6cxJN7R0SUjUW9mTlhlhgtl695d8wx0Y6E1ho+eErrmS9KNQP4AdQiD5xJAcfJ1fsqEVnKzBnNYQ6OGmP/ky12Py3t5fx4vJLhBl0OwC5DXtN3x00NHEO31Y1xtxn/CfM+ES/HEetxoNApZawaczACAWHsKc1qM7hMotIYB2PNZo3VZC/f/krE=;3MT/S/NubyeylbE5exIxzw=="
+secured: "7z7x9EFd87cg1jy8UT9MoIUOsaAJAq3z5ikRX01VcVRZyhWMGNFbcgY4Ff4Ru2kqB8MXG0S/y7BCFLGTr+MI10WvqJ5goHwNLQLgqjugbzskc7Eiy9U6Z7jRGcsOEGv6uOIxMuGkxBNG5zd8pjUaDgesVqHlG+diAdMXbbCdamn2RF7ZvkwGRBe8NVPIXF3MZOZ7HYWfUezXBZ5FKzycCTdSWV7c7v8gsZfcmaWQ51xV7yNFQrCaRfNFOVPc1qXGHvvzgcZLeu5AicPOCsngwCCznPg1aSYHpPtfWqVjlMhVK6+1b0lAlA3ugZB1Ck6Abf2GoAG6w/g8/2zhXXmhtv1yw3I2XMBpJ55LDgbG/6iPDYYG+jFmPPD8qSYnp1WWxc2j6bjxFj9Hf5fQPtcypuL3n+0ADxRa7QHIG66UJ7BRkKXLNSDbEFrbR6JV2u+W37r6yPxBo+1+mDHTJ0mdY79BKICPSGCFchW5CckgLuMz4xxueId9p8BtKnhB75wrUy0fBSEFN+3NFRVuSNOXxA==;2jh9EQsqbEUIHl+ngl+zjg=="
 ---
 

@@ -60,6 +60,20 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Trump teases 2024 announcement, but is he just playing the media?"
+    excerpt: "It may be the big move or it may be a head fake, but Donald Trump wants you to believe he’s about to start running for president."
+    publishedDateTime: 2021-09-08T06:48:00Z
+    webUrl: "https://www.foxnews.com/media/trump-teases-2024-announcement-just-playing-media"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 115
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/08/Trump-Biden-split-2.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump Hits Biden On Afghanistan: \"We Must Have Hostages Released And Our Military Equipment Returned Now\""
     excerpt: "Former President Trump's \"Save America\" Joint Fundraising Committee is not technically a political action committee and not technically an election campaign, but they released this ad slamming President Biden's performance on Afghanistan."
     publishedDateTime: 2021-09-02T14:19:00Z

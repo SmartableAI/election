@@ -41,6 +41,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Biden tells storm-ravaged Louisiana: 'I know you're hurting'"
+    excerpt: "Less than a week after Hurricane Ida battered the Gulf Coast, President Joe Biden walked the streets of a hardhit Louisiana neighborhood and told local residents, “I know you're hurting, I know you're hurting."
+    publishedDateTime: 2021-09-08T07:17:00Z
+    webUrl: "https://www.mysanantonio.com/news/article/Biden-tells-storm-ravaged-Louisiana-I-know-16435210.php"
+    ampWebUrl: "https://www.mysanantonio.com/news/amp/Biden-tells-storm-ravaged-Louisiana-I-know-16435210.php"
+    cdnAmpWebUrl: "https://www-mysanantonio-com.cdn.ampproject.org/c/s/www.mysanantonio.com/news/amp/Biden-tells-storm-ravaged-Louisiana-I-know-16435210.php"
+    type: article
+    provider:
+      name: My San Antonio
+      domain: mysanantonio.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Watch live: President Joe Biden to address storm devastated region from LaPlace"
     excerpt: "President Joe Biden arrived in the storm devastated region on Friday to see the damage caused by Hurricane Ida first hand. He is scheduled to make remarks this afternoon from LaPlace. Watch Biden's remarks live in the player below. Can't see the video?"
     publishedDateTime: 2021-09-03T19:53:00Z

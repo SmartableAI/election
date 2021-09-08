@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Sports/donald-trump-son-provide-commentar
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Sports/donald-trump-son-provide-commentary-evander-holyfield-vitor/story?id=79884415"
 type: article
 quality: 114
-heat: 114
+heat: 154
 published: true
 
 provider:
@@ -29,6 +29,38 @@ images:
     width: 834
     height: 308
     isCached: true
+
+related:
+  - title: "Donald Trump and his son set to do boxing commentary for the Evander Holyfield vs Vitor Belfort fight on Saturday"
+    excerpt: "The Trumps have signed a contract to do a live \"gamecast\" of a total of four boxing matches at a Saturday event organized by Triller."
+    publishedDateTime: 2021-09-08T02:39:00Z
+    webUrl: "https://www.businessinsider.com/donald-trump-and-son-to-do-boxing-commentary-for-holyfield-belfort-fight-2021-9"
+    ampWebUrl: "https://www.businessinsider.com/donald-trump-and-son-to-do-boxing-commentary-for-holyfield-belfort-fight-2021-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/donald-trump-and-son-to-do-boxing-commentary-for-holyfield-belfort-fight-2021-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 104
+    images:
+      - url: "https://i.insider.com/613820872534ab0018533db4?width=1200&format=jpeg"
+        width: 799
+        height: 399
+        isCached: true
+  - title: "Donald Trump to call Evander Holyfield fight with Vitor Belfort"
+    excerpt: "When former heavyweight champion Evander Holyfield enters the ring to fight Vitor Belfort this weekend, the tag team of Donald Trump and Donald Trump Jr. will be sitting ringside. ESPN fight reporter Mike Coppinger said Tuesday that event organizers told him the ink is dry on a deal that will have the two Trumps weighing in when Holyfield,"
+    publishedDateTime: 2021-09-08T01:18:00Z
+    webUrl: "https://www.bozemandailychronicle.com/ap_news/sports/donald-trump-to-call-evander-holyfield-fight-with-vitor-belfort/article_f6b29c61-cac1-5022-afcd-0b5802bc9291.html"
+    type: article
+    provider:
+      name: Bozeman Daily Chronicle
+      domain: bozemandailychronicle.com
+    quality: 55
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/custom/image/2ffee154-edef-11e4-a572-ab4a61dde6eb.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "47Ek+NE7UCHQpQNrqb5ERwJaLn+1ngBNk4o+AoPEfbJGCoyVRs7SxlPeiWoTRygJgwRX4WMDfijndmZZD8DIaL5vexGOSU/LvIKoHEgrRhnfOLTKV0i9BPmToczgL2lG0JJ2STLOctqiOPP+2HTdi12ZA5IP6I/yhldOH8O6vpCSkKKSlw0IduoY1mODiPvzNAW6xegtPCvVmupwzgjsxnbqF4Ki6dP1O9/D7zS2exmXBTDwwUZqfMMwFivH8PFJjLfDSg29HIJBzhxmK9pJYUweUanScrbPaFtI4UtpC9Cn8S/6VJ6sDFiIJPmZvUN2CtmwFj2VplFtIEWGaYW1Ockz+N4EmF9S3I5SYA6d3v4=;BOduN4QM25YOfRtFVuD9SQ=="
 ---
