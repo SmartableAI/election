@@ -45,6 +45,22 @@ related:
         width: 1024
         height: 738
         isCached: true
+  - title: "Vice President Kamala Harris rallies with Gov. Gavin Newsom ahead of Tuesday's recall election"
+    excerpt: "Vice President Kamala Harris rallied for California Gov. Gavin Newsom in the Bay Area on Wednesday ahead of Tuesday's recall election."
+    publishedDateTime: 2021-09-08T22:30:00Z
+    webUrl: "https://abcnews.go.com/Politics/vice-president-kamala-harris-rallies-gov-gavin-newsom/story?id=79894187"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/vice-president-kamala-harris-rallies-gov-gavin-newsom/story?id=79894187"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/vice-president-kamala-harris-rallies-gov-gavin-newsom/story?id=79894187"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 128
+    images:
+      - url: "https://s.abcnews.com/images/Politics/kamala-harris-gavin-newsom-02-rtr-jc-210908_1631131658537_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Rally Held Outside Kamala Harris' Home Demands She Fight for Immigrants"
     excerpt: "A coalition of immigrants' rights groups gathered in front of Vice President Kamala Harris' residence in Washington, D.C., Wednesday to argue that she is uniquely suited to advocate for immigrants due to her powerful role and portfolio in the Biden ..."
     publishedDateTime: 2021-04-07T16:45:00Z
@@ -201,6 +217,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Kamala Harris backs Newsom in California recall vote"
+    excerpt: "Harris and Obama are the latest high-profile Democrats to join Newsom's all-out push against Larry Elder and lesser-known candidates as the recall vote nears."
+    publishedDateTime: 2021-09-09T00:49:00Z
+    webUrl: "https://www.latimes.com/california/cjhuddgqenk-123"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 105
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/8383add/2147483647/strip/true/crop/6000x3150+0+425/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fde%2F46%2F264c30a7432396c202dad269353a%2Fla-photos-1staff-836849-na-pol-0908-vp-oakland-newsom-recall-kkn-20366.JPG"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Kamala Harris visited beloved Brown Sugar Bakery on Chicago’s South Side on Tuesday. She couldn’t have chosen better."
     excerpt: "On her way out of town Tuesday following a pit stop in Chicago between California and Washington, D.C., Vice President Kamala Harris grabbed dessert from Brown Sugar Bakery and Confections in the Chatham neighborhood. It was a pretty sweet call on her part."
     publishedDateTime: 2021-04-07T03:00:00Z
@@ -216,6 +246,20 @@ related:
       - url: "https://www.chicagotribune.com/resizer/BsFyYsiiXaJdUpR9E7BGyoFiKsg=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/2JNAWLAZUVGVXDCBJCXY5VUQNU.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Kamala Harris stumps with Gavin Newsom ahead of the recall vote: ‘Everyone has to vote’"
+    excerpt: "And it was evident Wednesday, with a political rally-cum-afternoon party that warmed up with funk and ended with native daughter and  Harris (D) calling the California governor a \"great American leader."
+    publishedDateTime: 2021-09-08T23:24:00Z
+    webUrl: "https://www.washingtonpost.com/national/gavin-newsom-kamala-harris-recall/2021/09/08/aafeaab8-10db-11ec-a6b2-2a064c4e375a_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 97
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SJ2QPBQQ6MI6ZCBPFXIVUBT5YQ.jpg&w=1440"
+        width: 1440
+        height: 966
         isCached: true
   - title: "Essential Politics: Kamala Harris is taking on the migrant problem, but staying away from the border"
     excerpt: "The vice president has her first solo assignment, but she's struggling to clarify exactly what she's responsible for."
@@ -260,6 +304,22 @@ related:
       - url: "https://i.insider.com/60707da14943790018bb1a41?width=700"
         width: 700
         height: 525
+        isCached: true
+  - title: "Recall election: Vice President Kamala Harris campaigns for Newsom in East Bay"
+    excerpt: "The vice president made a stop Wednesday in the Bay Area in a bid to mobilize Democrats to vote against the recall."
+    publishedDateTime: 2021-09-08T18:41:00Z
+    webUrl: "https://www.mercurynews.com/2021/09/08/recall-election-vice-president-kamala-harris-campaigns-for-newsom-in-east-bay/"
+    ampWebUrl: "https://www.mercurynews.com/2021/09/08/recall-election-vice-president-kamala-harris-campaigns-for-newsom-in-east-bay/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/09/08/recall-election-vice-president-kamala-harris-campaigns-for-newsom-in-east-bay/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 86
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2019/12/sjm-Governors-Race_6868944.jpg?w=1024&#038;h=715"
+        width: 1024
+        height: 715
         isCached: true
   - title: "Kamala Harris brings political clout to California to help Newsom in recall election"
     excerpt: "Vice President Kamala Harris is lending California Gov. Gavin Newsom her support in the recall election, previewing a role she could play for Democrats in the 2022 midterms."
@@ -581,6 +641,22 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Vice President Kamala Harris returns to Bay Area to back Newsom"
+    excerpt: "Vice President Kamala Harris is coming home to the Bay Area on Wednesday to rally behind Governor Gavin Newsom. He’s facing a recall election, with the"
+    publishedDateTime: 2021-09-08T13:52:00Z
+    webUrl: "https://www.kron4.com/news/bay-area/vice-president-kamala-harris-returns-to-bay-area-to-back-newsom/"
+    ampWebUrl: "https://www.kron4.com/news/bay-area/vice-president-kamala-harris-returns-to-bay-area-to-back-newsom/amp/"
+    cdnAmpWebUrl: "https://www-kron4-com.cdn.ampproject.org/c/s/www.kron4.com/news/bay-area/vice-president-kamala-harris-returns-to-bay-area-to-back-newsom/amp/"
+    type: article
+    provider:
+      name: KRON4
+      domain: kron4.com
+    quality: 75
+    images:
+      - url: "https://www.kron4.com/wp-content/uploads/sites/11/2021/09/snapshot-10.jpg?w=1280"
+        width: 1118
+        height: 629
+        isCached: true
   - title: "Kamala Harris comes to Oakland to promote $2 trillion infrastructure plan"
     excerpt: "Kamala Harris returned to Oakland for the first time as vice president Monday to tout the Biden administration’s $2 trillion infrastructure plan. She was greeted on the tarmac at Oakland International Airport by California Democratic Sen. Alex Padilla ..."
     publishedDateTime: 2021-04-05T19:41:00Z
@@ -787,6 +863,22 @@ related:
         width: 1080
         height: 720
         isCached: true
+  - title: "Kamala Harris at Newsom rally links California recall to new Republican abortion, voting laws"
+    excerpt: "Republicans “think if they can win in California they can do this anywhere,” Vice President Kamala Harris said."
+    publishedDateTime: 2021-09-08T20:16:00Z
+    webUrl: "https://www.sacbee.com/news/politics-government/capitol-alert/article254085153.html"
+    ampWebUrl: "https://amp.sacbee.com/news/politics-government/capitol-alert/article254085153.html"
+    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/politics-government/capitol-alert/article254085153.html"
+    type: article
+    provider:
+      name: Sacramento Bee
+      domain: sacbee.com
+    quality: 64
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557042001/368fb919-2053-4d86-8959-6be749f3f38b/eab9c7f8-dc6f-43a4-9343-ff16c1251bb0/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "VP Kamala Harris urges Chicagoans to get vaccinated and stay safe: ‘In that way we will build back up’"
     excerpt: "Gov. J.B. Pritzker and Mayor Lori Lightfoot greeted Harris when she landed about 1 p.m. at Midway Airport. The nation’s first ever woman and person of color to serve as vice president was in town to tout President Joe Biden’s vaccine effort on the day he directed states to open vaccine eligibility to all adults by April 19."
     publishedDateTime: 2021-04-06T21:49:00Z
@@ -972,6 +1064,20 @@ related:
       - url: "https://s1.econotimes.com/assets/uploads/20210908f070a964bb7da647b_th_1024x0.jpg"
         width: 800
         height: 533
+        isCached: true
+  - title: "VP Kamala Harris and California Gov. Gavin Nerwsom Hold Vote No on Recall Rall76"
+    excerpt: "Vice President Kamala Harris speaks at a 'vote no on recall' rally for California Governor Gavin Newsom at the IBEW-NECA Joint Apprenticeship Training Center in San Leandro, California on Wednesday, September 8,"
+    publishedDateTime: 2021-09-08T22:22:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/f9273f3df972c056597095a59bf5d69b/VP-Kamala-Harris-and-California-Gov-Gavin-Nerwsom-Hold-Vote-No-on-Recall-Rall76/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 50
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/f9273f3df972c056597095a59bf5d69b/HARRIS-NEWSOM.jpg"
+        width: 650
+        height: 432
         isCached: true
   - title: "For her first major task as VP, Kamala Harris is handed a thorny diplomatic mission"
     excerpt: "“And you’re smiling.” Kamala Harris’s first major mission as vice president is not one a lot of politicians would be happy to receive. She’s been deputized to own arguably the most politically thorny issue the administration has on its ..."

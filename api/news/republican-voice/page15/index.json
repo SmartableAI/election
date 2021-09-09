@@ -2,6 +2,222 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2021-06-02-well-paid-aoc-dinged-after-posting-photo-of-grandmas-dilapidated-puerto-rico-home-and-blaming-trump.md",
+      "title": "Well-paid AOC dinged after posting photo of grandma's dilapidated Puerto Rico home and blaming Trump",
+      "excerpt": "Rep. Alexandria Ocasio-Cortez posted a photo of her grandmother’s Puerto Rico home in a state of disrepair in the aftermath of Hurricane Maria to demonstrate how the U.S. had blocked relief to the territory, but some questioned why she hadn’t offered to help repair the home herself.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/HZ4EpfCUyEo/aoc-photo-grandmothers-home-puerto-rico-trump-blocked-relief",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/HZ4EpfCUyEo/aoc-photo-grandmothers-home-puerto-rico-trump-blocked-relief",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/720/405/aoc.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/aoc-photo-grandmothers-home-puerto-rico-trump-blocked-relief.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aoc-photo-grandmothers-home-puerto-rico-trump-blocked-relief.amp",
+      "publishedDateTime": "2021-06-02T15:40:17-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-02-biden-to-talk-again-with-capito-on-friday-to-try-to-forge-infrastructure-deal.md",
+      "title": "Biden to talk again with Capito on Friday to try to forge 'infrastructure' deal",
+      "excerpt": "President Biden and Sen. Shelley Moore Capito, R-W.Va., had a \"constructive\" meeting Wednesday at the White House in their effort to forge a bipartisan deal on infrastructure spending and intend to talk again Friday, according to the Biden Administration.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2JTaKEdBdKs/biden-to-meet-again-with-capito-on-friday-to-try-to-forge-infrastructure-deal",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2JTaKEdBdKs/biden-to-meet-again-with-capito-on-friday-to-try-to-forge-infrastructure-deal",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 211,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/340/340/Marisa-Schultz.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-to-meet-again-with-capito-on-friday-to-try-to-forge-infrastructure-deal.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-to-meet-again-with-capito-on-friday-to-try-to-forge-infrastructure-deal.amp",
+      "publishedDateTime": "2021-06-02T15:25:49-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-02-mueller-to-help-teach-trump-russia-probe-class-at-uva-law-school.md",
+      "title": "Mueller to help teach Trump Russia probe class at UVA law school",
+      "excerpt": "Former Justice Department special counsel Robert Mueller will “share lessons” from his investigation into Russian interference in the 2016 election and alleged ties to the Trump campaign during an upcoming course at the University of Virginia, the school announced Wednesday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/jpM6PGcCd-U/mueller-teach-trump-russia-probe-class-uva-law-school",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/jpM6PGcCd-U/mueller-teach-trump-russia-probe-class-uva-law-school",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 235,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2c6ca071-d18f-4c33-a6cf-b378aa7ae25e/f77d9b3d-75cc-48bd-87b1-80edc87ee04e/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/mueller-teach-trump-russia-probe-class-uva-law-school.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mueller-teach-trump-russia-probe-class-uva-law-school.amp",
+      "publishedDateTime": "2021-06-02T13:53:07-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-02-ex-trump-adviser-michael-flynn-endorses-fernando-mateo-for-mayor.md",
+      "title": "Ex-Trump adviser Michael Flynn endorses Fernando Mateo for mayor",
+      "excerpt": "Former Trump national security advisor Michael Flynn is endorsing Fernando Mateo in the Republican primary for mayor.",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/06/02/ex-trump-advisor-michael-flynn-endorses-fernando-mateo-for-mayor/",
+      "originalUrl": "https://nypost.com/2021/06/02/ex-trump-advisor-michael-flynn-endorses-fernando-mateo-for-mayor/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/06/Mateo.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/06/02/ex-trump-advisor-michael-flynn-endorses-fernando-mateo-for-mayor/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/02/ex-trump-advisor-michael-flynn-endorses-fernando-mateo-for-mayor/amp/",
+      "publishedDateTime": "2021-06-02T09:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-02-barack-obama-interview-joe-biden-is-finishing-the-job.md",
       "title": "Barack Obama Interview: Joe Biden Is 'Finishing the Job'",
       "excerpt": "Barack Obama tells Ezra Klein how American went from \"Yes We Can\" to \"MAGA.\" The former president also discuss Joe Biden, aliens, and three of his favorite books.",
@@ -1397,231 +1613,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/bidens-pick-for-top-spy-lawyer-refuses-to-rule-out-working-for-china-in-future.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-pick-for-top-spy-lawyer-refuses-to-rule-out-working-for-china-in-future.amp",
       "publishedDateTime": "2021-05-27T14:30:07-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-27-lara-trump-slams-biden-harris-if-the-border-is-closed-then-im-a-sparkly-unicorn.md",
-      "title": "Lara Trump slams Biden, Harris: If the border is closed, then ‘I’m a sparkly unicorn’",
-      "excerpt": "Fox News contributor Lara Trump said on Thursday mocked the Department of Homeland Security for claiming the southern border was closed.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/NE82bCJ0myY/lara-trump-border-closed-sparkly-unicorn-biden-mayorkas",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/NE82bCJ0myY/lara-trump-border-closed-sparkly-unicorn-biden-mayorkas",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 588,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/lara-trump-border-closed-sparkly-unicorn-biden-mayorkas.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lara-trump-border-closed-sparkly-unicorn-biden-mayorkas.amp",
-      "publishedDateTime": "2021-05-27T08:14:28-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-05-27-gop-governors-on-hannity-biden-making-them-pay-the-price-for-being-fiscally-responsible.md",
-      "title": "GOP governors on 'Hannity': Biden making them 'pay the price' for being fiscally responsible",
-      "excerpt": "Members of the Republican Governors Association joined “Hannity” on Wednesday for a town hall event.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/f8NeWSZtA6M/gop-governors-biden-making-pay-the-price-being-fiscally-responsible",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/f8NeWSZtA6M/gop-governors-biden-making-pay-the-price-being-fiscally-responsible",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c16c75bf-6b82-41de-988f-ad0d93240512/1108879e-c4e2-425e-b1a4-215178cd8c85/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/gop-governors-biden-making-pay-the-price-being-fiscally-responsible.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-governors-biden-making-pay-the-price-being-fiscally-responsible.amp",
-      "publishedDateTime": "2021-05-27T03:57:45-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-27-biden-paid-cost-of-admission-for-putin-summit-by-waiving-nord-stream-pipeline-sanctions-rep-mccaul.md",
-      "title": "Biden paid 'cost of admission' for Putin summit by waiving Nord Stream pipeline sanctions: Rep. McCaul",
-      "excerpt": "Rep. Michael McCaul, R-Texas, stepped up his criticism of President Biden’s decision to lift sanctions on the Nord Stream 2 pipeline on Wednesday, arguing the move was the “cost of admission” for the White House’s upcoming meeting with Russian President Vladmir Putin.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/aw1DdKDu1T8/biden-putin-summit-nord-stream-pipeline-sanctions-rep-mccaul",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/aw1DdKDu1T8/biden-putin-summit-nord-stream-pipeline-sanctions-rep-mccaul",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 179,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1b110f4f-f2ca-4053-bd9b-c38d128cb2f2/9d45c54d-6a5d-470a-af4a-81d4d5e8c31f/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-putin-summit-nord-stream-pipeline-sanctions-rep-mccaul.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-putin-summit-nord-stream-pipeline-sanctions-rep-mccaul.amp",
-      "publishedDateTime": "2021-05-26T19:10:01-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-27-san-jose-shooting-prompts-biden-newsom-to-renew-call-for-gun-control-measures.md",
-      "title": "San Jose shooting prompts Biden, Newsom to renew call for gun control measures",
-      "excerpt": "President Biden, California Gov. Gavin Newsom and other prominent Democrats renewed calls for tighter gun laws on Wednesday after a deadly mass shooting at a California rail yard.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1oEqrNEUU30/san-jose-shooting-biden-newsom-gun-control",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1oEqrNEUU30/san-jose-shooting-biden-newsom-gun-control",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 211,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/75fd10f9-5ed7-4a0a-a339-cec24197305e/c2c66037-e392-4e1e-b849-923bdaf2f091/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/san-jose-shooting-biden-newsom-gun-control.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/san-jose-shooting-biden-newsom-gun-control.amp",
-      "publishedDateTime": "2021-05-26T18:01:48-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

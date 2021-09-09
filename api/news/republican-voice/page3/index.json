@@ -2,6 +2,224 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-08-24-biden-to-be-briefed-on-intelligence-community-covid-origin-review-as-early-as-tuesday.md",
+      "title": "Biden to be briefed on intelligence community COVID origin review as early as Tuesday",
+      "excerpt": "President Biden is expected to receive a briefing on the origin of COVID-19 from the intelligence community as early as Tuesday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/w8cHGmkP3wo/biden-intelligence-community-covid-origin-briefing",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/w8cHGmkP3wo/biden-intelligence-community-covid-origin-briefing",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 168,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/22536f17-09ba-4d70-ae31-7ee07e4a136e/f73683b7-0a76-4287-b5b0-389dbed633dd/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-intelligence-community-covid-origin-briefing.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-intelligence-community-covid-origin-briefing.amp",
+      "publishedDateTime": "2021-08-24T07:31:44-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-08-24-trump-calls-on-florida-judge-to-help-reinstate-his-youtube-account.md",
+      "title": "Trump calls on Florida judge to help reinstate his Youtube account",
+      "excerpt": "Former President Donald Trump on Monday asked a Florida judge to issue a preliminary injunction in his case against YouTube that would compel the company to reinstate his access to the platform.",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/08/24/trump-calls-on-judge-to-help-reinstate-his-youtube-account/",
+      "originalUrl": "https://nypost.com/2021/08/24/trump-calls-on-judge-to-help-reinstate-his-youtube-account/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/08/trump-youtube.jpg?quality=90&strip=all&w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/08/24/trump-calls-on-judge-to-help-reinstate-his-youtube-account/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/24/trump-calls-on-judge-to-help-reinstate-his-youtube-account/amp/",
+      "publishedDateTime": "2021-08-24T04:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-08-24-harris-rebukes-china-in-major-speech-on-indo-pacific.md",
+      "title": "Harris rebukes China in major speech on Indo-Pacific",
+      "excerpt": "U.S. Vice President Kamala Harris delivered a sharp rebuke to China for its incursions in the South China Sea, warning its actions there amount to “coercion” and “intimidation” and affirming that the U.S. will support its allies in the region against Beijing’s advances.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8KsckFBINlk/harris-rebukes-china-major-speech-indo-pacific",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8KsckFBINlk/harris-rebukes-china-major-speech-indo-pacific",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 505,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/08/720/405/AP21235405692376.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/harris-rebukes-china-major-speech-indo-pacific.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-rebukes-china-major-speech-indo-pacific.amp",
+      "publishedDateTime": "2021-08-24T01:04:22-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-08-24-byron-yorks-daily-memo-a-national-eye-opening-on-joe-biden.md",
+      "title": "Byron York's Daily Memo: A national eye-opening on Joe Biden",
+      "excerpt": "Welcome to Byron York's Daily Memo newsletter. Was this email forwarded to you? Sign up here to receive the newsletter. A NATIONAL EYE-OPENING ON JOE BIDEN. Just one month ago, President Biden's job approval rating,",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonexaminer.com/opinion/byron-yorks-daily-memo-a-national-eye-opening-on-joe-biden",
+      "originalUrl": "https://www.washingtonexaminer.com/opinion/byron-yorks-daily-memo-a-national-eye-opening-on-joe-biden",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mediadc.brightspotcdn.com/dims4/default/24831ae/2147483647/strip/true/crop/1060x600+0+0/resize/1060x600!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2F1b%2Fdd%2F5520d8a2407eb68282a5cf5f8e59%2Fdaily-memo-default-1060x600.png",
+          "width": 1060,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonexaminer.com/opinion/byron-yorks-daily-memo-a-national-eye-opening-on-joe-biden?_amp=true",
+      "cdnAmpWebUrl": "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/opinion/byron-yorks-daily-memo-a-national-eye-opening-on-joe-biden?_amp=true",
+      "publishedDateTime": "2021-08-23T10:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Examiner",
+        "domain": "washingtonexaminer.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonexaminer.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-08-24-thiessen-biden-handed-terrorists-a-safe-haven-to-plan-attacks-worse-than-911.md",
       "title": "Thiessen: Biden handed terrorists a 'safe haven' to plan attacks worse than 9/11",
       "excerpt": "Fox News contributor Marc Thiessen told “America's Newsroom” that Biden has given radical Islamic terrorists, including Al-Qaeda, the tools they need to conduct attacks potentially deadlier than 9/11.",
@@ -402,7 +620,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 278,
+      "heat": 298,
       "tags": null,
       "images": [
         {
@@ -1440,230 +1658,6 @@
       "topics": [
         "Election",
         "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-13-biden-backs-newsom-as-california-recall-election-looms-urges-residents-to-vote-no.md",
-      "title": "Biden backs Newsom as California recall election looms, urges residents to 'vote no'",
-      "excerpt": "President Joe Biden delivered his strongest endorsement to date for embattled Democratic Gov. Gavin Newsom on Thursday, urging Californians to reject an effort to recall the governor in an upcoming special election.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zNBK8tUn23w/biden-backs-newsom-california-recall-election",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zNBK8tUn23w/biden-backs-newsom-california-recall-election",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 283,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0f18efe6-404a-4e2c-b361-15a6d9a9bc12/671f0271-fb6b-47cd-b5e6-d2efaf051978/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-backs-newsom-california-recall-election.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-backs-newsom-california-recall-election.amp",
-      "publishedDateTime": "2021-08-12T18:49:48-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-13-biden-adviser-anita-dunn-leaves-the-white-house.md",
-      "title": "Biden adviser Anita Dunn leaves the White House",
-      "excerpt": "Top Biden adviser Anita Dunn is leaving her position at the White House",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/RZdpDdqjgVU/biden-adviser-anita-dunn-leaves-white-house",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/RZdpDdqjgVU/biden-adviser-anita-dunn-leaves-white-house",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 275,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3bd93983-0d45-4518-a3ae-8fdf28291a81/f1d5bc39-6a20-418b-8eab-9e12b6cdc361/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-adviser-anita-dunn-leaves-white-house.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-adviser-anita-dunn-leaves-white-house.amp",
-      "publishedDateTime": "2021-08-12T18:03:09-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-12-biden-said-in-july-taliban-overrunning-everything-was-highly-unlikely.md",
-      "title": "Biden said in July Taliban 'overrunning everything' was 'highly unlikely'",
-      "excerpt": "The Washington Post’s resident fact-checker dinged President Joe Biden on Thursday for claiming that it is “highly unlikely” the Taliban regains control of Afghanistan.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2BRsqAUCqhs/wapo-fact-checker-calls-out-biden-on-for-july-comment-saying-taliban-takeover-in-afghanistan-highly-unlikely",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2BRsqAUCqhs/wapo-fact-checker-calls-out-biden-on-for-july-comment-saying-taliban-takeover-in-afghanistan-highly-unlikely",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 174,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/554dc1ff-8f47-4c8c-b30c-e8f4e2e73a49/369a7538-7180-415c-848f-7ed1c3aa223b/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/wapo-fact-checker-calls-out-biden-on-for-july-comment-saying-taliban-takeover-in-afghanistan-highly-unlikely.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/wapo-fact-checker-calls-out-biden-on-for-july-comment-saying-taliban-takeover-in-afghanistan-highly-unlikely.amp",
-      "publishedDateTime": "2021-08-12T16:10:10-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-12-biden-epa-nominee-touted-defund-the-police-on-chinese-state-tv.md",
-      "title": "Biden EPA nominee touted ‘defund the police’ on Chinese state TV",
-      "excerpt": "President Biden’s controversial nominee for a leadership position at the EPA touted the “defund the police” movement during an appearance on Chinese state television last year.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/YoXnpKby1wM/biden-epa-nominee-touted-defund-the-police-on-chinese-state-tv",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/YoXnpKby1wM/biden-epa-nominee-touted-defund-the-police-on-chinese-state-tv",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b3ac8cfd-6cc0-4eab-8ee3-3a37e79ac5ab/2c2cc00c-5c03-457f-9374-f7cfdea369c1/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-epa-nominee-touted-defund-the-police-on-chinese-state-tv.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-epa-nominee-touted-defund-the-police-on-chinese-state-tv.amp",
-      "publishedDateTime": "2021-08-12T13:04:40-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Republican Voice"
       ]
     }

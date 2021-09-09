@@ -2,6 +2,434 @@
   "page": 41,
   "value": [
     {
+      "path": "_news/2021-06-15-dana-carveys-joe-biden-impression-on-colbert-praised-as-perfect.md",
+      "title": "Dana Carvey's Joe Biden Impression on Colbert Praised As 'Perfect'",
+      "excerpt": "Dana Carvey appeared as Joe Biden for a full-interview with Stephen Colbert on The Late Show. His impression of the President went down well with fans.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/dana-carvey-joe-biden-impression-late-show-stephen-colbert-1600688",
+      "originalUrl": "https://www.newsweek.com/dana-carvey-joe-biden-impression-late-show-stephen-colbert-1600688",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1821136/joe-biden-nato-summit.jpg",
+          "width": 2500,
+          "height": 1496,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/dana-carvey-joe-biden-impression-late-show-stephen-colbert-1600688?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/dana-carvey-joe-biden-impression-late-show-stephen-colbert-1600688?amp=1",
+      "publishedDateTime": "2021-06-15T02:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-06-15-vp-kamala-harris-announces-small-business-program-we-must-re-imagine-our-economy.md",
+      "title": "VP Kamala Harris Announces Small Business Program: \"We Must Re-Imagine Our Economy\"",
+      "excerpt": "AP: Vice President Kamala Harris announced Tuesday that the Biden administration is distributing $1.25 billion to hundreds of community lenders in an effort to help boost the economic recovery from the coronavirus for small businesses and disadvantaged business owners.",
+      "sourceUrl": null,
+      "webUrl": "https://www.realclearpolitics.com/video/2021/06/15/vp_kamala_harris_announces_small_business_program_we_must_re-imagine_our_economy.html#!",
+      "originalUrl": "https://www.realclearpolitics.com/video/2021/06/15/vp_kamala_harris_announces_small_business_program_we_must_re-imagine_our_economy.html#!",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.realclear.com/images/54/545821.jpg",
+          "width": 990,
+          "height": 742,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "http://www.realclearpolitics.com/video/2021/06/15/vp_kamala_harris_announces_small_business_program_we_must_re-imagine_our_economy.amp.html",
+      "cdnAmpWebUrl": "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/06/15/vp_kamala_harris_announces_small_business_program_we_must_re-imagine_our_economy.amp.html",
+      "publishedDateTime": "2021-06-14T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RealClearPolitics",
+        "domain": "realclearpolitics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-14-biden-gives-awkward-fist-bump-to-turkeys-erdogan-at-nato-summit.md",
+      "title": "Biden gives awkward fist-bump to Turkey’s Erdogan at NATO summit",
+      "excerpt": "President Biden on Monday offered an awkward fist-bump to Turkish President Recep Tayyip Erdogan in Belgium at the annual NATO summit Monday — as the Islamist strongman prepared to blast the U.S. leader for his recent recognition of the Armenian genocide.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/QqVib7QZRDA/biden-gives-awkward-fist-bump-to-turkeys-erdogan-at-nato-summit",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/QqVib7QZRDA/biden-gives-awkward-fist-bump-to-turkeys-erdogan-at-nato-summit",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 215,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bd6a145e-66e9-499f-af6f-6e679e86637f/ce50cd7b-ad82-41a8-827b-0a4d21342769/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-gives-awkward-fist-bump-to-turkeys-erdogan-at-nato-summit.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-gives-awkward-fist-bump-to-turkeys-erdogan-at-nato-summit.amp",
+      "publishedDateTime": "2021-06-14T16:38:23-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-14-biden-says-nato-must-protect-against-phony-populism.md",
+      "title": "Biden says NATO must protect against 'phony populism'",
+      "excerpt": "President Joe Biden on Monday called on foreign leaders to protect against those who prey on division and push \"phony populism,\" asserting that it's up to democratic nations to prove to the world that democracy can prevail and autocracies cannot \"deliver for the needs of our people.\"\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/kJslJsxjsoo/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/kJslJsxjsoo/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210614181318-13-nato-summit-biden-0614-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/14/politics/joe-biden-phony-populism-nato/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/14/politics/joe-biden-phony-populism-nato/index.html",
+      "publishedDateTime": "2021-06-14T16:09:37-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-14-liberals-tell-breyer-to-retire-after-mcconnell-says-he-wont-support-biden-supreme-court-pick-in-2024.md",
+      "title": "Liberals tell Breyer to retire after McConnell says he won't support Biden Supreme Court pick in 2024",
+      "excerpt": "Some on the left are re-upping their calls for Supreme Court Justice Stephen Breyer to retire from the bench Monday after Senate Minority Leader Mitch McConnell said he would block a nominee from President Biden in 2024 if Republicans are in the Senate majority.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dY_fXYq6EgE/liberals-breyer-retire-supreme-court-mcconnell-biden-pick-2024",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dY_fXYq6EgE/liberals-breyer-retire-supreme-court-mcconnell-biden-pick-2024",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 180,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/liberals-breyer-retire-supreme-court-mcconnell-biden-pick-2024.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/liberals-breyer-retire-supreme-court-mcconnell-biden-pick-2024.amp",
+      "publishedDateTime": "2021-06-14T11:31:50-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-14-mcconnell-says-highly-unlikely-he-would-let-biden-fill-a-supreme-court-vacancy-in-2024-if-gop-wins-back-senate.md",
+      "title": "McConnell says 'highly unlikely' he would let Biden fill a Supreme Court vacancy in 2024 if GOP wins back Senate",
+      "excerpt": "Senate Minority Leader Mitch McConnell said on Monday that if his party regains the majority in 2022 it's \"highly unlikely\" he would let President Joe Biden confirm a Supreme Court vacancy if one opened up in 2024, and was non-committal when asked about an opening at the end of 2023.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-8by_Xs0Zx8/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-8by_Xs0Zx8/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210527142427-01-mcconnell-0525-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/14/politics/mcconnell-scotus-nominee-biden-2024/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/14/politics/mcconnell-scotus-nominee-biden-2024/index.html",
+      "publishedDateTime": "2021-06-14T10:53:24-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-15-volodymyr-zelenskyy-hopes-joe-biden-will-give-specific-answer-on-supporting-ukraines-nato-bid.md",
+      "title": "Volodymyr Zelenskyy Hopes Joe Biden Will Give 'Specific' Answer on Supporting Ukraine's NATO Bid",
+      "excerpt": "\"I understand that this should be the agreed position of the alliance countries. Nevertheless, we must get clear dates and the likelihood of this for Ukraine,\" said Volodymyr Zelenskyy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/volodymyr-zelenskyy-hopes-joe-biden-will-give-specific-answer-supporting-ukraines-nato-bid-1600492",
+      "originalUrl": "https://www.newsweek.com/volodymyr-zelenskyy-hopes-joe-biden-will-give-specific-answer-supporting-ukraines-nato-bid-1600492",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1820669/ukrainian-president-volodymyr-zelenskyy.jpg",
+          "width": 2500,
+          "height": 1708,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/volodymyr-zelenskyy-hopes-joe-biden-will-give-specific-answer-supporting-ukraines-nato-bid-1600492?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/volodymyr-zelenskyy-hopes-joe-biden-will-give-specific-answer-supporting-ukraines-nato-bid-1600492?amp=1",
+      "publishedDateTime": "2021-06-14T10:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-06-14-biden-calls-natos-common-defense-pact-a-sacred-obligation-amid-cyberattacks.md",
+      "title": "Biden calls NATO's common defense pact 'a sacred obligation' amid cyberattacks",
+      "excerpt": "President Joe Biden on Monday called NATO's Article 5 common defense pact \"a sacred obligation\" amid the growing global threat of cyberattacks.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/biden-calls-natos-common-defense-pact-sacred-obligation/story?id=78265937",
+      "originalUrl": "https://abcnews.go.com/Politics/biden-calls-natos-common-defense-pact-sacred-obligation/story?id=78265937",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/International/nato-summit-rt-ml-210614_1623672722581_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/biden-calls-natos-common-defense-pact-sacred-obligation/story?id=78265937",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-calls-natos-common-defense-pact-sacred-obligation/story?id=78265937",
+      "publishedDateTime": "2021-06-14T08:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-06-14-trump-era-sentencing-reform-law-doesnt-apply-to-low-level-crack-cocaine-offenders-supreme-court-says.md",
       "title": "Trump-era sentencing reform law doesn't apply to low-level crack cocaine offenders, Supreme Court says",
       "excerpt": "The Supreme Court held Monday that a low-level crack-cocaine offender is ineligible to seek a reduced sentence under the Trump-era First Step Act sentencing reform law.\n    \n",
@@ -895,433 +1323,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-13-trump-says-senate-would-be-60-dems-vs-40-republicans-if-not-for-him-rips-mcconnell.md",
-      "title": "Trump Says Senate Would Be 60 Dems vs. 40 Republicans if Not for Him, Rips McConnell",
-      "excerpt": "\"Unfortunately Mitch McConnell, with what he was doing, hurt us very, very badly in Georgia,\" the former president said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/trump-says-senate-would-60-dems-vs-40-republicans-if-not-him-rips-mcconnell-1600102",
-      "originalUrl": "https://www.newsweek.com/trump-says-senate-would-60-dems-vs-40-republicans-if-not-him-rips-mcconnell-1600102",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 138,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1819934/donald-trump.jpg",
-          "width": 1024,
-          "height": 680,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/trump-says-senate-would-60-dems-vs-40-republicans-if-not-him-rips-mcconnell-1600102?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-says-senate-would-60-dems-vs-40-republicans-if-not-him-rips-mcconnell-1600102?amp=1",
-      "publishedDateTime": "2021-06-12T14:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-12-judge-halts-bidens-race-based-aid-for-farmers-says-challenge-is-likely-to-succeed.md",
-      "title": "Judge halts Biden's race-based aid for farmers, says challenge is 'likely to succeed'",
-      "excerpt": "A Wisconsin federal judge ordered a temporary halt to a $4 billion race-based federal relief program for farmers on Thursday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/s0vqCpgrS0s/biden-race-based-aid-farmers-halted",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/s0vqCpgrS0s/biden-race-based-aid-farmers-halted",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 188,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/720/405/Food-and-Farm-Robots-_Garc.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-race-based-aid-farmers-halted.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-race-based-aid-farmers-halted.amp",
-      "publishedDateTime": "2021-06-12T12:44:04-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-12-mike-pence-has-sold-out-pennlive-letters.md",
-      "title": "Mike Pence has sold out | PennLive letters",
-      "excerpt": "Pence is willing to forgive and forget despite Trump’s stunning disloyalty because he has designs on being elected president in 2024 or 2028.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pennlive.com/opinion/2021/06/mike-pence-has-sold-out-pennlive-letters.html",
-      "originalUrl": "https://www.pennlive.com/opinion/2021/06/mike-pence-has-sold-out-pennlive-letters.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/SSHVGALTSVC4BHXHMXUPFZ37RM.jpg",
-          "width": 2751,
-          "height": 1786,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pennlive.com/opinion/2021/06/mike-pence-has-sold-out-pennlive-letters.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-pennlive-com.cdn.ampproject.org/c/s/www.pennlive.com/opinion/2021/06/mike-pence-has-sold-out-pennlive-letters.html?outputType=amp",
-      "publishedDateTime": "2021-06-12T08:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Penn Live",
-        "domain": "pennlive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-06-12-how-trumps-tariffs-haunt-kentuckys-whiskey-distillers-were-still-on-death-row.md",
-      "title": "How Trump's tariffs haunt Kentucky's whiskey distillers: 'We're still on death row'",
-      "excerpt": "Dozens of cases of whiskey sit on the ground floor of the James E. Pepper Distillery in Lexington, Kentucky, ready to be shipped -- but, because President Joe Biden hasn't moved to end trade disputes started under former President Donald Trump, none of it will be going to thirsty customers overseas.\n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qWa-_qkgkJE/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qWa-_qkgkJE/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210611135624-01-whiskey-tariffs-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/12/politics/tariffs-trump-biden-whiskey/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/12/politics/tariffs-trump-biden-whiskey/index.html",
-      "publishedDateTime": "2021-06-12T07:01:37-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-12-trump-lost-40-million-on-his-scottish-golf-clubs-by-failing-to-implement-a-very-basic-financial-practice-say-experts.md",
-      "title": "Trump lost $40 million on his Scottish golf clubs by failing to implement a very basic financial practice, say experts",
-      "excerpt": "Trump's failure to hedge loans he made to his Scottish golf courses may have cost him tens of millions of dollars in recent years.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-lost-40-million-dollars-golf-course-loans-scotland-2021-6",
-      "originalUrl": "https://www.businessinsider.com/trump-lost-40-million-dollars-golf-course-loans-scotland-2021-6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/605718b7cad7d300183f8350?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trump-lost-40-million-dollars-golf-course-loans-scotland-2021-6?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-lost-40-million-dollars-golf-course-loans-scotland-2021-6?amp",
-      "publishedDateTime": "2021-06-12T05:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-12-biden-pick-for-navy-secretary-is-cuban-born-carlos-del-toro-a-22-year-navy-veteran.md",
-      "title": "Biden pick for Navy secretary is Cuban-born Carlos Del Toro, a 22-year Navy veteran",
-      "excerpt": "President Biden said Friday he plans to nominate Carlos Del Toro for secretary of the Navy. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/g7Vt4u_iRGA/biden-nominates-carlos-del-toro-as-navy-secretary",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/g7Vt4u_iRGA/biden-nominates-carlos-del-toro-as-navy-secretary",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/535d031e-e499-41ed-984b-bf132bd69c5b/7a7138b9-bda4-45c9-94ec-9d533682eec7/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-nominates-carlos-del-toro-as-navy-secretary.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-nominates-carlos-del-toro-as-navy-secretary.amp",
-      "publishedDateTime": "2021-06-12T01:14:57-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-12-aocs-aunt-says-blame-puerto-rico-pols-not-trump-for-abuela-misery-report.md",
-      "title": "AOC’s aunt says blame Puerto Rico pols, not Trump, for ‘abuela’ misery: report",
-      "excerpt": "If the grandmother of U.S. Rep. Alexandria Ocasio-Cortez has suffered in Puerto Rico since Hurricane Maria in 2017, then Puerto Rican politicians are to blame, not former President Trump.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/UOaDnhAfI88/aocs-aunt-says-blame-puerto-rico-pols-not-trump-for-abuela-misery-report",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/UOaDnhAfI88/aocs-aunt-says-blame-puerto-rico-pols-not-trump-for-abuela-misery-report",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 191,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e4fd5fb5-83f2-4861-b108-1ba47e4ff053/c6a6343e-88a5-4bfe-a221-9c75c0fadebf/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/aocs-aunt-says-blame-puerto-rico-pols-not-trump-for-abuela-misery-report.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aocs-aunt-says-blame-puerto-rico-pols-not-trump-for-abuela-misery-report.amp",
-      "publishedDateTime": "2021-06-11T21:26:26-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-12-putin-calls-trump-an-extraordinary-individual-biden-a-career-man.md",
-      "title": "Putin calls Trump an ‘extraordinary individual,’ Biden, a ‘career man’",
-      "excerpt": "Russian President Vladimir Putin compared his relationship with former President Trump, who he praised as an “extraordinary individual,” and President Biden, who he called a “career man.”",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/UZbmxPirZSc/putin-trump-extraordinary-individual-biden-career-man",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/UZbmxPirZSc/putin-trump-extraordinary-individual-biden-career-man",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 570,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/720/405/Russia-Vladimir-Putin-AP.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/putin-trump-extraordinary-individual-biden-career-man.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/putin-trump-extraordinary-individual-biden-career-man.amp",
-      "publishedDateTime": "2021-06-11T17:38:50-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

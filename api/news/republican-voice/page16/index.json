@@ -2,6 +2,231 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2021-05-27-lara-trump-slams-biden-harris-if-the-border-is-closed-then-im-a-sparkly-unicorn.md",
+      "title": "Lara Trump slams Biden, Harris: If the border is closed, then ‘I’m a sparkly unicorn’",
+      "excerpt": "Fox News contributor Lara Trump said on Thursday mocked the Department of Homeland Security for claiming the southern border was closed.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/NE82bCJ0myY/lara-trump-border-closed-sparkly-unicorn-biden-mayorkas",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/NE82bCJ0myY/lara-trump-border-closed-sparkly-unicorn-biden-mayorkas",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 588,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/lara-trump-border-closed-sparkly-unicorn-biden-mayorkas.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lara-trump-border-closed-sparkly-unicorn-biden-mayorkas.amp",
+      "publishedDateTime": "2021-05-27T08:14:28-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-05-27-gop-governors-on-hannity-biden-making-them-pay-the-price-for-being-fiscally-responsible.md",
+      "title": "GOP governors on 'Hannity': Biden making them 'pay the price' for being fiscally responsible",
+      "excerpt": "Members of the Republican Governors Association joined “Hannity” on Wednesday for a town hall event.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/f8NeWSZtA6M/gop-governors-biden-making-pay-the-price-being-fiscally-responsible",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/f8NeWSZtA6M/gop-governors-biden-making-pay-the-price-being-fiscally-responsible",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c16c75bf-6b82-41de-988f-ad0d93240512/1108879e-c4e2-425e-b1a4-215178cd8c85/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/gop-governors-biden-making-pay-the-price-being-fiscally-responsible.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-governors-biden-making-pay-the-price-being-fiscally-responsible.amp",
+      "publishedDateTime": "2021-05-27T03:57:45-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-27-biden-paid-cost-of-admission-for-putin-summit-by-waiving-nord-stream-pipeline-sanctions-rep-mccaul.md",
+      "title": "Biden paid 'cost of admission' for Putin summit by waiving Nord Stream pipeline sanctions: Rep. McCaul",
+      "excerpt": "Rep. Michael McCaul, R-Texas, stepped up his criticism of President Biden’s decision to lift sanctions on the Nord Stream 2 pipeline on Wednesday, arguing the move was the “cost of admission” for the White House’s upcoming meeting with Russian President Vladmir Putin.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/aw1DdKDu1T8/biden-putin-summit-nord-stream-pipeline-sanctions-rep-mccaul",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/aw1DdKDu1T8/biden-putin-summit-nord-stream-pipeline-sanctions-rep-mccaul",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 179,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1b110f4f-f2ca-4053-bd9b-c38d128cb2f2/9d45c54d-6a5d-470a-af4a-81d4d5e8c31f/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-putin-summit-nord-stream-pipeline-sanctions-rep-mccaul.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-putin-summit-nord-stream-pipeline-sanctions-rep-mccaul.amp",
+      "publishedDateTime": "2021-05-26T19:10:01-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-27-san-jose-shooting-prompts-biden-newsom-to-renew-call-for-gun-control-measures.md",
+      "title": "San Jose shooting prompts Biden, Newsom to renew call for gun control measures",
+      "excerpt": "President Biden, California Gov. Gavin Newsom and other prominent Democrats renewed calls for tighter gun laws on Wednesday after a deadly mass shooting at a California rail yard.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1oEqrNEUU30/san-jose-shooting-biden-newsom-gun-control",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1oEqrNEUU30/san-jose-shooting-biden-newsom-gun-control",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 211,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/75fd10f9-5ed7-4a0a-a339-cec24197305e/c2c66037-e392-4e1e-b849-923bdaf2f091/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/san-jose-shooting-biden-newsom-gun-control.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/san-jose-shooting-biden-newsom-gun-control.amp",
+      "publishedDateTime": "2021-05-26T18:01:48-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-05-26-biden-picks-la-mayor-envoy-for-ambassador-posts-ap-source.md",
       "title": "Biden picks LA mayor, envoy for ambassador posts: AP source",
       "excerpt": "President Joe Biden is expected to announce he is nominating former senior State Department official Nicholas Burns to serve as his ambassador to China and Los Angeles Mayor Eric Garcetti to be his ambassador to India, according to a person familiar with the matter.",
@@ -1388,230 +1613,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/biden-israel-replenish-iron-dome-limit-hamas-rocket.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-israel-replenish-iron-dome-limit-hamas-rocket.amp",
       "publishedDateTime": "2021-05-20T16:49:10-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-20-biden-says-hate-can-be-given-no-safe-harbor-as-he-signs-anti-asian-hate-crimes-bill.md",
-      "title": "Biden says ‘hate can be given no safe harbor’ as he signs anti-Asian hate crimes bill",
-      "excerpt": "President Biden on Thursday signed into law a bipartisan bill that would speed the review of hate crimes and make it easier to aid in their reporting.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/AgkMhieKPXs/biden-says-hate-can-be-given-no-safe-harbor-as-he-signs-anti-asian-hate-crimes-bill",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/AgkMhieKPXs/biden-says-hate-can-be-given-no-safe-harbor-as-he-signs-anti-asian-hate-crimes-bill",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 208,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-says-hate-can-be-given-no-safe-harbor-as-he-signs-anti-asian-hate-crimes-bill.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-says-hate-can-be-given-no-safe-harbor-as-he-signs-anti-asian-hate-crimes-bill.amp",
-      "publishedDateTime": "2021-05-20T15:07:37-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-20-ted-cruz-biden-rewarded-russia-for-hacking-us-pipeline-by-blessing-russian-one.md",
-      "title": "Ted Cruz: Biden 'rewarded' Russia for hacking US pipeline by blessing Russian one",
-      "excerpt": "Sen. Ted Cruz, R-Texas, sounded off Wednesday on President Biden responding to a debilitating hack of a U.S. oil pipeline from within the Russian Federation, by turning around and giving his approval to a lucrative Russian pipeline that will supply energy to Germany.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/u5tzn7FUQa4/ted-cruz-biden-rewarded-russia-for-hacking-us-pipeline-by-blessing-russian-one",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/u5tzn7FUQa4/ted-cruz-biden-rewarded-russia-for-hacking-us-pipeline-by-blessing-russian-one",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 230,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3f4eb9de-2cb5-4510-8484-472066a72fd4/41d40886-d2bf-4211-a0e3-2d5708f9195f/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/ted-cruz-biden-rewarded-russia-for-hacking-us-pipeline-by-blessing-russian-one.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ted-cruz-biden-rewarded-russia-for-hacking-us-pipeline-by-blessing-russian-one.amp",
-      "publishedDateTime": "2021-05-19T20:59:41-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-19-biden-calls-former-dem-senator-accused-of-sexual-misconduct-one-of-the-finest-men-ive-ever-served-with.md",
-      "title": "Biden calls former Dem senator accused of sexual misconduct 'One of the finest men I've ever served with'’",
-      "excerpt": "President Biden called a former Democratic senator whose past is checkered with complicity in a sexual assault allegation “one of the finest men I’ve ever served with.”’",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ldDnX4M10TY/biden-calls-chris-dodd-sexual-misconduct-finest-men",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ldDnX4M10TY/biden-calls-chris-dodd-sexual-misconduct-finest-men",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/media2.foxnews.com/thumbnails/720/405/010207_010207_greta_dodd_16_9.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-calls-chris-dodd-sexual-misconduct-finest-men.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-calls-chris-dodd-sexual-misconduct-finest-men.amp",
-      "publishedDateTime": "2021-05-19T14:42:33-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-19-biden-tells-coast-guard-cadets-nations-at-significant-inflection-point-calls-class-dull-after-joke-bombs.md",
-      "title": "Biden tells Coast Guard cadets nation’s at ‘significant inflection point,’ calls class dull after joke bombs",
-      "excerpt": "Emphasizing the importance of their mission ahead in a quickly changing world, President Biden told graduating Coast Guard cadets on Wednesday that “we need you badly - that’s not hyperbole.”",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/uPsiZ9RWCNg/biden-tells-coast-guard-cadets-nations-at-significant-inflection-point",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/uPsiZ9RWCNg/biden-tells-coast-guard-cadets-nations-at-significant-inflection-point",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-tells-coast-guard-cadets-nations-at-significant-inflection-point.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-tells-coast-guard-cadets-nations-at-significant-inflection-point.amp",
-      "publishedDateTime": "2021-05-19T11:52:15-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

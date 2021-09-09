@@ -2,6 +2,465 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2021-07-28-mcauliffe-attacks-youngkin-by-tying-him-to-trumps-election-lies.md",
+      "title": "McAuliffe attacks Youngkin by tying him to Trump's election lies ",
+      "excerpt": "Virginia's Terry McAuliffe, in an effort to tie his gubernatorial opponent, Glenn Youngkin, to all things Donald Trump, is now linking the Republican nominee to the former President's top focus: so-called election integrity.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ipJRqvK6Qzg/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ipJRqvK6Qzg/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 270,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210728141556-mcauliffe-youngkin-split-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/28/politics/mcauliffe-youngkin-virginia-ads/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/28/politics/mcauliffe-youngkin-virginia-ads/index.html",
+      "publishedDateTime": "2021-07-28T11:46:10-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-28-us-russia-hold-substantive-strategic-stability-talks-as-moscow-raps-biden-for-comments.md",
+      "title": "US, Russia hold 'substantive' strategic stability talks as Moscow raps Biden for comments",
+      "excerpt": "US and Russian officials had \"professional and substantive talks\" on strategic stability in Switzerland, the State Department said in a statement Wednesday.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-RXyI6PvlsE/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-RXyI6PvlsE/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 166,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210726005611-wendy-sherman-file-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/28/politics/us-russia-strategic-talks/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/28/politics/us-russia-strategic-talks/index.html",
+      "publishedDateTime": "2021-07-28T11:27:56-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-29-unfairly-penalized-residents-senators-in-northern-border-states-question-bidens-border-closure.md",
+      "title": "'Unfairly penalized': Residents, senators in northern border states question Biden's border closure",
+      "excerpt": "With Canada's vaccination rates higher now than in US, some are wondering if continued closure is more about the southern border than northern one.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2021/07/28/biden-canadian-border-closing-southern-border/5401156001/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/07/28/biden-canadian-border-closing-southern-border/5401156001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-28T10:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-07-28-brandi-love-wants-ron-desantis-to-run-in-2024-if-donald-trump-doesnt.md",
+      "title": "Brandi Love Wants Ron DeSantis To Run in 2024 if Donald Trump Doesn't",
+      "excerpt": "\"Even I can admit that Donald Trump has an obnoxious arrogance about him that rubs some people the wrong way,\" the adult film actress told Newsweek.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/brandi-love-ron-desantis-2024-president-donald-trump-1613973",
+      "originalUrl": "https://www.newsweek.com/brandi-love-ron-desantis-2024-president-donald-trump-1613973",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 185,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1857361/ron-desantis-brandi-love.jpg",
+          "width": 1800,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/brandi-love-ron-desantis-2024-president-donald-trump-1613973?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/brandi-love-ron-desantis-2024-president-donald-trump-1613973?amp=1",
+      "publishedDateTime": "2021-07-28T08:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-07-28-joe-biden-in-the-lehigh-valley-spectators-waiting-for-a-glimpse-of-air-force-one.md",
+      "title": "Joe Biden in the Lehigh Valley: Spectators waiting for a glimpse of Air Force One",
+      "excerpt": "It’s a beautiful sunny day in the Lehigh Valley to try and catch a glimpse of Air Force One. Millie Wescoe traveled from her Bethlehem home to a clear vantage point along Race Street, happy she happened to be off of work on the day President Joe Biden decided to visit the Valley.",
+      "sourceUrl": null,
+      "webUrl": "https://www.lehighvalleylive.com/lehigh-county/2021/07/joe-biden-in-the-lehigh-valley-watchers-waiting-for-a-glimpse-of-air-force-one.html",
+      "originalUrl": "https://www.lehighvalleylive.com/lehigh-county/2021/07/joe-biden-in-the-lehigh-valley-watchers-waiting-for-a-glimpse-of-air-force-one.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/5FHQAUNXUVA7FCN4MK54GJMQ2E.JPG",
+          "width": 3300,
+          "height": 1804,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.lehighvalleylive.com/lehigh-county/2021/07/joe-biden-in-the-lehigh-valley-watchers-waiting-for-a-glimpse-of-air-force-one.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-lehighvalleylive-com.cdn.ampproject.org/c/s/www.lehighvalleylive.com/lehigh-county/2021/07/joe-biden-in-the-lehigh-valley-watchers-waiting-for-a-glimpse-of-air-force-one.html?outputType=amp",
+      "publishedDateTime": "2021-07-28T07:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Lehigh Valley Live",
+        "domain": "lehighvalleylive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-07-28-audio-shows-a-profanity-laced-voicemail-that-dc-officer-michael-fanone-got-from-a-trump-supporter-while-he-was-testifying-to-congress.md",
+      "title": "Audio shows a profanity-laced voicemail that DC officer Michael Fanone got from a Trump supporter while he was testifying to Congress",
+      "excerpt": "The DC police officer had told Congress on Tuesday that he was beaten unconscious and almost killed by Capitol rioters.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/michael-fanone-plays-explicit-voicemail-during-january-6-testimony-2021-7",
+      "originalUrl": "https://www.businessinsider.com/michael-fanone-plays-explicit-voicemail-during-january-6-testimony-2021-7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/610121ec0d35a90018258b3e?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/michael-fanone-plays-explicit-voicemail-during-january-6-testimony-2021-7?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/michael-fanone-plays-explicit-voicemail-during-january-6-testimony-2021-7?amp",
+      "publishedDateTime": "2021-07-28T02:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-07-28-biden-if-us-has-real-shooting-war-it-could-be-result-of-cyber-attacks.md",
+      "title": "Biden: If U.S. has 'real shooting war' it could be result of cyber attacks",
+      "excerpt": "President Joe Biden on Tuesday warned that if the United States ended up in a \"real shooting war\" with a \"major power\" it could be the result of a significant cyber attack on the country, highlighting what Washington sees as growing threats posed by Russia and China.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-biden-cyber-war-idUSKBN2EX2S9",
+      "originalUrl": "https://www.reuters.com/article/us-usa-biden-cyber-war-idUSKBN2EX2S9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/sRkmzaJO11OAE2I883BVrfRIvZw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/CKSQMSZKH5K35D7ZNSHQTPNZDY.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-27T21:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-07-28-new-jersey-town-drops-case-against-f-biden-sign-lady-after-aclu-intervenes-report.md",
+      "title": "New Jersey town drops case against ‘F--- Biden’ sign lady after ACLU intervenes: report",
+      "excerpt": "A town in New Jersey has decided to end its effort to have a resident remove various anti-Biden signs from her property, including several that contain profanity.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/politics/new-jersey-f-biden-sign-aclu-roselle-park",
+      "originalUrl": "https://www.foxnews.com/politics/new-jersey-f-biden-sign-aclu-roselle-park",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c1f80430-6227-4a83-93d2-dd9f83faf89a/30d5fc90-e00a-4a49-8499-ea92c159a177/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/new-jersey-f-biden-sign-aclu-roselle-park.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/new-jersey-f-biden-sign-aclu-roselle-park.amp",
+      "publishedDateTime": "2021-07-27T19:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-28-trump-vows-we-wont-mask-our-children-in-wake-of-new-cdc-recommendation.md",
+      "title": "Trump vows ‘we won’t mask our children’ in wake of new CDC recommendation",
+      "excerpt": "Donald Trump blasted the Biden administration after the CDC recommended indoor mask mandates in most areas of the US as well as in all K-12 schools, regardless of vaccination status.",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/07/27/trump-vows-we-wont-mask-our-children-after-new-cdc-mandates/",
+      "originalUrl": "https://nypost.com/2021/07/27/trump-vows-we-wont-mask-our-children-after-new-cdc-mandates/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/07/donald-trump-anti-mask-indexb.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/07/27/trump-vows-we-wont-mask-our-children-after-new-cdc-mandates/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/27/trump-vows-we-wont-mask-our-children-after-new-cdc-mandates/amp/",
+      "publishedDateTime": "2021-07-27T19:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-27-america-first-legal-demands-info-on-bidens-extreme-open-border-policies-the-rails-have-been-ripped-off.md",
       "title": "America First Legal demands info on Biden's 'extreme' open border policies: 'The rails have been ripped off'",
       "excerpt": "America First Legal (AFL), former Trump adviser Stephen Miller's legal group, filed Freedom of Information Act (FOIA) requests with several executive branch agencies in an attempt to obtain records and data on Biden administration's \"extreme\" open border policies.",
@@ -842,471 +1301,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-07-26-biden-and-kadhimi-seal-agreement-to-end-us-combat-mission-in-iraq.md",
-      "title": "Biden and Kadhimi seal agreement to end US combat mission in Iraq",
-      "excerpt": "President and PM meet at Oval Office and announce schedule to shift mission entirely to training and advisory role by end of this year",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/world/2021/jul/26/joe-biden-iraq-mustafa-al-kadhimi-us-military-combat-mission",
-      "originalUrl": "https://www.theguardian.com/world/2021/jul/26/joe-biden-iraq-mustafa-al-kadhimi-us-military-combat-mission",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 365,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/128af502e617b1e5bf969afb2545849df37b1c60/0_0_4385_2630/master/4385.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ef0434ac01738e54ec3dca6dd172c5dc",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/world/2021/jul/26/joe-biden-iraq-mustafa-al-kadhimi-us-military-combat-mission",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2021/jul/26/joe-biden-iraq-mustafa-al-kadhimi-us-military-combat-mission",
-      "publishedDateTime": "2021-07-26T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-07-26-education-nonprofit-warns-biden-nominee-lhamon-would-threaten-progress-of-trump-era-title-ix-protections.md",
-      "title": "Education nonprofit warns Biden nominee Lhamon would 'threaten progress' of Trump-era Title IX protections",
-      "excerpt": "An education nonprofit is warning the Biden administration's commitment to rolling back Title IX's due process protections for individuals accused of sexual harassment on college campuses would erase the progress enacted under the Trump administration.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/education-nonprofit-title-ix-biden-lhamon",
-      "originalUrl": "https://www.foxnews.com/politics/education-nonprofit-title-ix-biden-lhamon",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/213f48f8-3e13-432e-8f0a-729406f11ecd/7194499b-c1af-4167-bf2e-050b58eaa444/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/education-nonprofit-title-ix-biden-lhamon.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/education-nonprofit-title-ix-biden-lhamon.amp",
-      "publishedDateTime": "2021-07-26T05:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-26-sarah-huckabee-sanders-urges-people-to-get-the-trump-vaccine.md",
-      "title": "Sarah Huckabee Sanders urges people to get the ‘Trump vaccine’",
-      "excerpt": "Former White House press secretary Sarah Huckabee Sanders acknowledged Sunday that she was inoculated against COVID-19 “months ago” — with the “Trump vaccine.”",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/07/25/sarah-huckabee-sanders-urges-people-to-get-the-trump-vaccine/",
-      "originalUrl": "https://nypost.com/2021/07/25/sarah-huckabee-sanders-urges-people-to-get-the-trump-vaccine/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/07/sarah-huckabee-sanders.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/07/25/sarah-huckabee-sanders-urges-people-to-get-the-trump-vaccine/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/25/sarah-huckabee-sanders-urges-people-to-get-the-trump-vaccine/amp/",
-      "publishedDateTime": "2021-07-25T17:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-26-biden-pathway-to-citizenship-in-reconciliation-package-remains-to-be-seen.md",
-      "title": "Biden: Pathway to citizenship in reconciliation package 'remains to be seen'",
-      "excerpt": "President Biden on Sunday said it “remains to be seen” if a pathway to citizenship will be included in the Democrats’ forthcoming reconciliation package.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/administration/564754-biden-pathway-to-citizenship-in-reconciliation-package-remains-to-be",
-      "originalUrl": "https://thehill.com/homenews/administration/564754-biden-pathway-to-citizenship-in-reconciliation-package-remains-to-be",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 142,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/article_images/bidenjoe_072121getty_fox.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/administration/564754-biden-pathway-to-citizenship-in-reconciliation-package-remains-to-be?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/564754-biden-pathway-to-citizenship-in-reconciliation-package-remains-to-be?amp",
-      "publishedDateTime": "2021-07-25T14:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-07-26-watergate-reporter-carl-bernstein-calls-donald-trump-a-war-criminal.md",
-      "title": "Watergate Reporter Carl Bernstein Calls Donald Trump a 'War Criminal'",
-      "excerpt": "Political analyst and Watergate reporter Carl Bernstein called former President Donald Trump a \"war criminal\" on CNN's Reliable Sources Sunday. He said people need to view Trump in \"a different context,",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/watergate-reporter-carl-bernstein-calls-donald-trump-war-criminal-1612914",
-      "originalUrl": "https://www.newsweek.com/watergate-reporter-carl-bernstein-calls-donald-trump-war-criminal-1612914",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1854570/carl-bernstein.jpg",
-          "width": 3000,
-          "height": 2023,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/watergate-reporter-carl-bernstein-calls-donald-trump-war-criminal-1612914?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/watergate-reporter-carl-bernstein-calls-donald-trump-war-criminal-1612914?amp=1",
-      "publishedDateTime": "2021-07-25T14:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-25-who-is-adam-kinzinger-conservative-congressman-turned-anti-trump-leader.md",
-      "title": "Who is Adam Kinzinger? Conservative congressman turned anti-Trump leader",
-      "excerpt": "The news on Sunday that House Speaker Nancy Pelosi will appoint Rep. Adam Kinzinger as the second Republican representative on the special House committee investigating the Jan. 6 insurrection at the U.S. Capitol is once again putting the Illinois congressman in the national spotlight.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vU3ekYR9QqI/who-is-adam-kinzinge-conservative-congressman-turned-anti-trump-leader",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vU3ekYR9QqI/who-is-adam-kinzinge-conservative-congressman-turned-anti-trump-leader",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 214,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/who-is-adam-kinzinge-conservative-congressman-turned-anti-trump-leader.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/who-is-adam-kinzinge-conservative-congressman-turned-anti-trump-leader.amp",
-      "publishedDateTime": "2021-07-25T12:03:02-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-26-trump-says-woke-politics-contributed-to-us-womens-soccer-upset-at-olympics.md",
-      "title": "Trump says ‘woke politics’ contributed to US women’s soccer upset at Olympics",
-      "excerpt": "Former President Donald Trump says “woke politics” contributed to the US Women’s soccer team’s dismal opening performance in the Tokyo 2020 Olympics.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/07/25/trump-says-woke-politics-contributed-to-us-womens-soccer-loss/",
-      "originalUrl": "https://nypost.com/2021/07/25/trump-says-woke-politics-contributed-to-us-womens-soccer-loss/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/07/trump-2.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/07/25/trump-says-woke-politics-contributed-to-us-womens-soccer-loss/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/25/trump-says-woke-politics-contributed-to-us-womens-soccer-loss/amp/",
-      "publishedDateTime": "2021-07-25T11:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-26-video-shows-man-harassing-michelle-ugenti-rita-backstage-after-trump-supporters-booed-her.md",
-      "title": "Video Shows Man 'Harassing' Michelle Ugenti-Rita Backstage After Trump Supporters Booed Her",
-      "excerpt": "Rita, a Republican running for Arizona secretary of state, why she \"killed Senator Kelly Townsend's election integrity bills in the Senate\" in the video.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/video-shows-man-harassing-michelle-ugenti-rita-backstage-after-trump-supporters-booed-her-1612894",
-      "originalUrl": "https://www.newsweek.com/video-shows-man-harassing-michelle-ugenti-rita-backstage-after-trump-supporters-booed-her-1612894",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1854525/rally-protect-our-elections.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/video-shows-man-harassing-michelle-ugenti-rita-backstage-after-trump-supporters-booed-her-1612894?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/video-shows-man-harassing-michelle-ugenti-rita-backstage-after-trump-supporters-booed-her-1612894?amp=1",
-      "publishedDateTime": "2021-07-25T10:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-26-mark-warner-inflation-today-is-result-of-35-trillion-in-covid-spending-in-2020-under-trump.md",
-      "title": "Mark Warner: Inflation Today Is Result Of $3.5 Trillion In COVID Spending In 2020 Under Trump",
-      "excerpt": "Democratic Sen. Mark Warner told \"FOX News Sunday\" that the expanding \"human infrastructure\" bill will not contribute as much to inflation as did $5 Trillion in COVID spending since last year, \"$3.5 trillion of that under President Trump.",
-      "sourceUrl": null,
-      "webUrl": "https://www.realclearpolitics.com/video/2021/07/25/mark_warner_inflation_today_is_result_of_35_trillion_in_covid_spending_in_2020_under_trump.html",
-      "originalUrl": "https://www.realclearpolitics.com/video/2021/07/25/mark_warner_inflation_today_is_result_of_35_trillion_in_covid_spending_in_2020_under_trump.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.realclear.com/images/54/548989.jpg",
-          "width": 750,
-          "height": 562,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "http://www.realclearpolitics.com/video/2021/07/25/mark_warner_inflation_today_is_result_of_35_trillion_in_covid_spending_in_2020_under_trump.amp.html",
-      "cdnAmpWebUrl": "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/07/25/mark_warner_inflation_today_is_result_of_35_trillion_in_covid_spending_in_2020_under_trump.amp.html",
-      "publishedDateTime": "2021-07-25T10:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RealClearPolitics",
-        "domain": "realclearpolitics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     }
   ],

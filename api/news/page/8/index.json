@@ -2,6 +2,519 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-08-24-trump-calls-on-florida-judge-to-help-reinstate-his-youtube-account.md",
+      "title": "Trump calls on Florida judge to help reinstate his Youtube account",
+      "excerpt": "Former President Donald Trump on Monday asked a Florida judge to issue a preliminary injunction in his case against YouTube that would compel the company to reinstate his access to the platform.",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/08/24/trump-calls-on-judge-to-help-reinstate-his-youtube-account/",
+      "originalUrl": "https://nypost.com/2021/08/24/trump-calls-on-judge-to-help-reinstate-his-youtube-account/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/08/trump-youtube.jpg?quality=90&strip=all&w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/08/24/trump-calls-on-judge-to-help-reinstate-his-youtube-account/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/24/trump-calls-on-judge-to-help-reinstate-his-youtube-account/amp/",
+      "publishedDateTime": "2021-08-24T04:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-08-24-harris-rebukes-china-in-major-speech-on-indo-pacific.md",
+      "title": "Harris rebukes China in major speech on Indo-Pacific",
+      "excerpt": "U.S. Vice President Kamala Harris delivered a sharp rebuke to China for its incursions in the South China Sea, warning its actions there amount to “coercion” and “intimidation” and affirming that the U.S. will support its allies in the region against Beijing’s advances.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8KsckFBINlk/harris-rebukes-china-major-speech-indo-pacific",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8KsckFBINlk/harris-rebukes-china-major-speech-indo-pacific",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 505,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/08/720/405/AP21235405692376.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/harris-rebukes-china-major-speech-indo-pacific.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-rebukes-china-major-speech-indo-pacific.amp",
+      "publishedDateTime": "2021-08-24T01:04:22-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-08-24-hostile-trump-mob-sends-gop-rep-brooks-into-panicked-backpedal-on-moving-on-from-2020.md",
+      "title": "Hostile Trump mob sends GOP Rep. Brooks into panicked backpedal on moving on from 2020",
+      "excerpt": "Rachel Maddow shares video of Republican Congressman Mo Brooks being roundly booed by the audience at a Donald Trump rally in Alabama after Brooks suggested they move on from Trump's 2020 loss and focus on future elections.",
+      "sourceUrl": null,
+      "webUrl": "https://www.msnbc.com/rachel-maddow/watch/hostile-trump-mob-sends-gop-rep-brooks-into-panicked-backpedal-on-moving-on-from-2020-119318597524",
+      "originalUrl": "https://www.msnbc.com/rachel-maddow/watch/hostile-trump-mob-sends-gop-rep-brooks-into-panicked-backpedal-on-moving-on-from-2020-119318597524",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_08/1629780121191_n_maddow_brooks_210823_1920x1080-6wbvgr.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.msnbc.com/msnbc/amp-video/mmvo119318597524",
+      "cdnAmpWebUrl": "https://www-msnbc-com.cdn.ampproject.org/c/s/www.msnbc.com/msnbc/amp-video/mmvo119318597524",
+      "publishedDateTime": "2021-08-23T21:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MSNBC",
+        "domain": "msnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/msnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-08-24-beijing-continues-to-coerce-and-intimidate-in-south-china-sea-kamala-harris.md",
+      "title": "Beijing Continues To \"Coerce\" And \"Intimidate\" In South China Sea: Kamala Harris",
+      "excerpt": "U.S. Vice President Kamala Harris on Tuesday accused Beijing of continuing to \"coerce\" and \"intimidate\" in the South China Sea and pledged that Washington would pursue a free and open Indo Pacific.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ndtv.com/world-news/kamala-harris-says-beijing-continues-to-coerce-and-intimidate-in-south-china-sea-2517148",
+      "originalUrl": "https://www.ndtv.com/world-news/kamala-harris-says-beijing-continues-to-coerce-and-intimidate-in-south-china-sea-2517148",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://c.ndtvimg.com/2021-08/kvgn5vh_kamala-harris_625x300_24_August_21.jpeg?im=FaceCrop,algorithm=dnn,width=650,height=400",
+          "width": 650,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ndtv.com/world-news/kamala-harris-says-beijing-continues-to-coerce-and-intimidate-in-south-china-sea-2517148?amp=1&akamai-rum=off",
+      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/kamala-harris-says-beijing-continues-to-coerce-and-intimidate-in-south-china-sea-2517148?amp=1&akamai-rum=off",
+      "publishedDateTime": "2021-08-23T20:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NDTV",
+        "domain": "ndtv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-08-24-why-is-joe-biden-suing-facebook-and-instagram-over-vaccine-posts.md",
+      "title": "Why is Joe Biden suing Facebook and Instagram over vaccine posts?",
+      "excerpt": "Facebook is back in hot water after an explosive New York Times investigative report found the company hid the truth about its most popular viral content after the company discovered the most-viewed link on the platform raised doubt about the coronavirus vaccine.",
+      "sourceUrl": null,
+      "webUrl": "https://www.msnbc.com/the-beat-with-ari/watch/why-is-joe-biden-suing-facebook-and-instagram-over-vaccine-posts-119303237830",
+      "originalUrl": "https://www.msnbc.com/the-beat-with-ari/watch/why-is-joe-biden-suing-facebook-and-instagram-over-vaccine-posts-119303237830",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_08/1629760614362_n_ari_fb_210823_1920x1080-6uycn1.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.msnbc.com/msnbc/amp-video/mmvo119303237830",
+      "cdnAmpWebUrl": "https://www-msnbc-com.cdn.ampproject.org/c/s/www.msnbc.com/msnbc/amp-video/mmvo119303237830",
+      "publishedDateTime": "2021-08-23T16:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MSNBC",
+        "domain": "msnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/msnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-08-24-seattle-storm-visit-president-biden-white-house-to-celebrate-2020-wnba-title.md",
+      "title": "Seattle Storm visit President Biden, White House to celebrate 2020 WNBA title",
+      "excerpt": "The Storm became the first women’s team welcomed by President Biden and the first WNBA squad at the White House since the 2015 Minnesota Lynx.",
+      "sourceUrl": null,
+      "webUrl": "https://www.freep.com/story/sports/wnba/storm/2021/08/23/seattle-storm-visit-president-biden-white-house-honor-wnba-title/8245818002/",
+      "originalUrl": "https://www.freep.com/story/sports/wnba/storm/2021/08/23/seattle-storm-visit-president-biden-white-house-honor-wnba-title/8245818002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/08/23/USAT/eaa65bb6-091f-4e5e-b30d-bdbf44364616-GTY_1234836329.jpg?auto=webp&crop=7544,4244,x1,y787&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.freep.com/amp/8245818002",
+      "cdnAmpWebUrl": "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/8245818002",
+      "publishedDateTime": "2021-08-23T14:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Detroit Free Press",
+        "domain": "freep.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-08-23-biden-praises-wnba-champion-seattle-storm-for-their-work-on-and-off-the-court-during-white-house-visit.md",
+      "title": "Biden praises WNBA champion Seattle Storm for their work on and off the court during White House visit",
+      "excerpt": "President Joe Biden honored the WNBA champion Seattle Storm at the White House Monday, praising the team for its actions both on and off the court -- especially work the team has done on social justice issues.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2r17hb_a0wE/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2r17hb_a0wE/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210823165833-01-biden-seattle-storm-0823-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/08/23/politics/seattle-storm-white-house-visit/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/23/politics/seattle-storm-white-house-visit/index.html",
+      "publishedDateTime": "2021-08-23T14:26:24-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-08-24-craig-says-he-wants-to-be-defined-as-james-craig-not-donald-trump.md",
+      "title": "Craig says he wants 'to be defined as James Craig, not Donald Trump'",
+      "excerpt": "Former Detroit Police Chief James Craig, who is exploring a run for Michigan governor, says he would accept Donald Trump's endorsement if offered.",
+      "sourceUrl": null,
+      "webUrl": "https://www.detroitnews.com/story/news/politics/2021/08/23/craig-says-he-wants-to-defined-james-craig-not-donald-trump/8241441002/",
+      "originalUrl": "https://www.detroitnews.com/story/news/politics/2021/08/23/craig-says-he-wants-to-defined-james-craig-not-donald-trump/8241441002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/08/23/PDTN/46a2da2f-2d6f-42b0-9de1-51989278a50d-James_craig_BIRM.jpg?auto=webp&crop=4031,2268,x0,y373&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.detroitnews.com/amp/8241441002",
+      "cdnAmpWebUrl": "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/8241441002",
+      "publishedDateTime": "2021-08-23T13:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Detroit News",
+        "domain": "detroitnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-08-24-donald-trump-booed-at-alabama-rally-after-telling-supporters-to-take-the-vaccines.md",
+      "title": "Donald Trump booed at Alabama rally after telling supporters to 'take the vaccines'",
+      "excerpt": "Amid the state's low vaccination rate, former President Donald Trump told a rally to go get vaccinated against COVID-19, which some booed.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2021/08/23/donald-trump-tells-alabama-rally-covid-19-vaccine-gets-booed/8237487002/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/08/23/donald-trump-tells-alabama-rally-covid-19-vaccine-gets-booed/8237487002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 439,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/08/22/USAT/9aef22b6-661a-487a-9438-89b679f37137-GTY_1335520712.jpg?auto=webp&crop=3688,2075,x0,y187&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/8237487002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/8237487002",
+      "publishedDateTime": "2021-08-23T12:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Arizona Republic",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-08-24-byron-yorks-daily-memo-a-national-eye-opening-on-joe-biden.md",
+      "title": "Byron York's Daily Memo: A national eye-opening on Joe Biden",
+      "excerpt": "Welcome to Byron York's Daily Memo newsletter. Was this email forwarded to you? Sign up here to receive the newsletter. A NATIONAL EYE-OPENING ON JOE BIDEN. Just one month ago, President Biden's job approval rating,",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonexaminer.com/opinion/byron-yorks-daily-memo-a-national-eye-opening-on-joe-biden",
+      "originalUrl": "https://www.washingtonexaminer.com/opinion/byron-yorks-daily-memo-a-national-eye-opening-on-joe-biden",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mediadc.brightspotcdn.com/dims4/default/24831ae/2147483647/strip/true/crop/1060x600+0+0/resize/1060x600!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2F1b%2Fdd%2F5520d8a2407eb68282a5cf5f8e59%2Fdaily-memo-default-1060x600.png",
+          "width": 1060,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonexaminer.com/opinion/byron-yorks-daily-memo-a-national-eye-opening-on-joe-biden?_amp=true",
+      "cdnAmpWebUrl": "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/opinion/byron-yorks-daily-memo-a-national-eye-opening-on-joe-biden?_amp=true",
+      "publishedDateTime": "2021-08-23T10:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Examiner",
+        "domain": "washingtonexaminer.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonexaminer.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-08-24-thiessen-biden-handed-terrorists-a-safe-haven-to-plan-attacks-worse-than-911.md",
       "title": "Thiessen: Biden handed terrorists a 'safe haven' to plan attacks worse than 9/11",
       "excerpt": "Fox News contributor Marc Thiessen told “America's Newsroom” that Biden has given radical Islamic terrorists, including Al-Qaeda, the tools they need to conduct attacks potentially deadlier than 9/11.",
@@ -785,512 +1298,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-08-22-donald-trumps-save-america-rally-packs-farm-near-cullman.md",
-      "title": "Donald Trump’s ‘Save America’ Rally Packs Farm Near Cullman",
-      "excerpt": "The former president of the United States fired up supporters Saturday night, criticizing the Biden administration’s handling of COVID-19, the troop withdrawal in Afghanistan and more.",
-      "sourceUrl": null,
-      "webUrl": "https://wbhm.org/feature/2021/donald-trumps-save-america-rally-packs-farm-near-cullman/",
-      "originalUrl": "https://wbhm.org/feature/2021/donald-trumps-save-america-rally-packs-farm-near-cullman/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wbhm.org/wp-content/uploads/2021/08/Phillips_screen_shot-771x397.png",
-          "width": 771,
-          "height": 397,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wbhm.org/feature/2021/donald-trumps-save-america-rally-packs-farm-near-cullman/amp/",
-      "cdnAmpWebUrl": "https://wbhm-org.cdn.ampproject.org/c/s/wbhm.org/feature/2021/donald-trumps-save-america-rally-packs-farm-near-cullman/amp/",
-      "publishedDateTime": "2021-08-22T01:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WBHM",
-        "domain": "wbhm.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-08-22-tv-tonight-ruby-wax-revisits-her-time-with-donald-trump.md",
-      "title": "TV tonight: Ruby Wax revisits her time with Donald Trump",
-      "excerpt": "A nasty encounter with Donald Trump and much more in this entertaining new series. Plus: The Handmaid’s Tale ends. Here’s what to watch this evening",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/tv-and-radio/2021/aug/22/tv-tonight-ruby-wax-revisits-her-time-with-donald-trump",
-      "originalUrl": "https://www.theguardian.com/tv-and-radio/2021/aug/22/tv-tonight-ruby-wax-revisits-her-time-with-donald-trump",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 325,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/c78a9408605f7845ddde71a741616a328447b218/0_86_576_346/master/576.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=2cb092b89b4594a163269520a996506c",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/tv-and-radio/2021/aug/22/tv-tonight-ruby-wax-revisits-her-time-with-donald-trump",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/tv-and-radio/2021/aug/22/tv-tonight-ruby-wax-revisits-her-time-with-donald-trump",
-      "publishedDateTime": "2021-08-21T21:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-08-22-stubborn-joe-biden-just-wouldnt-listen-goodwin.md",
-      "title": "Stubborn Joe Biden just wouldn’t listen: Goodwin",
-      "excerpt": "President Biden’s leftist ideology is costing American and Afghan lives in Kabul after ignoring crucial warnings from the US embassy — and now the terrorists are more powerful than",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/08/21/stubborn-joe-biden-just-wouldnt-listen-goodwin/",
-      "originalUrl": "https://nypost.com/2021/08/21/stubborn-joe-biden-just-wouldnt-listen-goodwin/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/08/BIdenAfghan.jpg?quality=90&strip=all&w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/08/21/stubborn-joe-biden-just-wouldnt-listen-goodwin/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/21/stubborn-joe-biden-just-wouldnt-listen-goodwin/amp/",
-      "publishedDateTime": "2021-08-21T19:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-22-more-than-half-of-kinzingers-gop-primary-challengers-believe-trump-won-the-2020-election.md",
-      "title": "More than half of Kinzinger's GOP primary challengers believe Trump won the 2020 election",
-      "excerpt": "Even though allegations of widespread fraud in the 2020 presidential election haven't been substantiated, four conservatives challenging Republican U.S. Rep. Adam Kinzinger for his congressional seat insist Donald Trump actually won reelection.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailyherald.com/news/20210821/more-than-half-of-kinzingers-gop-primary-challengers-believe-trump-won-the-2020-election",
-      "originalUrl": "https://www.dailyherald.com/news/20210821/more-than-half-of-kinzingers-gop-primary-challengers-believe-trump-won-the-2020-election",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dailyherald.com/storyimage/DA/20210821/news/210829838/AR/0/AR-210829838.jpg&updated=202108211740&MaxW=800&MaxH=800&noborder",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailyherald.com/amp-article/20210821/news/210829838/",
-      "cdnAmpWebUrl": "https://www-dailyherald-com.cdn.ampproject.org/c/s/www.dailyherald.com/amp-article/20210821/news/210829838/",
-      "publishedDateTime": "2021-08-21T14:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Herald",
-        "domain": "dailyherald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-08-21-west-virginia-ag-sues-biden-admin-over-border-policy-reversal-tied-to-devastating-fentanyl-flow.md",
-      "title": "West Virginia AG sues Biden admin over border policy reversal tied to ‘devastating’ fentanyl flow",
-      "excerpt": "West Virginia Attorney General Patrick Morrisey is suing the Biden administration over a key immigration policy reversal he says has fueled a \"devastating\" flow in the deadly drug fentanyl.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/npPxVxOGCok/west-virginia-ag-sues-biden-admin-border-policy-reversal-fentanyl-flow",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/npPxVxOGCok/west-virginia-ag-sues-biden-admin-border-policy-reversal-fentanyl-flow",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 162,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3e49d999-9f92-4efd-9c58-05c385460bbe/0a6e795f-feac-429f-bb80-82dff9edf5b3/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/west-virginia-ag-sues-biden-admin-border-policy-reversal-fentanyl-flow.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/west-virginia-ag-sues-biden-admin-border-policy-reversal-fentanyl-flow.amp",
-      "publishedDateTime": "2021-08-21T14:09:15-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-21-pence-aide-blames-stephen-miller-for-devastating-visa-system-for-afghans.md",
-      "title": "Pence aide blames Stephen Miller for 'devastating' visa system for Afghans",
-      "excerpt": "WASHINGTON – A former aide to former Vice President Mike Pence blamed racist views of a top Trump administration official for the inability of many translators and other allies to get out of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2021/08/21/mike-pence-aide-blames-stephen-miller-wrecking-afghan-visa-system/8228495002/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/08/21/mike-pence-aide-blames-stephen-miller-wrecking-afghan-visa-system/8228495002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2019/11/13/USAT/53207fad-8816-4697-bd9b-a3dd79d8e3f3-VPC_STEPHEN_MILLER_DESK_THUMB.00_00_52_15.Still001.jpg?auto=webp&crop=1911,1075,x8,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/8228495002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/8228495002",
-      "publishedDateTime": "2021-08-21T09:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-08-21-trump-heads-to-alabama-but-his-covid-politics-are-everywhere.md",
-      "title": "Trump heads to Alabama but his Covid politics are everywhere",
-      "excerpt": "Former President Donald Trump still towers over the GOP, and he's set to appear Saturday at an Alabama rally. And ambitious Republicans eyeing future White House bids are increasingly emulating his brand of confrontational, fact-challenged politics on Covid. \n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Q-1mjuxIa5o/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Q-1mjuxIa5o/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 235,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210811193752-trump-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/08/21/politics/what-matters-august-20/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/21/politics/what-matters-august-20/index.html",
-      "publishedDateTime": "2021-08-21T04:52:40-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-21-donald-trump-endorses-ex-nevada-ag-adam-laxalt-for-senate.md",
-      "title": "Donald Trump endorses ex-Nevada AG Adam Laxalt for Senate",
-      "excerpt": "The endorsement, released Friday night, comes days after former Nevada Attorney General Adam Laxalt officially announced his candidacy for U.S. Senate.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reviewjournal.com/news/politics-and-government/nevada/donald-trump-endorses-ex-nevada-ag-adam-laxalt-for-senate-2424479/",
-      "originalUrl": "https://www.reviewjournal.com/news/politics-and-government/nevada/donald-trump-endorses-ex-nevada-ag-adam-laxalt-for-senate-2424479/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reviewjournal.com/wp-content/uploads/2021/08/15507549_web1_trumplaxalt2018.jpg?w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.reviewjournal.com/news/politics-and-government/nevada/donald-trump-endorses-ex-nevada-ag-adam-laxalt-for-senate-2424479/amp/",
-      "cdnAmpWebUrl": "https://www-reviewjournal-com.cdn.ampproject.org/c/s/www.reviewjournal.com/news/politics-and-government/nevada/donald-trump-endorses-ex-nevada-ag-adam-laxalt-for-senate-2424479/amp/",
-      "publishedDateTime": "2021-08-20T19:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Las Vegas Review-Journal",
-        "domain": "reviewjournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-08-21-harris-to-campaign-for-gov-gavin-newsom-in-california-after-vietnam-singapore-trip.md",
-      "title": "Harris to campaign for Gov. Gavin Newsom in California after Vietnam, Singapore trip",
-      "excerpt": "Vice President Kamala Harris will be making a campaign pit-stop in California next week to support Gov. Gavin Newsom in his race to overcome the recall election.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ty3BtETzYUg/harris-to-campaign-for-newsom-in-california-after-vietnam-singapore-trip",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ty3BtETzYUg/harris-to-campaign-for-newsom-in-california-after-vietnam-singapore-trip",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 278,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8495bcff-9b88-4652-a881-c8b9c0e8662d/db7b172a-bb2e-43bc-b3a6-5ac1f6dcf567/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/harris-to-campaign-for-newsom-in-california-after-vietnam-singapore-trip.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-to-campaign-for-newsom-in-california-after-vietnam-singapore-trip.amp",
-      "publishedDateTime": "2021-08-20T18:10:57-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-08-20-republicans-torch-white-house-for-claiming-biden-never-shies-away-from-questions.md",
-      "title": "Republicans torch White House for claiming Biden never 'shies away' from questions",
-      "excerpt": "GOP lawmakers are smashing Biden over White House communications director Kate Bedingfield’s Friday claim that the president does not turn away from questions.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/rs35_dacLko/republicans-torch-white-house-claim-biden-never-shies-away-questions",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/rs35_dacLko/republicans-torch-white-house-claim-biden-never-shies-away-questions",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 189,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/25684f3a-65f3-4e86-999a-f1deb767a447/82c540db-f631-4b89-9efc-17f0257f7e3f/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/republicans-torch-white-house-claim-biden-never-shies-away-questions.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-torch-white-house-claim-biden-never-shies-away-questions.amp",
-      "publishedDateTime": "2021-08-20T09:02:33-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

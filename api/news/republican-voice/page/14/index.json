@@ -2,6 +2,222 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-06-09-police-did-not-clear-lafayette-square-so-trump-could-pose-for-photo-with-the-bible-ig-says.md",
+      "title": "Police did not clear Lafayette Square so Trump could pose for photo with the Bible, IG says",
+      "excerpt": "An Inspector General report found Wednesday that when law enforcement cleared Lafayette Park in front of the White House last June, security was the top priority – not a photo opportunity for Donald Trump.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/mJE38p4bS9g/police-did-not-clear-lafayette-square-so-trump-could-pose-for-photo-with-the-bible-report-says",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/mJE38p4bS9g/police-did-not-clear-lafayette-square-so-trump-could-pose-for-photo-with-the-bible-report-says",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/66fb34b2-88ee-4794-a45c-0dd47703dce0/d2addf7e-d6f7-4cd9-ad3a-c9109e8796c6/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/police-did-not-clear-lafayette-square-so-trump-could-pose-for-photo-with-the-bible-report-says.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/police-did-not-clear-lafayette-square-so-trump-could-pose-for-photo-with-the-bible-report-says.amp",
+      "publishedDateTime": "2021-06-09T14:49:28-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-09-biden-warns-climate-change-is-greatest-threat-to-us-security-this-is-not-a-joke.md",
+      "title": "Biden warns climate change is 'greatest threat' to US security: 'This is not a joke'",
+      "excerpt": "President Biden warned military servicemembers Wednesday that top Pentagon officials consider climate change to be the “greatest threat” to America’s national security in the coming years.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/7M06ZqB3w-I/biden-climate-change-greatest-threat-us-security",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/7M06ZqB3w-I/biden-climate-change-greatest-threat-us-security",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 168,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/66fb34b2-88ee-4794-a45c-0dd47703dce0/d2addf7e-d6f7-4cd9-ad3a-c9109e8796c6/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-climate-change-greatest-threat-us-security.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-climate-change-greatest-threat-us-security.amp",
+      "publishedDateTime": "2021-06-09T13:56:17-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-09-biden-waiving-nord-stream-2-pipeline-sanctions-puts-us-at-competitive-disadvantage-gop-leader-mccarthy.md",
+      "title": "Biden waiving Nord Stream 2 pipeline sanctions puts US at 'competitive disadvantage': GOP leader McCarthy",
+      "excerpt": "House Minority Leader Kevin McCarthy, R-Calif., ripped President Biden’s decision to waive sanctions on the Russia-backed Nord Stream 2 pipeline, arguing the move would hurt the U.S. economy and geopolitical interests.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/uei185eeHYA/biden-waiving-nord-stream-2-pipeline-sanctions-mccarthy",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/uei185eeHYA/biden-waiving-nord-stream-2-pipeline-sanctions-mccarthy",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 158,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9effcbb3-b713-47d7-bef3-5aa43c57b4d4/9fa727a2-00b4-4232-a155-442dc4e5f534/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-waiving-nord-stream-2-pipeline-sanctions-mccarthy.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-waiving-nord-stream-2-pipeline-sanctions-mccarthy.amp",
+      "publishedDateTime": "2021-06-09T13:14:21-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-10-trump-hosts-fundraiser-for-new-gop-chair-rep-elise-stefanik.md",
+      "title": "Trump hosts fundraiser for new GOP chair Rep. Elise Stefanik",
+      "excerpt": "Former President Donald Trump is hosting a fundraiser for upstate GOP Rep. Elise Stefanik at his golf course in Bedminster, New Jersey Wednesday night, the Post reveals.",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/06/09/donald-trump-hosting-fundraiser-for-ny-rep-elise-stefanik/",
+      "originalUrl": "https://nypost.com/2021/06/09/donald-trump-hosting-fundraiser-for-ny-rep-elise-stefanik/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/06/Elise-Stefanik.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/06/09/donald-trump-hosting-fundraiser-for-ny-rep-elise-stefanik/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/09/donald-trump-hosting-fundraiser-for-ny-rep-elise-stefanik/amp/",
+      "publishedDateTime": "2021-06-09T12:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-09-mollie-hemingway-calls-out-kamala-harris-nervous-laugh-when-facing-tough-questions.md",
       "title": "Mollie Hemingway calls out Kamala Harris' nervous laugh when facing tough questions",
       "excerpt": "The Federalist Senior Editor Mollie Hemingway said on Wednesday that Vice President Kamala Harris laughs “nervously” when challenged by journalists, reacting to an interview the former senator had with NBC journalist Lester Holt.",
@@ -1433,222 +1649,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-02-well-paid-aoc-dinged-after-posting-photo-of-grandmas-dilapidated-puerto-rico-home-and-blaming-trump.md",
-      "title": "Well-paid AOC dinged after posting photo of grandma's dilapidated Puerto Rico home and blaming Trump",
-      "excerpt": "Rep. Alexandria Ocasio-Cortez posted a photo of her grandmother’s Puerto Rico home in a state of disrepair in the aftermath of Hurricane Maria to demonstrate how the U.S. had blocked relief to the territory, but some questioned why she hadn’t offered to help repair the home herself.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/HZ4EpfCUyEo/aoc-photo-grandmothers-home-puerto-rico-trump-blocked-relief",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/HZ4EpfCUyEo/aoc-photo-grandmothers-home-puerto-rico-trump-blocked-relief",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 160,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/720/405/aoc.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/aoc-photo-grandmothers-home-puerto-rico-trump-blocked-relief.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aoc-photo-grandmothers-home-puerto-rico-trump-blocked-relief.amp",
-      "publishedDateTime": "2021-06-02T15:40:17-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-02-biden-to-talk-again-with-capito-on-friday-to-try-to-forge-infrastructure-deal.md",
-      "title": "Biden to talk again with Capito on Friday to try to forge 'infrastructure' deal",
-      "excerpt": "President Biden and Sen. Shelley Moore Capito, R-W.Va., had a \"constructive\" meeting Wednesday at the White House in their effort to forge a bipartisan deal on infrastructure spending and intend to talk again Friday, according to the Biden Administration.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2JTaKEdBdKs/biden-to-meet-again-with-capito-on-friday-to-try-to-forge-infrastructure-deal",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2JTaKEdBdKs/biden-to-meet-again-with-capito-on-friday-to-try-to-forge-infrastructure-deal",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 211,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/340/340/Marisa-Schultz.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-to-meet-again-with-capito-on-friday-to-try-to-forge-infrastructure-deal.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-to-meet-again-with-capito-on-friday-to-try-to-forge-infrastructure-deal.amp",
-      "publishedDateTime": "2021-06-02T15:25:49-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-02-mueller-to-help-teach-trump-russia-probe-class-at-uva-law-school.md",
-      "title": "Mueller to help teach Trump Russia probe class at UVA law school",
-      "excerpt": "Former Justice Department special counsel Robert Mueller will “share lessons” from his investigation into Russian interference in the 2016 election and alleged ties to the Trump campaign during an upcoming course at the University of Virginia, the school announced Wednesday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/jpM6PGcCd-U/mueller-teach-trump-russia-probe-class-uva-law-school",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/jpM6PGcCd-U/mueller-teach-trump-russia-probe-class-uva-law-school",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 235,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2c6ca071-d18f-4c33-a6cf-b378aa7ae25e/f77d9b3d-75cc-48bd-87b1-80edc87ee04e/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/mueller-teach-trump-russia-probe-class-uva-law-school.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mueller-teach-trump-russia-probe-class-uva-law-school.amp",
-      "publishedDateTime": "2021-06-02T13:53:07-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-02-ex-trump-adviser-michael-flynn-endorses-fernando-mateo-for-mayor.md",
-      "title": "Ex-Trump adviser Michael Flynn endorses Fernando Mateo for mayor",
-      "excerpt": "Former Trump national security advisor Michael Flynn is endorsing Fernando Mateo in the Republican primary for mayor.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/06/02/ex-trump-advisor-michael-flynn-endorses-fernando-mateo-for-mayor/",
-      "originalUrl": "https://nypost.com/2021/06/02/ex-trump-advisor-michael-flynn-endorses-fernando-mateo-for-mayor/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/06/Mateo.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/06/02/ex-trump-advisor-michael-flynn-endorses-fernando-mateo-for-mayor/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/02/ex-trump-advisor-michael-flynn-endorses-fernando-mateo-for-mayor/amp/",
-      "publishedDateTime": "2021-06-02T09:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

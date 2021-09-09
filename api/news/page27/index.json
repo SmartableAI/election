@@ -2,6 +2,481 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2021-07-10-cpac-trump-jr-calls-biden-dolt-gloats-that-stripper-stormy-daniels-lawyer-is-going-to-prison.md",
+      "title": "CPAC: Trump Jr. calls Biden ‘dolt,’ gloats that stripper Stormy Daniels’ lawyer is going to prison",
+      "excerpt": "Calling the president who ousted his dad a “dolt” whose aides reward him with ice cream when he doesn’t fumble his lines, Donald Trump Jr.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dallasnews.com/news/politics/2021/07/09/cpac-trump-jr-calls-biden-dolt-gloats-that-stripper-stormy-daniels-lawyer-is-going-to-prison/",
+      "originalUrl": "https://www.dallasnews.com/news/politics/2021/07/09/cpac-trump-jr-calls-biden-dolt-gloats-that-stripper-stormy-daniels-lawyer-is-going-to-prison/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/zCa1Ca2zlW4bmCcsYI3SU8riwQQ=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/HLGM5BHIYRGMROO3EYOIRXRYUU.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dallasnews.com/news/politics/2021/07/09/cpac-trump-jr-calls-biden-dolt-gloats-that-stripper-stormy-daniels-lawyer-is-going-to-prison/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/news/politics/2021/07/09/cpac-trump-jr-calls-biden-dolt-gloats-that-stripper-stormy-daniels-lawyer-is-going-to-prison/?outputType=amp",
+      "publishedDateTime": "2021-07-09T16:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dallas Morning News",
+        "domain": "dallasnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-07-09-donald-trump-jr-says-hell-be-very-involved-on-2022-campaign-trail.md",
+      "title": "Donald Trump Jr. says he’ll be ‘very involved’ on 2022 campaign trail",
+      "excerpt": "Donald Trump Jr. pledges he’ll be “everywhere” in the 2022 midterms, as the Republicans aim to win back the majorities in the House and Senate.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Use9cAtS-rw/trump-jr-says-hell-be-very-involved-on-2022-campaign-trail",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Use9cAtS-rw/trump-jr-says-hell-be-very-involved-on-2022-campaign-trail",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/07/DonaldTrumpJr-CPAC-Dallas.jpg",
+          "width": 1194,
+          "height": 718,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-09T15:28:24-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-09-biden-fires-social-security-commissioner-andrew-saul-who-says-he-isnt-leaving.md",
+      "title": "Biden fires Social Security Commissioner Andrew Saul, who says he isn't leaving",
+      "excerpt": "President Biden fired Social Security Commissioner Andrew Saul on Friday amid an ongoing dispute over his leadership of the independent agency responsible for administering retirement and disability benefits.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/opT7wAUS-YM/biden-fires-social-security-commissioner-andrew-saul",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/opT7wAUS-YM/biden-fires-social-security-commissioner-andrew-saul",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 191,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1faec23e-7f7d-40d8-994d-78cb65174268/9d242ef5-c1ea-423d-872d-10d8308323e4/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-fires-social-security-commissioner-andrew-saul.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-fires-social-security-commissioner-andrew-saul.amp",
+      "publishedDateTime": "2021-07-09T15:27:42-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-09-los-angeles-mayor-garcetti-tapped-by-biden-to-be-ambassador-to-india.md",
+      "title": "Los Angeles Mayor Garcetti tapped by Biden to be ambassador to India",
+      "excerpt": "President Biden is looking to Los Angeles Mayor Eric Garcetti to be the next U.S. ambassador to India.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1Yj2mocpjK0/los-angeles-mayor-garcetti-biden-ambassador-india",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1Yj2mocpjK0/los-angeles-mayor-garcetti-biden-ambassador-india",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/07/720/405/AP21183567372792-e1625868017453.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/los-angeles-mayor-garcetti-biden-ambassador-india.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/los-angeles-mayor-garcetti-biden-ambassador-india.amp",
+      "publishedDateTime": "2021-07-09T15:17:17-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-10-trump-headlines-fundraiser-for-nys-republican-party.md",
+      "title": "Trump headlines fundraiser for NYS Republican Party",
+      "excerpt": "Former President Donald Trump is headlining an Aug. 5 fundraiser for the New York State Republican Party. The ticket asking price is $1,000 to attend the reception, $5,000 for the reception and a Trump photo op and $25,",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/07/09/trump-headlines-fundraiser-for-nys-republican-party/",
+      "originalUrl": "https://nypost.com/2021/07/09/trump-headlines-fundraiser-for-nys-republican-party/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/07/trump-headling-republican-fundraiser-03.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/07/09/trump-headlines-fundraiser-for-nys-republican-party/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/09/trump-headlines-fundraiser-for-nys-republican-party/amp/",
+      "publishedDateTime": "2021-07-09T14:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-10-more-competition-biden-signs-order-targeting-big-business.md",
+      "title": "More competition: Biden signs order targeting big business",
+      "excerpt": "President Joe Biden has signed an executive order that targets what he says are anticompetitive practices in tech, health care and other parts of the economy",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Business/wireStory/biden-set-sign-competition-order-targeting-big-business-78753294",
+      "originalUrl": "https://abcnews.go.com/Business/wireStory/biden-set-sign-competition-order-targeting-big-business-78753294",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 325,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/WireAP_a7e2d33918c74bc9a985b5ab24747cce_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Business/wireStory/biden-set-sign-competition-order-targeting-big-business-78753294",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/biden-set-sign-competition-order-targeting-big-business-78753294",
+      "publishedDateTime": "2021-07-09T14:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-07-09-fact-check-trumps-nonsensical-op-ed-on-his-lawsuit-against-social-media-companies.md",
+      "title": "Fact check: Trump's nonsensical op-ed on his lawsuit against social media companies",
+      "excerpt": "He keeps saying it. It's still wrong.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/eloNEH1ujfs/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/eloNEH1ujfs/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 189,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210708152736-trump-lecturn-social-media-lawsuit-presser-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/09/politics/fact-check-trump-op-ed-social-media-wall-street-journal/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/09/politics/fact-check-trump-op-ed-social-media-wall-street-journal/index.html",
+      "publishedDateTime": "2021-07-09T14:02:35-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-09-biden-tells-putin-to-disrupt-ransomware-groups-operating-out-of-russia.md",
+      "title": "Biden tells Putin to 'disrupt' ransomware groups operating out of Russia",
+      "excerpt": "President Biden told Russian President Vladimir Putin on Friday to “disrupt” ransomware groups operating out of Russia amid another series of attacks this week.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/s1nv30Fa4AM/biden-tells-putin-to-disrupt-ransomware-groups-operating-out-of-russia",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/s1nv30Fa4AM/biden-tells-putin-to-disrupt-ransomware-groups-operating-out-of-russia",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 194,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1faec23e-7f7d-40d8-994d-78cb65174268/9d242ef5-c1ea-423d-872d-10d8308323e4/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-tells-putin-to-disrupt-ransomware-groups-operating-out-of-russia.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-tells-putin-to-disrupt-ransomware-groups-operating-out-of-russia.amp",
+      "publishedDateTime": "2021-07-09T13:59:22-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-10-joe-biden-urges-vladimir-putin-to-take-action-against-ransomware-hackers.md",
+      "title": "Joe Biden urges Vladimir Putin to ‘take action’ against ransomware hackers",
+      "excerpt": "Joe Biden warned Vladimir Putin that Russia would face consequences if it failed to act against hackers behind a spate of ransomware attacks, saying the US would take “any necessary action” to protect its people and infrastructure.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ft.com/content/6ba72aa0-53b7-40ff-89f0-0f4a64bf7cc2",
+      "originalUrl": "https://www.ft.com/content/6ba72aa0-53b7-40ff-89f0-0f4a64bf7cc2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 143,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fcffef3b2-c492-4f1a-9be1-d0f51eca2b41.jpg?source=google-amp&fit=scale-down&width=500",
+          "width": 500,
+          "height": 281,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.ft.com/content/6ba72aa0-53b7-40ff-89f0-0f4a64bf7cc2",
+      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/6ba72aa0-53b7-40ff-89f0-0f4a64bf7cc2",
+      "publishedDateTime": "2021-07-09T13:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Times",
+        "domain": "ft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/ft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-07-09-white-house-defends-hunter-bidens-art-selling-scheme-he-has-the-right-to-pursue-an-artistic-career.md",
       "title": "White House defends Hunter Biden's art selling scheme: 'He has the right to pursue an artistic career'",
       "excerpt": "The White House Friday defended a deal it brokered to allow Hunter Biden's artwork, which could be listed as high as $500,000 each, to sell to anonymous buyers and with no disclosure to the public. ",
@@ -867,479 +1342,6 @@
       "topics": [
         "Election",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-07-08-biden-changes-end-of-us-combat-mission-in-afghanistan-from-sept-11-to-aug-31.md",
-      "title": "Biden changes end of US combat mission in Afghanistan from Sept. 11 to Aug. 31",
-      "excerpt": "President Biden said U.S. troops will be out of Afghanistan sooner than his original Sept. 11 deadline, telling reporters Thursday U.S. forces will be home by Aug. 31. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/EbsmBJ_ceLE/biden-says-us-troops-will-be-out-of-afghanistan-by-august-31",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/EbsmBJ_ceLE/biden-says-us-troops-will-be-out-of-afghanistan-by-august-31",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 311,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/acfb444c-f839-4c69-9029-ea908694714b/298a5022-2e4c-40df-961e-d32a669c44c5/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-says-us-troops-will-be-out-of-afghanistan-by-august-31.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-says-us-troops-will-be-out-of-afghanistan-by-august-31.amp",
-      "publishedDateTime": "2021-07-08T11:41:26-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-09-trump-cia-chief-joins-king-spaldings-bench-of-us-agency-alums.md",
-      "title": "Trump CIA chief joins King & Spalding's bench of U.S. agency alums",
-      "excerpt": "King & Spalding continues to build up its ranks of former federal government officials, announcing Thursday that it has added former U.S. Central Intelligence Agency director Gina Haspel to its national security team in Washington,",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-industry-move-haspel/trump-cia-chief-joins-king-spaldings-bench-of-us-agency-alums-idUSKCN2EE28H",
-      "originalUrl": "https://www.reuters.com/article/us-industry-move-haspel/trump-cia-chief-joins-king-spaldings-bench-of-us-agency-alums-idUSKCN2EE28H",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/VPveDUxvYcx87z4iq_A_5QXttt8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/CGYQRWMDVBKW3IBFDGO2AUOBZI.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-08T10:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-08-kamala-harris-stepdaughter-ella-emhoff-makes-paris-fashion-week-debut-for-balenciaga.md",
-      "title": "Kamala Harris’ stepdaughter Ella Emhoff makes Paris fashion week debut for Balenciaga",
-      "excerpt": "Ella Emhoff made her inaugural appearance at Paris fashion week Wednesday, walking the runway for Balenciaga. The designer who mesmerized the fashion masses the day her stepmom Kamala Harris was sworn in as vice president modeled a flowing black cape over a chic double-breasted suit for a star-studded audience that included Joe Jonas,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nydailynews.com/snyde/ny-kamala-harris-stepdaughter-ella-emhoff-balenciaga-paris-fashion-show-20210708-u2k5f32b2nf2lemmetiyx3dzga-story.html",
-      "originalUrl": "https://www.nydailynews.com/snyde/ny-kamala-harris-stepdaughter-ella-emhoff-balenciaga-paris-fashion-show-20210708-u2k5f32b2nf2lemmetiyx3dzga-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.nydailynews.com/resizer/f39q3E6FBVS_VBbcfmSxVFRO-bo=/1200x0/center/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/SS7P5UKURRAIDKXGXUFXGCBQTU.jpg",
-          "width": 1200,
-          "height": 940,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nydailynews.com/snyde/ny-kamala-harris-stepdaughter-ella-emhoff-balenciaga-paris-fashion-show-20210708-u2k5f32b2nf2lemmetiyx3dzga-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/snyde/ny-kamala-harris-stepdaughter-ella-emhoff-balenciaga-paris-fashion-show-20210708-u2k5f32b2nf2lemmetiyx3dzga-story.html?outputType=amp",
-      "publishedDateTime": "2021-07-08T09:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Daily News",
-        "domain": "nydailynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-07-08-hannity-biden-called-georgia-voter-law-jim-crow-but-heres-the-truth-about-his-home-state.md",
-      "title": "Hannity: Biden called Georgia voter law 'Jim Crow' but here's the truth about his home state",
-      "excerpt": "Sean Hannity, host of \"Hannity,\" slammed President Joe Biden and the left for now supporting a push for voter ID laws. Hannity pointed out Wednesday that if Democrats want to be taken seriously, then Democrat-run states such as Delaware,",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/hannity-biden-delaware-democrats-voter-restrictions",
-      "originalUrl": "https://www.foxnews.com/media/hannity-biden-delaware-democrats-voter-restrictions",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/hannity-biden-delaware-democrats-voter-restrictions.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/hannity-biden-delaware-democrats-voter-restrictions.amp",
-      "publishedDateTime": "2021-07-08T09:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-08-lara-trump-crt-teaches-us-to-judge-people-on-the-color-of-their-skin.md",
-      "title": "Lara Trump: CRT teaches us to 'judge people on the color of their skin'",
-      "excerpt": "Fox News contributor Lara Trump joined “Fox & Friends” Thursday, suggesting that critical race theory is teaching children to “judge people on the color of their skin” and stating it’s “dead wrong.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/lara-trump-crt-teaches-people-to-judge-people-on-skin-color",
-      "originalUrl": "https://www.foxnews.com/media/lara-trump-crt-teaches-people-to-judge-people-on-skin-color",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e2858645-f93e-4a1b-896c-77c9788113ae/8fdd5859-d6bc-4c75-8698-a5c38e1fe80f/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/lara-trump-crt-teaches-people-to-judge-people-on-skin-color.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/lara-trump-crt-teaches-people-to-judge-people-on-skin-color.amp",
-      "publishedDateTime": "2021-07-08T07:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-08-fact-check-photo-does-not-show-biden-kneeling-before-israeli-president-pledging-support.md",
-      "title": "Fact Check-Photo does not show Biden kneeling before Israeli President ‘pledging support’",
-      "excerpt": "A picture of U.S. President Joe Biden kneeling in front of outgoing Israeli President Reuven Rivlin and his chief of staff Rivka Ravitz has been mislabeled online. Some posts and articles have wrongly said he adopted the pose to “pledge unconditional support to",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/factcheck-biden-rivlin-idUSL2N2OK1CG",
-      "originalUrl": "https://www.reuters.com/article/factcheck-biden-rivlin-idUSL2N2OK1CG",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL2N2OK1CG",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL2N2OK1CG",
-      "publishedDateTime": "2021-07-08T06:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-07-08-trump-got-distracted-by-the-word-nuclear-during-a-bizarre-press-conference-about-his-latest-lawsuit.md",
-      "title": "Trump got distracted by the word 'nuclear' during a bizarre press conference about his latest lawsuit",
-      "excerpt": "\"We don't use the word 'nuclear.' I never used it, okay? I never used it ... That's called disinformation,\" he said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/video-donald-trump-nuclear-at-press-conference-2021-7",
-      "originalUrl": "https://www.businessinsider.com/video-donald-trump-nuclear-at-press-conference-2021-7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 130,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/60e6f5c4c03e9c0018ab26cd?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/video-donald-trump-nuclear-at-press-conference-2021-7?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/video-donald-trump-nuclear-at-press-conference-2021-7?amp",
-      "publishedDateTime": "2021-07-08T06:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-08-biden-to-speak-on-afghanistan-amid-us-troop-withdrawal-and-taliban-gains.md",
-      "title": "Biden to speak on Afghanistan amid US troop withdrawal and Taliban gains",
-      "excerpt": "President Joe Biden will receive an update Thursday on the swiftly concluding war in Afghanistan, where a near-complete withdrawal of American troops is coinciding with major Taliban gains.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Xcs9xcRkeaM/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Xcs9xcRkeaM/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 294,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210705123635-03-bagram-air-base-0705-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/08/politics/biden-afghanistan-speech/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/08/politics/biden-afghanistan-speech/index.html",
-      "publishedDateTime": "2021-07-08T04:34:13-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-08-mark-zuckerberg-and-sheryl-sandbergs-partnership-did-not-survive-trump.md",
-      "title": "Mark Zuckerberg and Sheryl Sandberg’s Partnership Did Not Survive Trump",
-      "excerpt": "The company they built is wildly successful. But her Washington wisdom didn’t hold up, and neither did their close working relationship.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/07/08/business/mark-zuckerberg-sheryl-sandberg-facebook.html",
-      "originalUrl": "https://www.nytimes.com/2021/07/08/business/mark-zuckerberg-sheryl-sandberg-facebook.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/07/08/business/08facebook-web-illo/08facebook-web-illo-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/07/08/business/mark-zuckerberg-sheryl-sandberg-facebook.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/08/business/mark-zuckerberg-sheryl-sandberg-facebook.amp.html",
-      "publishedDateTime": "2021-07-08T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     }
   ],

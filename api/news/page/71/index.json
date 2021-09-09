@@ -2,6 +2,384 @@
   "page": 71,
   "value": [
     {
+      "path": "_news/2021-04-12-arkansas-governor-says-divisive-trump-attacks-on-gop-officials-are-unhelpful.md",
+      "title": "Arkansas governor says 'divisive' Trump attacks on GOP officials are 'unhelpful'",
+      "excerpt": "on Sunday said he was concerned about the divisions in the GOP and criticized former President Trump Donald Trump Harry Reid reacts to Boehner book excerpt: 'We didn't mince words' Man arrested ...",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/news-by-subject/other/547608-arkansas-governor-says-divisive-trump-attacks-on-gop-officials-are",
+      "originalUrl": "https://thehill.com/news-by-subject/other/547608-arkansas-governor-says-divisive-trump-attacks-on-gop-officials-are",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 140,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/hutchinsonasa_getty_03252021.jpg",
+          "width": 788,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/news-by-subject/other/547608-arkansas-governor-says-divisive-trump-attacks-on-gop-officials-are?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/news-by-subject/other/547608-arkansas-governor-says-divisive-trump-attacks-on-gop-officials-are?amp",
+      "publishedDateTime": "2021-04-11T15:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-04-11-arizona-ag-its-important-kamala-harris-health-sec-becerra-visit-border-amid-immigration-crisis.md",
+      "title": "Arizona AG: 'It's important' Kamala Harris, Health Sec. Becerra visit border amid immigration crisis",
+      "excerpt": "Arizona Attorney General Mark Brnovich discusses the developing immigration crisis at the border and further probes the Biden administration to act on it.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vnVRS3eLb8M/arizona-ag-urges-harris-health-sec-becerra-to-visit-border-amid-immigration-crisis-its-important",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vnVRS3eLb8M/arizona-ag-urges-harris-health-sec-becerra-to-visit-border-amid-immigration-crisis-its-important",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 210,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7acdbc98-6073-48cf-8025-8ec4a188febe/7cf9bca4-791b-4be6-93cc-2fedff7d2742/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/arizona-ag-urges-harris-health-sec-becerra-to-visit-border-amid-immigration-crisis-its-important.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/arizona-ag-urges-harris-health-sec-becerra-to-visit-border-amid-immigration-crisis-its-important.amp",
+      "publishedDateTime": "2021-04-11T11:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-04-12-as-riot-raged-pence-pleaded-with-the-military-to-clear-the-capitol.md",
+      "title": "As riot raged, Pence pleaded with the military to ‘clear the Capitol’",
+      "excerpt": "About two hours after a pro-Trump mob shattered windows and smashed doors to enter the Capitol on Jan. 6, then-Vice President Mike Pence called the acting defense secretary urgently seeki ...",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/04/11/pence-pleaded-with-the-military-to-clear-the-capitol/",
+      "originalUrl": "https://nypost.com/2021/04/11/pence-pleaded-with-the-military-to-clear-the-capitol/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/04/protest-pence-inset.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/04/11/pence-pleaded-with-the-military-to-clear-the-capitol/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/11/pence-pleaded-with-the-military-to-clear-the-capitol/amp/",
+      "publishedDateTime": "2021-04-11T10:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-11-texas-governor-biden-actions-on-guns-just-show.md",
+      "title": "Texas governor: Biden actions on guns just 'show'",
+      "excerpt": "Texas Gov. Greg Abbott (R) rejected the idea that firearm restrictions could be passed via executive order on Sunday while dismissing President Biden Joe Biden Biden eyes bigger US role in global ...",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/sunday-talk-shows/547574-texas-governor-biden-actions-on-guns-just-show",
+      "originalUrl": "https://thehill.com/homenews/sunday-talk-shows/547574-texas-governor-biden-actions-on-guns-just-show",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 205,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/abbottgreg_06182020getty.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/sunday-talk-shows/547574-texas-governor-biden-actions-on-guns-just-show?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/sunday-talk-shows/547574-texas-governor-biden-actions-on-guns-just-show?amp",
+      "publishedDateTime": "2021-04-11T08:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-04-11-arkansas-gop-governor-says-trumps-attacks-on-party-leaders-are-divisive-and-not-helpful.md",
+      "title": "Arkansas' GOP governor says Trump's attacks on party leaders are 'divisive' and 'not helpful'",
+      "excerpt": "Arkansas' Republican governor on Sunday knocked former President Donald Trump's recent attacks on top party leaders as \"divisive\" and unhelpful for elected GOP officials around the country.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/o7T_JXaGRbk/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/o7T_JXaGRbk/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210321132131-asa-hutchinson-sotu-intv-3-21-21-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/11/politics/asa-hutchinson-trump-attacks-republican-party-cnntv/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/11/politics/asa-hutchinson-trump-attacks-republican-party-cnntv/index.html",
+      "publishedDateTime": "2021-04-11T08:26:28-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-11-buttigieg-biden-wants-real-progress-on-infrastructure-plan-by-memorial-day.md",
+      "title": "Buttigieg: Biden wants 'real progress' on infrastructure plan by Memorial Day",
+      "excerpt": "Transportation Secretary Pete Buttigieg on Sunday defended the Biden administration's broad definition of infrastructure in the American Jobs Plan, saying President Joe Biden is still aiming for Republican support for the plan while looking for progress on it by Memorial Day.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/slr5Hufw6lA/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/slr5Hufw6lA/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 192,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210409090427-01-pete-buttigieg-0330-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/11/politics/buttigieg-infrastructure-biden-memorial-day-cnntv/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/11/politics/buttigieg-infrastructure-biden-memorial-day-cnntv/index.html",
+      "publishedDateTime": "2021-04-11T08:22:49-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-11-sen-thune-not-afraid-of-a-fight-if-trump-backs-a-challenger-in-2022.md",
+      "title": "Sen Thune not 'afraid of a fight' if Trump backs a challenger in 2022",
+      "excerpt": "Sen. John Thune, R-S.D., said that he is not \"afraid of a fight\" if former President Donald Trump campaigns against him in 2022 after being labeled a \"weak and inneffective RINO\" by him earlier in the year. \"I've been through wars in South Dakota ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/politics/john-thune-donald-trump-2022-senate",
+      "originalUrl": "https://www.foxnews.com/politics/john-thune-donald-trump-2022-senate",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Thune-Trump.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/john-thune-donald-trump-2022-senate.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/john-thune-donald-trump-2022-senate.amp",
+      "publishedDateTime": "2021-04-11T08:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-11-clyburn-offers-manchin-history-lesson-to-clear-senate-path-for-biden-reforms.md",
       "title": "Clyburn offers Manchin history lesson to clear Senate path for Biden reforms",
       "excerpt": "said on Sunday he intends to give Joe Manchin a lesson in US history as he attempts to clear a path for Joe Biden on voting rights and infrastructure. Pelosi and Cheney critical of Gaetz but stop short of calling for resignation Manchin, a moderate ...",
@@ -979,379 +1357,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-09-trump-says-prince-philips-death-is-irreplaceable-loss-for-great-britain.md",
-      "title": "Trump says Prince Philip's death is 'irreplaceable loss for Great Britain'",
-      "excerpt": "Former President Donald Trump remembered the late Prince Philip on Friday as \"a man who embodied the noble soul and proud spirit\" of the United Kingdom.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/B066RT089tM/trump-prince-philip-irreplaceable-loss-great-britain",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/B066RT089tM/trump-prince-philip-irreplaceable-loss-great-britain",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 193,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/queenphilip.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-prince-philip-irreplaceable-loss-great-britain.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-prince-philip-irreplaceable-loss-great-britain.amp",
-      "publishedDateTime": "2021-04-09T11:33:35-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-09-bidens-budget-wish-list-850m-for-central-america-aid-36b-for-poor-schools.md",
-      "title": "Biden's Budget Wish List: $850M for Central America Aid, $36B for Poor Schools",
-      "excerpt": "President Joe Biden is set to release his first budget wish list before members of Congress return next week, giving insight into his policy agenda and marking his stark departure from former President Donald Trump's priorities. Included in the proposal ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/bidens-budget-wish-list-850m-central-america-aid-36b-poor-schools-1582466",
-      "originalUrl": "https://www.newsweek.com/bidens-budget-wish-list-850m-central-america-aid-36b-poor-schools-1582466",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1775021/joe-biden.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/bidens-budget-wish-list-850m-central-america-aid-36b-poor-schools-1582466?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/bidens-budget-wish-list-850m-central-america-aid-36b-poor-schools-1582466?amp=1",
-      "publishedDateTime": "2021-04-09T09:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-04-09-trump-officials-celebrated-efforts-to-change-cdc-reports-on-coronavirus-emails-show.md",
-      "title": "Trump officials celebrated efforts to change CDC reports on coronavirus, emails show",
-      "excerpt": "Political appointees also tried to blunt scientific findings they deemed unfavorable to Trump, according to new documents from House probe",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/health/2021/04/09/cdc-covid-political-interference/",
-      "originalUrl": "https://www.washingtonpost.com/health/2021/04/09/cdc-covid-political-interference/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 138,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AD36FQXW2QI6VBPXLFARRCUYZU.jpg&w=1440",
-          "width": 1440,
-          "height": 990,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/health/2021/04/09/cdc-covid-political-interference/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/2021/04/09/cdc-covid-political-interference/?outputType=amp",
-      "publishedDateTime": "2021-04-09T09:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-04-09-biden-sets-up-commission-to-study-expansion-of-supreme-court-live.md",
-      "title": "Biden sets up commission to study expansion of supreme court – live",
-      "excerpt": "Updated at 1.18pm EDT Buttigieg said he hadn’t met with Senator Joe Manchin, a conservative Democrat who is opposed to Biden’s plan to raise the corporate tax rate from 21% to 28%. He prefers a rate of 25%. Buttigieg wouldn’t say how the lower rate ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/live/2021/apr/09/joe-biden-us-politics-live-covid-coronavirus-latest-updates?page=with:block-60707c538f088c820d861f0d",
-      "originalUrl": "https://www.theguardian.com/us-news/live/2021/apr/09/joe-biden-us-politics-live-covid-coronavirus-latest-updates?page=with:block-60707c538f088c820d861f0d",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 585,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/1e6c9b9c790347030e8c43b8c08c58dfda96e8d1/0_0_4500_3000/master/4500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=cb9cf14684e5c64e087f4e257a823f6f",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2021/apr/09/joe-biden-us-politics-live-covid-coronavirus-latest-updates",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/09/joe-biden-us-politics-live-covid-coronavirus-latest-updates",
-      "publishedDateTime": "2021-04-09T09:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-04-09-white-house-blames-error-after-biden-campaign-fundraising-page-linked-on-gov-website.md",
-      "title": "White House blames 'error' after Biden campaign fundraising page linked on .gov website",
-      "excerpt": "The White House said Thursday that a link to a page on the Biden campaign website in the WhiteHouse.gov fact sheet for the president's $2 trillion-plus spending plan was put there in error. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/tu_TRhW1f8o/white-house-biden-campaign-fundraising-link-gov-website",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/tu_TRhW1f8o/white-house-biden-campaign-fundraising-link-gov-website",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 187,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/white-house-biden-campaign-fundraising-link-gov-website.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-biden-campaign-fundraising-link-gov-website.amp",
-      "publishedDateTime": "2021-04-09T09:09:55-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-09-biden-administration-reveals-first-2022-budget-request-15-trillion-in-discretionary-funding.md",
-      "title": "Biden administration reveals first 2022 budget request: $1.5 trillion in discretionary funding",
-      "excerpt": "The Biden administration on Friday sent Congress its first budget request for the 2022 fiscal year, outlining a set of priorities including funding for medical research, education, housing, civil rights, combating gun violence, tackling climate change and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/biden-budget-request-discretionary-funding/",
-      "originalUrl": "https://www.cbsnews.com/news/biden-budget-request-discretionary-funding/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews3.cbsistatic.com/hub/i/r/2021/04/08/8ce16aee-fe28-4b74-a2f8-5e091f99d5d6/thumbnail/1200x630/eb7537e8543836c4309b4bc04c54c1ee/cbsn-fusion-biden-set-to-unveil-executive-actions-addressing-gun-violence-thumbnail-687952-640x360.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/biden-budget-request-discretionary-funding/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-budget-request-discretionary-funding/",
-      "publishedDateTime": "2021-04-09T08:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-04-09-mike-pence-memoir-could-define-him-for-2024-but-donald-trump-looms-large.md",
-      "title": "Mike Pence Memoir Could Define Him for 2024, but Donald Trump Looms Large",
-      "excerpt": "Mike Pence has an opportunity to guide the narrative of his political career thus far with his upcoming memoir. And with the first of two parts due for release in 2023, the book is perfectly timed for a potential presidential run the next year. However ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/mike-pence-memoir-define-2024-donald-trump-looms-1582227",
-      "originalUrl": "https://www.newsweek.com/mike-pence-memoir-define-2024-donald-trump-looms-1582227",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 2409,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1774301/mike-pence-georgia.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/mike-pence-memoir-define-2024-donald-trump-looms-1582227?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mike-pence-memoir-define-2024-donald-trump-looms-1582227?amp=1",
-      "publishedDateTime": "2021-04-09T07:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
-        "Donald Trump"
       ]
     }
   ],

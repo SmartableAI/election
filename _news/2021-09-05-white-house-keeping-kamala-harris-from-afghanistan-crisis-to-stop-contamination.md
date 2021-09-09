@@ -9,7 +9,7 @@ ampWebUrl: "https://www.telegraph.co.uk/world-news/2021/09/05/white-house-keepin
 cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/world-news/2021/09/05/white-house-keeping-kamala-harris-afghanistan-crisis-stop-contamination/amp/"
 type: article
 quality: 70
-heat: 130
+heat: 110
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://i.dailymail.co.uk/1s/2021/09/08/07/47640795-0-image-a-9_1631080935223.jpg"
         width: 636
         height: 382
-        isCached: true
-  - title: "This simple advice from Kamala Harris will make you a better public speaker"
-    excerpt: "The vice president has, several times, offered smart, assuring words to nervous workers and students that this communications coach says are spot-on."
-    publishedDateTime: 2021-09-03T14:00:00Z
-    webUrl: "https://www.fastcompany.com/90670190/this-simple-advice-from-kamala-harris-will-make-you-a-better-public-speaker"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 53
-    images:
-      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2021/09/p-1-this-simple-advice-from-kamala-harris-will-make-you-a-better-public-speaker.png"
-        width: 1280
-        height: 720
         isCached: true
   - title: "With Kamala Harris laying low, CNN responds with hard-hitting piece asking where’s Melania?"
     excerpt: "With Vice President Kamala Harris conspicuously laying low as the ceiling falls in on boss President Joe Biden for his disastrous management of the Afghanistan exit, CNN found a great way to divert attention. Almost as if the network suddenly called out ..."

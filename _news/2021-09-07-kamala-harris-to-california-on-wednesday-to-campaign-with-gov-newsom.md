@@ -125,6 +125,15 @@ related:
       name: Lexington Herald Leader
       domain: kentucky.com
     quality: 55
+  - title: "U.S. VP Harris Rallies for California Governor Facing Recall"
+    excerpt: "U.S. Vice President Kamala Harris speaks during an appearance with California Governor Gavin Newsom, who is facing a Republican-led recall election in September, in San Leandro, California, U.S., September 8,"
+    publishedDateTime: 2021-09-08T20:48:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-09-08/us-vp-harris-rallies-for-california-governor-facing-recall"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "xPfYdewjWkwEADtuBVHtDkBciuNZpKyHI8u8P+zg7RKYVzYzi/XN0REHjqIhvMNCn1tN1GNoxkj0zF6giOxvvCfMEilCFSS7CNg96/ulrRf/ayTPcT5mVCmsbl1PEvgVHIDARApscuvoISBvvHIQozm2s1Y57Tqai6/jGdCwMiwsblcCaeerfyiyhLUq5wOFhqxs9qC6keWm9LEZ/m/Unmsk/U1DdXoEUoiD5fjG0WPJzNXJITAgls8ZRrO5dVMR5SyiwgJFgJdU2eVt4n5J+tpubwwgLp3oq/WzHqiKq+r5aFGWkKrPuBk5NuHW8IhbQ8LKeEVlo3h5QjBO9h/P6VQ0VIonobAreS07e0avAMJPSW9+zQHUN/f9xMfj/1/Cr1ixW1tjv7u4QHSelR5I80/J6LwtoEdxxurXad8kXHJUNmkvM9n33c9OdQWGcox0jjshTNj56p+S20EXPmQK2PwqgR10Ye0VEYqp8MWo2Gn4VUla3IshizahqOwszPTmaeQw8/K+A02JRTrFemAULg==;GXS1WYcta4Fb0cbeb4ZyNA=="
 ---

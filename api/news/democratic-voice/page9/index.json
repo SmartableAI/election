@@ -2,6 +2,62 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-05-30-for-biden-the-white-house-is-a-monday-through-friday-kind-of-place.md",
+      "title": "For Biden, the White House is 'a Monday-through-Friday kind of place'",
+      "excerpt": "Beginning in 1973, when he was a United States Senator from Delaware, Joe Biden had a ritual: nearly every evening he would hop a train back to Wilmington after his work day on Capitol Hill, spending most nights and weekends at the place he considered home, 100 miles from Washington.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ktY8gcR-aO0/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ktY8gcR-aO0/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210529191117-01-joe-biden-camp-david-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/30/politics/biden-white-house-weekends-away-wilmington/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/30/politics/biden-white-house-weekends-away-wilmington/index.html",
+      "publishedDateTime": "2021-05-30T05:54:34-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-05-28-these-attacks-are-despicable-biden-condemns-rise-in-anti-semitic-incidents.md",
       "title": "'These attacks are despicable': Biden condemns rise in anti-Semitic incidents",
       "excerpt": "President Joe Biden on Friday condemned the rise in anti-Semitic attacks across the country in recent weeks, saying the incidents are \"despicable, unconscionable, un-American, and they must stop.\"\n    \n",
@@ -1610,62 +1666,6 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/20/politics/joe-biden-benjamin-netanyahu/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/20/politics/joe-biden-benjamin-netanyahu/index.html",
       "publishedDateTime": "2021-05-20T07:29:08-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-20-house-gop-revolt-against-trump-sets-up-tough-senate-battle-on-january-6-probe.md",
-      "title": "House GOP revolt against Trump sets up tough Senate battle on January 6 probe",
-      "excerpt": "Thirty-five House Republicans chose the truth and American democracy over Donald Trump's personality cult. Now their Senate colleagues face the same battle of conscience over the effort to investigate the Capitol insurrection.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/L-vLpdc8J3Y/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/L-vLpdc8J3Y/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 212,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210519123436-mcconnell-gop-0518-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/20/politics/house-january-6-probe-senate/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/20/politics/house-january-6-probe-senate/index.html",
-      "publishedDateTime": "2021-05-19T23:58:16-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",

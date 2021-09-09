@@ -57,20 +57,6 @@ related:
         width: 600
         height: 336
         isCached: true
-  - title: "Watch live: President Joe Biden to address storm devastated region from LaPlace"
-    excerpt: "President Joe Biden arrived in the storm devastated region on Friday to see the damage caused by Hurricane Ida first hand. He is scheduled to make remarks this afternoon from LaPlace. Watch Biden's remarks live in the player below. Can't see the video?"
-    publishedDateTime: 2021-09-03T19:53:00Z
-    webUrl: "https://www.nola.com/news/article_a5abc5bc-0cf0-11ec-9097-a72190939a4f.html"
-    type: article
-    provider:
-      name: NOLA.com
-      domain: nola.com
-    quality: 51
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/nola.com/content/tncms/assets/v3/editorial/d/c3/dc398d03-b1ad-5e9c-a416-76ef41dd07f3/61326f876679f.image.jpg?resize=1034%2C630"
-        width: 1034
-        height: 630
-        isCached: true
   - title: "Biden surveys Hurricane Ida storm damage in New York and New Jersey after deadly flooding"
     excerpt: "Pointing accusingly at climate change, President Joe Biden toured deadly Northeast flood damage Tuesday and said he was thinking about the all families who suffered"
     publishedDateTime: 2021-09-07T17:26:00Z

@@ -2,6 +2,233 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-07-02-biden-calls-top-donor-nea-one-of-americas-indispensable-organizations.md",
+      "title": "Biden calls top donor NEA ‘one of America’s indispensable organizations’",
+      "excerpt": "President Biden said Friday that the National Education Association (NEA), the nation’s largest labor union, is “one of America’s indispensable organizations.” The group was a particularly generous donor of his presidential campaign.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ei1PlfrxGtM/biden-top-donor-nea-indispensable",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ei1PlfrxGtM/biden-top-donor-nea-indispensable",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 174,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/07/720/405/biden-4.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-top-donor-nea-indispensable.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-top-donor-nea-indispensable.amp",
+      "publishedDateTime": "2021-07-02T15:38:07-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-03-clay-travis-dismisses-nothingburger-charges-against-trump-org-cfo-this-is-the-best-they-can-do.md",
+      "title": "Clay Travis dismisses 'nothingburger' charges against Trump Org CFO: 'This is the best they can do'",
+      "excerpt": "Radio host Clay Travis called the charges against Trump Organization Chief Financial Officer Allen Weisselberg a “nothingburger” on Thursday and the overall investigation another “swing and a miss” against former President Donald Trump.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/clay-travis-dismisses-nothing-burger-charges-against-trump-org-cfo",
+      "originalUrl": "https://www.foxnews.com/media/clay-travis-dismisses-nothing-burger-charges-against-trump-org-cfo",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 141,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/592eace2-e215-4882-96a9-b69d47e7bb36/7cb2f01f-d69c-4f5b-9f07-09b1a6a428b0/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/clay-travis-dismisses-nothing-burger-charges-against-trump-org-cfo.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/clay-travis-dismisses-nothing-burger-charges-against-trump-org-cfo.amp",
+      "publishedDateTime": "2021-07-02T11:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-03-ari-fleischer-challenges-bidens-victory-lap-on-economy-hes-a-trojan-horse-with-a-script.md",
+      "title": "Ari Fleischer challenges Biden's victory lap on economy: He's a 'Trojan horse with a script'",
+      "excerpt": "Former White House press secretary Ari Fleischer called out President Biden Friday for taking a victory lap on the better-than-expected June jobs report and crediting his administration's economic agenda for the strongest hiring gain in 10 months.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/ari-fleischer-biden-economy-trojan-horse-with-script",
+      "originalUrl": "https://www.foxnews.com/media/ari-fleischer-biden-economy-trojan-horse-with-script",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4a64119f-1abd-4346-98e2-1b3ff777a05f/a790245a-7083-4465-b173-0a834fc862fe/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/ari-fleischer-biden-economy-trojan-horse-with-script.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/ari-fleischer-biden-economy-trojan-horse-with-script.amp",
+      "publishedDateTime": "2021-07-02T11:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-02-democrats-concerned-harris-couldnt-beat-a-gop-nominee-even-if-trump-report.md",
+      "title": "Democrats concerned Harris couldn't beat a GOP nominee, even if Trump: report",
+      "excerpt": "Democrats, including some Biden administration officials, are reportedly so concerned about Vice President Kamala Harris’ missteps that they don’t believe she could beat a Republican in 2024 if she were to be the nominee – even if her opponent was former President Donald Trump. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/6LCQ6NCtCkE/democrats-harris-gop-nominee-2024",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/6LCQ6NCtCkE/democrats-harris-gop-nominee-2024",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 837,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/06/720/405/KAMALAHARRIS-BORDER-TRUMPVISIT.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/democrats-harris-gop-nominee-2024.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/democrats-harris-gop-nominee-2024.amp",
+      "publishedDateTime": "2021-07-02T10:18:40-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-07-02-trump-riddles-followers-with-strong-message-who-shot-ashli-babbitt.md",
       "title": "Trump riddles followers with strong message: ‘Who shot Ashli Babbitt?’",
       "excerpt": "Former President Donald Trump fired off a message to his followers that asks for the cop who fatally shot a woman during the Capitol Building siege.",
@@ -1414,234 +1641,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-26-biden-doj-lawsuit-over-georgia-election-law-may-backfire-legal-scholar-jonathan-turley-says.md",
-      "title": "Biden DOJ lawsuit over Georgia election law may backfire, legal scholar Jonathan Turley says",
-      "excerpt": "Attorney General Merrick Garland announced that the Department of Justice is suing the state of Georgia over their passing of a law to ensure election integrity and security.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/doj-to-sue-georgia-over-election-law",
-      "originalUrl": "https://www.foxnews.com/media/doj-to-sue-georgia-over-election-law",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9b322aa6-f05f-41e2-bdec-bf2815e5ac7f/f042989d-e00f-4606-9f34-ca68309067bc/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/doj-to-sue-georgia-over-election-law.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/doj-to-sue-georgia-over-election-law.amp",
-      "publishedDateTime": "2021-06-26T08:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-26-nj-school-official-who-called-kamala-harris-street-walker-receives-no-confidence-vote-reports.md",
-      "title": "NJ school official who called Kamala Harris ‘street walker,’ receives ‘no confidence’ vote: reports",
-      "excerpt": "A school board member in New Jersey has received a \"no confidence\" vote from colleagues despite his apology for referring to Vice President Kamala Harris as a \"street walker,\" according to reports.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/cCz-LDOETcQ/nj-school-official-who-called-kamala-harris-street-walker-receives-no-confidence-vote-reports",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/cCz-LDOETcQ/nj-school-official-who-called-kamala-harris-street-walker-receives-no-confidence-vote-reports",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 171,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b75ff0ce-4753-4fbd-845f-4acf20881597/57d26767-91d3-4765-8a76-834bfe88bbf4/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/nj-school-official-who-called-kamala-harris-street-walker-receives-no-confidence-vote-reports.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nj-school-official-who-called-kamala-harris-street-walker-receives-no-confidence-vote-reports.amp",
-      "publishedDateTime": "2021-06-25T23:41:46-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-06-26-will-cain-biden-has-long-shown-an-instinct-toward-racism-as-the-left-seeks-it-like-a-trophy-hunt.md",
-      "title": "Will Cain: Biden has long shown an 'instinct toward racism' as the left seeks it like a 'trophy hunt'",
-      "excerpt": "President Joe Biden should be looking inward if he and the Democrats want to continue their campaign against systemic racism, \"Fox News Primetime\" host Will Cain said Friday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/will-cain-biden-instinct-toward-racism",
-      "originalUrl": "https://www.foxnews.com/media/will-cain-biden-instinct-toward-racism",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b3420308-ff6e-40bc-9682-f085957d4008/c9d83f60-37b3-4f78-a9ef-1192cf4e41ec/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/will-cain-biden-instinct-toward-racism.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/will-cain-biden-instinct-toward-racism.amp",
-      "publishedDateTime": "2021-06-25T17:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-26-michael-eric-dyson-apologizes-for-calling-trump-voters-maggots-claims-he-was-misunderstood.md",
-      "title": "Michael Eric Dyson apologizes for calling Trump voters 'maggots,' claims he was misunderstood",
-      "excerpt": "Liberal Vanderbilt University Professor Michael Eric Dyson offered a mea culpa for referring to Trump supporters as “maggots” while appearing on MSNBC.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/michael-eric-dyson-apology-trump-supporters-maggots",
-      "originalUrl": "https://www.foxnews.com/media/michael-eric-dyson-apology-trump-supporters-maggots",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/73ea95c8-dea6-410c-8d4f-b91b75eaf78a/5283d25b-3bc3-40fb-a7df-ffeaab241b39/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/michael-eric-dyson-apology-trump-supporters-maggots.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/michael-eric-dyson-apology-trump-supporters-maggots.amp",
-      "publishedDateTime": "2021-06-25T14:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

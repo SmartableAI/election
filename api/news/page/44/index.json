@@ -2,6 +2,439 @@
   "page": 44,
   "value": [
     {
+      "path": "_news/2021-06-09-biden-warns-climate-change-is-greatest-threat-to-us-security-this-is-not-a-joke.md",
+      "title": "Biden warns climate change is 'greatest threat' to US security: 'This is not a joke'",
+      "excerpt": "President Biden warned military servicemembers Wednesday that top Pentagon officials consider climate change to be the “greatest threat” to America’s national security in the coming years.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/7M06ZqB3w-I/biden-climate-change-greatest-threat-us-security",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/7M06ZqB3w-I/biden-climate-change-greatest-threat-us-security",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 168,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/66fb34b2-88ee-4794-a45c-0dd47703dce0/d2addf7e-d6f7-4cd9-ad3a-c9109e8796c6/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-climate-change-greatest-threat-us-security.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-climate-change-greatest-threat-us-security.amp",
+      "publishedDateTime": "2021-06-09T13:56:17-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-10-biden-declares-the-us-is-back-and-urges-democracies-to-stand-together.md",
+      "title": "Biden declares the ‘US is back’ and urges democracies to stand together",
+      "excerpt": "US president rings changes since Trump but has a serious message on Northern Ireland peace process",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/jun/09/biden-declares-the-us-is-back-and-urges-democracies-to-stand-together",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/jun/09/biden-declares-the-us-is-back-and-urges-democracies-to-stand-together",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 225,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/658deb3cdc010ed92f9507f4779d98587c280270/0_245_3080_1849/master/3080.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=acb307853f0aea9c68dcf33baf5e7382",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/jun/09/biden-declares-the-us-is-back-and-urges-democracies-to-stand-together",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/09/biden-declares-the-us-is-back-and-urges-democracies-to-stand-together",
+      "publishedDateTime": "2021-06-09T13:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-06-09-biden-waiving-nord-stream-2-pipeline-sanctions-puts-us-at-competitive-disadvantage-gop-leader-mccarthy.md",
+      "title": "Biden waiving Nord Stream 2 pipeline sanctions puts US at 'competitive disadvantage': GOP leader McCarthy",
+      "excerpt": "House Minority Leader Kevin McCarthy, R-Calif., ripped President Biden’s decision to waive sanctions on the Russia-backed Nord Stream 2 pipeline, arguing the move would hurt the U.S. economy and geopolitical interests.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/uei185eeHYA/biden-waiving-nord-stream-2-pipeline-sanctions-mccarthy",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/uei185eeHYA/biden-waiving-nord-stream-2-pipeline-sanctions-mccarthy",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 158,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9effcbb3-b713-47d7-bef3-5aa43c57b4d4/9fa727a2-00b4-4232-a155-442dc4e5f534/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-waiving-nord-stream-2-pipeline-sanctions-mccarthy.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-waiving-nord-stream-2-pipeline-sanctions-mccarthy.amp",
+      "publishedDateTime": "2021-06-09T13:14:21-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-09-watchdog-report-finds-park-police-did-not-clear-racial-injustice-protesters-from-lafayette-park-for-trumps-visit-to-st-johns-church-last-june.md",
+      "title": "Watchdog report finds Park Police did not clear racial injustice protesters from Lafayette Park for Trump's visit to St. John's Church last June",
+      "excerpt": "The US Park Police did not clear racial injustice protesters from Lafayette Park to allow for then-President Donald Trump's march to St. John's Church last June, but instead did so to allow a contractor to install a fence safely around the White House, according to a new inspector general report.\n  ",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fFWZCZU4lq8/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fFWZCZU4lq8/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 138,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200603172424-trump-group-walking-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/09/politics/park-police-lafayette-square-protesters-donald-trump-bible/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/09/politics/park-police-lafayette-square-protesters-donald-trump-bible/index.html",
+      "publishedDateTime": "2021-06-09T12:49:03-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-10-trump-hosts-fundraiser-for-new-gop-chair-rep-elise-stefanik.md",
+      "title": "Trump hosts fundraiser for new GOP chair Rep. Elise Stefanik",
+      "excerpt": "Former President Donald Trump is hosting a fundraiser for upstate GOP Rep. Elise Stefanik at his golf course in Bedminster, New Jersey Wednesday night, the Post reveals.",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/06/09/donald-trump-hosting-fundraiser-for-ny-rep-elise-stefanik/",
+      "originalUrl": "https://nypost.com/2021/06/09/donald-trump-hosting-fundraiser-for-ny-rep-elise-stefanik/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/06/Elise-Stefanik.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/06/09/donald-trump-hosting-fundraiser-for-ny-rep-elise-stefanik/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/09/donald-trump-hosting-fundraiser-for-ny-rep-elise-stefanik/amp/",
+      "publishedDateTime": "2021-06-09T12:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-09-mollie-hemingway-calls-out-kamala-harris-nervous-laugh-when-facing-tough-questions.md",
+      "title": "Mollie Hemingway calls out Kamala Harris' nervous laugh when facing tough questions",
+      "excerpt": "The Federalist Senior Editor Mollie Hemingway said on Wednesday that Vice President Kamala Harris laughs “nervously” when challenged by journalists, reacting to an interview the former senator had with NBC journalist Lester Holt.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/kamala-harris-nervous-laugh-tough-questions-border-hemingway",
+      "originalUrl": "https://www.foxnews.com/media/kamala-harris-nervous-laugh-tough-questions-border-hemingway",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d9eb52e3-ebd6-468a-906e-47779bf429e6/5abaec05-51d8-4fad-adf4-f8b47dee9050/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/kamala-harris-nervous-laugh-tough-questions-border-hemingway.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/kamala-harris-nervous-laugh-tough-questions-border-hemingway.amp",
+      "publishedDateTime": "2021-06-09T09:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-09-biden-swats-cicada-off-neck-before-europe-trip-watch-out.md",
+      "title": "Biden swats cicada off neck before Europe trip: 'Watch out'",
+      "excerpt": "President Biden on Wednesday morning swatted a cicada off his neck ahead of his trip to Europe for the G-7 Summit.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/46wfYcCqTJo/biden-cicada-europe-trip",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/46wfYcCqTJo/biden-cicada-europe-trip",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 215,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/aa8fd275-aad4-477a-8d33-5e20a2b720ff/5625d18c-715e-4ac0-96c1-deeeaff60369/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-cicada-europe-trip.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-cicada-europe-trip.amp",
+      "publishedDateTime": "2021-06-09T07:35:43-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-09-biden-revokes-trump-executive-orders-targeting-tiktok-and-wechat.md",
+      "title": "Biden revokes Trump executive orders targeting TikTok and WeChat",
+      "excerpt": "President Biden has revoked former President Trump’s executive orders that sought to ban downloads of the Chinese-owned apps TikTok and WeChat in the U.S., according to a fact sheet released by the White House Wednesday.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/policy/technology/557523-biden-revokes-trump-executive-orders-targeting-tiktok-and-wechat",
+      "originalUrl": "https://thehill.com/policy/technology/557523-biden-revokes-trump-executive-orders-targeting-tiktok-and-wechat",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 760,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/tiktok_082619istock.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/policy/technology/557523-biden-revokes-trump-executive-orders-targeting-tiktok-and-wechat?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/557523-biden-revokes-trump-executive-orders-targeting-tiktok-and-wechat?amp",
+      "publishedDateTime": "2021-06-09T07:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-06-09-hud-to-reinstate-obama-era-fair-housing-rule-gutted-under-trump-minus-the-burdensome-reporting-requirement.md",
       "title": "HUD to reinstate Obama-era fair housing rule gutted under Trump — minus the ‘burdensome’ reporting requirement",
       "excerpt": "Biden's housing department is restoring the requirement that communities take steps to reduce racial segregation or risk losing federal funds. But missing from the requirement is the 2015 mandate that communities undergo an extensive analysis of local barriers to integration and submit plans to dismantle them to the Department of Housing and Urban Development.",
@@ -915,447 +1348,6 @@
         "Election",
         "Kamala Harris",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-07-obama-reacts-to-rise-in-anti-semitism-says-trump-fanned-those-flames.md",
-      "title": "Obama reacts to rise in anti-Semitism, says Trump 'fanned those flames'",
-      "excerpt": "Former President Barack Obama is pointing to his successor as the reason for the rise in anti-Semitism in the United States. In an exclusive interview with Jewish Insider, Obama blamed said former President Donald Trump “fanned those flames\" during his tenure in office.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xAJLo3HclHs/obama-reacts-rise-antisemitism-trump-fanned-flames",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xAJLo3HclHs/obama-reacts-rise-antisemitism-trump-fanned-flames",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a2e4f9aa-47a8-4f80-9d23-fab0e07698c6/59c03c6e-b1f3-4809-b8f0-009b923c55ae/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/obama-reacts-rise-antisemitism-trump-fanned-flames.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/obama-reacts-rise-antisemitism-trump-fanned-flames.amp",
-      "publishedDateTime": "2021-06-07T16:07:38-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-07-white-house-says-biden-keeps-d-day-memory-close-to-his-heart-despite-anniversary-snub.md",
-      "title": "White House says Biden keeps D-Day memory 'close to his heart' despite anniversary snub",
-      "excerpt": "The White House on Monday defended President Biden after he failed to acknowledge the 77th anniversary of D-Day on Sunday, saying he values the role of the men and women who serve, and that his memory of them is \"close to his heart.\" ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/XlRfcUeL2uE/white-house-reaction-biden-d-day-anniversary-snub",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/XlRfcUeL2uE/white-house-reaction-biden-d-day-anniversary-snub",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 187,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/white-house-reaction-biden-d-day-anniversary-snub.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-reaction-biden-d-day-anniversary-snub.amp",
-      "publishedDateTime": "2021-06-07T11:55:05-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-07-biden-invites-ukrainian-president-to-white-house-in-july.md",
-      "title": "Biden invites Ukrainian President to White House in July",
-      "excerpt": "President Joe Biden has invited Ukrainian President Volodymyr Zelensky to visit the White House later this summer, national security adviser Jake Sullivan said on Monday.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_oXqNmX-U0w/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_oXqNmX-U0w/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 315,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210604105640-02-biden-remarks-on-economy-0604-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/07/politics/biden-zelensky-white-house-meeting/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/07/politics/biden-zelensky-white-house-meeting/index.html",
-      "publishedDateTime": "2021-06-07T11:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-08-a-refugee-agency-rebuilds-its-pipeline-after-trump-were-starting-from-scratch.md",
-      "title": "A refugee agency rebuilds its pipeline after Trump: 'We're starting from scratch'",
-      "excerpt": "RELATED: Faith-based refugee resettlement groups describe what it will take to rebuild program after Trump cuts Friends and family collected winter coats for the girl and dropped off a stack of Christmas presents.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/religion/a-refugee-agency-rebuilds-its-pipeline-after-trump-were-starting-from-scratch/2021/06/07/6f09ad1a-c7c4-11eb-8708-64991f2acf28_story.html",
-      "originalUrl": "https://www.washingtonpost.com/religion/a-refugee-agency-rebuilds-its-pipeline-after-trump-were-starting-from-scratch/2021/06/07/6f09ad1a-c7c4-11eb-8708-64991f2acf28_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-          "width": 1484,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/religion/a-refugee-agency-rebuilds-its-pipeline-after-trump-were-starting-from-scratch/2021/06/07/6f09ad1a-c7c4-11eb-8708-64991f2acf28_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/religion/a-refugee-agency-rebuilds-its-pipeline-after-trump-were-starting-from-scratch/2021/06/07/6f09ad1a-c7c4-11eb-8708-64991f2acf28_story.html?outputType=amp",
-      "publishedDateTime": "2021-06-07T11:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-08-fact-check-donald-trump-remains-suspended-from-facebook-instagram.md",
-      "title": "Fact check: Donald Trump remains suspended from Facebook, Instagram",
-      "excerpt": "An Instagram post claims Donald Trump's Facebook and Instagram accounts were restored as of June 2. That's false.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/factcheck/2021/06/07/fact-check-trump-facebook-and-instagram-accounts-still-suspended/7546944002/",
-      "originalUrl": "https://www.usatoday.com/story/news/factcheck/2021/06/07/fact-check-trump-facebook-and-instagram-accounts-still-suspended/7546944002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 205,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/05/26/USAT/c93bd3c4-8f04-4f46-b7af-39d711e7a971-AP_Trump_Russia_Probe.jpg?auto=webp&crop=5999,3375,x0,y305&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/7546944002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7546944002",
-      "publishedDateTime": "2021-06-07T11:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-07-trump-says-sen-manchin-doing-right-thing-by-saying-no-to-ending-the-filibuster.md",
-      "title": "Trump says Sen. Manchin 'doing right thing' by saying 'no' to ending the filibuster",
-      "excerpt": "Former President Donald Trump said he believes that U.S. Sen. Joe Manchin, D-W.Va., is “doing right thing” by saying “no” to ending the filibuster.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/YSj5PuUS6rE/trump-says-sen-manchin-doing-right-thing-by-saying-no-to-ending-the-filibuster",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/YSj5PuUS6rE/trump-says-sen-manchin-doing-right-thing-by-saying-no-to-ending-the-filibuster",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-says-sen-manchin-doing-right-thing-by-saying-no-to-ending-the-filibuster.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-says-sen-manchin-doing-right-thing-by-saying-no-to-ending-the-filibuster.amp",
-      "publishedDateTime": "2021-06-07T07:49:19-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-07-harris-faces-first-major-diplomatic-test.md",
-      "title": "Harris faces first major diplomatic test",
-      "excerpt": "Vice President Kamala Harris is facing the first major diplomatic test of her vice presidency as she looks to tackle the root causes of migration toward the US in her full day of meetings in Guatemala.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qHtO0gxp_74/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qHtO0gxp_74/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 425,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210527183402-kamala-harris-triangulo-norte-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/07/politics/kamala-harris-diplomatic-test/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/07/politics/kamala-harris-diplomatic-test/index.html",
-      "publishedDateTime": "2021-06-07T07:24:59-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-06-07-biden-has-paused-a-public-option-nevada-is-about-to-try-its-own.md",
-      "title": "Biden has paused a public option. Nevada is about to try its own. ",
-      "excerpt": "A federal public option isn't happening anytime soon, so Nevada officials are creating their own.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FQZlEXpJXOs/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FQZlEXpJXOs/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 475,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210604155418-02-steve-sisolak-file-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/07/politics/public-option-nevada-biden/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/07/politics/public-option-nevada-biden/index.html",
-      "publishedDateTime": "2021-06-07T04:18:43-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

@@ -2,6 +2,230 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-08-13-biden-backs-newsom-as-california-recall-election-looms-urges-residents-to-vote-no.md",
+      "title": "Biden backs Newsom as California recall election looms, urges residents to 'vote no'",
+      "excerpt": "President Joe Biden delivered his strongest endorsement to date for embattled Democratic Gov. Gavin Newsom on Thursday, urging Californians to reject an effort to recall the governor in an upcoming special election.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zNBK8tUn23w/biden-backs-newsom-california-recall-election",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zNBK8tUn23w/biden-backs-newsom-california-recall-election",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 283,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0f18efe6-404a-4e2c-b361-15a6d9a9bc12/671f0271-fb6b-47cd-b5e6-d2efaf051978/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-backs-newsom-california-recall-election.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-backs-newsom-california-recall-election.amp",
+      "publishedDateTime": "2021-08-12T18:49:48-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-08-13-biden-adviser-anita-dunn-leaves-the-white-house.md",
+      "title": "Biden adviser Anita Dunn leaves the White House",
+      "excerpt": "Top Biden adviser Anita Dunn is leaving her position at the White House",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/RZdpDdqjgVU/biden-adviser-anita-dunn-leaves-white-house",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/RZdpDdqjgVU/biden-adviser-anita-dunn-leaves-white-house",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 275,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3bd93983-0d45-4518-a3ae-8fdf28291a81/f1d5bc39-6a20-418b-8eab-9e12b6cdc361/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-adviser-anita-dunn-leaves-white-house.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-adviser-anita-dunn-leaves-white-house.amp",
+      "publishedDateTime": "2021-08-12T18:03:09-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-08-12-biden-said-in-july-taliban-overrunning-everything-was-highly-unlikely.md",
+      "title": "Biden said in July Taliban 'overrunning everything' was 'highly unlikely'",
+      "excerpt": "The Washington Post’s resident fact-checker dinged President Joe Biden on Thursday for claiming that it is “highly unlikely” the Taliban regains control of Afghanistan.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2BRsqAUCqhs/wapo-fact-checker-calls-out-biden-on-for-july-comment-saying-taliban-takeover-in-afghanistan-highly-unlikely",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2BRsqAUCqhs/wapo-fact-checker-calls-out-biden-on-for-july-comment-saying-taliban-takeover-in-afghanistan-highly-unlikely",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 174,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/554dc1ff-8f47-4c8c-b30c-e8f4e2e73a49/369a7538-7180-415c-848f-7ed1c3aa223b/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/wapo-fact-checker-calls-out-biden-on-for-july-comment-saying-taliban-takeover-in-afghanistan-highly-unlikely.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/wapo-fact-checker-calls-out-biden-on-for-july-comment-saying-taliban-takeover-in-afghanistan-highly-unlikely.amp",
+      "publishedDateTime": "2021-08-12T16:10:10-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-08-12-biden-epa-nominee-touted-defund-the-police-on-chinese-state-tv.md",
+      "title": "Biden EPA nominee touted ‘defund the police’ on Chinese state TV",
+      "excerpt": "President Biden’s controversial nominee for a leadership position at the EPA touted the “defund the police” movement during an appearance on Chinese state television last year.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/YoXnpKby1wM/biden-epa-nominee-touted-defund-the-police-on-chinese-state-tv",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/YoXnpKby1wM/biden-epa-nominee-touted-defund-the-police-on-chinese-state-tv",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b3ac8cfd-6cc0-4eab-8ee3-3a37e79ac5ab/2c2cc00c-5c03-457f-9374-f7cfdea369c1/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-epa-nominee-touted-defund-the-police-on-chinese-state-tv.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-epa-nominee-touted-defund-the-police-on-chinese-state-tv.amp",
+      "publishedDateTime": "2021-08-12T13:04:40-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-08-13-miranda-devine-kamala-harris-inches-closer-to-2024-and-dems-are-terrified.md",
       "title": "Miranda Devine: Kamala Harris inches closer to 2024 and Dems are terrified",
       "excerpt": "Wednesday that Kamala Harris was announced as Joe Biden’s running mate. That auspicious moment catapulted her into prime time, a heartbeat away from the Oval Office.",
@@ -1406,231 +1630,6 @@
         "Election",
         "Republican Voice",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-08-05-squad-backed-dem-jessica-cisneros-to-run-against-rep-cuellar-moderate-critical-of-biden-on-immigration.md",
-      "title": "'Squad'-backed Dem Jessica Cisneros to run against Rep. Cuellar, moderate critical of Biden on immigration",
-      "excerpt": "\"Squad\"-backed Texas Democrat Jessica Cisneros on Thursdsay announced that she will again run against Rep. Henry Cuellar in a primary, teeing up yet another battle between the moderate wing of the Democratic Party and its most progressive members.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vEdQFBEfJsw/squad-dem-jessica-cisneros-texas-primary-rep-henry-cuellar",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vEdQFBEfJsw/squad-dem-jessica-cisneros-texas-primary-rep-henry-cuellar",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/squad-dem-jessica-cisneros-texas-primary-rep-henry-cuellar.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/squad-dem-jessica-cisneros-texas-primary-rep-henry-cuellar.amp",
-      "publishedDateTime": "2021-08-05T08:41:51-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-05-biden-shields-hong-kong-immigrants-from-removal-citing-chinas-significant-erosion-of-rights.md",
-      "title": "Biden shields Hong Kong immigrants from removal, citing China's 'significant erosion' of rights",
-      "excerpt": "President Biden on Thursday signed a memo shielding residents of Hong Kong living in the U.S. from deportation for at least 18 months, citing the \"significant erosion\" of freedoms in the territory by the Chinese communist regime.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/cXEvkWwjteM/biden-hong-kong-immigrants-removal-erosion-rights-china",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/cXEvkWwjteM/biden-hong-kong-immigrants-removal-erosion-rights-china",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 163,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6c33b7e0-001d-4a0e-8e91-cc0189bc3f5b/2fe53756-18f9-4283-ba7b-76d927593c5d/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-hong-kong-immigrants-removal-erosion-rights-china.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-hong-kong-immigrants-removal-erosion-rights-china.amp",
-      "publishedDateTime": "2021-08-05T07:38:45-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-05-tara-reade-fires-back-after-jen-psaki-claims-biden-allegations-were-heavily-litigated-during-election.md",
-      "title": "Tara Reade fires back after Jen Psaki claims Biden allegations were 'heavily litigated' during election",
-      "excerpt": "Tara Reade, the former Senate staffer who alleged last year that Joe Biden sexually assaulted her in 1993, fired back at White House Press Secretary Jen Psaki claimed that the allegations made against the president were “heavily litigated” during the 2020 election cycle.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/tara-reade-jen-psaki-biden-allegations-cuomo",
-      "originalUrl": "https://www.foxnews.com/media/tara-reade-jen-psaki-biden-allegations-cuomo",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/217a58f3-a01e-4ac1-8f6d-dec17ec267fb/fce8c9ce-aef7-41f3-adbb-2a597c5e53dc/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/tara-reade-jen-psaki-biden-allegations-cuomo.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/tara-reade-jen-psaki-biden-allegations-cuomo.amp",
-      "publishedDateTime": "2021-08-04T19:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-05-biden-nominates-mark-brzezinski-to-be-ambassador-to-poland.md",
-      "title": "Biden nominates Mark Brzezinski to be ambassador to Poland",
-      "excerpt": "President Joe Biden has tapped former Obama administration diplomat Mark Brzezinski to serve ambassador to Poland.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/iU-Aem-yZ2U/biden-nominates-mark-brzezinski-to-be-ambassador-to-poland",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/iU-Aem-yZ2U/biden-nominates-mark-brzezinski-to-be-ambassador-to-poland",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ef36b715-903f-482b-9224-159a93080ef8/c8c9318c-73c7-47f0-8f01-d8ccf8f03424/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-nominates-mark-brzezinski-to-be-ambassador-to-poland.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-nominates-mark-brzezinski-to-be-ambassador-to-poland.amp",
-      "publishedDateTime": "2021-08-04T17:31:05-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

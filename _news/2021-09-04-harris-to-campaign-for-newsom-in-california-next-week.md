@@ -30,53 +30,21 @@ images:
     isCached: true
 
 related:
-  - title: "California Latino Caucus rebukes Harris for 'do not come' immigration warning"
-    excerpt: "California Latino lawmakers issued a statement Wednesday rebuking Vice President Kamala Harris’ controversial comments in El Salvador this week when she told “folks” from the northern triangle states \"Do not come.\""
-    publishedDateTime: 2021-06-10T01:53:01Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_wsHBOyti2Y/california-latino-caucus-rebuke-harris-for-immigration-warning-do-not-come"
-    ampWebUrl: "https://www.foxnews.com/politics/california-latino-caucus-rebuke-harris-for-immigration-warning-do-not-come.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/california-latino-caucus-rebuke-harris-for-immigration-warning-do-not-come.amp"
+  - title: "Harris accuses Texas Gov. Abbott of 'arrogantly' dismissing rape victims"
+    excerpt: "Vice President Kamala Harris opened up a speech supporting California Gov. Gavin Newsom against a recall effort by slamming Texas Gov. Greg Abbott and his state’s newly enacted law restricting abortions."
+    publishedDateTime: 2021-09-08T22:13:01Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XPudeoBAzzE/harris-slams-abbott-at-pro-newsom-rally-accuses-him-of-arrogantly-dismissing-rape-victims"
+    ampWebUrl: "https://www.foxnews.com/politics/harris-slams-abbott-at-pro-newsom-rally-accuses-him-of-arrogantly-dismissing-rape-victims.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-slams-abbott-at-pro-newsom-rally-accuses-him-of-arrogantly-dismissing-rape-victims.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 182
+    quality: 184
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bff910dc-4c2d-4082-9b97-da2cfa1ec6fa/8ecf015e-aae7-4cf0-b8fe-a84a924199c9/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/de97b5d5-9a48-4839-a8a4-d085340888e6/151303eb-e6ed-45a1-867c-254e4a3a3838/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
-        isCached: true
-  - title: "Tucker: Latin Americans tell Kamala Harris to 'buzz off'"
-    excerpt: "Imagine being Kamala Harris. You take your first big trip south of the border to what we used to call the developing world and you're pretty excited about it because you know that as a licensed person of color,"
-    publishedDateTime: 2021-06-10T12:08:00Z
-    webUrl: "https://www.foxnews.com/transcript/tucker-latin-americans-tell-kamala-harris-to-buzz-off"
-    ampWebUrl: "https://www.foxnews.com/transcript/tucker-latin-americans-tell-kamala-harris-to-buzz-off.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/tucker-latin-americans-tell-kamala-harris-to-buzz-off.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 135
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/114c6d14-1726-41cc-a875-7804de7ca375/7926c5fc-288a-4f7d-b5f1-01b0652e6bb2/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "VP Harris headed to California to help campaign for Gov. Newsom"
-    excerpt: "Harris has a public event scheduled with Newsom, who’s been accused of hypocrisy for imposing COVID-19 restrictions before treating himself to a mask-free indoor soiree."
-    publishedDateTime: 2021-09-08T16:19:00Z
-    webUrl: "https://nypost.com/2021/09/08/kamala-harris-headed-to-california-to-help-gov-gavin-newsom/"
-    ampWebUrl: "https://nypost.com/2021/09/08/kamala-harris-headed-to-california-to-help-gov-gavin-newsom/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/09/08/kamala-harris-headed-to-california-to-help-gov-gavin-newsom/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 135
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/09/kamala-gavin-ca-05.jpg?quality=90&strip=all&w=1024"
-        width: 1024
-        height: 682
         isCached: true
 
 secured: "xAKPDACj+rc2oqbPcpAj4ypV0HCKVwsTlZEhCj0bhCUjTaChYiJgrA+KUhjlo+19yf0MQjR32qub9lcBtMLZhit2Kp9x5WgcHmxpcD/7LYb9xQ9hikITL1E8R5/SnvvPA1uj985WAiHUUbVZ9h4YTW2j0z4f9wVCWgN7hpql19Q9qRmILykwR8JOa2zNYqBgpmckiNcz2frI2Vyb0/BInUq7AC8xDa/oT9xFlN07gGFSsaWSpRxEpFQ0XPGvs70/1Gmidy3yHbtdSxAxnjjfShIAvirlv49zLMU2LUCOxAdl/eVXBULL5vuXSb/hgODwVYsKRFftMtDBhBVyiD6Zw2EvCP6ABLPTH0R7bAMbzIY=;7stJZtIPPQniBZ7Htiwn4Q=="

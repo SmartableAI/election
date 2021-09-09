@@ -2320,6 +2320,22 @@ related:
         width: 590
         height: 350
         isCached: true
+  - title: "Biden administration begins removing Trump appointees from military academy boards"
+    excerpt: "Following the Pentagon's decision to eject former Trump officials, the Biden administration let go of those appointed to certain advisory boards."
+    publishedDateTime: 2021-09-08T23:37:00Z
+    webUrl: "https://www.azcentral.com/story/news/politics/2021/09/08/biden-tells-trump-appointees-military-academy-boards-resign/5776909001/"
+    ampWebUrl: "https://amp.azcentral.com/amp/5776909001"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/5776909001"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 84
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/08/24/USAT/fd3f91cf-9bf7-4ebb-bd48-f4970f2a38b5-VPC_KELLYANNE_CONWAY_LEAVES_WHITE_HOUSE_DESK_THUMB.jpg?auto=webp&crop=1911,1075,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Hear how Putin compared Donald Trump to Joe Biden"
     excerpt: "In an interview with NBC, Russian President Vladimir Putin discussed the relationship between his country and the US, and compared President Biden to his predecessor Donald Trump. CNN's Kaitlan Collin"
     publishedDateTime: 2021-06-11T23:09:00Z
@@ -2770,6 +2786,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Biden ousts 18 Trump military academy board appointees"
+    excerpt: "The Biden administration on Wednesday removed 18 appointees named to U.S. military academy boards by Donald Trump in the final months of the Republican president's term in office, according to the White House."
+    publishedDateTime: 2021-09-09T01:46:00Z
+    webUrl: "https://lasvegassun.com/news/2021/sep/08/biden-ousts-18-trump-military-academy-board-appoin/"
+    type: article
+    provider:
+      name: Las Vegas Sun
+      domain: lasvegassun.com
+    quality: 60
   - title: "Biden Plays Golf For First Time As President, Months After Trump Played His First Round As POTUS"
     excerpt: "In 2014, while he was vice-president, Biden joked that running for president could potentially hurt his golf game. “If you want to keep your handicap in golf don’t run for pre"
     publishedDateTime: 2021-04-18T17:14:00Z

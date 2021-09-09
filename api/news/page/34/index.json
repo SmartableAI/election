@@ -2,6 +2,439 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2021-06-29-mike-lindell-urges-scotus-to-immediately-reinstate-trump-and-get-rid-of-communists.md",
+      "title": "Mike Lindell Urges SCOTUS to 'Immediately' Reinstate Trump and 'Get Rid of Communists'",
+      "excerpt": "\"They don't even have to deliberate and say, 'what do you think of the evidence?'\" Lindell said while predicting the Supreme Court would reinstate Trump.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/mike-lindell-urges-scotus-immediately-reinstate-trump-get-rid-communists-1604957",
+      "originalUrl": "https://www.newsweek.com/mike-lindell-urges-scotus-immediately-reinstate-trump-get-rid-communists-1604957",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1832394/mike-lindell-donald-trump-supreme-court-communists.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/mike-lindell-urges-scotus-immediately-reinstate-trump-get-rid-communists-1604957?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mike-lindell-urges-scotus-immediately-reinstate-trump-get-rid-communists-1604957?amp=1",
+      "publishedDateTime": "2021-06-28T14:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-06-29-obama-says-trump-violated-core-tenet-of-democracy-with-election-hooey-live.md",
+      "title": "Obama says Trump violated ‘core tenet’ of democracy with election ‘hooey’ – live",
+      "excerpt": "Former president condemns Donald Trump’s election lies – follow all the day’s politics news live",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/live/2021/jun/28/trump-books-biden-latest-live-news?page=with:block-60da4c8a8f08a0630603cff8",
+      "originalUrl": "https://www.theguardian.com/us-news/live/2021/jun/28/trump-books-biden-latest-live-news?page=with:block-60da4c8a8f08a0630603cff8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/636c8e0d3df07afb8f27096332f486ae80835303/0_81_1402_841/master/1402.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=550dec7f6a3f0da6099387db3501f346",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2021/jun/28/trump-books-biden-latest-live-news",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/28/trump-books-biden-latest-live-news",
+      "publishedDateTime": "2021-06-28T14:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-06-29-biden-calls-for-federal-investigation-into-miami-condo-collapse-live.md",
+      "title": "Biden calls for federal investigation into Miami condo collapse – live",
+      "excerpt": "White House spokeswoman says Biden keen for inquiry to take place, with 10 people confirmed to have died – follow all the day’s politics news live",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/live/2021/jun/28/trump-books-biden-latest-live-news?page=with:block-60da1dd98f08a0630603cdb3",
+      "originalUrl": "https://www.theguardian.com/us-news/live/2021/jun/28/trump-books-biden-latest-live-news?page=with:block-60da1dd98f08a0630603cdb3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 545,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/636c8e0d3df07afb8f27096332f486ae80835303/0_81_1402_841/master/1402.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=550dec7f6a3f0da6099387db3501f346",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2021/jun/28/trump-books-biden-latest-live-news",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/28/trump-books-biden-latest-live-news",
+      "publishedDateTime": "2021-06-28T11:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-06-28-speaker-trump-he-will-need-to-secure-an-absolute-majority-in-the-house.md",
+      "title": "Speaker Trump? He will need to secure an absolute majority in the House",
+      "excerpt": "It’s unclear if former President Trump will again run for the Oval Office in 2024.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/R0ZESDn5eyE/donald-trump-speaker-of-the-house-chances",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/R0ZESDn5eyE/donald-trump-speaker-of-the-house-chances",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 315,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/340/340/PergramNewPic-e1538074445253.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/donald-trump-speaker-of-the-house-chances.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/donald-trump-speaker-of-the-house-chances.amp",
+      "publishedDateTime": "2021-06-28T11:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-29-eric-bolling-a-trump-ally-is-set-to-host-a-new-cable-show-on-newsmax.md",
+      "title": "Eric Bolling, a Trump ally, is set to host a new cable show on Newsmax.",
+      "excerpt": "Like myself, Newsmax is concerned with the direction that Big Tech and Big Corporate Media have taken journalism and our nation,” Mr. Bolling said in a statement.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/06/28/business/media/eric-bolling-newsmax.html",
+      "originalUrl": "https://www.nytimes.com/2021/06/28/business/media/eric-bolling-newsmax.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/06/28/business/28economy-briefing-bolling/28economy-briefing-bolling-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/06/28/business/media/eric-bolling-newsmax.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/28/business/media/eric-bolling-newsmax.amp.html",
+      "publishedDateTime": "2021-06-28T10:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-28-bidens-frantic-weekend-saves-infrastructure-deal-but-leaves-him-on-thinner-political-ice.md",
+      "title": "Biden's frantic weekend saves infrastructure deal but leaves him on thinner political ice",
+      "excerpt": "That Joe Biden's cherished bipartisan infrastructure plan was nearly destroyed by a few of his own ill-chosen words highlights both the fragility of the deal and his own hopes for a productive domestic presidency.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Nr8W8lRWC7w/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Nr8W8lRWC7w/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 226,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210627200716-joe-biden-0625-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/28/politics/joe-biden-republicans-infrastructure-iraq-congress-aoc/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/28/politics/joe-biden-republicans-infrastructure-iraq-congress-aoc/index.html",
+      "publishedDateTime": "2021-06-28T04:08:33-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-28-adam-kinzinger-blames-kevin-mccarthy-for-resurrecting-trumps-election-lies.md",
+      "title": "Adam Kinzinger Blames Kevin McCarthy for Resurrecting Trump's Election Lies",
+      "excerpt": "Kinzinger said the House minority leader had \"resurrected\" Donald Trump politically after first denouncing the former president in the aftermath of the Capitol riot.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/adam-kinzinger-blames-kevin-mccarthy-resurrecting-trumps-election-lies-1604600",
+      "originalUrl": "https://www.newsweek.com/adam-kinzinger-blames-kevin-mccarthy-resurrecting-trumps-election-lies-1604600",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 178,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1831487/rep-adam-kinzinger-talks-reporters.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/adam-kinzinger-blames-kevin-mccarthy-resurrecting-trumps-election-lies-1604600?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/adam-kinzinger-blames-kevin-mccarthy-resurrecting-trumps-election-lies-1604600?amp=1",
+      "publishedDateTime": "2021-06-28T02:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-06-28-biden-orders-airstrikes-against-facilities-used-by-iran-backed-militia-groups.md",
+      "title": "Biden orders airstrikes against facilities used by Iran-backed militia groups",
+      "excerpt": "President Joe Biden directed military forces to conduct defensive precision airstrikes against facilities used by Iran-backed militia groups in the Iraq-Syria border region on Sunday evening, according to a news release from the Department of Defense.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SVjyuK2Ys_Q/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SVjyuK2Ys_Q/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 232,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210623230340-01-joe-biden-0623-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/27/politics/us-airstrikes-iran-backed-militia-groups/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/27/politics/us-airstrikes-iran-backed-militia-groups/index.html",
+      "publishedDateTime": "2021-06-27T18:42:59-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-27-trumps-big-lie-about-2020-results-suffers-legal-and-political-blows-in-key-swing-states.md",
       "title": "Trump's big lie about 2020 results suffers legal and political blows in key swing states",
       "excerpt": "It was a bad week for the Big Lie -- former President Donald Trump and his allies' false claims that widespread fraud is to blame for his 2020 election loss.\n    \n",
@@ -925,440 +1358,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-06-26-michael-eric-dyson-apologizes-for-calling-trump-voters-maggots-claims-he-was-misunderstood.md",
-      "title": "Michael Eric Dyson apologizes for calling Trump voters 'maggots,' claims he was misunderstood",
-      "excerpt": "Liberal Vanderbilt University Professor Michael Eric Dyson offered a mea culpa for referring to Trump supporters as “maggots” while appearing on MSNBC.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/michael-eric-dyson-apology-trump-supporters-maggots",
-      "originalUrl": "https://www.foxnews.com/media/michael-eric-dyson-apology-trump-supporters-maggots",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/73ea95c8-dea6-410c-8d4f-b91b75eaf78a/5283d25b-3bc3-40fb-a7df-ffeaab241b39/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/michael-eric-dyson-apology-trump-supporters-maggots.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/michael-eric-dyson-apology-trump-supporters-maggots.amp",
-      "publishedDateTime": "2021-06-25T14:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-25-biden-buttigieg-condemn-gop-backed-state-bills-addressing-transgender-rights-disturbing.md",
-      "title": "Biden, Buttigieg condemn GOP-backed state bills addressing transgender rights: 'Disturbing'",
-      "excerpt": "President Biden ripped a “disturbing” trend of GOP-backed state initiatives seeking to limit the rights of transgender youth on Friday, describing the bills as “nothing more than bullying disguised as legislation.”",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/pj8nVM8dd_M/biden-buttigieg-gop-state-bills-transgender-rights",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/pj8nVM8dd_M/biden-buttigieg-gop-state-bills-transgender-rights",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/13bb14ac-e7c2-4461-a58a-e9ca9ad575a2/35025c78-f879-406f-b8b4-a67433d9cd13/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-buttigieg-gop-state-bills-transgender-rights.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-buttigieg-gop-state-bills-transgender-rights.amp",
-      "publishedDateTime": "2021-06-25T13:50:41-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-26-pence-rebukes-trump-and-says-he-was-proud-to-certify-election-result.md",
-      "title": "Pence rebukes Trump and says he was ‘proud’ to certify election result",
-      "excerpt": "Former vice-president says he did his duty and takes aim at effort to overturn Biden victory, without mentioning Trump by name",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/jun/25/mike-pence-trump-capitol-attack-election-result",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/jun/25/mike-pence-trump-capitol-attack-election-result",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 1225,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/0ee4d84b4f601054dd1c4aff8d6cd328eac46d0c/0_104_2769_1662/master/2769.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=37852aa968c67d086cec272cbbf2c055",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/jun/25/mike-pence-trump-capitol-attack-election-result",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/25/mike-pence-trump-capitol-attack-election-result",
-      "publishedDateTime": "2021-06-25T13:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-25-whistleblowers-urge-biden-administration-to-do-more-to-vaccinate-detained-immigrant-population.md",
-      "title": "Whistleblowers urge Biden administration to do more to vaccinate detained immigrant population",
-      "excerpt": "Three whistleblowers are urging the Biden administration to do more to vaccinate immigrants in Immigration and Customs Enforcement detention amid mounting criticism over the agency's response to the pandemic within its facilities, according to a letter obtained by CNN.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wGUO4qFKE8Q/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wGUO4qFKE8Q/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 163,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210614185715-ice-hq-file-2018-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/25/politics/ice-coronavirus-vaccine/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/25/politics/ice-coronavirus-vaccine/index.html",
-      "publishedDateTime": "2021-06-25T13:14:12-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-26-trump-frequently-mocked-rudy-giuliani-called-him-pathetic-and-said-he-sucked-new-book-says.md",
-      "title": "Trump frequently mocked Rudy Giuliani, called him 'pathetic,' and said he 'sucked,' new book says",
-      "excerpt": "Trump berated and belittled Giuliani, while Giuliani craved Trump's attention and competed with other aides to sit next to him.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-mocked-rudy-giuliani-called-him-pathetic-new-book-2021-6",
-      "originalUrl": "https://www.businessinsider.com/trump-mocked-rudy-giuliani-called-him-pathetic-new-book-2021-6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/60d62256df1db80018f3a519?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trump-mocked-rudy-giuliani-called-him-pathetic-new-book-2021-6?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-mocked-rudy-giuliani-called-him-pathetic-new-book-2021-6?amp",
-      "publishedDateTime": "2021-06-25T12:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-25-trump-organization-could-face-new-york-state-criminal-charges-next-week.md",
-      "title": "Trump Organization could face New York state criminal charges next week",
-      "excerpt": "Donald Trump’s lawyers have been notified by the Manhattan district attorney’s office that it is considering charges against the Trump Organization, according to reports Friday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WyvoS5TIyS0/trump-organization-could-face-criminal-charges-in-state-of-new-york-next-week",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WyvoS5TIyS0/trump-organization-could-face-criminal-charges-in-state-of-new-york-next-week",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 695,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/13bb14ac-e7c2-4461-a58a-e9ca9ad575a2/35025c78-f879-406f-b8b4-a67433d9cd13/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-organization-could-face-criminal-charges-in-state-of-new-york-next-week.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-organization-could-face-criminal-charges-in-state-of-new-york-next-week.amp",
-      "publishedDateTime": "2021-06-25T12:26:47-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-26-president-biden-hosts-afghan-president-ashraf-ghani-at-the-white-house.md",
-      "title": "President Biden hosts Afghan President Ashraf Ghani at the White House",
-      "excerpt": "President Joe Biden is hosting Afghan President Ashraf Ghani at the White House on Friday. CBS News foreign correspondent Charlie D'Agata explains the deteriorating situation as Afghanistan sees increasing Taliban aggression and U.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/video/president-biden-hosts-afghan-president-ashraf-ghani-at-the-white-house/",
-      "originalUrl": "https://www.cbsnews.com/video/president-biden-hosts-afghan-president-ashraf-ghani-at-the-white-house/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 665,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2021/06/25/b103aba4-f0f6-486b-88dd-dbc0b78fb839/thumbnail/1200x630/b9f43336e6687d3e23d65af860046db8/0625-cbsn-fyv-741492-640x360.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/video/president-biden-hosts-afghan-president-ashraf-ghani-at-the-white-house/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/president-biden-hosts-afghan-president-ashraf-ghani-at-the-white-house/",
-      "publishedDateTime": "2021-06-25T12:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-06-26-mike-pence-says-notion-one-person-could-choose-us-president-is-un-american.md",
-      "title": "Mike Pence Says 'Notion' One Person Could Choose U.S. President is 'Un-American'",
-      "excerpt": "In remarks delivered at the Ronald Reagan Presidential Library, Pence addressed critics who blame him for Trump's loss to current President Joe Biden,",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/mike-pence-says-notion-one-person-could-choose-us-president-un-american-1604278",
-      "originalUrl": "https://www.newsweek.com/mike-pence-says-notion-one-person-could-choose-us-president-un-american-1604278",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 180,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1830702/rrl.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/mike-pence-says-notion-one-person-could-choose-us-president-un-american-1604278?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mike-pence-says-notion-one-person-could-choose-us-president-un-american-1604278?amp=1",
-      "publishedDateTime": "2021-06-25T11:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
       ]
     }
   ],

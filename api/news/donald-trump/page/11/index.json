@@ -2,6 +2,115 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-06-22-trump-has-zero-desire-to-be-speaker-of-house-spokesman-says.md",
+      "title": "Trump has ‘zero desire’ to be speaker of House, spokesman says",
+      "excerpt": "Chatter about the most unlikely of political comebacks has spread among Trump supporters",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/jun/22/donald-trump-speaker-of-house",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/jun/22/donald-trump-speaker-of-house",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/78c73c867f8f94067b452dfd52da64986d2c9599/0_170_3500_2417/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=e458faaeb9a757d6aee54fbf008b2cdc",
+          "width": 600,
+          "height": 414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/jun/22/donald-trump-speaker-of-house",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/22/donald-trump-speaker-of-house",
+      "publishedDateTime": "2021-06-22T05:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-06-22-trump-supporters-discussed-revolution-ahead-of-capitol-riot-fbi-agent-says.md",
+      "title": "Trump supporters discussed ‘revolution’ ahead of Capitol riot, FBI agent says",
+      "excerpt": "According to a court filing from an FBI agent obtained by NBC News, Trump supporters were discussing “revolution” on social media ahead of the January 6th Capitol riot, contrasting how FBI Director Christopher Wray portrayed the agency’s intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/now/video/trump-supporters-discussed-revolution-ahead-of-capitol-riot-fbi-agent-says-115249221531",
+      "originalUrl": "https://www.nbcnews.com/now/video/trump-supporters-discussed-revolution-ahead-of-capitol-riot-fbi-agent-says-115249221531",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_06/1624362404449_ott_now_am_capitol_riot_210622_1920x1080.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo115249221531",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo115249221531",
+      "publishedDateTime": "2021-06-22T04:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-22-judge-dismisses-most-claims-against-trump-administration-in-clearing-of-lafayette-square.md",
       "title": "Judge dismisses most claims against Trump administration in clearing of Lafayette Square",
       "excerpt": "Activists and civil liberties groups accused Trump of violating the civil rights of protesters who were removed from the park near the White House.",
@@ -1448,106 +1557,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-14-did-covid-19-start-in-a-chinese-lab-former-trump-official-gives-bold-answer.md",
-      "title": "Did COVID-19 Start In A Chinese Lab? Former Trump Official Gives Bold Answer",
-      "excerpt": "In an interview with Fox News, the former secretary of state said he strongly believed Covid-19 originated from a Chinese lab.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/did-covid-19-start-chinese-lab-former-trump-official-gives-bold-answer-3224681",
-      "originalUrl": "https://www.ibtimes.com/did-covid-19-start-chinese-lab-former-trump-official-gives-bold-answer-3224681",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/19/us-secretary-of-state-mike-pompeo-seen-in-AFP_8Z43FP.jpg",
-          "width": 1024,
-          "height": 733,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/did-covid-19-start-chinese-lab-former-trump-official-gives-bold-answer-3224681?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/did-covid-19-start-chinese-lab-former-trump-official-gives-bold-answer-3224681?amp=1",
-      "publishedDateTime": "2021-06-13T11:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-14-carl-bernstein-trump-and-enthralled-republican-party-are-guilty-of-crimes-against-democracy.md",
-      "title": "Carl Bernstein: Trump And \"Enthralled\" Republican Party Are Guilty Of Crimes Against Democracy",
-      "excerpt": "Key Watergate figures Carl Bernstein and John Dean explain the differences between former Presidents Donald Trump and Richard Nixon following reports the Department of Justice under Trump demanded data on 73 phone numbers and 36 email addresses related to lawmakers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.realclearpolitics.com/video/2021/06/13/carl_bernstein_trump_and_enthralled_republican_party_are_guilty_of_crimes_against_democracy.html",
-      "originalUrl": "https://www.realclearpolitics.com/video/2021/06/13/carl_bernstein_trump_and_enthralled_republican_party_are_guilty_of_crimes_against_democracy.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.realclear.com/images/49/494847.jpg",
-          "width": 1202,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "http://www.realclearpolitics.com/video/2021/06/13/carl_bernstein_trump_and_enthralled_republican_party_are_guilty_of_crimes_against_democracy.amp.html",
-      "cdnAmpWebUrl": "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/06/13/carl_bernstein_trump_and_enthralled_republican_party_are_guilty_of_crimes_against_democracy.amp.html",
-      "publishedDateTime": "2021-06-13T11:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RealClearPolitics",
-        "domain": "realclearpolitics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     }
   ],

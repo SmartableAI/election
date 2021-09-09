@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wtae.com/amp/article/kamala-harris-george-w-bush-flight-
 cdnAmpWebUrl: "https://www-wtae-com.cdn.ampproject.org/c/s/www.wtae.com/amp/article/kamala-harris-george-w-bush-flight-93-memorial-september-11/37500351"
 type: article
 quality: 54
-heat: 54
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,52 @@ images:
     width: 1000
     height: 564
     isCached: true
+
+related:
+  - title: "‘We’ll Show Them’: Vice President Harris Campaigns for Gov. Newsom in Bay Area"
+    excerpt: "Kamala Harris described the recall as part of a broader Republican effort to oust Democrats from power and expand conservative restrictions on voting, abortion and LGBTQ rights."
+    publishedDateTime: 2021-09-08T21:46:00Z
+    webUrl: "https://timesofsandiego.com/politics/2021/09/08/well-show-them-vice-president-harris-campaigns-for-gov-newsom-in-bay-area/"
+    ampWebUrl: "https://timesofsandiego.com/politics/2021/09/08/well-show-them-vice-president-harris-campaigns-for-gov-newsom-in-bay-area/"
+    cdnAmpWebUrl: "https://timesofsandiego-com.cdn.ampproject.org/c/s/timesofsandiego.com/politics/2021/09/08/well-show-them-vice-president-harris-campaigns-for-gov-newsom-in-bay-area/"
+    type: article
+    provider:
+      name: Times of San Diego
+      domain: timesofsandiego.com
+    quality: 71
+    images:
+      - url: "https://timesofsandiego.com/wp-content/uploads/2021/09/Harris-Newsom.png"
+        width: 1000
+        height: 664
+        isCached: true
+  - title: "This simple advice from Kamala Harris will make you a better public speaker"
+    excerpt: "The vice president has, several times, offered smart, assuring words to nervous workers and students that this communications coach says are spot-on."
+    publishedDateTime: 2021-09-03T14:00:00Z
+    webUrl: "https://www.fastcompany.com/90670190/this-simple-advice-from-kamala-harris-will-make-you-a-better-public-speaker"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 53
+    images:
+      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2021/09/p-1-this-simple-advice-from-kamala-harris-will-make-you-a-better-public-speaker.png"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Nguyện Trần Thuỷ Tiên Interprets Vice President Kamala Harris’ visit to Vietnam"
+    excerpt: "Nguyện Trần Thuỷ Tiên, G-’16, received support from the U.S. Embassy and the White House to provide the deaf community in Việt Nam a translation of Vice President Kamala Harris’ presentation during her visit to the Socialist Republic of Việt Nam last week."
+    publishedDateTime: 2021-09-03T21:41:00Z
+    webUrl: "https://www.gallaudet.edu/news/nguyen-tran-thuy-tien-interprets-vice-president-kamala-harris-visit-to-vietnam/"
+    type: article
+    provider:
+      name: Gallaudet University
+      domain: gallaudet.edu
+    quality: 51
+    images:
+      - url: "https://storage.googleapis.com/gal-uploads/1/2021/09/Nguyen-Tran-Thuy-Tien.jpg"
+        width: 2249
+        height: 1725
+        isCached: true
 
 secured: "gwK+rF7hP8XZ93HDf8koK9+O/ou3hSpygEotAh5i6yF9gsipYm6pVsbxj43EpqstiOCI7bb63Pr1oXqgf2irzESKNNcLJqdaILCNdSwmCR/XAFDWskl1Rpo/LjIcKXasjW/fO92AVRj/39i+dwgTlMKWvyXQPr2QVuuZLyBnmGJePr2pGqAgeMmaAZByTNkdrB9E/+6UeQYlT7pWTECJ2vfjmertHob+zcD1Ep8AlAY2d+RQABbSKS2JLBZJVdVqBBopLVqf3cFZqMlzp0ubrSfyM1wuWsMRPe9TVTWOTMOHgelnw5nbI36hfyhO4ctIkLXVsF7lV0tntQKno1ljPF1PiPF8weXvD3f8JFSeLwE=;68KHMQOOzUa5+gIxuw/Esg=="
 ---

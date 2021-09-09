@@ -2,6 +2,62 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-08-04-mike-carey-endorsed-by-trump-will-win-ohio-gop-special-primary-cnn-projects.md",
+      "title": "Mike Carey, endorsed by Trump, will win Ohio GOP special primary, CNN projects",
+      "excerpt": "Mike Carey, a coal lobbyist who was endorsed by former President Donald Trump, will win the Republican special primary in Ohio's 15th Congressional District, CNN projects.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1M4mFdm3Wyg/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1M4mFdm3Wyg/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 231,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210803152112-02-mike-carey-0626-restricted-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/08/03/politics/ohio-15-special-election-results/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/03/politics/ohio-15-special-election-results/index.html",
+      "publishedDateTime": "2021-08-03T18:45:52-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-08-03-harris-to-promote-america-is-back-message-in-singapore-and-vietnam.md",
       "title": "Harris to promote 'America is back' message in Singapore and Vietnam",
       "excerpt": "Vice President Kamala Harris is set to travel to Singapore and Vietnam later this month, becoming the highest-ranking Biden administration official to visit Asia so far.\n    \n",
@@ -1604,62 +1660,6 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/21/politics/ambassadors-canada-slovenia-austria-biden/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/21/politics/ambassadors-canada-slovenia-austria-biden/index.html",
       "publishedDateTime": "2021-07-21T13:19:15-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-20-donald-trumps-favorite-athlete-just-mocked-the-big-lie-to-the-man-who-beat-him.md",
-      "title": "Donald Trump's favorite athlete just mocked the 'Big Lie' to the man who beat him",
-      "excerpt": "Tuesday was not a good day for Donald Trump.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UIvQuvkI4Uk/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UIvQuvkI4Uk/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 190,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210720124442-brady-buccaneers-white-hous-0720-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/20/politics/tom-brady-donald-trump-big-lie-joe-biden/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/20/politics/tom-brady-donald-trump-big-lie-joe-biden/index.html",
-      "publishedDateTime": "2021-07-20T15:32:44-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",

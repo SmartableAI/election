@@ -2,6 +2,390 @@
   "page": 70,
   "value": [
     {
+      "path": "_news/2021-04-13-biden-proposes-summit-with-putin-in-coming-months.md",
+      "title": "Biden proposes summit with Putin in coming months ",
+      "excerpt": "President Biden on Tuesday proposed a summit with Russian President Vladimir Putin in the coming months, but suggested it take place in a third country – outside of the United States and Russia.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/BoJitY6T5ik/biden-proposes-putin-summit-russia",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/BoJitY6T5ik/biden-proposes-putin-summit-russia",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 595,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-proposes-putin-summit-russia.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-proposes-putin-summit-russia.amp",
+      "publishedDateTime": "2021-04-13T09:15:19-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-13-trump-speculates-johnson-johnson-vaccine-pause-fueled-by-politics-fdas-friends-at-pfizer.md",
+      "title": "Trump Speculates Johnson & Johnson Vaccine Pause Fueled by Politics, FDA's 'Friends at Pfizer'",
+      "excerpt": "Former President Donald Trump lambasted the Centers for Disease Control (CDC) and Food and Drug Administration's (FDA) recommended pause on the usage of the Johnson & Johnson vaccine as being politically driven. Six people who were recently vaccinated ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/trump-speculates-johnson-johnson-vaccine-pause-fueled-politics-fdas-friends-pfizer-1583307",
+      "originalUrl": "https://www.newsweek.com/trump-speculates-johnson-johnson-vaccine-pause-fueled-politics-fdas-friends-pfizer-1583307",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 133,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1777143/trump-johnson-johnson-pfizer-pause-cdcbiden.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/trump-speculates-johnson-johnson-vaccine-pause-fueled-politics-fdas-friends-pfizer-1583307?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-speculates-johnson-johnson-vaccine-pause-fueled-politics-fdas-friends-pfizer-1583307?amp=1",
+      "publishedDateTime": "2021-04-13T08:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-04-13-johnson-johnson-vaccine-pause-wont-have-significant-impact-on-biden-covid-19-plan-white-house.md",
+      "title": "Johnson & Johnson vaccine pause won't have 'significant impact' on Biden COVID-19 plan: White House",
+      "excerpt": "The White House said the pause on Johnson & Johnson vaccines will not have a “significant impact” on President Biden’s COVID-19 vaccine plan, saying that vaccine makes up “less than 5 percent” of recorded shots administered to Americans.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xNZm9KxZt5w/johnson-johnson-vaccine-pause-biden-covid-19-vaccine-plan",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xNZm9KxZt5w/johnson-johnson-vaccine-pause-biden-covid-19-vaccine-plan",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 161,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/johnson-johnson-vaccine-pause-biden-covid-19-vaccine-plan.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/johnson-johnson-vaccine-pause-biden-covid-19-vaccine-plan.amp",
+      "publishedDateTime": "2021-04-13T08:08:14-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-13-biden-to-pull-us-troops-from-afghanistan-by-sept-11-sources-say.md",
+      "title": "Biden to pull U.S. troops from Afghanistan by Sept. 11, sources say",
+      "excerpt": "WASHINGTON (Reuters) - President Joe Biden has decided to withdraw U.S. troops from Afghanistan by Sept. 11, 2021, 20 years to the day after al Qaeda’s attacks triggered America’s longest war, three sources familiar with the decision told Reuters.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-afghanistan-withdrawal/biden-to-pull-u-s-troops-from-afghanistan-by-sept-11-sources-say-idUSKBN2C028S",
+      "originalUrl": "https://www.reuters.com/article/us-usa-afghanistan-withdrawal/biden-to-pull-u-s-troops-from-afghanistan-by-sept-11-sources-say-idUSKBN2C028S",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 1485,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20210413&t=2&i=1558314068&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3C17V",
+          "width": 795,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2C028S",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2C028S",
+      "publishedDateTime": "2021-04-13T07:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-04-13-boehner-on-fox-friends-biden-infrastructure-bill-a-new-word-for-the-green-new-deal.md",
+      "title": "Boehner on 'Fox & Friends': Biden infrastructure bill a 'new word for the Green New Deal'",
+      "excerpt": "Former House Speaker John Boehner calls President Biden's infrastructure plan a 'new word for the Green New Deal' on 'Fox & Friends.'",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/H60vXvNBMUw/john-boehner-biden-infrastructure-bill-fox-friends",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/H60vXvNBMUw/john-boehner-biden-infrastructure-bill-fox-friends",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 166,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ab1bf457-1339-4a5f-8fb3-a11d1dae0812/872588d7-6f3d-4545-bcb4-715442d38b78/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/john-boehner-biden-infrastructure-bill-fox-friends.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/john-boehner-biden-infrastructure-bill-fox-friends.amp",
+      "publishedDateTime": "2021-04-13T07:56:58-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-13-south-dakotas-noem-asks-biden-to-reverse-ban-on-mount-rushmore-fireworks-display.md",
+      "title": "South Dakota's Noem asks Biden to reverse ban on Mount Rushmore fireworks display",
+      "excerpt": "South Dakota Gov. Kristi Noem sent a letter Tuesday requesting that President Biden reverse his administration's ban on an Independence Day fireworks celebration at Mount Rushmore this year, arguing doing so would be in keeping with an agreement the federal government made with her state last year.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/cHdhDa7JdB4/biden-mount-rushmore-fireworks-ban-south-dakota-noem",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/cHdhDa7JdB4/biden-mount-rushmore-fireworks-ban-south-dakota-noem",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 190,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/597cc29d-971d-4c45-bea4-94b1bb269ef7/b444c0d4-0e4f-4b88-b49d-d9a73622ebbb/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-mount-rushmore-fireworks-ban-south-dakota-noem.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-mount-rushmore-fireworks-ban-south-dakota-noem.amp",
+      "publishedDateTime": "2021-04-13T06:37:53-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-13-analysis-michigan-vaccine-rebuff-puts-biden-and-a-top-ally-in-a-dicey-political-spot.md",
+      "title": "Analysis: Michigan vaccine rebuff puts Biden and a top ally in a dicey political spot",
+      "excerpt": "President Joe Biden is confronting his most controversial and politically unpalatable moment yet since assuming responsibility for the US' response to the pandemic.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3ds1fV9WCoU/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3ds1fV9WCoU/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 168,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210412151138-01-biden-jobs-plan-0412-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/13/politics/michigan-joe-biden-gretchen-whitmer-covid-19/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/13/politics/michigan-joe-biden-gretchen-whitmer-covid-19/index.html",
+      "publishedDateTime": "2021-04-13T05:00:55-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-13-trump-mcconnell-helpless-to-stop-biden-from-packing-court.md",
       "title": "Trump: McConnell 'helpless' to stop Biden from packing court",
       "excerpt": "Former President Trump Donald Trump Gaetz was denied meeting with Trump: CNN Federal Reserve chair: Economy would have been 'so much worse' without COVID-19 relief bills Police in California city ...",
@@ -982,384 +1366,6 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-12-arkansas-governor-says-divisive-trump-attacks-on-gop-officials-are-unhelpful.md",
-      "title": "Arkansas governor says 'divisive' Trump attacks on GOP officials are 'unhelpful'",
-      "excerpt": "on Sunday said he was concerned about the divisions in the GOP and criticized former President Trump Donald Trump Harry Reid reacts to Boehner book excerpt: 'We didn't mince words' Man arrested ...",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/news-by-subject/other/547608-arkansas-governor-says-divisive-trump-attacks-on-gop-officials-are",
-      "originalUrl": "https://thehill.com/news-by-subject/other/547608-arkansas-governor-says-divisive-trump-attacks-on-gop-officials-are",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 140,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/hutchinsonasa_getty_03252021.jpg",
-          "width": 788,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/news-by-subject/other/547608-arkansas-governor-says-divisive-trump-attacks-on-gop-officials-are?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/news-by-subject/other/547608-arkansas-governor-says-divisive-trump-attacks-on-gop-officials-are?amp",
-      "publishedDateTime": "2021-04-11T15:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-04-11-arizona-ag-its-important-kamala-harris-health-sec-becerra-visit-border-amid-immigration-crisis.md",
-      "title": "Arizona AG: 'It's important' Kamala Harris, Health Sec. Becerra visit border amid immigration crisis",
-      "excerpt": "Arizona Attorney General Mark Brnovich discusses the developing immigration crisis at the border and further probes the Biden administration to act on it.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vnVRS3eLb8M/arizona-ag-urges-harris-health-sec-becerra-to-visit-border-amid-immigration-crisis-its-important",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vnVRS3eLb8M/arizona-ag-urges-harris-health-sec-becerra-to-visit-border-amid-immigration-crisis-its-important",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 210,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7acdbc98-6073-48cf-8025-8ec4a188febe/7cf9bca4-791b-4be6-93cc-2fedff7d2742/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/arizona-ag-urges-harris-health-sec-becerra-to-visit-border-amid-immigration-crisis-its-important.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/arizona-ag-urges-harris-health-sec-becerra-to-visit-border-amid-immigration-crisis-its-important.amp",
-      "publishedDateTime": "2021-04-11T11:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-04-12-as-riot-raged-pence-pleaded-with-the-military-to-clear-the-capitol.md",
-      "title": "As riot raged, Pence pleaded with the military to ‘clear the Capitol’",
-      "excerpt": "About two hours after a pro-Trump mob shattered windows and smashed doors to enter the Capitol on Jan. 6, then-Vice President Mike Pence called the acting defense secretary urgently seeki ...",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/04/11/pence-pleaded-with-the-military-to-clear-the-capitol/",
-      "originalUrl": "https://nypost.com/2021/04/11/pence-pleaded-with-the-military-to-clear-the-capitol/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/04/protest-pence-inset.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/04/11/pence-pleaded-with-the-military-to-clear-the-capitol/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/11/pence-pleaded-with-the-military-to-clear-the-capitol/amp/",
-      "publishedDateTime": "2021-04-11T10:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-11-texas-governor-biden-actions-on-guns-just-show.md",
-      "title": "Texas governor: Biden actions on guns just 'show'",
-      "excerpt": "Texas Gov. Greg Abbott (R) rejected the idea that firearm restrictions could be passed via executive order on Sunday while dismissing President Biden Joe Biden Biden eyes bigger US role in global ...",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/sunday-talk-shows/547574-texas-governor-biden-actions-on-guns-just-show",
-      "originalUrl": "https://thehill.com/homenews/sunday-talk-shows/547574-texas-governor-biden-actions-on-guns-just-show",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 205,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/abbottgreg_06182020getty.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/sunday-talk-shows/547574-texas-governor-biden-actions-on-guns-just-show?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/sunday-talk-shows/547574-texas-governor-biden-actions-on-guns-just-show?amp",
-      "publishedDateTime": "2021-04-11T08:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-04-11-arkansas-gop-governor-says-trumps-attacks-on-party-leaders-are-divisive-and-not-helpful.md",
-      "title": "Arkansas' GOP governor says Trump's attacks on party leaders are 'divisive' and 'not helpful'",
-      "excerpt": "Arkansas' Republican governor on Sunday knocked former President Donald Trump's recent attacks on top party leaders as \"divisive\" and unhelpful for elected GOP officials around the country.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/o7T_JXaGRbk/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/o7T_JXaGRbk/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210321132131-asa-hutchinson-sotu-intv-3-21-21-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/11/politics/asa-hutchinson-trump-attacks-republican-party-cnntv/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/11/politics/asa-hutchinson-trump-attacks-republican-party-cnntv/index.html",
-      "publishedDateTime": "2021-04-11T08:26:28-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-11-buttigieg-biden-wants-real-progress-on-infrastructure-plan-by-memorial-day.md",
-      "title": "Buttigieg: Biden wants 'real progress' on infrastructure plan by Memorial Day",
-      "excerpt": "Transportation Secretary Pete Buttigieg on Sunday defended the Biden administration's broad definition of infrastructure in the American Jobs Plan, saying President Joe Biden is still aiming for Republican support for the plan while looking for progress on it by Memorial Day.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/slr5Hufw6lA/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/slr5Hufw6lA/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 192,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210409090427-01-pete-buttigieg-0330-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/11/politics/buttigieg-infrastructure-biden-memorial-day-cnntv/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/11/politics/buttigieg-infrastructure-biden-memorial-day-cnntv/index.html",
-      "publishedDateTime": "2021-04-11T08:22:49-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-11-sen-thune-not-afraid-of-a-fight-if-trump-backs-a-challenger-in-2022.md",
-      "title": "Sen Thune not 'afraid of a fight' if Trump backs a challenger in 2022",
-      "excerpt": "Sen. John Thune, R-S.D., said that he is not \"afraid of a fight\" if former President Donald Trump campaigns against him in 2022 after being labeled a \"weak and inneffective RINO\" by him earlier in the year. \"I've been through wars in South Dakota ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/john-thune-donald-trump-2022-senate",
-      "originalUrl": "https://www.foxnews.com/politics/john-thune-donald-trump-2022-senate",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Thune-Trump.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/john-thune-donald-trump-2022-senate.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/john-thune-donald-trump-2022-senate.amp",
-      "publishedDateTime": "2021-04-11T08:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Republican Voice"
       ]
     }

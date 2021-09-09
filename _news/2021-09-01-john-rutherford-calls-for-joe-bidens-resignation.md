@@ -90,14 +90,39 @@ related:
   - title: "President Joe Biden Deliver Remarks in Honor of Labor Unions"
     excerpt: "President Joe Biden deliver remarks in honor of labor unions during an event in the East Room of the White House in Washington, DC, on Wednesday, September 8 2021. Photo by Shawn Thew/UPI"
     publishedDateTime: 2021-09-08T16:34:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/8ab0fecbf42e5fd55ef8b467cf867165/President-Joe-Biden-Deliver-Remarks-in-Honor-of-Labor-Unions/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/05f9c116747fbce74ef23bbe7a146c93/President-Joe-Biden-Deliver-Remarks-in-Honor-of-Labor-Unions/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/8ab0fecbf42e5fd55ef8b467cf867165/BIDEN-LABOR-UNIONS.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/05f9c116747fbce74ef23bbe7a146c93/BIDEN-LABOR-UNIONS.jpg"
+        width: 650
+        height: 975
+        isCached: true
+  - title: "Biden expected to push broad vaccination mandates"
+    excerpt: "About 27% of the eligible U.S. population age 12 and older have not received any coronavirus vaccinations, according to data from the Centers for Disease Control and Prevention."
+    publishedDateTime: 2021-09-09T01:48:00Z
+    webUrl: "https://www.seattletimes.com/nation-world/biden-expected-to-push-broad-vaccination-mandates/"
+    ampWebUrl: "https://www.seattletimes.com/nation-world/biden-expected-to-push-broad-vaccination-mandates/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/biden-expected-to-push-broad-vaccination-mandates/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 55
+  - title: "US President Joe Biden Delivers Remarks in Honor of Labor Unions"
+    excerpt: "US President Joe Biden delivers remarks in honor of labor unions during an event in the East Room of the White House in Washington, DC on September 8, 2021. Pool Photo by Shawn Thew/UPI"
+    publishedDateTime: 2021-09-08T18:45:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/85e1d095d2a5b86d3113fa28eb7e277e/US-President-Joe-Biden-Delivers-Remarks-in-Honor-of-Labor-Unions/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/85e1d095d2a5b86d3113fa28eb7e277e/BIDEN-LABOR-UNIONS.jpg"
         width: 650
         height: 433
         isCached: true

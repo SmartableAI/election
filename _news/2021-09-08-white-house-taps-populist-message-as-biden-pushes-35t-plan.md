@@ -355,22 +355,6 @@ related:
         width: 480
         height: 320
         isCached: true
-  - title: "Lying Joe Biden, from comedy to tragedy"
-    excerpt: "How could a comic figure from the world of politics such as President Joe Biden suddenly become such a tragic figure on the American scene?"
-    publishedDateTime: 2021-09-07T19:18:00Z
-    webUrl: "https://www.washingtontimes.com/news/2021/sep/7/lying-joe-biden-from-comedy-to-tragedy/"
-    ampWebUrl: "https://amp.washingtontimes.com/news/2021/sep/7/lying-joe-biden-from-comedy-to-tragedy/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/sep/7/lying-joe-biden-from-comedy-to-tragedy/"
-    type: article
-    provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 75
-    images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2021/09/07/B1-Tyrrell_c0-149-1800-1199_s1200x700.jpg?fe21c64950503d8fffef41ed363bae5783de6b1f"
-        width: 1200
-        height: 700
-        isCached: true
   - title: "President Joe Biden to mark 20th anniversary of 9/11 at 3 memorial sites"
     excerpt: "President Joe Biden will visit ground zero in New York City, the Pentagon and the memorial outside Shanksville, Pennsylvania, where United Flight 93 was forced down, the White House said Saturday."
     publishedDateTime: 2021-09-04T19:29:00Z

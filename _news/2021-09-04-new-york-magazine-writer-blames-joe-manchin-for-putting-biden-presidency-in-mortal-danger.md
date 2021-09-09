@@ -48,6 +48,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Obama wades deeply into politics, backing Newsom and touting Biden's agenda"
+    excerpt: "Former President Barack Obama waded into the political arena Wednesday touting the work of the Biden administration and issuing support for California Gov. Gavin Newsom who is facing a recall effort."
+    publishedDateTime: 2021-09-09T01:37:50Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/oYQcpeBePoE/obama-wades-deeply-into-politics-backing-newsom-and-touting-bidens-agenda"
+    ampWebUrl: "https://www.foxnews.com/politics/obama-wades-deeply-into-politics-backing-newsom-and-touting-bidens-agenda.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/obama-wades-deeply-into-politics-backing-newsom-and-touting-bidens-agenda.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fc29a4a3-d7b1-45c6-aa23-5fc6d7001490/7bb93ae6-98f7-408f-b483-ee8f979cee82/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Biden spends Labor Day in Delaware as mounting crises sink approval rating"
     excerpt: "It’s Biden’s 19th trip to his private residences in Delaware since taking office. He is scheduled to return to the White House around 6 p.m. Monday."
     publishedDateTime: 2021-09-06T17:16:00Z

@@ -2,6 +2,111 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2021-05-04-joe-biden-raises-trump-refugee-cap-after-backlash.md",
+      "title": "Joe Biden raises Trump refugee cap after backlash",
+      "excerpt": "President Joe Biden has lifted the US annual refugee cap, bowing to backlash from his party after he initially opted to stick by the Trump-era figure. The Democratic president is raising the cap from 15,",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/world-us-canada-56975402?at_custom2=twitter&at_custom4=477B3168-AC50-11EB-951B-FFBD4744363C&at_custom1=%5Bpost+type%5D&at_campaign=64&at_medium=custom7",
+      "originalUrl": "https://www.bbc.com/news/world-us-canada-56975402?at_custom2=twitter&at_custom4=477B3168-AC50-11EB-951B-FFBD4744363C&at_custom1=%5Bpost+type%5D&at_campaign=64&at_medium=custom7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 4070,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/123E1/production/_118312747_mediaitem118312746.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/world-us-canada-56975402.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-56975402.amp",
+      "publishedDateTime": "2021-05-03T19:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-05-04-the-memo-trumps-critics-face-wrath-of-gop-base.md",
+      "title": "The Memo: Trump's critics face wrath of GOP base",
+      "excerpt": "Cheney voted for Trump’s impeachment and has become perhaps his most persistent foe among GOP officeholders. But the bigger picture is one in which Cheney is in danger of losing her House leadership position and another Trump critic,",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/administration/551576-the-memo-trumps-critics-face-wrath-of-gop-base",
+      "originalUrl": "https://thehill.com/homenews/administration/551576-the-memo-trumps-critics-face-wrath-of-gop-base",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 405,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/trumpdonald_cheneyliz_012121getty-bc_split.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/administration/551576-the-memo-trumps-critics-face-wrath-of-gop-base?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/551576-the-memo-trumps-critics-face-wrath-of-gop-base?amp",
+      "publishedDateTime": "2021-05-03T14:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-05-04-irs-chief-counsel-under-trump-admin-joins-gibson-dunn.md",
       "title": "IRS chief counsel under Trump admin joins Gibson Dunn",
       "excerpt": "Gibson, Dunn & Crutcher on Monday announced it has tapped Michael Desmond, whose successful nomination to serve as chief counsel of the U.S. Internal Revenue Service was reportedly a personal priority for former President Donald Trump.",
@@ -1173,63 +1278,6 @@
       ]
     },
     {
-      "path": "_news/2021-04-23-new-probe-confirms-trump-officials-blocked-puerto-rico-from-receiving-hurricane-aid.md",
-      "title": "New probe confirms Trump officials blocked Puerto Rico from receiving hurricane aid",
-      "excerpt": "Findings from a new inspector general report show how Trump officials blocked hurricane aid for Puerto Rico and obstructed a probe looking into the withholdings.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/news/latino/new-probe-confirms-trump-officials-blocked-puerto-rico-receiving-hurri-rcna749",
-      "originalUrl": "https://www.nbcnews.com/news/latino/new-probe-confirms-trump-officials-blocked-puerto-rico-receiving-hurri-rcna749",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media1.s-nbcnews.com/i/rockcms/2021-04/1132/200724-puerto-rico-ew-323p-053a09_a69b88d4a153c119ebf9b4c21caa3521643fa016.jpg",
-          "width": 2500,
-          "height": 1663,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna749",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna749",
-      "publishedDateTime": "2021-04-22T14:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2021-04-23-outrageous-bank-regulator-lobbies-for-trump-era-rule-angering-democrats.md",
       "title": "'Outrageous': Bank regulator lobbies for Trump-era rule, angering Democrats",
       "excerpt": "Consumer watchdogs have warned that it could unleash predatory loans by enabling \"payday\" lenders to evade state interest rate caps.",
@@ -1497,63 +1545,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-04-22-pelosi-felt-liberated-after-ripping-up-trumps-2020-state-of-the-union-speech-author-says.md",
-      "title": "Pelosi felt 'liberated' after ripping up Trump's 2020 State of the Union speech, author says",
-      "excerpt": "House Speaker Nancy Pelosi felt \"liberated\" when she ripped up a copy of President Donald Trump's State of the Union address last year, but the move was largely unplanned simply because she couldn't find a pen,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2021/04/22/politics/pelosi-trump-state-of-the-union-address-cnntv/index.html",
-      "originalUrl": "https://www.cnn.com/2021/04/22/politics/pelosi-trump-state-of-the-union-address-cnntv/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210422081128-file-nancy-pelosi-donald-trump-state-of-the-union-2020-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/22/politics/pelosi-trump-state-of-the-union-address-cnntv/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/22/politics/pelosi-trump-state-of-the-union-address-cnntv/index.html",
-      "publishedDateTime": "2021-04-22T01:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     }
   ],

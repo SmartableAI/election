@@ -186,6 +186,22 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "AP source: Trump to endorse GOP challenger to Cheney"
+    excerpt: "Trump is planning to endorse Wyoming attorney Harriet Hageman, who is preparing to launch a primary campaign against Cheney, the most prominent member of Congress to vote for Trump's second impeachment,"
+    publishedDateTime: 2021-09-08T19:40:00Z
+    webUrl: "https://www.lmtonline.com/news/article/AP-source-Trump-to-endorse-GOP-challenger-to-16443087.php"
+    ampWebUrl: "https://www.lmtonline.com/news/amp/AP-source-Trump-to-endorse-GOP-challenger-to-16443087.php"
+    cdnAmpWebUrl: "https://www-lmtonline-com.cdn.ampproject.org/c/s/www.lmtonline.com/news/amp/AP-source-Trump-to-endorse-GOP-challenger-to-16443087.php"
+    type: article
+    provider:
+      name: Laredo Morning Times
+      domain: lmtonline.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Trump attacks Lehigh Valley’s Pat Toomey as ‘not the sharpest tool in the shed’"
     excerpt: "A fundraising email from the former president claims the senator from Lehigh County only won re-election \"because of my victory.\""
     publishedDateTime: 2021-09-07T20:37:00Z

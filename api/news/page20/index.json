@@ -2,6 +2,499 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2021-07-23-biden-jumps-backs-into-campaigning-with-mcauliffe-rally-in-virginia.md",
+      "title": "Biden jumps backs into campaigning with McAuliffe rally in Virginia ",
+      "excerpt": "President Joe Biden is making his return to the campaign trail.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/yg-TSkIIoDs/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/yg-TSkIIoDs/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210721154708-terry-mcauliffe-0608-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/23/politics/biden-mcauliffe-campaign-virginia/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/23/politics/biden-mcauliffe-campaign-virginia/index.html",
+      "publishedDateTime": "2021-07-23T08:36:02-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-23-kamala-harris-looks-to-turn-the-page-as-she-zeroes-in-on-voting-rights.md",
+      "title": "Kamala Harris looks to turn the page as she zeroes-in on voting rights",
+      "excerpt": "Vice President Kamala Harris is making voting rights her top public focus, elevating a long-shot battle as she seeks to more clearly define her role and stake out high-value territory within the Biden administration.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4I8fBiC_eRo/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4I8fBiC_eRo/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 205,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210713172902-02-harris-texas-democrats-0713-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/23/politics/kamala-harris-voting-rights/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/23/politics/kamala-harris-voting-rights/index.html",
+      "publishedDateTime": "2021-07-23T04:25:14-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-07-23-mike-pence-was-a-january-6-hero-and-thats-why-hes-doomed.md",
+      "title": "Mike Pence Was a January 6 Hero and That's Why He's Doomed",
+      "excerpt": "As more reports reveal the actions of former Vice President Mike Pence amid the violence of January 6, his purported heroism stands in contrast to many other high-profile Republicans, whose reputations are tarnished for how they acted about the Capitol riot.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/mike-pence-january-6-hero-doomed-1612108",
+      "originalUrl": "https://www.newsweek.com/mike-pence-january-6-hero-doomed-1612108",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1852387/mike-pence-addresses-crowd-new-hampshire.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/mike-pence-january-6-hero-doomed-1612108?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mike-pence-january-6-hero-doomed-1612108?amp=1",
+      "publishedDateTime": "2021-07-23T03:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-07-23-donald-trump-jr-responds-to-kimberly-guilfoyle-the-view-rumor.md",
+      "title": "Donald Trump Jr. Responds to Kimberly Guilfoyle 'The View' Rumor",
+      "excerpt": "Speculation is growing over the conservative figure who will be chosen to replace Meghan McCain on the ABC show.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/kimberly-guilfoyle-donald-trump-jr-view-abc-rumor-meghan-mccain-replacement-1612422",
+      "originalUrl": "https://www.newsweek.com/kimberly-guilfoyle-donald-trump-jr-view-abc-rumor-meghan-mccain-replacement-1612422",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 185,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1853059/don-trump-jr-kimberly-guilfoyle.jpg",
+          "width": 3000,
+          "height": 2237,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/kimberly-guilfoyle-donald-trump-jr-view-abc-rumor-meghan-mccain-replacement-1612422?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kimberly-guilfoyle-donald-trump-jr-view-abc-rumor-meghan-mccain-replacement-1612422?amp=1",
+      "publishedDateTime": "2021-07-23T01:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-07-23-democrats-outraged-after-the-fbi-said-it-got-more-than-4500-tips-about-brett-kavanaugh-and-referred-the-relevant-ones-to-the-trump-white.md",
+      "title": "Democrats outraged after the FBI said it got more than 4,500 tips about Brett Kavanaugh — and referred the 'relevant' ones to the Trump White House",
+      "excerpt": "When Kavanaugh was a Supreme Court nominee, the FBI conducted just 10 interviews after receiving thousands of tips, the agency said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/democrats-accuse-fbi-of-ignoring-4500-tips-about-brett-kavanaugh-2021-7",
+      "originalUrl": "https://www.businessinsider.com/democrats-accuse-fbi-of-ignoring-4500-tips-about-brett-kavanaugh-2021-7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/60fa223cfc253600181ffb47?width=1200&format=jpeg",
+          "width": 1034,
+          "height": 517,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/democrats-accuse-fbi-of-ignoring-4500-tips-about-brett-kavanaugh-2021-7?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/democrats-accuse-fbi-of-ignoring-4500-tips-about-brett-kavanaugh-2021-7?amp",
+      "publishedDateTime": "2021-07-22T19:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-07-22-fbi-says-it-got-more-than-4500-tips-on-kavanaugh-providing-relevant-ones-to-trump-white-house.md",
+      "title": "FBI says it got more than 4,500 tips on Kavanaugh, providing 'relevant' ones to Trump White House",
+      "excerpt": "The FBI disclosed that it received more than 4,500 tips on a phone line in 2018 as part of a background investigation into then-Supreme Court nominee Brett Kavanaugh and provided \"relevant\" ones to former President Donald Trump's White House counsel.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tsteNcCSVQA/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tsteNcCSVQA/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 162,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/181004093458-01-kavanaugh-0927-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/22/politics/fbi-kavanaugh-ford-investigation/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/22/politics/fbi-kavanaugh-ford-investigation/index.html",
+      "publishedDateTime": "2021-07-22T15:51:05-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-22-psaki-defends-hunter-bidens-participation-in-art-shows-no-scenario-in-which-buyers-can-provide-influence.md",
+      "title": "Psaki defends Hunter Biden's participation in art shows: 'No scenario' in which buyers can 'provide influence'",
+      "excerpt": "Jen Psaki defended Hunter Biden’s plans to meet with potential buyers of his art, saying the buyers will be anonymous, which will prevent appearance of any \"undue influence\" in the administration.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Nvejj0cT5q0/psaki-defends-hunter-biden-art-shows",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Nvejj0cT5q0/psaki-defends-hunter-biden-art-shows",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/126c9819-8d0a-4ed3-93c2-92db2694a67e/ff2a850f-4b38-400e-9564-ab1439b2cf08/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/psaki-defends-hunter-biden-art-shows.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-defends-hunter-biden-art-shows.amp",
+      "publishedDateTime": "2021-07-22T13:58:15-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-22-tiktok-white-house-agree-to-drop-trump-era-lawsuit.md",
+      "title": "TikTok, White House agree to drop Trump-era lawsuit",
+      "excerpt": "The Chinese owned social media platform TikTok has reached an agreement with the White House to drop a lawsuit challenging former President Donald Trump’s attempt to ban the video app from app stores in the United States.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/m7xeWJIq5Vc/tiktok-white-house-agree-to-drop-trump-era-lawsuit",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/m7xeWJIq5Vc/tiktok-white-house-agree-to-drop-trump-era-lawsuit",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 215,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e1117589-3186-4490-925d-1d089e42a626/11be2235-525a-4bf7-9a63-f81e6034e16d/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/tiktok-white-house-agree-to-drop-trump-era-lawsuit.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tiktok-white-house-agree-to-drop-trump-era-lawsuit.amp",
+      "publishedDateTime": "2021-07-22T12:00:43-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-22-former-education-sec-devos-blasts-biden-admins-many-ties-to-twisted-and-warped-critical-race-theory.md",
+      "title": "Former Education Sec. DeVos blasts Biden admin's 'many ties' to 'twisted and warped' critical race theory",
+      "excerpt": "EXCLUSIVE: Former Department of Education Secretary Betsy DeVos said it is \"appalling\" to see close ties between radical groups pushing critical race theory and the Biden administration.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Q0_YXjySjSk/betsy-devos-biden-admin-critical-race-thory-ties",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Q0_YXjySjSk/betsy-devos-biden-admin-critical-race-thory-ties",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 158,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6c860925-7840-4d17-a210-b9bc26114022/a06fe2da-965b-416f-aab6-e55e1b160199/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/betsy-devos-biden-admin-critical-race-thory-ties.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/betsy-devos-biden-admin-critical-race-thory-ties.amp",
+      "publishedDateTime": "2021-07-22T11:56:38-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-22-democrats-rally-for-biden-public-lands-pick-despite-scrutiny-from-republicans.md",
       "title": "Democrats rally for Biden public lands pick despite scrutiny from Republicans",
       "excerpt": "A bitterly divided U.S. Senate panel deadlocked Thursday on President Joe Biden’s pick to oversee vast government-owned lands in the West.",
@@ -868,498 +1361,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-07-22-biden-the-first-time-they-played-hail-to-the-chief-i-asked-where-is-he.md",
-      "title": "Biden: The first time they played 'Hail to the Chief' I asked, 'Where is he?'",
-      "excerpt": "Joe Biden quipped Wednesday evening that the first time he heard \"Hail to the Chief\" as President he asked, \"Where is he?\"\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/EI8Oa4h1D-Q/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/EI8Oa4h1D-Q/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 172,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210721215214-don-lemon-joe-biden-vpx-screengrab-town-hall-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/21/politics/hail-to-the-chief-biden-cnn-townhall/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/21/politics/hail-to-the-chief-biden-cnn-townhall/index.html",
-      "publishedDateTime": "2021-07-21T19:45:29-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-22-biden-warns-about-conspiracies-flourishing-in-the-us-the-rest-of-the-worlds-wondering-about-us.md",
-      "title": "Biden warns about conspiracies flourishing in the US: 'The rest of the world's wondering about us'",
-      "excerpt": "President Joe Biden on Wednesday raised the alarm about conspiracy theories flourishing in the US and dividing the nation, warning that \"the rest of the world's wondering about us.\"\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Ye0g1f9ppkA/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Ye0g1f9ppkA/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 181,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210705205725-biden-fourth-of-july-2021-file-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/21/politics/conspiracy-theories-us-biden-town-hall/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/21/politics/conspiracy-theories-us-biden-town-hall/index.html",
-      "publishedDateTime": "2021-07-21T18:47:37-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-22-biden-says-abolishing-filibuster-would-throw-entire-congress-into-chaos.md",
-      "title": "Biden says abolishing filibuster would 'throw entire Congress into chaos'",
-      "excerpt": "President Biden shot down calls to abolish the filibuster to clear the way for passage of the sweeping Democrat-backed elections overhaul, arguing that any effort to end use of the tactic despite a GOP outcry would jeopardize his entire legislative agenda.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xo1DjHCpQkk/biden-abolishing-fillibuster-throw-entire-congress-chaos",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xo1DjHCpQkk/biden-abolishing-fillibuster-throw-entire-congress-chaos",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 194,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/80949319-7d85-4343-8813-be2da542c83b/127f1c2b-36c9-4e4c-8318-6ee4ccfaa5d8/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-abolishing-fillibuster-throw-entire-congress-chaos.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-abolishing-fillibuster-throw-entire-congress-chaos.amp",
-      "publishedDateTime": "2021-07-21T18:41:47-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-22-biden-questions-parent-honesty-about-student-vaccinations-says-its-a-matter-of-community-responsibility.md",
-      "title": "Biden questions parent 'honesty' about student vaccinations, says it's a matter of 'community responsibility'",
-      "excerpt": "President Biden said Wednesday that it was a matter of “community responsibility” for parents to be honest about whether their children aged 12 and older are vaccinated when schools reopen later this year.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WuT-bgOa-40/biden-vaccination-honesty-schools-reopen-community-responsibility",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WuT-bgOa-40/biden-vaccination-honesty-schools-reopen-community-responsibility",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c1180707-11ea-4958-9a04-2e046e48bafe/790a3046-6985-4f53-9580-957cdfc1cbd5/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-vaccination-honesty-schools-reopen-community-responsibility.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-vaccination-honesty-schools-reopen-community-responsibility.amp",
-      "publishedDateTime": "2021-07-21T17:46:11-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-22-biden-to-nominate-widow-of-late-sen-ted-kennedy-as-ambassador-to-austria.md",
-      "title": "Biden to nominate widow of late Sen. Ted Kennedy as ambassador to Austria",
-      "excerpt": "President Joe Biden is nominating the widow of late Democratic Sen. Edward M. Kennedy to serve as the United States Ambassador to Austria.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/FCtFiR69Pv0/biden-to-nominates-widow-of-late-sen-ted-kennedy-as-ambassador-to-austria",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/FCtFiR69Pv0/biden-to-nominates-widow-of-late-sen-ted-kennedy-as-ambassador-to-austria",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 174,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e7862f13-9e5a-4ea8-8989-4f240981571b/c3d1dd96-73fe-4544-abee-62b37357c069/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-to-nominates-widow-of-late-sen-ted-kennedy-as-ambassador-to-austria.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-to-nominates-widow-of-late-sen-ted-kennedy-as-ambassador-to-austria.amp",
-      "publishedDateTime": "2021-07-21T17:14:50-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-21-analysis-what-are-the-odds-biden-can-un-stall-the-rest-of-his-agenda.md",
-      "title": "Analysis: What are the odds Biden can un-stall the rest of his agenda?",
-      "excerpt": "We're sIx months into the Joe Biden presidency. The President is set to take part in a CNN Town Hall to be broadcast live at 8 p.m. ET Wednesday night in Cincinnati, Ohio.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OTxGsqn9E-I/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OTxGsqn9E-I/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 315,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210719124237-02-biden-economy-remarks-0719-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/21/politics/biden-infrastructure-agenda-what-matters/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/21/politics/biden-infrastructure-agenda-what-matters/index.html",
-      "publishedDateTime": "2021-07-21T16:45:28-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-22-trump-implores-gop-to-push-back-against-dems-35t-spending-spree.md",
-      "title": "Trump implores GOP to ‘push back’ against Dems’ $3.5T spending spree",
-      "excerpt": "Former President Donald Trump urged House Republicans Wednesday to block the Democrats’ $3.5 trillion budget resolution from passing the Senate after a $1.2 trillion bipartisan",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/07/21/trump-wants-gop-to-push-back-against-dems-3-5t-spending/",
-      "originalUrl": "https://nypost.com/2021/07/21/trump-wants-gop-to-push-back-against-dems-3-5t-spending/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/07/DonaldTrump.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/07/21/trump-wants-gop-to-push-back-against-dems-3-5t-spending/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/21/trump-wants-gop-to-push-back-against-dems-3-5t-spending/amp/",
-      "publishedDateTime": "2021-07-21T14:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-22-biden-nominates-victoria-kennedy-for-austria-ambassadorship.md",
-      "title": "Biden nominates Victoria Kennedy for Austria ambassadorship",
-      "excerpt": "President Joe Biden is nominating Victoria Kennedy, an attorney and the widow of Sen. Ted Kennedy, to serve as his ambassador to Austria WASHINGTON -- President Joe Biden is nominating Victoria ...",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/biden-nominates-victoria-kennedy-austria-ambassadorship-78975901",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/biden-nominates-victoria-kennedy-austria-ambassadorship-78975901",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/WireAP_8ef2cb0f67a04ce08696bd3210b35719_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/biden-nominates-victoria-kennedy-austria-ambassadorship-78975901",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-nominates-victoria-kennedy-austria-ambassadorship-78975901",
-      "publishedDateTime": "2021-07-21T14:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABCNews",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-07-21-ukrainian-president-zelensky-to-visit-biden-in-august.md",
-      "title": "Ukrainian president Zelensky to visit Biden in August",
-      "excerpt": "Ukrainian President Volodymyr Zelensky is set to meet with President Biden next month, the White House announced Wednesday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/hN0eY0h6bdo/ukrainian-president-to-visit-biden-in-august",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/hN0eY0h6bdo/ukrainian-president-to-visit-biden-in-august",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 335,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/216af4a8-262c-428f-8c3c-b0753edaf990/d499b3d7-637d-4397-b5ce-8e666de59a61/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/ukrainian-president-to-visit-biden-in-august.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ukrainian-president-to-visit-biden-in-august.amp",
-      "publishedDateTime": "2021-07-21T13:49:40-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

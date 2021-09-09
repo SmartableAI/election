@@ -2,6 +2,505 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2021-07-17-things-keep-getting-worse-for-biden-blm-nominee-tracy-stone-manning.md",
+      "title": "Things keep getting worse for Biden BLM nominee Tracy Stone-Manning",
+      "excerpt": "Things keep getting worse for Tracy Stone-Manning, President Biden's nominee to lead the Bureau of Land Management.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/PXYsBYipCPY/things-keep-getting-worse-for-biden-blm-nominee-tracy-stone-manning",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/PXYsBYipCPY/things-keep-getting-worse-for-biden-blm-nominee-tracy-stone-manning",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 395,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/515b0870-4aa0-4d1e-8096-e113006cc8ab/2143a296-bde8-445c-8aa5-d85acdba53be/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/things-keep-getting-worse-for-biden-blm-nominee-tracy-stone-manning.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/things-keep-getting-worse-for-biden-blm-nominee-tracy-stone-manning.amp",
+      "publishedDateTime": "2021-07-17T06:27:39-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-17-biden-grappling-with-pandemic-of-the-unvaccinated.md",
+      "title": "Biden grappling with 'pandemic of the unvaccinated'",
+      "excerpt": "Two weeks after celebrating America’s near “independence” from the coronavirus, President Joe Biden is confronting the worrying reality of rising cases and deaths",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Health/wireStory/biden-grappling-pandemic-unvaccinated-78897684",
+      "originalUrl": "https://abcnews.go.com/Health/wireStory/biden-grappling-pandemic-unvaccinated-78897684",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 205,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/US/WireAP_6f049db552754deb97da2642b7a377d7_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Health/wireStory/biden-grappling-pandemic-unvaccinated-78897684",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/biden-grappling-pandemic-unvaccinated-78897684",
+      "publishedDateTime": "2021-07-16T21:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-07-17-pence-says-hes-had-enough-of-biden-as-he-looks-to-escape-trumps-shadow-in-iowa.md",
+      "title": "Pence says he's 'had enough' of Biden as he looks to escape Trump's shadow in Iowa",
+      "excerpt": "Former Vice President Mike Pence crisscrossed Iowa on Friday, assailing President Joe Biden's administration for unleashing \"a tidal wave of left-wing policies that threaten to wipe out all the progress that we made\" in speeches that could preview his potential 2024 message.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sOtQEwxHoaA/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sOtQEwxHoaA/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 569,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210716185507-mike-pence-0716-iowa-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/16/politics/pence-noem-pompeo-iowa/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/16/politics/pence-noem-pompeo-iowa/index.html",
+      "publishedDateTime": "2021-07-16T17:19:04-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-07-16-pence-in-iowa-charges-biden-trying-to-turn-america-into-a-secular-welfare-state.md",
+      "title": "Pence, in Iowa, charges Biden trying to turn America into a ‘secular welfare state’",
+      "excerpt": "Former Vice President Mike Pence, making his first visit to Iowa since the end of the Trump administration, took aim at President Biden and spotlighted his social conservative credentials as he addressed a major gathering of Christian conservatives in the state whose caucuses for half a century have",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Yv-YWtnetg4/pence-in-iowa-charges-biden-trying-to-turn-america-into-secular-welfare-state",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Yv-YWtnetg4/pence-in-iowa-charges-biden-trying-to-turn-america-into-secular-welfare-state",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 334,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/pence-in-iowa-charges-biden-trying-to-turn-america-into-secular-welfare-state.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-in-iowa-charges-biden-trying-to-turn-america-into-secular-welfare-state.amp",
+      "publishedDateTime": "2021-07-16T16:50:31-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-07-16-noem-says-shes-counting-on-trump-running-again-in-2024.md",
+      "title": "Noem says she’s ‘counting’ on Trump running again in 2024",
+      "excerpt": "Republican Gov. Kristi Noem of South Dakota - speaking with Fox News during a trip to Iowa - says she’s “counting” on former President Trump to run again for the White House in 2024.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/snQEGjGRXaY/noem-says-shes-counting-on-trump-running-again-in-2024",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/snQEGjGRXaY/noem-says-shes-counting-on-trump-running-again-in-2024",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 275,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/noem-says-shes-counting-on-trump-running-again-in-2024.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/noem-says-shes-counting-on-trump-running-again-in-2024.amp",
+      "publishedDateTime": "2021-07-16T16:25:41-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-17-william-h-pauley-iii-judge-in-trump-hush-money-case-dies-at-68.md",
+      "title": "William H. Pauley III, Judge in Trump Hush Money Case, Dies at 68",
+      "excerpt": "He sentenced Michael D. Cohen to three years in prison for breaking campaign finance laws by helping to buy the silence of two women who said they had affairs with Donald J. Trump.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/07/16/us/william-h-pauley-iii-dead.html",
+      "originalUrl": "https://www.nytimes.com/2021/07/16/us/william-h-pauley-iii-dead.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/07/18/obituaries/16Pauley1/16Pauley1-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/07/16/us/william-h-pauley-iii-dead.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/16/us/william-h-pauley-iii-dead.amp.html",
+      "publishedDateTime": "2021-07-16T16:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-16-federal-judge-orders-biden-administration-to-end-new-daca-applications.md",
+      "title": "Federal judge orders Biden administration to end new DACA applications",
+      "excerpt": "A federal judge on Friday ordered the Biden administration to stop all applications for the Deferred Action for Childhood Arrivals (DACA) program, after a coalition of states sued and claimed that the Obama-era program was illegal.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/NUrRgklasdU/federal-judge-biden-administration-new-daca-applications",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/NUrRgklasdU/federal-judge-biden-administration-new-daca-applications",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 775,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/515b0870-4aa0-4d1e-8096-e113006cc8ab/2143a296-bde8-445c-8aa5-d85acdba53be/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/federal-judge-biden-administration-new-daca-applications.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/federal-judge-biden-administration-new-daca-applications.amp",
+      "publishedDateTime": "2021-07-16T14:45:09-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-16-biden-says-platforms-like-facebook-are-killing-people-with-covid-misinformation.md",
+      "title": "Biden says platforms like Facebook are 'killing people' with Covid misinformation",
+      "excerpt": "President Joe Biden said Friday social media platforms like Facebook are \"killing people\" with misinformation surrounding the Covid-19 pandemic as the White House ramps up its rhetoric around false information on social media regarding the pandemic.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1CpB3Rl8LE0/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1CpB3Rl8LE0/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 270,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210716101316-02-biden-0713-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/16/politics/biden-facebook-covid-19/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/16/politics/biden-facebook-covid-19/index.html",
+      "publishedDateTime": "2021-07-16T13:50:16-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-17-john-bolton-says-trump-isnt-capable-of-staging-a-coup-because-that-requires-advance-thinking-planning-strategizing.md",
+      "title": "John Bolton says Trump isn't 'capable' of staging a coup because 'that requires advance thinking, planning, strategizing'",
+      "excerpt": "\"The idea of Trump staging a coup does give him too much credit,\" Trump's former national security adviser said on CNN's \"New Day.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/john-bolton-trump-is-incapable-of-staging-a-coup-video-2021-7",
+      "originalUrl": "https://www.businessinsider.com/john-bolton-trump-is-incapable-of-staging-a-coup-video-2021-7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/60f1c8c571757b0018c6a161?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/john-bolton-trump-is-incapable-of-staging-a-coup-video-2021-7?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/john-bolton-trump-is-incapable-of-staging-a-coup-video-2021-7?amp",
+      "publishedDateTime": "2021-07-16T12:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-07-17-addison-rae-slammed-for-greeting-ex-president-trump-at-event.md",
       "title": "Addison Rae slammed for greeting ex-President Trump at event",
       "excerpt": "Once the TikToker got his attention, the two shook hands and she mentioned that she just “had to say hi” and that it was “so nice to meet you.” Social media users were not",
@@ -826,470 +1325,6 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/15/politics/cuba-communism-biden/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/15/politics/cuba-communism-biden/index.html",
       "publishedDateTime": "2021-07-15T15:36:50-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-16-exclusive-documents-show-which-pence-aides-are-still-getting-government-paychecks.md",
-      "title": "Exclusive documents show which Pence aides are still getting government paychecks",
-      "excerpt": "The documents show how Pence has been spending taxpayer cash since leaving the White House in January.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/mike-pence-staff-getting-federal-paychecks-2021-7",
-      "originalUrl": "https://www.businessinsider.com/mike-pence-staff-getting-federal-paychecks-2021-7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/60f05f79d1026600182c5bad?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-15T11:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-07-16-megan-fox-rips-burn-a-witch-at-the-stake-cancel-culture-over-her-trump-comments.md",
-      "title": "Megan Fox rips ‘burn-a-witch-at-the-stake’ cancel culture over her Trump comments",
-      "excerpt": "Uhmmm … I do not align myself with any political party or individual politicians,” the Megan Fox wrote in an all-caps message on her Instagram stories addressing her attackers.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/07/15/megan-fox-rips-cancel-culture-over-her-comments-about-trump/",
-      "originalUrl": "https://nypost.com/2021/07/15/megan-fox-rips-cancel-culture-over-her-comments-about-trump/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 130,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/07/machine-gun-kelly-megan-fox-003.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/07/15/megan-fox-rips-cancel-culture-over-her-comments-about-trump/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/15/megan-fox-rips-cancel-culture-over-her-comments-about-trump/amp/",
-      "publishedDateTime": "2021-07-15T10:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-16-trump-says-hes-not-into-coups-after-book-claims-general-feared-dangerous-takeover.md",
-      "title": "Trump Says He's 'Not Into Coups' After Book Claims General Feared Dangerous Takeover",
-      "excerpt": "Even if he were interested in a coup, Trump said General Mark Milley is the \"last person\" he'd want to participate in one with.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/trump-says-hes-not-coups-after-book-claims-general-feared-dangerous-takeover-1610158",
-      "originalUrl": "https://www.newsweek.com/trump-says-hes-not-coups-after-book-claims-general-feared-dangerous-takeover-1610158",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 158,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1846983/donald-trump-coup-mark-milley.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/trump-says-hes-not-coups-after-book-claims-general-feared-dangerous-takeover-1610158?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-says-hes-not-coups-after-book-claims-general-feared-dangerous-takeover-1610158?amp=1",
-      "publishedDateTime": "2021-07-15T10:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-15-porsches-gucci-rings-and-billions-of-robocalls-inside-the-pac-operation-that-raised-millions-by-impersonating-donald-trump.md",
-      "title": "Porsches, Gucci rings, and billions of robocalls: Inside the PAC operation that raised millions by impersonating Donald Trump",
-      "excerpt": "At first glance, \"Matte Nox\" looks like your typical thirty-something wannabe Internet influencer, flaunting a lavish lifestyle on his public Instagram and TikTok accounts.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/T-pJ_mIOlQs/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/T-pJ_mIOlQs/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 148,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210604123529-20210607-mattenox-media-collage-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/15/politics/kfile-pac-trump-robocall-operation/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/15/politics/kfile-pac-trump-robocall-operation/index.html",
-      "publishedDateTime": "2021-07-15T09:05:41-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-15-new-book-goes-behind-the-scenes-of-the-trump-presidency-and-re-election-campaign.md",
-      "title": "New book goes behind the scenes of the Trump presidency and re-election campaign",
-      "excerpt": "A new book offers a collection of one-on-one interviews with friends and staffers of former President Donald Trump, and even Mr. Trump himself. Michael C. Bender, author of \"Frankly, We Did Win This Election: The Inside Story of How Trump Lost,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/video/new-book-goes-behind-the-scenes-of-trump-presidency/",
-      "originalUrl": "https://www.cbsnews.com/video/new-book-goes-behind-the-scenes-of-trump-presidency/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 1435,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews3.cbsistatic.com/hub/i/r/2021/07/15/f8645179-88a4-45f6-9391-952130800b23/thumbnail/1200x630/856f7c8b5c6fadcd019330fe36e97ec7/cbsn-fusion-new-book-goes-behind-the-scenes-of-trump-presidency-thumbnail-754512-640x360.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/video/new-book-goes-behind-the-scenes-of-trump-presidency/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/new-book-goes-behind-the-scenes-of-trump-presidency/",
-      "publishedDateTime": "2021-07-15T08:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-15-kremlin-papers-appear-to-show-putins-plot-to-put-trump-in-white-house.md",
-      "title": "Kremlin papers appear to show Putin’s plot to put Trump in White House",
-      "excerpt": "Exclusive: Documents suggest Russia launched secret multi-agency effort to interfere in US democracy",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/world/2021/jul/15/kremlin-papers-appear-to-show-putins-plot-to-put-trump-in-white-house?fbclid=IwAR093rWit5hdvtHzFLjfcZHp-1JVcDHCpgNHIH27bZkREuIF71fvm9p7I7s",
-      "originalUrl": "https://www.theguardian.com/world/2021/jul/15/kremlin-papers-appear-to-show-putins-plot-to-put-trump-in-white-house?fbclid=IwAR093rWit5hdvtHzFLjfcZHp-1JVcDHCpgNHIH27bZkREuIF71fvm9p7I7s",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/6beb860dc56746ba31173ffa9f3db48025fcf176/0_40_3725_2236/master/3725.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=994273b7350ce6d004a26dcdd89ff063",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/world/2021/jul/15/kremlin-papers-appear-to-show-putins-plot-to-put-trump-in-white-house",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2021/jul/15/kremlin-papers-appear-to-show-putins-plot-to-put-trump-in-white-house",
-      "publishedDateTime": "2021-07-15T07:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-15-cnbc-host-vs-mnuchin-do-you-believe-it-is-a-lie-that-the-election-was-stolen-from-donald-trump.md",
-      "title": "CNBC Host vs. Mnuchin: Do You Believe It Is A Lie That The Election Was Stolen From Donald Trump?",
-      "excerpt": "Former Treasury Secretary Steve Mnunchin responds to a question from CNBC host Eamon Javers about the results of the 2020 election: \"In 2020, I wasn’t able to participate in the campaign. So I’m really just watching this from the outside.",
-      "sourceUrl": null,
-      "webUrl": "https://www.realclearpolitics.com/video/2021/07/15/cnbc_host_vs_mnuchin_do_you_believe_it_is_a_lie_that_the_election_was_stolen_from_donald_trump.html#!",
-      "originalUrl": "https://www.realclearpolitics.com/video/2021/07/15/cnbc_host_vs_mnuchin_do_you_believe_it_is_a_lie_that_the_election_was_stolen_from_donald_trump.html#!",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.realclear.com/images/51/513732.jpg",
-          "width": 1130,
-          "height": 846,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "http://www.realclearpolitics.com/video/2021/07/15/cnbc_host_vs_mnuchin_do_you_believe_it_is_a_lie_that_the_election_was_stolen_from_donald_trump.amp.html",
-      "cdnAmpWebUrl": "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/07/15/cnbc_host_vs_mnuchin_do_you_believe_it_is_a_lie_that_the_election_was_stolen_from_donald_trump.amp.html",
-      "publishedDateTime": "2021-07-15T07:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RealClearPolitics",
-        "domain": "realclearpolitics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-15-kevin-mccarthy-set-to-meet-with-trump-at-bedminster-club.md",
-      "title": "Kevin McCarthy set to meet with Trump at Bedminster club",
-      "excerpt": "House Minority Leader Kevin McCarthy is slated to meet with former President Donald Trump in Bedminster, N.J. on Thursday, Trump said in a statement ahead of the gathering.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/07/15/mccarthy-set-to-meet-with-trump-at-bedminster-clubmccarthy-set-to-meet-with-trump-at-bedminster-club/",
-      "originalUrl": "https://nypost.com/2021/07/15/mccarthy-set-to-meet-with-trump-at-bedminster-clubmccarthy-set-to-meet-with-trump-at-bedminster-club/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/07/mccarthy-trump-46.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/07/15/mccarthy-set-to-meet-with-trump-at-bedminster-clubmccarthy-set-to-meet-with-trump-at-bedminster-club/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/15/mccarthy-set-to-meet-with-trump-at-bedminster-clubmccarthy-set-to-meet-with-trump-at-bedminster-club/amp/",
-      "publishedDateTime": "2021-07-15T07:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-15-donald-trump-and-kevin-mccarthy-to-meet-on-thursday-as-16-committee-hearing-looms.md",
-      "title": "Donald Trump and Kevin McCarthy to meet on Thursday as 1/6 committee hearing looms",
-      "excerpt": "House GOP Leader Kevin McCarthy is expected to meet with former President Donald Trump on Thursday, Trump announced in a statement, coming as the California Republican is considering which members of his conference to appoint to a special committee tasked with investigating the deadly January 6 riot",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/GWPqFobn8SU/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/GWPqFobn8SU/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 189,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210512104940-kevin-mccarthy-2020-file-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/15/politics/donald-trump-kevin-mccarthy-meeting/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/15/politics/donald-trump-kevin-mccarthy-meeting/index.html",
-      "publishedDateTime": "2021-07-15T06:36:35-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",

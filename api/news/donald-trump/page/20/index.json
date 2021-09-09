@@ -2,6 +2,58 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2021-04-09-former-trump-campaign-manager-advising-jenner-on-potential-california-gubernatorial-run.md",
+      "title": "Former Trump campaign manager advising Jenner on potential California gubernatorial run",
+      "excerpt": "ADVERTISEMENT Parscale was the digital guru for former President Trump Donald Trump Gaetz trip to Bahamas part of federal sex trafficking investigation: report Omar slams Biden admin for ...",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/blogs/in-the-know/in-the-know/547205-former-trump-campaign-manager-advising-jenner-on-california",
+      "originalUrl": "https://thehill.com/blogs/in-the-know/in-the-know/547205-former-trump-campaign-manager-advising-jenner-on-california",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 177,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/blogs/jennercaitlyn03112016getty.jpg",
+          "width": 645,
+          "height": 363,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/blogs/in-the-know/in-the-know/547205-former-trump-campaign-manager-advising-jenner-on-california?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/blogs/in-the-know/in-the-know/547205-former-trump-campaign-manager-advising-jenner-on-california?amp",
+      "publishedDateTime": "2021-04-08T12:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-04-09-trumps-judicial-appointments-worsened-racial-diversity-in-the-federal-courts.md",
       "title": "Trump's judicial appointments worsened racial diversity in the federal courts",
       "excerpt": "President Donald Trump's appointments made it worse. In just four years, Trump placed 234 judges with lifetime tenure to the federal courts, making up 28% of the current federal judiciary. An overwhelming number — 192 — of Trump's active appointments ...",
@@ -1508,58 +1560,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-04-03-donald-trump-ga-gov-brian-kemp-call-out-woke-companies-like-mlb-delta.md",
-      "title": "Donald Trump, GA Gov. Brian Kemp Call Out 'Woke Companies' Like MLB, Delta",
-      "excerpt": "\"Boycott baseball and all of the woke companies that are interfering with Free and Fair Elections. Are you listening Coke, Delta, and all!\" Trump wrote.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/donald-trump-ga-gov-brian-kemp-call-out-woke-companies-like-mlb-delta-1580827",
-      "originalUrl": "https://www.newsweek.com/donald-trump-ga-gov-brian-kemp-call-out-woke-companies-like-mlb-delta-1580827",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1771295/donald-trump.jpg",
-          "width": 594,
-          "height": 396,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/donald-trump-ga-gov-brian-kemp-call-out-woke-companies-like-mlb-delta-1580827?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-ga-gov-brian-kemp-call-out-woke-companies-like-mlb-delta-1580827?amp=1",
-      "publishedDateTime": "2021-04-02T19:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -2,6 +2,509 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2021-07-14-rubio-cuba-will-see-horrific-bloodbath-if-biden-does-not-take-action.md",
+      "title": "Rubio: Cuba will see 'horrific bloodbath' if Biden does not take action",
+      "excerpt": "Sen. Marco Rubio, R-Fl., issued a dire warning to President Biden Wednesday morning: take a stand against the Cuban government or there will be a “bloodbath” in the island nation's streets.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xBWonwIMvUQ/rubio-cuba-will-see-horrific-bloodbath-if-biden-does-not-take-action",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xBWonwIMvUQ/rubio-cuba-will-see-horrific-bloodbath-if-biden-does-not-take-action",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 235,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/rubio-cuba-will-see-horrific-bloodbath-if-biden-does-not-take-action.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rubio-cuba-will-see-horrific-bloodbath-if-biden-does-not-take-action.amp",
+      "publishedDateTime": "2021-07-14T07:25:21-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-14-angela-merkels-white-house-visit-ends-trump-era-hostilities-but-trans-atlantic-drift-continues.md",
+      "title": "Angela Merkel’s White House Visit Ends Trump-Era Hostilities, but Trans-Atlantic Drift Continues",
+      "excerpt": "German Chancellor Angela Merkel’s farewell visit to Washington this week will broadcast a new, friendlier tone between the U.S. and Europe after the acrimony of the Trump era but will likely do little to reverse the long-term divergence of interests in the countries’ relationship.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/angela-merkels-white-house-visit-ends-trump-era-hostilities-but-trans-atlantic-drift-continues-11626271040",
+      "originalUrl": "https://www.wsj.com/articles/angela-merkels-white-house-visit-ends-trump-era-hostilities-but-trans-atlantic-drift-continues-11626271040",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-368648/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/angela-merkels-white-house-visit-ends-trump-era-hostilities-but-trans-atlantic-drift-continues-11626271040",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/angela-merkels-white-house-visit-ends-trump-era-hostilities-but-trans-atlantic-drift-continues-11626271040",
+      "publishedDateTime": "2021-07-14T05:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-14-senate-democrats-35t-budget-deal-backs-up-bidens-goals.md",
+      "title": "Senate Democrats' $3.5T budget deal backs up Biden's goals",
+      "excerpt": "Senate Democrats have taken a major step toward meeting President Joe Biden's proposals for massive spending on government programs for climate change, health care, family services and more",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Business/wireStory/senate-democrats-35t-budget-deal-backs-bidens-goals-78836147",
+      "originalUrl": "https://abcnews.go.com/Business/wireStory/senate-democrats-35t-budget-deal-backs-bidens-goals-78836147",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 385,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/WireAP_a3a9647e0cfb4623a9dfd26a47bd0289_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Business/wireStory/senate-democrats-35t-budget-deal-backs-bidens-goals-78836147",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/senate-democrats-35t-budget-deal-backs-bidens-goals-78836147",
+      "publishedDateTime": "2021-07-14T03:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-07-14-texas-abbott-says-biden-dems-must-stop-misinformation-spread-on-voting-bill.md",
+      "title": "Texas’ Abbott says Biden, Dems must stop ‘misinformation’ spread on voting bill",
+      "excerpt": "Gov. Greg Abbott, the Texas Republican, took to Twitter late Tuesday to blame President Biden for willfully spreading “misinformation” about the state GOP’s sweeping elections overhaul bill.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8vfR7Htx2zE/texas-abbott-says-biden-dems-must-stop-misinformation-spread-on-voting-bill",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8vfR7Htx2zE/texas-abbott-says-biden-dems-must-stop-misinformation-spread-on-voting-bill",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 191,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/texas-abbott-says-biden-dems-must-stop-misinformation-spread-on-voting-bill.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-abbott-says-biden-dems-must-stop-misinformation-spread-on-voting-bill.amp",
+      "publishedDateTime": "2021-07-13T23:07:12-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-14-ingraham-slams-bidens-philadelphia-voter-rights-speech-as-usual-liberals-are-at-war-with-the-facts.md",
+      "title": "Ingraham slams Biden's Philadelphia voter rights speech: 'As usual, liberals are at war with the facts'",
+      "excerpt": "In response to President Joe Biden's Tuesday speech on voting rights protection in Philadelphia, Fox News host Laura Ingraham ripped the president on \"The Ingraham Angle,\" claiming that \"as usual, liberals are at war with the facts\" and that Biden was \"just reading whatever script his writers handed to him.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/ingraham-biden-philadelphia-voter-rights",
+      "originalUrl": "https://www.foxnews.com/media/ingraham-biden-philadelphia-voter-rights",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/46929a4d-78fe-445f-a714-0ea8ceb5e626/8eb45b00-d0a2-4b1b-8670-7c60e17ede15/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/ingraham-biden-philadelphia-voter-rights.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/ingraham-biden-philadelphia-voter-rights.amp",
+      "publishedDateTime": "2021-07-13T21:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-14-trump-dismissed-buttigieg-bloomberg-as-serious-contenders-book.md",
+      "title": "Trump dismissed Buttigieg, Bloomberg as serious contenders: book",
+      "excerpt": "A new book claims to shed light on former President Trump’s mindset in February of 2020 when his approval rating was surging and contains several quotes encapsulating the fierce contempt he held toward various Democratic presidential candidates.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/BfKYxcTNa9o/trump-dismissed-buttigieg-bloomberg-as-serious-contenders-book",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/BfKYxcTNa9o/trump-dismissed-buttigieg-bloomberg-as-serious-contenders-book",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e87bb069-e6f9-4ff3-afa7-f7bb770a29c5/1e4ed738-e393-4a90-adeb-cadb71587b35/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-dismissed-buttigieg-bloomberg-as-serious-contenders-book.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-dismissed-buttigieg-bloomberg-as-serious-contenders-book.amp",
+      "publishedDateTime": "2021-07-13T18:56:04-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-13-justice-clarence-thomas-rejects-longshot-bid-to-disrupt-bidens-mask-mandate-for-public-transport.md",
+      "title": "Justice Clarence Thomas rejects longshot bid to disrupt Biden's mask mandate for public transport",
+      "excerpt": "Justice Clarence Thomas on Tuesday rejected an emergency request to block Biden administration's Covid-19 mask requirement for public travel.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NE1lNWjNj1w/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NE1lNWjNj1w/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 162,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210713183958-airline-passenger-masks-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/13/politics/supreme-court-clarence-thomas-federal-mask-airplane-airport/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/13/politics/supreme-court-clarence-thomas-federal-mask-airplane-airport/index.html",
+      "publishedDateTime": "2021-07-13T16:37:41-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-13-mitch-mcconnell-responds-to-trumps-old-crow-insult-its-quite-an-honor.md",
+      "title": "Mitch McConnell responds to Trump's 'Old Crow' insult: 'It's quite an honor'",
+      "excerpt": "Former President Donald Trump took a whack at Senate GOP leader Mitch McConnell last weekend, calling him an \"Old Crow\" as he railed against the Kentucky Republican.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1daCraT4Ons/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1daCraT4Ons/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 172,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201216121358-01-mcconnell-trump-split-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/13/politics/mitch-mcconnell-old-crow/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/13/politics/mitch-mcconnell-old-crow/index.html",
+      "publishedDateTime": "2021-07-13T16:02:16-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-14-gutfeld-rips-biden-as-pathological-liar-injecting-race-into-election-law-speech-amid-texas-standoff.md",
+      "title": "Gutfeld rips Biden as 'pathological liar' injecting race into election law speech amid Texas standoff",
+      "excerpt": "The Five” host Greg Gutfeld blasted President Joe Biden as a “pathological, shameless liar” after the Delaware Democrat injected race into a Philadelphia speech about election laws, as Texas state Democratic lawmakers flew to Washington,",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/gutfeld-rips-biden-as-pathological-liar-injecting-race-into-election-law-speech-amid-texas-law-battle",
+      "originalUrl": "https://www.foxnews.com/media/gutfeld-rips-biden-as-pathological-liar-injecting-race-into-election-law-speech-amid-texas-law-battle",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/15acd04c-ce05-489f-b4ff-0c3c721a9261/c65b3c24-a176-43f7-9682-1e934821161f/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/gutfeld-rips-biden-as-pathological-liar-injecting-race-into-election-law-speech-amid-texas-law-battle.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/gutfeld-rips-biden-as-pathological-liar-injecting-race-into-election-law-speech-amid-texas-law-battle.amp",
+      "publishedDateTime": "2021-07-13T15:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-13-biden-in-standoff-with-democratic-senators-over-who-should-lead-fda.md",
       "title": "Biden in standoff with Democratic senators over who should lead FDA",
       "excerpt": "Nearly six months into a presidency fully engulfed in a battle against a global pandemic, President Joe Biden is in a standoff with senators in his own party over who should lead the US Food and Drug Administration, a key post in the fight against Covid-19 -- with no indication the White House will name",
@@ -839,491 +1342,6 @@
         "Election",
         "Joe Biden",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-12-rubio-slams-biden-admins-major-failure-of-initially-tying-of-cuban-protests-to-rising-covid-cases.md",
-      "title": "Rubio slams Biden admin’s 'major failure' of initially tying of Cuban protests to rising COVID cases",
-      "excerpt": "Sen. Marco Rubio, R-Fla., is criticizing President Biden’s administration for its initial diagnosis on the causes of mass protests that broke out in Cuba on Sunday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/fG817xC7KTA/rubio-slams-bidens-initial-comments-blaming-cuba-protests-on-covid-cases-as-a-major-failure",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/fG817xC7KTA/rubio-slams-bidens-initial-comments-blaming-cuba-protests-on-covid-cases-as-a-major-failure",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 180,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9e672453-260e-4c64-8f74-5bc0d75728a5/f9d731d8-9075-49ec-afa5-898ba6ed7492/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/rubio-slams-bidens-initial-comments-blaming-cuba-protests-on-covid-cases-as-a-major-failure.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rubio-slams-bidens-initial-comments-blaming-cuba-protests-on-covid-cases-as-a-major-failure.amp",
-      "publishedDateTime": "2021-07-12T14:30:57-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-12-biden-briefed-by-us-delegation-that-traveled-to-haiti.md",
-      "title": "Biden briefed by US delegation that traveled to Haiti ",
-      "excerpt": "The interagency US delegation to Haiti briefed President Joe Biden on Monday morning after they returned from Port-au-Prince, White House press secretary Jen Psaki confirmed Monday.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/MqETRGGo0Yw/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/MqETRGGo0Yw/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 755,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210506110858-03-jen-psaki-0427-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/12/politics/president-biden-briefed-on-haiti/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/12/politics/president-biden-briefed-on-haiti/index.html",
-      "publishedDateTime": "2021-07-12T10:45:36-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-12-trump-rips-through-the-roof-crime-in-nyc-other-democrat-led-cities.md",
-      "title": "Trump rips ‘through the roof’ crime in NYC, other Democrat-led cities",
-      "excerpt": "The former president said “New York is totally out of control” ​because there is “no more cash bail” and “all they do is go after Republicans.”",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/07/12/trump-rips-through-the-roof-crime-in-nyc-other-cities/",
-      "originalUrl": "https://nypost.com/2021/07/12/trump-rips-through-the-roof-crime-in-nyc-other-cities/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/07/donald-trump-003.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/07/12/trump-rips-through-the-roof-crime-in-nyc-other-cities/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/12/trump-rips-through-the-roof-crime-in-nyc-other-cities/amp/",
-      "publishedDateTime": "2021-07-12T09:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-12-lin-wood-blames-trump-lawyer-sidney-powell-for-dragging-him-into-election-fraud-case.md",
-      "title": "Lin Wood Blames Trump Lawyer Sidney Powell for Dragging Him Into Election Fraud Case",
-      "excerpt": "Wood told a judge on Monday that he never reviewed documents in the case, attempting to absolve himself of responsibility.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/lin-wood-blames-trump-lawyer-sidney-powell-dragging-him-election-fraud-case-1608913",
-      "originalUrl": "https://www.newsweek.com/lin-wood-blames-trump-lawyer-sidney-powell-dragging-him-election-fraud-case-1608913",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 213,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1843811/lin-wood-sidney-powell-donald-trump.jpg",
-          "width": 3615,
-          "height": 2410,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/lin-wood-blames-trump-lawyer-sidney-powell-dragging-him-election-fraud-case-1608913?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/lin-wood-blames-trump-lawyer-sidney-powell-dragging-him-election-fraud-case-1608913?amp=1",
-      "publishedDateTime": "2021-07-12T09:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-12-biden-calls-on-cuban-regime-to-hear-their-people-and-serve-their-needs-amid-rare-protests.md",
-      "title": "Biden calls on Cuban regime to 'hear their people and serve their needs' amid rare protests",
-      "excerpt": "President Joe Biden on Monday expressed support for the Cuban people amid rare protests in the country over a lack of freedoms and a worsening economy, calling on Cuban President Miguel Diàz-Canel regime to \"hear their people and serve their needs.\"\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/808zi1FI1NU/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/808zi1FI1NU/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210708143551-02-biden-afghanistan-remarks-0708-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/12/politics/biden-cuba-protests/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/12/politics/biden-cuba-protests/index.html",
-      "publishedDateTime": "2021-07-12T07:54:17-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-12-biden-releases-statement-on-cuba-protests-we-stand-with-the-cuban-people.md",
-      "title": "Biden releases statement on Cuba protests: 'We stand with the Cuban people'",
-      "excerpt": "President Joe Biden on Monday released a statement in solidarity with the people of Cuba who marched on the island Sunday to protest leadership amid the pandemic.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/biden-releases-statement-cuba-protests-stand-cuban-people/story?id=78798057",
-      "originalUrl": "https://abcnews.go.com/Politics/biden-releases-statement-cuba-protests-stand-cuban-people/story?id=78798057",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 203,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/biden-bowser-gty-ps-210712_1626112643191_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/biden-releases-statement-cuba-protests-stand-cuban-people/story?id=78798057",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-releases-statement-cuba-protests-stand-cuban-people/story?id=78798057",
-      "publishedDateTime": "2021-07-12T07:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-07-12-vp-kamala-harris-to-help-raise-funds-for-gov-whitmer-during-detroit-visit.md",
-      "title": "VP Kamala Harris to help raise funds for Gov. Whitmer during Detroit visit",
-      "excerpt": "Vice President Harris is scheduled to fly to Detroit late Monday morning and depart shortly after a series of afternoon events at the TCF Center.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2021/07/12/kamla-harris-detroit-fundraiser-gretchen-whitmer/7934543002/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2021/07/12/kamla-harris-detroit-fundraiser-gretchen-whitmer/7934543002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 343,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/06/25/PTX1/77b5bf4f-deac-457f-8549-bb1965edcac4-Harris_Border1553.JPG?auto=webp&crop=4364,2455,x0,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/7934543002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7934543002",
-      "publishedDateTime": "2021-07-12T06:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-07-12-garcetti-to-india-jenner-doesnt-want-trump-nod-gaines-gets-in-heat-wave-threatens-power-grid.md",
-      "title": "GARCETTI to INDIA — JENNER doesn’t want TRUMP nod — GAINES gets in — HEAT WAVE threatens power grid",
-      "excerpt": "Eric Garcetti’s going on to his next big challenge. But is he leaving the City of Angels in the lurch? The mayor of America’s second-largest city was chosen by President Joe Biden for the high profile ambassadorship of India Friday,",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/newsletters/california-playbook/2021/07/12/garcetti-tapped-for-india-ambassadorship-jenner-doesnt-want-trump-endorsement-gaines-gets-in-california-to-require-school-face-masks-in-fall-heat-wave-threatens-power-grid-decision-today-on-gavins-recall-ballot-designation-493530",
-      "originalUrl": "https://www.politico.com/newsletters/california-playbook/2021/07/12/garcetti-tapped-for-india-ambassadorship-jenner-doesnt-want-trump-endorsement-gaines-gets-in-california-to-require-school-face-masks-in-fall-heat-wave-threatens-power-grid-decision-today-on-gavins-recall-ballot-designation-493530",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg",
-          "width": 1120,
-          "height": 629,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-12T06:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-12-a-weekend-of-demagoguery-shows-why-trump-cant-be-ignored.md",
-      "title": "A weekend of demagoguery shows why Trump can't be ignored",
-      "excerpt": "Nothing can destroy former President Donald Trump in the eyes of those who love him, one reason why his hold on American politics remains formidable.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nzJp37AxPsQ/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nzJp37AxPsQ/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 495,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210711201210-trump-cpac-dallas-0711-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/12/politics/donald-trump-republicans-cpac/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/12/politics/donald-trump-republicans-cpac/index.html",
-      "publishedDateTime": "2021-07-12T03:14:28-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

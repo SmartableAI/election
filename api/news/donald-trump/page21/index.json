@@ -2,6 +2,58 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2021-04-03-donald-trump-ga-gov-brian-kemp-call-out-woke-companies-like-mlb-delta.md",
+      "title": "Donald Trump, GA Gov. Brian Kemp Call Out 'Woke Companies' Like MLB, Delta",
+      "excerpt": "\"Boycott baseball and all of the woke companies that are interfering with Free and Fair Elections. Are you listening Coke, Delta, and all!\" Trump wrote.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/donald-trump-ga-gov-brian-kemp-call-out-woke-companies-like-mlb-delta-1580827",
+      "originalUrl": "https://www.newsweek.com/donald-trump-ga-gov-brian-kemp-call-out-woke-companies-like-mlb-delta-1580827",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1771295/donald-trump.jpg",
+          "width": 594,
+          "height": 396,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/donald-trump-ga-gov-brian-kemp-call-out-woke-companies-like-mlb-delta-1580827?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-ga-gov-brian-kemp-call-out-woke-companies-like-mlb-delta-1580827?amp=1",
+      "publishedDateTime": "2021-04-02T19:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-04-02-trump-peeled-away-latino-voters-nationwide-in-2020-a-new-analysis-found.md",
       "title": "Trump peeled away Latino voters nationwide in 2020, a new analysis found.",
       "excerpt": "A post-mortem analysis of the 2020 election has found that Latino voters played a meaningful role in tipping the Senate and the presidency to the Democrats, but that former President Donald J. Trump’s concerted effort to peel away Latino support ...",

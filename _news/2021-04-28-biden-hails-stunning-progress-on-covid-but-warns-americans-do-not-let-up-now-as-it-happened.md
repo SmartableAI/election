@@ -73,6 +73,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "AP FACT CHECK: Biden overstates UAW support of electric cars"
+    excerpt: "President Joe Biden is glossing over important details and oversimplifying the facts when it comes to United Auto Workers' support for his effort to dramatically boost U.S. production of electric vehi"
+    publishedDateTime: 2021-09-08T21:42:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/ap-fact-check-biden-overstates-uaw-support-electric-79904349"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/ap-fact-check-biden-overstates-uaw-support-electric-79904349"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/ap-fact-check-biden-overstates-uaw-support-electric-79904349"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_085a55a6151c46b3ae125a0d8cf47ddb_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Fact check: Post detailing COVID deaths under Biden ignores improving trend"
     excerpt: "A Facebook post claims more than 176,000 people died from COVID-19 in the United States since President Joe Biden took office on Jan. 20. The image of Biden masked up with his thumbs up, shared April 28,"
     publishedDateTime: 2021-05-01T01:56:00Z
@@ -162,6 +178,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/d8fc0edb1ea5b3e9df888937a204a01cbd43e980/0_0_5732_3441/master/5732.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=eab2c30986f1bf406c31fff078494f81"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Fact check: Biden overstates UAW support of electric cars"
+    excerpt: "Biden glossed over important details and oversimplified the facts in his boast about support from the UAW for his effort to increase EV sales."
+    publishedDateTime: 2021-09-08T21:51:00Z
+    webUrl: "https://www.detroitnews.com/story/business/autos/2021/09/08/fact-check-biden-overstates-uaw-support-electric-cars/5778040001/"
+    ampWebUrl: "https://amp.detroitnews.com/amp/5778040001"
+    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/5778040001"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 75
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/09/08/PDTN/e985b0f6-0d3d-4732-ba46-334e4c553653-AP21245682310998.jpg?auto=webp&crop=642,361,x184,y139&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Joe Biden the perfect fit for today's Americans"
     excerpt: "To many Red-Blooded Americans, America does not feel right, right now. Does our president represent the people he leads?Our media opened our eyes,"

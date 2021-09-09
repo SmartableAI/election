@@ -25,51 +25,51 @@ images:
     isCached: true
 
 related:
-  - title: "White House keeping Kamala Harris from Afghanistan crisis 'to stop contamination'"
-    excerpt: "The White House is deliberately keeping Kamala Harris insulated from the Afghanistan withdrawal debacle to clear her way for a future presidential run, sources have told the Teleg"
-    publishedDateTime: 2021-09-05T13:31:00Z
-    webUrl: "https://www.telegraph.co.uk/world-news/2021/09/05/white-house-keeping-kamala-harris-afghanistan-crisis-stop-contamination/"
-    ampWebUrl: "https://www.telegraph.co.uk/world-news/2021/09/05/white-house-keeping-kamala-harris-afghanistan-crisis-stop-contamination/amp/"
-    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/world-news/2021/09/05/white-house-keeping-kamala-harris-afghanistan-crisis-stop-contamination/amp/"
+  - title: "‘We’ll Show Them’: Vice President Harris Campaigns for Gov. Newsom in Bay Area"
+    excerpt: "Kamala Harris described the recall as part of a broader Republican effort to oust Democrats from power and expand conservative restrictions on voting, abortion and LGBTQ rights."
+    publishedDateTime: 2021-09-08T21:46:00Z
+    webUrl: "https://timesofsandiego.com/politics/2021/09/08/well-show-them-vice-president-harris-campaigns-for-gov-newsom-in-bay-area/"
+    ampWebUrl: "https://timesofsandiego.com/politics/2021/09/08/well-show-them-vice-president-harris-campaigns-for-gov-newsom-in-bay-area/"
+    cdnAmpWebUrl: "https://timesofsandiego-com.cdn.ampproject.org/c/s/timesofsandiego.com/politics/2021/09/08/well-show-them-vice-president-harris-campaigns-for-gov-newsom-in-bay-area/"
     type: article
     provider:
-      name: The Daily Telegraph
-      domain: telegraph.co.uk
-    quality: 70
+      name: Times of San Diego
+      domain: timesofsandiego.com
+    quality: 71
     images:
-      - url: "https://www.telegraph.co.uk/content/dam/world-news/2021/09/05/TELEMMGLPICT000269145920_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQf0Rf_Wk3V23H2268P_XkPxc.jpeg"
-        width: 2500
-        height: 1563
+      - url: "https://timesofsandiego.com/wp-content/uploads/2021/09/Harris-Newsom.png"
+        width: 1000
+        height: 664
         isCached: true
-  - title: "Minneapolis man charged with murder weeks after being bailed out by Kamala Harris bail fund"
-    excerpt: "Minnesota man George Howard,48, was charged with murder on August 29 weeks after he was released on domestic abuse charges by a bail fund supported by Vice President Kamala Harris"
-    publishedDateTime: 2021-09-08T06:45:00Z
-    webUrl: "https://www.dailymail.co.uk/news/article-9968369/Minneapolis-man-charged-murder-weeks-bailed-Kamala-Harris-bail-fund.html?fr=operanews"
-    ampWebUrl: "https://www.dailymail.co.uk/news/article-9968369/amp/Minneapolis-man-charged-murder-weeks-bailed-Kamala-Harris-bail-fund.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-9968369/amp/Minneapolis-man-charged-murder-weeks-bailed-Kamala-Harris-bail-fund.html"
+  - title: "Vice President Kamala Harris and former President George W. Bush to attend 9/11 observance at Flight 93 memorial"
+    excerpt: "Former President George W. Bush is scheduled to speak during the annual 9/11 observance of Sept. 11 at the Flight 93 memorial in Somerset County, Pa."
+    publishedDateTime: 2021-09-07T15:16:00Z
+    webUrl: "https://www.wtae.com/article/kamala-harris-george-w-bush-flight-93-memorial-september-11/37500351"
+    ampWebUrl: "https://www.wtae.com/amp/article/kamala-harris-george-w-bush-flight-93-memorial-september-11/37500351"
+    cdnAmpWebUrl: "https://www-wtae-com.cdn.ampproject.org/c/s/www.wtae.com/amp/article/kamala-harris-george-w-bush-flight-93-memorial-september-11/37500351"
     type: article
     provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 65
+      name: WTAE-TV
+      domain: wtae.com
+    quality: 54
     images:
-      - url: "https://i.dailymail.co.uk/1s/2021/09/08/07/47640795-0-image-a-9_1631080935223.jpg"
-        width: 636
-        height: 382
+      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/kamala-harris-george-w-bush-1631031030.jpg?crop=1.00xw:0.997xh;0,0&resize=1200:*"
+        width: 1000
+        height: 564
         isCached: true
-  - title: "With Kamala Harris laying low, CNN responds with hard-hitting piece asking where’s Melania?"
-    excerpt: "With Vice President Kamala Harris conspicuously laying low as the ceiling falls in on boss President Joe Biden for his disastrous management of the Afghanistan exit, CNN found a great way to divert attention. Almost as if the network suddenly called out ..."
-    publishedDateTime: 2021-09-07T10:53:00Z
-    webUrl: "https://www.bizpacreview.com/2021/09/07/with-kamala-harris-laying-low-cnn-responds-with-hard-hitting-piece-asking-wheres-melania-1130601/"
+  - title: "Nguyện Trần Thuỷ Tiên Interprets Vice President Kamala Harris’ visit to Vietnam"
+    excerpt: "Nguyện Trần Thuỷ Tiên, G-’16, received support from the U.S. Embassy and the White House to provide the deaf community in Việt Nam a translation of Vice President Kamala Harris’ presentation during her visit to the Socialist Republic of Việt Nam last week."
+    publishedDateTime: 2021-09-03T21:41:00Z
+    webUrl: "https://www.gallaudet.edu/news/nguyen-tran-thuy-tien-interprets-vice-president-kamala-harris-visit-to-vietnam/"
     type: article
     provider:
-      name: BizPac Review
-      domain: bizpacreview.com
-    quality: 45
+      name: Gallaudet University
+      domain: gallaudet.edu
+    quality: 51
     images:
-      - url: "https://www.bizpacreview.com/wp-content/uploads/2021/09/getty-Melania2-1200x630.jpg"
-        width: 1200
-        height: 630
+      - url: "https://storage.googleapis.com/gal-uploads/1/2021/09/Nguyen-Tran-Thuy-Tien.jpg"
+        width: 2249
+        height: 1725
         isCached: true
 
 secured: "AWD6jQgZMR6IvjGUD3v8jxeM9XzkpG2VjVL5fuAWABDIkgWL5rKKGD3AF5cachLbt0uHJAsf89gmE9oO56ldcduaxWx6GglFgbma+IS4ESqp1QGRQAv8zrnizUQ8bp3y1NZTsXSRk7035a7bla0fxkUSoNi/x96Pyez9jpeUAvcUJu1rJa5+iHx71mWvYi3Zj9mYqfHxgPpLRD9QPqgepXW9HHAKF4/0kyZ8g4Uj6wZYHcEpTlkARYunaqfobEPCpFM6GwP1L34cBmEWczXhfaJzbdegJpf+f/GzkhFcTEB6swIibAOGPJ4qLvaIcPlCxCgjGxOATq96h+0ou0DA8hE+H785bu4XlCC6P6QtOdT0qNJz3SJtWarab4cnHlq1rLolTwPEgM7PRPxFCzXpkDkFc7CmyzVgCbnlYikIY2VDRdkB3eKZNqiYP0XoGoAPE0AEQKJimv0CR2Y+bfF7+SoQeXKzwHD6sxwL7IhgzLmP9c4LNGlNCEDHYcGZOSc2+VhJJYaAtn+s1QRxqsWGhw==;66IFy7TLKiSflDzeYXJtLg=="

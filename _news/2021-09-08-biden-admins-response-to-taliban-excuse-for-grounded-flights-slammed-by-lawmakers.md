@@ -1,0 +1,35 @@
+---
+category: news
+title: "Biden admin's response to Taliban 'excuse' for grounded flights slammed by lawmakers"
+excerpt: "Secretary of State Antony Blinken said the Taliban have kept planes grounded because evacuees lack required visa documentation, but Republicans are frustrated with the administration’s “excuse.”"
+publishedDateTime: 2021-09-08T18:19:08Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Urd-B-YNieI/biden-admin-taliban-grounded-flights-lawmakers"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Urd-B-YNieI/biden-admin-taliban-grounded-flights-lawmakers"
+ampWebUrl: "https://www.foxnews.com/politics/biden-admin-taliban-grounded-flights-lawmakers.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-admin-taliban-grounded-flights-lawmakers.amp"
+type: article
+quality: 168
+heat: 168
+published: true
+
+provider:
+  name: Fox News
+  domain: foxnews.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Election
+  - Republican Voice
+
+images:
+  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2e5b21bf-685d-49c1-a532-196bcdaa6507/7a27150e-99b5-4aed-834a-f74efdfb03b7/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+    width: 720
+    height: 405
+    isCached: true
+
+secured: "ks7A/5UX3qAUrzRtzJRGohPZF0vi/h2swLB4opoNWUL3ydqkYK1EdC8hgJX7ZBiQyWDWA0aOYokLJHcLzSY1IDi7EiIUNTsqD/9M8FOXWNZC+x8UUjWfX2dfEuiKz09pfj9rxe6n9hmtGUThhHFbzRYpPIk056POd0px3g/lwmiPL4lq5ia03T46feo0YonAQwgNr+9ZFySOI+yTGPYygiwpj5qHYBOEee2tfv8vpr2X/rN6yHn1y/7wB28M9VArpt5uOZKaOqx2BwgKkSm+93kowz6NJltXyGVrrff3F3BU99t0szUbVXsyLjcoJdo5whN65iXCaHBAogQ8L4siiPFvZ3BwXhCa9s3KCSRQmGo=;77JPss4WvYlvKGOF3M10GA=="
+---
+

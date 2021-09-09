@@ -115,6 +115,22 @@ related:
         width: 1440
         height: 961
         isCached: true
+  - title: "Fact check: Donald Trump falsely claims California recall election is ‘rigged’ for Gavin Newsom"
+    excerpt: "Claim: Former President Donald Trump, speaking on Newsmax Tuesday night, claimed that the California recall against Gov. Gavin Newsom is likely ‘rigged’, suggesting that the widespread use of mail ballots will ensure a victory for the Democrat."
+    publishedDateTime: 2021-09-08T20:24:00Z
+    webUrl: "https://www.sacbee.com/news/politics-government/capitol-alert/article254079148.html"
+    ampWebUrl: "https://amp.sacbee.com/news/politics-government/capitol-alert/article254079148.html"
+    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/politics-government/capitol-alert/article254079148.html"
+    type: article
+    provider:
+      name: Sacramento Bee
+      domain: sacbee.com
+    quality: 78
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557042001/615ff921-7db1-4f3b-9944-fea466d47a13/d6166ffe-75f3-4972-b399-35ef606ee9d5/1280x720/match/image.jpg?pubId=5502557044001"
+        width: 1061
+        height: 720
+        isCached: true
   - title: "Judge tosses Trump rollback of clean water safeguards"
     excerpt: "A federal judge has thrown out a Trump-era rule that ended federal protections for hundreds of thousands of small streams, wetlands and other waterways and left them vulnerable to pollution from nearby development."
     publishedDateTime: 2021-08-31T21:36:00Z
@@ -146,6 +162,22 @@ related:
       - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
         width: 600
         height: 336
+        isCached: true
+  - title: "Former President Trump to serve as boxing commentator"
+    excerpt: "Former President Donald Trump is scheduled to provide commentary from ringside Saturday for an exhibition boxing card headlined by 58-year-old former heavyweight champion Evander Holyfield."
+    publishedDateTime: 2021-09-08T21:49:00Z
+    webUrl: "https://www.denverpost.com/2021/09/08/former-president-trump-boxing-commentator/"
+    ampWebUrl: "https://www.denverpost.com/2021/09/08/former-president-trump-boxing-commentator/amp/"
+    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2021/09/08/former-president-trump-boxing-commentator/amp/"
+    type: article
+    provider:
+      name: The Denver Post
+      domain: denverpost.com
+    quality: 75
+    images:
+      - url: "https://www.denverpost.com/wp-content/uploads/2021/09/AP21251549466117.jpg?w=1024&#038;h=683"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Republican Donors Show Disinterest In Trump 2024 Campaign, Focus On Midterms"
     excerpt: "Top Republican Party donors have pushed back on fundraising for former President Donald Trump’s potential 2024 campaign and are instead focused on the 2022 midterm elections, CNBC reported Tuesday. Almost immediately after leaving the White House in January,"

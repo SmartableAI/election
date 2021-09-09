@@ -74,22 +74,6 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "Joe Biden Is No Jimmy Carter"
-    excerpt: "And if some of his accomplishments provide stark contrasts with his only-18-years-younger successor President Joe Biden, well, draw your own conclusions. I start off by noting that Carter came to the presidency with almost no relevant experience."
-    publishedDateTime: 2021-09-03T10:39:00Z
-    webUrl: "https://www.realclearpolitics.com/articles/2021/09/03/joe_biden_is_no_jimmy_carter_146353.html"
-    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/09/03/joe_biden_is_no_jimmy_carter_146353.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/09/03/joe_biden_is_no_jimmy_carter_146353.amp.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 85
-    images:
-      - url: "https://assets.realclear.com/images/51/519090_5_.jpg"
-        width: 750
-        height: 544
-        isCached: true
 
 secured: "QFIOHWd3nDKn1F1dq8F44WfnGSjyXbsnRbRhL5Sct4YXNMoaP98pjch3833vfP6Sk1NbN0eG5NnPoE2Xa0d6cBggLGcm+wsVjrPHB1iZBb9U6G1mcEKzAUWuy/5BSJEu/CZkcCmA081XQWyG4SAhGb/Vm/nDXjYPbDZumSTROg9K7Jk/Te1ijJOru04idSlNdL+hkT533thnsoFi5bS+FlTDnaRmPUZQcGdjTNGxF5Whu9ZgTJ6WXUhkFXxdqG4q9PCHV4K1xme1dgdjXcqDMTxH0igQh3WvvtpLuDDDV6fl39ZOOo2xLf7iP2qpFkJBaCePORFSjISMf5B9vKfBFkioa1KTQuK9dlYTL43b7IJYepudweJpcdtRH6KKE+0mBK5TQpTH1Cu2Z/wkSw6sVsC36yboqFU7SPdOmXcOlCZjEsuS7hNbe/iiPOzAq64mBOPb4wQzYVE6X+bXrI21XCqag+t56X6xbyOwrfT+n9ByLUiu+PM2BuiPeHQWM4SL9c7L4xYdE+cW8SGJW9clHw==;tbHV6hAr4smmd2Y3Wd8s6w=="
 ---

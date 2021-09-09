@@ -59,22 +59,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Biden approves N.Y. major disaster declaration after Ida; homeowners can now file for FEMA"
-    excerpt: "President Joe Biden on Monday approved a major disaster declaration for New York in the wake of Hurricane Ida, making federal funding available to those who had property damaged by the storm. Biden first granted an emergency declaration for New York last week;"
-    publishedDateTime: 2021-09-06T17:37:00Z
-    webUrl: "https://www.silive.com/weather/2021/09/biden-approves-ny-major-disaster-declaration-enabling-homeowners-to-file-for-fema.html"
-    ampWebUrl: "https://www.silive.com/weather/2021/09/biden-approves-ny-major-disaster-declaration-enabling-homeowners-to-file-for-fema.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-silive-com.cdn.ampproject.org/c/s/www.silive.com/weather/2021/09/biden-approves-ny-major-disaster-declaration-enabling-homeowners-to-file-for-fema.html?outputType=amp"
-    type: article
-    provider:
-      name: SILive
-      domain: silive.com
-    quality: 65
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/4NC2WRJY7ZAQLP52YS4WF4JDZM.jpg"
-        width: 1024
-        height: 643
-        isCached: true
   - title: "Biden Calls Top Court Ruling on Texas Abortion Ban 'Unprecedented Assault' on Women's Rights"
     excerpt: "President Joe Biden on Thursday said the U.S. Supreme Court's ruling on Texas' abortion ban \"is an unprecedented assault on a woman's constitutional rights,\" after the top court allowed the law to remain in place."
     publishedDateTime: 2021-09-02T15:42:00Z

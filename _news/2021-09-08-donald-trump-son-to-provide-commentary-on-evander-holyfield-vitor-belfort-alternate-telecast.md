@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Sports/donald-trump-son-provide-commentar
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Sports/donald-trump-son-provide-commentary-evander-holyfield-vitor/story?id=79884415"
 type: article
 quality: 114
-heat: 174
+heat: 194
 published: true
 
 provider:
@@ -77,6 +77,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Former President Trump to serve as boxing commentator | Charlotte Observer"
+    excerpt: "Former President Donald Trump is scheduled to provide commentary from ringside Saturday for an exhibition boxing card headlined by 58-year-old former heavyweight champion Evander Holyfield."
+    publishedDateTime: 2021-09-08T21:31:00Z
+    webUrl: "https://www.charlotteobserver.com/sports/article254086823.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/sports/article254086823.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/sports/article254086823.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 53
 
 secured: "47Ek+NE7UCHQpQNrqb5ERwJaLn+1ngBNk4o+AoPEfbJGCoyVRs7SxlPeiWoTRygJgwRX4WMDfijndmZZD8DIaL5vexGOSU/LvIKoHEgrRhnfOLTKV0i9BPmToczgL2lG0JJ2STLOctqiOPP+2HTdi12ZA5IP6I/yhldOH8O6vpCSkKKSlw0IduoY1mODiPvzNAW6xegtPCvVmupwzgjsxnbqF4Ki6dP1O9/D7zS2exmXBTDwwUZqfMMwFivH8PFJjLfDSg29HIJBzhxmK9pJYUweUanScrbPaFtI4UtpC9Cn8S/6VJ6sDFiIJPmZvUN2CtmwFj2VplFtIEWGaYW1Ockz+N4EmF9S3I5SYA6d3v4=;BOduN4QM25YOfRtFVuD9SQ=="
 ---

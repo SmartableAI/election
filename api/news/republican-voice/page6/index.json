@@ -2,6 +2,214 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-07-29-first-lady-jill-biden-undergoing-foot-procedure-at-walter-reed.md",
+      "title": "First lady Jill Biden undergoing foot procedure at Walter Reed",
+      "excerpt": "First lady Jill Biden injured herself in Hawaii last weekend while walking on a beach when an indeterminate \"object\" lodged itself in her foot, according to the White House.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/qnQoRbBYb5I/first-lady-jill-biden-foot-procedure-walter-reed",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/qnQoRbBYb5I/first-lady-jill-biden-foot-procedure-walter-reed",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 315,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3b52f2ee-e833-4cda-ad75-60a7b185cb35/3bad51d7-54b2-4df2-a69b-e7c719eac993/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/first-lady-jill-biden-foot-procedure-walter-reed.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/first-lady-jill-biden-foot-procedure-walter-reed.amp",
+      "publishedDateTime": "2021-07-29T13:59:19-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-30-inside-lil-waynes-new-154m-la-mansion-he-bought-after-trump-pardon.md",
+      "title": "Inside Lil Wayne’s new $15.4M LA mansion he bought after Trump pardon",
+      "excerpt": "Located next door to Kylie Jenner, the luxury abode was constructed in 2019 and is made up of seven bedrooms and eight bathrooms.",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/07/29/inside-lil-waynes-new-mansion-he-bought-post-trump-pardon/",
+      "originalUrl": "https://nypost.com/2021/07/29/inside-lil-waynes-new-mansion-he-bought-post-trump-pardon/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/07/lil-wayne-house-hp.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/07/29/inside-lil-waynes-new-mansion-he-bought-post-trump-pardon/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/29/inside-lil-waynes-new-mansion-he-bought-post-trump-pardon/amp/",
+      "publishedDateTime": "2021-07-29T12:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-30-dems-worried-about-kamala-harris-approval-more-harm-than-good.md",
+      "title": "Dems worried about Kamala Harris approval: ‘More harm than good’",
+      "excerpt": "As Vice President Kamala Harris’ poll numbers remain underwater, some Democrats are worried that she could become a drag on their efforts to maintain control of congress in the 2022 midterm",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/07/29/democrats-worried-about-kamala-harris-approval-numbers/",
+      "originalUrl": "https://nypost.com/2021/07/29/democrats-worried-about-kamala-harris-approval-numbers/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/07/kamala-harris-ratings-04.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/07/29/democrats-worried-about-kamala-harris-approval-numbers/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/29/democrats-worried-about-kamala-harris-approval-numbers/amp/",
+      "publishedDateTime": "2021-07-29T12:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-29-mccarthy-says-country-would-be-better-off-if-biden-had-done-nothing-since-taking-office.md",
+      "title": "McCarthy says country would be better off if Biden had 'done nothing' since taking office",
+      "excerpt": "House Minority Leader Kevin McCarthy said President Biden's policies have put the \"country in crisis\" and Americans would be better off if Biden had done absolutely \"nothing\" since taking office. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xsDr4GeJkGw/mccarthy-us-better-off-biden-done-nothing-office",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xsDr4GeJkGw/mccarthy-us-better-off-biden-done-nothing-office",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 186,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/340/340/Marisa-Schultz.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/mccarthy-us-better-off-biden-done-nothing-office.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mccarthy-us-better-off-biden-done-nothing-office.amp",
+      "publishedDateTime": "2021-07-29T12:17:28-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-29-911-group-requests-meeting-with-biden-in-push-for-saudi-arabia-documents-release.md",
       "title": "9/11 group requests meeting with Biden in push for Saudi Arabia documents release",
       "excerpt": "A 9/11 group has requested an in-person meeting with President Biden as the nation will this fall mark 20 years since the terrorist attacks, and families of victims still search for answers. ",
@@ -1379,230 +1587,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/psaki-defends-hunter-biden-art-shows.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-defends-hunter-biden-art-shows.amp",
       "publishedDateTime": "2021-07-22T13:58:15-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-22-tiktok-white-house-agree-to-drop-trump-era-lawsuit.md",
-      "title": "TikTok, White House agree to drop Trump-era lawsuit",
-      "excerpt": "The Chinese owned social media platform TikTok has reached an agreement with the White House to drop a lawsuit challenging former President Donald Trump’s attempt to ban the video app from app stores in the United States.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/m7xeWJIq5Vc/tiktok-white-house-agree-to-drop-trump-era-lawsuit",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/m7xeWJIq5Vc/tiktok-white-house-agree-to-drop-trump-era-lawsuit",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 215,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e1117589-3186-4490-925d-1d089e42a626/11be2235-525a-4bf7-9a63-f81e6034e16d/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/tiktok-white-house-agree-to-drop-trump-era-lawsuit.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tiktok-white-house-agree-to-drop-trump-era-lawsuit.amp",
-      "publishedDateTime": "2021-07-22T12:00:43-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-22-former-education-sec-devos-blasts-biden-admins-many-ties-to-twisted-and-warped-critical-race-theory.md",
-      "title": "Former Education Sec. DeVos blasts Biden admin's 'many ties' to 'twisted and warped' critical race theory",
-      "excerpt": "EXCLUSIVE: Former Department of Education Secretary Betsy DeVos said it is \"appalling\" to see close ties between radical groups pushing critical race theory and the Biden administration.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Q0_YXjySjSk/betsy-devos-biden-admin-critical-race-thory-ties",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Q0_YXjySjSk/betsy-devos-biden-admin-critical-race-thory-ties",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 158,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6c860925-7840-4d17-a210-b9bc26114022/a06fe2da-965b-416f-aab6-e55e1b160199/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/betsy-devos-biden-admin-critical-race-thory-ties.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/betsy-devos-biden-admin-critical-race-thory-ties.amp",
-      "publishedDateTime": "2021-07-22T11:56:38-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-22-democrats-rally-for-biden-public-lands-pick-despite-scrutiny-from-republicans.md",
-      "title": "Democrats rally for Biden public lands pick despite scrutiny from Republicans",
-      "excerpt": "A bitterly divided U.S. Senate panel deadlocked Thursday on President Joe Biden’s pick to oversee vast government-owned lands in the West.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/P0LbJcZzo6U/tracy-stone-manning-confirmation-status-latest",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/P0LbJcZzo6U/tracy-stone-manning-confirmation-status-latest",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 232,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/eac88bcf-166c-49da-8022-ab4f08f8adad/aadffa86-f4d3-43c0-a951-262b029df08c/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/tracy-stone-manning-confirmation-status-latest.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tracy-stone-manning-confirmation-status-latest.amp",
-      "publishedDateTime": "2021-07-22T11:05:43-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-22-obama-ethics-chief-blasts-biden-wh-blind-spot-over-hunter-biden-meeting-with-potential-art-buyers.md",
-      "title": "Obama ethics chief blasts Biden WH 'blind spot' over Hunter Biden meeting with potential art buyers",
-      "excerpt": "The younger Biden will be attending the small LA shows before a larger New York City exhibition of art at his promoter Georges Berges’ gallery.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/HfQFH4Njes8/hunter-biden-attending-art-shows",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/HfQFH4Njes8/hunter-biden-attending-art-shows",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 161,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/126c9819-8d0a-4ed3-93c2-92db2694a67e/ff2a850f-4b38-400e-9564-ab1439b2cf08/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/hunter-biden-attending-art-shows.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-attending-art-shows.amp",
-      "publishedDateTime": "2021-07-22T09:49:39-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

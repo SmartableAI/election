@@ -43,38 +43,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Biden visit buoys up NJ family who lost home to Ida remnants"
-    excerpt: "The Dommar family of Manville, New Jersey, gave a tour Tuesday to the president of the United States of their home, devastated by the torrential leftovers of Ida: That’s the roof down the block. The baby’s room is in two pieces on the west and east sides of their property."
-    publishedDateTime: 2021-09-08T03:10:00Z
-    webUrl: "https://www.chron.com/news/article/Biden-visit-buoys-up-NJ-family-who-lost-home-to-16441534.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Biden-visit-buoys-up-NJ-family-who-lost-home-to-16441534.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Biden-visit-buoys-up-NJ-family-who-lost-home-to-16441534.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 75
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
-  - title: "Watch Live: President Joe Biden speaks about administration’s response to Hurricane Ida"
-    excerpt: "Ida was the fifth most powerful storm to hit the U.S. when it made landfall on Aug. 29. At least 50 people were killed in six Eastern states as record rainfall overwhelmed rivers and sewer systems."
-    publishedDateTime: 2021-09-07T15:03:00Z
-    webUrl: "https://www.tristatehomepage.com/weather-news/biden-to-survey-northeast-damage-after-deadly-ida-flooding/"
-    ampWebUrl: "https://www.tristatehomepage.com/weather-news/biden-to-survey-northeast-damage-after-deadly-ida-flooding/amp/"
-    cdnAmpWebUrl: "https://www-tristatehomepage-com.cdn.ampproject.org/c/s/www.tristatehomepage.com/weather-news/biden-to-survey-northeast-damage-after-deadly-ida-flooding/amp/"
-    type: article
-    provider:
-      name: WTVW
-      domain: tristatehomepage.com
-    quality: 67
-    images:
-      - url: "https://www.tristatehomepage.com/wp-content/uploads/sites/92/2021/09/AP21250670353459.jpg?w=1280"
-        width: 1280
-        height: 853
-        isCached: true
   - title: "In NYC after Ida, Biden calls climate ‘everybody’s crisis’"
     excerpt: "Surveying storm damage, President Joe Biden has declared climate change has reached “code red” and now has become “everybody’s crisis.”."
     publishedDateTime: 2021-09-08T11:45:00Z

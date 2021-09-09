@@ -191,6 +191,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden pushes economic agenda while honoring labor unions at White House"
+    excerpt: "President Joe Biden held a belated Labor Day celebration at the White House on Wednesday as he made the case for his large-scale economic agenda and how it would benefit working and middle-class families at an event honoring labor unions.\n    \n"
+    publishedDateTime: 2021-09-08T17:19:30Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xUp3ldOHEOo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/09/08/politics/biden-labor-union-event/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/09/08/politics/biden-labor-union-event/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210902140750-01-biden-ida-0902-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden set to address the nation following the US withdrawal from Afghanistan"
     excerpt: "President Joe Biden is slated to address the nation Tuesday on the end of the war in Afghanistan, a day after the last American military planes left the country, concluding the nation's longest war nearly 20 years after it began.\n    \n"
     publishedDateTime: 2021-08-31T14:05:37Z
@@ -236,6 +252,22 @@ related:
     quality: 171
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210903172737-04-ny-storm-aftermath-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden administration tells ex-Trump officials to resign from military academy advisory boards or be dismissed"
+    excerpt: "The Biden administration has told 11 officials appointed to military service academy advisory boards by former President Donald Trump to resign or be dismissed, a source familiar with the situation tells CNN's KFile.\n    \n"
+    publishedDateTime: 2021-09-08T19:46:04Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2jodsa7ER_M/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/09/08/politics/trump-appointees-biden-boards/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/09/08/politics/trump-appointees-biden-boards/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210704190844-white-house-exterior-0703-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

@@ -2,6 +2,110 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-06-27-mitt-romney-likens-trump-election-fraud-claims-to-wwf-its-entertaining-but-its-not-real.md",
+      "title": "Mitt Romney Likens Trump Election Fraud Claims to WWF: 'It's Entertaining, but It's Not Real'",
+      "excerpt": "The Utah Republican also said he believes Trump's statements on election fraud are having a harmful effect on democracy across the world.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/mitt-romney-likens-trump-election-fraud-claims-wwf-its-entertaining-its-not-real-1604498",
+      "originalUrl": "https://www.newsweek.com/mitt-romney-likens-trump-election-fraud-claims-wwf-its-entertaining-its-not-real-1604498",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1831331/trump-rally-ohio.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/mitt-romney-likens-trump-election-fraud-claims-wwf-its-entertaining-its-not-real-1604498?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mitt-romney-likens-trump-election-fraud-claims-wwf-its-entertaining-its-not-real-1604498?amp=1",
+      "publishedDateTime": "2021-06-27T08:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-06-27-blinken-visit-to-pope-will-reset-us-vatican-ties-after-trump-years.md",
+      "title": "Blinken visit to pope will reset U.S-Vatican ties after Trump years",
+      "excerpt": "The last time a U.S. secretary of state visited the Vatican, the diplomatic sparks flew and Pope Francis declined to receive Mike Pompeo.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/world/us/blinken-visit-pope-will-reset-us-vatican-ties-after-trump-years-2021-06-24/",
+      "originalUrl": "https://www.reuters.com/world/us/blinken-visit-pope-will-reset-us-vatican-ties-after-trump-years-2021-06-24/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/EPPgvgYjhTWX2Kn2vwJ6rvMWBgA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/X3YMTPKREVKH3KVKM5OT6C2T24.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-27T02:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-06-27-trump-seeking-to-maintain-gop-sway-holds-first-rally-since-jan-6.md",
       "title": "Trump, Seeking to Maintain G.O.P. Sway, Holds First Rally Since Jan. 6",
       "excerpt": "The former president’s speech in Ohio, made on behalf of a challenger to a Republican congressman who voted to impeach Mr. Trump, reflected both his power over the party and his diminished status.",
@@ -1484,115 +1588,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-22-trump-has-zero-desire-to-be-speaker-of-house-spokesman-says.md",
-      "title": "Trump has ‘zero desire’ to be speaker of House, spokesman says",
-      "excerpt": "Chatter about the most unlikely of political comebacks has spread among Trump supporters",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/jun/22/donald-trump-speaker-of-house",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/jun/22/donald-trump-speaker-of-house",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/78c73c867f8f94067b452dfd52da64986d2c9599/0_170_3500_2417/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=e458faaeb9a757d6aee54fbf008b2cdc",
-          "width": 600,
-          "height": 414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/jun/22/donald-trump-speaker-of-house",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/22/donald-trump-speaker-of-house",
-      "publishedDateTime": "2021-06-22T05:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-22-trump-supporters-discussed-revolution-ahead-of-capitol-riot-fbi-agent-says.md",
-      "title": "Trump supporters discussed ‘revolution’ ahead of Capitol riot, FBI agent says",
-      "excerpt": "According to a court filing from an FBI agent obtained by NBC News, Trump supporters were discussing “revolution” on social media ahead of the January 6th Capitol riot, contrasting how FBI Director Christopher Wray portrayed the agency’s intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/now/video/trump-supporters-discussed-revolution-ahead-of-capitol-riot-fbi-agent-says-115249221531",
-      "originalUrl": "https://www.nbcnews.com/now/video/trump-supporters-discussed-revolution-ahead-of-capitol-riot-fbi-agent-says-115249221531",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_06/1624362404449_ott_now_am_capitol_riot_210622_1920x1080.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo115249221531",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo115249221531",
-      "publishedDateTime": "2021-06-22T04:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     }
   ],

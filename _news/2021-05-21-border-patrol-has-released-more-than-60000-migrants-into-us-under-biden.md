@@ -63,22 +63,6 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "Joe Biden Is No Jimmy Carter"
-    excerpt: "And if some of his accomplishments provide stark contrasts with his only-18-years-younger successor President Joe Biden, well, draw your own conclusions. I start off by noting that Carter came to the presidency with almost no relevant experience."
-    publishedDateTime: 2021-09-03T10:39:00Z
-    webUrl: "https://www.realclearpolitics.com/articles/2021/09/03/joe_biden_is_no_jimmy_carter_146353.html"
-    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/09/03/joe_biden_is_no_jimmy_carter_146353.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/09/03/joe_biden_is_no_jimmy_carter_146353.amp.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 85
-    images:
-      - url: "https://assets.realclear.com/images/51/519090_5_.jpg"
-        width: 750
-        height: 544
-        isCached: true
   - title: "Hemingway: Biden's Self-Inflicted Wound At The Southern Border"
     excerpt: "Mollie Hemingway commented on reports that the Biden administration is reallocating $2.1 billion to the Southern border, saying that voters are likely surprised how fast the situation spiraled out of control during FNC's \"Outnumbered\" panel on Monday."
     publishedDateTime: 2021-05-18T17:31:00Z

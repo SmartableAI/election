@@ -2,6 +2,646 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-09-09-trump-deplores-removal-of-richmonds-robert-e-lee-statue.md",
+      "title": "Trump deplores removal of Richmond's Robert E. Lee statue",
+      "excerpt": "Former President Donald Trump condemned the removal of a 131-year-old statue of Confederate Gen. Robert E. Lee in Richmond, Virginia.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/efV1k77KfxA/trump-issues-statement-against-removing-robert-e-lee-statue",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/efV1k77KfxA/trump-issues-statement-against-removing-robert-e-lee-statue",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cc6b6512-3fbd-4883-967c-d416c61c3191/67ebe016-00fa-482d-8625-d1fc77fd9323/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-issues-statement-against-removing-robert-e-lee-statue.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-issues-statement-against-removing-robert-e-lee-statue.amp",
+      "publishedDateTime": "2021-09-08T18:23:26-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-09-09-biden-ousts-18-trump-military-academy-board-appointees-including-spicer-conway.md",
+      "title": "Biden ousts 18 Trump military academy board appointees including Spicer, Conway",
+      "excerpt": "White House press secretary Jen Psaki confirmed that the former Trump officials were asked to resign or face firing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/biden-removes-trump-military-academy-board-appointees-spicer-conway/",
+      "originalUrl": "https://www.cbsnews.com/news/biden-removes-trump-military-academy-board-appointees-spicer-conway/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 196,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2021/04/21/b1dcf65a-9d9f-4729-a1da-d2642b7e846d/thumbnail/1200x630/5d0f4c6708acaad8e13f9e5c29fb77c7/gettyimages-1232425770.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/biden-removes-trump-military-academy-board-appointees-spicer-conway/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-removes-trump-military-academy-board-appointees-spicer-conway/",
+      "publishedDateTime": "2021-09-08T18:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-09-09-kellyanne-conway-sean-spicer-fire-back-after-biden-boots-trump-appointees-from-military-panels.md",
+      "title": "Kellyanne Conway, Sean Spicer fire back after Biden boots Trump appointees from military panels",
+      "excerpt": "Biden is facing backlash after asking for resignations from multiple members of military academies’",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/MG74Q-dK0Jg/kellyanne-conway-sean-spicer-biden-trump-appointees-military-panels",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/MG74Q-dK0Jg/kellyanne-conway-sean-spicer-biden-trump-appointees-military-panels",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 238,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cc1c997f-286e-4d8c-98db-ad4a6622ad97/d28953bc-1942-4bbb-a47c-9ec8248ffb03/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/kellyanne-conway-sean-spicer-biden-trump-appointees-military-panels.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kellyanne-conway-sean-spicer-biden-trump-appointees-military-panels.amp",
+      "publishedDateTime": "2021-09-08T17:00:56-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-09-08-gop-letter-to-biden-flags-afghan-evacuees-rushed-and-incomplete-vetting.md",
+      "title": "GOP letter to Biden flags Afghan evacuees' 'rushed and incomplete' vetting",
+      "excerpt": "More than 40 Congressional Republicans have sent a letter to President Joe Biden, raising flags about the “rushed and incomplete vetting of Afghan evacuees” who were brought to America from Afghanistan following the Taliban's takeover.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/pSKFT2pPxi4/gop-letter-biden-afghans-rushed-incomplete-vetting",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/pSKFT2pPxi4/gop-letter-biden-afghans-rushed-incomplete-vetting",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 173,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b308cbcd-007e-4d4f-8d7c-603877f97025/0a6b557c-66ef-49e5-a6bd-bc0c5d16b145/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/gop-letter-biden-afghans-rushed-incomplete-vetting.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-letter-biden-afghans-rushed-incomplete-vetting.amp",
+      "publishedDateTime": "2021-09-08T16:26:26-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-09-08-washington-post-trump-to-endorse-wyoming-lawyer-in-effort-to-primary-cheney.md",
+      "title": "Washington Post: Trump to endorse Wyoming lawyer in effort to primary Cheney ",
+      "excerpt": "Donald Trump is planning to endorse a lawyer and former Republican Party official in Wyoming in an effort to primary GOP Rep. Liz Cheney, an outspoken critic of the former President who has drawn his ire for rejecting his claims of voter fraud in the 2020 election, The Washington Post reported Wednesday.\n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/utc3D1xAqKc/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/utc3D1xAqKc/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 192,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210908170837-trump-cheney-split-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/09/08/politics/trump-cheney-endorsement-primary-harriet-hageman/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/09/08/politics/trump-cheney-endorsement-primary-harriet-hageman/index.html",
+      "publishedDateTime": "2021-09-08T15:37:21-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-09-08-harris-accuses-texas-gov-abbott-of-arrogantly-dismissing-rape-victims.md",
+      "title": "Harris accuses Texas Gov. Abbott of 'arrogantly' dismissing rape victims",
+      "excerpt": "Vice President Kamala Harris opened up a speech supporting California Gov. Gavin Newsom against a recall effort by slamming Texas Gov. Greg Abbott and his state’s newly enacted law restricting abortions.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/XPudeoBAzzE/harris-slams-abbott-at-pro-newsom-rally-accuses-him-of-arrogantly-dismissing-rape-victims",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/XPudeoBAzzE/harris-slams-abbott-at-pro-newsom-rally-accuses-him-of-arrogantly-dismissing-rape-victims",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 204,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/de97b5d5-9a48-4839-a8a4-d085340888e6/151303eb-e6ed-45a1-867c-254e4a3a3838/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/harris-slams-abbott-at-pro-newsom-rally-accuses-him-of-arrogantly-dismissing-rape-victims.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-slams-abbott-at-pro-newsom-rally-accuses-him-of-arrogantly-dismissing-rape-victims.amp",
+      "publishedDateTime": "2021-09-08T15:13:01-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-09-09-biden-administration-wants-solar-power-to-increase-tenfold-in-15-years.md",
+      "title": "Biden administration wants solar power to increase tenfold in 15 years",
+      "excerpt": "The Energy Department says solar energy can produce up to 40% of the nation's electricity within 15 years — a 10-fold increase of current solar output that would require massive changes in U.S. policy and billions of dollars in federal investment.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/solar-power-increase-tenfold-2035-40-percent-of-electricity/",
+      "originalUrl": "https://www.cbsnews.com/news/solar-power-increase-tenfold-2035-40-percent-of-electricity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 285,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2021/09/08/24b52cb5-f5b2-4c6f-a698-6cc643ced9ca/thumbnail/1200x630/2038a67f44e60213cd519ad4a3a4e331/solar-gettyimages-1235129161.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/solar-power-increase-tenfold-2035-40-percent-of-electricity/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/solar-power-increase-tenfold-2035-40-percent-of-electricity/",
+      "publishedDateTime": "2021-09-08T14:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-09-09-well-show-them-vice-president-harris-campaigns-for-gov-newsom-in-bay-area.md",
+      "title": "‘We’ll Show Them’: Vice President Harris Campaigns for Gov. Newsom in Bay Area",
+      "excerpt": "Kamala Harris described the recall as part of a broader Republican effort to oust Democrats from power and expand conservative restrictions on voting, abortion and LGBTQ rights.",
+      "sourceUrl": null,
+      "webUrl": "https://timesofsandiego.com/politics/2021/09/08/well-show-them-vice-president-harris-campaigns-for-gov-newsom-in-bay-area/",
+      "originalUrl": "https://timesofsandiego.com/politics/2021/09/08/well-show-them-vice-president-harris-campaigns-for-gov-newsom-in-bay-area/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://timesofsandiego.com/wp-content/uploads/2021/09/Harris-Newsom.png",
+          "width": 1000,
+          "height": 664,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://timesofsandiego.com/politics/2021/09/08/well-show-them-vice-president-harris-campaigns-for-gov-newsom-in-bay-area/",
+      "cdnAmpWebUrl": "https://timesofsandiego-com.cdn.ampproject.org/c/s/timesofsandiego.com/politics/2021/09/08/well-show-them-vice-president-harris-campaigns-for-gov-newsom-in-bay-area/",
+      "publishedDateTime": "2021-09-08T14:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Times of San Diego",
+        "domain": "timesofsandiego.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-09-09-arizonas-election-audit-isnt-done-but-two-trump-supporting-republicans-are-just-declaring-victory-for-him-anyway.md",
+      "title": "Arizona's Election \"Audit\" Isn't Done, But Two Trump-Supporting Republicans Are Just Declaring Victory For Him Anyway",
+      "excerpt": "There's no end to the Arizona audit in sight. But with other Trump backers looking to take up audits of their own, some are ready to just call it a win.",
+      "sourceUrl": null,
+      "webUrl": "https://www.buzzfeednews.com/article/sarahmimms/arizona-election-audit-trump-decertify",
+      "originalUrl": "https://www.buzzfeednews.com/article/sarahmimms/arizona-election-audit-trump-decertify",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2021-09/8/21/campaign_images/e0c1aa4349cd/21-things-i-just-learned-about-simu-liu-that-esse-2-413-1631137451-6_dblbig.jpg",
+          "width": 625,
+          "height": 415,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.buzzfeednews.com/amphtml/sarahmimms/arizona-election-audit-trump-decertify",
+      "cdnAmpWebUrl": "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/sarahmimms/arizona-election-audit-trump-decertify",
+      "publishedDateTime": "2021-09-08T14:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BuzzFeed News",
+        "domain": "buzzfeednews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/buzzfeednews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-09-09-fact-check-image-of-kamala-harris-and-doug-emhoff-altered-to-show-jeffrey-epstein.md",
+      "title": "Fact check: Image of Kamala Harris and Doug Emhoff altered to show Jeffrey Epstein",
+      "excerpt": "Several Facebook users shared an image of Harris and Epstein with the words \"Make this photo famous.\" But the image has been altered to add Epstein.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/nation/2021/09/08/fact-check-altered-image-shows-jeffrey-epstein-next-kamala-harris/5672684001/",
+      "originalUrl": "https://www.usatoday.com/story/news/nation/2021/09/08/fact-check-altered-image-shows-jeffrey-epstein-next-kamala-harris/5672684001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 199,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/09/02/USAT/5ce6a7bf-c678-4617-a1fc-5ce8b94ee4fb-AFP_AFP_8RN328.jpg?auto=webp&crop=3999,2250,x0,y200&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/5672684001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5672684001",
+      "publishedDateTime": "2021-09-08T13:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-09-09-trump-reaches-out-to-families-of-us-service-members-killed-in-afghanistan.md",
+      "title": "Trump reaches out to families of U.S. service members killed in Afghanistan",
+      "excerpt": "The former president and his team, sensing a political opportunity, have issued more than 50 statements about Afghanistan, and his PAC has raised millions with repeated fundraising pitches on the topic.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/trump-biden-afghanistan-families/2021/09/08/c78af1f8-0ff2-11ec-882f-2dd15a067dc4_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/trump-biden-afghanistan-families/2021/09/08/c78af1f8-0ff2-11ec-882f-2dd15a067dc4_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 143,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NKXHSUQLOII6ZF4BA54W762W7Y.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-08T12:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-09-08-biden-admins-response-to-taliban-excuse-for-grounded-flights-slammed-by-lawmakers.md",
+      "title": "Biden admin's response to Taliban 'excuse' for grounded flights slammed by lawmakers",
+      "excerpt": "Secretary of State Antony Blinken said the Taliban have kept planes grounded because evacuees lack required visa documentation, but Republicans are frustrated with the administration’s “excuse.”",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Urd-B-YNieI/biden-admin-taliban-grounded-flights-lawmakers",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Urd-B-YNieI/biden-admin-taliban-grounded-flights-lawmakers",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 168,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2e5b21bf-685d-49c1-a532-196bcdaa6507/7a27150e-99b5-4aed-834a-f74efdfb03b7/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-admin-taliban-grounded-flights-lawmakers.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-admin-taliban-grounded-flights-lawmakers.amp",
+      "publishedDateTime": "2021-09-08T11:19:08-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-09-09-pelosi-to-hold-security-briefing-ahead-of-sept-18-rally-planned-by-trump-supporters.md",
       "title": "Pelosi to hold security briefing ahead of Sept. 18 rally planned by Trump supporters",
       "excerpt": "Speaker Nancy Pelosi has invited her fellow congressional leaders from the House and Senate to attend a security briefing about an upcoming rally planned at the Capitol in support people who were arrested during the Jan.",
@@ -423,7 +1063,7 @@
       "originalUrl": "https://abcnews.go.com/Sports/donald-trump-son-provide-commentary-evander-holyfield-vitor/story?id=79884415",
       "featuredContent": null,
       "highlight": null,
-      "heat": 174,
+      "heat": 194,
       "tags": null,
       "images": [
         {
@@ -579,7 +1219,7 @@
       "originalUrl": "https://www.houstonchronicle.com/politics/texas/article/How-Texas-is-following-up-on-Trump-s-voter-16441526.php",
       "featuredContent": null,
       "highlight": null,
-      "heat": 399,
+      "heat": 439,
       "tags": null,
       "images": [
         {
@@ -675,638 +1315,6 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-09-07-more-migrants-being-returned-to-mexico-after-supreme-court-order-reinstates-trump-era-policy.md",
-      "title": "More migrants being returned to Mexico after Supreme Court order reinstates Trump-era policy",
-      "excerpt": "A Supreme Court order reinstating the Trump-era \"Remain-in-Mexico\" policy is already having an effect, with Border Patrol officials telling Fox News they have started turning away more migrants trying to enter the U.S.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/y5Rus9i-E7U/more-migrants-mexico-scotus-order-reinstates-trump-era-policy",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/y5Rus9i-E7U/more-migrants-mexico-scotus-order-reinstates-trump-era-policy",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/024e0fbd-ddfc-43c8-9bdf-dd35a37b4713/13048900-b1a3-46da-abd0-f23eb95de595/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/more-migrants-mexico-scotus-order-reinstates-trump-era-policy.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/more-migrants-mexico-scotus-order-reinstates-trump-era-policy.amp",
-      "publishedDateTime": "2021-09-07T12:01:51-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-09-08-tomi-lahren-rips-kamala-harris-havent-seen-this-level-of-tone-deafness-since-american-idol-auditions.md",
-      "title": "Tomi Lahren rips Kamala Harris: Haven't seen this level of tone-deafness since 'American Idol' auditions",
-      "excerpt": "Fox Nation host Tomi Lahren ripped into Vice President Kamala Harris Tuesday on ‘Outnumbered’ for traveling to California to campaign for Governor Gavin Newsom while remaining largely silent on Afghanistan.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/tomi-lahren-kamala-harris-tone-deafness-american-idol-newsom-recall",
-      "originalUrl": "https://www.foxnews.com/media/tomi-lahren-kamala-harris-tone-deafness-american-idol-newsom-recall",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6c75ca39-bfcc-4e29-b458-97825ace5fcd/12358397-8be6-4f5e-96fc-61f6f16b99f7/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-07T10:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-09-07-biden-expected-to-campaign-for-newsom-in-california-next-week.md",
-      "title": "Biden expected to campaign for Newsom in California next week",
-      "excerpt": "President Biden is expected to travel to California next week to campaign on behalf of California Gov. Gavin. Newsom (D) ahead of the Sept. 14 recall election.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/administration/571071-biden-expected-to-campaign-for-newsom-in-california-next-week",
-      "originalUrl": "https://thehill.com/homenews/administration/571071-biden-expected-to-campaign-for-newsom-in-california-next-week",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 265,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/article_images/bidenjoe_080521getty_jobs.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/administration/571071-biden-expected-to-campaign-for-newsom-in-california-next-week?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/571071-biden-expected-to-campaign-for-newsom-in-california-next-week?amp",
-      "publishedDateTime": "2021-09-07T08:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-09-07-donald-trump-jr-says-his-dad-is-getting-younger-because-stress-fuels-him.md",
-      "title": "Donald Trump Jr. Says His Dad is Getting Younger Because Stress 'Fuels Him'",
-      "excerpt": "Trump Jr. has regularly sung his father's praises and was a key figure for Trump's 2020 presidential campaign.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/donald-trump-jr-says-his-dad-getting-younger-because-stress-fuels-him-1626615",
-      "originalUrl": "https://www.newsweek.com/donald-trump-jr-says-his-dad-getting-younger-because-stress-fuels-him-1626615",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1888558/donald-trump-jr-trump.jpg",
-          "width": 2268,
-          "height": 1548,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/donald-trump-jr-says-his-dad-getting-younger-because-stress-fuels-him-1626615?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-jr-says-his-dad-getting-younger-because-stress-fuels-him-1626615?amp=1",
-      "publishedDateTime": "2021-09-07T06:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-09-07-biden-to-visit-areas-of-nyc-nj-damaged-by-floods-from-hurricane-ida.md",
-      "title": "Biden to visit areas of NYC, N.J. damaged by floods from Hurricane Ida",
-      "excerpt": "President Joe Biden on Tuesday will visit New York City and multiple locations in New Jersey that were heavily damaged by major flooding and rains that killed dozens of people last week.",
-      "sourceUrl": null,
-      "webUrl": "https://www.upi.com/Top_News/US/2021/09/07/new-york-jersey-joe-biden-hurricane-ida/7121631012476/",
-      "originalUrl": "https://www.upi.com/Top_News/US/2021/09/07/new-york-jersey-joe-biden-hurricane-ida/7121631012476/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdnph.upi.com/sv/ph/og/i/7121631012476/2021/1/16310151479197/v1.5/Biden-to-visit-areas-of-NYC-NJ-damaged-by-floods-from-Hurricane-Ida.jpg",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.upi.com/amp/Top_News/US/2021/09/07/new-york-jersey-joe-biden-hurricane-ida/7121631012476/",
-      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/09/07/new-york-jersey-joe-biden-hurricane-ida/7121631012476/",
-      "publishedDateTime": "2021-09-07T04:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UPI.com",
-        "domain": "upi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-09-07-shana-chappell-asks-donald-trump-to-attend-killed-marine-kareem-nikouis-funeral.md",
-      "title": "Shana Chappell Asks Donald Trump to Attend Killed Marine Kareem Nikoui's Funeral",
-      "excerpt": "Shana Chappell's Facebook post accusing Biden of having \"blood on his hands\" went viral after her son Kareem Nikoui was killed in the Kabul airport attack.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/donald-trump-funeral-kareem-nikoui-marine-mother-joe-biden-1626610",
-      "originalUrl": "https://www.newsweek.com/donald-trump-funeral-kareem-nikoui-marine-mother-joe-biden-1626610",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1888503/kareem-nikoui-funeral.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/donald-trump-funeral-kareem-nikoui-marine-mother-joe-biden-1626610?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-funeral-kareem-nikoui-marine-mother-joe-biden-1626610?amp=1",
-      "publishedDateTime": "2021-09-07T04:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-09-07-mueller-filings-close-in-on-trump-darcy-cartoon.md",
-      "title": "Mueller filings close in on Trump: Darcy cartoon",
-      "excerpt": "Darcy cartoon CLEVELAND, Ohio -- Rex Tillerson told Bob Schieffer it was \"challenging\" going from \"the disciplined, highly process-oriented ExxonMobil corporation \" to working for President Trump \"who is pretty undisciplined,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/article/europe-crime-robert-mueller-rex-tillerson-bob-schieffer-74252f70f31643639ab3f8adaa068186",
-      "originalUrl": "https://apnews.com/article/europe-crime-robert-mueller-rex-tillerson-bob-schieffer-74252f70f31643639ab3f8adaa068186",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/ShareLogo2.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-07T02:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-09-07-the-coming-weeks-will-define-bidens-presidency-and-shape-the-midterm-elections.md",
-      "title": "The coming weeks will define Biden's presidency and shape the midterm elections",
-      "excerpt": "President Joe Biden must define the politics of this fall before they define him, as he seeks to re-establish the authority of an administration that often appeared overtaken by a relentless summer of challenges.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/F0jPAJKUGMY/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/F0jPAJKUGMY/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 906,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210903150257-01-biden-louisiana-0903-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/09/07/politics/joe-biden-september-battles-ahead/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/09/07/politics/joe-biden-september-battles-ahead/index.html",
-      "publishedDateTime": "2021-09-06T23:33:54-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-09-06-dem-sen-blumenthal-furious-over-biden-admin-delaying-americans-trying-to-leave-afghanistan.md",
-      "title": "Dem Sen. Blumenthal 'furious' over Biden admin delaying Americans trying to leave Afghanistan",
-      "excerpt": "Blumenthal issued a press release on Monday eviscerating the Biden administration for delaying flights out of the Mazar-e Sharif airport in Afghanistan following reports of the administration not giving the evacuation flights the green light.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/kENpkTmIBPE/blumenthal-furious-biden-admin-delaying-americans-leaving-afghanistan",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/kENpkTmIBPE/blumenthal-furious-biden-admin-delaying-americans-leaving-afghanistan",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 264,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/04b85745-97df-4872-a1d3-4da58d592640/014fa703-791a-4450-8b15-207c99af5c23/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/blumenthal-furious-biden-admin-delaying-americans-leaving-afghanistan.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/blumenthal-furious-biden-admin-delaying-americans-leaving-afghanistan.amp",
-      "publishedDateTime": "2021-09-06T13:19:42-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-09-06-biden-says-labor-unions-brung-me-to-the-dance-in-politics.md",
-      "title": "Biden says labor unions 'brung me to the dance' in politics",
-      "excerpt": "President Biden lauded his close relationship with union workers Monday during an unscheduled Labor Day trip to a local branch of International Brotherhood of Electrical Workers in Delaware.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/FQpLbAN5svE/biden-union-labor-day-trip-delaware-electrical-workers",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/FQpLbAN5svE/biden-union-labor-day-trip-delaware-electrical-workers",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 215,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c391175a-9e29-4bc2-b4cd-da7913f72d05/0e834aff-eeed-4aac-8ca4-24a511e779fa/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-union-labor-day-trip-delaware-electrical-workers.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-union-labor-day-trip-delaware-electrical-workers.amp",
-      "publishedDateTime": "2021-09-06T12:34:13-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-09-06-fk-joe-biden-chants-break-out-at-college-football-games-across-the-country.md",
-      "title": "'F**K Joe Biden' Chants Break Out at College Football Games Across the Country",
-      "excerpt": "Explicit chants against President Joe Biden broke out in the crowds at college football games over the past few days. On Sunday, video of a \"f**k Joe Biden\" chant was posted online during the Texas A&M Aggies game against the Kent State Golden Flashes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/joe-biden-chants-break-college-football-games-country-1626438",
-      "originalUrl": "https://www.newsweek.com/joe-biden-chants-break-college-football-games-country-1626438",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 161,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1888261/fuck-joe-biden.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/joe-biden-chants-break-college-football-games-country-1626438?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-chants-break-college-football-games-country-1626438?amp=1",
-      "publishedDateTime": "2021-09-06T08:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-09-06-son-of-911-victim-to-biden-do-not-come-to-ground-zero-memorials.md",
-      "title": "Son of 9/11 victim to Biden: Do not come to Ground Zero memorials",
-      "excerpt": "Nic Haros Jr., the son of a 9/11 victim, urged President Biden to avoid attending 20-year memorials during an interview on \"Fox & Friends\" on Monday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/son-9-11-victim-urges-biden-avoid-ground-zero-memorial",
-      "originalUrl": "https://www.foxnews.com/media/son-9-11-victim-urges-biden-avoid-ground-zero-memorial",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c7287a1d-46a0-4b90-be6f-0af4de47b4d2/8ff0fc81-a822-4fb5-b437-50b0bd85f38c/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/son-9-11-victim-urges-biden-avoid-ground-zero-memorial.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/son-9-11-victim-urges-biden-avoid-ground-zero-memorial.amp",
-      "publishedDateTime": "2021-09-06T08:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
         "Republican Voice"
       ]
     }

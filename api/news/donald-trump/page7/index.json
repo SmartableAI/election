@@ -2,6 +2,110 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-07-15-new-book-goes-behind-the-scenes-of-the-trump-presidency-and-re-election-campaign.md",
+      "title": "New book goes behind the scenes of the Trump presidency and re-election campaign",
+      "excerpt": "A new book offers a collection of one-on-one interviews with friends and staffers of former President Donald Trump, and even Mr. Trump himself. Michael C. Bender, author of \"Frankly, We Did Win This Election: The Inside Story of How Trump Lost,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/video/new-book-goes-behind-the-scenes-of-trump-presidency/",
+      "originalUrl": "https://www.cbsnews.com/video/new-book-goes-behind-the-scenes-of-trump-presidency/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 1435,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews3.cbsistatic.com/hub/i/r/2021/07/15/f8645179-88a4-45f6-9391-952130800b23/thumbnail/1200x630/856f7c8b5c6fadcd019330fe36e97ec7/cbsn-fusion-new-book-goes-behind-the-scenes-of-trump-presidency-thumbnail-754512-640x360.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/video/new-book-goes-behind-the-scenes-of-trump-presidency/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/new-book-goes-behind-the-scenes-of-trump-presidency/",
+      "publishedDateTime": "2021-07-15T08:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-07-15-kremlin-papers-appear-to-show-putins-plot-to-put-trump-in-white-house.md",
+      "title": "Kremlin papers appear to show Putin’s plot to put Trump in White House",
+      "excerpt": "Exclusive: Documents suggest Russia launched secret multi-agency effort to interfere in US democracy",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/world/2021/jul/15/kremlin-papers-appear-to-show-putins-plot-to-put-trump-in-white-house?fbclid=IwAR093rWit5hdvtHzFLjfcZHp-1JVcDHCpgNHIH27bZkREuIF71fvm9p7I7s",
+      "originalUrl": "https://www.theguardian.com/world/2021/jul/15/kremlin-papers-appear-to-show-putins-plot-to-put-trump-in-white-house?fbclid=IwAR093rWit5hdvtHzFLjfcZHp-1JVcDHCpgNHIH27bZkREuIF71fvm9p7I7s",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/6beb860dc56746ba31173ffa9f3db48025fcf176/0_40_3725_2236/master/3725.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=994273b7350ce6d004a26dcdd89ff063",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/world/2021/jul/15/kremlin-papers-appear-to-show-putins-plot-to-put-trump-in-white-house",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2021/jul/15/kremlin-papers-appear-to-show-putins-plot-to-put-trump-in-white-house",
+      "publishedDateTime": "2021-07-15T07:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-07-15-cnbc-host-vs-mnuchin-do-you-believe-it-is-a-lie-that-the-election-was-stolen-from-donald-trump.md",
       "title": "CNBC Host vs. Mnuchin: Do You Believe It Is A Lie That The Election Was Stolen From Donald Trump?",
       "excerpt": "Former Treasury Secretary Steve Mnunchin responds to a question from CNBC host Eamon Javers about the results of the 2020 election: \"In 2020, I wasn’t able to participate in the campaign. So I’m really just watching this from the outside.",
@@ -1419,115 +1523,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-08-lara-trump-crt-teaches-us-to-judge-people-on-the-color-of-their-skin.md",
-      "title": "Lara Trump: CRT teaches us to 'judge people on the color of their skin'",
-      "excerpt": "Fox News contributor Lara Trump joined “Fox & Friends” Thursday, suggesting that critical race theory is teaching children to “judge people on the color of their skin” and stating it’s “dead wrong.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/lara-trump-crt-teaches-people-to-judge-people-on-skin-color",
-      "originalUrl": "https://www.foxnews.com/media/lara-trump-crt-teaches-people-to-judge-people-on-skin-color",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e2858645-f93e-4a1b-896c-77c9788113ae/8fdd5859-d6bc-4c75-8698-a5c38e1fe80f/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/lara-trump-crt-teaches-people-to-judge-people-on-skin-color.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/lara-trump-crt-teaches-people-to-judge-people-on-skin-color.amp",
-      "publishedDateTime": "2021-07-08T07:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-08-trump-got-distracted-by-the-word-nuclear-during-a-bizarre-press-conference-about-his-latest-lawsuit.md",
-      "title": "Trump got distracted by the word 'nuclear' during a bizarre press conference about his latest lawsuit",
-      "excerpt": "\"We don't use the word 'nuclear.' I never used it, okay? I never used it ... That's called disinformation,\" he said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/video-donald-trump-nuclear-at-press-conference-2021-7",
-      "originalUrl": "https://www.businessinsider.com/video-donald-trump-nuclear-at-press-conference-2021-7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 130,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/60e6f5c4c03e9c0018ab26cd?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/video-donald-trump-nuclear-at-press-conference-2021-7?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/video-donald-trump-nuclear-at-press-conference-2021-7?amp",
-      "publishedDateTime": "2021-07-08T06:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -2,6 +2,485 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2021-07-20-karoline-leavitt-former-trump-stefanik-spokeswoman-running-for-congress-in-new-hampshire.md",
+      "title": "Karoline Leavitt, former Trump, Stefanik spokeswoman, running for Congress in New Hampshire",
+      "excerpt": "Karoline Leavitt, the 23-year-old former assistant press secretary for former President Trump, is running for Congress in the First Congressional District of New Hampshire.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/BNFrBO0m91s/karoline-leavitt-former-stefanik-trump-spokeswoman-running-congress-new-hampshire",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/BNFrBO0m91s/karoline-leavitt-former-stefanik-trump-spokeswoman-running-congress-new-hampshire",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/karoline-leavitt-former-stefanik-trump-spokeswoman-running-congress-new-hampshire.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/karoline-leavitt-former-stefanik-trump-spokeswoman-running-congress-new-hampshire.amp",
+      "publishedDateTime": "2021-07-20T04:58:02-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-20-social-conservatives-frustrated-over-trump-supreme-court-justices-rulings.md",
+      "title": "Social conservatives 'frustrated' over Trump Supreme Court justices' rulings",
+      "excerpt": "The confirmation of three justices nominated by then-President Trump has shifted the balance of power on the Supreme Court to a 6-3 majority for conservatives. But a high court feared by liberals and celebrated by conservatives hasn't delivered as expected, leaving some on the right feeling let down.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3eHLcBJXMpA/social-conservatives-disappointment-trump-supreme-court-justices-rulings",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3eHLcBJXMpA/social-conservatives-disappointment-trump-supreme-court-justices-rulings",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 192,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/social-conservatives-disappointment-trump-supreme-court-justices-rulings.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/social-conservatives-disappointment-trump-supreme-court-justices-rulings.amp",
+      "publishedDateTime": "2021-07-20T03:19:53-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-20-save-our-paychecks-tour-to-target-white-house-economic-policies-bidenflation.md",
+      "title": "'Save Our Paychecks' tour to target White House economic policies, 'Bidenflation'",
+      "excerpt": "Conservative group Heritage Action is partnering with the Coalition to Protect American Workers to launch a nationwide tour targeting what they describe as the “disastrous” effect that the Biden administration’s policies have had on American workers and businesses.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/DXegnDT1srQ/paychecks-tour-biden-inflation",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/DXegnDT1srQ/paychecks-tour-biden-inflation",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 170,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/41072930-5cf3-4e2d-84b0-b6baddaaf93d/535d40b6-dfc5-4e52-bf91-1b4494e3a5bb/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/paychecks-tour-biden-inflation.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/paychecks-tour-biden-inflation.amp",
+      "publishedDateTime": "2021-07-20T02:52:35-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-20-biden-will-certainly-welcome-help-from-trump-to-get-more-americans-vaccinated.md",
+      "title": "Biden Will 'Certainly Welcome' Help From Trump To Get More Americans Vaccinated",
+      "excerpt": "White House press secretary Jen Psaki has said that President Joe Biden will “certainly welcome” help from his predecessor Donald Trump to combat vaccine hesitancy amid a surge of COVID-19 cases. During a press briefing Monday,",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/biden-will-certainly-welcome-help-trump-get-more-americans-vaccinated-3255383",
+      "originalUrl": "https://www.ibtimes.com/biden-will-certainly-welcome-help-trump-get-more-americans-vaccinated-3255383",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/06/30/former-us-president-donald-trumps-visit-to-the.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/biden-will-certainly-welcome-help-trump-get-more-americans-vaccinated-3255383?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/biden-will-certainly-welcome-help-trump-get-more-americans-vaccinated-3255383?amp=1",
+      "publishedDateTime": "2021-07-19T19:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-07-19-trump-ally-jim-jordan-among-republicans-tapped-for-jan-6-select-committee.md",
+      "title": "Trump ally Jim Jordan among Republicans tapped for Jan. 6 select committee",
+      "excerpt": "Rep. Jim Jordan, R-Ohio, a prominent ally of former President Donald Trump, is one of a handful of GOP lawmakers set to be appointed to House Speaker Nancy Pelosi’s select committee to investigate the Jan. 6 Capitol riot.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ow7Mg7dj-rQ/jim-jordan-republicans-jan-6-select-committee",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ow7Mg7dj-rQ/jim-jordan-republicans-jan-6-select-committee",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 193,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/650ffed3-b78a-4a9e-a434-ddb20b5cb605/612d639b-0184-4120-bd4d-609c5af00b5b/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/jim-jordan-republicans-jan-6-select-committee.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jim-jordan-republicans-jan-6-select-committee.amp",
+      "publishedDateTime": "2021-07-19T16:51:38-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-19-psaki-says-wh-will-welcome-covid-19-vaccine-psa-from-trump-as-cases-rise.md",
+      "title": "Psaki says WH will 'welcome' COVID-19 vaccine PSA from Trump as cases rise",
+      "excerpt": "Fox News’ Peter Doocy asked Psaki if President Biden would reach out to Trump to “cut a PSA” telling people to get vaccinated against COVID-19.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8taJHKGqous/psaki-trump-covid-psa-welcome",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8taJHKGqous/psaki-trump-covid-psa-welcome",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 193,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8dd557d5-4070-482a-bf1c-9bd4730188fc/a1bea93a-e995-457f-b882-6ab308460503/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/psaki-trump-covid-psa-welcome.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-trump-covid-psa-welcome.amp",
+      "publishedDateTime": "2021-07-19T13:18:37-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-19-mike-pence-would-like-to-be-president-but-no-one-likes-mike-pence.md",
+      "title": "Mike Pence would like to be President. But no one likes Mike Pence.",
+      "excerpt": "Polling shows that Pence's presidential ambitions are dead in the water. The MAGA crowd doesn't trust him, the Never Trumpers hate him, and evangelicals have other",
+      "sourceUrl": null,
+      "webUrl": "https://www.lgbtqnation.com/2021/07/mike-pence-like-president-no-one-likes-mike-pence/",
+      "originalUrl": "https://www.lgbtqnation.com/2021/07/mike-pence-like-president-no-one-likes-mike-pence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://abuwjaawap.cloudimg.io/v7/_lgbtqnation-assets_/assets/2019/07/mike-pence1-702x522.jpg?&auto=format&auto=compress&crop=faces&fit=crop&gravity=face&w=1200&h=630&wat=1&wat_gravity=southeast&wat_pad=40",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.lgbtqnation.com/2021/07/mike-pence-like-president-no-one-likes-mike-pence/",
+      "cdnAmpWebUrl": "https://www-lgbtqnation-com.cdn.ampproject.org/c/s/www.lgbtqnation.com/2021/07/mike-pence-like-president-no-one-likes-mike-pence/",
+      "publishedDateTime": "2021-07-19T07:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LGBTQ Nation",
+        "domain": "lgbtqnation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-07-19-who-is-abdul-latif-nasser-joe-biden-releases-first-guantanamo-bay-prisoner.md",
+      "title": "Who Is Abdul Latif Nasser? Joe Biden Releases First Guantánamo Bay Prisoner",
+      "excerpt": "On Monday, the Biden administration transferred its first detainee out of Guantánamo Bay, repatriating a Moroccan man who has been held in the notorious prison for nearly two decades on no charge. The release of Abdul Latif Nasser,",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/who-abdul-latif-nasser-joe-biden-releases-first-guantanamo-bay-prisoner-1610971",
+      "originalUrl": "https://www.newsweek.com/who-abdul-latif-nasser-joe-biden-releases-first-guantanamo-bay-prisoner-1610971",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 143,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1703346/gitmo2002.jpg",
+          "width": 3000,
+          "height": 1968,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/who-abdul-latif-nasser-joe-biden-releases-first-guantanamo-bay-prisoner-1610971?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/who-abdul-latif-nasser-joe-biden-releases-first-guantanamo-bay-prisoner-1610971?amp=1",
+      "publishedDateTime": "2021-07-19T06:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-07-19-michael-wolff-murdoch-hates-trump-but-loves-fox-news-money-more.md",
+      "title": "Michael Wolff: Murdoch hates Trump but loves Fox News money more",
+      "excerpt": "In book, Wolff says that Murdoch personally approved network’s early call of Arizona, which signalled Trump’s defeat",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/media/2021/jul/19/landslide-michael-wolff-rupert-murdoch-donald-trump-fox-news",
+      "originalUrl": "https://www.theguardian.com/media/2021/jul/19/landslide-michael-wolff-rupert-murdoch-donald-trump-fox-news",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 245,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/a73f231d740d05f5ae6f1fcb8fc8ab138e9c8083/0_73_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=c634a9013950e6eb0b24de4c9b40f10f",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/media/2021/jul/19/landslide-michael-wolff-rupert-murdoch-donald-trump-fox-news",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/media/2021/jul/19/landslide-michael-wolff-rupert-murdoch-donald-trump-fox-news",
+      "publishedDateTime": "2021-07-19T03:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-07-19-jeb-bush-appeals-to-biden-to-tear-down-cuba-cyberwall.md",
       "title": "Jeb Bush appeals to Biden to ‘tear down’ Cuba Cyberwall",
       "excerpt": "Jeb Bush, the former GOP presidential candidate, took to Twitter on Sunday to appeal to the Bide administration to employ the needed technology to restore internet service in Cuba amid the unrest that was sparked a week ago during anti-government protests.",
@@ -805,505 +1284,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-07-17-things-keep-getting-worse-for-biden-blm-nominee-tracy-stone-manning.md",
-      "title": "Things keep getting worse for Biden BLM nominee Tracy Stone-Manning",
-      "excerpt": "Things keep getting worse for Tracy Stone-Manning, President Biden's nominee to lead the Bureau of Land Management.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/PXYsBYipCPY/things-keep-getting-worse-for-biden-blm-nominee-tracy-stone-manning",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/PXYsBYipCPY/things-keep-getting-worse-for-biden-blm-nominee-tracy-stone-manning",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 395,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/515b0870-4aa0-4d1e-8096-e113006cc8ab/2143a296-bde8-445c-8aa5-d85acdba53be/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/things-keep-getting-worse-for-biden-blm-nominee-tracy-stone-manning.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/things-keep-getting-worse-for-biden-blm-nominee-tracy-stone-manning.amp",
-      "publishedDateTime": "2021-07-17T06:27:39-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-17-biden-grappling-with-pandemic-of-the-unvaccinated.md",
-      "title": "Biden grappling with 'pandemic of the unvaccinated'",
-      "excerpt": "Two weeks after celebrating America’s near “independence” from the coronavirus, President Joe Biden is confronting the worrying reality of rising cases and deaths",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Health/wireStory/biden-grappling-pandemic-unvaccinated-78897684",
-      "originalUrl": "https://abcnews.go.com/Health/wireStory/biden-grappling-pandemic-unvaccinated-78897684",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 205,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/US/WireAP_6f049db552754deb97da2642b7a377d7_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Health/wireStory/biden-grappling-pandemic-unvaccinated-78897684",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/biden-grappling-pandemic-unvaccinated-78897684",
-      "publishedDateTime": "2021-07-16T21:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-07-17-pence-says-hes-had-enough-of-biden-as-he-looks-to-escape-trumps-shadow-in-iowa.md",
-      "title": "Pence says he's 'had enough' of Biden as he looks to escape Trump's shadow in Iowa",
-      "excerpt": "Former Vice President Mike Pence crisscrossed Iowa on Friday, assailing President Joe Biden's administration for unleashing \"a tidal wave of left-wing policies that threaten to wipe out all the progress that we made\" in speeches that could preview his potential 2024 message.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sOtQEwxHoaA/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sOtQEwxHoaA/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 569,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210716185507-mike-pence-0716-iowa-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/16/politics/pence-noem-pompeo-iowa/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/16/politics/pence-noem-pompeo-iowa/index.html",
-      "publishedDateTime": "2021-07-16T17:19:04-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-07-16-pence-in-iowa-charges-biden-trying-to-turn-america-into-a-secular-welfare-state.md",
-      "title": "Pence, in Iowa, charges Biden trying to turn America into a ‘secular welfare state’",
-      "excerpt": "Former Vice President Mike Pence, making his first visit to Iowa since the end of the Trump administration, took aim at President Biden and spotlighted his social conservative credentials as he addressed a major gathering of Christian conservatives in the state whose caucuses for half a century have",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Yv-YWtnetg4/pence-in-iowa-charges-biden-trying-to-turn-america-into-secular-welfare-state",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Yv-YWtnetg4/pence-in-iowa-charges-biden-trying-to-turn-america-into-secular-welfare-state",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 334,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/pence-in-iowa-charges-biden-trying-to-turn-america-into-secular-welfare-state.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-in-iowa-charges-biden-trying-to-turn-america-into-secular-welfare-state.amp",
-      "publishedDateTime": "2021-07-16T16:50:31-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-07-16-noem-says-shes-counting-on-trump-running-again-in-2024.md",
-      "title": "Noem says she’s ‘counting’ on Trump running again in 2024",
-      "excerpt": "Republican Gov. Kristi Noem of South Dakota - speaking with Fox News during a trip to Iowa - says she’s “counting” on former President Trump to run again for the White House in 2024.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/snQEGjGRXaY/noem-says-shes-counting-on-trump-running-again-in-2024",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/snQEGjGRXaY/noem-says-shes-counting-on-trump-running-again-in-2024",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 275,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/noem-says-shes-counting-on-trump-running-again-in-2024.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/noem-says-shes-counting-on-trump-running-again-in-2024.amp",
-      "publishedDateTime": "2021-07-16T16:25:41-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-17-william-h-pauley-iii-judge-in-trump-hush-money-case-dies-at-68.md",
-      "title": "William H. Pauley III, Judge in Trump Hush Money Case, Dies at 68",
-      "excerpt": "He sentenced Michael D. Cohen to three years in prison for breaking campaign finance laws by helping to buy the silence of two women who said they had affairs with Donald J. Trump.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/07/16/us/william-h-pauley-iii-dead.html",
-      "originalUrl": "https://www.nytimes.com/2021/07/16/us/william-h-pauley-iii-dead.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/07/18/obituaries/16Pauley1/16Pauley1-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/07/16/us/william-h-pauley-iii-dead.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/16/us/william-h-pauley-iii-dead.amp.html",
-      "publishedDateTime": "2021-07-16T16:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-16-federal-judge-orders-biden-administration-to-end-new-daca-applications.md",
-      "title": "Federal judge orders Biden administration to end new DACA applications",
-      "excerpt": "A federal judge on Friday ordered the Biden administration to stop all applications for the Deferred Action for Childhood Arrivals (DACA) program, after a coalition of states sued and claimed that the Obama-era program was illegal.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/NUrRgklasdU/federal-judge-biden-administration-new-daca-applications",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/NUrRgklasdU/federal-judge-biden-administration-new-daca-applications",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 775,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/515b0870-4aa0-4d1e-8096-e113006cc8ab/2143a296-bde8-445c-8aa5-d85acdba53be/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/federal-judge-biden-administration-new-daca-applications.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/federal-judge-biden-administration-new-daca-applications.amp",
-      "publishedDateTime": "2021-07-16T14:45:09-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-16-biden-says-platforms-like-facebook-are-killing-people-with-covid-misinformation.md",
-      "title": "Biden says platforms like Facebook are 'killing people' with Covid misinformation",
-      "excerpt": "President Joe Biden said Friday social media platforms like Facebook are \"killing people\" with misinformation surrounding the Covid-19 pandemic as the White House ramps up its rhetoric around false information on social media regarding the pandemic.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1CpB3Rl8LE0/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1CpB3Rl8LE0/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 270,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210716101316-02-biden-0713-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/16/politics/biden-facebook-covid-19/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/16/politics/biden-facebook-covid-19/index.html",
-      "publishedDateTime": "2021-07-16T13:50:16-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-17-john-bolton-says-trump-isnt-capable-of-staging-a-coup-because-that-requires-advance-thinking-planning-strategizing.md",
-      "title": "John Bolton says Trump isn't 'capable' of staging a coup because 'that requires advance thinking, planning, strategizing'",
-      "excerpt": "\"The idea of Trump staging a coup does give him too much credit,\" Trump's former national security adviser said on CNN's \"New Day.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/john-bolton-trump-is-incapable-of-staging-a-coup-video-2021-7",
-      "originalUrl": "https://www.businessinsider.com/john-bolton-trump-is-incapable-of-staging-a-coup-video-2021-7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/60f1c8c571757b0018c6a161?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/john-bolton-trump-is-incapable-of-staging-a-coup-video-2021-7?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/john-bolton-trump-is-incapable-of-staging-a-coup-video-2021-7?amp",
-      "publishedDateTime": "2021-07-16T12:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

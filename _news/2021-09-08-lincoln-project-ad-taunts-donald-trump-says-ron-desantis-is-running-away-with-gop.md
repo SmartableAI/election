@@ -196,6 +196,22 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "AP source: Trump to endorse GOP challenger to Cheney"
+    excerpt: "Trump is planning to endorse Wyoming attorney Harriet Hageman, who is preparing to launch a primary campaign against Cheney, the most prominent member of Congress to vote for Trump's second impeachment,"
+    publishedDateTime: 2021-09-08T19:40:00Z
+    webUrl: "https://www.lmtonline.com/news/article/AP-source-Trump-to-endorse-GOP-challenger-to-16443087.php"
+    ampWebUrl: "https://www.lmtonline.com/news/amp/AP-source-Trump-to-endorse-GOP-challenger-to-16443087.php"
+    cdnAmpWebUrl: "https://www-lmtonline-com.cdn.ampproject.org/c/s/www.lmtonline.com/news/amp/AP-source-Trump-to-endorse-GOP-challenger-to-16443087.php"
+    type: article
+    provider:
+      name: Laredo Morning Times
+      domain: lmtonline.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Trump attacks Lehigh Valley’s Pat Toomey as ‘not the sharpest tool in the shed’"
     excerpt: "A fundraising email from the former president claims the senator from Lehigh County only won re-election \"because of my victory.\""
     publishedDateTime: 2021-09-07T20:37:00Z
@@ -259,6 +275,6 @@ related:
         height: 946
         isCached: true
 
-secured: "7t4E49ptBPxUHuUVbEo9PltvB/htUuTear9S9tolnt4OninavSVE6DUK5q963WDIu1wP0SvJJ44k6hW5S/aiMBidiPYbUI9CZ6a5SqrCS+SF4v6HuboJfKxDR/DuvQfufC/HycEZGVE7yAcWRYWjxFoGni/O2wNSKBhKh5F3GvLGpropYDVyTh5+kNMCW/MZ+gunQDKWYZFwpgLxPRJUZD+PRKM7y6+GL8waKubq1uMmKFh9QWC86hY72DkGwv9cEnZUrbw0zrA6zxSviV8+E0L1Ns4yH0/24xa0XKOpmXIv2j265HG6tkL2BSB+rQjD6XByDQKDJEM7uXsidzhG3EfS6yXsRH/t5wzLW3JzQsY=;SavsjHQbZvqDD6Nd5MWH1Q=="
+secured: "HfVMLeUuPR7+S8x8uJRL5rrpLHgHdAh4VfLJA/YV7UXXwp+erll6RzhFjbrXGenMv2MTI03SxcSadmPSrXmCAx2eBa/BhoWx5G3rHht0Z4dKTjBgxjTeuv17ouBnjTdRmSRnOrUPK7xMhbynf8tWyG0xYQHsYmf8/68qnAwJkS4HG6e7pg5BBPUHBj0UWGFSDbCIJmxrcQjJljQhgC1/LYA1+tItBQFokYaiPoAIbX4sUTkHDlDNNyPbiYIjMKlyxumODVTpYjrVH+IKuwyCsWhzMNCC4FBtbnbRdjOzzb/5K4rnboBMTnEXWIqjclm99HVf1iV8vNqKwCsJ/6dlzB2WI0qVeOeZhZol+SBRBihiiZ3a57M+sjyJOO57eayVMV6LDMdnGQdQyDI13BDq635w2sZHe3AaTLnwbE6SSRXniBotxv+T9UHNBFy/TgLpARZyj41H3IeTLzcEH7QdB8GgZXCII9zj+1vxGg1ThWJqMd/ALWQClmI7OqtJPTamdydJaV2GpWm8elOGRUJzCQ==;SAgq+vZ3gEwx0gMHMlss4Q=="
 ---
 

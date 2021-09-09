@@ -2,6 +2,429 @@
   "page": 37,
   "value": [
     {
+      "path": "_news/2021-06-24-partner-of-capitol-cop-who-died-calls-trump-mastermind-of-jan-6-riot.md",
+      "title": "Partner of Capitol cop who died calls Trump ‘mastermind’ of Jan. 6 riot",
+      "excerpt": "Sandra Garza, who spent 11 years with Sicknick, wrote in an essay published on CNN that her sadness “turned to rage” as she watched “Republican members of Congress lie on",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/06/23/partner-of-capitol-cop-brian-sicknick-condemns-trump-and-gop-liars/",
+      "originalUrl": "https://nypost.com/2021/06/23/partner-of-capitol-cop-brian-sicknick-condemns-trump-and-gop-liars/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/06/sandra-garza-24.jpeg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/06/23/partner-of-capitol-cop-brian-sicknick-condemns-trump-and-gop-liars/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/23/partner-of-capitol-cop-brian-sicknick-condemns-trump-and-gop-liars/amp/",
+      "publishedDateTime": "2021-06-23T10:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-24-unholy-post-trump-trinity-bannon-pompeo-and-pence.md",
+      "title": "Unholy post-Trump trinity: Bannon, Pompeo and Pence",
+      "excerpt": "Catering to the white evangelicals and other conservative Christians may be good politics, but the approach Pence, Pompeo and other prominent Trumpites such as Steve Bannon take t",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/religion/unholy-post-trump-trinity-bannon-pompeo-and-pence/2021/06/23/aadf464c-d44e-11eb-b39f-05a2d776b1f4_story.html",
+      "originalUrl": "https://www.washingtonpost.com/religion/unholy-post-trump-trinity-bannon-pompeo-and-pence/2021/06/23/aadf464c-d44e-11eb-b39f-05a2d776b1f4_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 190,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/religion/unholy-post-trump-trinity-bannon-pompeo-and-pence/2021/06/23/aadf464c-d44e-11eb-b39f-05a2d776b1f4_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/religion/unholy-post-trump-trinity-bannon-pompeo-and-pence/2021/06/23/aadf464c-d44e-11eb-b39f-05a2d776b1f4_story.html?outputType=amp",
+      "publishedDateTime": "2021-06-23T10:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-06-23-trump-rule-tightening-eb-5-visa-program-struck-down-by-federal-judge.md",
+      "title": "Trump Rule Tightening EB-5 Visa Program Struck Down by Federal Judge",
+      "excerpt": "The Biden administration had endorsed the rule which raised the investment threshold in the immigrant investor program but a judge said the rules were improperly issued.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/federal-judge-strikes-downtrump-rule-tightening-eb-5-visa-program-11624466099",
+      "originalUrl": "https://www.wsj.com/articles/federal-judge-strikes-downtrump-rule-tightening-eb-5-visa-program-11624466099",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-358603/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/federal-judge-strikes-downtrump-rule-tightening-eb-5-visa-program-11624466099",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/federal-judge-strikes-downtrump-rule-tightening-eb-5-visa-program-11624466099",
+      "publishedDateTime": "2021-06-23T08:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-23-biden-aims-for-high-stakes-meeting-with-xi-jinping-with-putin-summit-in-the-rearview.md",
+      "title": "Biden aims for high-stakes meeting with Xi Jinping with Putin summit in the rearview",
+      "excerpt": "President Joe Biden's closely watched summit last week with his Russian counterpart affirmed his belief that nothing can replicate a face-to-face with a tough adversary. Now, he and his aides are looking ahead to a higher-stakes encounter: a meeting with China's Xi Jinping.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/luQFnDnD5YQ/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/luQFnDnD5YQ/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 188,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210610232615-biden-jinping-split-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/23/politics/joe-biden-xi-jinping-meeting-planning/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/23/politics/joe-biden-xi-jinping-meeting-planning/index.html",
+      "publishedDateTime": "2021-06-23T07:54:41-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-23-chris-hayes-red-states-suffering-from-the-toxic-legacy-of-donald-trump.md",
+      "title": "Chris Hayes: Red States Suffering From The Toxic Legacy Of Donald Trump",
+      "excerpt": "We are seeing the effects of the toxic, devastating legacy of Donald Trump right now in the places that supported him the most,” MSNBC's Chris Hayes said Tuesday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.realclearpolitics.com/video/2021/06/23/chris_hayes_red_states_suffering_from_the_toxic_legacy_of_donald_trump.html#!",
+      "originalUrl": "https://www.realclearpolitics.com/video/2021/06/23/chris_hayes_red_states_suffering_from_the_toxic_legacy_of_donald_trump.html#!",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.realclear.com/images/48/482369.jpg",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "http://www.realclearpolitics.com/video/2021/06/23/chris_hayes_red_states_suffering_from_the_toxic_legacy_of_donald_trump.amp.html",
+      "cdnAmpWebUrl": "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/06/23/chris_hayes_red_states_suffering_from_the_toxic_legacy_of_donald_trump.amp.html",
+      "publishedDateTime": "2021-06-23T06:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RealClearPolitics",
+        "domain": "realclearpolitics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-23-in-central-america-kamala-harris-ignored-our-best-hope-catholic-bishops.md",
+      "title": "In Central America, Kamala Harris ignored our best hope: Catholic bishops",
+      "excerpt": "The Central American bishops are strong opponents of abortion and gay marriage, but they have also prophetically denounced exploitation of the poor and government corruption. In t",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/religion/in-central-america-kamala-harris-ignored-our-best-hope-catholic-bishops/2021/06/23/5c933bc8-d431-11eb-b39f-05a2d776b1f4_story.html",
+      "originalUrl": "https://www.washingtonpost.com/religion/in-central-america-kamala-harris-ignored-our-best-hope-catholic-bishops/2021/06/23/5c933bc8-d431-11eb-b39f-05a2d776b1f4_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 244,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/religion/in-central-america-kamala-harris-ignored-our-best-hope-catholic-bishops/2021/06/23/5c933bc8-d431-11eb-b39f-05a2d776b1f4_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/religion/in-central-america-kamala-harris-ignored-our-best-hope-catholic-bishops/2021/06/23/5c933bc8-d431-11eb-b39f-05a2d776b1f4_story.html?outputType=amp",
+      "publishedDateTime": "2021-06-23T06:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-06-23-cornyn-calls-on-biden-and-harris-to-visit-southern-border-yall-come-visit.md",
+      "title": "Cornyn calls on Biden and Harris to visit southern border: 'Y'all come visit'",
+      "excerpt": "Sen. John Cornyn (R-Texas) has called on President Biden and Vice President Harris to visit the U.S.- Mexico border amid an ongoing surge of immigrants.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/senate/559777-cornyn-calls-on-biden-and-harris-to-visit-southern-border-yall-come-visit",
+      "originalUrl": "https://thehill.com/homenews/senate/559777-cornyn-calls-on-biden-and-harris-to-visit-southern-border-yall-come-visit",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 1167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/cornynjohn_052621gn_lead.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/senate/559777-cornyn-calls-on-biden-and-harris-to-visit-southern-border-yall-come-visit?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/559777-cornyn-calls-on-biden-and-harris-to-visit-southern-border-yall-come-visit?amp",
+      "publishedDateTime": "2021-06-23T06:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-06-23-ivanka-trump-and-jared-kushner-distance-themselves-from-the-former-president-and-his-constant-complaints.md",
+      "title": "Ivanka Trump and Jared Kushner distance themselves from the former President and his constant complaints",
+      "excerpt": "With each passing day away from Washington, former President Donald Trump's grievances continue unabated. And those complaints appear to be driving away two of the people who were closest to him during his White House tenure: his daughter Ivanka Trump and son-in-law, Jared Kushner.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/LZI63cf9jwY/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/LZI63cf9jwY/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 178,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210115071514-file-01-jared-kushner-ivanka-trump-2020-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/23/politics/donald-trump-ivanka-trump-jared-kushner/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/23/politics/donald-trump-ivanka-trump-jared-kushner/index.html",
+      "publishedDateTime": "2021-06-23T05:50:13-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-23-biden-made-it-easier-to-get-a-work-visa-heres-why-foreign-workers-still-cant-get-to-the-us.md",
       "title": "Biden made it easier to get a work visa. Here's why foreign workers still can't get to the US.",
       "excerpt": "When President Joe Biden revoked a Trump-era executive order in February that had temporarily banned some immigrant visas during the coronavirus pandemic, he touted the way US industries could again \"utilize talent from around the world.\"\n    \n",
@@ -885,440 +1308,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-06-21-obama-ethics-chief-hunter-biden-selling-art-at-obviously-inflated-prices-to-mystery-buyers-feels-grifty.md",
-      "title": "Obama ethics chief: Hunter Biden selling art at 'obviously inflated prices' to mystery buyers feels 'grifty'",
-      "excerpt": "Walter Shaub, the former Office of Government Ethics director under Obama, ripped into Biden for selling his art for up to $500,000, saying that, while the issue would not involve his governmental alma mater, “common sense should have steered him away from this sale.”",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nEOqG1fmWRU/walter-shaub-hunter-biden-art",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nEOqG1fmWRU/walter-shaub-hunter-biden-art",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 176,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1faffc59-fb5d-4fa0-aea5-711fd83b7338/2446c972-e3cf-45b1-b17d-55aacd1d3ff7/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/walter-shaub-hunter-biden-art.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/walter-shaub-hunter-biden-art.amp",
-      "publishedDateTime": "2021-06-21T11:16:30-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-22-desantis-edges-out-trump-in-2024-straw-poll-tucker-carlson-rules-out-bid.md",
-      "title": "DeSantis edges out Trump in 2024 straw poll, Tucker Carlson rules out bid",
-      "excerpt": "Ron DeSantis, who has endeared himself to conservatives for bucking coronavirus restrictions and lockdowns, and combating critical race theory, hasn’t said he would mount a campaign in 2024.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/06/21/desantis-edges-out-trump-in-2024-straw-poll-tucker-carlson-rules-out-bid/",
-      "originalUrl": "https://nypost.com/2021/06/21/desantis-edges-out-trump-in-2024-straw-poll-tucker-carlson-rules-out-bid/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/06/Trump-5.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/06/21/desantis-edges-out-trump-in-2024-straw-poll-tucker-carlson-rules-out-bid/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/21/desantis-edges-out-trump-in-2024-straw-poll-tucker-carlson-rules-out-bid/amp/",
-      "publishedDateTime": "2021-06-21T10:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-21-republicans-slam-bidens-vague-threats-to-china-over-covid-stonewall.md",
-      "title": "Republicans slam Biden's 'vague threats' to China over COVID stonewall",
-      "excerpt": "House Republicans are not satisfied with the Biden administration’s stance against the Chinese government when it comes to making sure there is a thorough investigation of the coronavirus pandemic.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/V-kTPRgJtR4/republicans-biden-china-isolation-covid-origin",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/V-kTPRgJtR4/republicans-biden-china-isolation-covid-origin",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 235,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/republicans-biden-china-isolation-covid-origin.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-biden-china-isolation-covid-origin.amp",
-      "publishedDateTime": "2021-06-21T09:04:11-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-21-biden-nominee-with-crt-ties-appears-headed-for-close-party-line-vote.md",
-      "title": "Biden nominee with CRT ties appears headed for close party-line vote",
-      "excerpt": "President Biden's nominee to run the Office of Personnel Management (OPM) appears to be headed for a close, party-line vote in the Senate this week amid Republican concerns about her past ties to critical race theory and Ibram X. Kendi.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/eJQghcYSF-A/biden-nominee-crt-ties-senate-party-line-vote",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/eJQghcYSF-A/biden-nominee-crt-ties-senate-party-line-vote",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 575,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-nominee-crt-ties-senate-party-line-vote.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-nominee-crt-ties-senate-party-line-vote.amp",
-      "publishedDateTime": "2021-06-21T06:45:35-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-21-trump-proposed-sending-americans-with-covid-to-guantanamo-book-claims.md",
-      "title": "Trump proposed sending Americans with Covid to Guantánamo, book claims",
-      "excerpt": "Stunning revelation contained in new book Nightmare Scenario by Washington Post reporters Yasmeen Abutaleb and Damian Paletta",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/jun/21/trump-guantanamo-covid-infected-patients",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/jun/21/trump-guantanamo-covid-infected-patients",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 185,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/3770e1c9bee172950a64855df167f6093edd4e0a/0_269_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=4669e0ab3c56943aeb62d6f03075b378",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/jun/21/trump-guantanamo-covid-infected-patients",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/21/trump-guantanamo-covid-infected-patients",
-      "publishedDateTime": "2021-06-21T06:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-21-watters-world-on-political-correctness-biden-and-the-media.md",
-      "title": "‘Watters' World’ on political correctness, Biden and the media",
-      "excerpt": "Last week, we told you how the media committed suicide to drag Biden over the finish line. Now, their credibility is shot, and the truth is coming out. (BEGIN VIDEO CLIP) WATTERS: So, Russian bounties were a lie,",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/transcript/watters-world-on-political-correctness-biden-and-the-media",
-      "originalUrl": "https://www.foxnews.com/transcript/watters-world-on-political-correctness-biden-and-the-media",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8fe57550-1f80-440e-95c2-aad84c478fae/48a3c712-5084-4eed-ad46-9ce1dc0f8496/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/transcript/watters-world-on-political-correctness-biden-and-the-media.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/watters-world-on-political-correctness-biden-and-the-media.amp",
-      "publishedDateTime": "2021-06-21T05:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-21-irans-president-elect-wont-meet-biden-demands-us-lift-all-oppressive-sanctions.md",
-      "title": "Iran's president-elect won’t meet Biden, demands US ‘lift all oppressive sanctions’",
-      "excerpt": "Iran's president-elect said Monday he wouldn't meet with President Joe Biden nor negotiate over Tehran's ballistic missile program and its support of regional militias, sticking to a hardline position following his landslide victory in last week's election.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/world/irans-president-elect-wont-meet-biden",
-      "originalUrl": "https://www.foxnews.com/world/irans-president-elect-wont-meet-biden",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9233db17-c4a3-494d-9575-203a19de7491/83b5c25e-08a8-4693-a5e4-aa841a1dbd77/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/world/irans-president-elect-wont-meet-biden.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/world/irans-president-elect-wont-meet-biden.amp",
-      "publishedDateTime": "2021-06-21T04:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-21-first-thing-biden-faces-senate-showdown-on-key-domestic-agenda-issues.md",
-      "title": "First Thing: Biden faces Senate showdown on key domestic agenda issues",
-      "excerpt": "The president faces opposition from Republicans and some conservative Democrats before a key vote. Plus, why we need to talk about menopause",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/jun/21/first-thing-biden-faces-senate-showdown-on-key-domestic-agenda-issues",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/jun/21/first-thing-biden-faces-senate-showdown-on-key-domestic-agenda-issues",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 445,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/409228eced9bddf6ff1adcaa19b4f38038bee0e1/0_233_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=00d39a2efd887b22d6d46ed0d2c256cf",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/jun/21/first-thing-biden-faces-senate-showdown-on-key-domestic-agenda-issues",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/21/first-thing-biden-faces-senate-showdown-on-key-domestic-agenda-issues",
-      "publishedDateTime": "2021-06-21T04:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

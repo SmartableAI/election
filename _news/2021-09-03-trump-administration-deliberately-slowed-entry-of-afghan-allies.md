@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/09/03/politics/trump-adviser-stephen-mi
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/09/03/politics/trump-adviser-stephen-miller-afghan-allies-us-entry/index.html"
 type: article
 quality: 175
-heat: 215
+heat: 235
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
     quality: 135
     images:
       - url: "https://static01.nyt.com/images/2021/09/07/us/07onpolitics-pm-newsletter/07onpolitics-pm-newsletter-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "White House Forces Out Trump Appointees From Boards of Military Academies"
+    excerpt: "The Biden administration was seeking to ensure that board members were “qualified to serve” and aligned with the president’s values, said Jen Psaki, the White House press secretary."
+    publishedDateTime: 2021-09-09T01:17:00Z
+    webUrl: "https://www.nytimes.com/2021/09/08/us/politics/trump-appointees-military-academy-boards.html"
+    ampWebUrl: "https://www.nytimes.com/2021/09/08/us/politics/trump-appointees-military-academy-boards.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/09/08/us/politics/trump-appointees-military-academy-boards.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 134
+    images:
+      - url: "https://static01.nyt.com/images/2021/09/08/us/08dc-trump-appointees/merlin_164002872_3c851945-3cc7-4ef8-9a94-a48fbfcf8718-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true

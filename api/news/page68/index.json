@@ -2,6 +2,379 @@
   "page": 68,
   "value": [
     {
+      "path": "_news/2021-04-17-ag-merrick-garland-rescinds-a-trump-era-memo-curtailing-consent-decrees-in-investigations-of-police-departments.md",
+      "title": "AG Merrick Garland rescinds a Trump-era memo curtailing consent decrees in investigations of police departments",
+      "excerpt": "The memo comes as the Justice Department shifts its priorities to focus more on civil rights issues, criminal justice overhauls and policing policies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/garland-rescinds-trump-era-memo-curtailing-consent-decrees-2021-4",
+      "originalUrl": "https://www.businessinsider.com/garland-rescinds-trump-era-memo-curtailing-consent-decrees-2021-4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6079c16a44f4540019207203?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/garland-rescinds-trump-era-memo-curtailing-consent-decrees-2021-4?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/garland-rescinds-trump-era-memo-curtailing-consent-decrees-2021-4?amp",
+      "publishedDateTime": "2021-04-16T10:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-04-16-mike-pence-undergoes-surgery-to-have-pacemaker-implanted.md",
+      "title": "Mike Pence undergoes surgery to have pacemaker implanted",
+      "excerpt": "\"The routine surgery was successful, and he is expected to fully recover and return to normal activity in the coming days,\" Pence's office said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/mike-pence-pacemaker-implant-surgery/",
+      "originalUrl": "https://www.cbsnews.com/news/mike-pence-pacemaker-implant-surgery/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 365,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews3.cbsistatic.com/hub/i/r/2021/01/13/3d46e6fa-c74e-41cc-be16-96e683b81c3e/thumbnail/1200x630/6416c4237a17d28bc745050913d7d613/gettyimages-1230408840.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/mike-pence-pacemaker-implant-surgery/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/mike-pence-pacemaker-implant-surgery/",
+      "publishedDateTime": "2021-04-16T04:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-04-16-franklin-grahams-prayer-call-for-mike-pence-receives-traitor-responses-from-followers.md",
+      "title": "Franklin Graham's Prayer Call for Mike Pence Receives 'Traitor' Responses From Followers",
+      "excerpt": "Gab users refused to wish the former VP a speedy recovery and continued to criticize him for not helping Donald Trump overturn the 2020 presidential election results.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/franklin-graham-mike-pence-surgery-gab-traitor-1584107",
+      "originalUrl": "https://www.newsweek.com/franklin-graham-mike-pence-surgery-gab-traitor-1584107",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1778883/mike-pence.jpg",
+          "width": 3000,
+          "height": 2001,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/franklin-graham-mike-pence-surgery-gab-traitor-1584107?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/franklin-graham-mike-pence-surgery-gab-traitor-1584107?amp=1",
+      "publishedDateTime": "2021-04-16T03:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-04-16-donald-trump-is-ditching-the-spray-tan-hair-highlights-and-even-some-extra-pounds-as-he-mulls-his-political-future.md",
+      "title": "Donald Trump is ditching the spray tan, hair highlights, and even some extra pounds as he mulls his political future",
+      "excerpt": "Former President Donald Trump has lost weight and \"feels great\" nearly three months after leaving the White House, advisors say.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/donald-trump-weight-loss-spray-tan-hair-white-house-2021-4",
+      "originalUrl": "https://www.businessinsider.com/donald-trump-weight-loss-spray-tan-hair-white-house-2021-4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6078c02a4206150018175cd0?width=1200&format=jpeg",
+          "width": 568,
+          "height": 284,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-16T01:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-04-16-washington-moves-of-the-week-gaetz-promotes-former-democratic-staffer-while-former-trump-officials-jump-into-america-first-nonprofit.md",
+      "title": "Washington moves of the week: Gaetz promotes former Democratic staffer while former Trump officials jump into 'America First' nonprofit",
+      "excerpt": "Rep. Matt Gaetz has promoted a former Democratic staffer as other aides quit amid the sex trafficking investigation into the Florida Republican and Trump ally.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/washington-moves-jobs-careers-trump-biden-administration-media-lobbying-congress-2021-4",
+      "originalUrl": "https://www.businessinsider.com/washington-moves-jobs-careers-trump-biden-administration-media-lobbying-congress-2021-4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6078928e74da0300181e1f13?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-16T01:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-04-16-texas-gov-abbott-calls-on-biden-harris-to-apply-terrorist-label-to-mexican-cartels-report.md",
+      "title": "Texas Gov. Abbott calls on Biden, Harris to apply ‘terrorist’ label to Mexican cartels: report",
+      "excerpt": "Texas Gov. Greg Abbott wants the Biden administration to declare Mexico’s drug cartels to be terrorist organizations.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/OLDUYa775UI/texas-gov-abbott-calls-on-biden-harris-to-apply-terrorist-label-to-mexican-cartels-report",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/OLDUYa775UI/texas-gov-abbott-calls-on-biden-harris-to-apply-terrorist-label-to-mexican-cartels-report",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 248,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4b7e0d43-01ac-4ea4-9373-689fb8848fe4/418929e4-8d25-4f2b-bc61-6d784c399913/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/texas-gov-abbott-calls-on-biden-harris-to-apply-terrorist-label-to-mexican-cartels-report.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-gov-abbott-calls-on-biden-harris-to-apply-terrorist-label-to-mexican-cartels-report.amp",
+      "publishedDateTime": "2021-04-15T21:58:13-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-04-15-ex-trump-official-kellyanne-conway-named-senior-adviser-to-ohio-senate-candidate-bernie-moreno.md",
+      "title": "Ex-Trump official Kellyanne Conway named senior adviser to Ohio Senate candidate Bernie Moreno",
+      "excerpt": "Former Trump campaign manager Kellyanne Conway will serve as a senior adviser to Ohio Senate candidate Bernie Moreno, his campaign announced on Thursday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/HbMI4K9W-yY/ex-trump-official-kellyanne-conway-senior-adviser-ohio-senate-candidate-bernie-moreno",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/HbMI4K9W-yY/ex-trump-official-kellyanne-conway-senior-adviser-ohio-senate-candidate-bernie-moreno",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 163,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0b9ac759-5944-4eae-a66a-9543f7b07e79/4d7bc46b-988a-4b72-8a6a-96c59393937f/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/ex-trump-official-kellyanne-conway-senior-adviser-ohio-senate-candidate-bernie-moreno.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ex-trump-official-kellyanne-conway-senior-adviser-ohio-senate-candidate-bernie-moreno.amp",
+      "publishedDateTime": "2021-04-15T15:09:32-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-15-sen-graham-slams-biden-dems-for-court-packing-attempt-they-are-really-drunk-with-power.md",
       "title": "Sen. Graham slams Biden, Dems for court-packing attempt: They are 'really drunk with power'",
       "excerpt": "Senator Lindsey Graham responds to Democrats' legislation to pack the Supreme Court, and U.S. troops leaving Afghanistan on 'The Story'",
@@ -982,386 +1355,6 @@
       "topics": [
         "Election",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-04-14-youtube-bans-channel-of-former-trump-aide-sebastian-gorka-over-election-claims.md",
-      "title": "YouTube bans channel of former Trump aide Sebastian Gorka over election claims",
-      "excerpt": "YouTube has banned the channel of Sebastian Gorka, a former aide to President Donald Trump, saying it violated the video platform's presidential election integrity policy. In a statement obtained by USA TODAY, YouTube spokesperson Ivy Choi said Gorka's ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/tech/2021/04/14/sebastian-gorka-youtube-bans-former-trump-aide-over-election-claims/7220169002/",
-      "originalUrl": "https://www.usatoday.com/story/tech/2021/04/14/sebastian-gorka-youtube-bans-former-trump-aide-over-election-claims/7220169002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 136,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/-mm-/c6bc48b495fab2380a07dd86d526eb4ed339ce87/c=0-0-3000-1695/local/-/media/2018/03/28/USATODAY/USATODAY/636578654959683524-GORKA001.JPG?auto=webp&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 678,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/7220169002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7220169002",
-      "publishedDateTime": "2021-04-14T09:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-04-14-biden-parts-of-us-backsliding-into-jim-crow-days.md",
-      "title": "Biden: Parts of US 'backsliding' into Jim Crow days",
-      "excerpt": "President Biden said parts of the United States are \"backsliding\" into \"the days of Jim Crow,\" during remarks Wednesday at the National Action Network's national convention – one of the largest civil rights conferences in the country.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/cLvFDgleK4E/biden-backsliding-into-jim-crow",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/cLvFDgleK4E/biden-backsliding-into-jim-crow",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 255,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-backsliding-into-jim-crow.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-backsliding-into-jim-crow.amp",
-      "publishedDateTime": "2021-04-14T09:48:32-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-14-biden-says-parts-of-us-are-backsliding-into-the-days-of-jim-crow.md",
-      "title": "Biden says parts of US are 'backsliding into the days of Jim Crow' ",
-      "excerpt": "President Joe Biden said Wednesday that parts of the United States are \"backsliding into the days of Jim Crow\" by passing laws he says are reminiscent of when Black Americans had to pay poll taxes and pass other tests before casting their vote.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/YI9trfReLkI/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/YI9trfReLkI/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210412151138-01-biden-jobs-plan-0412-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/14/politics/biden-us-backsliding-jim-crow/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/14/politics/biden-us-backsliding-jim-crow/index.html",
-      "publishedDateTime": "2021-04-14T09:29:27-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-14-schumer-praises-bidens-careful-and-thought-out-plan-for-afghanistan.md",
-      "title": "Schumer praises Biden's 'careful and thought-out plan' for Afghanistan",
-      "excerpt": "Senate Majority Leader Chuck Schumer on Wednesday praised President Joe Biden's plan to withdraw US troops from Afghanistan, calling it a \"careful and thought-out plan.\"\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zVtojWIqndA/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zVtojWIqndA/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 475,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210414092514-screengrab-chuck-schumer-cnn-0414-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/14/politics/chuck-schumer-afghanistan-cnntv/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/14/politics/chuck-schumer-afghanistan-cnntv/index.html",
-      "publishedDateTime": "2021-04-14T07:28:50-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-14-biden-accompanies-first-lady-to-appointment-for-common-medical-procedure.md",
-      "title": "Biden accompanies first lady to appointment for 'common medical procedure'",
-      "excerpt": "President Biden on Wednesday accompanied first lady Jill Biden to an outpatient facility in Washington, D.C., for what the White House said is \"a common medical procedure.\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Byiy_FIv6Ns/jill-biden-appointment-medical-procedure",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Byiy_FIv6Ns/jill-biden-appointment-medical-procedure",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 173,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/jill-biden-appointment-medical-procedure.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jill-biden-appointment-medical-procedure.amp",
-      "publishedDateTime": "2021-04-14T05:58:34-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-14-white-house-jill-biden-arrives-for-medical-procedure.md",
-      "title": "White House: Jill Biden arrives for medical ‘procedure’",
-      "excerpt": "WASHINGTON — President Joe Biden and his wife, Jill Biden, were at a downtown office building Wednesday for the first lady to undergo a “common medical procedure.” The White House announced late Tuesday that the president would accompany his wife ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/white-house-first-lady-jill-biden-to-undergo-procedure/2021/04/13/fdae29cc-9cbf-11eb-b2f5-7d2f0182750d_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/white-house-first-lady-jill-biden-to-undergo-procedure/2021/04/13/fdae29cc-9cbf-11eb-b2f5-7d2f0182750d_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 185,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-          "width": 1484,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/white-house-first-lady-jill-biden-to-undergo-procedure/2021/04/13/fdae29cc-9cbf-11eb-b2f5-7d2f0182750d_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/white-house-first-lady-jill-biden-to-undergo-procedure/2021/04/13/fdae29cc-9cbf-11eb-b2f5-7d2f0182750d_story.html?outputType=amp",
-      "publishedDateTime": "2021-04-14T04:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-04-14-trump-era-spike-in-israeli-settlement-growth-has-only-begun.md",
-      "title": "Trump-era spike in Israeli settlement growth has only begun",
-      "excerpt": "Satellite images and data obtained by The Associated Press document for the first time the full impact of the policies of then-President Donald Trump, who abandoned decades-long U.S. opposition to ...",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/International/wireStory/trump-era-growth-settlement-growth-begun-77061171",
-      "originalUrl": "https://abcnews.go.com/International/wireStory/trump-era-growth-settlement-growth-begun-77061171",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/International/WireAP_a04df8fa0413470e90547a8e116fc562_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/International/wireStory/trump-era-growth-settlement-growth-begun-77061171",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/trump-era-growth-settlement-growth-begun-77061171",
-      "publishedDateTime": "2021-04-13T23:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABCNews",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

@@ -2,6 +2,440 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2021-07-01-see-michael-cohens-reaction-to-trump-organization-charges.md",
+      "title": "See Michael Cohen's reaction to Trump Organization charges",
+      "excerpt": "New York prosecutors charged the Trump Organization, the Trump Payroll Corporation and Chief Financial Officer Allen Weisselberg in connection with an alleged tax scheme stretching back to 2005, in an extraordinary legal development against the former President's namesake company. Weisselberg, the Trump",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xLK3daoIRaU/allen-weisselberg-indictment-trump-organization-michael-cohen-intv-nr-vpx.cnn",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xLK3daoIRaU/allen-weisselberg-indictment-trump-organization-michael-cohen-intv-nr-vpx.cnn",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 575,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210701155610-michael-cohen-allen-weisselberg-indictment-screengrab-vpx-07012021-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/videos/politics/2021/07/01/allen-weisselberg-indictment-trump-organization-michael-cohen-intv-nr-vpx.cnn",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/07/01/allen-weisselberg-indictment-trump-organization-michael-cohen-intv-nr-vpx.cnn",
+      "publishedDateTime": "2021-07-01T14:44:49-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-02-iowa-federal-judge-apologizes-for-comments-about-trump-pardons.md",
+      "title": "Iowa federal judge apologizes for comments about Trump pardons",
+      "excerpt": "An Iowa federal judge is apologizing for comments criticizing then-President Trump for multiple pardons that he issued in his last days in office.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/state-watch/561215-iowa-federal-judge-apologizes-for-comments-about-trump-pardons",
+      "originalUrl": "https://thehill.com/homenews/state-watch/561215-iowa-federal-judge-apologizes-for-comments-about-trump-pardons",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 525,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/trumpdonald_063021getty_lead.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/state-watch/561215-iowa-federal-judge-apologizes-for-comments-about-trump-pardons?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/state-watch/561215-iowa-federal-judge-apologizes-for-comments-about-trump-pardons?amp",
+      "publishedDateTime": "2021-07-01T14:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-07-01-kamala-harris-silent-on-scotus-ruling-on-lawsuit-that-started-while-she-was-state-ag.md",
+      "title": "Kamala Harris silent on SCOTUS ruling on lawsuit that started while she was state AG",
+      "excerpt": "SCOTUS ruled 6-3 against the rule started under Harris",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/OAQ2G5LFufU/kamala-harris-scotus-ruling-donor-rule",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/OAQ2G5LFufU/kamala-harris-scotus-ruling-donor-rule",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 238,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/72d03751-eeaa-4f93-88a8-2f91e2a84421/1c01f40a-7be0-4fa3-a103-f41cd5e73663/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/kamala-harris-scotus-ruling-donor-rule.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-scotus-ruling-donor-rule.amp",
+      "publishedDateTime": "2021-07-01T13:56:09-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-07-02-waiting-is-unbearable-biden-consoles-surfside-families.md",
+      "title": "'Waiting is unbearable': Biden consoles Surfside families",
+      "excerpt": "President Joe Biden has drawn on his own experiences with grief and loss to comfort families affected by the Florida condo collapse",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/biden-bringing-message-of-comfort-unity-to-surfside/2021/07/01/dbc0ac72-da77-11eb-8c87-ad6f27918c78_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/biden-bringing-message-of-comfort-unity-to-surfside/2021/07/01/dbc0ac72-da77-11eb-8c87-ad6f27918c78_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 285,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SVUO7EG2QII6XDEHVVXSPEMMPA.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/biden-bringing-message-of-comfort-unity-to-surfside/2021/07/01/dbc0ac72-da77-11eb-8c87-ad6f27918c78_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-bringing-message-of-comfort-unity-to-surfside/2021/07/01/dbc0ac72-da77-11eb-8c87-ad6f27918c78_story.html?outputType=amp",
+      "publishedDateTime": "2021-07-01T13:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-07-01-trump-adviser-jason-miller-to-launch-gettr-a-cancel-free-social-media-platform.md",
+      "title": "Trump adviser Jason Miller to launch GETTR, a 'cancel-free' social media platform",
+      "excerpt": "EXCLUSIVE: Former Trump senior adviser Jason Miller is launching a new social media platform on July 4 to declare “independence” from Big Tech, billing it as a “cancel-free zone” focused on free speech, with “superior technology” that he says will “be the envy” of Silicon Valley.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8otOXn9yBZs/trump-adviser-jason-miller-to-launch-gettr-a-cancel-free-social-media-platform",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8otOXn9yBZs/trump-adviser-jason-miller-to-launch-gettr-a-cancel-free-social-media-platform",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 190,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-adviser-jason-miller-to-launch-gettr-a-cancel-free-social-media-platform.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-adviser-jason-miller-to-launch-gettr-a-cancel-free-social-media-platform.amp",
+      "publishedDateTime": "2021-07-01T12:11:06-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-02-kamala-harris-chief-of-staff-criticized-for-tough-tactics-built-reputation-while-working-for-bill-clinton.md",
+      "title": "Kamala Harris' chief of staff, criticized for tough tactics, built reputation while working for Bill Clinton",
+      "excerpt": "Kamala Harris' chief of staff blocked out longtime aides and allies from connecting with Bill Clinton while she ran his post-White House office.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2021/07/01/kamala-harris-chief-of-staff-tina-flournoy-blocked-bill-clinton-aides-allies.html",
+      "originalUrl": "https://www.cnbc.com/2021/07/01/kamala-harris-chief-of-staff-tina-flournoy-blocked-bill-clinton-aides-allies.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106904824-1625070270091-51032561503_63f533fcab_o.jpg?v=1625154619",
+          "width": 1127,
+          "height": 810,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2021/07/01/kamala-harris-chief-of-staff-tina-flournoy-blocked-bill-clinton-aides-allies.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/07/01/kamala-harris-chief-of-staff-tina-flournoy-blocked-bill-clinton-aides-allies.html",
+      "publishedDateTime": "2021-07-01T11:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-07-02-meghan-mccain-pans-leaker-on-kamala-harris-staff-running-to-politico-like-a-little-b-ch.md",
+      "title": "Meghan McCain pans leaker on Kamala Harris' staff: 'Running to Politico like a little b--ch'",
+      "excerpt": "\"The View\" co-host Meghan McCain flamed the anonymous leaker responsible for claims of internal tensions amongst Vice President Kamala Harris' staff, which were originally reported by Politico on Wednesday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/meghan-mccain-leaker-kamala-harris-staff-running-politico-little-bitch",
+      "originalUrl": "https://www.foxnews.com/media/meghan-mccain-leaker-kamala-harris-staff-running-politico-little-bitch",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a1119a04-143c-41cc-9e55-a99b4305cc0c/b4135bd6-3dfd-4823-b239-5ae6d4917de2/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/meghan-mccain-leaker-kamala-harris-staff-running-politico-little-bitch.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/meghan-mccain-leaker-kamala-harris-staff-running-politico-little-bitch.amp",
+      "publishedDateTime": "2021-07-01T11:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-01-kamala-harris-gender-equality-strengthens-democracy.md",
+      "title": "Kamala Harris: 'Gender equality strengthens democracy'",
+      "excerpt": "Gender equality strengthens democracy' Posted . Women deprived of freedom of speech or the freedom to vote should fight for their rights and know that t",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/video/watch/idOVEK0M7NL",
+      "originalUrl": "https://www.reuters.com/video/watch/idOVEK0M7NL",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.reuters.com/resources/r/?d=20210701&i=OVEK0M7NL&r=OVEK0M7NL&t=2",
+          "width": 960,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-01T09:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-07-01-aclu-sues-biden-administration-to-block-transfers-of-ice-detainees.md",
       "title": "ACLU sues Biden administration to block transfers of ICE detainees",
       "excerpt": "The American Civil Liberties Union (ACLU) on Wednesday filed a lawsuit against the Biden administration seeking to block the long-distance transfer of illegal immigrants detained by Immigration and Customs Enforcement (ICE) in New Jersey.",
@@ -932,445 +1366,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-01-trump-lawyer-bruce-castor-plays-a-central-role-in-bill-cosby-going-free.md",
-      "title": "Trump lawyer Bruce Castor plays a central role in Bill Cosby going free",
-      "excerpt": "Castor's representation of Trump in his impeachment trial raised questions about his past decisions about Cosby's prosecution. Now the Pennsylvania Supreme Court has set Cosby free based upon Castor's testimony.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/2021/06/30/trump-lawyer-bruce-castor-played-central-role-bill-cosby-going-free/",
-      "originalUrl": "https://www.washingtonpost.com/politics/2021/06/30/trump-lawyer-bruce-castor-played-central-role-bill-cosby-going-free/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2N2F7EWZY4I6XDEHVVXSPEMMPA.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-30T10:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-30-durbin-slams-biden-admin-for-unacceptable-delays-in-handling-daca-applications.md",
-      "title": "Durbin slams Biden admin for 'unacceptable' delays in handling DACA applications",
-      "excerpt": "Senate Majority Whip Dick Durbin, D-Ill., is unhappy with the Biden administration following the release of a quarterly report of statistics related to applications for the Deferred Action for Childhood Arrivals (DACA) program.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/lpD1Pu5jOHY/durbin-slams-biden-admin-unacceptable-delays-daca-applications",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/lpD1Pu5jOHY/durbin-slams-biden-admin-unacceptable-delays-daca-applications",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 170,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/durbin-slams-biden-admin-unacceptable-delays-daca-applications.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/durbin-slams-biden-admin-unacceptable-delays-daca-applications.amp",
-      "publishedDateTime": "2021-06-30T10:20:57-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-30-pence-was-more-worried-about-covid-19-privately-than-in-his-public-appearances-and-was-rattled-by-his-press-secretary-contracting-the-virus.md",
-      "title": "Pence was more worried about COVID-19 privately than in his public appearances and was 'rattled' by his press secretary contracting the virus: book",
-      "excerpt": "According to the book \"Nightmare Scenario,\" a close advisor's infection gave Pence \"a firsthand glimpse at how quickly the disease could spread.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/mike-pence-more-worried-coronavirus-private-task-force-book-2021-6",
-      "originalUrl": "https://www.businessinsider.com/mike-pence-more-worried-coronavirus-private-task-force-book-2021-6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f76e9290ab50d00184adba4?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/mike-pence-more-worried-coronavirus-private-task-force-book-2021-6?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mike-pence-more-worried-coronavirus-private-task-force-book-2021-6?amp",
-      "publishedDateTime": "2021-06-30T08:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-06-30-ny-times-columnist-mocked-for-claiming-kamala-harris-should-be-given-easier-tasks-not-impossible-problems.md",
-      "title": "NY Times columnist mocked for claiming Kamala Harris should be given easier tasks, not ‘impossible problems’",
-      "excerpt": "New York Times columnist Ezra Klein feels President Biden is making life too difficult for Vice President Kamala Harris and feels she should be given simpler tasks to enhance her reputation, but critics on both sides quickly found problems with his argument.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/new-york-times-kamala-harris-impossible",
-      "originalUrl": "https://www.foxnews.com/media/new-york-times-kamala-harris-impossible",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d1876f41-1b77-41e2-94c6-274afbb4a204/a0c83d60-335a-43ff-90b6-412cc70addb2/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/new-york-times-kamala-harris-impossible.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/new-york-times-kamala-harris-impossible.amp",
-      "publishedDateTime": "2021-06-30T06:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-30-washington-posts-glenn-kessler-sen-tom-cotton-clash-over-fact-check-on-bidens-defund-the-police-stance.md",
-      "title": "Washington Post's Glenn Kessler, Sen. Tom Cotton clash over fact-check on Biden's 'defund the police' stance",
-      "excerpt": "Washington Post fact-checker Glenn Kessler took a swipe at Sen. Tom Cotton, R-Ark., who knocked his reporting on President Biden's stance on the “defund the police” movement.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/washington-post-glenn-kessler-tom-cotton-biden-defund-the-police",
-      "originalUrl": "https://www.foxnews.com/media/washington-post-glenn-kessler-tom-cotton-biden-defund-the-police",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b9526d21-ad32-46a9-b409-a93ebddf365c/aae47d1c-cca7-4bf0-9875-daa35a1251a9/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/washington-post-glenn-kessler-tom-cotton-biden-defund-the-police.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/washington-post-glenn-kessler-tom-cotton-biden-defund-the-police.amp",
-      "publishedDateTime": "2021-06-30T03:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-30-murkowski-has-the-moxie-to-take-on-trump-will-she.md",
-      "title": "Murkowski has the moxie to take on Trump. Will she?",
-      "excerpt": "The Alaska Republican swatted her GOP challenger, boosted by the ex-president, as \"somebody with a pulse.\" But she's also mum about reelection.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2021/06/30/murkowski-trump-alaska-senate-race-497043",
-      "originalUrl": "https://www.politico.com/news/2021/06/30/murkowski-trump-alaska-senate-race-497043",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/e6/5d/1655a65e476691500c2e656a3dd3/gettyimages-1233506060-1.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-30T01:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-30-cnn-msnbc-ratings-drop-because-trump-no-longer-is-president-expert-says.md",
-      "title": "CNN, MSNBC Ratings Drop Because 'Trump No Longer Is President,' Expert Says",
-      "excerpt": "CNN and MSNBC’s viewership fell in the second quarter of 2021 because Donald Trump no longer sits in the White House, an expert said Tuesday. William A. Jacobson, a professor at Cornell Law School and a media critic,",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/cnn-msnbc-ratings-drop-because-trump-no-longer-president-expert-says-3239095",
-      "originalUrl": "https://www.ibtimes.com/cnn-msnbc-ratings-drop-because-trump-no-longer-president-expert-says-3239095",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/23/some-news-outlets-like-cnn-have-seen-dramatic.jpg",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/cnn-msnbc-ratings-drop-because-trump-no-longer-president-expert-says-3239095?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/cnn-msnbc-ratings-drop-because-trump-no-longer-president-expert-says-3239095?amp=1",
-      "publishedDateTime": "2021-06-29T20:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-29-ahead-of-trump-border-visit-republicans-mobilize-effort-to-send-law-enforcement-relief-to-texas-arizona.md",
-      "title": "Ahead of Trump border visit, Republicans mobilize effort to send law enforcement relief to Texas, Arizona",
-      "excerpt": "EXCLUSIVE: The largest conservative caucus in the House is calling on their state governors to send National Guard troops or law enforcement personnel to the southern border ahead of former President Donald Trump's trip to Texas on Wednesday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/laUiHb-rWbk/republicans-law-enforcement-texas-arizona-border-trump",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/laUiHb-rWbk/republicans-law-enforcement-texas-arizona-border-trump",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 138,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2018/09/BorderArrest.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-29T13:14:10-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

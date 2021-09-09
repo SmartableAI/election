@@ -2,6 +2,110 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-05-29-us-seeks-dismissal-of-cases-against-trump-for-clearing-lafayette-square.md",
+      "title": "US seeks dismissal of cases against Trump for clearing Lafayette Square",
+      "excerpt": "Last June, law enforcement removed protesters before the then president walked to a church for a photo op with a Bible",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/may/29/trump-lafayette-square-protests-us-seeks-dismissal",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/may/29/trump-lafayette-square-protests-us-seeks-dismissal",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 225,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/182fdb98428aecee4ee42c211a403b595d2cb823/0_115_3705_2222/master/3705.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f893f4da2f4a0eb32537a5f5f3d23843",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/may/29/trump-lafayette-square-protests-us-seeks-dismissal",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/may/29/trump-lafayette-square-protests-us-seeks-dismissal",
+      "publishedDateTime": "2021-05-29T04:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-05-29-tennessee-shelter-for-immigrant-children-opened-under-trump.md",
+      "title": "Tennessee shelter for immigrant children opened under Trump",
+      "excerpt": "Tennessee licensed a shelter for immigrant children a year before the state’s Republican governor and U.S. Senators began expressing outrage over unaccompanied minors sent to Chattanooga",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/tennessee-shelter-immigrant-children-opened-trump-77971795",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/tennessee-shelter-immigrant-children-opened-trump-77971795",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 185,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/site/ABCNews_flat_black.png",
+          "width": 834,
+          "height": 308,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/tennessee-shelter-immigrant-children-opened-trump-77971795",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/tennessee-shelter-immigrant-children-opened-trump-77971795",
+      "publishedDateTime": "2021-05-28T14:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-05-29-mcconnell-to-trump-whats-a-little-insurrection-between-friends.md",
       "title": "McConnell to Trump: What’s a Little Insurrection Between Friends?",
       "excerpt": "Mitch McConnell gave his members permission to vote to impeach Trump, and even briefly entertained the possibility of joining them. By now, whatever defiant impulse the party’s establishment harbored has died down to the point where a former officeholder merely hinting that Trump is politically optimal rates as a news story.",
@@ -1471,115 +1575,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-24-whos-more-challenging-to-cover-trump-or-biden.md",
-      "title": "Who's more challenging to cover: Trump or Biden?",
-      "excerpt": "Edward-Isaac Dovere, author of the new book \"Battle for the Soul,\" discusses his behind-the-scenes reporting about the 2020 campaign. He also describes the differences in reporting on the former and current presidents.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/videos/business/2021/05/23/whos-more-challenging-to-cover-trump-or-biden.cnn",
-      "originalUrl": "https://www.cnn.com/videos/business/2021/05/23/whos-more-challenging-to-cover-trump-or-biden.cnn",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 150,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210523132900-rs-c-block-isaac-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/videos/business/2021/05/23/whos-more-challenging-to-cover-trump-or-biden.cnn",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/business/2021/05/23/whos-more-challenging-to-cover-trump-or-biden.cnn",
-      "publishedDateTime": "2021-05-23T11:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-23-a-court-ruled-that-a-trump-spokesperson-must-pay-42000-to-gizmodo-media-group-for-wrongfully-claiming-the-outlet-defamed-him.md",
-      "title": "A court ruled that a Trump spokesperson must pay $42,000 to Gizmodo Media Group for wrongfully claiming the outlet defamed him",
-      "excerpt": "Now-defunct news outlet Splinter, owned by G/O Media, reported in 2018 that Jason Miller had given a dancer abortion drugs after getting her pregnant.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-spox-must-pay-gizmodo-for-failed-defamation-lawsuit-2021-5",
-      "originalUrl": "https://www.businessinsider.com/trump-spox-must-pay-gizmodo-for-failed-defamation-lawsuit-2021-5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/60aa58c2e25d05001880d063?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trump-spox-must-pay-gizmodo-for-failed-defamation-lawsuit-2021-5?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-spox-must-pay-gizmodo-for-failed-defamation-lawsuit-2021-5?amp",
-      "publishedDateTime": "2021-05-23T09:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

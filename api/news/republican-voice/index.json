@@ -2,6 +2,287 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-09-09-trump-deplores-removal-of-richmonds-robert-e-lee-statue.md",
+      "title": "Trump deplores removal of Richmond's Robert E. Lee statue",
+      "excerpt": "Former President Donald Trump condemned the removal of a 131-year-old statue of Confederate Gen. Robert E. Lee in Richmond, Virginia.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/efV1k77KfxA/trump-issues-statement-against-removing-robert-e-lee-statue",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/efV1k77KfxA/trump-issues-statement-against-removing-robert-e-lee-statue",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cc6b6512-3fbd-4883-967c-d416c61c3191/67ebe016-00fa-482d-8625-d1fc77fd9323/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-issues-statement-against-removing-robert-e-lee-statue.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-issues-statement-against-removing-robert-e-lee-statue.amp",
+      "publishedDateTime": "2021-09-08T18:23:26-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-09-09-kellyanne-conway-sean-spicer-fire-back-after-biden-boots-trump-appointees-from-military-panels.md",
+      "title": "Kellyanne Conway, Sean Spicer fire back after Biden boots Trump appointees from military panels",
+      "excerpt": "Biden is facing backlash after asking for resignations from multiple members of military academies’",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/MG74Q-dK0Jg/kellyanne-conway-sean-spicer-biden-trump-appointees-military-panels",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/MG74Q-dK0Jg/kellyanne-conway-sean-spicer-biden-trump-appointees-military-panels",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 238,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cc1c997f-286e-4d8c-98db-ad4a6622ad97/d28953bc-1942-4bbb-a47c-9ec8248ffb03/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/kellyanne-conway-sean-spicer-biden-trump-appointees-military-panels.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kellyanne-conway-sean-spicer-biden-trump-appointees-military-panels.amp",
+      "publishedDateTime": "2021-09-08T17:00:56-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-09-08-gop-letter-to-biden-flags-afghan-evacuees-rushed-and-incomplete-vetting.md",
+      "title": "GOP letter to Biden flags Afghan evacuees' 'rushed and incomplete' vetting",
+      "excerpt": "More than 40 Congressional Republicans have sent a letter to President Joe Biden, raising flags about the “rushed and incomplete vetting of Afghan evacuees” who were brought to America from Afghanistan following the Taliban's takeover.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/pSKFT2pPxi4/gop-letter-biden-afghans-rushed-incomplete-vetting",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/pSKFT2pPxi4/gop-letter-biden-afghans-rushed-incomplete-vetting",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 173,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b308cbcd-007e-4d4f-8d7c-603877f97025/0a6b557c-66ef-49e5-a6bd-bc0c5d16b145/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/gop-letter-biden-afghans-rushed-incomplete-vetting.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-letter-biden-afghans-rushed-incomplete-vetting.amp",
+      "publishedDateTime": "2021-09-08T16:26:26-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-09-08-harris-accuses-texas-gov-abbott-of-arrogantly-dismissing-rape-victims.md",
+      "title": "Harris accuses Texas Gov. Abbott of 'arrogantly' dismissing rape victims",
+      "excerpt": "Vice President Kamala Harris opened up a speech supporting California Gov. Gavin Newsom against a recall effort by slamming Texas Gov. Greg Abbott and his state’s newly enacted law restricting abortions.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/XPudeoBAzzE/harris-slams-abbott-at-pro-newsom-rally-accuses-him-of-arrogantly-dismissing-rape-victims",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/XPudeoBAzzE/harris-slams-abbott-at-pro-newsom-rally-accuses-him-of-arrogantly-dismissing-rape-victims",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 204,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/de97b5d5-9a48-4839-a8a4-d085340888e6/151303eb-e6ed-45a1-867c-254e4a3a3838/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/harris-slams-abbott-at-pro-newsom-rally-accuses-him-of-arrogantly-dismissing-rape-victims.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-slams-abbott-at-pro-newsom-rally-accuses-him-of-arrogantly-dismissing-rape-victims.amp",
+      "publishedDateTime": "2021-09-08T15:13:01-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-09-08-biden-admins-response-to-taliban-excuse-for-grounded-flights-slammed-by-lawmakers.md",
+      "title": "Biden admin's response to Taliban 'excuse' for grounded flights slammed by lawmakers",
+      "excerpt": "Secretary of State Antony Blinken said the Taliban have kept planes grounded because evacuees lack required visa documentation, but Republicans are frustrated with the administration’s “excuse.”",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Urd-B-YNieI/biden-admin-taliban-grounded-flights-lawmakers",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Urd-B-YNieI/biden-admin-taliban-grounded-flights-lawmakers",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 168,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2e5b21bf-685d-49c1-a532-196bcdaa6507/7a27150e-99b5-4aed-834a-f74efdfb03b7/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-admin-taliban-grounded-flights-lawmakers.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-admin-taliban-grounded-flights-lawmakers.amp",
+      "publishedDateTime": "2021-09-08T11:19:08-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-09-08-top-jimmy-carter-aide-says-biden-admin-is-reminiscent-of-reliving-carter-years.md",
       "title": "Top Jimmy Carter aide says Biden admin is 'reminiscent of reliving' Carter years",
       "excerpt": "Former White House deputy chief of staff under Carter, Les Francis, said that President Biden seems unable to “catch a break” amid the chaotic, crisis-ridden first year of his term.",
@@ -534,7 +815,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 215,
+      "heat": 235,
       "tags": null,
       "images": [
         {
@@ -687,63 +968,6 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-09-05-lara-trump-blasts-ny-times-for-double-standard-after-editing-headline-about-biden-and-his-son-beau.md",
-      "title": "Lara Trump blasts NY Times for 'double standard' after editing headline about Biden and his son Beau",
-      "excerpt": "Fox News contributor Lara Trump blasted the New York Times for softening a headline initially critical of President Biden for talking about his late son Beau when meeting with the families of troops killed in Afghanistan,",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/ny-times-changes-headline-on-beau-biden",
-      "originalUrl": "https://www.foxnews.com/media/ny-times-changes-headline-on-beau-biden",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ab16235e-7cf3-40a3-9bf0-2d3f23ea92cd/0630e86d-55f3-4867-8638-47312e235d26/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/ny-times-changes-headline-on-beau-biden.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/ny-times-changes-headline-on-beau-biden.amp",
-      "publishedDateTime": "2021-09-05T09:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Republican Voice"
       ]
     },
@@ -1209,7 +1433,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 375,
+      "heat": 395,
       "tags": null,
       "images": [
         {
@@ -1418,230 +1642,6 @@
       "topics": [
         "Election",
         "Kamala Harris",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-09-02-florida-restaurant-owner-posts-sign-telling-biden-supporters-to-take-business-elsewhere.md",
-      "title": "Florida restaurant owner posts sign telling Biden supporters to 'take business elsewhere'",
-      "excerpt": "A Florida restaurant raised eyebrows after posting a sign outsider the front door telling Biden supporters to dine elsewhere citing his recent handling of the American military withdrawal from Afghanistan.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/wrTdQn23Icw/florida-restaurant-owner-posts-sign-telling-biden-supports-to-take-business-elsewhere",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/wrTdQn23Icw/florida-restaurant-owner-posts-sign-telling-biden-supports-to-take-business-elsewhere",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 166,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dc72ea68-4167-41c2-8ad5-9f3aea6239a7/914977d0-3a4a-4385-8d30-416fec15aa84/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/florida-restaurant-owner-posts-sign-telling-biden-supports-to-take-business-elsewhere.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/florida-restaurant-owner-posts-sign-telling-biden-supports-to-take-business-elsewhere.amp",
-      "publishedDateTime": "2021-09-01T18:03:58-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-09-01-biden-administration-guidance-limiting-ice-arrests-sees-pushback-from-16-states.md",
-      "title": "Biden administration guidance limiting ICE arrests sees pushback from 16 states",
-      "excerpt": "A coalition of 16 attorneys general is pushing back against \"interim guidance\" issued under President Biden’s administration which limits the number of deportations and immigration-related arrests by U.S. Immigration and Customs Enforcement (ICE).",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/wb_Ny-a1VNg/16-states-push-back-biden-administration-guidance-ice-arrests",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/wb_Ny-a1VNg/16-states-push-back-biden-administration-guidance-ice-arrests",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 251,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1d7193e5-ede5-4bf2-aa7b-dbd866fc1d66/a339ff07-8e85-4916-bbeb-616f413934b1/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/16-states-push-back-biden-administration-guidance-ice-arrests.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/16-states-push-back-biden-administration-guidance-ice-arrests.amp",
-      "publishedDateTime": "2021-09-01T14:59:10-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-09-01-retired-military-leaders-demand-mass-resignation-of-biden-team-milley-austin-blinken-sullivan.md",
-      "title": "Retired military leaders demand mass resignation of Biden team: Milley, Austin, Blinken, Sullivan",
-      "excerpt": "Three retired military leaders – including two generals – have called for the resignations of President Biden's top military and diplomatic officials, including Chairman of the Joint Chiefs of Staff Mark Milley, Secretary of Defense Lloyd Austin, Secretary of State Anthony Blinken, and national security",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/wiTWhB3c1lM/retired-military-demand-resignation-biden-team",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/wiTWhB3c1lM/retired-military-demand-resignation-biden-team",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 182,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/08/340/340/Tyler-ONeil-Headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/retired-military-demand-resignation-biden-team.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/retired-military-demand-resignation-biden-team.amp",
-      "publishedDateTime": "2021-09-01T14:33:33-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-09-01-biden-rips-texas-abortion-law-as-extreme-violation-of-roe-v-wade.md",
-      "title": "Biden rips Texas abortion law as 'extreme,' violation of Roe v. Wade",
-      "excerpt": "President Biden criticized a new Texas law that prohibits abortion except for during the very beginning of pregnancy or in cases of medical emergencies, stating that it goes against established Supreme Court precedent.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/BhqafWb1_Z4/biden-texas-abortion-law-extreme-violation-of-roe-v-wade",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/BhqafWb1_Z4/biden-texas-abortion-law-extreme-violation-of-roe-v-wade",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 335,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-texas-abortion-law-extreme-violation-of-roe-v-wade.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-texas-abortion-law-extreme-violation-of-roe-v-wade.amp",
-      "publishedDateTime": "2021-09-01T11:56:31-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Republican Voice"
       ]
     }

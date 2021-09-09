@@ -2,6 +2,444 @@
   "page": 56,
   "value": [
     {
+      "path": "_news/2021-05-13-biden-touts-new-cdc-mask-guidance-as-a-great-day-for-america.md",
+      "title": "Biden touts new CDC mask guidance as 'a great day for America'",
+      "excerpt": "President Joe Biden on Thursday touted new mask guidance from the US Centers for Disease Control and Prevention as \"a great day for America\" and an important milestone in the US coronavirus response.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NZGeHYeiSGw/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NZGeHYeiSGw/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 235,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210513154928-01-biden-vaccine-remarks-0513-screenshot-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/13/politics/joe-biden-cdc-mask-guidance/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/13/politics/joe-biden-cdc-mask-guidance/index.html",
+      "publishedDateTime": "2021-05-13T13:37:01-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-14-activists-and-ex-spy-said-to-have-plotted-to-discredit-trump-enemies-in-government.md",
+      "title": "Activists and Ex-Spy Said to Have Plotted to Discredit Trump ‘Enemies’ in Government",
+      "excerpt": "The campaign included planned operations against President Trump’s national security at the time, H.R. McMaster, and F.B.I. employees, according to documents and interviews.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/05/13/us/politics/mcmaster-fbi-trump-project-veritas.html",
+      "originalUrl": "https://www.nytimes.com/2021/05/13/us/politics/mcmaster-fbi-trump-project-veritas.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 128,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/05/13/us/politics/13dc-investigate1/13dc-investigate1-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/05/13/us/politics/mcmaster-fbi-trump-project-veritas.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/05/13/us/politics/mcmaster-fbi-trump-project-veritas.amp.html",
+      "publishedDateTime": "2021-05-13T12:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-13-pelosi-says-she-has-confidence-in-harris-addressing-root-cause-of-border-crisis.md",
+      "title": "Pelosi says she has confidence in Harris addressing root cause of border crisis",
+      "excerpt": "House Speaker Nancy Pelosi said Thursday she has confidence in Vice President Kamala Harris' ability to address the root causes of the border crisis and touted progress the Biden Administration has already made to \"reconstruct\" the immigration system. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/gkMu7NMsm70/pelosi-harris-root-cause-border-crisis",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/gkMu7NMsm70/pelosi-harris-root-cause-border-crisis",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 541,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/340/340/Marisa-Schultz.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/pelosi-harris-root-cause-border-crisis.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-harris-root-cause-border-crisis.amp",
+      "publishedDateTime": "2021-05-13T10:51:09-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-05-14-biden-pledges-aggressive-response-to-pipeline-cyberattackers.md",
+      "title": "Biden pledges aggressive response to pipeline cyberattackers",
+      "excerpt": "President Joe Biden has warned gasoline stations not to engage in price gouging as motorists wait for fuel to start flowing reliably through the Colonial Pipeline",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/biden-team-moves-swiftly-to-tackle-pipeline-political-peril/2021/05/13/20745140-b3a2-11eb-bc96-fdf55de43bef_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/biden-team-moves-swiftly-to-tackle-pipeline-political-peril/2021/05/13/20745140-b3a2-11eb-bc96-fdf55de43bef_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 285,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QHX4FJFUBUI6XPEW7X2V3ZB354.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/biden-team-moves-swiftly-to-tackle-pipeline-political-peril/2021/05/13/20745140-b3a2-11eb-bc96-fdf55de43bef_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-team-moves-swiftly-to-tackle-pipeline-political-peril/2021/05/13/20745140-b3a2-11eb-bc96-fdf55de43bef_story.html?outputType=amp",
+      "publishedDateTime": "2021-05-13T10:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-05-14-maddow-potential-trump-indictment-moves-closer-with-mcgahns-testimony.md",
+      "title": "Maddow: Potential Trump Indictment Moves Closer With McGahn's Testimony",
+      "excerpt": "Rachel Maddow explains how Robert Mueller laid out the ways in which Donald Trump potentially committed obstruction of justice (even though Mueller would not prosecute Trump as president) and notes that Don McGahn's testimony was key to putting that together.",
+      "sourceUrl": null,
+      "webUrl": "https://www.realclearpolitics.com/video/2021/05/13/maddow_potential_trump_indictment_moves_closer_with_mcgahns_testimony.html",
+      "originalUrl": "https://www.realclearpolitics.com/video/2021/05/13/maddow_potential_trump_indictment_moves_closer_with_mcgahns_testimony.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.realclear.com/images/45/459895.jpg",
+          "width": 800,
+          "height": 599,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "http://www.realclearpolitics.com/video/2021/05/13/maddow_potential_trump_indictment_moves_closer_with_mcgahns_testimony.amp.html",
+      "cdnAmpWebUrl": "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/05/13/maddow_potential_trump_indictment_moves_closer_with_mcgahns_testimony.amp.html",
+      "publishedDateTime": "2021-05-13T10:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RealClearPolitics",
+        "domain": "realclearpolitics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-13-biden-warns-gas-station-owners-do-not-try-to-take-advantage-of-consumers-during-fuel-crunch.md",
+      "title": "Biden warns gas station owners: 'Do not try to take advantage of consumers' during fuel crunch",
+      "excerpt": "President Joe Biden warned gas station owners on Thursday against price gouging and taking advantage of consumers as many areas along the East Coast face shortages in the wake of panic-buying sparked by a ransomware attack on the Colonial Pipeline.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/b0UZ82ibWp0/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/b0UZ82ibWp0/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 183,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210512170722-02-joe-biden-0512-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/13/politics/biden-gas-stations/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/13/politics/biden-gas-stations/index.html",
+      "publishedDateTime": "2021-05-13T10:21:59-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-13-terry-mcauliffe-criticizes-youngkin-for-trump-ties-but-he-has-his-own.md",
+      "title": "Terry McAuliffe criticizes Youngkin for Trump ties, but he has his own",
+      "excerpt": "McAuliffe – a former governor of the Old Dominion – released an attack ad against Youngkin on Tuesday targeting the Republican nominee for his ties to the former president, calling Trump a “stain on our democracy.”",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/tQ94s0q6KXo/virginia-governor-race-mcauliffe-youngkin-trump-ties",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/tQ94s0q6KXo/virginia-governor-race-mcauliffe-youngkin-trump-ties",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 235,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/75dd6f14-59b7-4b8d-8faf-ddd786809088/9ce1732d-00cd-452b-a561-fc52c2c98790/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/virginia-governor-race-mcauliffe-youngkin-trump-ties.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/virginia-governor-race-mcauliffe-youngkin-trump-ties.amp",
+      "publishedDateTime": "2021-05-13T10:17:22-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-13-rep-gallagher-bill-would-force-biden-to-declassify-wuhan-coronavirus-lab-leak-theory-intel.md",
+      "title": "Rep. Gallagher bill would force Biden to declassify Wuhan coronavirus lab leak theory intel",
+      "excerpt": "A group of House Republicans is introducing a bill on Thursday that would force the Biden administration to declassify intelligence related to the possibility that the coronavirus could have leaked from a Chinese lab.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/B4J6Zqahgzs/gallagher-bill-covid-lab-leak-china-wuhan-institute-virology",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/B4J6Zqahgzs/gallagher-bill-covid-lab-leak-china-wuhan-institute-virology",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/Wuhan-Lab.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-13T10:02:31-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-05-13-biden-says-that-fuel-is-beginning-to-flow-as-administration-struggles-to-limit-political-damage-from-gas-shortage.md",
       "title": "Biden says that fuel is ‘beginning to flow,’ as administration struggles to limit political damage from gas shortage",
       "excerpt": "Republicans have seized on the crisis to attack Biden’s energy policies and portray him as an agent of chaos amid other challenges.",
@@ -915,429 +1353,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-12-pelosi-says-biden-dems-want-big-bold-bipartisan-spending-bill.md",
-      "title": "Pelosi says Biden, Dems want 'big, bold' bipartisan spending bill",
-      "excerpt": "House Speaker Nancy Pelosi said she's feeling even more optimistic now about passing a \"big, bold\" spending bill this year after meeting with President Biden and congressional leadership at the White House.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/EzwJUKn5WjA/pelosi-biden-dems-big-bold-bipartisan-bill",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/EzwJUKn5WjA/pelosi-biden-dems-big-bold-bipartisan-bill",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 275,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/340/340/Marisa-Schultz.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/pelosi-biden-dems-big-bold-bipartisan-bill.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-biden-dems-big-bold-bipartisan-bill.amp",
-      "publishedDateTime": "2021-05-12T13:17:39-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-12-bidens-energy-sec-says-pipe-is-best-way-to-transport-fuel-sparks-backlash-regarding-keystone-xl-pipeline.md",
-      "title": "Biden's energy sec says 'pipe is best way' to transport fuel, sparks backlash regarding Keystone XL pipeline",
-      "excerpt": "At a Tuesday press conference, Department of Energy (DOE) Secretary Jennifer Granholm was asked by a reporter about the \"feasibility of using rail cars\" to transport fuel across the country as the nation faces a gas shortage from a Russian cyber attack.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/A8sSEwa4wGw/jennifer-granholm-pipeline-comment-backlash",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/A8sSEwa4wGw/jennifer-granholm-pipeline-comment-backlash",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d2a99b01-47c4-41c7-b0cb-5b090050a230/f6930429-3760-4230-8b76-54bd6f4e39e7/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/jennifer-granholm-pipeline-comment-backlash.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jennifer-granholm-pipeline-comment-backlash.amp",
-      "publishedDateTime": "2021-05-12T12:31:26-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-12-the-latest-rosen-wont-answer-question-on-trump-fraud-claim.md",
-      "title": "The Latest: Rosen won't answer question on Trump fraud claim",
-      "excerpt": "Former acting Attorney General Jeffrey Rosen won't answer questions from Congress about whether then-President Donald Trump instructed him to take any action to try to advance Trump’s unfounded claims of election fraud.",
-      "sourceUrl": null,
-      "webUrl": "https://www.stltoday.com/news/national/govt-and-politics/the-latest-rosen-wont-answer-question-on-trump-fraud-claim/article_c63f9a1d-48b9-5a57-859f-6f2f883332df.html",
-      "originalUrl": "https://www.stltoday.com/news/national/govt-and-politics/the-latest-rosen-wont-answer-question-on-trump-fraud-claim/article_c63f9a1d-48b9-5a57-859f-6f2f883332df.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/8/e4/8e468fe4-4107-5a69-a0b7-ca50a1f0c3c9/609bf15831d3e.image.jpg",
-          "width": 400,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.stltoday.com/news/national/govt-and-politics/the-latest-rosen-wont-answer-question-on-trump-fraud-claim/article_c63f9a1d-48b9-5a57-859f-6f2f883332df.amp.html",
-      "cdnAmpWebUrl": "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/national/govt-and-politics/the-latest-rosen-wont-answer-question-on-trump-fraud-claim/article_c63f9a1d-48b9-5a57-859f-6f2f883332df.amp.html",
-      "publishedDateTime": "2021-05-12T09:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "St. Louis Post-Dispatch",
-        "domain": "stltoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-05-12-democrat-del-rio-texas-mayor-biden-admin-telling-me-border-is-under-control.md",
-      "title": "Democrat Del Rio, Texas mayor: Biden admin telling me border is 'under control'",
-      "excerpt": "The Democratic mayor of Del Rio, Texas said Wednesday that he believes that the U.S. southern border is “wide open” for illegal immigrants, despite insistence from the Biden administration claiming the opposite.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5nqUvkOJEZU/democrat-del-rio-texas-mayor-border-wide-open-biden",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5nqUvkOJEZU/democrat-del-rio-texas-mayor-border-wide-open-biden",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 171,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c3abd5ef-48ad-4a6b-af5c-820341e1b197/0f166762-c33a-4d7b-b7d7-2775f7a82db6/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/democrat-del-rio-texas-mayor-border-wide-open-biden.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/democrat-del-rio-texas-mayor-border-wide-open-biden.amp",
-      "publishedDateTime": "2021-05-12T08:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-12-more-than-120-retired-generals-and-admirals-wrote-to-biden-suggesting-he-wasnt-legitimately-elected-and-questioning-his-mental-health.md",
-      "title": "More than 120 retired generals and admirals wrote to Biden suggesting he wasn't legitimately elected and questioning his mental health",
-      "excerpt": "The letter published by \"Flag Officers 4 America\" appeared to advance a false conspiracy theory that the 2020 election was illegitimate.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/former-generals-admirals-letter-question-election-biden-health-2021-5",
-      "originalUrl": "https://www.businessinsider.com/former-generals-admirals-letter-question-election-biden-health-2021-5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6077445474da0300181e1b3a?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/former-generals-admirals-letter-question-election-biden-health-2021-5?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/former-generals-admirals-letter-question-election-biden-health-2021-5?amp",
-      "publishedDateTime": "2021-05-12T07:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-05-12-former-trump-officials-to-defend-response-to-capitol-riot-when-they-appear-before-congress-wednesday.md",
-      "title": "Former Trump officials to defend response to Capitol riot when they appear before Congress Wednesday",
-      "excerpt": "Two senior Trump administration officials plan to defend their actions during the Jan. 6 riot at the U.S. Capitol when they appear before Congress Wednesday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chicagotribune.com/nation-world/ct-aud-nw-capitol-riot-defense-secretary-congress-20210512-moa2hajy3naa3mdftdmhln4a34-story.html",
-      "originalUrl": "https://www.chicagotribune.com/nation-world/ct-aud-nw-capitol-riot-defense-secretary-congress-20210512-moa2hajy3naa3mdftdmhln4a34-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.chicagotribune.com/resizer/FRpP3hB8ynGmt-z0pw-6qbu9_Cc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/PGYJO7TJW2FMIGATWOMTP4VVCY.aspx",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.chicagotribune.com/nation-world/ct-aud-nw-capitol-riot-defense-secretary-congress-20210512-moa2hajy3naa3mdftdmhln4a34-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-capitol-riot-defense-secretary-congress-20210512-moa2hajy3naa3mdftdmhln4a34-story.html?outputType=amp",
-      "publishedDateTime": "2021-05-12T04:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chicago Tribune",
-        "domain": "chicagotribune.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-05-12-cheney-shames-colleagues-who-will-purge-her-for-disloyalty-to-trump.md",
-      "title": "Cheney shames colleagues who will purge her for disloyalty to Trump",
-      "excerpt": "Liz Cheney won't move on and stop speaking about the threat to American democracy posed by Donald Trump for a simple reason: It hasn't gone away.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/CmPR2gXUgy8/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/CmPR2gXUgy8/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 275,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210505064526-01-liz-cheney-0414-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/12/politics/liz-cheney-house-gop/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/12/politics/liz-cheney-house-gop/index.html",
-      "publishedDateTime": "2021-05-12T03:51:31-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-12-exclusive-biden-names-new-federal-judges-including-a-bush-nominee-with-an-emphasis-on-diversity.md",
-      "title": "Exclusive: Biden names new federal judges, including a Bush nominee, with an emphasis on diversity",
-      "excerpt": "Biden is filling federal judgeships with an eye toward racial and professional diversity. The White House is now unveiling its next round of nominees.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2021/05/12/biden-names-new-federal-judges-including-puerto-ricos-gustavo-gelpi/5035176001/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/05/12/biden-names-new-federal-judges-including-puerto-ricos-gustavo-gelpi/5035176001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/05/11/USAT/6c42eaee-2600-428b-89af-560edd76d80f-Biden_Judges.jpg?auto=webp&crop=3626,2040,x0,y524&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/5035176001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5035176001",
-      "publishedDateTime": "2021-05-12T02:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "YAHOO!News",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

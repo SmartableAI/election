@@ -2,6 +2,471 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2021-07-26-biden-and-kadhimi-seal-agreement-to-end-us-combat-mission-in-iraq.md",
+      "title": "Biden and Kadhimi seal agreement to end US combat mission in Iraq",
+      "excerpt": "President and PM meet at Oval Office and announce schedule to shift mission entirely to training and advisory role by end of this year",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/world/2021/jul/26/joe-biden-iraq-mustafa-al-kadhimi-us-military-combat-mission",
+      "originalUrl": "https://www.theguardian.com/world/2021/jul/26/joe-biden-iraq-mustafa-al-kadhimi-us-military-combat-mission",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 365,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/128af502e617b1e5bf969afb2545849df37b1c60/0_0_4385_2630/master/4385.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ef0434ac01738e54ec3dca6dd172c5dc",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/world/2021/jul/26/joe-biden-iraq-mustafa-al-kadhimi-us-military-combat-mission",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2021/jul/26/joe-biden-iraq-mustafa-al-kadhimi-us-military-combat-mission",
+      "publishedDateTime": "2021-07-26T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-07-26-education-nonprofit-warns-biden-nominee-lhamon-would-threaten-progress-of-trump-era-title-ix-protections.md",
+      "title": "Education nonprofit warns Biden nominee Lhamon would 'threaten progress' of Trump-era Title IX protections",
+      "excerpt": "An education nonprofit is warning the Biden administration's commitment to rolling back Title IX's due process protections for individuals accused of sexual harassment on college campuses would erase the progress enacted under the Trump administration.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/politics/education-nonprofit-title-ix-biden-lhamon",
+      "originalUrl": "https://www.foxnews.com/politics/education-nonprofit-title-ix-biden-lhamon",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/213f48f8-3e13-432e-8f0a-729406f11ecd/7194499b-c1af-4167-bf2e-050b58eaa444/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/education-nonprofit-title-ix-biden-lhamon.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/education-nonprofit-title-ix-biden-lhamon.amp",
+      "publishedDateTime": "2021-07-26T05:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-26-sarah-huckabee-sanders-urges-people-to-get-the-trump-vaccine.md",
+      "title": "Sarah Huckabee Sanders urges people to get the ‘Trump vaccine’",
+      "excerpt": "Former White House press secretary Sarah Huckabee Sanders acknowledged Sunday that she was inoculated against COVID-19 “months ago” — with the “Trump vaccine.”",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/07/25/sarah-huckabee-sanders-urges-people-to-get-the-trump-vaccine/",
+      "originalUrl": "https://nypost.com/2021/07/25/sarah-huckabee-sanders-urges-people-to-get-the-trump-vaccine/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/07/sarah-huckabee-sanders.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/07/25/sarah-huckabee-sanders-urges-people-to-get-the-trump-vaccine/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/25/sarah-huckabee-sanders-urges-people-to-get-the-trump-vaccine/amp/",
+      "publishedDateTime": "2021-07-25T17:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-26-biden-pathway-to-citizenship-in-reconciliation-package-remains-to-be-seen.md",
+      "title": "Biden: Pathway to citizenship in reconciliation package 'remains to be seen'",
+      "excerpt": "President Biden on Sunday said it “remains to be seen” if a pathway to citizenship will be included in the Democrats’ forthcoming reconciliation package.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/administration/564754-biden-pathway-to-citizenship-in-reconciliation-package-remains-to-be",
+      "originalUrl": "https://thehill.com/homenews/administration/564754-biden-pathway-to-citizenship-in-reconciliation-package-remains-to-be",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 142,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/article_images/bidenjoe_072121getty_fox.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/administration/564754-biden-pathway-to-citizenship-in-reconciliation-package-remains-to-be?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/564754-biden-pathway-to-citizenship-in-reconciliation-package-remains-to-be?amp",
+      "publishedDateTime": "2021-07-25T14:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-07-26-watergate-reporter-carl-bernstein-calls-donald-trump-a-war-criminal.md",
+      "title": "Watergate Reporter Carl Bernstein Calls Donald Trump a 'War Criminal'",
+      "excerpt": "Political analyst and Watergate reporter Carl Bernstein called former President Donald Trump a \"war criminal\" on CNN's Reliable Sources Sunday. He said people need to view Trump in \"a different context,",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/watergate-reporter-carl-bernstein-calls-donald-trump-war-criminal-1612914",
+      "originalUrl": "https://www.newsweek.com/watergate-reporter-carl-bernstein-calls-donald-trump-war-criminal-1612914",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1854570/carl-bernstein.jpg",
+          "width": 3000,
+          "height": 2023,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/watergate-reporter-carl-bernstein-calls-donald-trump-war-criminal-1612914?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/watergate-reporter-carl-bernstein-calls-donald-trump-war-criminal-1612914?amp=1",
+      "publishedDateTime": "2021-07-25T14:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-07-25-who-is-adam-kinzinger-conservative-congressman-turned-anti-trump-leader.md",
+      "title": "Who is Adam Kinzinger? Conservative congressman turned anti-Trump leader",
+      "excerpt": "The news on Sunday that House Speaker Nancy Pelosi will appoint Rep. Adam Kinzinger as the second Republican representative on the special House committee investigating the Jan. 6 insurrection at the U.S. Capitol is once again putting the Illinois congressman in the national spotlight.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vU3ekYR9QqI/who-is-adam-kinzinge-conservative-congressman-turned-anti-trump-leader",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vU3ekYR9QqI/who-is-adam-kinzinge-conservative-congressman-turned-anti-trump-leader",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 214,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/who-is-adam-kinzinge-conservative-congressman-turned-anti-trump-leader.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/who-is-adam-kinzinge-conservative-congressman-turned-anti-trump-leader.amp",
+      "publishedDateTime": "2021-07-25T12:03:02-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-26-trump-says-woke-politics-contributed-to-us-womens-soccer-upset-at-olympics.md",
+      "title": "Trump says ‘woke politics’ contributed to US women’s soccer upset at Olympics",
+      "excerpt": "Former President Donald Trump says “woke politics” contributed to the US Women’s soccer team’s dismal opening performance in the Tokyo 2020 Olympics.",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/07/25/trump-says-woke-politics-contributed-to-us-womens-soccer-loss/",
+      "originalUrl": "https://nypost.com/2021/07/25/trump-says-woke-politics-contributed-to-us-womens-soccer-loss/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/07/trump-2.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/07/25/trump-says-woke-politics-contributed-to-us-womens-soccer-loss/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/25/trump-says-woke-politics-contributed-to-us-womens-soccer-loss/amp/",
+      "publishedDateTime": "2021-07-25T11:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-26-video-shows-man-harassing-michelle-ugenti-rita-backstage-after-trump-supporters-booed-her.md",
+      "title": "Video Shows Man 'Harassing' Michelle Ugenti-Rita Backstage After Trump Supporters Booed Her",
+      "excerpt": "Rita, a Republican running for Arizona secretary of state, why she \"killed Senator Kelly Townsend's election integrity bills in the Senate\" in the video.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/video-shows-man-harassing-michelle-ugenti-rita-backstage-after-trump-supporters-booed-her-1612894",
+      "originalUrl": "https://www.newsweek.com/video-shows-man-harassing-michelle-ugenti-rita-backstage-after-trump-supporters-booed-her-1612894",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1854525/rally-protect-our-elections.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/video-shows-man-harassing-michelle-ugenti-rita-backstage-after-trump-supporters-booed-her-1612894?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/video-shows-man-harassing-michelle-ugenti-rita-backstage-after-trump-supporters-booed-her-1612894?amp=1",
+      "publishedDateTime": "2021-07-25T10:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-07-26-mark-warner-inflation-today-is-result-of-35-trillion-in-covid-spending-in-2020-under-trump.md",
+      "title": "Mark Warner: Inflation Today Is Result Of $3.5 Trillion In COVID Spending In 2020 Under Trump",
+      "excerpt": "Democratic Sen. Mark Warner told \"FOX News Sunday\" that the expanding \"human infrastructure\" bill will not contribute as much to inflation as did $5 Trillion in COVID spending since last year, \"$3.5 trillion of that under President Trump.",
+      "sourceUrl": null,
+      "webUrl": "https://www.realclearpolitics.com/video/2021/07/25/mark_warner_inflation_today_is_result_of_35_trillion_in_covid_spending_in_2020_under_trump.html",
+      "originalUrl": "https://www.realclearpolitics.com/video/2021/07/25/mark_warner_inflation_today_is_result_of_35_trillion_in_covid_spending_in_2020_under_trump.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.realclear.com/images/54/548989.jpg",
+          "width": 750,
+          "height": 562,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "http://www.realclearpolitics.com/video/2021/07/25/mark_warner_inflation_today_is_result_of_35_trillion_in_covid_spending_in_2020_under_trump.amp.html",
+      "cdnAmpWebUrl": "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/07/25/mark_warner_inflation_today_is_result_of_35_trillion_in_covid_spending_in_2020_under_trump.amp.html",
+      "publishedDateTime": "2021-07-25T10:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RealClearPolitics",
+        "domain": "realclearpolitics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-25-rep-ronny-jackson-ex-white-house-doc-predicts-biden-will-be-forced-to-resign.md",
       "title": "Rep. Ronny Jackson, ex-White House doc, predicts Biden will be forced to resign",
       "excerpt": "Rep. Ronny Jackson, the former White House physician-turned-congressman, says he’s “terrified for our country” in the wake of President Joe Biden’s disastrous town hall this week — and that he doubts whether the commander in chief has the cognitive ability to make it through a full term.",
@@ -826,499 +1291,6 @@
       "topics": [
         "Election",
         "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-23-biden-jumps-backs-into-campaigning-with-mcauliffe-rally-in-virginia.md",
-      "title": "Biden jumps backs into campaigning with McAuliffe rally in Virginia ",
-      "excerpt": "President Joe Biden is making his return to the campaign trail.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/yg-TSkIIoDs/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/yg-TSkIIoDs/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210721154708-terry-mcauliffe-0608-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/23/politics/biden-mcauliffe-campaign-virginia/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/23/politics/biden-mcauliffe-campaign-virginia/index.html",
-      "publishedDateTime": "2021-07-23T08:36:02-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-23-kamala-harris-looks-to-turn-the-page-as-she-zeroes-in-on-voting-rights.md",
-      "title": "Kamala Harris looks to turn the page as she zeroes-in on voting rights",
-      "excerpt": "Vice President Kamala Harris is making voting rights her top public focus, elevating a long-shot battle as she seeks to more clearly define her role and stake out high-value territory within the Biden administration.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4I8fBiC_eRo/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4I8fBiC_eRo/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 205,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210713172902-02-harris-texas-democrats-0713-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/23/politics/kamala-harris-voting-rights/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/23/politics/kamala-harris-voting-rights/index.html",
-      "publishedDateTime": "2021-07-23T04:25:14-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-07-23-mike-pence-was-a-january-6-hero-and-thats-why-hes-doomed.md",
-      "title": "Mike Pence Was a January 6 Hero and That's Why He's Doomed",
-      "excerpt": "As more reports reveal the actions of former Vice President Mike Pence amid the violence of January 6, his purported heroism stands in contrast to many other high-profile Republicans, whose reputations are tarnished for how they acted about the Capitol riot.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/mike-pence-january-6-hero-doomed-1612108",
-      "originalUrl": "https://www.newsweek.com/mike-pence-january-6-hero-doomed-1612108",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1852387/mike-pence-addresses-crowd-new-hampshire.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/mike-pence-january-6-hero-doomed-1612108?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mike-pence-january-6-hero-doomed-1612108?amp=1",
-      "publishedDateTime": "2021-07-23T03:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-07-23-donald-trump-jr-responds-to-kimberly-guilfoyle-the-view-rumor.md",
-      "title": "Donald Trump Jr. Responds to Kimberly Guilfoyle 'The View' Rumor",
-      "excerpt": "Speculation is growing over the conservative figure who will be chosen to replace Meghan McCain on the ABC show.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/kimberly-guilfoyle-donald-trump-jr-view-abc-rumor-meghan-mccain-replacement-1612422",
-      "originalUrl": "https://www.newsweek.com/kimberly-guilfoyle-donald-trump-jr-view-abc-rumor-meghan-mccain-replacement-1612422",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 185,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1853059/don-trump-jr-kimberly-guilfoyle.jpg",
-          "width": 3000,
-          "height": 2237,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/kimberly-guilfoyle-donald-trump-jr-view-abc-rumor-meghan-mccain-replacement-1612422?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kimberly-guilfoyle-donald-trump-jr-view-abc-rumor-meghan-mccain-replacement-1612422?amp=1",
-      "publishedDateTime": "2021-07-23T01:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-23-democrats-outraged-after-the-fbi-said-it-got-more-than-4500-tips-about-brett-kavanaugh-and-referred-the-relevant-ones-to-the-trump-white.md",
-      "title": "Democrats outraged after the FBI said it got more than 4,500 tips about Brett Kavanaugh — and referred the 'relevant' ones to the Trump White House",
-      "excerpt": "When Kavanaugh was a Supreme Court nominee, the FBI conducted just 10 interviews after receiving thousands of tips, the agency said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/democrats-accuse-fbi-of-ignoring-4500-tips-about-brett-kavanaugh-2021-7",
-      "originalUrl": "https://www.businessinsider.com/democrats-accuse-fbi-of-ignoring-4500-tips-about-brett-kavanaugh-2021-7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/60fa223cfc253600181ffb47?width=1200&format=jpeg",
-          "width": 1034,
-          "height": 517,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/democrats-accuse-fbi-of-ignoring-4500-tips-about-brett-kavanaugh-2021-7?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/democrats-accuse-fbi-of-ignoring-4500-tips-about-brett-kavanaugh-2021-7?amp",
-      "publishedDateTime": "2021-07-22T19:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-22-fbi-says-it-got-more-than-4500-tips-on-kavanaugh-providing-relevant-ones-to-trump-white-house.md",
-      "title": "FBI says it got more than 4,500 tips on Kavanaugh, providing 'relevant' ones to Trump White House",
-      "excerpt": "The FBI disclosed that it received more than 4,500 tips on a phone line in 2018 as part of a background investigation into then-Supreme Court nominee Brett Kavanaugh and provided \"relevant\" ones to former President Donald Trump's White House counsel.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tsteNcCSVQA/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tsteNcCSVQA/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 162,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/181004093458-01-kavanaugh-0927-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/22/politics/fbi-kavanaugh-ford-investigation/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/22/politics/fbi-kavanaugh-ford-investigation/index.html",
-      "publishedDateTime": "2021-07-22T15:51:05-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-22-psaki-defends-hunter-bidens-participation-in-art-shows-no-scenario-in-which-buyers-can-provide-influence.md",
-      "title": "Psaki defends Hunter Biden's participation in art shows: 'No scenario' in which buyers can 'provide influence'",
-      "excerpt": "Jen Psaki defended Hunter Biden’s plans to meet with potential buyers of his art, saying the buyers will be anonymous, which will prevent appearance of any \"undue influence\" in the administration.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Nvejj0cT5q0/psaki-defends-hunter-biden-art-shows",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Nvejj0cT5q0/psaki-defends-hunter-biden-art-shows",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/126c9819-8d0a-4ed3-93c2-92db2694a67e/ff2a850f-4b38-400e-9564-ab1439b2cf08/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/psaki-defends-hunter-biden-art-shows.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-defends-hunter-biden-art-shows.amp",
-      "publishedDateTime": "2021-07-22T13:58:15-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-22-tiktok-white-house-agree-to-drop-trump-era-lawsuit.md",
-      "title": "TikTok, White House agree to drop Trump-era lawsuit",
-      "excerpt": "The Chinese owned social media platform TikTok has reached an agreement with the White House to drop a lawsuit challenging former President Donald Trump’s attempt to ban the video app from app stores in the United States.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/m7xeWJIq5Vc/tiktok-white-house-agree-to-drop-trump-era-lawsuit",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/m7xeWJIq5Vc/tiktok-white-house-agree-to-drop-trump-era-lawsuit",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 215,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e1117589-3186-4490-925d-1d089e42a626/11be2235-525a-4bf7-9a63-f81e6034e16d/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/tiktok-white-house-agree-to-drop-trump-era-lawsuit.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tiktok-white-house-agree-to-drop-trump-era-lawsuit.amp",
-      "publishedDateTime": "2021-07-22T12:00:43-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-22-former-education-sec-devos-blasts-biden-admins-many-ties-to-twisted-and-warped-critical-race-theory.md",
-      "title": "Former Education Sec. DeVos blasts Biden admin's 'many ties' to 'twisted and warped' critical race theory",
-      "excerpt": "EXCLUSIVE: Former Department of Education Secretary Betsy DeVos said it is \"appalling\" to see close ties between radical groups pushing critical race theory and the Biden administration.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Q0_YXjySjSk/betsy-devos-biden-admin-critical-race-thory-ties",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Q0_YXjySjSk/betsy-devos-biden-admin-critical-race-thory-ties",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 158,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6c860925-7840-4d17-a210-b9bc26114022/a06fe2da-965b-416f-aab6-e55e1b160199/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/betsy-devos-biden-admin-critical-race-thory-ties.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/betsy-devos-biden-admin-critical-race-thory-ties.amp",
-      "publishedDateTime": "2021-07-22T11:56:38-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Republican Voice"
       ]
     }

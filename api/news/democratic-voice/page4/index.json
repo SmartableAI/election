@@ -2,6 +2,62 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-07-20-donald-trumps-favorite-athlete-just-mocked-the-big-lie-to-the-man-who-beat-him.md",
+      "title": "Donald Trump's favorite athlete just mocked the 'Big Lie' to the man who beat him",
+      "excerpt": "Tuesday was not a good day for Donald Trump.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UIvQuvkI4Uk/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UIvQuvkI4Uk/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 190,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210720124442-brady-buccaneers-white-hous-0720-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/20/politics/tom-brady-donald-trump-big-lie-joe-biden/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/20/politics/tom-brady-donald-trump-big-lie-joe-biden/index.html",
+      "publishedDateTime": "2021-07-20T15:32:44-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-21-quarterback-tweak-tom-brady-makes-trump-election-joke-at-white-house-ceremony.md",
       "title": "Quarterback tweak: Tom Brady makes Trump election joke at White House ceremony",
       "excerpt": "\"I think about 40 percent of people still don't think we won,\" Brady said of his Super Bowl champion Tampa Bay Buccaneers.",
@@ -1634,64 +1690,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-11-kinzinger-pence-republicans-who-turn-against-trump-are-out-of-the-tribe.md",
-      "title": "Kinzinger: Pence & Republicans who turn against Trump are ‘out of the tribe’",
-      "excerpt": "Rep. Adam Kinzinger (R-Ill.) talks to Chuck Todd about Republicans who distance themselves from Former President Donald Trump and their standing in the Republican Party.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/meet-the-press/video/kinzinger-pence-republicans-who-turn-against-trump-are-out-of-the-tribe-116567621674",
-      "originalUrl": "https://www.nbcnews.com/meet-the-press/video/kinzinger-pence-republicans-who-turn-against-trump-are-out-of-the-tribe-116567621674",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 177,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_07/1626011798756_mtp_clip_kinzinger_210711_1920x1080.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo116567621674",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo116567621674",
-      "publishedDateTime": "2021-07-11T06:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice",
-        "Mike Pence"
       ]
     }
   ],

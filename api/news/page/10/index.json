@@ -2,6 +2,530 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-08-18-cnns-jeffrey-toobin-ripped-over-column-arguing-against-prosecuting-trump.md",
+      "title": "CNN’s Jeffrey Toobin ripped over column arguing against prosecuting Trump",
+      "excerpt": "CNN legal analyst Jeffrey Toobin is facing backlash on social media over a column urging Attorney General Merrick Garland not to seek criminal prosecution of former",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/08/18/jeffrey-toobin-ripped-over-column-arguing-against-prosecuting-trump/",
+      "originalUrl": "https://nypost.com/2021/08/18/jeffrey-toobin-ripped-over-column-arguing-against-prosecuting-trump/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/08/Jeffrey-Toobin-03.jpg?quality=90&strip=all&w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/08/18/jeffrey-toobin-ripped-over-column-arguing-against-prosecuting-trump/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/18/jeffrey-toobin-ripped-over-column-arguing-against-prosecuting-trump/amp/",
+      "publishedDateTime": "2021-08-18T07:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-08-18-pelosi-top-house-dems-wont-budge-in-infrastructure-tussle-with-moderates-tout-biden-support-for-her-rule.md",
+      "title": "Pelosi, top House Dems won't budge in infrastructure tussle with moderates, tout Biden support for her 'rule'",
+      "excerpt": "House Speaker Nancy Pelosi and her leadership team are mounting a pressure campaign on centrist Democrats to get them to support their party's budget resolution without a vote on the bipartisan infrastructure bill.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bn7C-UsrZ6g/pelosi-house-moderates-biden-infrastructure-budget-resolution-rule-democrats",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bn7C-UsrZ6g/pelosi-house-moderates-biden-infrastructure-budget-resolution-rule-democrats",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/pelosi-house-moderates-biden-infrastructure-budget-resolution-rule-democrats.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-house-moderates-biden-infrastructure-budget-resolution-rule-democrats.amp",
+      "publishedDateTime": "2021-08-18T06:29:06-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-08-18-joe-biden-furious-with-barack-obama-over-pandemic-birthday-bash.md",
+      "title": "Joe Biden Furious With Barack Obama Over Pandemic Birthday Bash?",
+      "excerpt": "Are President Joe Biden and former President Barack Obama locked in a bitter feud over Obama's 60th birthday bash? One tabloid insists the prideful",
+      "sourceUrl": null,
+      "webUrl": "https://www.gossipcop.com/joe-biden-furious-with-barack-obama-over-pandemic-birthday-bash/2570136/",
+      "originalUrl": "https://www.gossipcop.com/joe-biden-furious-with-barack-obama-over-pandemic-birthday-bash/2570136/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://upload.gossipcop.com/gc/uploads/2021/08/Untitled-design-71.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gossipcop.com/joe-biden-furious-with-barack-obama-over-pandemic-birthday-bash/2570136/?amp",
+      "cdnAmpWebUrl": "https://www-gossipcop-com.cdn.ampproject.org/c/s/www.gossipcop.com/joe-biden-furious-with-barack-obama-over-pandemic-birthday-bash/2570136/?amp",
+      "publishedDateTime": "2021-08-18T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gossip Cop",
+        "domain": "gossipcop.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-08-18-mike-pence-joe-biden-weakness-in-afghanistan-has-embarrassed-america.md",
+      "title": "Mike Pence: Joe Biden 'Weakness' in Afghanistan Has 'Embarrassed America'",
+      "excerpt": "Former Vice President Mike Pence has said the U.S. withdrawal from Afghanistan shows President Joe Biden's \"weakness\" and has \"embarrassed America on the world stage.\" Pence, who served as vice ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/mike-pence-joe-biden-weakness-afghanistan-embarrassed-america-taliban-1620432",
+      "originalUrl": "https://www.newsweek.com/mike-pence-joe-biden-weakness-afghanistan-embarrassed-america-taliban-1620432",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 2419,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1873554/mike-pence-speaks-columbia-south-carolina.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/mike-pence-joe-biden-weakness-afghanistan-embarrassed-america-taliban-1620432?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mike-pence-joe-biden-weakness-afghanistan-embarrassed-america-taliban-1620432?amp=1",
+      "publishedDateTime": "2021-08-18T02:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-08-18-joe-biden-said-america-is-back-pity-it-doesnt-have-your-back.md",
+      "title": "Joe Biden said: ‘America is back.’ Pity it doesn’t have your back…",
+      "excerpt": "REMEMBER when Joe Biden was installed as President of the United States? Remember all the thrills and ”hosannas” from the liberal Left? At last America had done the right thing, they said. They",
+      "sourceUrl": null,
+      "webUrl": "https://www.the-sun.com/news/3493266/joe-biden-america-doesnt-have-your-back/",
+      "originalUrl": "https://www.the-sun.com/news/3493266/joe-biden-america-doesnt-have-your-back/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.the-sun.com/wp-content/uploads/sites/6/2021/08/tp-composite-douglas-murray-new-1.jpg?strip=all&quality=100&w=1200&h=800&crop=1",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.the-sun.com/news/3493266/joe-biden-america-doesnt-have-your-back/amp/",
+      "cdnAmpWebUrl": "https://www-the--sun-com.cdn.ampproject.org/c/s/www.the-sun.com/news/3493266/joe-biden-america-doesnt-have-your-back/amp/",
+      "publishedDateTime": "2021-08-17T15:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Sun",
+        "domain": "the-sun.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-08-17-vivek-ramaswamy-blasts-twitters-staggering-hypocrisy-on-taliban-and-trump.md",
+      "title": "Vivek Ramaswamy blasts Twitter's 'staggering' hypocrisy on Taliban and Trump",
+      "excerpt": "Biotech CEO and ‘Woke Inc.’ author Vivek Ramaswamy criticized Twitter on Tuesday for allowing the Taliban to utilize their social media platform while censoring others, including former President Donald Trump.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/vivek-ramaswamy-twitter-taliban-afghanistan-big-tech",
+      "originalUrl": "https://www.foxnews.com/media/vivek-ramaswamy-twitter-taliban-afghanistan-big-tech",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 152,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/vivek-ramaswamy-twitter-taliban-afghanistan-big-tech.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/vivek-ramaswamy-twitter-taliban-afghanistan-big-tech.amp",
+      "publishedDateTime": "2021-08-17T07:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-08-17-bidens-speech-was-disingenuous-al-qaeda-will-return-former-reagan-official-says.md",
+      "title": "Biden's speech was 'disingenuous,' al Qaeda will return, former Reagan official says",
+      "excerpt": "A former assistant defense secretary warned that al Qaeda “will again show its viper head” and said President Biden was “disingenuous” and during his address Monday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Vm1w8DksK20/afghanistan-joe-biden-speech-al-qaeda-bing-west",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Vm1w8DksK20/afghanistan-joe-biden-speech-al-qaeda-bing-west",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 168,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8e82f43d-89f2-4db2-9e4b-d4644345ea63/742e9e0f-63e5-4f77-8d90-c8d33b7f5c93/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/afghanistan-joe-biden-speech-al-qaeda-bing-west.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/afghanistan-joe-biden-speech-al-qaeda-bing-west.amp",
+      "publishedDateTime": "2021-08-17T04:02:10-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-08-17-pence-convenes-gop-donors-luminaries-at-jackson-hole-retreat.md",
+      "title": "Pence convenes GOP donors, luminaries at Jackson Hole retreat",
+      "excerpt": "Former Vice President Mike Pence is ramping up his donor outreach as he weighs a 2024 White House bid. Pence held a donor retreat late last week benefiting his newly formed nonprofit group ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2021/08/17/pence-gop-donors-retreat-505288",
+      "originalUrl": "https://www.politico.com/news/2021/08/17/pence-gop-donors-retreat-505288",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/d3/55/f292a828497eb689b34cd6b0e38f/gettyimages-1232599479-1.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.com/amp/news/2021/08/17/pence-gop-donors-retreat-505288",
+      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/08/17/pence-gop-donors-retreat-505288",
+      "publishedDateTime": "2021-08-17T03:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-08-17-biden-approves-florida-emergency-declaration-due-to-tropical-storm-fred.md",
+      "title": "Biden approves Florida emergency declaration due to Tropical Storm Fred",
+      "excerpt": "Biden ordered federal assistance to supplement state, tribal, and local response efforts -- because of emergency conditions resulting from the storm, according to a statement from the White House.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/iaz9kUaS7QM/biden-florida-emergency-declaration-federal-assistance-tropical-storm-fred",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/iaz9kUaS7QM/biden-florida-emergency-declaration-federal-assistance-tropical-storm-fred",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 295,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/08/720/405/AP21228746281121.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-florida-emergency-declaration-federal-assistance-tropical-storm-fred.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-florida-emergency-declaration-federal-assistance-tropical-storm-fred.amp",
+      "publishedDateTime": "2021-08-16T22:34:23-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-08-17-trump-calls-on-biden-to-resign-in-disgrace-over-crisis-in-afghanistan.md",
+      "title": "Trump calls on Biden to 'resign in disgrace' over crisis in Afghanistan",
+      "excerpt": "Former President Donald Trump Sunday called on President Biden to “resign in disgrace” over his handling of the Afghanistan withdrawal and other issues.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/cyT6YUTIljA/trump-biden-resign-crisis-afghanistan",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/cyT6YUTIljA/trump-biden-resign-crisis-afghanistan",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 810,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ecd8df71-ba81-431f-8bdf-f6e8d97bea4c/f44d298e-4ca6-4f7c-b579-34b93f98f4cd/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-biden-resign-crisis-afghanistan.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-resign-crisis-afghanistan.amp",
+      "publishedDateTime": "2021-08-16T19:08:26-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-08-17-todd-wondered-if-the-messy-afghan-withdrawal-will-weaken-trumps-hold-of-the-gop-over-time.md",
       "title": "Todd wondered if the messy Afghan withdrawal will 'weaken Trump's hold' of the GOP over time",
       "excerpt": "NBC anchor Chuck Todd spoke with certainty that the turmoil that has erupted during President Biden's military withdrawal in Afghanistan would have also occurred under President Trump.",
@@ -112,58 +636,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-17-what-donald-trump-said-in-april-about-pulling-out-us-troops-from-afghanistan.md",
-      "title": "What Donald Trump Said In April About Pulling Out US Troops From Afghanistan",
-      "excerpt": "Donald Trump slammed Biden's decision to withdraw from Afghanistan despite applauding the move months earlier.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/what-donald-trump-said-april-about-pulling-out-us-troops-afghanistan-3274760",
-      "originalUrl": "https://www.ibtimes.com/what-donald-trump-said-april-about-pulling-out-us-troops-afghanistan-3274760",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/07/07/facebook-and-twitter-banned-donald-trump-over-his.jpg",
-          "width": 1024,
-          "height": 662,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/what-donald-trump-said-april-about-pulling-out-us-troops-afghanistan-3274760?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/what-donald-trump-said-april-about-pulling-out-us-troops-afghanistan-3274760?amp=1",
-      "publishedDateTime": "2021-08-16T15:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     },
     {
@@ -787,480 +1259,6 @@
       "provider": {
         "name": "The Denver Post",
         "domain": "denverpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-08-14-trump-fundraises-off-total-loser-andrew-cuomo-resigning.md",
-      "title": "Trump fundraises off ‘total loser’ Andrew Cuomo resigning",
-      "excerpt": "Former President Donald Trump is fundraising off the resignation of “total loser” and soon-to-be-former New York Gov. Andrew Cuomo.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/08/13/trump-fundraises-off-total-loser-andrew-cuomo-resigning/",
-      "originalUrl": "https://nypost.com/2021/08/13/trump-fundraises-off-total-loser-andrew-cuomo-resigning/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/08/trump-cuomo.jpg?quality=90&strip=all&w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/08/13/trump-fundraises-off-total-loser-andrew-cuomo-resigning/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/13/trump-fundraises-off-total-loser-andrew-cuomo-resigning/amp/",
-      "publishedDateTime": "2021-08-13T12:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-13-gop-demands-biden-administration-act-after-mayorkas-calls-border-crisis-unsustainable.md",
-      "title": "GOP demands Biden administration act after Mayorkas calls border crisis 'unsustainable'",
-      "excerpt": "Top Republicans on Friday called on the Biden administration to act on the crisis at the southern border after leaked audio emerged of Homeland Security Secretary Alejandro Mayorkas calling the situation there \"unsustainable.\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/H-vvFhlYDMA/biden-administration-mayorkas-border-republicans-demand-action",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/H-vvFhlYDMA/biden-administration-mayorkas-border-republicans-demand-action",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 187,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/05/340/340/Bill-Melugin.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-administration-mayorkas-border-republicans-demand-action.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-administration-mayorkas-border-republicans-demand-action.amp",
-      "publishedDateTime": "2021-08-13T12:20:17-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-13-trump-reinstatement-day-latest-failure-in-predictions-hell-resume-presidency-oust-biden.md",
-      "title": "Trump 'Reinstatement Day' Latest Failure in Predictions He'll Resume Presidency, Oust Biden",
-      "excerpt": "Despite the months-long failed predictions that Trump would be reinstated as president, some supporters of the theory continue to peddle it.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/trump-reinstatement-day-latest-failure-predictions-hell-resume-presidency-oust-biden-1619152",
-      "originalUrl": "https://www.newsweek.com/trump-reinstatement-day-latest-failure-predictions-hell-resume-presidency-oust-biden-1619152",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 1280,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1870140/donald-trump-reinstatement-day-president-mike-lindell.jpg",
-          "width": 2500,
-          "height": 1665,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/trump-reinstatement-day-latest-failure-predictions-hell-resume-presidency-oust-biden-1619152?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-reinstatement-day-latest-failure-predictions-hell-resume-presidency-oust-biden-1619152?amp=1",
-      "publishedDateTime": "2021-08-13T07:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-08-13-desantis-faced-with-covid-surge-urges-floridians-to-use-regeneron-antibody-treatment-given-to-trump.md",
-      "title": "DeSantis, faced with covid surge, urges Floridians to use Regeneron antibody treatment given to Trump",
-      "excerpt": "Ron DeSantis (R) is vowing to begin dispensing Regeneron monoclonal antibodies — the treatment given to President Donald Trump when he had the coronavirus — through mobile clinics amid a record-breaking stretch of new cases and hospitalizations that have ravaged the state.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/2021/08/13/desantis-regeneron-florida-covid-antibodies/",
-      "originalUrl": "https://www.washingtonpost.com/politics/2021/08/13/desantis-regeneron-florida-covid-antibodies/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GPLFBEH3EII6XEI4KJF4RNUPC4.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-13T07:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-08-13-biden-sending-envoy-to-ethiopia-amid-tigray-conflict.md",
-      "title": "Biden sending envoy to Ethiopia amid Tigray conflict",
-      "excerpt": "President Biden is sending his special envoy for the Horn of Africa to Ethiopia amid ongoing fighting in Tigray.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/policy/international/middle-east-north-africa/567714-biden-sending-envoy-to-ethiopia-amid-tigray",
-      "originalUrl": "https://thehill.com/policy/international/middle-east-north-africa/567714-biden-sending-envoy-to-ethiopia-amid-tigray",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/feltmanjeffrey_42321_gettyimages.jpg",
-          "width": 781,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/policy/international/middle-east-north-africa/567714-biden-sending-envoy-to-ethiopia-amid-tigray?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/international/middle-east-north-africa/567714-biden-sending-envoy-to-ethiopia-amid-tigray?amp",
-      "publishedDateTime": "2021-08-13T05:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-08-13-how-the-2020-census-explains-donald-trump.md",
-      "title": "How the 2020 census explains Donald Trump ",
-      "excerpt": "Donald Trump got it.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lvBgHNT3FmE/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lvBgHNT3FmE/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 435,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210811193752-trump-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/08/13/politics/how-the-2020-census-explains-donald-trump/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/13/politics/how-the-2020-census-explains-donald-trump/index.html",
-      "publishedDateTime": "2021-08-13T04:42:16-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-13-bad-news-for-trump-adjacent-weirdos-delights-seth-meyers.md",
-      "title": "Bad News for ‘Trump-Adjacent Weirdos’ Delights Seth Meyers",
-      "excerpt": "Meyers enjoyed seeing Mike Lindell get word on camera that a defamation suit against him over his claims of election fraud would proceed.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/08/13/arts/television/seth-myers-mike-lindell.html",
-      "originalUrl": "https://www.nytimes.com/2021/08/13/arts/television/seth-myers-mike-lindell.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/08/13/arts/13latenight/13latenight-facebookJumbo.png",
-          "width": 906,
-          "height": 474,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/08/13/arts/television/seth-myers-mike-lindell.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/08/13/arts/television/seth-myers-mike-lindell.amp.html",
-      "publishedDateTime": "2021-08-12T22:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-13-hannity-bidens-america-last-agenda-putting-more-than-just-the-us-at-risk.md",
-      "title": "Hannity: Biden's 'America Last' agenda putting more than just the US at risk",
-      "excerpt": "In his Opening Monologue, “Hannity” host Sean Hannity challenged his audience to name a single positive accomplishment of President Joe Biden or his administration.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/hannity-bidens-america-last-agenda-putting-more-than-just-the-us-at-risk",
-      "originalUrl": "https://www.foxnews.com/media/hannity-bidens-america-last-agenda-putting-more-than-just-the-us-at-risk",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/185932aa-9c11-4fb6-9e1d-3e23afdaf5ab/44a86cbf-ce71-404f-9aff-dc720d727596/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/hannity-bidens-america-last-agenda-putting-more-than-just-the-us-at-risk.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/hannity-bidens-america-last-agenda-putting-more-than-just-the-us-at-risk.amp",
-      "publishedDateTime": "2021-08-12T21:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-13-billy-long-touts-trump-ties-during-senate-seat-campaign-rally-in-joplin.md",
-      "title": "Billy Long touts Trump ties during Senate seat campaign rally in Joplin",
-      "excerpt": "Mo., touted his strong friendship with former President Donald Trump during a Thursday morning campaign rally stop at Cunningham Park.",
-      "sourceUrl": null,
-      "webUrl": "https://www.joplinglobe.com/news/billy-long-touts-trump-ties-during-senate-seat-campaign-rally-in-joplin/article_87dc1e7a-fba1-11eb-9adf-0b3478643ab3.html",
-      "originalUrl": "https://www.joplinglobe.com/news/billy-long-touts-trump-ties-during-senate-seat-campaign-rally-in-joplin/article_87dc1e7a-fba1-11eb-9adf-0b3478643ab3.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/1/34/134c0f34-fba6-11eb-b9e6-bf4cfe2dcb45/61157abb2e912.image.jpg?resize=957%2C630",
-          "width": 957,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-12T19:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Joplin Globe",
-        "domain": "joplinglobe.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -2,6 +2,115 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-07-31-agency-trump-is-due-1m-tax-refund-for-chicago-skyscraper.md",
+      "title": "Agency: Trump is due $1M tax refund for Chicago skyscraper",
+      "excerpt": "An Illinois tax agency has ruled that former President Donald Trump is due a $1 million refund on the 2011 tax bill on his downtown Chicago skyscraper, but local officials are trying to block the refu",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/US/wireStory/agency-trump-due-1m-tax-refund-chicago-skyscraper-79190802",
+      "originalUrl": "https://abcnews.go.com/US/wireStory/agency-trump-due-1m-tax-refund-chicago-skyscraper-79190802",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/US/WireAP_f675273772e641d6a964e73ebdd1752f_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/US/wireStory/agency-trump-due-1m-tax-refund-chicago-skyscraper-79190802",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/agency-trump-due-1m-tax-refund-chicago-skyscraper-79190802",
+      "publishedDateTime": "2021-07-31T09:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-07-31-delta-trump-haiti-your-friday-evening-briefing.md",
+      "title": "Delta, Trump, Haiti: Your Friday Evening Briefing",
+      "excerpt": "The rare Friday session comes as Senate Democrats race to pass the bipartisan bill before leaving for the August recess. The emerging deal will provide $550 billion in new funding,but it still faces a bumpy road.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/07/30/briefing/delta-trump-haiti.html",
+      "originalUrl": "https://www.nytimes.com/2021/07/30/briefing/delta-trump-haiti.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/07/30/multimedia/30PMBriefing-virus-vaccines-promo/merlin_192102756_b1244776-fd01-4502-9da6-419fbdd217b0-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/07/30/briefing/delta-trump-haiti.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/30/briefing/delta-trump-haiti.amp.html",
+      "publishedDateTime": "2021-07-30T14:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-31-justice-dept-says-irs-must-give-trump-tax-returns-to-congress.md",
       "title": "Justice Dept. says IRS must give Trump tax returns to Congress",
       "excerpt": "The Justice Department says the Treasury Department must provide the House Ways and Means Committee former President Donald Trump’s tax returns, apparently ending a long legal showdown over the records.",
@@ -1448,107 +1557,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-24-such-a-disgrace-trump-blasts-cleveland-indians-name-change.md",
-      "title": "‘Such a disgrace’: Trump blasts Cleveland Indians name change",
-      "excerpt": "Former President Donald Trump blasted the Cleveland Indians Friday over their name change announcement. “Can anybody believe that the Cleveland Indians, a storied and cherished baseball franchise since taking the name in 1915,",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/07/23/trump-blasts-cleveland-indians-name-change/",
-      "originalUrl": "https://nypost.com/2021/07/23/trump-blasts-cleveland-indians-name-change/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/07/gaurdians-trump-hp.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/07/23/trump-blasts-cleveland-indians-name-change/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/23/trump-blasts-cleveland-indians-name-change/amp/",
-      "publishedDateTime": "2021-07-23T12:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-24-trump-advisor-says-there-is-zero-chance-the-former-president-will-pick-pence-as-his-running-mate-if-he-runs-in-2024.md",
-      "title": "Trump advisor says there is 'zero' chance the former president will pick Pence as his running mate if he runs in 2024",
-      "excerpt": "Pence decided to certify the 2020 election results on January 6, instead of unlawfully overturning the results in Trump's favor.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/zero-chance-trump-will-pick-pence-vp-2024-report-2021-7",
-      "originalUrl": "https://www.businessinsider.com/zero-chance-trump-will-pick-pence-vp-2024-report-2021-7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 187,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/60fae6e50729770012b99435?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/zero-chance-trump-will-pick-pence-vp-2024-report-2021-7?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/zero-chance-trump-will-pick-pence-vp-2024-report-2021-7?amp",
-      "publishedDateTime": "2021-07-23T10:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Mike Pence"
       ]
     }
   ],

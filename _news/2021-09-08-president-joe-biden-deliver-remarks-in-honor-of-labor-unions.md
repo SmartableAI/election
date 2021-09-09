@@ -3,8 +3,8 @@ category: news
 title: "President Joe Biden Deliver Remarks in Honor of Labor Unions"
 excerpt: "President Joe Biden deliver remarks in honor of labor unions during an event in the East Room of the White House in Washington, DC, on Wednesday, September 8 2021. Photo by Shawn Thew/UPI"
 publishedDateTime: 2021-09-08T16:34:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/8ab0fecbf42e5fd55ef8b467cf867165/President-Joe-Biden-Deliver-Remarks-in-Honor-of-Labor-Unions/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/8ab0fecbf42e5fd55ef8b467cf867165/President-Joe-Biden-Deliver-Remarks-in-Honor-of-Labor-Unions/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/05f9c116747fbce74ef23bbe7a146c93/President-Joe-Biden-Deliver-Remarks-in-Honor-of-Labor-Unions/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/05f9c116747fbce74ef23bbe7a146c93/President-Joe-Biden-Deliver-Remarks-in-Honor-of-Labor-Unions/"
 type: article
 quality: 55
 heat: -1
@@ -19,9 +19,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/8ab0fecbf42e5fd55ef8b467cf867165/BIDEN-LABOR-UNIONS.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/05f9c116747fbce74ef23bbe7a146c93/BIDEN-LABOR-UNIONS.jpg"
     width: 650
-    height: 433
+    height: 975
     isCached: true
 
 related:
@@ -101,6 +101,31 @@ related:
         width: 1600
         height: 1000
         isCached: true
+  - title: "Biden expected to push broad vaccination mandates"
+    excerpt: "About 27% of the eligible U.S. population age 12 and older have not received any coronavirus vaccinations, according to data from the Centers for Disease Control and Prevention."
+    publishedDateTime: 2021-09-09T01:48:00Z
+    webUrl: "https://www.seattletimes.com/nation-world/biden-expected-to-push-broad-vaccination-mandates/"
+    ampWebUrl: "https://www.seattletimes.com/nation-world/biden-expected-to-push-broad-vaccination-mandates/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/biden-expected-to-push-broad-vaccination-mandates/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 55
+  - title: "US President Joe Biden Delivers Remarks in Honor of Labor Unions"
+    excerpt: "US President Joe Biden delivers remarks in honor of labor unions during an event in the East Room of the White House in Washington, DC on September 8, 2021. Pool Photo by Shawn Thew/UPI"
+    publishedDateTime: 2021-09-08T18:45:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/85e1d095d2a5b86d3113fa28eb7e277e/US-President-Joe-Biden-Delivers-Remarks-in-Honor-of-Labor-Unions/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/85e1d095d2a5b86d3113fa28eb7e277e/BIDEN-LABOR-UNIONS.jpg"
+        width: 650
+        height: 433
+        isCached: true
   - title: "Greg Steube calls for Joe Biden resignation after reported Marine deaths"
     excerpt: "Greg Steube called for President Joe Biden’s resignation after the reported death of four Marines in Kabul. “Horrific,” Steube tweeted. “Joe Biden needs to take"
     publishedDateTime: 2021-08-26T18:13:00Z
@@ -130,6 +155,6 @@ related:
         height: 675
         isCached: true
 
-secured: "dUeSyA9g3r4bSlYXUgL7b8sBVwq+u0R41LOtoIbeoERjAMzwHF0Vrb38VnfFHp1Jxgl9sfRu49oAmDpEOXwpPqCxmrohICAiny/Awehuf4ST82csNuZSsTjuA4jatO2crvntNXMCK/owviCL8rlv6HT3MGy92yc8yDaw5iBy/b6zUMxRKECcFmWjbMQjqf8rFX9xi6LjinzP9VZc1/WqPLdojNVgmCjudQplfgDY8x1DTzi3gHrBFe8wCtwYuRYOYcqqmqGzyPzkfFGxJnKmTe9RfqYTFp4lXkrT3aCPVcMpa+XylG7oru8NSV2lDwtXsB/CKv80pCj8XAjN5s9ucFaCT9wQVrGpxejoyMljHYM=;r1DOGISwtX+Ue56JNaARtQ=="
+secured: "gJTMKi9zpRzhVViaWG2ge6raRkhUpnjYgb75RrbmWXxNcuiwDCED96urdaNsvuBr2+IXYzv4+Az43PM0uN66Iasnsid1zpxIU+UphBT7NudtYcKvU7HYR1C9a/b6Y1NhoXD6Or0JJqX9yyv2NEFtECV4kN0Juujp5ZRaq28q53QvuNi3OUfGiqfvAI0j0xFrk/eVp61j/ipdmZykrp8lnX5ziFFcIV7z0Gg/WQ/UKm37AndNmDDqKXtlF0C6sSqWKq5mg2UAfbndP6lKb1X5G3fEUiDHkts+Q3rtzQ6OBGyUswd9kaKViL1GzBByznZlONj7hIpAbA8he47WCqpO/fUtn0uENIXRqHBTeIlARfi2j/3FvrEo/5CjycWTINVMk4Y3U3zXY1jQSJ5ftlkhd6EnH0c54c6dhx1EeDd3T+HqF0uWHjOo83vBkMaxeUijLL/8uokS7UKwkE0h6X55hiVnAw9mjuP4E3TMDqZ1v5WxVmtHsWiQUACjZK/aErY1wZ1yEnWo3uSV2OpP8O9ZXQ==;0sx+EajCFU9op2noiKbSWg=="
 ---
 

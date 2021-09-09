@@ -159,6 +159,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "CIA operatives who led charge in Afghanistan after 9/11 feel betrayed by Biden's botched withdrawal"
+    excerpt: "The author telling the Team Alpha operatives’ story in his new book \"First Casualty.\" Toby Harnden, told Fox News that former CIA officers are carrying a burden of sadness over the deadly withdrawal."
+    publishedDateTime: 2021-09-08T19:42:45Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FSHdGdRQo1s/cia-operatives-betrayed-biden-afghanistan-withdrawal"
+    ampWebUrl: "https://www.foxnews.com/politics/cia-operatives-betrayed-biden-afghanistan-withdrawal.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cia-operatives-betrayed-biden-afghanistan-withdrawal.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/812d51c8-799b-4401-8596-00977fb7a92e/4db1e5bd-92e2-4755-aa89-92a34f590e99/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Border agents slam Biden for securing Tajikistan's border while US border in crisis: 'Slap in the face'"
     excerpt: "President Biden's decision to help secure Tajikistan's border with Afghanistan has infuriated those on the front lines of the U.S. border crisis, who say that America's own southern border still isn't secure."
     publishedDateTime: 2021-09-02T23:01:22Z

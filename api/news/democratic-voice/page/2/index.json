@@ -2,6 +2,63 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-08-24-hostile-trump-mob-sends-gop-rep-brooks-into-panicked-backpedal-on-moving-on-from-2020.md",
+      "title": "Hostile Trump mob sends GOP Rep. Brooks into panicked backpedal on moving on from 2020",
+      "excerpt": "Rachel Maddow shares video of Republican Congressman Mo Brooks being roundly booed by the audience at a Donald Trump rally in Alabama after Brooks suggested they move on from Trump's 2020 loss and focus on future elections.",
+      "sourceUrl": null,
+      "webUrl": "https://www.msnbc.com/rachel-maddow/watch/hostile-trump-mob-sends-gop-rep-brooks-into-panicked-backpedal-on-moving-on-from-2020-119318597524",
+      "originalUrl": "https://www.msnbc.com/rachel-maddow/watch/hostile-trump-mob-sends-gop-rep-brooks-into-panicked-backpedal-on-moving-on-from-2020-119318597524",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_08/1629780121191_n_maddow_brooks_210823_1920x1080-6wbvgr.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.msnbc.com/msnbc/amp-video/mmvo119318597524",
+      "cdnAmpWebUrl": "https://www-msnbc-com.cdn.ampproject.org/c/s/www.msnbc.com/msnbc/amp-video/mmvo119318597524",
+      "publishedDateTime": "2021-08-23T21:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MSNBC",
+        "domain": "msnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/msnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-08-24-why-is-joe-biden-suing-facebook-and-instagram-over-vaccine-posts.md",
       "title": "Why is Joe Biden suing Facebook and Instagram over vaccine posts?",
       "excerpt": "Facebook is back in hot water after an explosive New York Times investigative report found the company hid the truth about its most popular viral content after the company discovered the most-viewed link on the platform raised doubt about the coronavirus vaccine.",
@@ -1605,62 +1662,6 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2021/08/03/politics/will-cuomo-resign-what-matters/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/03/politics/will-cuomo-resign-what-matters/index.html",
       "publishedDateTime": "2021-08-03T18:52:55-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-04-mike-carey-endorsed-by-trump-will-win-ohio-gop-special-primary-cnn-projects.md",
-      "title": "Mike Carey, endorsed by Trump, will win Ohio GOP special primary, CNN projects",
-      "excerpt": "Mike Carey, a coal lobbyist who was endorsed by former President Donald Trump, will win the Republican special primary in Ohio's 15th Congressional District, CNN projects.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1M4mFdm3Wyg/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1M4mFdm3Wyg/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 231,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210803152112-02-mike-carey-0626-restricted-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/08/03/politics/ohio-15-special-election-results/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/03/politics/ohio-15-special-election-results/index.html",
-      "publishedDateTime": "2021-08-03T18:45:52-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",

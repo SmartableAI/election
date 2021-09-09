@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/joe-biden-tells-federal-agencies-insulate-w
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-tells-federal-agencies-insulate-women-providers-texas-abortion-law-1625552?amp=1"
 type: article
 quality: 115
-heat: 195
+heat: 175
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://thumbnails.texastribune.org/awXUfugw4V8ATiBjcqo7A4RnVXA=/1200x630/filters:quality(95)/static.texastribune.org/media/files/302214eb567a50813c271e480d6ebd7b/Biden%20Aug%2031%20REUTERS%20TT.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Biden approves N.Y. major disaster declaration after Ida; homeowners can now file for FEMA"
-    excerpt: "President Joe Biden on Monday approved a major disaster declaration for New York in the wake of Hurricane Ida, making federal funding available to those who had property damaged by the storm. Biden first granted an emergency declaration for New York last week;"
-    publishedDateTime: 2021-09-06T17:37:00Z
-    webUrl: "https://www.silive.com/weather/2021/09/biden-approves-ny-major-disaster-declaration-enabling-homeowners-to-file-for-fema.html"
-    ampWebUrl: "https://www.silive.com/weather/2021/09/biden-approves-ny-major-disaster-declaration-enabling-homeowners-to-file-for-fema.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-silive-com.cdn.ampproject.org/c/s/www.silive.com/weather/2021/09/biden-approves-ny-major-disaster-declaration-enabling-homeowners-to-file-for-fema.html?outputType=amp"
-    type: article
-    provider:
-      name: SILive
-      domain: silive.com
-    quality: 65
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/4NC2WRJY7ZAQLP52YS4WF4JDZM.jpg"
-        width: 1024
-        height: 643
         isCached: true
   - title: "'An all-out assault on our democracy' | President Joe Biden speaks out against new Texas voting rights law"
     excerpt: "Biden urged Congress to send both bills “to my desk immediately.” “We’re facing an all-out assault on our democracy,” Biden wrote in a tweet. “We need to pass the For the People Act and the John Lewis Voting Rights Advancement Act to protect the sacred right to vote."

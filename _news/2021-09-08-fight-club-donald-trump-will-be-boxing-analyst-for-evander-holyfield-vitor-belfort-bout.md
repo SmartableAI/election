@@ -73,6 +73,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Former President Trump to serve as boxing commentator | Charlotte Observer"
+    excerpt: "Former President Donald Trump is scheduled to provide commentary from ringside Saturday for an exhibition boxing card headlined by 58-year-old former heavyweight champion Evander Holyfield."
+    publishedDateTime: 2021-09-08T21:31:00Z
+    webUrl: "https://www.charlotteobserver.com/sports/article254086823.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/sports/article254086823.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/sports/article254086823.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 53
 
 secured: "8k1k7HqUnbHhjjVZ8DqldhCatftS1Un9fc29XzISFE3IDqMbZ9riR4Tfh1lg3YINuRznNRXZDcCzQD24V7lcGx4zhl+GakceTXhTpGyTLgXRsSdCYrgrYY4dDPQAHB/3P32WP1j5HsJVBoiN6KO7cdT+NlYyPtlz5uph6cO/GtvgPiLtqKgAx3LXSszpfNSQbjdDsSjF09BTIAk3OHqX+PdVhDzJzfU0ia2r+ETAZg/AtiSHI3Zr/suX9QBfVEKxhhz2B3Rr+e8zEulMeHzsUQULrVtqq42E3glpf2FBzqi7GHzHtAw8NAaBItPIgrz5cx/E+IcDd4hS77y9ZEvEuqE24mHA7BBz33bx1spLI9U=;E71NTQJFMHcfln+jBLVt2Q=="
 ---

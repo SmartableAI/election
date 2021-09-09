@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nydailynews.com/snyde/ny-kamala-harris-stepdaughter-ella
 cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/snyde/ny-kamala-harris-stepdaughter-ella-emhoff-balenciaga-paris-fashion-show-20210708-u2k5f32b2nf2lemmetiyx3dzga-story.html?outputType=amp"
 type: article
 quality: 68
-heat: 88
-published: true
+heat: 68
+published: false
 
 provider:
   name: New York Daily News
@@ -25,24 +25,6 @@ images:
     width: 1200
     height: 940
     isCached: true
-
-related:
-  - title: "Kamala Harris' stepdaughter Ella Emhoff stuns fans with a new look they didn't see coming"
-    excerpt: "US Vice President Kamala Harris' stepdaughter Ella Emhoff surprised fans with a brand new look they didn't see coming"
-    publishedDateTime: 2021-09-07T12:41:00Z
-    webUrl: "https://www.hellomagazine.com/fashion/20210907121155/kamala-harris-vice-president-ella-emhoff-stepdaughter-surprising-makeover/"
-    ampWebUrl: "https://www.hellomagazine.com/fashion/20210907121155/kamala-harris-vice-president-ella-emhoff-stepdaughter-surprising-makeover/?viewas=amp"
-    cdnAmpWebUrl: "https://www-hellomagazine-com.cdn.ampproject.org/c/s/www.hellomagazine.com/fashion/20210907121155/kamala-harris-vice-president-ella-emhoff-stepdaughter-surprising-makeover/?viewas=amp"
-    type: article
-    provider:
-      name: HELLO! Magazine
-      domain: hellomagazine.com
-    quality: 66
-    images:
-      - url: "https://www.hellomagazine.com/imagenes/fashion/20210907121155/kamala-harris-vice-president-ella-emhoff-stepdaughter-surprising-makeover/0-585-299/elle-emhoff-bonnet-t.jpg"
-        width: 1200
-        height: 721
-        isCached: true
 
 secured: "s7e+ltCCZ/jiM9k/2/cgLqahZVXUkA0cfrI8UZEAFnuvKjy7nC6okQqtqnWLl3dnoj9dCx2+vWiCxxyiesK1Lag35COkx3nG6+pewh/cmQPQks8uOdrdezHHNl9rqrKuQha8JN+A2zolq5oOX80x6/KZOCoX62ADbLwNgmoDA47bHhGbwp4dl5QXnvH7P9/vyvTOvMmQkKP6dDa9ZqwGDNvWoDoWyiDDLq7OS8UmCXnYZpJHnDCtz6hlgNWoXNhucsLgUPtsoqRIHgAZ/+QzHN9iIPa4cYvrRbSwELIDNIs1WmexOvMLJiQ+a7Yrli/uhNVdOhhnHLvIhpRZGfWu1AoueOkOVeX+6/soS/Ap5iotLwPDc/uT9qnYv5MG2wNtF9swJPK7bHagG5kDda9CxoE8ghx86lnF+jBkGiouSmLvywMuQaQa/2af+L31JaAPHhGn8TkAPW5eMYKcT54kP5yDU7HJj9dN3VTbEBimoMib/Fjs0t7HHJBK5G4gzxS7ldQ0M9QL8fsXpDsHpqPwwQ==;U0MHzHYooaQIQI+RKXt78A=="
 ---

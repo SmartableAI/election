@@ -76,6 +76,20 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "RNC hammers Harris for campaigning for Newsom while Californians are stranded in Afghanistan"
+    excerpt: "The ads hold nothing back ripping into the vice president as she galavants around California with the embattled governor."
+    publishedDateTime: 2021-09-08T21:00:04Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/G5xDm2pctJs/rnc-hammers-harris-campaigning-newsom-afghanistan"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 154
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/08/GettyImages-1233448858.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "VP Harris heading to California to boost Gavin Newsom ahead of recall vote"
     excerpt: "Vice President Kamala Harris will hit the campaign trail next week alongside embattled California Gov. Gavin Newsom."
     publishedDateTime: 2021-09-05T01:16:00Z

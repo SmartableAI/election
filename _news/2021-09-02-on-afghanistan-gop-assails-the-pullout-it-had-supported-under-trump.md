@@ -64,6 +64,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "White House Forces Out Trump Appointees From Boards of Military Academies"
+    excerpt: "The Biden administration was seeking to ensure that board members were “qualified to serve” and aligned with the president’s values, said Jen Psaki, the White House press secretary."
+    publishedDateTime: 2021-09-09T01:17:00Z
+    webUrl: "https://www.nytimes.com/2021/09/08/us/politics/trump-appointees-military-academy-boards.html"
+    ampWebUrl: "https://www.nytimes.com/2021/09/08/us/politics/trump-appointees-military-academy-boards.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/09/08/us/politics/trump-appointees-military-academy-boards.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 134
+    images:
+      - url: "https://static01.nyt.com/images/2021/09/08/us/08dc-trump-appointees/merlin_164002872_3c851945-3cc7-4ef8-9a94-a48fbfcf8718-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "ggpssjBRbeCDsp4MMGCxTBxwFtdAWSnkYVoLziG3+qjqvla0ODSkYS5vE5BRYY4CRK5FfuyDpTtXaQGAjiNkwKUIwcsk3pi9FxgaELN2HR0lTiCq0PuGdfFpuzxBt4tXvnVIraIxCiVEcXh1UiwN2D8JyVut2r5h+GYoQkJAeJimEaFbV/QBv73KhIyCxzeWRXmUB2+xMcmGZdqWlwQUjwXkvEaTV5vKmQuRrnjsOMp0qW3YAUclOXIYGyLnSId5pjTPFPRvZLsHVcfb6fb0kBRbYTA4Sbjr8baaMZODIOxXOcx+lBd0HuTzLbfTgdyA8GwBLpaio84mkvAlmOrD20SYzqcjmCLLxUC4DNaYZjWZrv6plmfYIwQOfwQfP+GpLaFeLHoppCy7wT0M8oC8nbYKBvMxJscvRx3gS0G79Z4+1jrW3HF6MZPhFq2Y1i20GKend3xzQvGWwDIfT6c7AAYPmkrGaVZCqhI6tZNKmZe/n/qneg/STFxd1gEJY4aLLz5y9iNIh1eZs0ztyFOe1w==;SrIwrYy1GmGm4oLBxsZBxA=="
 ---

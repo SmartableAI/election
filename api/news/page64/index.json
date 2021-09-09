@@ -2,6 +2,436 @@
   "page": 64,
   "value": [
     {
+      "path": "_news/2021-04-28-trump-warmongering-fool-liz-cheney-would-embarrass-her-family-with-2024-bid.md",
+      "title": "Trump: ‘warmongering fool’ Liz Cheney would ‘embarrass her family’ with 2024 bid",
+      "excerpt": "Liz Cheney telling The Post that she’s not ruling out a presidential bid. Trump called the Wyoming Republican a “warmongering fool” and said that she would “embarrass her family” with a 2024 run. “Liz Cheney is polling sooo low in Wyoming,",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/04/27/trump-liz-cheney-would-embarrass-her-family-with-2024-bid/",
+      "originalUrl": "https://nypost.com/2021/04/27/trump-liz-cheney-would-embarrass-her-family-with-2024-bid/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 130,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/04/trump-cheney.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/04/27/trump-liz-cheney-would-embarrass-her-family-with-2024-bid/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/27/trump-liz-cheney-would-embarrass-her-family-with-2024-bid/amp/",
+      "publishedDateTime": "2021-04-27T15:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-27-joe-biden-to-issue-executive-order-implementing-15-an-hour-minimum-wage-for-federal-contractors.md",
+      "title": "Joe Biden to issue executive order implementing $15-an-hour minimum wage for federal contractors",
+      "excerpt": "The move is set to increase pay for hundreds of thousands of workers on government contracts by the end of March 2022.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/biden-executive-order-enacting-minimum-wage-federal-contractors-2021-4",
+      "originalUrl": "https://www.businessinsider.com/biden-executive-order-enacting-minimum-wage-federal-contractors-2021-4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/608760113f0560001881c2cb?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/biden-executive-order-enacting-minimum-wage-federal-contractors-2021-4?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-executive-order-enacting-minimum-wage-federal-contractors-2021-4?amp",
+      "publishedDateTime": "2021-04-27T03:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-04-27-analysis-the-trump-republican-circus-gears-up-for-another-tour.md",
+      "title": "Analysis: The Trump Republican circus gears up for another tour",
+      "excerpt": "Donald Trump schooled his protégés well in his politics of down-in-the-muck misinformation.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/V5wyQnnrMx4/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/V5wyQnnrMx4/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 315,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210420081143-01-kevin-mccarthy-0415-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/27/politics/republican-circus-donald-trump/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/27/politics/republican-circus-donald-trump/index.html",
+      "publishedDateTime": "2021-04-27T03:28:49-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-26-bidens-climate-plan-doesnt-ban-meat-but-baseless-claims-left-republicans-fuming-stay-out-of-my-kitchen.md",
+      "title": "Biden’s climate plan doesn’t ban meat. But baseless claims left Republicans fuming: ‘Stay out of my kitchen.’",
+      "excerpt": "Several prominent Republican politicians attacked Biden’s climate plan with the false claim that it would strictly limit access to meat.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/nation/2021/04/26/republicans-meat-biden-climate-plan/",
+      "originalUrl": "https://www.washingtonpost.com/nation/2021/04/26/republicans-meat-biden-climate-plan/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DBP5AMVFMYI6XMYUF2MTXWB6GE.jpg&w=1440",
+          "width": 1440,
+          "height": 958,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/nation/2021/04/26/republicans-meat-biden-climate-plan/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2021/04/26/republicans-meat-biden-climate-plan/?outputType=amp",
+      "publishedDateTime": "2021-04-26T05:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-04-25-kamala-harris-cements-her-place-in-bidens-inner-circle-during-a-consequential-week.md",
+      "title": "Kamala Harris cements her place in Biden's inner circle during a consequential week",
+      "excerpt": "Vice President Kamala Harris was huddled with other White House officials in President Joe Biden's private dining room last week when the room let out a \"collective exhale.\" A Minnesota jury had found Derek Chauvin guilty of murdering George Floyd.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/t-94g7Epw80/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/t-94g7Epw80/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 1014,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210420191943-03-biden-harris-chauvin-verdict-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/25/politics/kamala-harris-cnntv/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/25/politics/kamala-harris-cnntv/index.html",
+      "publishedDateTime": "2021-04-25T06:41:50-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-04-24-pop-is-calling-kids-and-grandkids-on-the-line-with-president-joe-biden.md",
+      "title": "Pop is calling: Kids and grandkids on the line with President Joe Biden",
+      "excerpt": "Joe Biden says he has a strict rule about his phone: No matter what's happening, he always answers a call from one of his grandchildren.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/XtZxv2ZavsA/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/XtZxv2ZavsA/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 215,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/161028184703-20-joe-biden-vice-president-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/24/politics/joe-biden-phone-calls-family/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/24/politics/joe-biden-phone-calls-family/index.html",
+      "publishedDateTime": "2021-04-24T05:02:27-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-24-chocolate-chip-diplomacy-biden-courts-congress-with-gusto.md",
+      "title": "Chocolate chip diplomacy: Biden courts Congress with gusto",
+      "excerpt": "N.Y., speaks during a meeting with members of the WASHINGTON -- The pictures always make it look so presidential: Joe Biden sitting in a tall-back chair, surrounded by the arrayed members of Congress invited for a meeting at the White House.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/chocolate-chip-diplomacy-biden-courts-congress-gusto-77283438",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/chocolate-chip-diplomacy-biden-courts-congress-gusto-77283438",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 285,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/WireAP_5a699b1db2464656b8755b92bfb3c581_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/chocolate-chip-diplomacy-biden-courts-congress-gusto-77283438",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/chocolate-chip-diplomacy-biden-courts-congress-gusto-77283438",
+      "publishedDateTime": "2021-04-23T21:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-04-24-ingraham-bidens-insurrectionists-want-us-to-lose-sight-of-freedom-that-made-america-great.md",
+      "title": "Ingraham: 'Biden's Insurrectionists' want us to 'lose sight' of freedom that made America great",
+      "excerpt": "Fox News host Laura Ingraham opened her show \"The Ingraham Angle\" on Friday highlighting the leftist tactics of what she calls \"Biden's Insurrectionists\" who \"want us to lose sight\" of the freedom tha",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/ingraham-bidens-insurrectionists-want-us-to-lose-sight-of-freedom-that-made-america-great",
+      "originalUrl": "https://www.foxnews.com/media/ingraham-bidens-insurrectionists-want-us-to-lose-sight-of-freedom-that-made-america-great",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2296e2b8-0707-42bb-8660-36fbeef42776/faa336be-7070-4599-ae58-68a1f043d8d3/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/ingraham-bidens-insurrectionists-want-us-to-lose-sight-of-freedom-that-made-america-great.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/ingraham-bidens-insurrectionists-want-us-to-lose-sight-of-freedom-that-made-america-great.amp",
+      "publishedDateTime": "2021-04-23T20:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-24-washington-post-runs-fact-check-on-tim-scotts-ancestry-but-not-on-kamala-harris-fweedom-plagiarism-claim.md",
       "title": "Washington Post runs 'fact-check' on Tim Scott's ancestry but not on Kamala Harris' 'Fweedom' plagiarism claim",
       "excerpt": "The Washington Post appears quite selective when it comes to the urgency of its 'fact-checks' of certain prominent politicians.",
@@ -649,63 +1079,6 @@
       ]
     },
     {
-      "path": "_news/2021-04-23-new-probe-confirms-trump-officials-blocked-puerto-rico-from-receiving-hurricane-aid.md",
-      "title": "New probe confirms Trump officials blocked Puerto Rico from receiving hurricane aid",
-      "excerpt": "Findings from a new inspector general report show how Trump officials blocked hurricane aid for Puerto Rico and obstructed a probe looking into the withholdings.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/news/latino/new-probe-confirms-trump-officials-blocked-puerto-rico-receiving-hurri-rcna749",
-      "originalUrl": "https://www.nbcnews.com/news/latino/new-probe-confirms-trump-officials-blocked-puerto-rico-receiving-hurri-rcna749",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media1.s-nbcnews.com/i/rockcms/2021-04/1132/200724-puerto-rico-ew-323p-053a09_a69b88d4a153c119ebf9b4c21caa3521643fa016.jpg",
-          "width": 2500,
-          "height": 1663,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna749",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna749",
-      "publishedDateTime": "2021-04-22T14:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2021-04-23-republicans-unveil-568-billion-infrastructure-package-to-counter-bidens-23-trillion-plan.md",
       "title": "Republicans unveil $568 billion infrastructure package to counter Biden's $2.3 trillion plan",
       "excerpt": "U.S. Senate Republicans on Thursday put forward their version of an infrastructure package that would spend $568 billion over five years in a response to Democratic U.S. President Joe Biden's $2.3 trillion proposal.",
@@ -976,380 +1349,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-22-inside-chuck-schumers-mission-to-turn-bidens-agenda-into-law-while-preserving-his-own-40-year-legacy.md",
-      "title": "Inside Chuck Schumer's mission to turn Biden's agenda into law while preserving his own 40-year legacy",
-      "excerpt": "With his slim majority, Senate Democratic Leader Chuck Schumer is depending on an arcane legislative maneuver to get things done. But only if the Senate parliamentarian gives him the thumbs-up.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/senate-schumer-reconciliation-biden-agenda-2022-midterms-policy-new-york-2021-4",
-      "originalUrl": "https://www.businessinsider.com/senate-schumer-reconciliation-biden-agenda-2022-midterms-policy-new-york-2021-4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6080486474da0300181e2f85?width=700",
-          "width": 700,
-          "height": 525,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-22T09:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-04-22-analysis-us-financial-regulators-in-hot-seat-as-biden-ramps-up-climate-agenda.md",
-      "title": "Analysis: U.S. financial regulators in hot seat as Biden ramps up climate agenda",
-      "excerpt": "As U.S. President Joe Biden escalates his climate change agenda, pressure is growing on the country's regulators to catch up with Europe and incorporate various risks posed by climate change into their oversight of the financial system.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-global-climate-summit-regulators-anal-idUSKBN2C91E2",
-      "originalUrl": "https://www.reuters.com/article/us-global-climate-summit-regulators-anal-idUSKBN2C91E2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20210422&t=2&i=1559548915&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3L0LC",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2C91E2",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2C91E2",
-      "publishedDateTime": "2021-04-22T08:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-04-22-george-w-bush-says-he-probably-wouldnt-golf-at-a-trump-property.md",
-      "title": "George W. Bush Says He Probably Wouldn't Golf at a Trump Property",
-      "excerpt": "\"I like my properties here in Dallas,\" the former Republican president said during a recent appearance on late-night TV.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/george-w-bush-says-he-probably-wouldnt-golf-trump-property-1585680",
-      "originalUrl": "https://www.newsweek.com/george-w-bush-says-he-probably-wouldnt-golf-trump-property-1585680",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1781665/george-w-bush.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/george-w-bush-says-he-probably-wouldnt-golf-trump-property-1585680?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/george-w-bush-says-he-probably-wouldnt-golf-trump-property-1585680?amp=1",
-      "publishedDateTime": "2021-04-22T06:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-04-22-watch-live-biden-harris-speak-at-virtual-climate-summit.md",
-      "title": "Watch live: Biden, Harris speak at virtual climate summit",
-      "excerpt": "President Biden and Vice President Harris are scheduled to speak at the opening of a virtual White House climate summit on Thursday morning. Their remarks are expected to begin at 8 a.m.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/policy/energy-environment/549658-watch-live-biden-harris-speak-at-virtual-climate-summit",
-      "originalUrl": "https://thehill.com/policy/energy-environment/549658-watch-live-biden-harris-speak-at-virtual-climate-summit",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 2550,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/bidenharris_1_0.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/policy/energy-environment/549658-watch-live-biden-harris-speak-at-virtual-climate-summit?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/energy-environment/549658-watch-live-biden-harris-speak-at-virtual-climate-summit?amp",
-      "publishedDateTime": "2021-04-22T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-04-22-lara-trump-is-wild-card-in-north-carolina-senate-race.md",
-      "title": "Lara Trump is wild card in North Carolina Senate race",
-      "excerpt": "Former President Trump’s daughter-in-law Lara Trump is looming over the Republican Senate primary in North Carolina as the field grows with some of the state’s biggest GOP names.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/campaign/549638-lara-trump-is-wild-card-in-north-carolina-senate-race",
-      "originalUrl": "https://thehill.com/homenews/campaign/549638-lara-trump-is-wild-card-in-north-carolina-senate-race",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 305,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/trumplara_082620getty_camp.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/campaign/549638-lara-trump-is-wild-card-in-north-carolina-senate-race?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/549638-lara-trump-is-wild-card-in-north-carolina-senate-race?amp",
-      "publishedDateTime": "2021-04-22T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-04-22-pelosi-felt-liberated-after-ripping-up-trumps-2020-state-of-the-union-speech-author-says.md",
-      "title": "Pelosi felt 'liberated' after ripping up Trump's 2020 State of the Union speech, author says",
-      "excerpt": "House Speaker Nancy Pelosi felt \"liberated\" when she ripped up a copy of President Donald Trump's State of the Union address last year, but the move was largely unplanned simply because she couldn't find a pen,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2021/04/22/politics/pelosi-trump-state-of-the-union-address-cnntv/index.html",
-      "originalUrl": "https://www.cnn.com/2021/04/22/politics/pelosi-trump-state-of-the-union-address-cnntv/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210422081128-file-nancy-pelosi-donald-trump-state-of-the-union-2020-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/22/politics/pelosi-trump-state-of-the-union-address-cnntv/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/22/politics/pelosi-trump-state-of-the-union-address-cnntv/index.html",
-      "publishedDateTime": "2021-04-22T01:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-22-biden-preparing-to-declare-massacre-of-armenians-a-genocide-risking-break-with-turkey.md",
-      "title": "Biden preparing to declare massacre of Armenians a 'genocide,' risking break with Turkey ",
-      "excerpt": "President Joe Biden is preparing to declare the massacre of an estimated million or more Armenians under the Ottoman Empire a \"genocide\" this week, risking a potential fracture with Turkey but fulfilling a campaign pledge to finally use the word as President to describe the mass killings after a series",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xuIbT8fBnKc/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xuIbT8fBnKc/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 166,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210417093925-01-joe-biden-0415-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/21/politics/biden-armenia-genocide-turkey/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/21/politics/biden-armenia-genocide-turkey/index.html",
-      "publishedDateTime": "2021-04-21T20:03:02-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Democratic Voice"
       ]
     }

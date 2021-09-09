@@ -2,6 +2,230 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-07-22-tiktok-white-house-agree-to-drop-trump-era-lawsuit.md",
+      "title": "TikTok, White House agree to drop Trump-era lawsuit",
+      "excerpt": "The Chinese owned social media platform TikTok has reached an agreement with the White House to drop a lawsuit challenging former President Donald Trump’s attempt to ban the video app from app stores in the United States.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/m7xeWJIq5Vc/tiktok-white-house-agree-to-drop-trump-era-lawsuit",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/m7xeWJIq5Vc/tiktok-white-house-agree-to-drop-trump-era-lawsuit",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 215,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e1117589-3186-4490-925d-1d089e42a626/11be2235-525a-4bf7-9a63-f81e6034e16d/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/tiktok-white-house-agree-to-drop-trump-era-lawsuit.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tiktok-white-house-agree-to-drop-trump-era-lawsuit.amp",
+      "publishedDateTime": "2021-07-22T12:00:43-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-22-former-education-sec-devos-blasts-biden-admins-many-ties-to-twisted-and-warped-critical-race-theory.md",
+      "title": "Former Education Sec. DeVos blasts Biden admin's 'many ties' to 'twisted and warped' critical race theory",
+      "excerpt": "EXCLUSIVE: Former Department of Education Secretary Betsy DeVos said it is \"appalling\" to see close ties between radical groups pushing critical race theory and the Biden administration.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Q0_YXjySjSk/betsy-devos-biden-admin-critical-race-thory-ties",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Q0_YXjySjSk/betsy-devos-biden-admin-critical-race-thory-ties",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 158,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6c860925-7840-4d17-a210-b9bc26114022/a06fe2da-965b-416f-aab6-e55e1b160199/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/betsy-devos-biden-admin-critical-race-thory-ties.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/betsy-devos-biden-admin-critical-race-thory-ties.amp",
+      "publishedDateTime": "2021-07-22T11:56:38-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-22-democrats-rally-for-biden-public-lands-pick-despite-scrutiny-from-republicans.md",
+      "title": "Democrats rally for Biden public lands pick despite scrutiny from Republicans",
+      "excerpt": "A bitterly divided U.S. Senate panel deadlocked Thursday on President Joe Biden’s pick to oversee vast government-owned lands in the West.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/P0LbJcZzo6U/tracy-stone-manning-confirmation-status-latest",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/P0LbJcZzo6U/tracy-stone-manning-confirmation-status-latest",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 232,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/eac88bcf-166c-49da-8022-ab4f08f8adad/aadffa86-f4d3-43c0-a951-262b029df08c/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/tracy-stone-manning-confirmation-status-latest.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tracy-stone-manning-confirmation-status-latest.amp",
+      "publishedDateTime": "2021-07-22T11:05:43-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-22-obama-ethics-chief-blasts-biden-wh-blind-spot-over-hunter-biden-meeting-with-potential-art-buyers.md",
+      "title": "Obama ethics chief blasts Biden WH 'blind spot' over Hunter Biden meeting with potential art buyers",
+      "excerpt": "The younger Biden will be attending the small LA shows before a larger New York City exhibition of art at his promoter Georges Berges’ gallery.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/HfQFH4Njes8/hunter-biden-attending-art-shows",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/HfQFH4Njes8/hunter-biden-attending-art-shows",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 161,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/126c9819-8d0a-4ed3-93c2-92db2694a67e/ff2a850f-4b38-400e-9564-ab1439b2cf08/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/hunter-biden-attending-art-shows.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-attending-art-shows.amp",
+      "publishedDateTime": "2021-07-22T09:49:39-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-22-hes-no-sell-out-biden-speaks-to-half-empty-room-at-cnn-town-hall.md",
       "title": "He’s no sell-out: Biden speaks to half-empty room at CNN town hall",
       "excerpt": "President Biden on Wednesday spoke to a half-empty auditorium while doing a live CNN “town hall” event in Ohio.",
@@ -1433,215 +1657,6 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-16-federal-judge-orders-biden-administration-to-end-new-daca-applications.md",
-      "title": "Federal judge orders Biden administration to end new DACA applications",
-      "excerpt": "A federal judge on Friday ordered the Biden administration to stop all applications for the Deferred Action for Childhood Arrivals (DACA) program, after a coalition of states sued and claimed that the Obama-era program was illegal.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/NUrRgklasdU/federal-judge-biden-administration-new-daca-applications",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/NUrRgklasdU/federal-judge-biden-administration-new-daca-applications",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 775,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/515b0870-4aa0-4d1e-8096-e113006cc8ab/2143a296-bde8-445c-8aa5-d85acdba53be/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/federal-judge-biden-administration-new-daca-applications.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/federal-judge-biden-administration-new-daca-applications.amp",
-      "publishedDateTime": "2021-07-16T14:45:09-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-17-addison-rae-slammed-for-greeting-ex-president-trump-at-event.md",
-      "title": "Addison Rae slammed for greeting ex-President Trump at event",
-      "excerpt": "Once the TikToker got his attention, the two shook hands and she mentioned that she just “had to say hi” and that it was “so nice to meet you.” Social media users were not",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/07/16/social-media-cancels-addison-rae-for-saying-hi-to-ex-president-trump/",
-      "originalUrl": "https://nypost.com/2021/07/16/social-media-cancels-addison-rae-for-saying-hi-to-ex-president-trump/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/07/addison-ray-trump-hp.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/07/16/social-media-cancels-addison-rae-for-saying-hi-to-ex-president-trump/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/16/social-media-cancels-addison-rae-for-saying-hi-to-ex-president-trump/amp/",
-      "publishedDateTime": "2021-07-16T11:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-16-ruthless-podcast-plays-veep-or-veep-using-quotes-from-kamala-harris-fictional-vp-selina-meyer.md",
-      "title": "Ruthless podcast plays 'Veep or Veep' using quotes from Kamala Harris, fictional VP Selina Meyer",
-      "excerpt": "The \"Ruthless\" podcast debuted a new game on Thursday called \"Veep or Veep\" involving quotes made by Vice President Kamala Harris and fictional VP Selina Meyer.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/ruthless-podcast-veep-or-veep-kamala-harris-selina-meyer",
-      "originalUrl": "https://www.foxnews.com/media/ruthless-podcast-veep-or-veep-kamala-harris-selina-meyer",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/047dda84-2e62-4f40-92a8-090c4459b838/e0d0db1b-9ff6-4375-a047-9825c20eccbd/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/ruthless-podcast-veep-or-veep-kamala-harris-selina-meyer.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/ruthless-podcast-veep-or-veep-kamala-harris-selina-meyer.amp",
-      "publishedDateTime": "2021-07-15T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-16-megan-fox-rips-burn-a-witch-at-the-stake-cancel-culture-over-her-trump-comments.md",
-      "title": "Megan Fox rips ‘burn-a-witch-at-the-stake’ cancel culture over her Trump comments",
-      "excerpt": "Uhmmm … I do not align myself with any political party or individual politicians,” the Megan Fox wrote in an all-caps message on her Instagram stories addressing her attackers.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/07/15/megan-fox-rips-cancel-culture-over-her-comments-about-trump/",
-      "originalUrl": "https://nypost.com/2021/07/15/megan-fox-rips-cancel-culture-over-her-comments-about-trump/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 130,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/07/machine-gun-kelly-megan-fox-003.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/07/15/megan-fox-rips-cancel-culture-over-her-comments-about-trump/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/15/megan-fox-rips-cancel-culture-over-her-comments-about-trump/amp/",
-      "publishedDateTime": "2021-07-15T10:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Republican Voice"
       ]
     }

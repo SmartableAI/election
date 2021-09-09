@@ -2,6 +2,110 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-07-03-absolutely-no-doubt-donald-trump-is-running-for-president-again-says-steve-bannon.md",
+      "title": "'Absolutely No Doubt' Donald Trump Is Running for President Again, Says Steve Bannon",
+      "excerpt": "\"The MAGA movement, the America First movement is more engaged, more energized,\" said the former Trump administration official.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/absolutely-no-doubt-donald-trump-running-president-again-says-steve-bannon-1606640",
+      "originalUrl": "https://www.newsweek.com/absolutely-no-doubt-donald-trump-running-president-again-says-steve-bannon-1606640",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1837346/trump-bannon.jpg",
+          "width": 1024,
+          "height": 692,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/absolutely-no-doubt-donald-trump-running-president-again-says-steve-bannon-1606640?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/absolutely-no-doubt-donald-trump-running-president-again-says-steve-bannon-1606640?amp=1",
+      "publishedDateTime": "2021-07-03T07:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-07-03-we-need-you-to-stop-the-counting-records-detail-intense-efforts-by-trump-allies-to-pressure-maricopa-county-supervisors.md",
+      "title": "'We need you to stop the counting': Records detail intense efforts by Trump allies to pressure Maricopa County supervisors",
+      "excerpt": "New records reveal the behind-the scenes efforts by Trump, Rudy Giuliani, and state GOP Chair Kelli Ward to pressure Maricopa County supervisors.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2021/07/03/records-show-trump-allies-kelli-ward-rudy-giuliani-pressured-county-officials-over-election-results/7846142002/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/07/03/records-show-trump-allies-kelli-ward-rudy-giuliani-pressured-county-officials-over-election-results/7846142002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/07/02/PPHX/b5ce0a59-1524-4572-81df-369ffbbee0f9-Donald_Trump_Kelli_Ward_Rudy_Giuliani.jpg?auto=webp&crop=1849,1040,x0,y102&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/7846142002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7846142002",
+      "publishedDateTime": "2021-07-03T04:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-07-03-nightmare-scenario-review-trump-covid-and-a-lasting-national-trauma.md",
       "title": "Nightmare Scenario review: Trump, Covid and a lasting national trauma",
       "excerpt": "Yasmeen Abutaleb and Damian Paletta of the Washington Post show how bad things got – and how they could have been worse",
@@ -1470,110 +1574,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-27-mitt-romney-likens-trump-election-fraud-claims-to-wwf-its-entertaining-but-its-not-real.md",
-      "title": "Mitt Romney Likens Trump Election Fraud Claims to WWF: 'It's Entertaining, but It's Not Real'",
-      "excerpt": "The Utah Republican also said he believes Trump's statements on election fraud are having a harmful effect on democracy across the world.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/mitt-romney-likens-trump-election-fraud-claims-wwf-its-entertaining-its-not-real-1604498",
-      "originalUrl": "https://www.newsweek.com/mitt-romney-likens-trump-election-fraud-claims-wwf-its-entertaining-its-not-real-1604498",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1831331/trump-rally-ohio.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/mitt-romney-likens-trump-election-fraud-claims-wwf-its-entertaining-its-not-real-1604498?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mitt-romney-likens-trump-election-fraud-claims-wwf-its-entertaining-its-not-real-1604498?amp=1",
-      "publishedDateTime": "2021-06-27T08:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-27-blinken-visit-to-pope-will-reset-us-vatican-ties-after-trump-years.md",
-      "title": "Blinken visit to pope will reset U.S-Vatican ties after Trump years",
-      "excerpt": "The last time a U.S. secretary of state visited the Vatican, the diplomatic sparks flew and Pope Francis declined to receive Mike Pompeo.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/world/us/blinken-visit-pope-will-reset-us-vatican-ties-after-trump-years-2021-06-24/",
-      "originalUrl": "https://www.reuters.com/world/us/blinken-visit-pope-will-reset-us-vatican-ties-after-trump-years-2021-06-24/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/EPPgvgYjhTWX2Kn2vwJ6rvMWBgA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/X3YMTPKREVKH3KVKM5OT6C2T24.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-27T02:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

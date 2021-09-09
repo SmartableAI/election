@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-05-19-fellow-asian-americans-laud-kamala-harris-rise-but-want-more-clout-for-their-communities.md",
+      "title": "Fellow Asian Americans laud Kamala Harris’ rise, but want more clout for their communities",
+      "excerpt": "Asian Americans are eager to build political clout and looking for help to Kamala Harris, the first Asian American vice president. She meets Wednesday with one group.",
+      "sourceUrl": null,
+      "webUrl": "https://www.latimes.com/politics/story/2021-05-19/harris-asian-americans-democrats-voters",
+      "originalUrl": "https://www.latimes.com/politics/story/2021-05-19/harris-asian-americans-democrats-voters",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 215,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ca-times.brightspotcdn.com/dims4/default/7094a6c/2147483647/strip/true/crop/840x549+0+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F71%2F97%2F7380086a4865a0921e0285a5baf9%2Fpolar-bear.jpg",
+          "width": 320,
+          "height": 209,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.latimes.com/politics/story/2021-05-19/harris-asian-americans-democrats-voters?_amp=true",
+      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-05-19/harris-asian-americans-democrats-voters?_amp=true",
+      "publishedDateTime": "2021-05-19T07:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Los Angeles Times",
+        "domain": "latimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-05-19-vp-kamala-harris-covid-an-opportunity-to-transform-how-we-live-how-we-work-and-how-we-vote.md",
       "title": "VP Kamala Harris: COVID An \"Opportunity\" to \"Transform\" How We Live, How We Work, And How We Vote",
       "excerpt": "Vice President Kamala Harris called COVID-19 an \"opportunity\" to transform society in a speech to the Asian American Pacific Islander Heritage Month unity summit on Wednesday. \"As we emerge from the pandemic,",
@@ -1558,63 +1610,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/gops-mccarthy-says-vp-harris-should-attend-fbi-cia-terror-briefing-i-know-she-hasnt-been-to-the-border.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gops-mccarthy-says-vp-harris-should-attend-fbi-cia-terror-briefing-i-know-she-hasnt-been-to-the-border.amp",
       "publishedDateTime": "2021-04-08T00:59:07-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-04-08-mayorkas-not-biden-or-harris-heading-to-texas-border-towns-thursday.md",
-      "title": "Mayorkas -- not Biden or Harris -- heading to Texas border towns Thursday",
-      "excerpt": "U.S. Homeland Security Secretary Alejandro Mayorkas will travel to two Texas border towns Thursday, according to reports.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/RvCUqkIT1Uw/mayorkas-biden-harris-texas-border",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/RvCUqkIT1Uw/mayorkas-biden-harris-texas-border",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 859,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/AP21091647660858.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/mayorkas-biden-harris-texas-border.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mayorkas-biden-harris-texas-border.amp",
-      "publishedDateTime": "2021-04-07T20:51:44-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

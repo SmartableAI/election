@@ -2,6 +2,440 @@
   "page": 50,
   "value": [
     {
+      "path": "_news/2021-05-27-biden-blasts-republicans-for-touting-covid-relief-funds-they-voted-against-some-people-have-no-shame.md",
+      "title": "Biden blasts Republicans for touting Covid relief funds they voted against: 'Some people have no shame' ",
+      "excerpt": "President Joe Biden on Thursday criticized Republican lawmakers who have touted parts of the Covid-19 economic relief law that benefit their constituents despite having voted against the law, saying: \"Some people have no shame.\"\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pJFwa-IDoZU/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pJFwa-IDoZU/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 158,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210527155040-biden-gop-list-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/27/politics/biden-republicans-covid-funds/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/27/politics/biden-republicans-covid-funds/index.html",
+      "publishedDateTime": "2021-05-27T14:22:31-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-28-las-cruces-man-accused-of-plotting-biden-assassination-mass-shooting.md",
+      "title": "Las Cruces man accused of plotting Biden assassination, mass shooting",
+      "excerpt": ":Lawyer: Las Cruces resident denies threatening to kill Biden. LAS CRUCES – The FBI is alleging a Las Cruces man sent text messages with plans to kill U.S. President Joe B",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/crime/2021/05/26/las-cruces-man-accused-plotting-to-kill-president-joe-biden/7448404002/",
+      "originalUrl": "https://www.usatoday.com/story/news/crime/2021/05/26/las-cruces-man-accused-plotting-to-kill-president-joe-biden/7448404002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 445,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2019/10/29/PNM2/f47728ed-1b01-4073-a3fb-e642ba2b5b7c-Federal_courthouse_Las_Cruces_3.jpg?auto=webp&crop=5216,2934,x37,y9&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/7448404002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7448404002",
+      "publishedDateTime": "2021-05-27T14:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-05-28-the-daily-202-biden-resurrects-the-politically-potent-wuhan-lab-leak-pandemic-theory.md",
+      "title": "The Daily 202: Biden resurrects the politically potent Wuhan lab-leak pandemic theory",
+      "excerpt": "President Biden breathed new life yesterday into the theory that the pandemic began when the virus escaped from a Chinese lab — an unproven but politically potent scenario Republicans have used to attack Beijing and defend former president Donald Trump.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/2021/05/27/daily-202-biden-resurrects-politically-potent-wuhan-lab-leak-pandemic-theory/",
+      "originalUrl": "https://www.washingtonpost.com/politics/2021/05/27/daily-202-biden-resurrects-politically-potent-wuhan-lab-leak-pandemic-theory/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OKDBHQV6KMI6XERKYQGJO5F4JA.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/2021/05/27/daily-202-biden-resurrects-politically-potent-wuhan-lab-leak-pandemic-theory/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/05/27/daily-202-biden-resurrects-politically-potent-wuhan-lab-leak-pandemic-theory/?outputType=amp",
+      "publishedDateTime": "2021-05-27T12:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-05-28-matt-gaetz-plans-to-run-for-president-in-2024-but-only-if-donald-trump-doesnt.md",
+      "title": "Matt Gaetz Plans to Run For President in 2024— But Only If Donald Trump Doesn't",
+      "excerpt": "In a text sent to the New York Post, Gaetz said, \"I support Donald Trump for president. I've directly encouraged him to run and he gives me every indication he will.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/matt-gaetz-plans-run-president-2024-only-if-donald-trump-doesnt-1595562",
+      "originalUrl": "https://www.newsweek.com/matt-gaetz-plans-run-president-2024-only-if-donald-trump-doesnt-1595562",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 141,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1809008/matt-gaetz.jpg",
+          "width": 2500,
+          "height": 1665,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/matt-gaetz-plans-run-president-2024-only-if-donald-trump-doesnt-1595562?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/matt-gaetz-plans-run-president-2024-only-if-donald-trump-doesnt-1595562?amp=1",
+      "publishedDateTime": "2021-05-27T10:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-05-27-us-judge-says-trumps-election-falsehoods-still-pose-security-risk.md",
+      "title": "U.S. judge says Trump's election falsehoods still pose security risk",
+      "excerpt": "A U.S. judge said there is a risk that Donald Trump's supporters could still carry out attacks similar to the deadly Jan. 6 assault on the U.S. Capitol, noting the former president's \"near-daily fulminations\" about his election loss have not subsided.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-capitol-arrests-idUSKCN2D81NZ",
+      "originalUrl": "https://www.reuters.com/article/us-usa-capitol-arrests-idUSKCN2D81NZ",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 860,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210527&t=2&i=1563618128&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH4Q0UP",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKCN2D81NZ",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2D81NZ",
+      "publishedDateTime": "2021-05-27T09:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-05-27-trump-giuliani-urge-judge-to-throw-out-democrats-capitol-riot-lawsuit.md",
+      "title": "Trump, Giuliani urge judge to throw out Democrats' Capitol riot lawsuit",
+      "excerpt": "Giuliani's use of the phrase \"trial by combat\" during the rally that preceded the riot referred to future legal challenges, not anything happening at the Capitol, his lawyer said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/donald-trump/trump-giuliani-urge-judge-throw-out-democrats-capitol-riot-lawsuit-n1268757",
+      "originalUrl": "https://www.nbcnews.com/politics/donald-trump/trump-giuliani-urge-judge-throw-out-democrats-capitol-riot-lawsuit-n1268757",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_21/3450394/210216-trump-giuliani-jm-1024.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1268757",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1268757",
+      "publishedDateTime": "2021-05-27T09:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-27-republican-governors-face-the-trump-litmus-test-as-elections-approach.md",
+      "title": "Republican governors face the Trump litmus test as elections approach",
+      "excerpt": "Donald Trump is causing a headache for the Republican Governors Association.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xsbnjn3Qoas/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xsbnjn3Qoas/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 610,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/181103123215-02-doug-ducey-file-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/27/politics/trump-rga-governors/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/27/politics/trump-rga-governors/index.html",
+      "publishedDateTime": "2021-05-27T09:00:16-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-27-china-hits-back-at-wuhan-lab-leak-conspiracy-after-biden-calls-for-covid-probe.md",
+      "title": "China hits back at Wuhan lab leak 'conspiracy' after Biden calls for Covid probe",
+      "excerpt": "Some world leaders and scientists have criticized Beijing for not raising the international alarm quickly enough over the coronavirus outbreak.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/news/world/china-hits-back-wuhan-lab-leak-conspiracy-after-biden-calls-n1268704",
+      "originalUrl": "https://www.nbcnews.com/news/world/china-hits-back-wuhan-lab-leak-conspiracy-after-biden-calls-n1268704",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 130,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_21/3478134/210527-covid-origin-mc-9202.jpg",
+          "width": 2500,
+          "height": 1664,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1268704",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1268704",
+      "publishedDateTime": "2021-05-27T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-05-27-lara-trump-slams-biden-harris-if-the-border-is-closed-then-im-a-sparkly-unicorn.md",
       "title": "Lara Trump slams Biden, Harris: If the border is closed, then ‘I’m a sparkly unicorn’",
       "excerpt": "Fox News contributor Lara Trump said on Thursday mocked the Department of Homeland Security for claiming the southern border was closed.",
@@ -902,435 +1336,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/pentagon-official-bishop-garrison-trump-supporters-extremists.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pentagon-official-bishop-garrison-trump-supporters-extremists.amp",
       "publishedDateTime": "2021-05-25T17:30:40-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-25-washington-post-manhattan-da-convenes-grand-jury-to-consider-potential-charges-in-trump-organization-probe.md",
-      "title": "Washington Post: Manhattan DA convenes grand jury to consider potential charges in Trump Organization probe",
-      "excerpt": "Manhattan's top prosecutor has convened a grand jury that is expected to decide whether to indict former President Donald Trump should prosecutors present criminal charges in their probe of the Trump Organization, two people familiar with the matter told The Washington Post.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fjfcdaL6DdA/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fjfcdaL6DdA/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210303224724-donald-trump-file-201126-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/25/politics/manhattan-district-attorney-trump-organization-grand-jury/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/25/politics/manhattan-district-attorney-trump-organization-grand-jury/index.html",
-      "publishedDateTime": "2021-05-25T16:49:22-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-26-donald-trump-faces-new-grand-jury-as-manhattan-da-ramps-up-criminal-probe.md",
-      "title": "Donald Trump Faces New Grand Jury as Manhattan DA Ramps Up Criminal Probe",
-      "excerpt": "The grand jury will consider different matters including Trump's alleged hush-money payments, improper property valuations and employee compensation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/donald-trump-faces-new-grand-jury-manhattan-da-ramps-criminal-probe-1594844",
-      "originalUrl": "https://www.newsweek.com/donald-trump-faces-new-grand-jury-manhattan-da-ramps-criminal-probe-1594844",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 304,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1806845/donald-trump-grand-jury.jpg",
-          "width": 2500,
-          "height": 1737,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/donald-trump-faces-new-grand-jury-manhattan-da-ramps-criminal-probe-1594844?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-faces-new-grand-jury-manhattan-da-ramps-criminal-probe-1594844?amp=1",
-      "publishedDateTime": "2021-05-25T16:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-05-25-biden-defends-decision-not-to-sanction-company-building-controversial-russian-gas-pipeline.md",
-      "title": "Biden defends decision not to sanction company building controversial Russian gas pipeline",
-      "excerpt": "President Joe Biden on Tuesday stood by his decision not to sanction the company in charge of building Russia's Nord Stream 2 gas pipeline, characterizing the move as protecting relationships with European allies.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wv8U-kFGqss/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wv8U-kFGqss/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210525144729-biden-afghanistan-0414-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/25/politics/biden-defends-decision-russian-gas-pipeline/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/25/politics/biden-defends-decision-russian-gas-pipeline/index.html",
-      "publishedDateTime": "2021-05-25T15:49:01-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-26-trump-teases-endorsement-in-texas-ag-race.md",
-      "title": "Trump teases endorsement in Texas AG race",
-      "excerpt": "Former President Trump on Tuesday said he would soon announce his endorsement in the Texas Attorney General race.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/state-watch/555405-trump-teases-endorsement-in-texas-ag-race",
-      "originalUrl": "https://thehill.com/homenews/state-watch/555405-trump-teases-endorsement-in-texas-ag-race",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 285,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/article_images/trumpdonald_102620getty_trump-midterms_0.jpg",
-          "width": 980,
-          "height": 580,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/state-watch/555405-trump-teases-endorsement-in-texas-ag-race?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/state-watch/555405-trump-teases-endorsement-in-texas-ag-race?amp",
-      "publishedDateTime": "2021-05-25T14:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-05-26-face-to-face-june-summit-for-biden-putin-as-tensions-rise.md",
-      "title": "Face to face: June summit for Biden, Putin as tensions rise",
-      "excerpt": "President Joe Biden and Russia’s Vladimir Putin agreed Tuesday to meet next month in Geneva, a face-to-face encounter the White House hopes will help bring some predictability to a fraught relationship that’s only worsened in the first months of the Democratic administration.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/white-house-biden-to-meet-putin-for-geneva-summit/2021/05/25/44a7a23c-bd62-11eb-922a-c40c9774bc48_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/white-house-biden-to-meet-putin-for-geneva-summit/2021/05/25/44a7a23c-bd62-11eb-922a-c40c9774bc48_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 225,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PNYPUKF4UYI6XERKYQGJO5F4JA.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/white-house-biden-to-meet-putin-for-geneva-summit/2021/05/25/44a7a23c-bd62-11eb-922a-c40c9774bc48_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/white-house-biden-to-meet-putin-for-geneva-summit/2021/05/25/44a7a23c-bd62-11eb-922a-c40c9774bc48_story.html?outputType=amp",
-      "publishedDateTime": "2021-05-25T14:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-05-26-biden-says-us-sanctions-against-belarus-are-in-play.md",
-      "title": "Biden says U.S. sanctions against Belarus are in play",
-      "excerpt": "President Joe Biden said on Tuesday that U.S. sanctions against Belarus are in play, but declined to offer more details.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-belarus-sanctions/biden-says-us-sanctions-against-belarus-are-in-play-idUSKCN2D62SK",
-      "originalUrl": "https://www.reuters.com/article/us-usa-belarus-sanctions/biden-says-us-sanctions-against-belarus-are-in-play-idUSKCN2D62SK",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 525,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210525&t=2&i=1563384482&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH4O1EO",
-          "width": 856,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKCN2D62SK",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2D62SK",
-      "publishedDateTime": "2021-05-25T13:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-05-26-biden-and-harris-meet-george-floyds-family-on-anniversary-of-his-murder-live.md",
-      "title": "Biden and Harris meet George Floyd’s family on anniversary of his murder – live",
-      "excerpt": "President has private White House meeting with members of Floyd’s family – follow all the day’s politics news live",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/live/2021/may/25/joe-biden-george-floyd-murder-us-politics-live?page=with:block-60ad4c358f08d486a7712e13",
-      "originalUrl": "https://www.theguardian.com/us-news/live/2021/may/25/joe-biden-george-floyd-murder-us-politics-live?page=with:block-60ad4c358f08d486a7712e13",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 1066,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/95fa8f9894af888284457c15293f5fe0131673b6/0_83_5472_3283/master/5472.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=0811f31c824459870e86ad221ddef118",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2021/may/25/joe-biden-george-floyd-murder-us-politics-live",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/may/25/joe-biden-george-floyd-murder-us-politics-live",
-      "publishedDateTime": "2021-05-25T11:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-05-25-ethiopias-amhara-ethnic-group-accuses-biden-of-ignoring-atrocities.md",
-      "title": "Ethiopia’s Amhara ethnic group accuses Biden of ignoring atrocities",
-      "excerpt": "Eskedar Getaneh stepped out of his house on April 12 to screams from surrounding neighbors in the village of Arkumbi Kebele in the Oromo region of ethnically divided Ethiopia.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/jRyWHElS3Ys/ethiopias-war-the-administration-will-not-mention",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/jRyWHElS3Ys/ethiopias-war-the-administration-will-not-mention",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2019/04/05/720/405/694940094001_6022932602001_6022923598001-vs.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/ethiopias-war-the-administration-will-not-mention.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ethiopias-war-the-administration-will-not-mention.amp",
-      "publishedDateTime": "2021-05-25T10:58:07-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

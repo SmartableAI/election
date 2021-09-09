@@ -2,6 +2,455 @@
   "page": 66,
   "value": [
     {
+      "path": "_news/2021-04-21-foxconn-plant-once-touted-by-trump-as-a-13000-job-juggernaut-will-now-create-just-1500-jobs.md",
+      "title": "Foxconn plant, once touted by Trump as a 13,000-job juggernaut, will now create just 1,500 jobs",
+      "excerpt": "Taiwan electronics manufacturer Foxconn is drastically scaling back a planned $10 billion factory in Wisconsin, confirming its retreat from a project that former President Donald Trump once called \"the eighth wonder of the world.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/business/business-news/foxconn-plant-once-touted-trump-13-000-job-juggernaut-will-n1264793",
+      "originalUrl": "https://www.nbcnews.com/business/business-news/foxconn-plant-once-touted-trump-13-000-job-juggernaut-will-n1264793",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media1.s-nbcnews.com/i/newscms/2021_16/3466568/210421-foxconn-mb-1404_348c6a4a19257ed509b54c9e5196d724.JPG",
+          "width": 5228,
+          "height": 3486,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1264793",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1264793",
+      "publishedDateTime": "2021-04-21T06:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-21-leo-terrell-biden-democrats-reaction-to-chauvin-verdict-shows-you-cannot-satisfy-these-extremists.md",
+      "title": "Leo Terrell: Biden, Democrats' reaction to Chauvin verdict shows 'you cannot satisfy these extremists'",
+      "excerpt": "President Biden and his Democratic allies still want to make the Derek Chauvin trial about race relations in America, civil rights attorney Leo Terrell told \"Hannity\" Tuesday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/leo-terrell-biden-democrats-derek-chauvin-verdict-reaction",
+      "originalUrl": "https://www.foxnews.com/media/leo-terrell-biden-democrats-derek-chauvin-verdict-reaction",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cfe28a21-906e-4e25-9720-ebf56691b38f/90f018af-b1c6-4255-9893-7731659fef9d/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/leo-terrell-biden-democrats-derek-chauvin-verdict-reaction.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/leo-terrell-biden-democrats-derek-chauvin-verdict-reaction.amp",
+      "publishedDateTime": "2021-04-20T19:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-21-foxconn-mostly-abandons-10-billion-wisconsin-project-touted-by-trump.md",
+      "title": "Foxconn mostly abandons $10 billion Wisconsin project touted by Trump",
+      "excerpt": "Taiwan electronics manufacturer Foxconn is drastically scaling back a planned $10 billion factory in Wisconsin, confirming its retreat from a project that former U.S. President Donald Trump once called \"the eighth wonder of the world.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-foxconn-wisconsin-idUKKBN2C72T9",
+      "originalUrl": "https://www.reuters.com/article/us-foxconn-wisconsin-idUKKBN2C72T9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210420&t=2&i=1559266979&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3J1HK",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUKKBN2C72T9",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2C72T9",
+      "publishedDateTime": "2021-04-20T19:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-04-21-biden-harris-slam-systemic-racism-in-us-say-chauvin-guilty-verdict-is-giant-step-toward-racial-justice.md",
+      "title": "Biden, Harris slam 'systemic racism' in US, say Chauvin guilty verdict is 'giant step' toward racial justice",
+      "excerpt": "The guilty verdict in the murder trial of former Minneapolis police Officer Derek Chauvin \"can be a giant step forward in the march toward justice in America,\" President Biden and Vice President Harris said Tuesday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Vk8o4NRU-QQ/biden-harris-say-chauvin-guilty-verdict-is-giant-step-toward-racial-justice-call-for-congress-to-act",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Vk8o4NRU-QQ/biden-harris-say-chauvin-guilty-verdict-is-giant-step-toward-racial-justice-call-for-congress-to-act",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 301,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-harris-say-chauvin-guilty-verdict-is-giant-step-toward-racial-justice-call-for-congress-to-act.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-harris-say-chauvin-guilty-verdict-is-giant-step-toward-racial-justice-call-for-congress-to-act.amp",
+      "publishedDateTime": "2021-04-20T17:15:52-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-04-21-brian-sicknick-death-ruling-debunks-media-narrative-that-fueled-second-trump-impeachment-hurt.md",
+      "title": "Brian Sicknick death ruling debunks media narrative that fueled second Trump impeachment: Hurt",
+      "excerpt": "The official ruling on the cause of U.S. Capitol Police officer Brian Sicknick's death debunks the media narrative upon which former President Donald Trump's second impeachment was largely predicated,",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/brian-sicknick-death-medical-examiner-charlie-hurt-reaction",
+      "originalUrl": "https://www.foxnews.com/media/brian-sicknick-death-medical-examiner-charlie-hurt-reaction",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/Brian-Sicknick-sharp.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/brian-sicknick-death-medical-examiner-charlie-hurt-reaction.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/brian-sicknick-death-medical-examiner-charlie-hurt-reaction.amp",
+      "publishedDateTime": "2021-04-20T13:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-20-biden-doj-dispatches-peacemakers-to-minneapolis-ahead-of-chauvin-verdict-report.md",
+      "title": "Biden DOJ dispatches 'peacemakers' to Minneapolis ahead of Chauvin verdict: report",
+      "excerpt": "The Justice Department has reportedly dispatched officials from its Community Relations Service to act as peacemakers and facilitate listening sessions in Minneapolis.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/6boZzN2oO9k/doj-community-relations-service-chauvin-minneapolis-riots-protest",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/6boZzN2oO9k/doj-community-relations-service-chauvin-minneapolis-riots-protest",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 189,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/chauvin.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/doj-community-relations-service-chauvin-minneapolis-riots-protest.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/doj-community-relations-service-chauvin-minneapolis-riots-protest.amp",
+      "publishedDateTime": "2021-04-20T12:54:24-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-20-scalise-accuses-biden-administration-of-exempting-illegal-immigrants-from-covid-19-restrictions.md",
+      "title": "Scalise accuses Biden administration of 'exempting' illegal immigrants from COVID-19 restrictions",
+      "excerpt": "FIRST ON FOX: House Republican Whip Steve Scalise on Tuesday wrote to Homeland Security Secretary Alejandro Mayorkas, accusing the Biden administration of exempting illegal immigrants from COVID-19 restrictions – while citing testimony from Dr. Anthony Fauci to make his case.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/kN5Se8Q1slE/scalise-biden-administration-exempting-illegal-immigrants-covid-19-restrictions",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/kN5Se8Q1slE/scalise-biden-administration-exempting-illegal-immigrants-covid-19-restrictions",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 142,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/migrant22.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-20T12:18:20-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-21-durbin-wants-more-info-on-trump-appointees-burrowed-into-career-justice-dept-jobs.md",
+      "title": "Durbin wants more info on Trump appointees 'burrowed' into career Justice Dept. jobs",
+      "excerpt": "The Illinois senator, citing NBC News' reporting, requested info on Trump appointees who landed career civil service jobs at the Executive Office of Immigration Review.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/politics-news/durbin-wants-more-info-trump-appointees-burrowed-career-justice-dept-n1264671",
+      "originalUrl": "https://www.nbcnews.com/politics/politics-news/durbin-wants-more-info-trump-appointees-burrowed-career-justice-dept-n1264671",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 128,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media4.s-nbcnews.com/i/newscms/2021_16/3466278/210420-dick-durbin-jm-1306_d00a3138f4489653a7a5e7fcf1f1050f.jpg",
+          "width": 2500,
+          "height": 1666,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1264671",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1264671",
+      "publishedDateTime": "2021-04-20T12:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-21-steve-scalise-says-maxine-waters-wants-violent-protests-trump-urged-peaceful-dc-rally.md",
       "title": "Steve Scalise Says Maxine Waters Wants 'Violent' Protests, Trump Urged Peaceful D.C. Rally",
       "excerpt": "\"I haven't heard Maxine saying anything about people 'peacefully' protesting,\" said Louisiana GOP Rep. Scalise Tuesday.",
@@ -882,430 +1331,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-04-19-biden-rejoining-iran-nuclear-agreement-dangerous-lieberman.md",
-      "title": "Biden rejoining Iran nuclear agreement dangerous: Lieberman",
-      "excerpt": "Former Senator Joe Lieberman (I) provides insight into the possible dangers that can come from U.S.-Iran negotiations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxbusiness.com/politics/biden-lifting-iran-sanctions-could-be-dangerous-for-us-lieberman",
-      "originalUrl": "https://www.foxbusiness.com/politics/biden-lifting-iran-sanctions-could-be-dangerous-for-us-lieberman",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/05f3ddf7-c261-46ea-9295-4bcef6a64fd4/78d4a744-eb4e-48da-9687-b57d8cc43af2/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxbusiness.com/politics/biden-lifting-iran-sanctions-could-be-dangerous-for-us-lieberman.amp",
-      "cdnAmpWebUrl": "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/politics/biden-lifting-iran-sanctions-could-be-dangerous-for-us-lieberman.amp",
-      "publishedDateTime": "2021-04-19T06:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox Business",
-        "domain": "foxbusiness.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-04-19-billboards-troll-warnock-biden-abrams-over-all-star-game-as-poll-says-public-wants-companies-out-of-politics.md",
-      "title": "Billboards troll Warnock, Biden, Abrams over All-Star game as poll says public wants companies out of politics",
-      "excerpt": "Conservatives are doubling down on their attacks against Democrats after Major League Baseball moved its All-Star Game from Atlanta in protest of Georgia's new elections law, arguing \"lies\" about the content of the law led to the decision. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xwIkWPTgtBE/billboards-warnock-biden-abrams-all-star-game",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xwIkWPTgtBE/billboards-warnock-biden-abrams-all-star-game",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/AP21004855298319.jpg",
-          "width": 1024,
-          "height": 713,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-19T04:17:52-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-19-trump-shifts-focus-from-clintons-emails-by-praising-saddam-hussein.md",
-      "title": "Trump shifts focus from Clinton's emails by praising Saddam Hussein",
-      "excerpt": "CBS News' Major Garrett reports on Donald Trump's response to the FBI's decision over the Clinton email case - and his decision to change the subject.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/video/donald-trump-shifts-focus-from-hillary-clintons-emails-by-praising-saddam-hussein/",
-      "originalUrl": "https://www.cbsnews.com/video/donald-trump-shifts-focus-from-hillary-clintons-emails-by-praising-saddam-hussein/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2021/04/19/ab2775b1-3360-4798-84f8-ed746dc34232/thumbnail/1200x630/b39d84bc0b1596ec9484322906eaef9f/cbsn-trump-saddam-0706-1089252-640x360.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-19T02:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-04-19-graham-i-could-not-disagree-more-with-trump-support-of-afghanistan-troop-withdrawal.md",
-      "title": "Graham: 'I could not disagree more' with Trump support of Afghanistan troop withdrawal",
-      "excerpt": "Lindsey Graham (R-S.C.) on Sunday pushed back on former President Trump 's support for removing all troops from Afghanistan, writing on Twitter that he “could not disagree more with former President Trump regarding his support for President Biden ’s withdrawal of all forces from Afghanistan against sound military advice.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/senate/548931-graham-slams-trump-support-for-afghanistan-troop-withdrawal-i-could-not",
-      "originalUrl": "https://thehill.com/homenews/senate/548931-graham-slams-trump-support-for-afghanistan-troop-withdrawal-i-could-not",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/trumpdonald_grahamlindsey_11062019getty.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/senate/548931-graham-slams-trump-support-for-afghanistan-troop-withdrawal-i-could-not?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/548931-graham-slams-trump-support-for-afghanistan-troop-withdrawal-i-could-not?amp",
-      "publishedDateTime": "2021-04-18T20:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-04-19-babylon-bee-editor-in-chief-scolds-samantha-bee-for-pulling-punches-on-biden-blinded-by-your-own-worldview.md",
-      "title": "Babylon Bee editor in chief scolds Samantha Bee for pulling punches on Biden: 'Blinded by your own worldview'",
-      "excerpt": "The editor-in-chief of the popular satirical website The Babylon Bee sounded off at TBS’ far-left \"Full Frontal\" host Samantha Bee over the weekend after she admitted to going easy on President Biden despite years of hard-hitting jokes at the expense of his predecessor.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/babylon-bee-editor-in-chief-scolds-samantha-bee-for-pulling-punches-on-biden-blinded-by-your-own-worldview",
-      "originalUrl": "https://www.foxnews.com/media/babylon-bee-editor-in-chief-scolds-samantha-bee-for-pulling-punches-on-biden-blinded-by-your-own-worldview",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/640/320/Samantha-Bee-628x354.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/babylon-bee-editor-in-chief-scolds-samantha-bee-for-pulling-punches-on-biden-blinded-by-your-own-worldview.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/babylon-bee-editor-in-chief-scolds-samantha-bee-for-pulling-punches-on-biden-blinded-by-your-own-worldview.amp",
-      "publishedDateTime": "2021-04-18T14:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-18-washington-post-trump-installed-nsa-lawyer-resigns-after-being-on-administrative-leave-for-three-months.md",
-      "title": "Washington Post: Trump-installed NSA lawyer resigns after being on administrative leave for three months",
-      "excerpt": "National Security Agency general counsel Michael Ellis, who was installed by Trump officials in the final days of the administration, resigned from his post on Friday after being on administrative leave since the start of the Biden administration, according to The Washington Post.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dUImdq1jD3Y/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dUImdq1jD3Y/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 178,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200213150327-pentagon-building-aerial-file-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/18/politics/michael-ellis-resignation-nsa/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/18/politics/michael-ellis-resignation-nsa/index.html",
-      "publishedDateTime": "2021-04-18T12:18:12-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-18-blinken-says-it-will-be-very-hard-to-meet-bidens-pledge-to-resettle-62000-refugees.md",
-      "title": "Blinken says it will be 'very hard to meet' Biden's pledge to resettle 62,000 refugees",
-      "excerpt": "Secretary of State Antony Blinken on Sunday said it will be \"very hard to meet\" President Biden's pledge to resettle 62,000 refugees by the end of the fiscal year.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/jKS9gTYBmRU/blinken-says-it-will-be-very-hard-to-meet-bidens-pledge-to-resettle-62000-refugees",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/jKS9gTYBmRU/blinken-says-it-will-be-very-hard-to-meet-bidens-pledge-to-resettle-62000-refugees",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/AP21035689362211.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/blinken-says-it-will-be-very-hard-to-meet-bidens-pledge-to-resettle-62000-refugees.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/blinken-says-it-will-be-very-hard-to-meet-bidens-pledge-to-resettle-62000-refugees.amp",
-      "publishedDateTime": "2021-04-18T09:22:19-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-18-gop-white-house-hopefuls-move-forward-as-trump-considers-run.md",
-      "title": "GOP White House hopefuls move forward as Trump considers run",
-      "excerpt": "Donald Trump ended his presidency with such a firm grip on Republican voters that party leaders fretted he would freeze the field of potential 2024 candidates and delay their preparations as he consid",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/gop-white-house-hopefuls-move-forward-as-trump-considers-run/2021/04/18/251a8b9e-a03b-11eb-b314-2e993bd83e31_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/gop-white-house-hopefuls-move-forward-as-trump-considers-run/2021/04/18/251a8b9e-a03b-11eb-b314-2e993bd83e31_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 465,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-          "width": 1484,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/gop-white-house-hopefuls-move-forward-as-trump-considers-run/2021/04/18/251a8b9e-a03b-11eb-b314-2e993bd83e31_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/gop-white-house-hopefuls-move-forward-as-trump-considers-run/2021/04/18/251a8b9e-a03b-11eb-b314-2e993bd83e31_story.html?outputType=amp",
-      "publishedDateTime": "2021-04-18T06:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

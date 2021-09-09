@@ -47,6 +47,20 @@ related:
         width: 792
         height: 545
         isCached: true
+  - title: "California recall vote offers test of Biden political clout"
+    excerpt: "President Joe Biden has been beset by public health, military and climate crises in the past month. Not much time has been left to help fellow Democrat and California Gov."
+    publishedDateTime: 2021-09-08T20:14:00Z
+    webUrl: "https://apnews.com/article/joe-biden-elections-california-health-business-7ca6a0c22fde159de796b16890f126fb"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 105
+    images:
+      - url: "https://storage.googleapis.com/afs-prod/media/5f6019594be444b283cb137d38c6e538/3000.jpeg"
+        width: 3000
+        height: 2000
+        isCached: true
   - title: "Biden administration to increase pay for airport screeners"
     excerpt: "The Biden administration says it is moving to increase the pay and union rights for security screeners at the nation’s airports"
     publishedDateTime: 2021-06-03T22:22:00Z

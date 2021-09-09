@@ -2,6 +2,480 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-08-14-trump-fundraises-off-total-loser-andrew-cuomo-resigning.md",
+      "title": "Trump fundraises off ‘total loser’ Andrew Cuomo resigning",
+      "excerpt": "Former President Donald Trump is fundraising off the resignation of “total loser” and soon-to-be-former New York Gov. Andrew Cuomo.",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/08/13/trump-fundraises-off-total-loser-andrew-cuomo-resigning/",
+      "originalUrl": "https://nypost.com/2021/08/13/trump-fundraises-off-total-loser-andrew-cuomo-resigning/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/08/trump-cuomo.jpg?quality=90&strip=all&w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/08/13/trump-fundraises-off-total-loser-andrew-cuomo-resigning/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/13/trump-fundraises-off-total-loser-andrew-cuomo-resigning/amp/",
+      "publishedDateTime": "2021-08-13T12:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-08-13-gop-demands-biden-administration-act-after-mayorkas-calls-border-crisis-unsustainable.md",
+      "title": "GOP demands Biden administration act after Mayorkas calls border crisis 'unsustainable'",
+      "excerpt": "Top Republicans on Friday called on the Biden administration to act on the crisis at the southern border after leaked audio emerged of Homeland Security Secretary Alejandro Mayorkas calling the situation there \"unsustainable.\"",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/H-vvFhlYDMA/biden-administration-mayorkas-border-republicans-demand-action",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/H-vvFhlYDMA/biden-administration-mayorkas-border-republicans-demand-action",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 187,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/05/340/340/Bill-Melugin.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-administration-mayorkas-border-republicans-demand-action.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-administration-mayorkas-border-republicans-demand-action.amp",
+      "publishedDateTime": "2021-08-13T12:20:17-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-08-13-trump-reinstatement-day-latest-failure-in-predictions-hell-resume-presidency-oust-biden.md",
+      "title": "Trump 'Reinstatement Day' Latest Failure in Predictions He'll Resume Presidency, Oust Biden",
+      "excerpt": "Despite the months-long failed predictions that Trump would be reinstated as president, some supporters of the theory continue to peddle it.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/trump-reinstatement-day-latest-failure-predictions-hell-resume-presidency-oust-biden-1619152",
+      "originalUrl": "https://www.newsweek.com/trump-reinstatement-day-latest-failure-predictions-hell-resume-presidency-oust-biden-1619152",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 1280,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1870140/donald-trump-reinstatement-day-president-mike-lindell.jpg",
+          "width": 2500,
+          "height": 1665,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/trump-reinstatement-day-latest-failure-predictions-hell-resume-presidency-oust-biden-1619152?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-reinstatement-day-latest-failure-predictions-hell-resume-presidency-oust-biden-1619152?amp=1",
+      "publishedDateTime": "2021-08-13T07:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-08-13-desantis-faced-with-covid-surge-urges-floridians-to-use-regeneron-antibody-treatment-given-to-trump.md",
+      "title": "DeSantis, faced with covid surge, urges Floridians to use Regeneron antibody treatment given to Trump",
+      "excerpt": "Ron DeSantis (R) is vowing to begin dispensing Regeneron monoclonal antibodies — the treatment given to President Donald Trump when he had the coronavirus — through mobile clinics amid a record-breaking stretch of new cases and hospitalizations that have ravaged the state.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/2021/08/13/desantis-regeneron-florida-covid-antibodies/",
+      "originalUrl": "https://www.washingtonpost.com/politics/2021/08/13/desantis-regeneron-florida-covid-antibodies/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GPLFBEH3EII6XEI4KJF4RNUPC4.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-13T07:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-08-13-biden-sending-envoy-to-ethiopia-amid-tigray-conflict.md",
+      "title": "Biden sending envoy to Ethiopia amid Tigray conflict",
+      "excerpt": "President Biden is sending his special envoy for the Horn of Africa to Ethiopia amid ongoing fighting in Tigray.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/policy/international/middle-east-north-africa/567714-biden-sending-envoy-to-ethiopia-amid-tigray",
+      "originalUrl": "https://thehill.com/policy/international/middle-east-north-africa/567714-biden-sending-envoy-to-ethiopia-amid-tigray",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/feltmanjeffrey_42321_gettyimages.jpg",
+          "width": 781,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/policy/international/middle-east-north-africa/567714-biden-sending-envoy-to-ethiopia-amid-tigray?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/international/middle-east-north-africa/567714-biden-sending-envoy-to-ethiopia-amid-tigray?amp",
+      "publishedDateTime": "2021-08-13T05:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-08-13-how-the-2020-census-explains-donald-trump.md",
+      "title": "How the 2020 census explains Donald Trump ",
+      "excerpt": "Donald Trump got it.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lvBgHNT3FmE/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lvBgHNT3FmE/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 435,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210811193752-trump-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/08/13/politics/how-the-2020-census-explains-donald-trump/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/13/politics/how-the-2020-census-explains-donald-trump/index.html",
+      "publishedDateTime": "2021-08-13T04:42:16-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-08-13-bad-news-for-trump-adjacent-weirdos-delights-seth-meyers.md",
+      "title": "Bad News for ‘Trump-Adjacent Weirdos’ Delights Seth Meyers",
+      "excerpt": "Meyers enjoyed seeing Mike Lindell get word on camera that a defamation suit against him over his claims of election fraud would proceed.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/08/13/arts/television/seth-myers-mike-lindell.html",
+      "originalUrl": "https://www.nytimes.com/2021/08/13/arts/television/seth-myers-mike-lindell.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/08/13/arts/13latenight/13latenight-facebookJumbo.png",
+          "width": 906,
+          "height": 474,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/08/13/arts/television/seth-myers-mike-lindell.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/08/13/arts/television/seth-myers-mike-lindell.amp.html",
+      "publishedDateTime": "2021-08-12T22:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-08-13-hannity-bidens-america-last-agenda-putting-more-than-just-the-us-at-risk.md",
+      "title": "Hannity: Biden's 'America Last' agenda putting more than just the US at risk",
+      "excerpt": "In his Opening Monologue, “Hannity” host Sean Hannity challenged his audience to name a single positive accomplishment of President Joe Biden or his administration.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/hannity-bidens-america-last-agenda-putting-more-than-just-the-us-at-risk",
+      "originalUrl": "https://www.foxnews.com/media/hannity-bidens-america-last-agenda-putting-more-than-just-the-us-at-risk",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/185932aa-9c11-4fb6-9e1d-3e23afdaf5ab/44a86cbf-ce71-404f-9aff-dc720d727596/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/hannity-bidens-america-last-agenda-putting-more-than-just-the-us-at-risk.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/hannity-bidens-america-last-agenda-putting-more-than-just-the-us-at-risk.amp",
+      "publishedDateTime": "2021-08-12T21:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-08-13-billy-long-touts-trump-ties-during-senate-seat-campaign-rally-in-joplin.md",
+      "title": "Billy Long touts Trump ties during Senate seat campaign rally in Joplin",
+      "excerpt": "Mo., touted his strong friendship with former President Donald Trump during a Thursday morning campaign rally stop at Cunningham Park.",
+      "sourceUrl": null,
+      "webUrl": "https://www.joplinglobe.com/news/billy-long-touts-trump-ties-during-senate-seat-campaign-rally-in-joplin/article_87dc1e7a-fba1-11eb-9adf-0b3478643ab3.html",
+      "originalUrl": "https://www.joplinglobe.com/news/billy-long-touts-trump-ties-during-senate-seat-campaign-rally-in-joplin/article_87dc1e7a-fba1-11eb-9adf-0b3478643ab3.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/1/34/134c0f34-fba6-11eb-b9e6-bf4cfe2dcb45/61157abb2e912.image.jpg?resize=957%2C630",
+          "width": 957,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-12T19:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Joplin Globe",
+        "domain": "joplinglobe.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-08-13-biden-backs-newsom-as-california-recall-election-looms-urges-residents-to-vote-no.md",
       "title": "Biden backs Newsom as California recall election looms, urges residents to 'vote no'",
       "excerpt": "President Joe Biden delivered his strongest endorsement to date for embattled Democratic Gov. Gavin Newsom on Thursday, urging Californians to reject an effort to recall the governor in an upcoming special election.",
@@ -857,466 +1331,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-12-kamala-harris-invites-business-leaders-to-the-white-house-to-discuss-child-care.md",
-      "title": "Kamala Harris invites business leaders to the White House to discuss child care.",
-      "excerpt": "Executives from companies like Airbnb, Chobani, Etsy and Microsoft were invited in an effort to drum up support for a key pillar of President Biden's $3.5 trillion budget.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/08/12/business/kamala-harris-child-care-business.html",
-      "originalUrl": "https://www.nytimes.com/2021/08/12/business/kamala-harris-child-care-business.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 130,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/08/12/business/12econ-brf-whitehouse/12econ-brf-whitehouse-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/08/12/business/kamala-harris-child-care-business.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/08/12/business/kamala-harris-child-care-business.amp.html",
-      "publishedDateTime": "2021-08-12T01:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-12-trump-tax-cuts-saved-bloomberg-68-million-in-just-one-year.md",
-      "title": "Trump Tax Cuts Saved Bloomberg $68 Million in Just One Year",
-      "excerpt": "IRS records obtained by ProPublica show how the Trump tax cuts are a boon for many billionaires — even billionaires who called Trump a “clown.”",
-      "sourceUrl": null,
-      "webUrl": "https://nymag.com/intelligencer/2021/08/trump-tax-cuts-saved-bloomberg-usd68-million-in-just-one-year.html",
-      "originalUrl": "https://nymag.com/intelligencer/2021/08/trump-tax-cuts-saved-bloomberg-usd68-million-in-just-one-year.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://pyxis.nymag.com/v1/imgs/e7a/076/e01d163b08d4050e87e9ebc98d7134e95c-GettyImages-619826792.1x.rsocial.w1200.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nymag.com/intelligencer/amp/2021/08/trump-tax-cuts-saved-bloomberg-usd68-million-in-just-one-year.html",
-      "cdnAmpWebUrl": "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/08/trump-tax-cuts-saved-bloomberg-usd68-million-in-just-one-year.html",
-      "publishedDateTime": "2021-08-12T01:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Magazine",
-        "domain": "nymag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-08-12-joe-biden-put-his-foot-on-the-neck-of-the-energy-industry-now-he-wants-more-oil-salena-zito.md",
-      "title": "Joe Biden 'put his foot on the neck' of the energy industry, now he wants more oil: Salena Zito",
-      "excerpt": "Washington Examiner National Political Reporter Salena Zito criticized Joe Biden Wednesday for calling on OPEC to produce more oil as gas prices soar in the United States, saying what the president is doing is \"befuddling.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/joe-biden-energy-industry-more-oil-salena-zito",
-      "originalUrl": "https://www.foxnews.com/media/joe-biden-energy-industry-more-oil-salena-zito",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b4f279e4-4ad7-4633-9030-97536c831a98/684a0321-1bb5-4bfc-b45e-59a7255a2db1/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/joe-biden-energy-industry-more-oil-salena-zito.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/joe-biden-energy-industry-more-oil-salena-zito.amp",
-      "publishedDateTime": "2021-08-11T22:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-12-wh-reporters-roiled-by-spacing-constraints-excuse-to-limit-access-to-biden-qas.md",
-      "title": "WH reporters roiled by ‘spacing constraints’ excuse to limit access to Biden Q&As",
-      "excerpt": "President Joe Biden’s interactions with reporters in the White House East Room have resembled press conferences but his staff selects which reporters attend, citing “spacing",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/08/11/wh-journos-roiled-by-spacing-constraints-to-biden-pressers/",
-      "originalUrl": "https://nypost.com/2021/08/11/wh-journos-roiled-by-spacing-constraints-to-biden-pressers/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 130,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/08/white-house-reporters-roiled-434.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/08/11/wh-journos-roiled-by-spacing-constraints-to-biden-pressers/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/11/wh-journos-roiled-by-spacing-constraints-to-biden-pressers/amp/",
-      "publishedDateTime": "2021-08-11T16:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-12-for-biden-and-senators-a-sense-that-world-was-watching.md",
-      "title": "For Biden and senators, a sense that 'world was watching'",
-      "excerpt": "Biden recalled infrastructure as “probably the least difficult thing to do” when he was a senator — became an exercise in showing how damaged the legislative process has become in partisan Washington and how a president and core group of senators were determined to try to fix it.",
-      "sourceUrl": null,
-      "webUrl": "https://www.lmtonline.com/news/article/For-Biden-and-senators-a-sense-that-world-was-16378709.php",
-      "originalUrl": "https://www.lmtonline.com/news/article/For-Biden-and-senators-a-sense-that-world-was-16378709.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
-          "width": 600,
-          "height": 336,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.lmtonline.com/news/amp/For-Biden-and-senators-a-sense-that-world-was-16378709.php",
-      "cdnAmpWebUrl": "https://www-lmtonline-com.cdn.ampproject.org/c/s/www.lmtonline.com/news/amp/For-Biden-and-senators-a-sense-that-world-was-16378709.php",
-      "publishedDateTime": "2021-08-11T14:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Laredo Morning Times",
-        "domain": "lmtonline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-08-12-trump-gop-slam-dems-35t-budget-as-communist-plan-to-destroy-us.md",
-      "title": "Trump, GOP slam Dems’ $3.5T budget as ‘Communist plan to destroy’ US",
-      "excerpt": "Former President Donald Trump led the Republican criticism after a 15-hour “vote-a-rama” overnight that saw senators pass the $3.5 trillion budget reconciliation package.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/08/11/trump-gop-slam-dems-3-5t-budget-as-communist-plan-to-destroy-us/",
-      "originalUrl": "https://nypost.com/2021/08/11/trump-gop-slam-dems-3-5t-budget-as-communist-plan-to-destroy-us/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/08/gop-oppose-infrastructure.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/08/11/trump-gop-slam-dems-3-5t-budget-as-communist-plan-to-destroy-us/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/11/trump-gop-slam-dems-3-5t-budget-as-communist-plan-to-destroy-us/amp/",
-      "publishedDateTime": "2021-08-11T13:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-11-trump-accountants-must-turn-over-some-tax-records-to-house-panel-federal-judge-rules.md",
-      "title": "Trump accountants must turn over some tax records to House panel, federal judge rules",
-      "excerpt": "A federal judge has ruled that multiple tax records belonging to former President Donald Trump must be turned over to Congress.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5RzIk2_w87Y/trump-accountants-must-turn-over-some-tax-records-to-house-panel-federal-judge-rules",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5RzIk2_w87Y/trump-accountants-must-turn-over-some-tax-records-to-house-panel-federal-judge-rules",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 188,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/990505083001/40a63b4a-2e83-40cb-b3dc-bc01851d10f2/18d62644-0518-41b0-afc0-9ff5e6483fb7/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-accountants-must-turn-over-some-tax-records-to-house-panel-federal-judge-rules.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-accountants-must-turn-over-some-tax-records-to-house-panel-federal-judge-rules.amp",
-      "publishedDateTime": "2021-08-11T13:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-11-house-democrats-can-get-some-of-trumps-tax-records-from-accounting-firm-mazars-usa-judge-rules.md",
-      "title": "House Democrats can get some of Trump's tax records from accounting firm Mazars USA, judge rules",
-      "excerpt": "The US House should be able to access some of Donald Trump's tax records through a subpoena to his accounting firm Mazars USA, a federal judge in Washington, DC, ruled on Wednesday.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vlKMb7vCRLE/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vlKMb7vCRLE/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 162,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210211173410-107-trump-impeachment-centered-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/08/11/politics/trump-taxes-mazars-house-democrats/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/11/politics/trump-taxes-mazars-house-democrats/index.html",
-      "publishedDateTime": "2021-08-11T10:12:19-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-11-donald-trump-calls-35t-budget-plan-assault-on-our-nation-after-measure-clears-senate.md",
-      "title": "Donald Trump Calls $3.5T Budget Plan 'Assault on Our Nation' After Measure Clears Senate",
-      "excerpt": "Former President Donald Trump said Americans are being \"robbed\" after the Democrats' $3.5 trillion budget plan \"Good morning, America!",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/donald-trump-calls-35t-budget-plan-assault-our-nation-after-measure-clears-senate-1618410",
-      "originalUrl": "https://www.newsweek.com/donald-trump-calls-35t-budget-plan-assault-our-nation-after-measure-clears-senate-1618410",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1868613/trump-slams-35t-budget-plan.jpg",
-          "width": 2500,
-          "height": 1665,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/donald-trump-calls-35t-budget-plan-assault-our-nation-after-measure-clears-senate-1618410?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-calls-35t-budget-plan-assault-our-nation-after-measure-clears-senate-1618410?amp=1",
-      "publishedDateTime": "2021-08-11T08:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

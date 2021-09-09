@@ -2,6 +2,115 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-07-08-lara-trump-crt-teaches-us-to-judge-people-on-the-color-of-their-skin.md",
+      "title": "Lara Trump: CRT teaches us to 'judge people on the color of their skin'",
+      "excerpt": "Fox News contributor Lara Trump joined “Fox & Friends” Thursday, suggesting that critical race theory is teaching children to “judge people on the color of their skin” and stating it’s “dead wrong.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/lara-trump-crt-teaches-people-to-judge-people-on-skin-color",
+      "originalUrl": "https://www.foxnews.com/media/lara-trump-crt-teaches-people-to-judge-people-on-skin-color",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e2858645-f93e-4a1b-896c-77c9788113ae/8fdd5859-d6bc-4c75-8698-a5c38e1fe80f/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/lara-trump-crt-teaches-people-to-judge-people-on-skin-color.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/lara-trump-crt-teaches-people-to-judge-people-on-skin-color.amp",
+      "publishedDateTime": "2021-07-08T07:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-08-trump-got-distracted-by-the-word-nuclear-during-a-bizarre-press-conference-about-his-latest-lawsuit.md",
+      "title": "Trump got distracted by the word 'nuclear' during a bizarre press conference about his latest lawsuit",
+      "excerpt": "\"We don't use the word 'nuclear.' I never used it, okay? I never used it ... That's called disinformation,\" he said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/video-donald-trump-nuclear-at-press-conference-2021-7",
+      "originalUrl": "https://www.businessinsider.com/video-donald-trump-nuclear-at-press-conference-2021-7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 130,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/60e6f5c4c03e9c0018ab26cd?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/video-donald-trump-nuclear-at-press-conference-2021-7?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/video-donald-trump-nuclear-at-press-conference-2021-7?amp",
+      "publishedDateTime": "2021-07-08T06:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-07-08-mark-zuckerberg-and-sheryl-sandbergs-partnership-did-not-survive-trump.md",
       "title": "Mark Zuckerberg and Sheryl Sandberg’s Partnership Did Not Survive Trump",
       "excerpt": "The company they built is wildly successful. But her Washington wisdom didn’t hold up, and neither did their close working relationship.",
@@ -1423,110 +1532,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-03-absolutely-no-doubt-donald-trump-is-running-for-president-again-says-steve-bannon.md",
-      "title": "'Absolutely No Doubt' Donald Trump Is Running for President Again, Says Steve Bannon",
-      "excerpt": "\"The MAGA movement, the America First movement is more engaged, more energized,\" said the former Trump administration official.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/absolutely-no-doubt-donald-trump-running-president-again-says-steve-bannon-1606640",
-      "originalUrl": "https://www.newsweek.com/absolutely-no-doubt-donald-trump-running-president-again-says-steve-bannon-1606640",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1837346/trump-bannon.jpg",
-          "width": 1024,
-          "height": 692,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/absolutely-no-doubt-donald-trump-running-president-again-says-steve-bannon-1606640?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/absolutely-no-doubt-donald-trump-running-president-again-says-steve-bannon-1606640?amp=1",
-      "publishedDateTime": "2021-07-03T07:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-03-we-need-you-to-stop-the-counting-records-detail-intense-efforts-by-trump-allies-to-pressure-maricopa-county-supervisors.md",
-      "title": "'We need you to stop the counting': Records detail intense efforts by Trump allies to pressure Maricopa County supervisors",
-      "excerpt": "New records reveal the behind-the scenes efforts by Trump, Rudy Giuliani, and state GOP Chair Kelli Ward to pressure Maricopa County supervisors.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2021/07/03/records-show-trump-allies-kelli-ward-rudy-giuliani-pressured-county-officials-over-election-results/7846142002/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/07/03/records-show-trump-allies-kelli-ward-rudy-giuliani-pressured-county-officials-over-election-results/7846142002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/07/02/PPHX/b5ce0a59-1524-4572-81df-369ffbbee0f9-Donald_Trump_Kelli_Ward_Rudy_Giuliani.jpg?auto=webp&crop=1849,1040,x0,y102&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/7846142002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7846142002",
-      "publishedDateTime": "2021-07-03T04:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

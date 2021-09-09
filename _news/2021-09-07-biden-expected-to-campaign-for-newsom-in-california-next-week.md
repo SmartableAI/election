@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/administration/571071-biden-expected-to
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/571071-biden-expected-to-campaign-for-newsom-in-california-next-week?amp"
 type: article
 quality: 125
-heat: 265
+heat: 285
 published: true
 
 provider:
@@ -129,6 +129,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "U.S. VP Harris Rallies for California Governor Facing Recall"
+    excerpt: "U.S. Vice President Kamala Harris speaks during an appearance with California Governor Gavin Newsom, who is facing a Republican-led recall election in September, in San Leandro, California, U.S., September 8,"
+    publishedDateTime: 2021-09-08T20:48:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-09-08/us-vp-harris-rallies-for-california-governor-facing-recall"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "Gb7E2p91a19FY4//EqDoMlVvl/owD9Sgs0LN2t1AfXz6c4Ko9YytMsYAYeylT5ItWeAqsyHrBitZ3rf582HJ+oh9ps72WEhFlhTFM6HEd2EkXAqu1nDWQZNBQRQSLwFgl0C04LXftk3F9A3FJXjN9RcruXIDsHjmBPzo7QSEhg9KSHCpeu1dG6zpFqQaG6s88SdcLSmH2yGazNE4njHA6uUiP4s0xDL5sL7N+GnbuUeCl+kRkYthYaLlrRKym3XeQQKS99vtI0lny9qQPk4GZUceNH3/b1oT2Q0denfrXZVMvBwwZrfLAejfmZlAuqzKHwq9zEHE1le1G1mYHpC6D9lHmd87pH/LMRw6cRWAmws=;4PPrOmokuBenZMaVzlDD3A=="
 ---

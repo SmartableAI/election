@@ -57,20 +57,6 @@ related:
         width: 636
         height: 382
         isCached: true
-  - title: "This simple advice from Kamala Harris will make you a better public speaker"
-    excerpt: "The vice president has, several times, offered smart, assuring words to nervous workers and students that this communications coach says are spot-on."
-    publishedDateTime: 2021-09-03T14:00:00Z
-    webUrl: "https://www.fastcompany.com/90670190/this-simple-advice-from-kamala-harris-will-make-you-a-better-public-speaker"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 53
-    images:
-      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2021/09/p-1-this-simple-advice-from-kamala-harris-will-make-you-a-better-public-speaker.png"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "lZNQJGfcNinxRybCZ/91L8OKbnoD+ZZMoPpc3+mRR7KCYeEtjiRlwG7T7EZJXfd/lAsePWsHackjureRq8HHQxqaHbMkbxxCPu2YpnbloOIv34HjLslHttd73y49fLsMKPDvTWUzCAq/i2+iOQ426vYu3Ak6ivB8QLJHt2XvNq1wBMFTCyMWFvVUshRYB95Ah8wRYK01UsLwu2cysM8DkNI3fik7K2N0zO+AyccOixf57r2dFUIPzQce4gl8YUQyaHbxIzifvaClfwbWAkEfOl3RG4alpkFoOi2T0nnZTji15R3AV8EKNsX1aXFHpCwQBRt9aY+pHHyXBySbZGltsJS+Ebyfas2GhC+tkWbFLxY=;PaLLVmu/sNNwFuO8KCzB0w=="
 ---

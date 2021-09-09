@@ -2,6 +2,436 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2021-07-08-biden-changes-end-of-us-combat-mission-in-afghanistan-from-sept-11-to-aug-31.md",
+      "title": "Biden changes end of US combat mission in Afghanistan from Sept. 11 to Aug. 31",
+      "excerpt": "President Biden said U.S. troops will be out of Afghanistan sooner than his original Sept. 11 deadline, telling reporters Thursday U.S. forces will be home by Aug. 31. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/EbsmBJ_ceLE/biden-says-us-troops-will-be-out-of-afghanistan-by-august-31",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/EbsmBJ_ceLE/biden-says-us-troops-will-be-out-of-afghanistan-by-august-31",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 311,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/acfb444c-f839-4c69-9029-ea908694714b/298a5022-2e4c-40df-961e-d32a669c44c5/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-says-us-troops-will-be-out-of-afghanistan-by-august-31.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-says-us-troops-will-be-out-of-afghanistan-by-august-31.amp",
+      "publishedDateTime": "2021-07-08T11:41:26-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-09-trump-cia-chief-joins-king-spaldings-bench-of-us-agency-alums.md",
+      "title": "Trump CIA chief joins King & Spalding's bench of U.S. agency alums",
+      "excerpt": "King & Spalding continues to build up its ranks of former federal government officials, announcing Thursday that it has added former U.S. Central Intelligence Agency director Gina Haspel to its national security team in Washington,",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-industry-move-haspel/trump-cia-chief-joins-king-spaldings-bench-of-us-agency-alums-idUSKCN2EE28H",
+      "originalUrl": "https://www.reuters.com/article/us-industry-move-haspel/trump-cia-chief-joins-king-spaldings-bench-of-us-agency-alums-idUSKCN2EE28H",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/VPveDUxvYcx87z4iq_A_5QXttt8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/CGYQRWMDVBKW3IBFDGO2AUOBZI.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-08T10:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-07-08-hannity-biden-called-georgia-voter-law-jim-crow-but-heres-the-truth-about-his-home-state.md",
+      "title": "Hannity: Biden called Georgia voter law 'Jim Crow' but here's the truth about his home state",
+      "excerpt": "Sean Hannity, host of \"Hannity,\" slammed President Joe Biden and the left for now supporting a push for voter ID laws. Hannity pointed out Wednesday that if Democrats want to be taken seriously, then Democrat-run states such as Delaware,",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/hannity-biden-delaware-democrats-voter-restrictions",
+      "originalUrl": "https://www.foxnews.com/media/hannity-biden-delaware-democrats-voter-restrictions",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/hannity-biden-delaware-democrats-voter-restrictions.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/hannity-biden-delaware-democrats-voter-restrictions.amp",
+      "publishedDateTime": "2021-07-08T09:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-08-lara-trump-crt-teaches-us-to-judge-people-on-the-color-of-their-skin.md",
+      "title": "Lara Trump: CRT teaches us to 'judge people on the color of their skin'",
+      "excerpt": "Fox News contributor Lara Trump joined “Fox & Friends” Thursday, suggesting that critical race theory is teaching children to “judge people on the color of their skin” and stating it’s “dead wrong.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/lara-trump-crt-teaches-people-to-judge-people-on-skin-color",
+      "originalUrl": "https://www.foxnews.com/media/lara-trump-crt-teaches-people-to-judge-people-on-skin-color",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e2858645-f93e-4a1b-896c-77c9788113ae/8fdd5859-d6bc-4c75-8698-a5c38e1fe80f/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/lara-trump-crt-teaches-people-to-judge-people-on-skin-color.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/lara-trump-crt-teaches-people-to-judge-people-on-skin-color.amp",
+      "publishedDateTime": "2021-07-08T07:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-08-fact-check-photo-does-not-show-biden-kneeling-before-israeli-president-pledging-support.md",
+      "title": "Fact Check-Photo does not show Biden kneeling before Israeli President ‘pledging support’",
+      "excerpt": "A picture of U.S. President Joe Biden kneeling in front of outgoing Israeli President Reuven Rivlin and his chief of staff Rivka Ravitz has been mislabeled online. Some posts and articles have wrongly said he adopted the pose to “pledge unconditional support to",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/factcheck-biden-rivlin-idUSL2N2OK1CG",
+      "originalUrl": "https://www.reuters.com/article/factcheck-biden-rivlin-idUSL2N2OK1CG",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL2N2OK1CG",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL2N2OK1CG",
+      "publishedDateTime": "2021-07-08T06:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-07-08-trump-got-distracted-by-the-word-nuclear-during-a-bizarre-press-conference-about-his-latest-lawsuit.md",
+      "title": "Trump got distracted by the word 'nuclear' during a bizarre press conference about his latest lawsuit",
+      "excerpt": "\"We don't use the word 'nuclear.' I never used it, okay? I never used it ... That's called disinformation,\" he said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/video-donald-trump-nuclear-at-press-conference-2021-7",
+      "originalUrl": "https://www.businessinsider.com/video-donald-trump-nuclear-at-press-conference-2021-7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 130,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/60e6f5c4c03e9c0018ab26cd?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/video-donald-trump-nuclear-at-press-conference-2021-7?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/video-donald-trump-nuclear-at-press-conference-2021-7?amp",
+      "publishedDateTime": "2021-07-08T06:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-07-08-biden-to-speak-on-afghanistan-amid-us-troop-withdrawal-and-taliban-gains.md",
+      "title": "Biden to speak on Afghanistan amid US troop withdrawal and Taliban gains",
+      "excerpt": "President Joe Biden will receive an update Thursday on the swiftly concluding war in Afghanistan, where a near-complete withdrawal of American troops is coinciding with major Taliban gains.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Xcs9xcRkeaM/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Xcs9xcRkeaM/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 294,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210705123635-03-bagram-air-base-0705-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/08/politics/biden-afghanistan-speech/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/08/politics/biden-afghanistan-speech/index.html",
+      "publishedDateTime": "2021-07-08T04:34:13-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-08-mark-zuckerberg-and-sheryl-sandbergs-partnership-did-not-survive-trump.md",
+      "title": "Mark Zuckerberg and Sheryl Sandberg’s Partnership Did Not Survive Trump",
+      "excerpt": "The company they built is wildly successful. But her Washington wisdom didn’t hold up, and neither did their close working relationship.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/07/08/business/mark-zuckerberg-sheryl-sandberg-facebook.html",
+      "originalUrl": "https://www.nytimes.com/2021/07/08/business/mark-zuckerberg-sheryl-sandberg-facebook.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/07/08/business/08facebook-web-illo/08facebook-web-illo-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/07/08/business/mark-zuckerberg-sheryl-sandberg-facebook.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/08/business/mark-zuckerberg-sheryl-sandberg-facebook.amp.html",
+      "publishedDateTime": "2021-07-08T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-08-melania-trump-spotted-in-nyc-despite-efforts-to-avoid-being-photographed.md",
       "title": "Melania Trump Spotted In NYC Despite Efforts To Avoid Being Photographed",
       "excerpt": "Melania Trump was spotted in New York City for the first time since the Trumps left the White House in January.",
@@ -893,431 +1323,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-07-in-illinois-biden-to-push-money-for-families-and-child-care.md",
-      "title": "In Illinois, Biden to push money for families and child care",
-      "excerpt": "President Joe Biden is turning his focus to pitching his proposed investments in families and education, using a visit to a community college in a key Illinois swing district to highlight how his spending on so-called human infrastructure would boost the economy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/in-illinois-biden-to-push-money-for-families-and-child-care/2021/07/07/751e9afc-df03-11eb-a27f-8b294930e95b_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/in-illinois-biden-to-push-money-for-families-and-child-care/2021/07/07/751e9afc-df03-11eb-a27f-8b294930e95b_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 365,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ODUJAZG7AMI6XIT7RMUUSMHJLM.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/in-illinois-biden-to-push-money-for-families-and-child-care/2021/07/07/751e9afc-df03-11eb-a27f-8b294930e95b_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/in-illinois-biden-to-push-money-for-families-and-child-care/2021/07/07/751e9afc-df03-11eb-a27f-8b294930e95b_story.html?outputType=amp",
-      "publishedDateTime": "2021-07-07T01:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-07-07-lindsey-graham-amazed-at-how-badly-bidens-first-six-months-have-been.md",
-      "title": "Lindsey Graham 'amazed at how badly' Biden's first six months have been",
-      "excerpt": "South Carolina Sen. Lindsey Graham told reporters Tuesday he was “amazed at how badly” the first six months of the Biden administration has been for the U.S.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/qRu39j-uavk/lindsey-graham-amazed-at-how-badly-bidens-first-six-months-have-been",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/qRu39j-uavk/lindsey-graham-amazed-at-how-badly-bidens-first-six-months-have-been",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d0d8d343-77f3-4ad6-bd1a-c04ecad07862/2046e61b-479e-43b3-bf29-896fac829fb1/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/lindsey-graham-amazed-at-how-badly-bidens-first-six-months-have-been.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lindsey-graham-amazed-at-how-badly-bidens-first-six-months-have-been.amp",
-      "publishedDateTime": "2021-07-06T18:15:50-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-07-biden-says-democracy-did-prevail-on-six-month-anniversary-of-capitol-riots.md",
-      "title": "Biden Says 'Democracy Did Prevail' On Six-Month Anniversary of Capitol Riots",
-      "excerpt": "Democratic President Joe Biden issued a statement on the six-month anniversary of the January 6 Capitol riots. In the statement he said that \"democracy did prevail.\" \"While it shocked and saddened the nation and the world,",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/biden-says-democracy-did-prevail-six-month-anniversary-capitol-riots-1607364",
-      "originalUrl": "https://www.newsweek.com/biden-says-democracy-did-prevail-six-month-anniversary-capitol-riots-1607364",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 142,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1838952/joe-biden-capitol-riots-statement-democracy-prevailed.jpg",
-          "width": 3337,
-          "height": 2500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/biden-says-democracy-did-prevail-six-month-anniversary-capitol-riots-1607364?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/biden-says-democracy-did-prevail-six-month-anniversary-capitol-riots-1607364?amp=1",
-      "publishedDateTime": "2021-07-06T16:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-07-06-biden-and-harris-to-focus-on-voting-rights-thursday-expand-dnc-program.md",
-      "title": "Biden and Harris to focus on voting rights Thursday, expand DNC program ",
-      "excerpt": "President Joe Biden and Vice President Kamala Harris will hold separate events Thursday to focus attention on Democratic efforts to combat voter suppression and protect voting rights nationwide, Democratic officials tell CNN.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Ea4SvK5UNG4/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Ea4SvK5UNG4/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 399,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210624141126-01-biden-infrastructure-0624-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/06/politics/voting-rights-biden-harris/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/06/politics/voting-rights-biden-harris/index.html",
-      "publishedDateTime": "2021-07-06T15:54:05-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-07-07-hillicon-valley-biden-to-confront-cyberattacks-following-kaseya-attack-jedi-contract-axed-tech-giants-warn-hong-kong.md",
-      "title": "Hillicon Valley: Biden to confront cyberattacks following Kaseya attack | JEDI contract axed | Tech giants warn Hong Kong",
-      "excerpt": "Welcome to Hillicon Valley, The Hill's newsletter detailing all you need to know about the tech and cyber news from Capitol Hill to Silicon Valley.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/policy/technology/overnights/561757-hillicon-valley-biden-to-engage-on-cyberattacks-following-kayesa",
-      "originalUrl": "https://thehill.com/policy/technology/overnights/561757-hillicon-valley-biden-to-engage-on-cyberattacks-following-kayesa",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/psakijen_05172021getty.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/policy/technology/overnights/561757-hillicon-valley-biden-to-engage-on-cyberattacks-following-kayesa?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/overnights/561757-hillicon-valley-biden-to-engage-on-cyberattacks-following-kayesa?amp",
-      "publishedDateTime": "2021-07-06T14:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-07-07-pentagon-undoes-trumps-10b-deal-with-microsoft.md",
-      "title": "Pentagon undoes Trump's $10B deal with Microsoft",
-      "excerpt": "The U.S. Defense Department canceled its $10 billion JEDI cloud-computing project on Tuesday, pulling the Trump-era award to Microsoft Corp and announcing a new contract that pits the big software firm against rival Amazon.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/video/watch/idP6uN?now=true",
-      "originalUrl": "https://www.reuters.com/video/watch/idP6uN?now=true",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ajo.prod.reuters.tv/api/v2/img/60e4b707e4b0653eea188b5e-1625601799258?location=LANDSCAPE",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-06T13:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-07-biden-ransomware-attack-caused-minimal-damage.md",
-      "title": "Biden: Ransomware attack 'caused minimal damage'",
-      "excerpt": "President Joe Biden says the latest ransomware attack on Miami-based software company Kaseya \"caused minimal damage\" to U.S. businesses but information is still being gathered. Thousands of victims have been identified in at least 17 countries.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/videos/news/nation/2021/07/06/biden-ransomware-attack-caused-minimal-damage/7880040002/",
-      "originalUrl": "https://www.usatoday.com/videos/news/nation/2021/07/06/biden-ransomware-attack-caused-minimal-damage/7880040002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/authoring/video-thumbnails/9cd6610d-90cf-4dcd-8dda-d3a7e25189a9_poster.jpg?quality=10",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-06T13:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-07-07-bidens-education-dept-just-hired-elizabeth-warrens-student-loans-expert-who-studied-predatory-lending-at-harvard.md",
-      "title": "Biden's Education Dept. just hired Elizabeth Warren's student-loans expert, who studied predatory lending at Harvard",
-      "excerpt": "Warren cited Toby Merrill's research, from Harvard's Project of Predatory Student Lending, that Biden has the legal authority to cancel student debt.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/biden-education-department-toby-merrill-predatory-student-loans-elizabeth-warren-2021-7",
-      "originalUrl": "https://www.businessinsider.com/biden-education-department-toby-merrill-predatory-student-loans-elizabeth-warren-2021-7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/60e4a94022d19400191c93fc?width=750&format=jpeg&auto=webp",
-          "width": 750,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/biden-education-department-toby-merrill-predatory-student-loans-elizabeth-warren-2021-7?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-education-department-toby-merrill-predatory-student-loans-elizabeth-warren-2021-7?amp",
-      "publishedDateTime": "2021-07-06T12:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

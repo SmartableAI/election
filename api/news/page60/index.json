@@ -2,6 +2,430 @@
   "page": 60,
   "value": [
     {
+      "path": "_news/2021-05-05-biden-getting-vaccinated-a-matter-of-life-and-death.md",
+      "title": "Biden: Getting vaccinated a matter of 'life and death'",
+      "excerpt": "Getting vaccinated a matter of 'life and death' Posted . U.S. President Joe Biden on Tuesday urged all adult Americans to get vaccinated as soon as possible, annou",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/video/watch/idOVEBJXVJ3",
+      "originalUrl": "https://www.reuters.com/video/watch/idOVEBJXVJ3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.reuters.com/resources/r/?d=20210504&i=OVEBJXVJ3&r=OVEBJXVJ3&t=2",
+          "width": 960,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-04T15:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-05-04-biden-thanks-conservatives-like-mcconnell-for-pushing-vaccines.md",
+      "title": "Biden thanks 'conservatives' like McConnell for pushing vaccines",
+      "excerpt": "President Biden thanked Republicans pushing vaccination in a Covid-19 briefing Tuesday, specifically citing Sen. Minority Leader Mitch McConnell, R-Ky.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vBGLv4Xgx4w/biden-thanks-conservatives-mcconnell-pushing-vaccines",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vBGLv4Xgx4w/biden-thanks-conservatives-mcconnell-pushing-vaccines",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 255,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/720/405/Biden-1.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-thanks-conservatives-mcconnell-pushing-vaccines.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-thanks-conservatives-mcconnell-pushing-vaccines.amp",
+      "publishedDateTime": "2021-05-04T14:12:41-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-04-biden-says-his-hope-and-expectation-is-to-meet-putin-on-upcoming-europe-trip.md",
+      "title": "Biden says his 'hope and expectation' is to meet Putin on upcoming Europe trip",
+      "excerpt": "President Joe Biden said Tuesday it is his \"hope and expectation\" to meet with his Russian counterpart during a planned visit to Europe in June, a high-stakes diplomatic encounter he hopes can restore a degree of predictability to an increasingly fraught relationship.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ZSr-NF7oZUI/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ZSr-NF7oZUI/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 171,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201215031414-putin-biden-split-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/04/politics/putin-biden-summit/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/04/politics/putin-biden-summit/index.html",
+      "publishedDateTime": "2021-05-04T13:50:03-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-05-morning-mail-gps-grapple-with-vaccine-shortfalls-pfizers-34bn-revenue-giant-joe-biden.md",
+      "title": "Morning mail: GPs grapple with vaccine shortfalls, Pfizer’s $34bn revenue, giant Joe Biden",
+      "excerpt": "Australian doctors are still struggling to get Covid vaccines. Plus: the photography trick that made the US leader larger than life",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/australia-news/2021/may/05/morning-mail-gps-grapple-with-vaccine-shortfalls-pfizers-34bn-revenue-giant-joe-biden",
+      "originalUrl": "https://www.theguardian.com/australia-news/2021/may/05/morning-mail-gps-grapple-with-vaccine-shortfalls-pfizers-34bn-revenue-giant-joe-biden",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/532dcbbd3ba10618ecd7d39f466855e16f782623/0_111_4225_2535/master/4225.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e282f587de85e8d9b15597df917cf9e9",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-04T12:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-05-04-texas-house-candidate-susan-wright-spotlights-late-husbands-legacy-trumps-support-in-runoff.md",
+      "title": "Texas House candidate Susan Wright spotlights late husband's legacy, Trump's support, in runoff",
+      "excerpt": "Susan Wright says her late husband always took his constituents' concerns to Washington and “that’s the legacy I want to continue.” Rep. Ron Wright died from COVID-19 in February and his widow, a longtime GOP activist, came in first in a field of 23 candidates this past weekend in a special election",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/VigjYkm43L4/texas-house-runoff-susan-wright-husband-legacy-trump-support",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/VigjYkm43L4/texas-house-runoff-susan-wright-husband-legacy-trump-support",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 143,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-04T12:19:40-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-04-biden-expected-to-speak-on-shift-in-us-vaccine-distribution-strategy-live.md",
+      "title": "Biden expected to speak on shift in US vaccine distribution strategy – live",
+      "excerpt": "White House reportedly to deliver unused doses to other states as part of ‘use it or lose it’ strategy – follow all the day’s politics news",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/live/2021/may/04/joe-biden-coronavirus-covid-fda-pfizer-politics-washington-live-latest?page=with:block-60916c278f08235e51f1e2ec",
+      "originalUrl": "https://www.theguardian.com/us-news/live/2021/may/04/joe-biden-coronavirus-covid-fda-pfizer-politics-washington-live-latest?page=with:block-60916c278f08235e51f1e2ec",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 183,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/cca8fd69fd929c563cf5d0423303d1d11a51c924/0_206_3900_2340/master/3900.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=1055a8a67a46d0831699cf04c784163a",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2021/may/04/joe-biden-coronavirus-covid-fda-pfizer-politics-washington-live-latest",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/may/04/joe-biden-coronavirus-covid-fda-pfizer-politics-washington-live-latest",
+      "publishedDateTime": "2021-05-04T08:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-05-04-will-trump-be-allowed-back-on-facebook-this-board-will-decide.md",
+      "title": "Will Trump be allowed back on Facebook? This board will decide",
+      "excerpt": "The former president had his Facebook account cut off after the insurrection. But on Wednesday, Facebook's new oversight board will announce if he'll be allowed to use the platform again.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/videos/business/2021/05/04/facebook-oversight-board-trump-decision-orig.cnn-business",
+      "originalUrl": "https://www.cnn.com/videos/business/2021/05/04/facebook-oversight-board-trump-decision-orig.cnn-business",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 215,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200717085352-zuckerberg-trump-split-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/videos/business/2021/05/04/facebook-oversight-board-trump-decision-orig.cnn-business",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/business/2021/05/04/facebook-oversight-board-trump-decision-orig.cnn-business",
+      "publishedDateTime": "2021-05-04T03:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-04-facebook-and-trump-are-at-a-turning-point-in-their-long-tortured-relationship.md",
+      "title": "Facebook and Trump are at a turning point in their long, tortured relationship",
+      "excerpt": "Facebook’s decision to outsource the future of Trump’s account to an independent Oversight Board stems from a tortured relationship with the former president. It could also set a precedent on how social media companies handle politicians and on how they will balance free speech and harm.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/technology/2021/05/04/trump-facebook-relationship-history/",
+      "originalUrl": "https://www.washingtonpost.com/technology/2021/05/04/trump-facebook-relationship-history/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 321,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SUC6YBUU2II6XKW4V54HAGRQZI.jpg&w=1440",
+          "width": 1440,
+          "height": 901,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/technology/2021/05/04/trump-facebook-relationship-history/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2021/05/04/trump-facebook-relationship-history/?outputType=amp",
+      "publishedDateTime": "2021-05-04T03:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-05-04-joe-biden-raises-trump-refugee-cap-after-backlash.md",
       "title": "Joe Biden raises Trump refugee cap after backlash",
       "excerpt": "President Joe Biden has lifted the US annual refugee cap, bowing to backlash from his party after he initially opted to stick by the Trump-era figure. The Democratic president is raising the cap from 15,",
@@ -10,7 +434,7 @@
       "originalUrl": "https://www.bbc.com/news/world-us-canada-56975402?at_custom2=twitter&at_custom4=477B3168-AC50-11EB-951B-FFBD4744363C&at_custom1=%5Bpost+type%5D&at_campaign=64&at_medium=custom7",
       "featuredContent": null,
       "highlight": null,
-      "heat": 4030,
+      "heat": 4070,
       "tags": null,
       "images": [
         {
@@ -115,7 +539,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/ap-fact-check-biden-overstates-how-many-americans-immunized/2021/05/03/fd4ef206-ac5d-11eb-82c1-896aca955bb9_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 385,
+      "heat": 425,
       "tags": null,
       "images": [
         {
@@ -897,435 +1321,6 @@
         "Election",
         "Joe Biden",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-02-biden-adviser-president-didnt-say-absolutely-open-schools-in-fall-because-virus-is-unpredictable.md",
-      "title": "Biden adviser: President didn't say 'absolutely' open schools in fall because virus is unpredictable",
-      "excerpt": "President Joe Biden hasn't committed to K-12 schools reopening full-time and in-person in the fall, one of his senior advisers said Sunday, because the coronavirus remains unpredictable.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FGS6mRLqPwU/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FGS6mRLqPwU/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 160,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210502092834-screengrab-anita-dunn-cnn-0502-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/02/politics/anita-dunn-schools-reopen-biden-cnntv/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/02/politics/anita-dunn-schools-reopen-biden-cnntv/index.html",
-      "publishedDateTime": "2021-05-02T07:27:35-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-02-us-bus-companies-are-poised-to-reap-the-rewards-of-joe-bidens-174-billion-ev-plan-if-they-can-crack-3-key-challenges.md",
-      "title": "US bus companies are poised to reap the rewards of Joe Biden's $174 billion EV plan — if they can crack 3 key challenges",
-      "excerpt": "Few industries were hit harder by the COVID-19 pandemic than bus companies, but White House plans for electrification could cause it to boom.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/6-bus-companies-benefit-from-bidens-174-billion-ev-plan-2021-5",
-      "originalUrl": "https://www.businessinsider.com/6-bus-companies-benefit-from-bidens-174-billion-ev-plan-2021-5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/608c541335c46f0018c0bb06?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-02T04:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-05-02-janet-yellen-says-critics-of-bidens-tax-hikes-are-asking-the-wrong-question.md",
-      "title": "Janet Yellen says critics of Biden's tax hikes are asking the wrong question  ",
-      "excerpt": "Doctors follow the Hippocratic oath: do no harm. The architects of President Joe Biden's tax increases took a somewhat different approach.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ULQQIWvOXv8/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ULQQIWvOXv8/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 191,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200113043352-janet-yellen-file-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/02/politics/janet-yellen-biden-tax-hikes/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/02/politics/janet-yellen-biden-tax-hikes/index.html",
-      "publishedDateTime": "2021-05-02T04:06:47-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-02-nkorea-warns-us-of-very-grave-situation-over-biden-speech.md",
-      "title": "NKorea warns US of 'very grave situation' over Biden speech",
-      "excerpt": "North Korea has warned the United States will face “a very grave situation” because President Joe Biden “made a big blunder” in his recent speech by calling the North a security threat and revealing h",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/US/wireStory/nkorea-warns-us-grave-situation-biden-speech-77443536",
-      "originalUrl": "https://abcnews.go.com/US/wireStory/nkorea-warns-us-grave-situation-biden-speech-77443536",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/US/WireAP_f7cf6236d848471fae09a5f9905f9b83_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/US/wireStory/nkorea-warns-us-grave-situation-biden-speech-77443536",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/nkorea-warns-us-grave-situation-biden-speech-77443536",
-      "publishedDateTime": "2021-05-01T18:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-05-01-harris-to-lead-national-space-council-amid-criticism-over-lack-of-border-visit.md",
-      "title": "Harris to lead National Space Council amid criticism over lack of border visit",
-      "excerpt": "Vice President Kamala Harris announced Saturday that she will lead the National Space Council -- even as she continues to face criticism for not visiting the southern border as part of her role in addressing the migrant crisis.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/59VzsGklxQw/harris-to-lead-the-national-space-council-border-visit",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/59VzsGklxQw/harris-to-lead-the-national-space-council-border-visit",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 421,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fbf844e7-da00-4269-b859-827c56602764/5d922b54-0023-4170-ae81-95b2cc76f88b/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/harris-to-lead-the-national-space-council-border-visit.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-to-lead-the-national-space-council-border-visit.amp",
-      "publishedDateTime": "2021-05-01T12:30:12-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-05-02-trump-is-fixated-and-talks-constantly-about-arizona-election-recount-allies-say.md",
-      "title": "Trump is 'fixated' and talks 'constantly' about Arizona election recount, allies say",
-      "excerpt": "Trump asks aides multiple times a day about the vote recount that is currently underway in Maricopa County, according to The Washington Post.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/donald-trump-is-fixated-on-arizona-election-recount-allies-say-2021-5",
-      "originalUrl": "https://www.businessinsider.com/donald-trump-is-fixated-on-arizona-election-recount-allies-say-2021-5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 153,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/608d156434af8d001859a6a3?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/donald-trump-is-fixated-on-arizona-election-recount-allies-say-2021-5?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/donald-trump-is-fixated-on-arizona-election-recount-allies-say-2021-5?amp",
-      "publishedDateTime": "2021-05-01T10:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-05-01-watch-trump-bid-farewell-to-mar-a-lago-members-for-the-summer-after-yet-another-speech-about-the-rigged-election.md",
-      "title": "Watch Trump bid farewell to Mar-a-Lago members for the summer after yet another speech about the 'rigged' election",
-      "excerpt": "Former President Donald Trump is planning to move his political operation to New Jersey for the summer.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/watch-trump-farewell-mar-a-lago-new-jersey-election-rigged-2021-5",
-      "originalUrl": "https://www.businessinsider.com/watch-trump-farewell-mar-a-lago-new-jersey-election-rigged-2021-5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/608d76c834af8d001859a6d9?width=1200&format=jpeg",
-          "width": 762,
-          "height": 381,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/watch-trump-farewell-mar-a-lago-new-jersey-election-rigged-2021-5?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/watch-trump-farewell-mar-a-lago-new-jersey-election-rigged-2021-5?amp",
-      "publishedDateTime": "2021-05-01T09:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-05-01-joe-biden-issues-11-proclamations-his-highest-daily-tally-so-far.md",
-      "title": "Joe Biden Issues 11 Proclamations, His Highest Daily Tally So Far",
-      "excerpt": "President Joe Biden set a personal daily record for The president issued 11 proclamations on April 30. Proclamations are statements that serve a variety of functions, such as issuing a directive, acknowledging an event or person,",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/joe-biden-issues-11-proclamations-his-highest-daily-tally-so-far-1588054",
-      "originalUrl": "https://www.newsweek.com/joe-biden-issues-11-proclamations-his-highest-daily-tally-so-far-1588054",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 185,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1786140/biden-addresses-joint-session-congress.jpg",
-          "width": 2836,
-          "height": 1900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/joe-biden-issues-11-proclamations-his-highest-daily-tally-so-far-1588054?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-issues-11-proclamations-his-highest-daily-tally-so-far-1588054?amp=1",
-      "publishedDateTime": "2021-05-01T08:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

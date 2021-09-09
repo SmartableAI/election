@@ -2,6 +2,115 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2021-05-14-dump-trump-kicking-him-off-nyc-golf-course-may-not-be-easy.md",
+      "title": "Dump Trump? Kicking him off NYC golf course may not be easy",
+      "excerpt": "Donald Trump has a rich history of fighting back when he’s down and making others pay, and that’s exactly how he intends to deal with New York City over its plans to fire his company from running a ci",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Business/wireStory/dump-trump-kicking-off-nyc-golf-easy-77689371",
+      "originalUrl": "https://abcnews.go.com/Business/wireStory/dump-trump-kicking-off-nyc-golf-easy-77689371",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 325,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Sports/WireAP_3640cc63671a47ac969bb32cb955072c_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Business/wireStory/dump-trump-kicking-off-nyc-golf-easy-77689371",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/dump-trump-kicking-off-nyc-golf-easy-77689371",
+      "publishedDateTime": "2021-05-14T07:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-05-14-activists-and-ex-spy-said-to-have-plotted-to-discredit-trump-enemies-in-government.md",
+      "title": "Activists and Ex-Spy Said to Have Plotted to Discredit Trump ‘Enemies’ in Government",
+      "excerpt": "The campaign included planned operations against President Trump’s national security at the time, H.R. McMaster, and F.B.I. employees, according to documents and interviews.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/05/13/us/politics/mcmaster-fbi-trump-project-veritas.html",
+      "originalUrl": "https://www.nytimes.com/2021/05/13/us/politics/mcmaster-fbi-trump-project-veritas.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 128,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/05/13/us/politics/13dc-investigate1/13dc-investigate1-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/05/13/us/politics/mcmaster-fbi-trump-project-veritas.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/05/13/us/politics/mcmaster-fbi-trump-project-veritas.amp.html",
+      "publishedDateTime": "2021-05-13T12:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-05-14-maddow-potential-trump-indictment-moves-closer-with-mcgahns-testimony.md",
       "title": "Maddow: Potential Trump Indictment Moves Closer With McGahn's Testimony",
       "excerpt": "Rachel Maddow explains how Robert Mueller laid out the ways in which Donald Trump potentially committed obstruction of justice (even though Mueller would not prosecute Trump as president) and notes that Don McGahn's testimony was key to putting that together.",
@@ -1420,111 +1529,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-05-04-joe-biden-raises-trump-refugee-cap-after-backlash.md",
-      "title": "Joe Biden raises Trump refugee cap after backlash",
-      "excerpt": "President Joe Biden has lifted the US annual refugee cap, bowing to backlash from his party after he initially opted to stick by the Trump-era figure. The Democratic president is raising the cap from 15,",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/world-us-canada-56975402?at_custom2=twitter&at_custom4=477B3168-AC50-11EB-951B-FFBD4744363C&at_custom1=%5Bpost+type%5D&at_campaign=64&at_medium=custom7",
-      "originalUrl": "https://www.bbc.com/news/world-us-canada-56975402?at_custom2=twitter&at_custom4=477B3168-AC50-11EB-951B-FFBD4744363C&at_custom1=%5Bpost+type%5D&at_campaign=64&at_medium=custom7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 4030,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/123E1/production/_118312747_mediaitem118312746.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/world-us-canada-56975402.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-56975402.amp",
-      "publishedDateTime": "2021-05-03T19:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-05-04-the-memo-trumps-critics-face-wrath-of-gop-base.md",
-      "title": "The Memo: Trump's critics face wrath of GOP base",
-      "excerpt": "Cheney voted for Trump’s impeachment and has become perhaps his most persistent foe among GOP officeholders. But the bigger picture is one in which Cheney is in danger of losing her House leadership position and another Trump critic,",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/administration/551576-the-memo-trumps-critics-face-wrath-of-gop-base",
-      "originalUrl": "https://thehill.com/homenews/administration/551576-the-memo-trumps-critics-face-wrath-of-gop-base",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 405,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/trumpdonald_cheneyliz_012121getty-bc_split.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/administration/551576-the-memo-trumps-critics-face-wrath-of-gop-base?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/551576-the-memo-trumps-critics-face-wrath-of-gop-base?amp",
-      "publishedDateTime": "2021-05-03T14:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

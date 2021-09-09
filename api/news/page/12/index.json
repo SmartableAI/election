@@ -2,6 +2,466 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-08-12-kamala-harris-invites-business-leaders-to-the-white-house-to-discuss-child-care.md",
+      "title": "Kamala Harris invites business leaders to the White House to discuss child care.",
+      "excerpt": "Executives from companies like Airbnb, Chobani, Etsy and Microsoft were invited in an effort to drum up support for a key pillar of President Biden's $3.5 trillion budget.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/08/12/business/kamala-harris-child-care-business.html",
+      "originalUrl": "https://www.nytimes.com/2021/08/12/business/kamala-harris-child-care-business.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 130,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/08/12/business/12econ-brf-whitehouse/12econ-brf-whitehouse-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/08/12/business/kamala-harris-child-care-business.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/08/12/business/kamala-harris-child-care-business.amp.html",
+      "publishedDateTime": "2021-08-12T01:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-08-12-trump-tax-cuts-saved-bloomberg-68-million-in-just-one-year.md",
+      "title": "Trump Tax Cuts Saved Bloomberg $68 Million in Just One Year",
+      "excerpt": "IRS records obtained by ProPublica show how the Trump tax cuts are a boon for many billionaires — even billionaires who called Trump a “clown.”",
+      "sourceUrl": null,
+      "webUrl": "https://nymag.com/intelligencer/2021/08/trump-tax-cuts-saved-bloomberg-usd68-million-in-just-one-year.html",
+      "originalUrl": "https://nymag.com/intelligencer/2021/08/trump-tax-cuts-saved-bloomberg-usd68-million-in-just-one-year.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://pyxis.nymag.com/v1/imgs/e7a/076/e01d163b08d4050e87e9ebc98d7134e95c-GettyImages-619826792.1x.rsocial.w1200.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nymag.com/intelligencer/amp/2021/08/trump-tax-cuts-saved-bloomberg-usd68-million-in-just-one-year.html",
+      "cdnAmpWebUrl": "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/08/trump-tax-cuts-saved-bloomberg-usd68-million-in-just-one-year.html",
+      "publishedDateTime": "2021-08-12T01:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Magazine",
+        "domain": "nymag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-08-12-joe-biden-put-his-foot-on-the-neck-of-the-energy-industry-now-he-wants-more-oil-salena-zito.md",
+      "title": "Joe Biden 'put his foot on the neck' of the energy industry, now he wants more oil: Salena Zito",
+      "excerpt": "Washington Examiner National Political Reporter Salena Zito criticized Joe Biden Wednesday for calling on OPEC to produce more oil as gas prices soar in the United States, saying what the president is doing is \"befuddling.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/joe-biden-energy-industry-more-oil-salena-zito",
+      "originalUrl": "https://www.foxnews.com/media/joe-biden-energy-industry-more-oil-salena-zito",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b4f279e4-4ad7-4633-9030-97536c831a98/684a0321-1bb5-4bfc-b45e-59a7255a2db1/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/joe-biden-energy-industry-more-oil-salena-zito.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/joe-biden-energy-industry-more-oil-salena-zito.amp",
+      "publishedDateTime": "2021-08-11T22:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-08-12-wh-reporters-roiled-by-spacing-constraints-excuse-to-limit-access-to-biden-qas.md",
+      "title": "WH reporters roiled by ‘spacing constraints’ excuse to limit access to Biden Q&As",
+      "excerpt": "President Joe Biden’s interactions with reporters in the White House East Room have resembled press conferences but his staff selects which reporters attend, citing “spacing",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/08/11/wh-journos-roiled-by-spacing-constraints-to-biden-pressers/",
+      "originalUrl": "https://nypost.com/2021/08/11/wh-journos-roiled-by-spacing-constraints-to-biden-pressers/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 130,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/08/white-house-reporters-roiled-434.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/08/11/wh-journos-roiled-by-spacing-constraints-to-biden-pressers/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/11/wh-journos-roiled-by-spacing-constraints-to-biden-pressers/amp/",
+      "publishedDateTime": "2021-08-11T16:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-08-12-for-biden-and-senators-a-sense-that-world-was-watching.md",
+      "title": "For Biden and senators, a sense that 'world was watching'",
+      "excerpt": "Biden recalled infrastructure as “probably the least difficult thing to do” when he was a senator — became an exercise in showing how damaged the legislative process has become in partisan Washington and how a president and core group of senators were determined to try to fix it.",
+      "sourceUrl": null,
+      "webUrl": "https://www.lmtonline.com/news/article/For-Biden-and-senators-a-sense-that-world-was-16378709.php",
+      "originalUrl": "https://www.lmtonline.com/news/article/For-Biden-and-senators-a-sense-that-world-was-16378709.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
+          "width": 600,
+          "height": 336,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.lmtonline.com/news/amp/For-Biden-and-senators-a-sense-that-world-was-16378709.php",
+      "cdnAmpWebUrl": "https://www-lmtonline-com.cdn.ampproject.org/c/s/www.lmtonline.com/news/amp/For-Biden-and-senators-a-sense-that-world-was-16378709.php",
+      "publishedDateTime": "2021-08-11T14:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Laredo Morning Times",
+        "domain": "lmtonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-08-12-trump-gop-slam-dems-35t-budget-as-communist-plan-to-destroy-us.md",
+      "title": "Trump, GOP slam Dems’ $3.5T budget as ‘Communist plan to destroy’ US",
+      "excerpt": "Former President Donald Trump led the Republican criticism after a 15-hour “vote-a-rama” overnight that saw senators pass the $3.5 trillion budget reconciliation package.",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/08/11/trump-gop-slam-dems-3-5t-budget-as-communist-plan-to-destroy-us/",
+      "originalUrl": "https://nypost.com/2021/08/11/trump-gop-slam-dems-3-5t-budget-as-communist-plan-to-destroy-us/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/08/gop-oppose-infrastructure.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/08/11/trump-gop-slam-dems-3-5t-budget-as-communist-plan-to-destroy-us/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/11/trump-gop-slam-dems-3-5t-budget-as-communist-plan-to-destroy-us/amp/",
+      "publishedDateTime": "2021-08-11T13:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-08-11-trump-accountants-must-turn-over-some-tax-records-to-house-panel-federal-judge-rules.md",
+      "title": "Trump accountants must turn over some tax records to House panel, federal judge rules",
+      "excerpt": "A federal judge has ruled that multiple tax records belonging to former President Donald Trump must be turned over to Congress.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5RzIk2_w87Y/trump-accountants-must-turn-over-some-tax-records-to-house-panel-federal-judge-rules",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5RzIk2_w87Y/trump-accountants-must-turn-over-some-tax-records-to-house-panel-federal-judge-rules",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 188,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/990505083001/40a63b4a-2e83-40cb-b3dc-bc01851d10f2/18d62644-0518-41b0-afc0-9ff5e6483fb7/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-accountants-must-turn-over-some-tax-records-to-house-panel-federal-judge-rules.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-accountants-must-turn-over-some-tax-records-to-house-panel-federal-judge-rules.amp",
+      "publishedDateTime": "2021-08-11T13:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-08-11-house-democrats-can-get-some-of-trumps-tax-records-from-accounting-firm-mazars-usa-judge-rules.md",
+      "title": "House Democrats can get some of Trump's tax records from accounting firm Mazars USA, judge rules",
+      "excerpt": "The US House should be able to access some of Donald Trump's tax records through a subpoena to his accounting firm Mazars USA, a federal judge in Washington, DC, ruled on Wednesday.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vlKMb7vCRLE/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vlKMb7vCRLE/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 162,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210211173410-107-trump-impeachment-centered-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/08/11/politics/trump-taxes-mazars-house-democrats/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/11/politics/trump-taxes-mazars-house-democrats/index.html",
+      "publishedDateTime": "2021-08-11T10:12:19-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-08-11-donald-trump-calls-35t-budget-plan-assault-on-our-nation-after-measure-clears-senate.md",
+      "title": "Donald Trump Calls $3.5T Budget Plan 'Assault on Our Nation' After Measure Clears Senate",
+      "excerpt": "Former President Donald Trump said Americans are being \"robbed\" after the Democrats' $3.5 trillion budget plan \"Good morning, America!",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/donald-trump-calls-35t-budget-plan-assault-our-nation-after-measure-clears-senate-1618410",
+      "originalUrl": "https://www.newsweek.com/donald-trump-calls-35t-budget-plan-assault-our-nation-after-measure-clears-senate-1618410",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1868613/trump-slams-35t-budget-plan.jpg",
+          "width": 2500,
+          "height": 1665,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/donald-trump-calls-35t-budget-plan-assault-our-nation-after-measure-clears-senate-1618410?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-calls-35t-budget-plan-assault-our-nation-after-measure-clears-senate-1618410?amp=1",
+      "publishedDateTime": "2021-08-11T08:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-08-11-manchin-has-serious-concerns-about-dems-35t-spending-plan-signaling-trouble-for-biden-agenda.md",
       "title": "Manchin has 'serious concerns' about Dems' $3.5T spending plan, signaling trouble for Biden agenda",
       "excerpt": "Sen. Joe Manchin on Wednesday morning said he has \"serious concerns\" about his party's massive $3.5 trillion spending plan, signaling that he may intend to block much of the package supported by President Biden over inflation and debt concerns.",
@@ -824,438 +1284,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-08-10-trump-couture-ex-president-unveils-new-version-of-maga-hat-he-just-designed.md",
-      "title": "Trump couture: Ex-president unveils new version of MAGA hat he ‘just designed’",
-      "excerpt": "In an email to supporters, former President Donald Trump announced a new version of the “Make America Great Again” hats and claimed he had “just designed” it.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/08/09/trump-unveils-new-version-of-maga-hat-he-just-designed/",
-      "originalUrl": "https://nypost.com/2021/08/09/trump-unveils-new-version-of-maga-hat-he-just-designed/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/08/donald-trump-hat-21.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/08/09/trump-unveils-new-version-of-maga-hat-he-just-designed/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/09/trump-unveils-new-version-of-maga-hat-he-just-designed/amp/",
-      "publishedDateTime": "2021-08-09T16:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-09-az-attorney-general-scolds-biden-administration-for-releasing-covid-positive-migrants.md",
-      "title": "AZ Attorney General scolds Biden administration for releasing COVID-positive migrants",
-      "excerpt": "Arizona's attorney general penned a letter demanding the Biden administration halt releasing COVID-positive migrants",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5681Baq7HIQ/az-attorney-general-scolds-biden-administration-for-releasing-covid-positive-migrants",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5681Baq7HIQ/az-attorney-general-scolds-biden-administration-for-releasing-covid-positive-migrants",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 228,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/50517ce6-cb22-4701-85a7-061adf640228/d384ee59-b9ed-4310-a6a3-6cd19ec7dcf0/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/az-attorney-general-scolds-biden-administration-for-releasing-covid-positive-migrants.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/az-attorney-general-scolds-biden-administration-for-releasing-covid-positive-migrants.amp",
-      "publishedDateTime": "2021-08-09T15:03:11-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-10-grim-afghan-news-raises-risk-for-biden-of-taliban-takeover.md",
-      "title": "Grim Afghan news raises risk for Biden of Taliban takeover",
-      "excerpt": "A rapidly deteriorating security situation in Afghanistan weeks before the official end of the U.S. military mission is putting pressure on President Biden as he sticks to his plan to pull America out of its longest war.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/policy/defense/567049-grim-afghan-news-raises-risk-for-biden-of-taliban-takeover",
-      "originalUrl": "https://thehill.com/policy/defense/567049-grim-afghan-news-raises-risk-for-biden-of-taliban-takeover",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 465,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/article_images/security-patrol_herat_afghanistan_080621getty_afghanistan.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/policy/defense/567049-grim-afghan-news-raises-risk-for-biden-of-taliban-takeover?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/defense/567049-grim-afghan-news-raises-risk-for-biden-of-taliban-takeover?amp",
-      "publishedDateTime": "2021-08-09T14:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-08-10-trump-says-he-will-do-something-about-homelessness.md",
-      "title": "Trump says he will do ‘something’ about homelessness",
-      "excerpt": "President Donald Trump began a California visit on Tuesday, saying he will do \"something\" about homelessness but offering no specifics beyond the mention of creating a task force.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/article/donald-trump-geoffrey-palmer-california-los-angeles-san-francisco-df5a1a2a105d42eaa3946b586fc29536",
-      "originalUrl": "https://apnews.com/article/donald-trump-geoffrey-palmer-california-los-angeles-san-francisco-df5a1a2a105d42eaa3946b586fc29536",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/afs-prod/media/334c3ffb31f34c3aa8a178bb26ae6f1f/3000.jpeg",
-          "width": 3000,
-          "height": 1999,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-09T14:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-08-10-pence-cruz-desantis-to-headline-ricketts-steak-fry-event.md",
-      "title": "Pence, Cruz, DeSantis to headline Ricketts steak fry event",
-      "excerpt": "Former Vice President Mike Pence, Texas Sen. Ted Cruz and Florida Gov. Ron DeSantis are coming to Nebraska for Gov. Pete Ricketts' annual steak fry next month. The high-profile Republicans will appear at the gathering to celebrate agriculture on Sept.",
-      "sourceUrl": null,
-      "webUrl": "https://www.houstonchronicle.com/news/article/Pence-Cruz-DeSantis-to-headline-Ricketts-steak-16374505.php",
-      "originalUrl": "https://www.houstonchronicle.com/news/article/Pence-Cruz-DeSantis-to-headline-Ricketts-steak-16374505.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 205,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.houstonchronicle.com/news/amp/Pence-Cruz-DeSantis-to-headline-Ricketts-steak-16374505.php",
-      "cdnAmpWebUrl": "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Pence-Cruz-DeSantis-to-headline-Ricketts-steak-16374505.php",
-      "publishedDateTime": "2021-08-09T13:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Houston Chronicle",
-        "domain": "houstonchronicle.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/houstonchronicle.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-08-10-biden-administration-issues-final-extension-of-student-loan-payment-pause-is-cancellation-next.md",
-      "title": "Biden administration issues 'final extension' of student loan payment pause: Is cancellation next?",
-      "excerpt": "Federal student loan borrowers will not have to make payments on their federal loans until February 2022, thanks to the “final extension” from Education Department.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxbusiness.com/personal-finance/biden-student-loan-payment-pause-extension-is-cancellation-next",
-      "originalUrl": "https://www.foxbusiness.com/personal-finance/biden-student-loan-payment-pause-extension-is-cancellation-next",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2021/08/Credible-Biden-admin-extends-student-loan-pause-is-cancellation-next-iStock-1098109720.jpg",
-          "width": 1254,
-          "height": 705,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxbusiness.com/personal-finance/biden-student-loan-payment-pause-extension-is-cancellation-next.amp",
-      "cdnAmpWebUrl": "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/personal-finance/biden-student-loan-payment-pause-extension-is-cancellation-next.amp",
-      "publishedDateTime": "2021-08-09T10:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox Business",
-        "domain": "foxbusiness.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-08-10-biden-covid-origin-investigation-expected-to-end-soon-charlotte-observer.md",
-      "title": "Biden COVID origin investigation expected to end soon | Charlotte Observer",
-      "excerpt": "A 90-day intelligence review into the origins of COVID-19 ordered by President Joe Biden is expected to end largely where it began, without high confidence in how the coronavirus first emerged, government officials told McClatchy. Biden will receive a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.charlotteobserver.com/news/coronavirus/article253365748.html",
-      "originalUrl": "https://www.charlotteobserver.com/news/coronavirus/article253365748.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 153,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557046001/12b39f35-3a05-423f-a838-37e72ee371d0/e503dd4e-6739-4b6c-8212-c4272a4fecad/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.charlotteobserver.com/news/coronavirus/article253365748.html",
-      "cdnAmpWebUrl": "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/coronavirus/article253365748.html",
-      "publishedDateTime": "2021-08-09T10:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Charlotte Observer",
-        "domain": "charlotteobserver.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-08-09-biden-pushes-sanctions-against-belarus-lukashenko-regime.md",
-      "title": "Biden pushes sanctions against Belarus' Lukashenko regime",
-      "excerpt": "President Joe Biden on Monday said the United States is levying new sanctions against Belarus.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/olLR5J0jnK0/biden-sanctions-belarus-lukashenko",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/olLR5J0jnK0/biden-sanctions-belarus-lukashenko",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9bdbfbc4-87fa-49a6-8f09-2a6156f8a0e2/e1261bb5-02f5-493d-a6dd-9b1e23cc0e40/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-sanctions-belarus-lukashenko.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-sanctions-belarus-lukashenko.amp",
-      "publishedDateTime": "2021-08-09T09:45:32-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-09-melania-trump-blasts-historian-after-misleading-rose-garden-criticism.md",
-      "title": "Melania Trump blasts historian after ‘misleading’ Rose Garden criticism",
-      "excerpt": "Former First Lady Melania Trump is firing back after NBC resident historian Michael Beschloss criticized her renovation of the Rose Garden.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/08/09/melania-trump-blasts-historian-after-rose-garden-criticism/",
-      "originalUrl": "https://nypost.com/2021/08/09/melania-trump-blasts-historian-after-rose-garden-criticism/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/08/melania-trump-rose-garden-hp.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/08/09/melania-trump-blasts-historian-after-rose-garden-criticism/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/09/melania-trump-blasts-historian-after-rose-garden-criticism/amp/",
-      "publishedDateTime": "2021-08-09T08:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     }
   ],

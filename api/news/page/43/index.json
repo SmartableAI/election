@@ -2,6 +2,422 @@
   "page": 43,
   "value": [
     {
+      "path": "_news/2021-06-10-jill-biden-will-meet-with-kate-middleton-in-england-this-week.md",
+      "title": "Jill Biden will meet with Kate Middleton in England this week",
+      "excerpt": "First lady Jill Biden will meet with Kate Middleton, the Duchess of Cambridge, this week while she is in England, Kensington Palace told CNN on Thursday, as the first family makes their first international trip.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ewnKAMDeV7w/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ewnKAMDeV7w/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210608093714-jill-biden-kate-middleton-split-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/10/politics/jill-biden-kate-middleton/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/10/politics/jill-biden-kate-middleton/index.html",
+      "publishedDateTime": "2021-06-10T15:53:39-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-11-david-m-shribman-pence-hasnt-gone-away.md",
+      "title": "David M. Shribman: Pence hasn't gone away",
+      "excerpt": "Mike Pence is determined not to be the modern version of William R. King, William A. Wheeler or Charles W. Fairbanks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.hastingstribune.com/david-m-shribman-pence-hasnt-gone-away/article_b0b8e996-ca36-11eb-a591-27270006269c.html",
+      "originalUrl": "https://www.hastingstribune.com/david-m-shribman-pence-hasnt-gone-away/article_b0b8e996-ca36-11eb-a591-27270006269c.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/hastingstribune.com/content/tncms/assets/v3/editorial/b/08/b083e46c-fa4e-11e9-b175-9bbfa0456bc7/5db83c86c6ab0.image.jpg?resize=431%2C630",
+          "width": 431,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-10T14:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hastings Tribune",
+        "domain": "hastingstribune.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-06-11-white-house-downplays-biden-putin-summit-not-expecting-huge-outcome.md",
+      "title": "White House downplays Biden-Putin summit, not expecting 'huge outcome'",
+      "excerpt": "White House press secretary Jen Psaki on Thursday doubled down on Biden using the summit as an opportunity to confront Putin. \"He's going to be straightforward, he's going to be candid, he's not going to hold back,",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/white-house-downplays-biden-putin-summit-expecting-huge/story?id=78195263",
+      "originalUrl": "https://abcnews.go.com/Politics/white-house-downplays-biden-putin-summit-expecting-huge/story?id=78195263",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/General/biden-summit-01-rt-llr-210609_1623270675294_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/white-house-downplays-biden-putin-summit-expecting-huge/story?id=78195263",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/white-house-downplays-biden-putin-summit-expecting-huge/story?id=78195263",
+      "publishedDateTime": "2021-06-10T13:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-06-11-michigan-man-gets-prison-for-email-threat-to-trump-whistleblowers-attorney.md",
+      "title": "Michigan man gets prison for email threat to Trump whistleblower’s attorney",
+      "excerpt": "Emailing a “stark, brutal” threat to hunt down and kill an attorney for the whistleblower who sparked Donald J. Trump’s first impeachment has cost a Gladwin County man time in federal prison. Brittan J.",
+      "sourceUrl": null,
+      "webUrl": "https://www.mlive.com/news/saginaw-bay-city/2021/06/michigan-man-gets-prison-for-email-threat-to-trump-whistleblowers-attorney.html",
+      "originalUrl": "https://www.mlive.com/news/saginaw-bay-city/2021/06/michigan-man-gets-prison-for-email-threat-to-trump-whistleblowers-attorney.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/33OEFL4ORVCNTPHNAJQUD4TARE.jpg",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.mlive.com/news/saginaw-bay-city/2021/06/michigan-man-gets-prison-for-email-threat-to-trump-whistleblowers-attorney.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/news/saginaw-bay-city/2021/06/michigan-man-gets-prison-for-email-threat-to-trump-whistleblowers-attorney.html?outputType=amp",
+      "publishedDateTime": "2021-06-10T12:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MLive",
+        "domain": "mlive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-06-11-undoing-trump-rule-wont-likely-affect-okefenokee-mine-plan.md",
+      "title": "Undoing Trump rule won't likely affect Okefenokee mine plan",
+      "excerpt": "The Biden administration's plan to revive protections for some wetlands and streams that got eliminated during Donald Trump's presidency isn't likely to restore federal oversight of a proposed mine ou",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/US/wireStory/undoing-trump-rule-affect-okefenokee-mine-plan-78203895",
+      "originalUrl": "https://abcnews.go.com/US/wireStory/undoing-trump-rule-affect-okefenokee-mine-plan-78203895",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/US/WireAP_81249ad3817843fcbae119288992a38c_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/US/wireStory/undoing-trump-rule-affect-okefenokee-mine-plan-78203895",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/undoing-trump-rule-affect-okefenokee-mine-plan-78203895",
+      "publishedDateTime": "2021-06-10T11:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-06-11-democrat-henry-cuellar-slams-bidens-handling-of-border-crisis-doing-a-staged-visit-is-not-enough.md",
+      "title": "Democrat Henry Cuellar slams Biden's handling of border crisis: 'Doing a staged visit is not enough'",
+      "excerpt": "Texas, slammed the Biden administration's handling of the border crisis Thursday, stressing the need to address its policies encouraging migrants to make the dangerous journey to the U.S.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/democrat-henry-cuellar-biden-border-crisis-staged-visit",
+      "originalUrl": "https://www.foxnews.com/media/democrat-henry-cuellar-biden-border-crisis-staged-visit",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 140,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4bf61830-4f75-4877-864b-4116fb9b8d17/5d131eef-3cf1-4b0d-b039-63f0f9bfb200/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/democrat-henry-cuellar-biden-border-crisis-staged-visit.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/democrat-henry-cuellar-biden-border-crisis-staged-visit.amp",
+      "publishedDateTime": "2021-06-10T11:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-10-biden-johnson-sign-revitalized-atlantic-charter-reaffirming-commitment-to-global-challenges.md",
+      "title": "Biden, Johnson sign 'revitalized' Atlantic Charter, reaffirming commitment to global challenges",
+      "excerpt": "President Biden and British Prime Minister Boris Johnson on Thursday signed a \"revitalized\" Atlantic Charter reaffirming their commitment to work together to counter the efforts of those who seek to undermine democratic alliances and institutions.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/TaJyIFTn7Fg/biden-johnson-sign-revitalized-atlantic-charter",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/TaJyIFTn7Fg/biden-johnson-sign-revitalized-atlantic-charter",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 163,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-johnson-sign-revitalized-atlantic-charter.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-johnson-sign-revitalized-atlantic-charter.amp",
+      "publishedDateTime": "2021-06-10T10:23:02-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-10-pence-eyes-his-political-future-as-he-tries-to-make-peace-with-trump.md",
+      "title": "Pence eyes his political future as he tries to make peace with Trump ",
+      "excerpt": "Six months after their relationship deteriorated in the midst of an insurrection at the US Capitol, Donald Trump and Mike Pence appear to be on the mend.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/p7SMu5iPngk/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/p7SMu5iPngk/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 700,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210604131734-02-pence-nh-speech-0603-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/10/politics/pence-trump-political-future/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/10/politics/pence-trump-political-future/index.html",
+      "publishedDateTime": "2021-06-10T10:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-06-10-trump-appointed-ambassador-to-brazil-resigns-after-14-months.md",
       "title": "Trump-appointed ambassador to Brazil resigns after 14 months",
       "excerpt": "The U.S. ambassador to Brazil, Todd Chapman, has resigned after just over a year in the position and is leaving the diplomatic service",
@@ -391,7 +807,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 242,
+      "heat": 222,
       "tags": null,
       "images": [
         {
@@ -930,439 +1346,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-09-biden-warns-climate-change-is-greatest-threat-to-us-security-this-is-not-a-joke.md",
-      "title": "Biden warns climate change is 'greatest threat' to US security: 'This is not a joke'",
-      "excerpt": "President Biden warned military servicemembers Wednesday that top Pentagon officials consider climate change to be the “greatest threat” to America’s national security in the coming years.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/7M06ZqB3w-I/biden-climate-change-greatest-threat-us-security",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/7M06ZqB3w-I/biden-climate-change-greatest-threat-us-security",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 168,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/66fb34b2-88ee-4794-a45c-0dd47703dce0/d2addf7e-d6f7-4cd9-ad3a-c9109e8796c6/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-climate-change-greatest-threat-us-security.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-climate-change-greatest-threat-us-security.amp",
-      "publishedDateTime": "2021-06-09T13:56:17-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-10-biden-declares-the-us-is-back-and-urges-democracies-to-stand-together.md",
-      "title": "Biden declares the ‘US is back’ and urges democracies to stand together",
-      "excerpt": "US president rings changes since Trump but has a serious message on Northern Ireland peace process",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/jun/09/biden-declares-the-us-is-back-and-urges-democracies-to-stand-together",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/jun/09/biden-declares-the-us-is-back-and-urges-democracies-to-stand-together",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 225,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/658deb3cdc010ed92f9507f4779d98587c280270/0_245_3080_1849/master/3080.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=acb307853f0aea9c68dcf33baf5e7382",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/jun/09/biden-declares-the-us-is-back-and-urges-democracies-to-stand-together",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/09/biden-declares-the-us-is-back-and-urges-democracies-to-stand-together",
-      "publishedDateTime": "2021-06-09T13:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-06-09-biden-waiving-nord-stream-2-pipeline-sanctions-puts-us-at-competitive-disadvantage-gop-leader-mccarthy.md",
-      "title": "Biden waiving Nord Stream 2 pipeline sanctions puts US at 'competitive disadvantage': GOP leader McCarthy",
-      "excerpt": "House Minority Leader Kevin McCarthy, R-Calif., ripped President Biden’s decision to waive sanctions on the Russia-backed Nord Stream 2 pipeline, arguing the move would hurt the U.S. economy and geopolitical interests.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/uei185eeHYA/biden-waiving-nord-stream-2-pipeline-sanctions-mccarthy",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/uei185eeHYA/biden-waiving-nord-stream-2-pipeline-sanctions-mccarthy",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 158,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9effcbb3-b713-47d7-bef3-5aa43c57b4d4/9fa727a2-00b4-4232-a155-442dc4e5f534/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-waiving-nord-stream-2-pipeline-sanctions-mccarthy.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-waiving-nord-stream-2-pipeline-sanctions-mccarthy.amp",
-      "publishedDateTime": "2021-06-09T13:14:21-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-09-watchdog-report-finds-park-police-did-not-clear-racial-injustice-protesters-from-lafayette-park-for-trumps-visit-to-st-johns-church-last-june.md",
-      "title": "Watchdog report finds Park Police did not clear racial injustice protesters from Lafayette Park for Trump's visit to St. John's Church last June",
-      "excerpt": "The US Park Police did not clear racial injustice protesters from Lafayette Park to allow for then-President Donald Trump's march to St. John's Church last June, but instead did so to allow a contractor to install a fence safely around the White House, according to a new inspector general report.\n  ",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fFWZCZU4lq8/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fFWZCZU4lq8/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 138,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200603172424-trump-group-walking-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/09/politics/park-police-lafayette-square-protesters-donald-trump-bible/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/09/politics/park-police-lafayette-square-protesters-donald-trump-bible/index.html",
-      "publishedDateTime": "2021-06-09T12:49:03-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-10-trump-hosts-fundraiser-for-new-gop-chair-rep-elise-stefanik.md",
-      "title": "Trump hosts fundraiser for new GOP chair Rep. Elise Stefanik",
-      "excerpt": "Former President Donald Trump is hosting a fundraiser for upstate GOP Rep. Elise Stefanik at his golf course in Bedminster, New Jersey Wednesday night, the Post reveals.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/06/09/donald-trump-hosting-fundraiser-for-ny-rep-elise-stefanik/",
-      "originalUrl": "https://nypost.com/2021/06/09/donald-trump-hosting-fundraiser-for-ny-rep-elise-stefanik/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/06/Elise-Stefanik.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/06/09/donald-trump-hosting-fundraiser-for-ny-rep-elise-stefanik/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/09/donald-trump-hosting-fundraiser-for-ny-rep-elise-stefanik/amp/",
-      "publishedDateTime": "2021-06-09T12:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-09-mollie-hemingway-calls-out-kamala-harris-nervous-laugh-when-facing-tough-questions.md",
-      "title": "Mollie Hemingway calls out Kamala Harris' nervous laugh when facing tough questions",
-      "excerpt": "The Federalist Senior Editor Mollie Hemingway said on Wednesday that Vice President Kamala Harris laughs “nervously” when challenged by journalists, reacting to an interview the former senator had with NBC journalist Lester Holt.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/kamala-harris-nervous-laugh-tough-questions-border-hemingway",
-      "originalUrl": "https://www.foxnews.com/media/kamala-harris-nervous-laugh-tough-questions-border-hemingway",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d9eb52e3-ebd6-468a-906e-47779bf429e6/5abaec05-51d8-4fad-adf4-f8b47dee9050/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/kamala-harris-nervous-laugh-tough-questions-border-hemingway.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/kamala-harris-nervous-laugh-tough-questions-border-hemingway.amp",
-      "publishedDateTime": "2021-06-09T09:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-09-biden-swats-cicada-off-neck-before-europe-trip-watch-out.md",
-      "title": "Biden swats cicada off neck before Europe trip: 'Watch out'",
-      "excerpt": "President Biden on Wednesday morning swatted a cicada off his neck ahead of his trip to Europe for the G-7 Summit.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/46wfYcCqTJo/biden-cicada-europe-trip",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/46wfYcCqTJo/biden-cicada-europe-trip",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 215,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/aa8fd275-aad4-477a-8d33-5e20a2b720ff/5625d18c-715e-4ac0-96c1-deeeaff60369/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-cicada-europe-trip.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-cicada-europe-trip.amp",
-      "publishedDateTime": "2021-06-09T07:35:43-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-09-biden-revokes-trump-executive-orders-targeting-tiktok-and-wechat.md",
-      "title": "Biden revokes Trump executive orders targeting TikTok and WeChat",
-      "excerpt": "President Biden has revoked former President Trump’s executive orders that sought to ban downloads of the Chinese-owned apps TikTok and WeChat in the U.S., according to a fact sheet released by the White House Wednesday.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/policy/technology/557523-biden-revokes-trump-executive-orders-targeting-tiktok-and-wechat",
-      "originalUrl": "https://thehill.com/policy/technology/557523-biden-revokes-trump-executive-orders-targeting-tiktok-and-wechat",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 760,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/tiktok_082619istock.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/policy/technology/557523-biden-revokes-trump-executive-orders-targeting-tiktok-and-wechat?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/557523-biden-revokes-trump-executive-orders-targeting-tiktok-and-wechat?amp",
-      "publishedDateTime": "2021-06-09T07:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

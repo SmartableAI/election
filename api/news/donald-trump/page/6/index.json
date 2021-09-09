@@ -2,6 +2,107 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-07-24-such-a-disgrace-trump-blasts-cleveland-indians-name-change.md",
+      "title": "‘Such a disgrace’: Trump blasts Cleveland Indians name change",
+      "excerpt": "Former President Donald Trump blasted the Cleveland Indians Friday over their name change announcement. “Can anybody believe that the Cleveland Indians, a storied and cherished baseball franchise since taking the name in 1915,",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/07/23/trump-blasts-cleveland-indians-name-change/",
+      "originalUrl": "https://nypost.com/2021/07/23/trump-blasts-cleveland-indians-name-change/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/07/gaurdians-trump-hp.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/07/23/trump-blasts-cleveland-indians-name-change/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/23/trump-blasts-cleveland-indians-name-change/amp/",
+      "publishedDateTime": "2021-07-23T12:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-24-trump-advisor-says-there-is-zero-chance-the-former-president-will-pick-pence-as-his-running-mate-if-he-runs-in-2024.md",
+      "title": "Trump advisor says there is 'zero' chance the former president will pick Pence as his running mate if he runs in 2024",
+      "excerpt": "Pence decided to certify the 2020 election results on January 6, instead of unlawfully overturning the results in Trump's favor.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/zero-chance-trump-will-pick-pence-vp-2024-report-2021-7",
+      "originalUrl": "https://www.businessinsider.com/zero-chance-trump-will-pick-pence-vp-2024-report-2021-7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 187,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/60fae6e50729770012b99435?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/zero-chance-trump-will-pick-pence-vp-2024-report-2021-7?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/zero-chance-trump-will-pick-pence-vp-2024-report-2021-7?amp",
+      "publishedDateTime": "2021-07-23T10:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-07-23-donald-trump-jr-responds-to-kimberly-guilfoyle-the-view-rumor.md",
       "title": "Donald Trump Jr. Responds to Kimberly Guilfoyle 'The View' Rumor",
       "excerpt": "Speculation is growing over the conservative figure who will be chosen to replace Meghan McCain on the ABC show.",
@@ -1434,110 +1535,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-15-new-book-goes-behind-the-scenes-of-the-trump-presidency-and-re-election-campaign.md",
-      "title": "New book goes behind the scenes of the Trump presidency and re-election campaign",
-      "excerpt": "A new book offers a collection of one-on-one interviews with friends and staffers of former President Donald Trump, and even Mr. Trump himself. Michael C. Bender, author of \"Frankly, We Did Win This Election: The Inside Story of How Trump Lost,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/video/new-book-goes-behind-the-scenes-of-trump-presidency/",
-      "originalUrl": "https://www.cbsnews.com/video/new-book-goes-behind-the-scenes-of-trump-presidency/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 1435,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews3.cbsistatic.com/hub/i/r/2021/07/15/f8645179-88a4-45f6-9391-952130800b23/thumbnail/1200x630/856f7c8b5c6fadcd019330fe36e97ec7/cbsn-fusion-new-book-goes-behind-the-scenes-of-trump-presidency-thumbnail-754512-640x360.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/video/new-book-goes-behind-the-scenes-of-trump-presidency/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/new-book-goes-behind-the-scenes-of-trump-presidency/",
-      "publishedDateTime": "2021-07-15T08:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-15-kremlin-papers-appear-to-show-putins-plot-to-put-trump-in-white-house.md",
-      "title": "Kremlin papers appear to show Putin’s plot to put Trump in White House",
-      "excerpt": "Exclusive: Documents suggest Russia launched secret multi-agency effort to interfere in US democracy",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/world/2021/jul/15/kremlin-papers-appear-to-show-putins-plot-to-put-trump-in-white-house?fbclid=IwAR093rWit5hdvtHzFLjfcZHp-1JVcDHCpgNHIH27bZkREuIF71fvm9p7I7s",
-      "originalUrl": "https://www.theguardian.com/world/2021/jul/15/kremlin-papers-appear-to-show-putins-plot-to-put-trump-in-white-house?fbclid=IwAR093rWit5hdvtHzFLjfcZHp-1JVcDHCpgNHIH27bZkREuIF71fvm9p7I7s",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/6beb860dc56746ba31173ffa9f3db48025fcf176/0_40_3725_2236/master/3725.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=994273b7350ce6d004a26dcdd89ff063",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/world/2021/jul/15/kremlin-papers-appear-to-show-putins-plot-to-put-trump-in-white-house",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2021/jul/15/kremlin-papers-appear-to-show-putins-plot-to-put-trump-in-white-house",
-      "publishedDateTime": "2021-07-15T07:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

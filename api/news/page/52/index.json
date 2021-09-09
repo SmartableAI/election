@@ -2,6 +2,439 @@
   "page": 52,
   "value": [
     {
+      "path": "_news/2021-05-24-kamala-harris-tells-2021-graduating-class-you-give-me-such-inspiration.md",
+      "title": "Kamala Harris tells 2021 graduating class 'you give me such inspiration'",
+      "excerpt": "\"I couldn't be more proud of you guys,\" she told the seniors. \"The things that you all have accomplished, you give me such inspiration.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/you-give-me-so-much-inspiration-kamala-harris-2021-graduates-2021-5",
+      "originalUrl": "https://www.businessinsider.com/you-give-me-so-much-inspiration-kamala-harris-2021-graduates-2021-5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 324,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/60aaf9e2f27b4c00194461bb?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/you-give-me-so-much-inspiration-kamala-harris-2021-graduates-2021-5?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/you-give-me-so-much-inspiration-kamala-harris-2021-graduates-2021-5?amp",
+      "publishedDateTime": "2021-05-23T20:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-05-23-biden-keeps-saying-follow-the-science-but-how-often-does-he.md",
+      "title": "Biden keeps saying ‘follow the science,’ but how often does he?",
+      "excerpt": "It’s a line President Biden used on the 2020 presidential campaign trail and has returned to many times, including in nationally televised remarks after taking office and in March to staffers at the Centers for Disease Control and Prevention, particularly when addressing the coronavirus pandemic or climate",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zV1OTKEsr_w/biden-keeps-saying-follow-the-science-but-how-often-does-he",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zV1OTKEsr_w/biden-keeps-saying-follow-the-science-but-how-often-does-he",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 375,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/13a2b366-5701-45a7-abcd-a9e8ad9b4c50/ee531cb7-ad01-45f9-a3ad-b5e69ea6dbcf/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-keeps-saying-follow-the-science-but-how-often-does-he.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-keeps-saying-follow-the-science-but-how-often-does-he.amp",
+      "publishedDateTime": "2021-05-23T11:24:32-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-24-whos-more-challenging-to-cover-trump-or-biden.md",
+      "title": "Who's more challenging to cover: Trump or Biden?",
+      "excerpt": "Edward-Isaac Dovere, author of the new book \"Battle for the Soul,\" discusses his behind-the-scenes reporting about the 2020 campaign. He also describes the differences in reporting on the former and current presidents.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/videos/business/2021/05/23/whos-more-challenging-to-cover-trump-or-biden.cnn",
+      "originalUrl": "https://www.cnn.com/videos/business/2021/05/23/whos-more-challenging-to-cover-trump-or-biden.cnn",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 150,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210523132900-rs-c-block-isaac-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/videos/business/2021/05/23/whos-more-challenging-to-cover-trump-or-biden.cnn",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/business/2021/05/23/whos-more-challenging-to-cover-trump-or-biden.cnn",
+      "publishedDateTime": "2021-05-23T11:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-23-a-court-ruled-that-a-trump-spokesperson-must-pay-42000-to-gizmodo-media-group-for-wrongfully-claiming-the-outlet-defamed-him.md",
+      "title": "A court ruled that a Trump spokesperson must pay $42,000 to Gizmodo Media Group for wrongfully claiming the outlet defamed him",
+      "excerpt": "Now-defunct news outlet Splinter, owned by G/O Media, reported in 2018 that Jason Miller had given a dancer abortion drugs after getting her pregnant.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/trump-spox-must-pay-gizmodo-for-failed-defamation-lawsuit-2021-5",
+      "originalUrl": "https://www.businessinsider.com/trump-spox-must-pay-gizmodo-for-failed-defamation-lawsuit-2021-5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/60aa58c2e25d05001880d063?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/trump-spox-must-pay-gizmodo-for-failed-defamation-lawsuit-2021-5?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-spox-must-pay-gizmodo-for-failed-defamation-lawsuit-2021-5?amp",
+      "publishedDateTime": "2021-05-23T09:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-05-23-biden-adviser-president-will-change-course-in-infrastructure-talks-if-inaction-seems-inevitable.md",
+      "title": "Biden adviser: President will 'change course' in infrastructure talks if inaction seems inevitable",
+      "excerpt": "White House senior adviser Cedric Richmond said Sunday that President Joe Biden will \"change course\" on his massive infrastructure bill if inaction on the costly proposal seems inevitable.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/oVN3nArV5-I/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/oVN3nArV5-I/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 161,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201218085023-01-cedric-richmond-file-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/23/politics/cedric-richmond-infrastructure-bill-biden-cnntv/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/23/politics/cedric-richmond-infrastructure-bill-biden-cnntv/index.html",
+      "publishedDateTime": "2021-05-23T08:14:40-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-23-campaign-2024-trump-getting-ready-to-hit-campaign-trail.md",
+      "title": "Campaign 2024: Trump getting ready to hit campaign trail",
+      "excerpt": "Former President Donald Trump is gearing up for “upcoming rallies.” And the former president, who’s expected to begin holding rallies again as early as next month, also says that he’s refurbishing the airliner that he used during his 2016 White House campaign.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Da-jh6TiK1k/trump-getting-ready-to-hit-campaign-trail",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Da-jh6TiK1k/trump-getting-ready-to-hit-campaign-trail",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 415,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-getting-ready-to-hit-campaign-trail.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-getting-ready-to-hit-campaign-trail.amp",
+      "publishedDateTime": "2021-05-23T07:09:26-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-23-gop-states-ramp-up-legal-battles-against-bidens-immigration-policies.md",
+      "title": "GOP states ramp up legal battles against Biden's immigration policies",
+      "excerpt": "As the Biden administration has been working rapidly to undo key Trump-era border and immigration policies and replace them with more liberal policies, Republican state attorneys general have been working just as hard to push back against what they see as illegal actions that could hurt Americans and",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/7pWGKZSmD_Q/gop-states-ramp-up-legal-battles-against-bidens-immigration-policies",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/7pWGKZSmD_Q/gop-states-ramp-up-legal-battles-against-bidens-immigration-policies",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 595,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/abb0245a-21bc-4c52-9de8-1336e02ec81c/ad3a8f45-5e89-4b2e-83df-ddb929cc03e6/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/gop-states-ramp-up-legal-battles-against-bidens-immigration-policies.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-states-ramp-up-legal-battles-against-bidens-immigration-policies.amp",
+      "publishedDateTime": "2021-05-22T19:32:06-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-23-how-anti-trump-steele-dossier-exposed-shoddy-world-of-private-spies.md",
+      "title": "How anti-Trump ‘Steele dossier’ exposed shoddy world of ‘private spies’",
+      "excerpt": "Now, politicians were hiring them to dig up dirt on opponents, companies were employing them to torpedo investigations into their activities by authorities or journalists, and dictators were using them as freelance intelligence agents.",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/article/how-anti-trump-steele-dossier-exposed-world-of-private-spies/",
+      "originalUrl": "https://nypost.com/article/how-anti-trump-steele-dossier-exposed-world-of-private-spies/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/05/Steele-Trap-Tump-Putin.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/article/how-anti-trump-steele-dossier-exposed-world-of-private-spies/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/article/how-anti-trump-steele-dossier-exposed-world-of-private-spies/amp/",
+      "publishedDateTime": "2021-05-22T12:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-05-22-flashback-harris-protested-at-southern-border-in-2018-but-hasnt-visited-since-taking-migrant-role.md",
       "title": "Flashback: Harris protested at southern border in 2018, but hasn't visited since taking migrant role",
       "excerpt": "Vice President Kamala Harris has come under criticism from Republicans and former Trump officials for not having visited the border in her leading role in dealing with the migrant crisis -- although she visited in 2018 to protest Trump-era policies.",
@@ -906,450 +1339,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-21-justin-amash-questions-why-liz-cheney-didnt-speak-out-about-trump-sooner.md",
-      "title": "Justin Amash questions why Liz Cheney didn't speak out about Trump sooner",
-      "excerpt": "Justin Amash, former Republican-turned independent congressman, argued that propping up GOP Rep. Liz Cheney as \"some sort of hero\" for breaking with her party about former President Donald Trump \"is a bit misguided,\" criticizing her for not speaking up sooner.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/k_cydzoezMQ/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/k_cydzoezMQ/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 194,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210520064846-restricted-file-justin-amash-2019-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/20/politics/justin-amash-liz-cheney-axe-files/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/20/politics/justin-amash-liz-cheney-axe-files/index.html",
-      "publishedDateTime": "2021-05-20T17:38:47-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-20-biden-tries-to-claim-credit-for-cease-fire-between-israel-and-hamas.md",
-      "title": "Biden tries to claim credit for cease-fire between Israel and Hamas",
-      "excerpt": "As Israel and Hamas agreed to ceasefire after 11 days of fighting, President Biden vowed to help Israel replenish its Iron Dome system and to work with the Palestinian Authority to rebuild Gaza.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/km75sX5cpHU/biden-israel-replenish-iron-dome-limit-hamas-rocket",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/km75sX5cpHU/biden-israel-replenish-iron-dome-limit-hamas-rocket",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 595,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dc6d2359-50d5-4e84-aa4c-65ce04c230a1/680d6431-b135-4af6-8c52-6631c7868a31/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-israel-replenish-iron-dome-limit-hamas-rocket.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-israel-replenish-iron-dome-limit-hamas-rocket.amp",
-      "publishedDateTime": "2021-05-20T16:49:10-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-20-biden-administration-unable-to-continue-300-weekly-pandemic-unemployment-benefits-that-gop-governors-are-slashing.md",
-      "title": "Biden administration unable to continue $300 weekly pandemic unemployment benefits that GOP governors are slashing",
-      "excerpt": "The Labor Department has exhausted its options for continuing to pay an extra $300 a week in federal unemployment benefits to jobless people in the 22 GOP-led states that are ending them early, an administration official told CNN Thursday.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ILgDdU8Lbrg/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ILgDdU8Lbrg/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 153,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210520181322-now-hiring-sign-indiana-0507-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/20/politics/pandemic-unemployment-benefits-300-dollars/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/20/politics/pandemic-unemployment-benefits-300-dollars/index.html",
-      "publishedDateTime": "2021-05-20T16:41:55-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-20-trump-administration-secretly-obtained-cnn-reporters-phone-and-email-records.md",
-      "title": "Trump administration secretly obtained CNN reporter's phone and email records",
-      "excerpt": "The Trump administration secretly sought and obtained the 2017 phone and email records of a CNN correspondent, the latest instance where federal prosecutors have taken aggressive steps targeting journalists in leak investigations.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9tqOPv59K1g/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9tqOPv59K1g/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 272,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210520173734-doj-building-file-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/20/politics/trump-secretly-obtained-cnn-reporter-records/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/20/politics/trump-secretly-obtained-cnn-reporter-records/index.html",
-      "publishedDateTime": "2021-05-20T15:20:19-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-20-biden-says-hate-can-be-given-no-safe-harbor-as-he-signs-anti-asian-hate-crimes-bill.md",
-      "title": "Biden says ‘hate can be given no safe harbor’ as he signs anti-Asian hate crimes bill",
-      "excerpt": "President Biden on Thursday signed into law a bipartisan bill that would speed the review of hate crimes and make it easier to aid in their reporting.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/AgkMhieKPXs/biden-says-hate-can-be-given-no-safe-harbor-as-he-signs-anti-asian-hate-crimes-bill",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/AgkMhieKPXs/biden-says-hate-can-be-given-no-safe-harbor-as-he-signs-anti-asian-hate-crimes-bill",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 208,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-says-hate-can-be-given-no-safe-harbor-as-he-signs-anti-asian-hate-crimes-bill.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-says-hate-can-be-given-no-safe-harbor-as-he-signs-anti-asian-hate-crimes-bill.amp",
-      "publishedDateTime": "2021-05-20T15:07:37-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-21-biden-meets-with-kennedy-center-honorees-at-white-house.md",
-      "title": "Biden meets with Kennedy Center honorees at White House",
-      "excerpt": "President Joe Biden spent Thursday morning in a star-studded meeting with this year’s Kennedy Center honorees. The president met at the White House with the recipients of the lifetime artistic achievement awards: country music legend Garth Brooks,",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Entertainment/wireStory/biden-meets-kennedy-center-honorees-white-house-77813089",
-      "originalUrl": "https://abcnews.go.com/Entertainment/wireStory/biden-meets-kennedy-center-honorees-white-house-77813089",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 305,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Entertainment/WireAP_5ac365c5e65e44b8992dfc210d726686_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Entertainment/wireStory/biden-meets-kennedy-center-honorees-white-house-77813089",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/biden-meets-kennedy-center-honorees-white-house-77813089",
-      "publishedDateTime": "2021-05-20T13:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-05-20-un-refugee-agency-urges-biden-to-end-asylum-restrictions-on-the-border.md",
-      "title": "UN refugee agency urges Biden to end asylum restrictions on the border",
-      "excerpt": "The United Nations refugee agency urged the United States on Thursday to end Trump-era asylum restrictions on the US-Mexico border the Biden administration continues to rely on.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PNKtuV1z4uU/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PNKtuV1z4uU/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 695,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210430194632-migrants-biden-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/20/politics/un-refugee-immigration-asylum/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/20/politics/un-refugee-immigration-asylum/index.html",
-      "publishedDateTime": "2021-05-20T11:52:59-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-20-biden-increasingly-impatient-with-netanyahu-sources-say.md",
-      "title": "Biden increasingly impatient with Netanyahu, sources say",
-      "excerpt": "President Joe Biden has become increasingly impatient with Israeli Prime Minister Benjamin Netanyahu following a blunt phone call Wednesday in which the US President set a deadline for violence to ease between Israel and Hamas.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Rqwr5ZD6UVE/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Rqwr5ZD6UVE/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 475,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210201133546-biden-netanyahu-split-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/20/politics/joe-biden-benjamin-netanyahu/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/20/politics/joe-biden-benjamin-netanyahu/index.html",
-      "publishedDateTime": "2021-05-20T07:29:08-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

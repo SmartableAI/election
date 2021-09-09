@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2DN0DY"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2DN0DY"
 type: article
 quality: 125
-heat: 205
+heat: 225
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "California recall vote offers test of Biden political clout"
+    excerpt: "President Joe Biden has been beset by public health, military and climate crises in the past month. Not much time has been left to help fellow Democrat and California Gov."
+    publishedDateTime: 2021-09-08T20:14:00Z
+    webUrl: "https://apnews.com/article/joe-biden-elections-california-health-business-7ca6a0c22fde159de796b16890f126fb"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 105
+    images:
+      - url: "https://storage.googleapis.com/afs-prod/media/5f6019594be444b283cb137d38c6e538/3000.jpeg"
+        width: 3000
+        height: 2000
+        isCached: true
   - title: "President Joe Biden arrives in UK on first overseas trip of his administration, will visit 3 countries over 8 days"
     excerpt: "President Joe Biden arrives in UK on first overseas trip of his administration, will visit 3 countries over 8 days"
     publishedDateTime: 2021-06-09T18:51:00Z

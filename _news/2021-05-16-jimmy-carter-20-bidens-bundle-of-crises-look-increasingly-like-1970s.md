@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/jimmy-carter-biden-crises-1970s.amp
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jimmy-carter-biden-crises-1970s.amp"
 type: article
 quality: 175
-heat: 255
+heat: 235
 published: true
 
 provider:
@@ -62,22 +62,6 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1cfba054-5fdf-49a6-9ea3-6652fb6d8e72/5a3f7982-dd8c-49a4-a551-d0257b9d766f/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
-        isCached: true
-  - title: "Joe Biden Is No Jimmy Carter"
-    excerpt: "And if some of his accomplishments provide stark contrasts with his only-18-years-younger successor President Joe Biden, well, draw your own conclusions. I start off by noting that Carter came to the presidency with almost no relevant experience."
-    publishedDateTime: 2021-09-03T10:39:00Z
-    webUrl: "https://www.realclearpolitics.com/articles/2021/09/03/joe_biden_is_no_jimmy_carter_146353.html"
-    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/09/03/joe_biden_is_no_jimmy_carter_146353.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/09/03/joe_biden_is_no_jimmy_carter_146353.amp.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 85
-    images:
-      - url: "https://assets.realclear.com/images/51/519090_5_.jpg"
-        width: 750
-        height: 544
         isCached: true
   - title: "Hemingway: Biden's Self-Inflicted Wound At The Southern Border"
     excerpt: "Mollie Hemingway commented on reports that the Biden administration is reallocating $2.1 billion to the Southern border, saying that voters are likely surprised how fast the situation spiraled out of control during FNC's \"Outnumbered\" panel on Monday."

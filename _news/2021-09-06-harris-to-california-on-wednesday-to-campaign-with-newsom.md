@@ -124,6 +124,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "U.S. VP Harris Rallies for California Governor Facing Recall"
+    excerpt: "U.S. Vice President Kamala Harris speaks during an appearance with California Governor Gavin Newsom, who is facing a Republican-led recall election in September, in San Leandro, California, U.S., September 8,"
+    publishedDateTime: 2021-09-08T20:48:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-09-08/us-vp-harris-rallies-for-california-governor-facing-recall"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "PJBAY0PwMmbUsYfv05t3hkRU6opHMPVB8+qOP3//GDUT3J99wRUFvnia3bSPaVcRRoGElEWgwtrSD5ikH3CAPhqw9G3hY+mmCb3LsIvf3xgHOVyXhwJJF25GA4d2Dejv9DRBq9d2qbhkOG78+Cso6jMZGg0G17+F7v3ybqrXwatWzAyXgp4EgBTU64SIYnqqHNWvwrWqA923GQz9PnTq/qvYIIN9UrPhqoBJVkaSv2OMj4Y4e27uwAqYLd+sgIbqbvx2MupWMGuvrNTz8eUZIIPl3RLp5PMVSO5QZr6s5kEALYiVPAexASEOCVC6wYZs40iExGHaAII/rv5OdD1zYI6T3palhtYHwVs49QaZUj1gd9PvOpBsUiMXgBQ9QLdlnzhKUTWOiwG+M/X/hoP6nP13vbIbux8I7mzr63nRcxgxDa+xrdJZxZtI/9o26QoOqo6AnohoYsjAS/ZSnyptVNEFn+S5YUeW66AvI0NmQJe643Zgt9uAve8t2/tR+beQzgPNFeC16SA55NRH5ox7pQ==;jeEKeUbogNaknaNIkkUhWA=="
 ---

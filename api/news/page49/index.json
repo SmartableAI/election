@@ -2,6 +2,426 @@
   "page": 49,
   "value": [
     {
+      "path": "_news/2021-05-29-biden-budget-highlights-lots-of-spending-taxing-the-rich.md",
+      "title": "Biden budget highlights: Lots of spending, taxing the rich",
+      "excerpt": "President Joe Biden’s $6 trillion budget proposal offers major new initiatives like child and elder care subsidies, generous tax credits for families and the working poor, and free community college",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Business/wireStory/biden-budget-highlights-lots-spending-taxing-rich-77975394",
+      "originalUrl": "https://abcnews.go.com/Business/wireStory/biden-budget-highlights-lots-spending-taxing-rich-77975394",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 285,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/WireAP_f0a0e4ffd3e348ec92ebab4bdd69a565_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Business/wireStory/biden-budget-highlights-lots-spending-taxing-rich-77975394",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/biden-budget-highlights-lots-spending-taxing-rich-77975394",
+      "publishedDateTime": "2021-05-28T21:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-05-29-bidens-6-trillion-budget-dropped-key-campaign-promises-on-student-debt-cancellation-and-healthcare-reform.md",
+      "title": "Biden's $6 trillion budget dropped key campaign promises on student debt cancellation and healthcare reform",
+      "excerpt": "The White House budget blueprint is focused on infrastructure plans already on the table, which include cash payments for parents and universal pre-K.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/bidens-budget-campaign-promises-student-debt-and-healthcare-reform-2021-5",
+      "originalUrl": "https://www.businessinsider.com/bidens-budget-campaign-promises-student-debt-and-healthcare-reform-2021-5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/609c3d3a6a3ce80019e04192?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/bidens-budget-campaign-promises-student-debt-and-healthcare-reform-2021-5?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/bidens-budget-campaign-promises-student-debt-and-healthcare-reform-2021-5?amp",
+      "publishedDateTime": "2021-05-28T16:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-05-28-check-out-kamala-harris-naval-academy-graduation-punchline-just-ask-any-marine-today.md",
+      "title": "Check out Kamala Harris' Naval Academy graduation punchline: 'Just ask any Marine today...'",
+      "excerpt": "Vice President Kamala Harris made a joke about green electricity during her commencement speech at the U.S. Naval Academy in Annapolis Friday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/lNyyYiNClTs/kamala-harris-naval-academy-graduation-joke",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/lNyyYiNClTs/kamala-harris-naval-academy-graduation-joke",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/05/720/405/AP21148533253450.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/kamala-harris-naval-academy-graduation-joke.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-naval-academy-graduation-joke.amp",
+      "publishedDateTime": "2021-05-28T15:52:01-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-05-29-mike-pence-tweets-that-he-and-his-wife-will-attend-the-indy-500.md",
+      "title": "Mike Pence tweets that he and his wife will attend the Indy 500",
+      "excerpt": "The former vice president tweeted Friday afternoon that he'll be among the race's 135,000 attendees this year.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/entertainment/indy-500/2021/05/28/indy-500-celebrities-former-vice-president-mike-pence-attend/5254543001/",
+      "originalUrl": "https://www.usatoday.com/story/entertainment/indy-500/2021/05/28/indy-500-celebrities-former-vice-president-mike-pence-attend/5254543001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/01/20/PIND/c81436e0-3d7b-4731-aaa3-94b9139346e5-01202021_Pence_GH_003.jpg?auto=webp&crop=3730,2099,x0,y565&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/5254543001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5254543001",
+      "publishedDateTime": "2021-05-28T15:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-05-28-these-attacks-are-despicable-biden-condemns-rise-in-anti-semitic-incidents.md",
+      "title": "'These attacks are despicable': Biden condemns rise in anti-Semitic incidents",
+      "excerpt": "President Joe Biden on Friday condemned the rise in anti-Semitic attacks across the country in recent weeks, saying the incidents are \"despicable, unconscionable, un-American, and they must stop.\"\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/S_X6hvEBw1Y/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/S_X6hvEBw1Y/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 172,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210528074948-01-joe-biden-0520-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/28/politics/biden-condemns-anti-semitic-attacks/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/28/politics/biden-condemns-anti-semitic-attacks/index.html",
+      "publishedDateTime": "2021-05-28T15:35:25-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-28-biden-calls-recent-spike-in-anti-semitic-attacks-despicable-unconscionable-un-american.md",
+      "title": "Biden calls recent spike in anti-Semitic attacks ‘despicable, unconscionable, un-American’",
+      "excerpt": "President Biden called a recent wave of anti-Semitic attacks after the violence in Israel and Gaza “unconscionable.”",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Duc3iPv5Ob0/biden-spike-anti-semitic-attacks-despicable-unconscionable-un-american",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Duc3iPv5Ob0/biden-spike-anti-semitic-attacks-despicable-unconscionable-un-american",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6ada39e0-4be0-43b2-8ef3-26f3ebfa1e93/141116e1-8abd-474f-a22d-429f1971b439/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-spike-anti-semitic-attacks-despicable-unconscionable-un-american.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-spike-anti-semitic-attacks-despicable-unconscionable-un-american.amp",
+      "publishedDateTime": "2021-05-28T15:33:56-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-29-tennessee-shelter-for-immigrant-children-opened-under-trump.md",
+      "title": "Tennessee shelter for immigrant children opened under Trump",
+      "excerpt": "Tennessee licensed a shelter for immigrant children a year before the state’s Republican governor and U.S. Senators began expressing outrage over unaccompanied minors sent to Chattanooga",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/tennessee-shelter-immigrant-children-opened-trump-77971795",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/tennessee-shelter-immigrant-children-opened-trump-77971795",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 185,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/site/ABCNews_flat_black.png",
+          "width": 834,
+          "height": 308,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/tennessee-shelter-immigrant-children-opened-trump-77971795",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/tennessee-shelter-immigrant-children-opened-trump-77971795",
+      "publishedDateTime": "2021-05-28T14:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-05-29-mcconnell-to-trump-whats-a-little-insurrection-between-friends.md",
+      "title": "McConnell to Trump: What’s a Little Insurrection Between Friends?",
+      "excerpt": "Mitch McConnell gave his members permission to vote to impeach Trump, and even briefly entertained the possibility of joining them. By now, whatever defiant impulse the party’s establishment harbored has died down to the point where a former officeholder merely hinting that Trump is politically optimal rates as a news story.",
+      "sourceUrl": null,
+      "webUrl": "https://nymag.com/intelligencer/2021/05/mcconnell-blocks-january-6-commission-senate-filibuster-trump-riot.html",
+      "originalUrl": "https://nymag.com/intelligencer/2021/05/mcconnell-blocks-january-6-commission-senate-filibuster-trump-riot.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://pyxis.nymag.com/v1/imgs/a14/14e/8711801fbf6ea18d66d6e885b9b0164d4a-ni-trump-mcconnell.1x.rsocial.w1200.jpg",
+          "width": 1200,
+          "height": 632,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nymag.com/intelligencer/amp/2021/05/mcconnell-blocks-january-6-commission-senate-filibuster-trump-riot.html",
+      "cdnAmpWebUrl": "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/05/mcconnell-blocks-january-6-commission-senate-filibuster-trump-riot.html",
+      "publishedDateTime": "2021-05-28T13:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Magazine",
+        "domain": "nymag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-05-28-biden-china-thinks-it-will-own-america-by-2035.md",
       "title": "Biden: China thinks it will 'own America' by 2035",
       "excerpt": "President Biden, addressing the evolving landscape of foreign threats to the country, told troops Friday that China thinks it will “own America” in the next 15 years.",
@@ -927,440 +1347,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-27-biden-blasts-republicans-for-touting-covid-relief-funds-they-voted-against-some-people-have-no-shame.md",
-      "title": "Biden blasts Republicans for touting Covid relief funds they voted against: 'Some people have no shame' ",
-      "excerpt": "President Joe Biden on Thursday criticized Republican lawmakers who have touted parts of the Covid-19 economic relief law that benefit their constituents despite having voted against the law, saying: \"Some people have no shame.\"\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pJFwa-IDoZU/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pJFwa-IDoZU/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 158,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210527155040-biden-gop-list-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/27/politics/biden-republicans-covid-funds/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/27/politics/biden-republicans-covid-funds/index.html",
-      "publishedDateTime": "2021-05-27T14:22:31-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-28-las-cruces-man-accused-of-plotting-biden-assassination-mass-shooting.md",
-      "title": "Las Cruces man accused of plotting Biden assassination, mass shooting",
-      "excerpt": ":Lawyer: Las Cruces resident denies threatening to kill Biden. LAS CRUCES – The FBI is alleging a Las Cruces man sent text messages with plans to kill U.S. President Joe B",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/crime/2021/05/26/las-cruces-man-accused-plotting-to-kill-president-joe-biden/7448404002/",
-      "originalUrl": "https://www.usatoday.com/story/news/crime/2021/05/26/las-cruces-man-accused-plotting-to-kill-president-joe-biden/7448404002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 445,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2019/10/29/PNM2/f47728ed-1b01-4073-a3fb-e642ba2b5b7c-Federal_courthouse_Las_Cruces_3.jpg?auto=webp&crop=5216,2934,x37,y9&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/7448404002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7448404002",
-      "publishedDateTime": "2021-05-27T14:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-05-28-the-daily-202-biden-resurrects-the-politically-potent-wuhan-lab-leak-pandemic-theory.md",
-      "title": "The Daily 202: Biden resurrects the politically potent Wuhan lab-leak pandemic theory",
-      "excerpt": "President Biden breathed new life yesterday into the theory that the pandemic began when the virus escaped from a Chinese lab — an unproven but politically potent scenario Republicans have used to attack Beijing and defend former president Donald Trump.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/2021/05/27/daily-202-biden-resurrects-politically-potent-wuhan-lab-leak-pandemic-theory/",
-      "originalUrl": "https://www.washingtonpost.com/politics/2021/05/27/daily-202-biden-resurrects-politically-potent-wuhan-lab-leak-pandemic-theory/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OKDBHQV6KMI6XERKYQGJO5F4JA.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/2021/05/27/daily-202-biden-resurrects-politically-potent-wuhan-lab-leak-pandemic-theory/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/05/27/daily-202-biden-resurrects-politically-potent-wuhan-lab-leak-pandemic-theory/?outputType=amp",
-      "publishedDateTime": "2021-05-27T12:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-05-28-matt-gaetz-plans-to-run-for-president-in-2024-but-only-if-donald-trump-doesnt.md",
-      "title": "Matt Gaetz Plans to Run For President in 2024— But Only If Donald Trump Doesn't",
-      "excerpt": "In a text sent to the New York Post, Gaetz said, \"I support Donald Trump for president. I've directly encouraged him to run and he gives me every indication he will.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/matt-gaetz-plans-run-president-2024-only-if-donald-trump-doesnt-1595562",
-      "originalUrl": "https://www.newsweek.com/matt-gaetz-plans-run-president-2024-only-if-donald-trump-doesnt-1595562",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1809008/matt-gaetz.jpg",
-          "width": 2500,
-          "height": 1665,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/matt-gaetz-plans-run-president-2024-only-if-donald-trump-doesnt-1595562?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/matt-gaetz-plans-run-president-2024-only-if-donald-trump-doesnt-1595562?amp=1",
-      "publishedDateTime": "2021-05-27T10:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-05-27-us-judge-says-trumps-election-falsehoods-still-pose-security-risk.md",
-      "title": "U.S. judge says Trump's election falsehoods still pose security risk",
-      "excerpt": "A U.S. judge said there is a risk that Donald Trump's supporters could still carry out attacks similar to the deadly Jan. 6 assault on the U.S. Capitol, noting the former president's \"near-daily fulminations\" about his election loss have not subsided.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-capitol-arrests-idUSKCN2D81NZ",
-      "originalUrl": "https://www.reuters.com/article/us-usa-capitol-arrests-idUSKCN2D81NZ",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 860,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210527&t=2&i=1563618128&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH4Q0UP",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKCN2D81NZ",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2D81NZ",
-      "publishedDateTime": "2021-05-27T09:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-05-27-trump-giuliani-urge-judge-to-throw-out-democrats-capitol-riot-lawsuit.md",
-      "title": "Trump, Giuliani urge judge to throw out Democrats' Capitol riot lawsuit",
-      "excerpt": "Giuliani's use of the phrase \"trial by combat\" during the rally that preceded the riot referred to future legal challenges, not anything happening at the Capitol, his lawyer said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/donald-trump/trump-giuliani-urge-judge-throw-out-democrats-capitol-riot-lawsuit-n1268757",
-      "originalUrl": "https://www.nbcnews.com/politics/donald-trump/trump-giuliani-urge-judge-throw-out-democrats-capitol-riot-lawsuit-n1268757",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_21/3450394/210216-trump-giuliani-jm-1024.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1268757",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1268757",
-      "publishedDateTime": "2021-05-27T09:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-27-republican-governors-face-the-trump-litmus-test-as-elections-approach.md",
-      "title": "Republican governors face the Trump litmus test as elections approach",
-      "excerpt": "Donald Trump is causing a headache for the Republican Governors Association.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xsbnjn3Qoas/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xsbnjn3Qoas/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 610,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/181103123215-02-doug-ducey-file-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/27/politics/trump-rga-governors/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/27/politics/trump-rga-governors/index.html",
-      "publishedDateTime": "2021-05-27T09:00:16-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-27-china-hits-back-at-wuhan-lab-leak-conspiracy-after-biden-calls-for-covid-probe.md",
-      "title": "China hits back at Wuhan lab leak 'conspiracy' after Biden calls for Covid probe",
-      "excerpt": "Some world leaders and scientists have criticized Beijing for not raising the international alarm quickly enough over the coronavirus outbreak.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/news/world/china-hits-back-wuhan-lab-leak-conspiracy-after-biden-calls-n1268704",
-      "originalUrl": "https://www.nbcnews.com/news/world/china-hits-back-wuhan-lab-leak-conspiracy-after-biden-calls-n1268704",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 130,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_21/3478134/210527-covid-origin-mc-9202.jpg",
-          "width": 2500,
-          "height": 1664,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1268704",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1268704",
-      "publishedDateTime": "2021-05-27T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
       ]
     }
   ],

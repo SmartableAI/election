@@ -363,22 +363,6 @@ related:
         width: 480
         height: 320
         isCached: true
-  - title: "Lying Joe Biden, from comedy to tragedy"
-    excerpt: "How could a comic figure from the world of politics such as President Joe Biden suddenly become such a tragic figure on the American scene?"
-    publishedDateTime: 2021-09-07T19:18:00Z
-    webUrl: "https://www.washingtontimes.com/news/2021/sep/7/lying-joe-biden-from-comedy-to-tragedy/"
-    ampWebUrl: "https://amp.washingtontimes.com/news/2021/sep/7/lying-joe-biden-from-comedy-to-tragedy/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/sep/7/lying-joe-biden-from-comedy-to-tragedy/"
-    type: article
-    provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 75
-    images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2021/09/07/B1-Tyrrell_c0-149-1800-1199_s1200x700.jpg?fe21c64950503d8fffef41ed363bae5783de6b1f"
-        width: 1200
-        height: 700
-        isCached: true
   - title: "President Joe Biden's granddaughter, Naomi, engaged to longtime boyfriend"
     excerpt: "President Joe Biden's granddaughter, Naomi Biden, announced Sunday that she is engaged to Peter Neal, her longtime boyfriend."
     publishedDateTime: 2021-09-06T19:08:00Z
