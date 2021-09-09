@@ -1,10 +1,10 @@
 ---
 category: news
 title: "VP Kamala Harris and California Gov. Gavin Nerwsom Hold Vote No on Recall Rall76"
-excerpt: "Vice President Kamala Harris speaks at a 'vote no on recall' rally for California Governor Gavin Newsom at the IBEW-NECA Joint Apprenticeship Training Center in San Leandro, California on Wednesday, September 8,"
+excerpt: "California Governor Gavin Newsom waves with Vice President Kamala Harris at a 'vote no on recall' rally at the IBEW-NECA Joint Apprenticeship Training Center in San Leandro, California on Wednesday, September 8,"
 publishedDateTime: 2021-09-08T22:22:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/f9273f3df972c056597095a59bf5d69b/VP-Kamala-Harris-and-California-Gov-Gavin-Nerwsom-Hold-Vote-No-on-Recall-Rall76/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/f9273f3df972c056597095a59bf5d69b/VP-Kamala-Harris-and-California-Gov-Gavin-Nerwsom-Hold-Vote-No-on-Recall-Rall76/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/54517538382a734eab52ef66053f1528/VP-Kamala-Harris-and-California-Gov-Gavin-Nerwsom-Hold-Vote-No-on-Recall-Rall76/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/54517538382a734eab52ef66053f1528/VP-Kamala-Harris-and-California-Gov-Gavin-Nerwsom-Hold-Vote-No-on-Recall-Rall76/"
 type: article
 quality: 50
 heat: -1
@@ -19,9 +19,9 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/f9273f3df972c056597095a59bf5d69b/HARRIS-NEWSOM.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/54517538382a734eab52ef66053f1528/HARRIS-NEWSOM.jpg"
     width: 650
-    height: 432
+    height: 447
     isCached: true
 
 related:
@@ -905,6 +905,22 @@ related:
         width: 1080
         height: 720
         isCached: true
+  - title: "Kamala Harris stumps for Gov. Gavin Newsom in California, blames GOP for recall effort"
+    excerpt: "Vice President Kamala Harris urged Californians Wednesday to rescue Democratic Gov. Gavin Newsom, saying next week’s recall election is part of a nationwide Republican power play that includes new abortion restrictions in Texas and limits on voting in GOP-led states."
+    publishedDateTime: 2021-09-08T21:41:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/sep/8/kamala-harris-stumps-gov-gavin-newsom-california-b/"
+    ampWebUrl: "https://amp.washingtontimes.com/news/2021/sep/8/kamala-harris-stumps-gov-gavin-newsom-california-b/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/sep/8/kamala-harris-stumps-gov-gavin-newsom-california-b/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 67
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2021/09/08/Harris_California_Recall_87600.jpg-8da04_c0-230-5525-3452_s1200x700.jpg?f172c0ed6a03917150c3802d23011865079092ed"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "Kamala Harris at Newsom rally links California recall to new Republican abortion, voting laws"
     excerpt: "Republicans “think if they can win in California they can do this anywhere,” Vice President Kamala Harris said."
     publishedDateTime: 2021-09-08T20:16:00Z
@@ -1198,6 +1214,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "ePFM2pXju29FH4Yumx1Kfhy/5WgbjktZL9+EygpTa7N0uE0LjC6zpC2rBC26RwBakOX5KxDbSpyO4KnVo/zL69jX7q7qdyr6ZZt4C2zAoslCGdia9raZ/oCiOC3eq7XbWBN/mGUvJj9OQd+fqfez7MvpH7YnJgrOFXKhXnCQ9CgA/HK9QfQJW1wYXJ706suodGIbWlL00S7rxSl1m2afCMoWPYub9/EVJ1Budj2QIYm3WAKEqeDIhAJlY0/Sx0bmLH+wQq2jHW9D/wRDR9xcUsEVEg77A1y8B+J2Qp+zptVWPRw6b9EF5dKjWjDXw7PKClCrVFdcRPA2IbDmtqn8igwTu6KdOWdW2qkwFPiG88SR3u2ozP8da7tm7eawMuW0+HulXe7jyekAivcd7+neNw8AR0w6ip/yoMC76NVW8L6s++MxJbQ0FZKR8eX7viWjD2uDF56zjgPRRf+dIzmoXxjcQID+fTvBEtN4omfCyL70cnh8TZ4t/LvRSmrpMh//BbYXvQli4v/FUh9FqK9g/A==;AQQFRt0YN42Gwl0+3uZUQw=="
+secured: "l/oaiKWk48X9RU1+UqGFf3LBV2SeLc3wyi+aCR9XoMIpDliuexcpFExN01lY33AnGO6sO729pJGxJqu3vCSREzySNVCv3sja8266aSwoCamL8JmLJXixvoJULTRtaPJfyMn8CKn2hQ4YcRmpMzbsuJgvmVQXhCdElDshBnwLECB1p95zsps+VDXiWjgfiFj7q2Cr4HoMhrcGvfX9N3ZHq/TYa7uqn+q8aovJKKAKOlThVC5zfqQdejeQJrplIcXHpvUsQs0xUoxAeEy3VyhH5gYpct11ZHYq2JSGQrZPRprgMcgEsK9GZ3vVtsgYgLpRUXkV7vfFOXfDB5TZ5t1QTT5NCO6oUbhT4MRTJgyEDc4=;DGZtox3/0qmHqUXmDpghFw=="
 ---
 

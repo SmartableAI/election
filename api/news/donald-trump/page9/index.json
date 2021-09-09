@@ -2,6 +2,58 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-07-04-donald-trump-compares-new-york-tax-fraud-charges-to-a-communist-dictatorship.md",
+      "title": "Donald Trump Compares New York Tax Fraud Charges to a 'Communist Dictatorship'",
+      "excerpt": "\"It's unprecedented, unheard of and totally unacceptable in America for prosecutors to run for office on a promise to get their political enemies,\" Trump said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/donald-trump-compares-new-york-tax-fraud-charges-communist-dictatorship-1606706",
+      "originalUrl": "https://www.newsweek.com/donald-trump-compares-new-york-tax-fraud-charges-communist-dictatorship-1606706",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1837397/trump-speaks-sarasota-rally-florida.jpg",
+          "width": 3000,
+          "height": 2001,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/donald-trump-compares-new-york-tax-fraud-charges-communist-dictatorship-1606706?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-compares-new-york-tax-fraud-charges-communist-dictatorship-1606706?amp=1",
+      "publishedDateTime": "2021-07-03T18:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-07-03-absolutely-no-doubt-donald-trump-is-running-for-president-again-says-steve-bannon.md",
       "title": "'Absolutely No Doubt' Donald Trump Is Running for President Again, Says Steve Bannon",
       "excerpt": "\"The MAGA movement, the America First movement is more engaged, more energized,\" said the former Trump administration official.",
@@ -1539,58 +1591,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-28-adam-kinzinger-blames-kevin-mccarthy-for-resurrecting-trumps-election-lies.md",
-      "title": "Adam Kinzinger Blames Kevin McCarthy for Resurrecting Trump's Election Lies",
-      "excerpt": "Kinzinger said the House minority leader had \"resurrected\" Donald Trump politically after first denouncing the former president in the aftermath of the Capitol riot.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/adam-kinzinger-blames-kevin-mccarthy-resurrecting-trumps-election-lies-1604600",
-      "originalUrl": "https://www.newsweek.com/adam-kinzinger-blames-kevin-mccarthy-resurrecting-trumps-election-lies-1604600",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 178,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1831487/rep-adam-kinzinger-talks-reporters.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/adam-kinzinger-blames-kevin-mccarthy-resurrecting-trumps-election-lies-1604600?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/adam-kinzinger-blames-kevin-mccarthy-resurrecting-trumps-election-lies-1604600?amp=1",
-      "publishedDateTime": "2021-06-28T02:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

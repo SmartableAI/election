@@ -2,6 +2,170 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2021-07-05-how-much-money-could-biden-raise-for-infrastructure-through-tougher-irs-enforcement-its-not-clear.md",
+      "title": "How much money could Biden raise for infrastructure through tougher IRS enforcement? It's not clear",
+      "excerpt": "President Joe Biden wants to raise money for his ambitious economic agenda by ramping up enforcement at the Internal Revenue Service -- a way for the federal government to spend more money without raising taxes or adding to the deficit, making it a win-win in the eyes of lawmakers.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/q98sRXGfmF8/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/q98sRXGfmF8/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 161,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210624050244-infrastructure-0406-virginia-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/05/politics/biden-infrastructure-plan-irs-enforcement/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/05/politics/biden-infrastructure-plan-irs-enforcement/index.html",
+      "publishedDateTime": "2021-07-05T05:00:14-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-05-trump-took-a-sudden-interest-in-ghislaine-maxwell-when-discussing-who-to-pardon-according-to-a-new-book.md",
+      "title": "Trump took a 'sudden interest' in Ghislaine Maxwell when discussing who to pardon, according to a new book",
+      "excerpt": "Donald Trump asked of Ghislaine Maxwell: \"Is she going to talk? Will she roll on anybody?\" according to journalist Michael Wolff",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/donald-trump-ghislaine-maxwell-case-pardons-michael-wolff-book-2021-7",
+      "originalUrl": "https://www.businessinsider.com/donald-trump-ghislaine-maxwell-case-pardons-michael-wolff-book-2021-7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/60e2f03e22d19400191c912e?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/donald-trump-ghislaine-maxwell-case-pardons-michael-wolff-book-2021-7?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/donald-trump-ghislaine-maxwell-case-pardons-michael-wolff-book-2021-7?amp",
+      "publishedDateTime": "2021-07-04T22:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-07-05-even-with-our-darkest-days-gone-biden-cant-declare-full-independence-from-virus.md",
+      "title": "Even with our 'darkest days' gone, Biden can't declare full independence from virus",
+      "excerpt": "President Joe Biden conjured a vision of Americans coming back together and reclaiming their freedom from the worst ravages of the pandemic as a nation long silenced by sickness and death exploded back to life on the Fourth of July.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SCi1qecHYkk/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SCi1qecHYkk/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 209,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210704213450-washington-dc-fireworks-july-4-pink-washington-monument-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/05/politics/biden-coronavirus-delta-variant-independence-day/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/05/politics/biden-coronavirus-delta-variant-independence-day/index.html",
+      "publishedDateTime": "2021-07-04T21:05:19-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-05-trump-endorsed-greg-abbott-gets-gop-challenger-for-texas-governor-who-is-allen-west.md",
       "title": "Trump-Endorsed Greg Abbott Gets GOP Challenger for Texas Governor. Who Is Allen West?",
       "excerpt": "West said \"the sovereignty of Texas\" is at risk from illegal immigration, and he's interested in going after banks laundering money for drug cartels.",
@@ -1164,162 +1328,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-03-absolutely-no-doubt-donald-trump-is-running-for-president-again-says-steve-bannon.md",
-      "title": "'Absolutely No Doubt' Donald Trump Is Running for President Again, Says Steve Bannon",
-      "excerpt": "\"The MAGA movement, the America First movement is more engaged, more energized,\" said the former Trump administration official.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/absolutely-no-doubt-donald-trump-running-president-again-says-steve-bannon-1606640",
-      "originalUrl": "https://www.newsweek.com/absolutely-no-doubt-donald-trump-running-president-again-says-steve-bannon-1606640",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1837346/trump-bannon.jpg",
-          "width": 1024,
-          "height": 692,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/absolutely-no-doubt-donald-trump-running-president-again-says-steve-bannon-1606640?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/absolutely-no-doubt-donald-trump-running-president-again-says-steve-bannon-1606640?amp=1",
-      "publishedDateTime": "2021-07-03T07:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-03-biden-has-chosen-the-daughter-of-a-holocaust-survivor-to-be-us-ambassador-to-germany.md",
-      "title": "Biden has chosen the daughter of a Holocaust survivor to be US ambassador to Germany",
-      "excerpt": "Amy Gutmann, who is currently the University of Pennsylvania's president, is the daughter of a Holocaust survivor who fled Nazi Germany in 1934.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/biden-picks-amy-gutmann-holocaust-survivor-daughter-germany-ambassador-2021-7",
-      "originalUrl": "https://www.businessinsider.com/biden-picks-amy-gutmann-holocaust-survivor-daughter-germany-ambassador-2021-7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/60e04d037cd04c001a227cc0?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/biden-picks-amy-gutmann-holocaust-survivor-daughter-germany-ambassador-2021-7?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-picks-amy-gutmann-holocaust-survivor-daughter-germany-ambassador-2021-7?amp",
-      "publishedDateTime": "2021-07-03T04:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-07-03-we-need-you-to-stop-the-counting-records-detail-intense-efforts-by-trump-allies-to-pressure-maricopa-county-supervisors.md",
-      "title": "'We need you to stop the counting': Records detail intense efforts by Trump allies to pressure Maricopa County supervisors",
-      "excerpt": "New records reveal the behind-the scenes efforts by Trump, Rudy Giuliani, and state GOP Chair Kelli Ward to pressure Maricopa County supervisors.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2021/07/03/records-show-trump-allies-kelli-ward-rudy-giuliani-pressured-county-officials-over-election-results/7846142002/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/07/03/records-show-trump-allies-kelli-ward-rudy-giuliani-pressured-county-officials-over-election-results/7846142002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/07/02/PPHX/b5ce0a59-1524-4572-81df-369ffbbee0f9-Donald_Trump_Kelli_Ward_Rudy_Giuliani.jpg?auto=webp&crop=1849,1040,x0,y102&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/7846142002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7846142002",
-      "publishedDateTime": "2021-07-03T04:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

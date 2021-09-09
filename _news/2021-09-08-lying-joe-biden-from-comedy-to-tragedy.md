@@ -61,15 +61,15 @@ related:
         isCached: true
   - title: "Former Trump press secretary Sean Spicer asked to resign from Naval Academy Board of Visitors"
     excerpt: "Former Trump press secretary Sean Spicer was among several people asked to resign from the Naval Academy Board of Visitors, as President Joe Biden removes Trump appointees from service academy advisory boards."
-    publishedDateTime: 2021-09-08T21:42:00Z
-    webUrl: "https://www.baltimoresun.com/education/ac-cn-sean-spicer-naval-academy-board-of-visitors-20210908-bdz7a75ca5h5ld4aog633s7xoe-story.html"
+    publishedDateTime: 2021-09-09T00:42:00Z
+    webUrl: "https://www.capitalgazette.com/education/naval-academy/ac-cn-sean-spicer-naval-academy-board-of-visitors-20210908-bdz7a75ca5h5ld4aog633s7xoe-story.html"
     type: article
     provider:
-      name: The Baltimore Sun
-      domain: baltimoresun.com
+      name: Capital Gazette
+      domain: capitalgazette.com
     quality: 44
     images:
-      - url: "https://www.baltimoresun.com/resizer/1xOv-0WdvfZdiNdQh_3mlFnxyhI=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/4OWC245UB5HWFG7SO6OFQ3ASJU"
+      - url: "https://www.capitalgazette.com/resizer/1xOv-0WdvfZdiNdQh_3mlFnxyhI=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/4OWC245UB5HWFG7SO6OFQ3ASJU"
         width: 1200
         height: 675
         isCached: true

@@ -2,6 +2,171 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-08-18-biden-pushes-for-vaccine-booster-shots-starting-in-september.md",
+      "title": "Biden pushes for vaccine booster shots starting in September",
+      "excerpt": "Biden announced a plan to offer COVID-19 vaccine booster shots beginning the week of September 20",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2asPfLZtTzY/biden-pushes-for-vaccine-booster-shots-starting-in-september",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2asPfLZtTzY/biden-pushes-for-vaccine-booster-shots-starting-in-september",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 295,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f850f181-a8b7-4e53-aff1-b2f6a57a4421/b2dd30f1-028f-4be2-90c5-01a4b4eaf1d4/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-pushes-for-vaccine-booster-shots-starting-in-september.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-pushes-for-vaccine-booster-shots-starting-in-september.amp",
+      "publishedDateTime": "2021-08-18T14:36:43-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-08-19-trump-family-friend-associate-ken-kurson-re-arrested-on-cyber-stalking-charges.md",
+      "title": "Trump family friend, associate Ken Kurson re-arrested on cyber-stalking charges",
+      "excerpt": "Seven months after he was granted a pardon by then-President Trump, Ken Kurson, a friend of Trump's son-in-law, was arrested Wednesday on new charges.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/US/trump-family-friend-associate-ken-kurson-arrested-cyber/story?id=79507632",
+      "originalUrl": "https://abcnews.go.com/US/trump-family-friend-associate-ken-kurson-arrested-cyber/story?id=79507632",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 241,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/US/jared-kushner-ken-kurson-gty-jt-210817_1629240427687_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/US/trump-family-friend-associate-ken-kurson-arrested-cyber/story?id=79507632",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/trump-family-friend-associate-ken-kurson-arrested-cyber/story?id=79507632",
+      "publishedDateTime": "2021-08-18T12:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-08-19-vivek-ramaswamy-calls-out-kamala-harris-silence-on-afghan-women-shes-totally-lost.md",
+      "title": "Vivek Ramaswamy calls out Kamala Harris' silence on Afghan women: 'She's totally lost'",
+      "excerpt": "Vivek Ramaswamy, author of Woke, Inc., called out Vice President Kamala Harris for her silence as some Afghan women face civil rights violations at the hands of the Taliban. Ramaswamy called it a ‘wasted opportunity’ for the vice president who could have positioned herself as a leader on women's rights.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/kamala-harris-silence-afghan-women-vivek-ramaswamy",
+      "originalUrl": "https://www.foxnews.com/media/kamala-harris-silence-afghan-women-vivek-ramaswamy",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7fbcb30d-5c36-4b64-8bf5-6342b1ea9899/b2d0d9e2-8c40-4f28-b0b8-7df556b93879/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/kamala-harris-silence-afghan-women-vivek-ramaswamy.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/kamala-harris-silence-afghan-women-vivek-ramaswamy.amp",
+      "publishedDateTime": "2021-08-18T11:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-08-18-cnns-jeffrey-toobin-ripped-over-column-arguing-against-prosecuting-trump.md",
       "title": "CNN’s Jeffrey Toobin ripped over column arguing against prosecuting Trump",
       "excerpt": "CNN legal analyst Jeffrey Toobin is facing backlash on social media over a column urging Attorney General Merrick Garland not to seek criminal prosecution of former",
@@ -1141,135 +1306,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-14-newsom-paints-larry-elder-as-right-of-donald-trump-as-recall-election-heats-up.md",
-      "title": "Newsom paints Larry Elder as ‘right of Donald Trump’ as recall election heats up",
-      "excerpt": "Gov. Gavin Newsom was joined by prominent San Francisco politicians at Manny’s in San Francisco’s Mission District on Friday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eastbaytimes.com/2021/08/13/newsom-recall-election-heats-up-as-governor-and-candidates-hit-the-campaign-trail/",
-      "originalUrl": "https://www.eastbaytimes.com/2021/08/13/newsom-recall-election-heats-up-as-governor-and-candidates-hit-the-campaign-trail/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eastbaytimes.com/wp-content/uploads/2021/08/SJM-L-CAMPAIGN-0814-09-1.jpg?w=1024&#038;h=685",
-          "width": 1024,
-          "height": 685,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.eastbaytimes.com/2021/08/13/newsom-recall-election-heats-up-as-governor-and-candidates-hit-the-campaign-trail/amp/",
-      "cdnAmpWebUrl": "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2021/08/13/newsom-recall-election-heats-up-as-governor-and-candidates-hit-the-campaign-trail/amp/",
-      "publishedDateTime": "2021-08-13T23:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "East Bay Times",
-        "domain": "eastbaytimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-08-14-moscow-says-no-plans-to-discuss-edward-snowdens-status-during-trump-putin-summit.md",
-      "title": "Moscow says no plans to discuss Edward Snowden’s status during Trump-Putin summit",
-      "excerpt": "Russia's foreign minister on Friday cast doubt on the possibility of extraditing Edward Snowden, the fugitive former National Security Agency contractor who received political asylum from Moscow after leaking classified documents to the media in 2013.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/article/europe-summits-moscow-edward-snowden-be8e1b459165d0679b18d86e21d5deb7",
-      "originalUrl": "https://apnews.com/article/europe-summits-moscow-edward-snowden-be8e1b459165d0679b18d86e21d5deb7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/ShareLogo2.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-13T16:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-08-14-lamborn-dismissed-pandemic-as-hoax-meant-to-derail-trumps-reelection-ex-staffer-says-in-sworn-statement.md",
-      "title": "Lamborn dismissed pandemic as hoax meant to derail Trump’s reelection, ex-staffer says in sworn statement",
-      "excerpt": "Allegations that U.S. Rep. Doug Lamborn, R-Colorado Springs, fired a staffer in retaliation after the staffer sought to protect himself and others during the pandemic are true, another former",
-      "sourceUrl": null,
-      "webUrl": "https://www.denverpost.com/2021/08/13/doug-lamborn-congress-colorado-lawsuit-allegations/",
-      "originalUrl": "https://www.denverpost.com/2021/08/13/doug-lamborn-congress-colorado-lawsuit-allegations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.denverpost.com/wp-content/uploads/2021/01/AP21004705580102.jpg?w=1024&#038;h=683",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.denverpost.com/2021/08/13/doug-lamborn-congress-colorado-lawsuit-allegations/amp/",
-      "cdnAmpWebUrl": "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2021/08/13/doug-lamborn-congress-colorado-lawsuit-allegations/amp/",
-      "publishedDateTime": "2021-08-13T14:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Denver Post",
-        "domain": "denverpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

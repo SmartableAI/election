@@ -2,6 +2,58 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2021-04-15-how-will-donald-trump-fare-in-tuesdays-primaries.md",
+      "title": "How will Donald Trump fare in Tuesday's primaries?",
+      "excerpt": "Candidates are making a final push ahead of Tuesday's primaries. Will Donald Trump enjoy another big night, or will recent violence at his rallies hurt him? CBSN political contributor Leslie Sanchez and Bob Cusack,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/video/how-will-donald-trump-fare-in-tuesdays-primaries-1/",
+      "originalUrl": "https://www.cbsnews.com/video/how-will-donald-trump-fare-in-tuesdays-primaries-1/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2021/04/15/d475d0b6-b992-41b9-90da-fb04ecc2d3e1/thumbnail/1200x630/2fa521bbefe3d5e8c6c3020975a75a5a/cbsn-primary-preview-0314-498944-640x360.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-14T20:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-04-15-former-daughter-in-law-of-trump-org-cfo-says-she-has-boxes-and-boxes-of-financial-documents-after-bitter-divorce.md",
       "title": "Former daughter-in-law of Trump Org CFO says she has \"boxes and boxes\" of financial documents after bitter divorce",
       "excerpt": "Jennifer and Barry Weisselberg's divorce was a contentious battle, but few realized during the 2017 and 2018 proceedings that it would end up at the center of one of the most high-profile criminal investigations in history – the Manhattan District Attorney's probe into Donald Trump.",
@@ -1523,58 +1575,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-04-09-run-ron-run-trump-urges-his-staunch-ally-sen-ron-johnson-who-downplayed-the-capitol-riot-to-seek-reelection.md",
-      "title": "'Run, Ron, Run!': Trump urges his staunch ally Sen. Ron Johnson, who downplayed the Capitol riot, to seek reelection",
-      "excerpt": "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% Former President Donald Trump on Thursday urged Republican Sen. Ron Johnson of Wisconsin, a controversial lawmaker who downplayed the January 6 Capitol riot, to seek a third term next year. In a statement ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/run-ron-run-trump-urges-sen-ron-johnson-to-seek-reelection-2021-4",
-      "originalUrl": "https://www.businessinsider.com/run-ron-run-trump-urges-sen-ron-johnson-to-seek-reelection-2021-4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/606f55de30004b0019b26baa?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/run-ron-run-trump-urges-sen-ron-johnson-to-seek-reelection-2021-4?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/run-ron-run-trump-urges-sen-ron-johnson-to-seek-reelection-2021-4?amp",
-      "publishedDateTime": "2021-04-08T13:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

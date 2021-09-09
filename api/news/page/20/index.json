@@ -2,6 +2,150 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2021-07-24-americas-number-one-aging-athlete-joe-biden-letters.md",
+      "title": "America’s number one aging athlete: Joe Biden (Letters)",
+      "excerpt": "Joe Biden is just doing what aging athletes have discovered. He prioritizes quality over quantity, and uses his experience to “read defenses” and make the right calls.",
+      "sourceUrl": null,
+      "webUrl": "https://www.masslive.com/opinion/2021/07/americas-number-one-aging-athlete-joe-biden-letters.html",
+      "originalUrl": "https://www.masslive.com/opinion/2021/07/americas-number-one-aging-athlete-joe-biden-letters.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/26TDCLVL75AD5BHOCGDJO4FNCM.jpg",
+          "width": 6720,
+          "height": 4480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.masslive.com/opinion/2021/07/americas-number-one-aging-athlete-joe-biden-letters.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/opinion/2021/07/americas-number-one-aging-athlete-joe-biden-letters.html?outputType=amp",
+      "publishedDateTime": "2021-07-23T12:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MassLive",
+        "domain": "masslive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-07-24-trump-advisor-says-there-is-zero-chance-the-former-president-will-pick-pence-as-his-running-mate-if-he-runs-in-2024.md",
+      "title": "Trump advisor says there is 'zero' chance the former president will pick Pence as his running mate if he runs in 2024",
+      "excerpt": "Pence decided to certify the 2020 election results on January 6, instead of unlawfully overturning the results in Trump's favor.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/zero-chance-trump-will-pick-pence-vp-2024-report-2021-7",
+      "originalUrl": "https://www.businessinsider.com/zero-chance-trump-will-pick-pence-vp-2024-report-2021-7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 187,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/60fae6e50729770012b99435?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/zero-chance-trump-will-pick-pence-vp-2024-report-2021-7?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/zero-chance-trump-will-pick-pence-vp-2024-report-2021-7?amp",
+      "publishedDateTime": "2021-07-23T10:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-07-23-biden-gives-odd-response-about-sucking-blood-out-of-kids-to-question-about-defunding-police.md",
+      "title": "Biden Gives Odd Response About \"Sucking Blood Out Of Kids\" To Question About Defunding Police",
+      "excerpt": "President Biden caused confusion and concern with a bizarre answer to a question about progressive Democrats who campaigned to \"defund the police\" on Thursday evening. \"Are there people in the Democratic Party who want to defund the police?",
+      "sourceUrl": null,
+      "webUrl": "https://www.realclearpolitics.com/video/2021/07/23/biden_gives_odd_response_to_question_about_defunding_police.html",
+      "originalUrl": "https://www.realclearpolitics.com/video/2021/07/23/biden_gives_odd_response_to_question_about_defunding_police.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.realclear.com/images/54/548899.jpg",
+          "width": 750,
+          "height": 562,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "http://www.realclearpolitics.com/video/2021/07/23/biden_gives_odd_response_to_question_about_defunding_police.amp.html",
+      "cdnAmpWebUrl": "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/07/23/biden_gives_odd_response_to_question_about_defunding_police.amp.html",
+      "publishedDateTime": "2021-07-23T08:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RealClearPolitics",
+        "domain": "realclearpolitics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-23-biden-jumps-backs-into-campaigning-with-mcauliffe-rally-in-virginia.md",
       "title": "Biden jumps backs into campaigning with McAuliffe rally in Virginia ",
       "excerpt": "President Joe Biden is making his return to the campaign trail.\n    \n",
@@ -1205,162 +1349,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-22-magacoin-pro-trump-cryptocurrency-attracts-over-1000-people-to-sign-up.md",
-      "title": "Magacoin: pro-Trump cryptocurrency attracts over 1,000 people to sign up",
-      "excerpt": "Magacoin bills itself as the ‘digital currency for the MAGA community’ but data from the site shows most of the cryptocurrency is allocated to its self-style creator",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/technology/2021/jul/22/magacoin-pro-trump-cryptocurrency-attracts-over-1000-people-to-sign-up",
-      "originalUrl": "https://www.theguardian.com/technology/2021/jul/22/magacoin-pro-trump-cryptocurrency-attracts-over-1000-people-to-sign-up",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/0e46fed6da68413c5f7caaac609651387515cc28/0_0_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=836d8c1b4ba05e075136a734df1aafc2",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/technology/2021/jul/22/magacoin-pro-trump-cryptocurrency-attracts-over-1000-people-to-sign-up",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2021/jul/22/magacoin-pro-trump-cryptocurrency-attracts-over-1000-people-to-sign-up",
-      "publishedDateTime": "2021-07-21T22:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-22-pelosi-bars-trump-allies-from-jan-6-probe-gop-vows-boycott.md",
-      "title": "Pelosi bars Trump allies from Jan. 6 probe; GOP vows boycott",
-      "excerpt": "House Speaker Nancy Pelosi is rejecting two Republicans tapped by House GOP leader Kevin McCarthy to sit on a committee investigating the Jan. 6 Capitol insurrection",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/pelosi-bars-trump-allies-jan-probe-gop-vows-78983176",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/pelosi-bars-trump-allies-jan-probe-gop-vows-78983176",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 425,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/WireAP_08c0f3dbff9944a7a4a9f9fb80897461_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/pelosi-bars-trump-allies-jan-probe-gop-vows-78983176",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/pelosi-bars-trump-allies-jan-probe-gop-vows-78983176",
-      "publishedDateTime": "2021-07-21T21:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-22-joe-biden-town-hall-in-cincinnati-heres-the-full-cnn-transcript.md",
-      "title": "Joe Biden town hall in Cincinnati: Here's the full CNN transcript",
-      "excerpt": "Transcript of the July 21, 2021 CNN town hall with President Joe Biden at Mount St. Joseph University in Delhi Township, Ohio DON LEMON, CNN HOST: Good evening, everyone. We are live in Cincinnati, Ohio,",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2021/07/21/joe-biden-cnn-town-hall-transcript/8051311002/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/07/21/joe-biden-cnn-town-hall-transcript/8051311002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 265,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/07/22/PCIN/5d848fd6-8ebf-4f8c-b9b8-e8bdafae7a84-AP21203038237183.jpg?auto=webp&crop=1023,576,x0,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/8051311002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/8051311002",
-      "publishedDateTime": "2021-07-21T19:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

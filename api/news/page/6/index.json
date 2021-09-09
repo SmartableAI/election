@@ -2,6 +2,157 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-08-30-whoopi-goldberg-mike-pence-didnt-show-north-korea-enough-respect-at-olympics.md",
+      "title": "Whoopi Goldberg: Mike Pence didn’t show North Korea enough ‘respect’ at Olympics",
+      "excerpt": "Whoopi Goldberg says U.S. Vice President Mike Pence should have shown more \"respect\" to North Koreans at the Pyeongchang 2018 Olympic Winter Games. \"He should have given enoughhad enough respect to say,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/article/2020-tokyo-olympics-sports-michael-pence-winter-olympics-whoopi-goldberg-fef42ba0a32d72cc55a6f28f99c95859",
+      "originalUrl": "https://apnews.com/article/2020-tokyo-olympics-sports-michael-pence-winter-olympics-whoopi-goldberg-fef42ba0a32d72cc55a6f28f99c95859",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/ShareLogo2.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-30T00:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-08-30-house-panel-tees-up-trump-executive-privilege-fight-in-jan-6-probe.md",
+      "title": "House panel tees up Trump executive privilege fight in Jan. 6 probe",
+      "excerpt": "The House committee seeking executive branch documents in its investigation of the Jan. 6 attack is likely to force a standoff between Congress and former President Trump Donald Trump Pollsters confront tough survey landscape after 2020 flubs The Memo: Will DeSantis's star fall as Florida COVID numbers rise?",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/regulation/court-battles/569743-house-panel-tees-up-trump-executive-privilege-fight-in-jan-6-probe",
+      "originalUrl": "https://thehill.com/regulation/court-battles/569743-house-panel-tees-up-trump-executive-privilege-fight-in-jan-6-probe",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 405,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/article_images/trumpdonald_070321getty_executive-standoff.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/regulation/court-battles/569743-house-panel-tees-up-trump-executive-privilege-fight-in-jan-6-probe?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/regulation/court-battles/569743-house-panel-tees-up-trump-executive-privilege-fight-in-jan-6-probe?amp",
+      "publishedDateTime": "2021-08-29T16:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-08-29-who-is-deanne-criswell-bidens-fema-boss.md",
+      "title": "Who is Deanne Criswell, Biden’s FEMA boss?",
+      "excerpt": "As Louisiana and the Gulf Coast braced for Hurricane Ida, set to make landfall on Sunday potentially as a Category 4 storm, the Federal Emergency Management Agency (FEMA) was expected to play a key role in disaster relief. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5li4tKMQcHI/who-is-deanne-criswell-bidens-fema-boss",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5li4tKMQcHI/who-is-deanne-criswell-bidens-fema-boss",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 235,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9eae107d-7ab8-4997-b3b5-16388e743752/931d726d-8b7f-4176-ba05-327a3e199447/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/who-is-deanne-criswell-bidens-fema-boss.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/who-is-deanne-criswell-bidens-fema-boss.amp",
+      "publishedDateTime": "2021-08-28T23:38:23-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-08-28-al-sharpton-to-biden-black-community-is-being-stabbed-in-the-back.md",
       "title": "Al Sharpton to Biden: Black community is being stabbed ‘in the back’",
       "excerpt": "Rev. Al Sharpton hit the stage Saturday during a voting rights rally to tell President Biden that supporters of the filibuster are “stabbing” the Black community “in the back.”",
@@ -1101,148 +1252,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-08-26-mike-lindells-obsession-with-trump-a-symptom-of-human-nature-letter.md",
-      "title": "Mike Lindell’s obsession with Trump a symptom of human nature | Letter",
-      "excerpt": "Mike Lindell may be in love with “the Donald,” an unrequited love that will never become realized, writer says.",
-      "sourceUrl": null,
-      "webUrl": "https://www.lehighvalleylive.com/opinion/2021/08/mike-lindells-obsession-with-trump-a-symptom-of-human-nature-letter.html",
-      "originalUrl": "https://www.lehighvalleylive.com/opinion/2021/08/mike-lindells-obsession-with-trump-a-symptom-of-human-nature-letter.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/3PTKE2NFOFAC7HM5YIQA26RQB4.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.lehighvalleylive.com/opinion/2021/08/mike-lindells-obsession-with-trump-a-symptom-of-human-nature-letter.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-lehighvalleylive-com.cdn.ampproject.org/c/s/www.lehighvalleylive.com/opinion/2021/08/mike-lindells-obsession-with-trump-a-symptom-of-human-nature-letter.html?outputType=amp",
-      "publishedDateTime": "2021-08-26T06:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Lehigh Valley Live",
-        "domain": "lehighvalleylive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-08-26-did-erik-prince-save-joe-biden-from-taliban-blackwater-chief-recalls-2008-rescue.md",
-      "title": "Did Erik Prince save Joe Biden from Taliban? Blackwater chief recalls 2008 rescue",
-      "excerpt": "White House Press Secretary Jen Psaki described Erik Prince, 52, as having no 'heart and soul,' profiting off 'people's agony and pain'",
-      "sourceUrl": null,
-      "webUrl": "https://meaww.com/erik-prince-blackwater-military-contractor-saved-stranded-joe-biden-in-taliban-territory-2008-rescue",
-      "originalUrl": "https://meaww.com/erik-prince-blackwater-military-contractor-saved-stranded-joe-biden-in-taliban-territory-2008-rescue",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cheesecake.articleassets.meaww.com/546432/uploads/a1f94680-0663-11ec-8837-bfe51d82f824_800_420.png",
-          "width": 800,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://meaww.com/amp/erik-prince-blackwater-military-contractor-saved-stranded-joe-biden-in-taliban-territory-2008-rescue",
-      "cdnAmpWebUrl": "https://meaww-com.cdn.ampproject.org/c/s/meaww.com/amp/erik-prince-blackwater-military-contractor-saved-stranded-joe-biden-in-taliban-territory-2008-rescue",
-      "publishedDateTime": "2021-08-26T05:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Meaww",
-        "domain": "meaww.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-08-26-obama-ethics-chief-blasts-hunter-bidens-art-scheme-as-absolutely-appalling.md",
-      "title": "Obama ethics chief blasts Hunter Biden's art scheme as 'absolutely appalling'",
-      "excerpt": "Former President Obama's ethics chief on Wednesday ripped the Biden White House for brokering a deal last month so that Hunter Biden, and the American public at large, would never know who was buying his paintings.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/V3oM6NZP-js/obama-ethics-chief-hunter-biden-art-scheme",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/V3oM6NZP-js/obama-ethics-chief-hunter-biden-art-scheme",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 192,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0a5caf11-1d33-4ad9-8839-db1bd23329a8/06238ea1-d906-4d1f-8726-d9a8c455a054/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/obama-ethics-chief-hunter-biden-art-scheme.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/obama-ethics-chief-hunter-biden-art-scheme.amp",
-      "publishedDateTime": "2021-08-26T05:05:18-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

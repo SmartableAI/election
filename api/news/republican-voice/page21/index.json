@@ -2,6 +2,174 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2021-04-20-biden-doj-dispatches-peacemakers-to-minneapolis-ahead-of-chauvin-verdict-report.md",
+      "title": "Biden DOJ dispatches 'peacemakers' to Minneapolis ahead of Chauvin verdict: report",
+      "excerpt": "The Justice Department has reportedly dispatched officials from its Community Relations Service to act as peacemakers and facilitate listening sessions in Minneapolis.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/6boZzN2oO9k/doj-community-relations-service-chauvin-minneapolis-riots-protest",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/6boZzN2oO9k/doj-community-relations-service-chauvin-minneapolis-riots-protest",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 189,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/chauvin.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/doj-community-relations-service-chauvin-minneapolis-riots-protest.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/doj-community-relations-service-chauvin-minneapolis-riots-protest.amp",
+      "publishedDateTime": "2021-04-20T12:54:24-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-20-scalise-accuses-biden-administration-of-exempting-illegal-immigrants-from-covid-19-restrictions.md",
+      "title": "Scalise accuses Biden administration of 'exempting' illegal immigrants from COVID-19 restrictions",
+      "excerpt": "FIRST ON FOX: House Republican Whip Steve Scalise on Tuesday wrote to Homeland Security Secretary Alejandro Mayorkas, accusing the Biden administration of exempting illegal immigrants from COVID-19 restrictions – while citing testimony from Dr. Anthony Fauci to make his case.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/kN5Se8Q1slE/scalise-biden-administration-exempting-illegal-immigrants-covid-19-restrictions",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/kN5Se8Q1slE/scalise-biden-administration-exempting-illegal-immigrants-covid-19-restrictions",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 142,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/migrant22.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-20T12:18:20-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-20-reps-roy-herrell-move-to-force-house-vote-on-extending-trump-era-border-restrictions.md",
+      "title": "Reps. Roy, Herrell move to force House vote on extending Trump-era border restrictions",
+      "excerpt": "FIRST ON FOX: Reps. Chip Roy, R-Texas, and Yvette Herrell, R-N.M., on Monday moved to force a vote on a bill that would keep a Trump-era public health order -- which allows migrants to be rapidly expelled from the U.S. -- in place until the COVID-19 pandemic and associated restrictions are repealed.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/pUYbfdUD37M/reps-roy-herrell-house-vote-extending-trump-era-border-restrictions",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/pUYbfdUD37M/reps-roy-herrell-house-vote-extending-trump-era-border-restrictions",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 227,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6aba89ef-13d8-476d-a099-2e7d6c407a22/d8eb31b2-fab7-48ac-b0ae-0ad08d4aa013/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/reps-roy-herrell-house-vote-extending-trump-era-border-restrictions.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/reps-roy-herrell-house-vote-extending-trump-era-border-restrictions.amp",
+      "publishedDateTime": "2021-04-20T04:01:50-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-20-trump-says-he-is-beyond-seriously-considering-2024-white-house-run.md",
       "title": "Trump says he is ‘beyond seriously’ considering 2024 White House run",
       "excerpt": "Former President Donald Trump said he is “seriously” considering another White House bid during an interview that aired Monday night. Trump teased the idea of a 2024 presidential run, but again",
@@ -1509,166 +1677,6 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-14-biden-accompanies-first-lady-to-appointment-for-common-medical-procedure.md",
-      "title": "Biden accompanies first lady to appointment for 'common medical procedure'",
-      "excerpt": "President Biden on Wednesday accompanied first lady Jill Biden to an outpatient facility in Washington, D.C., for what the White House said is \"a common medical procedure.\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Byiy_FIv6Ns/jill-biden-appointment-medical-procedure",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Byiy_FIv6Ns/jill-biden-appointment-medical-procedure",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 173,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/jill-biden-appointment-medical-procedure.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jill-biden-appointment-medical-procedure.amp",
-      "publishedDateTime": "2021-04-14T05:58:34-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-14-biden-to-address-joint-session-of-congress-on-april-28.md",
-      "title": "Biden to address joint session of Congress on April 28",
-      "excerpt": "If Biden accepts the invitation, it would mark the first time he has addressed Congress in person since becoming president.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/9tajvtn_3qk/pelosi-invites-biden-to-address-joint-congress-session-on-april-28",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/9tajvtn_3qk/pelosi-invites-biden-to-address-joint-congress-session-on-april-28",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 375,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/23634e94-94e7-4bf7-9e0c-fe06767c9820/a40574e7-a98b-4e06-b72a-eedcc3fe9dc2/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/pelosi-invites-biden-to-address-joint-congress-session-on-april-28.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-invites-biden-to-address-joint-congress-session-on-april-28.amp",
-      "publishedDateTime": "2021-04-13T17:21:44-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-14-cnn-staffer-boasts-to-project-veritas-that-network-peddled-anti-trump-propaganda.md",
-      "title": "CNN staffer boasts to Project Veritas that network peddled anti-Trump ‘propaganda’",
-      "excerpt": "A CNN staffer admitted in a secretly recorded video that his network produced “propaganda” to oust former President Donald Trump during the 2020 presidential election — and",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/04/13/cnns-charlie-chester-says-network-peddled-anti-trump-propaganda/",
-      "originalUrl": "https://nypost.com/2021/04/13/cnns-charlie-chester-says-network-peddled-anti-trump-propaganda/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/04/trump-cnn-project-veritas-60.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/04/13/cnns-charlie-chester-says-network-peddled-anti-trump-propaganda/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/13/cnns-charlie-chester-says-network-peddled-anti-trump-propaganda/amp/",
-      "publishedDateTime": "2021-04-13T14:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Republican Voice"
       ]
     }

@@ -114,14 +114,14 @@ related:
   - title: "US President Joe Biden Delivers Remarks in Honor of Labor Unions"
     excerpt: "US President Joe Biden delivers remarks in honor of labor unions during an event in the East Room of the White House in Washington, DC on September 8, 2021. Pool Photo by Shawn Thew/UPI"
     publishedDateTime: 2021-09-08T18:45:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/85e1d095d2a5b86d3113fa28eb7e277e/US-President-Joe-Biden-Delivers-Remarks-in-Honor-of-Labor-Unions/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/9206e6481851b50280a2e51885fbedbe/US-President-Joe-Biden-Delivers-Remarks-in-Honor-of-Labor-Unions/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/85e1d095d2a5b86d3113fa28eb7e277e/BIDEN-LABOR-UNIONS.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/9206e6481851b50280a2e51885fbedbe/BIDEN-LABOR-UNIONS.jpg"
         width: 650
         height: 433
         isCached: true

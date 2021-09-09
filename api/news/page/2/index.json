@@ -2,6 +2,218 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-09-07-former-trump-adviser-jason-miller-briefly-detained-in-brazil.md",
+      "title": "Former Trump adviser Jason Miller briefly detained in Brazil",
+      "excerpt": "Jason Miller, a former senior adviser to Donald Trump, said he was briefly detained and questioned by Brazilian authorities in the country's capital on Tuesday.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/L8N03Z3rpQQ/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/L8N03Z3rpQQ/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210907183331-jason-miller-file-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/09/07/politics/jason-miller-brazil/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/09/07/politics/jason-miller-brazil/index.html",
+      "publishedDateTime": "2021-09-07T16:26:10-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-09-08-trump-to-headline-nrcc-fundraiser-in-november-with-eye-on-2022.md",
+      "title": "Trump to headline NRCC fundraiser in November with eye on 2022",
+      "excerpt": "Former President Donald Trump is slated to attend a National Republican Congressional Committee fundraiser in Tampa in early November.",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/09/07/trump-to-headline-nrcc-fundraiser-in-november-with-eye-on-2022/",
+      "originalUrl": "https://nypost.com/2021/09/07/trump-to-headline-nrcc-fundraiser-in-november-with-eye-on-2022/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/09/trump.jpg?quality=90&strip=all&w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/09/07/trump-to-headline-nrcc-fundraiser-in-november-with-eye-on-2022/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/09/07/trump-to-headline-nrcc-fundraiser-in-november-with-eye-on-2022/amp/",
+      "publishedDateTime": "2021-09-07T16:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-09-08-how-the-new-texas-elections-law-follows-up-on-trumps-voter-fraud-claims.md",
+      "title": "How the new Texas elections law follows up on Trump's voter fraud claims",
+      "excerpt": "Texas Republicans enacted a massive election restrictions law on Tuesday that has echoes of the former president Donald Trump’s false claims that widespread voter fraud kept him from a second term in the White House.",
+      "sourceUrl": null,
+      "webUrl": "https://www.houstonchronicle.com/politics/texas/article/How-Texas-is-following-up-on-Trump-s-voter-16441526.php",
+      "originalUrl": "https://www.houstonchronicle.com/politics/texas/article/How-Texas-is-following-up-on-Trump-s-voter-16441526.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 439,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.hdnux.com/photos/01/21/61/73/21438188/3/400x0.jpg",
+          "width": 400,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.houstonchronicle.com/politics/texas/amp/How-Texas-is-following-up-on-Trump-s-voter-16441526.php",
+      "cdnAmpWebUrl": "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/politics/texas/amp/How-Texas-is-following-up-on-Trump-s-voter-16441526.php",
+      "publishedDateTime": "2021-09-07T16:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Houston Chronicle",
+        "domain": "houstonchronicle.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/houstonchronicle.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-09-07-biden-dismisses-protesters-who-heckled-him-as-he-toured-storm-damaged-northeast-they-dont-understand.md",
+      "title": "Biden dismisses protesters who heckled him as he toured storm-damaged northeast: 'They don't understand'",
+      "excerpt": "President Joe Biden addressed hecklers who shouted at him about his chaotic withdrawal from Afghanistan and claimed they don’t actually live in the area he was touring and suggested they were upset about his climate change position.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/hvc8ph_w4OE/biden-protesters-who-heckled-him-as-he-toured-storm-damaged-northeast-they-dont-understand",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/hvc8ph_w4OE/biden-protesters-who-heckled-him-as-he-toured-storm-damaged-northeast-they-dont-understand",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 158,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1c649efb-45d4-4f8b-927c-ba62139ec925/842ee78d-4f0f-4584-9bc6-1838db8c0ae5/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-protesters-who-heckled-him-as-he-toured-storm-damaged-northeast-they-dont-understand.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-protesters-who-heckled-him-as-he-toured-storm-damaged-northeast-they-dont-understand.amp",
+      "publishedDateTime": "2021-09-07T15:01:05-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-09-07-more-migrants-being-returned-to-mexico-after-supreme-court-order-reinstates-trump-era-policy.md",
       "title": "More migrants being returned to Mexico after Supreme Court order reinstates Trump-era policy",
       "excerpt": "A Supreme Court order reinstating the Trump-era \"Remain-in-Mexico\" policy is already having an effect, with Border Patrol officials telling Fox News they have started turning away more migrants trying to enter the U.S.",
@@ -533,7 +745,7 @@
       "originalUrl": "https://www.newsweek.com/joe-biden-chants-break-college-football-games-country-1626438",
       "featuredContent": null,
       "highlight": null,
-      "heat": 141,
+      "heat": 161,
       "tags": null,
       "images": [
         {
@@ -781,49 +993,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-09-06-curley-bad-news-is-nothing-a-little-spin-cant-fix-at-biden-white-house.md",
-      "title": "Curley: Bad news is nothing a little spin can’t fix at Biden White House",
-      "excerpt": "Where is the White House cat? I only ask because we were specifically cautioned by White House press secretary Jen Psaki that the feline might appear when the going got tough. “I’ve",
-      "sourceUrl": null,
-      "webUrl": "https://www.bostonherald.com/2021/09/05/curley-bad-news-is-nothing-a-little-spin-cant-fix-at-biden-white-house/",
-      "originalUrl": "https://www.bostonherald.com/2021/09/05/curley-bad-news-is-nothing-a-little-spin-cant-fix-at-biden-white-house/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.bostonherald.com/wp-content/uploads/2021/03/AP21085637016977.jpg?w=1024&#038;h=683",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bostonherald.com/2021/09/05/curley-bad-news-is-nothing-a-little-spin-cant-fix-at-biden-white-house/amp/",
-      "cdnAmpWebUrl": "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2021/09/05/curley-bad-news-is-nothing-a-little-spin-cant-fix-at-biden-white-house/amp/",
-      "publishedDateTime": "2021-09-05T20:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Boston Herald",
-        "domain": "bostonherald.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1145,161 +1314,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-09-05-white-house-keeping-kamala-harris-from-afghanistan-crisis-to-stop-contamination.md",
-      "title": "White House keeping Kamala Harris from Afghanistan crisis 'to stop contamination'",
-      "excerpt": "The White House is deliberately keeping Kamala Harris insulated from the Afghanistan withdrawal debacle to clear her way for a future presidential run, sources have told the Teleg",
-      "sourceUrl": null,
-      "webUrl": "https://www.telegraph.co.uk/world-news/2021/09/05/white-house-keeping-kamala-harris-afghanistan-crisis-stop-contamination/",
-      "originalUrl": "https://www.telegraph.co.uk/world-news/2021/09/05/white-house-keeping-kamala-harris-afghanistan-crisis-stop-contamination/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.telegraph.co.uk/content/dam/world-news/2021/09/05/TELEMMGLPICT000269145920_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQf0Rf_Wk3V23H2268P_XkPxc.jpeg",
-          "width": 2500,
-          "height": 1563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.telegraph.co.uk/world-news/2021/09/05/white-house-keeping-kamala-harris-afghanistan-crisis-stop-contamination/amp/",
-      "cdnAmpWebUrl": "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/world-news/2021/09/05/white-house-keeping-kamala-harris-afghanistan-crisis-stop-contamination/amp/",
-      "publishedDateTime": "2021-09-05T06:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Telegraph",
-        "domain": "telegraph.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-09-05-biden-promised-isis-k-will-pay-having-no-us-troops-in-afghanistan-makes-that-harder.md",
-      "title": "Biden promised ISIS-K will 'pay.' Having no US troops in Afghanistan makes that harder",
-      "excerpt": "As the Biden administration grapples with the challenge of carrying out counterterrorism missions in Afghanistan without US boots on the ground, CNN has learned new details about last Sunday's drone strike on suspected ISIS-K fighters in Kabul that some officials say provide insight into the obstacles",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/L72sKp-dsb4/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/L72sKp-dsb4/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210831154223-02-biden-afghanistan-presser-0831-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/09/05/politics/afghanistan-counterterrorism-challenges/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/09/05/politics/afghanistan-counterterrorism-challenges/index.html",
-      "publishedDateTime": "2021-09-04T21:04:10-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-09-05-squad-members-go-after-biden-for-being-silent-on-minnesota-oil-pipeline.md",
-      "title": "Squad members go after Biden for being 'silent' on Minnesota oil pipeline",
-      "excerpt": "Four members of the Democratic “Squad” went after President Biden Saturday for being “silent” on a controversial Minnesota oil pipeline.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/eX7jiATbgkM/squad-go-after-biden-for-being-silent-on-minnesota-oil-pipeline",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/eX7jiATbgkM/squad-go-after-biden-for-being-silent-on-minnesota-oil-pipeline",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 174,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/15769fbd-0b21-4f5a-8c09-0e3029a328c2/81f25dce-10d1-4c45-b884-0c3ec9a033f2/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/squad-go-after-biden-for-being-silent-on-minnesota-oil-pipeline.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/squad-go-after-biden-for-being-silent-on-minnesota-oil-pipeline.amp",
-      "publishedDateTime": "2021-09-04T18:08:07-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

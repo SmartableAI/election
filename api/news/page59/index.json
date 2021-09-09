@@ -2,6 +2,171 @@
   "page": 59,
   "value": [
     {
+      "path": "_news/2021-05-08-washington-post-trump-justice-department-got-reporters-phone-records.md",
+      "title": "Washington Post: Trump Justice Department got reporters’ phone records",
+      "excerpt": "The Washington Post reported on Friday that the Department of Justice under former President Donald Trump secretly obtained phone records from some of the newspaper's reporters. The Post reported that the DOJ sent letters dated May 3 to Post reporters Ellen Nakashima and Greg Miller,",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2021/05/07/washington-post-trump-doj-got-reporters-phone-records/4997276001/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/05/07/washington-post-trump-doj-got-reporters-phone-records/4997276001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 305,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/-mm-/9e1f6e2ee20f44aa1f3be4f71e9f3e52b6ae2c7e/c=0-110-2121-1303/local/-/media/2021/03/24/USATODAY/usatsports/justice-department-getty-fool-1.jpg?auto=webp&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/4997276001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4997276001",
+      "publishedDateTime": "2021-05-07T16:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-05-07-biden-labor-secretary-closed-schools-keeping-people-from-getting-back-in-the-workforce.md",
+      "title": "Biden Labor Secretary: Closed schools 'keeping people from getting back in the workforce'",
+      "excerpt": "Labor Secretary Marty Walsh drew a parallel Friday between the continued fight over reopening schools for in-person instruction and the  April jobs report, which fell far short of experts' predictions.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Pnv-QYxbIsU/biden-labor-secretary-closed-schools-keeping-people-from-getting-back-in-the-workforce",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Pnv-QYxbIsU/biden-labor-secretary-closed-schools-keeping-people-from-getting-back-in-the-workforce",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 166,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1b021ab2-998c-4f09-9fb6-e347f124957d/398faa53-b1b8-48f4-9167-171d2479b5d4/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-labor-secretary-closed-schools-keeping-people-from-getting-back-in-the-workforce.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-labor-secretary-closed-schools-keeping-people-from-getting-back-in-the-workforce.amp",
+      "publishedDateTime": "2021-05-07T15:51:26-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-08-ohio-gop-censures-representative-anthony-gonzalez-for-not-supporting-trump.md",
+      "title": "Ohio G.O.P. censures Representative Anthony Gonzalez for not supporting Trump.",
+      "excerpt": "They are also calling for Mr. Gonzalez to resign for being one of 10 Republican House members who voted to impeach Donald J. Trump after the Jan. 6 riot.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/05/07/us/trump-anthony-gonzalez-gop-censure.html",
+      "originalUrl": "https://www.nytimes.com/2021/05/07/us/trump-anthony-gonzalez-gop-censure.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/05/07/us/07new-wash-gonzalez/07new-wash-gonzalez-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/05/07/us/trump-anthony-gonzalez-gop-censure.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/05/07/us/trump-anthony-gonzalez-gop-censure.amp.html",
+      "publishedDateTime": "2021-05-07T14:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-05-08-joe-biden-laughs-at-notion-that-april-jobs-numbers-are-disappointing-despite-61-unemployment-rate.md",
       "title": "Joe Biden Laughs at Notion That April Jobs Numbers Are Disappointing, Despite 6.1% Unemployment Rate",
       "excerpt": "The president tried to appear optimistic about the jobs report. When he mentioned the commentators' reaction he laughed.",
@@ -1201,174 +1366,6 @@
       "topics": [
         "Election",
         "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-05-donald-trump-promises-supporters-will-be-very-happy-when-he-makes-2024-announcement.md",
-      "title": "Donald Trump promises supporters will be ‘very happy’ when he makes 2024 announcement",
-      "excerpt": "President Donald Trump on Tuesday promised his supporters would be very happy when he eventually makes his announcement about whether he will run in the 2024 presidential election.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1DKa-ZACLs0/donald-trump-supporters-very-happy-2024-announcement",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1DKa-ZACLs0/donald-trump-supporters-very-happy-2024-announcement",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 168,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0d8dfd42-a466-417d-af47-80dd92a6b6df/19decefa-a9f0-45ff-9c45-cf4297aed3b1/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/donald-trump-supporters-very-happy-2024-announcement.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/donald-trump-supporters-very-happy-2024-announcement.amp",
-      "publishedDateTime": "2021-05-04T18:59:55-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-04-doj-ordered-to-turn-over-trump-obstruction-of-justice-memo.md",
-      "title": "DOJ ordered to turn over Trump obstruction of justice memo",
-      "excerpt": "A judge has ordered the Department of Justice (DOJ) to turn over an internal memo from March 2019 that then-Attorney General Bill Barr cited as his reason not to charge former President Trump with obstruction of justice following the Mueller investigation. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nyOZae-aROc/avail-doj-ordered-to-turn-over-trump-obstruction-of-justice-memo",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nyOZae-aROc/avail-doj-ordered-to-turn-over-trump-obstruction-of-justice-memo",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 755,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/07/720/405/ag-barr.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/avail-doj-ordered-to-turn-over-trump-obstruction-of-justice-memo.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/avail-doj-ordered-to-turn-over-trump-obstruction-of-justice-memo.amp",
-      "publishedDateTime": "2021-05-04T16:33:20-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-04-secret-william-barr-memo-saying-not-to-charge-trump-must-be-released-judge-says.md",
-      "title": "Secret William Barr memo saying not to charge Trump must be released, judge says",
-      "excerpt": "A federal judge this week rejected the Justice Department's attempts to keep secret a departmental opinion to not charge former President Donald Trump with obstruction at the end of the Mueller investigation, calling the administration's lawyers \"disingenuous.\"\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/IvPvRos6aUw/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/IvPvRos6aUw/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 210,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/190411180959-0411-01-barr-trump-mueller-split-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/04/politics/william-barr-memo-trump-memo/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/04/politics/william-barr-memo-trump-memo/index.html",
-      "publishedDateTime": "2021-05-04T16:05:31-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Democratic Voice"
       ]
     }

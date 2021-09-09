@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-09-09-fact-check-image-of-kamala-harris-and-doug-emhoff-altered-to-show-jeffrey-epstein.md",
+      "title": "Fact check: Image of Kamala Harris and Doug Emhoff altered to show Jeffrey Epstein",
+      "excerpt": "Several Facebook users shared an image of Harris and Epstein with the words \"Make this photo famous.\" But the image has been altered to add Epstein.",
+      "sourceUrl": null,
+      "webUrl": "https://www.indystar.com/story/news/nation/2021/09/08/fact-check-altered-image-shows-jeffrey-epstein-next-kamala-harris/5672684001/",
+      "originalUrl": "https://www.indystar.com/story/news/nation/2021/09/08/fact-check-altered-image-shows-jeffrey-epstein-next-kamala-harris/5672684001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/09/02/USAT/5ce6a7bf-c678-4617-a1fc-5ce8b94ee4fb-AFP_AFP_8RN328.jpg?auto=webp&crop=3999,2250,x0,y200&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.indystar.com/amp/5672684001",
+      "cdnAmpWebUrl": "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/5672684001",
+      "publishedDateTime": "2021-09-08T16:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indianapolis Star",
+        "domain": "indystar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-09-08-harris-accuses-texas-gov-abbott-of-arrogantly-dismissing-rape-victims.md",
       "title": "Harris accuses Texas Gov. Abbott of 'arrogantly' dismissing rape victims",
       "excerpt": "Vice President Kamala Harris opened up a speech supporting California Gov. Gavin Newsom against a recall effort by slamming Texas Gov. Greg Abbott and his state’s newly enacted law restricting abortions.",
@@ -89,58 +132,6 @@
         "name": "Times of San Diego",
         "domain": "timesofsandiego.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-09-09-fact-check-image-of-kamala-harris-and-doug-emhoff-altered-to-show-jeffrey-epstein.md",
-      "title": "Fact check: Image of Kamala Harris and Doug Emhoff altered to show Jeffrey Epstein",
-      "excerpt": "Several Facebook users shared an image of Harris and Epstein with the words \"Make this photo famous.\" But the image has been altered to add Epstein.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/nation/2021/09/08/fact-check-altered-image-shows-jeffrey-epstein-next-kamala-harris/5672684001/",
-      "originalUrl": "https://www.usatoday.com/story/news/nation/2021/09/08/fact-check-altered-image-shows-jeffrey-epstein-next-kamala-harris/5672684001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 199,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/09/02/USAT/5ce6a7bf-c678-4617-a1fc-5ce8b94ee4fb-AFP_AFP_8RN328.jpg?auto=webp&crop=3999,2250,x0,y200&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/5672684001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5672684001",
-      "publishedDateTime": "2021-09-08T13:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

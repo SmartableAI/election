@@ -2,6 +2,166 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-06-21-obama-ethics-chief-hunter-biden-selling-art-at-obviously-inflated-prices-to-mystery-buyers-feels-grifty.md",
+      "title": "Obama ethics chief: Hunter Biden selling art at 'obviously inflated prices' to mystery buyers feels 'grifty'",
+      "excerpt": "Walter Shaub, the former Office of Government Ethics director under Obama, ripped into Biden for selling his art for up to $500,000, saying that, while the issue would not involve his governmental alma mater, “common sense should have steered him away from this sale.”",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nEOqG1fmWRU/walter-shaub-hunter-biden-art",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nEOqG1fmWRU/walter-shaub-hunter-biden-art",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 176,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1faffc59-fb5d-4fa0-aea5-711fd83b7338/2446c972-e3cf-45b1-b17d-55aacd1d3ff7/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/walter-shaub-hunter-biden-art.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/walter-shaub-hunter-biden-art.amp",
+      "publishedDateTime": "2021-06-21T11:16:30-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-22-desantis-edges-out-trump-in-2024-straw-poll-tucker-carlson-rules-out-bid.md",
+      "title": "DeSantis edges out Trump in 2024 straw poll, Tucker Carlson rules out bid",
+      "excerpt": "Ron DeSantis, who has endeared himself to conservatives for bucking coronavirus restrictions and lockdowns, and combating critical race theory, hasn’t said he would mount a campaign in 2024.",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/06/21/desantis-edges-out-trump-in-2024-straw-poll-tucker-carlson-rules-out-bid/",
+      "originalUrl": "https://nypost.com/2021/06/21/desantis-edges-out-trump-in-2024-straw-poll-tucker-carlson-rules-out-bid/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/06/Trump-5.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/06/21/desantis-edges-out-trump-in-2024-straw-poll-tucker-carlson-rules-out-bid/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/21/desantis-edges-out-trump-in-2024-straw-poll-tucker-carlson-rules-out-bid/amp/",
+      "publishedDateTime": "2021-06-21T10:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-21-republicans-slam-bidens-vague-threats-to-china-over-covid-stonewall.md",
+      "title": "Republicans slam Biden's 'vague threats' to China over COVID stonewall",
+      "excerpt": "House Republicans are not satisfied with the Biden administration’s stance against the Chinese government when it comes to making sure there is a thorough investigation of the coronavirus pandemic.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/V-kTPRgJtR4/republicans-biden-china-isolation-covid-origin",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/V-kTPRgJtR4/republicans-biden-china-isolation-covid-origin",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 235,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/republicans-biden-china-isolation-covid-origin.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-biden-china-isolation-covid-origin.amp",
+      "publishedDateTime": "2021-06-21T09:04:11-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-21-biden-nominee-with-crt-ties-appears-headed-for-close-party-line-vote.md",
       "title": "Biden nominee with CRT ties appears headed for close party-line vote",
       "excerpt": "President Biden's nominee to run the Office of Personnel Management (OPM) appears to be headed for a close, party-line vote in the Senate this week amid Republican concerns about her past ties to critical race theory and Ibram X. Kendi.",
@@ -1496,166 +1656,6 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-15-gov-noem-slams-biden-over-white-house-fireworks-event-what-a-hypocrite.md",
-      "title": "Gov. Noem slams Biden over White House fireworks event: 'What a hypocrite'",
-      "excerpt": "South Dakota Gov. Kristi Noem slammed President Biden on Tuesday after his administration unveiled plans to host an Independence Day fireworks display at the White House, weeks after federal officials rejected her bid to host a similar event at Mount Rushmore.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/MKWICMlBAHU/gov-noem-slams-biden-white-house-fireworks-event",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/MKWICMlBAHU/gov-noem-slams-biden-white-house-fireworks-event",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 153,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/Noem.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-15T15:03:09-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-15-biden-reveals-9-ambassador-nominations-including-thomas-nides-sully-sullenberger.md",
-      "title": "Biden reveals 9 ambassador nominations, including Thomas Nides, 'Sully' Sullenberger",
-      "excerpt": "President Biden unveiled a slate of nominations for nine ambassadorial positions on Tuesday, including his picks to hold the key diplomatic posts in Mexico, Israel and NATO.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/svGbEeYJl0I/biden-ambassador-nominations-thomas-nides-sully-sullenberger",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/svGbEeYJl0I/biden-ambassador-nominations-thomas-nides-sully-sullenberger",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 148,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/06/AP21155541081134.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-15T13:50:20-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-16-trump-names-ex-rnc-spokeswoman-to-replace-departing-aide-jason-miller.md",
-      "title": "Trump names ex-RNC spokeswoman to replace departing aide Jason Miller",
-      "excerpt": "Former President Donald Trump has named Liz Harrington, a former Republican National Committee spokeswoman, to replace the departing advisor Jason Miller.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/06/15/trump-replaces-jason-miller-with-ex-rnc-spokeswoman/",
-      "originalUrl": "https://nypost.com/2021/06/15/trump-replaces-jason-miller-with-ex-rnc-spokeswoman/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/06/trump-miller-harrington-hp.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/06/15/trump-replaces-jason-miller-with-ex-rnc-spokeswoman/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/15/trump-replaces-jason-miller-with-ex-rnc-spokeswoman/amp/",
-      "publishedDateTime": "2021-06-15T10:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Republican Voice"
       ]
     }

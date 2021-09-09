@@ -2,6 +2,175 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-06-09-blackburn-rubio-cotton-demand-fauci-resign-or-be-fired-by-biden.md",
+      "title": "Blackburn, Rubio, Cotton demand Fauci resign or be fired by Biden",
+      "excerpt": "EXCLUSIVE: Republican Sens. Marsha Blackburn, Marco Rubio and Tom Cotton are calling on Dr. Anthony Fauci to resign, saying he has “lost the confidence of the American people” amid controversy surrounding the origins of COVID-19 —and if he won’t step down, the Republican senators are urging President",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/pEnP1gMcBB0/blackburn-rubio-cotton-call-on-fauci-to-resign-urge-biden-to-fire-him",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/pEnP1gMcBB0/blackburn-rubio-cotton-call-on-fauci-to-resign-urge-biden-to-fire-him",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/blackburn-rubio-cotton-call-on-fauci-to-resign-urge-biden-to-fire-him.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/blackburn-rubio-cotton-call-on-fauci-to-resign-urge-biden-to-fire-him.amp",
+      "publishedDateTime": "2021-06-09T16:42:24-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-10-biden-asking-for-911-style-attack-by-not-responding-forcefully-to-russian-cyberattacks-kirk-lippold.md",
+      "title": "Biden asking for ‘9/11 style attack’ by not responding ‘forcefully’ to Russian cyberattacks: Kirk Lippold",
+      "excerpt": "Former USS Cole Commander Kirk Lippold told \"Your World\" Joe Biden will embolden Vladimir Putin if he does not \"clearly\" respond to the Russian government for \"state-sponsored\" cyberattacks on American businesses.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/biden-asking-for-9-11-style-attack-by-not-responding-forcefully-to-russian-cyberattacks-kirk-lippold",
+      "originalUrl": "https://www.foxnews.com/media/biden-asking-for-9-11-style-attack-by-not-responding-forcefully-to-russian-cyberattacks-kirk-lippold",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d430e49c-91b2-4548-8f29-d314ed7ffea4/a5eeb00d-501d-415b-8dbc-48c0cbaa0cc4/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/biden-asking-for-9-11-style-attack-by-not-responding-forcefully-to-russian-cyberattacks-kirk-lippold.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/biden-asking-for-9-11-style-attack-by-not-responding-forcefully-to-russian-cyberattacks-kirk-lippold.amp",
+      "publishedDateTime": "2021-06-09T16:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-09-biden-says-us-not-seeking-conflict-with-russia-as-putin-meeting-looms.md",
+      "title": "Biden says US 'not seeking conflict' with Russia as Putin meeting looms",
+      "excerpt": "President Biden said Wednesday he will reiterate to Russian President Vladimir Putin at an upcoming summit that there will be “consequences” if Russia takes harmful action toward democratic governments.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/kjwF5yJdRfo/biden-putin-meeting-us-not-seeking-conflict-russia",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/kjwF5yJdRfo/biden-putin-meeting-us-not-seeking-conflict-russia",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 515,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/66fb34b2-88ee-4794-a45c-0dd47703dce0/d2addf7e-d6f7-4cd9-ad3a-c9109e8796c6/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-putin-meeting-us-not-seeking-conflict-russia.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-putin-meeting-us-not-seeking-conflict-russia.amp",
+      "publishedDateTime": "2021-06-09T16:15:53-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-09-police-did-not-clear-lafayette-square-so-trump-could-pose-for-photo-with-the-bible-ig-says.md",
       "title": "Police did not clear Lafayette Square so Trump could pose for photo with the Bible, IG says",
       "excerpt": "An Inspector General report found Wednesday that when law enforcement cleared Lafayette Park in front of the White House last June, security was the top priority – not a photo opportunity for Donald Trump.",
@@ -1479,176 +1648,6 @@
         "name": "New York Post",
         "domain": "nypost.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-03-biden-to-meet-with-queen-elizabeth-ii-at-windsor-castle-on-june-13.md",
-      "title": "Biden to meet with Queen Elizabeth II at Windsor Castle on June 13",
-      "excerpt": "President Biden and first lady Jill Biden are set to meet with Queen Elizabeth II at Windsor Castle during his trip to Europe next month for the G-7 summit, the palace said Thursday. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/uHx7jkR-4YY/biden-queen-elizabeth-ii-meeting-windsor-castle-june-13",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/uHx7jkR-4YY/biden-queen-elizabeth-ii-meeting-windsor-castle-june-13",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 215,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-queen-elizabeth-ii-meeting-windsor-castle-june-13.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-queen-elizabeth-ii-meeting-windsor-castle-june-13.amp",
-      "publishedDateTime": "2021-06-03T05:41:51-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-03-leo-terrell-somebody-needs-to-tell-joe-biden-hes-a-racist.md",
-      "title": "Leo Terrell: 'Somebody needs to tell Joe Biden he's a racist'",
-      "excerpt": "Civil rights attorney Leo Terrell said Wednesday that President Joe Biden offended African Americans when he told a crowd observing the 100th anniversary of the Tulsa massacre that Black businessmen and women don’t have lawyers to represent them or their businesses.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/leo-terrell-somebody-tell-joe-biden-hes-racist",
-      "originalUrl": "https://www.foxnews.com/media/leo-terrell-somebody-tell-joe-biden-hes-racist",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b9cba83e-eb9a-49f7-a8e5-fa4a98e092cc/a43fb3a0-b569-487b-b358-1d4ae1101c69/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/leo-terrell-somebody-tell-joe-biden-hes-racist.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/leo-terrell-somebody-tell-joe-biden-hes-racist.amp",
-      "publishedDateTime": "2021-06-02T20:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-03-washington-post-op-ed-claims-media-no-longer-needs-trump-despite-nonstop-coverage-of-former-potus.md",
-      "title": "Washington Post op-ed claims media 'no longer needs Trump' despite nonstop coverage of former POTUS",
-      "excerpt": "Washington Post columnist Paul Waldman made a questionable claim that the media \"no longer needs\" Donald Trump despite the continued coverage the former president still receives more than four months after leaving office.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/washington-post-media-no-longer-needs-trump",
-      "originalUrl": "https://www.foxnews.com/media/washington-post-media-no-longer-needs-trump",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/13047418-caba-44ab-b1ef-54005bdff3dc/dacbaf78-7f4d-4ad2-9cae-657e1f1b9c1b/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/washington-post-media-no-longer-needs-trump.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/washington-post-media-no-longer-needs-trump.amp",
-      "publishedDateTime": "2021-06-02T16:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

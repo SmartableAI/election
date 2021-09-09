@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-08-22-donald-trumps-save-america-rally-packs-farm-near-cullman.md",
+      "title": "Donald Trump’s ‘Save America’ Rally Packs Farm Near Cullman",
+      "excerpt": "The former president of the United States fired up supporters Saturday night, criticizing the Biden administration’s handling of COVID-19, the troop withdrawal in Afghanistan and more.",
+      "sourceUrl": null,
+      "webUrl": "https://wbhm.org/feature/2021/donald-trumps-save-america-rally-packs-farm-near-cullman/",
+      "originalUrl": "https://wbhm.org/feature/2021/donald-trumps-save-america-rally-packs-farm-near-cullman/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wbhm.org/wp-content/uploads/2021/08/Phillips_screen_shot-771x397.png",
+          "width": 771,
+          "height": 397,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wbhm.org/feature/2021/donald-trumps-save-america-rally-packs-farm-near-cullman/amp/",
+      "cdnAmpWebUrl": "https://wbhm-org.cdn.ampproject.org/c/s/wbhm.org/feature/2021/donald-trumps-save-america-rally-packs-farm-near-cullman/amp/",
+      "publishedDateTime": "2021-08-22T01:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WBHM",
+        "domain": "wbhm.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-08-22-tv-tonight-ruby-wax-revisits-her-time-with-donald-trump.md",
       "title": "TV tonight: Ruby Wax revisits her time with Donald Trump",
       "excerpt": "A nasty encounter with Donald Trump and much more in this entertaining new series. Plus: The Handmaid’s Tale ends. Here’s what to watch this evening",
@@ -1407,49 +1450,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-08-11-secret-irs-files-reveal-how-much-the-ultrawealthy-gained-by-shaping-trumps-big-beautiful-tax-cut.md",
-      "title": "Secret IRS Files Reveal How Much the Ultrawealthy Gained by Shaping Trump’s “Big, Beautiful Tax Cut”",
-      "excerpt": "Billionaire business owners deployed lobbyists to make sure Trump’s 2017 tax bill was tailored to their benefit. Confidential IRS records show the windfall that followed.",
-      "sourceUrl": null,
-      "webUrl": "https://www.propublica.org/article/secret-irs-files-reveal-how-much-the-ultrawealthy-gained-by-shaping-trumps-big-beautiful-tax-cut",
-      "originalUrl": "https://www.propublica.org/article/secret-irs-files-reveal-how-much-the-ultrawealthy-gained-by-shaping-trumps-big-beautiful-tax-cut",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets-c3.propublica.org/images/series/_threeTwo400w/series-3x2.jpg",
-          "width": 400,
-          "height": 267,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.propublica.org/article/secret-irs-files-reveal-how-much-the-ultrawealthy-gained-by-shaping-trumps-big-beautiful-tax-cut/amp",
-      "cdnAmpWebUrl": "https://www-propublica-org.cdn.ampproject.org/c/s/www.propublica.org/article/secret-irs-files-reveal-how-much-the-ultrawealthy-gained-by-shaping-trumps-big-beautiful-tax-cut/amp",
-      "publishedDateTime": "2021-08-11T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ProPublica",
-        "domain": "propublica.org",
-        "images": null,
         "publishers": null,
         "authors": null
       },

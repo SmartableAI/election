@@ -2,24 +2,24 @@
 category: news
 title: "Former Trump press secretary Sean Spicer asked to resign from Naval Academy Board of Visitors"
 excerpt: "Former Trump press secretary Sean Spicer was among several people asked to resign from the Naval Academy Board of Visitors, as President Joe Biden removes Trump appointees from service academy advisory boards."
-publishedDateTime: 2021-09-08T21:42:00Z
-originalUrl: "https://www.baltimoresun.com/education/ac-cn-sean-spicer-naval-academy-board-of-visitors-20210908-bdz7a75ca5h5ld4aog633s7xoe-story.html"
-webUrl: "https://www.baltimoresun.com/education/ac-cn-sean-spicer-naval-academy-board-of-visitors-20210908-bdz7a75ca5h5ld4aog633s7xoe-story.html"
+publishedDateTime: 2021-09-09T00:42:00Z
+originalUrl: "https://www.capitalgazette.com/education/naval-academy/ac-cn-sean-spicer-naval-academy-board-of-visitors-20210908-bdz7a75ca5h5ld4aog633s7xoe-story.html"
+webUrl: "https://www.capitalgazette.com/education/naval-academy/ac-cn-sean-spicer-naval-academy-board-of-visitors-20210908-bdz7a75ca5h5ld4aog633s7xoe-story.html"
 type: article
 quality: 44
 heat: -1
 published: false
 
 provider:
-  name: The Baltimore Sun
-  domain: baltimoresun.com
+  name: Capital Gazette
+  domain: capitalgazette.com
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://www.baltimoresun.com/resizer/1xOv-0WdvfZdiNdQh_3mlFnxyhI=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/4OWC245UB5HWFG7SO6OFQ3ASJU"
+  - url: "https://www.capitalgazette.com/resizer/1xOv-0WdvfZdiNdQh_3mlFnxyhI=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/4OWC245UB5HWFG7SO6OFQ3ASJU"
     width: 1200
     height: 675
     isCached: true
@@ -74,6 +74,6 @@ related:
         height: 700
         isCached: true
 
-secured: "KQ2tveTcg9Ih/Kv8XxUx1aq5GjkoshOy1ZCnmgBRKKzHI5SxKskWvGPRetUqYlODb+kVeCPpixyDbzz2kjuH1dtfm9lFYr/uQcW1vh9GaWEQOX9Z9YWsy7MAL8jrJpYmOlAL0XnMB15UlTitXrjRIEWBoUjDThAghZfdSURgtDwI8iHgc1SA33qODWf7Mm17vJl2ifA4L+OknjNtoOKNe5AJRzHCENblwe/7PCO8xaNaDoHH6Dw02i52b2yXXPwvQ1nAqmG9NzcMwoJzTcQnb115d3XXCz1DrenM4Ls3NCIdDHxRReKF5mUVTaRTpzi9XfzvApDlvSr/uOq80J8OeeFMN8sE5QsKeBovE/vLC+8=;TW/Qi5Uovk+uhHiJ7IWYaA=="
+secured: "9eR7dQ5niKCJRNrj4sO/22IgS3sogkR/ujrmeWkJaTcAjdWnP6uKHpF9W5JhEGc3z+SxtKERtZMl0ZunUcWIg17EnrDuuC/cnFQ1JAqnU1IkQCeO1NataLRe0PUodF58hk9HQHQigQbEUIWFX0JrtlmvkWpxASkV7IzYP0roKNQtIfLUvDM0aC2MN8bkF9F/BU81juHBI8G3VWaCv8nmCeLRET0uYAVtm8OhynTq6rcrQCW78ggNAYmiE589hNsx1pcUNIv4Qg1dg+eK7KccGFEoZgTecIf8gN2aK7bwZ3o504zTVjBx+gJvmCcb5x374yD04crXlMvOmyq18koYihtHOHaryvL3Ik9HYk3YrS4=;No+DNIe58do6QoIuAn8zrg=="
 ---
 

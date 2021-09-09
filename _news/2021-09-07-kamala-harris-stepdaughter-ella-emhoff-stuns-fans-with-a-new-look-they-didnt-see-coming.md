@@ -29,15 +29,15 @@ images:
 related:
   - title: "Fact check: Image of Kamala Harris and Doug Emhoff altered to show Jeffrey Epstein"
     excerpt: "Several Facebook users shared an image of Harris and Epstein with the words \"Make this photo famous.\" But the image has been altered to add Epstein."
-    publishedDateTime: 2021-09-08T20:20:00Z
-    webUrl: "https://www.usatoday.com/story/news/nation/2021/09/08/fact-check-altered-image-shows-jeffrey-epstein-next-kamala-harris/5672684001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5672684001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5672684001"
+    publishedDateTime: 2021-09-08T23:06:00Z
+    webUrl: "https://www.indystar.com/story/news/nation/2021/09/08/fact-check-altered-image-shows-jeffrey-epstein-next-kamala-harris/5672684001/"
+    ampWebUrl: "https://amp.indystar.com/amp/5672684001"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/5672684001"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 119
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 69
     images:
       - url: "https://www.gannett-cdn.com/presto/2021/09/02/USAT/5ce6a7bf-c678-4617-a1fc-5ce8b94ee4fb-AFP_AFP_8RN328.jpg?auto=webp&crop=3999,2250,x0,y200&format=pjpg&width=1200"
         width: 1200

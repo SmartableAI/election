@@ -91,6 +91,22 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "Joe Biden, Democrats push Civilian Climate Corps in echo of New Deal"
+    excerpt: "Rep. Joe Neguse, a Colorado Democrat who has co-sponsored a climate corps bill, said it’s important to train the next generation of U.S. land managers, park rangers and other stewards of our"
+    publishedDateTime: 2021-09-09T04:32:00Z
+    webUrl: "https://www.denverpost.com/2021/09/08/joe-biden-civilian-climate-corps-new-deal/"
+    ampWebUrl: "https://www.denverpost.com/2021/09/08/joe-biden-civilian-climate-corps-new-deal/amp/"
+    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2021/09/08/joe-biden-civilian-climate-corps-new-deal/amp/"
+    type: article
+    provider:
+      name: The Denver Post
+      domain: denverpost.com
+    quality: 75
+    images:
+      - url: "https://www.denverpost.com/wp-content/uploads/2021/09/AP21250772283845.jpg?w=1024&#038;h=683"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Biden approves N.Y. major disaster declaration after Ida; homeowners can now file for FEMA"
     excerpt: "President Joe Biden on Monday approved a major disaster declaration for New York in the wake of Hurricane Ida, making federal funding available to those who had property damaged by the storm. Biden first granted an emergency declaration for New York last week;"
     publishedDateTime: 2021-09-06T17:37:00Z

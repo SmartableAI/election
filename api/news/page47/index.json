@@ -2,6 +2,158 @@
   "page": 47,
   "value": [
     {
+      "path": "_news/2021-06-03-republican-leaders-to-summit-with-trump-over-conservative-agenda.md",
+      "title": "Republican leaders to summit with Trump over conservative agenda",
+      "excerpt": "Republican Study Committee Chairman Jim Banks and other members of the largest Republican caucus’ leadership will hold a summit with former President Donald Trump in New Jersey next week.",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/06/03/republican-leaders-to-meet-with-donald-trump-in-new-jersey/",
+      "originalUrl": "https://nypost.com/2021/06/03/republican-leaders-to-meet-with-donald-trump-in-new-jersey/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/06/jim-banks-rnc-02.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/06/03/republican-leaders-to-meet-with-donald-trump-in-new-jersey/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/03/republican-leaders-to-meet-with-donald-trump-in-new-jersey/amp/",
+      "publishedDateTime": "2021-06-03T09:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-03-joe-biden-once-said-god-save-the-queen-in-congress.md",
+      "title": "Joe Biden Once Said 'God Save the Queen' in Congress",
+      "excerpt": "Biden will meet the 95-year-old Queen Elizabeth II when he visits the U.K. for the G7 summit later this month.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/joe-biden-once-said-god-save-queen-congress-1597170",
+      "originalUrl": "https://www.newsweek.com/joe-biden-once-said-god-save-queen-congress-1597170",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 205,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1812200/biden-speaks-commemoration-tulsa.jpg",
+          "width": 2539,
+          "height": 1670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/joe-biden-once-said-god-save-queen-congress-1597170?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-once-said-god-save-queen-congress-1597170?amp=1",
+      "publishedDateTime": "2021-06-03T08:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-06-03-jimmy-kimmel-on-trump-abandoning-his-blog-its-a-move-he-calls-the-eric.md",
+      "title": "Jimmy Kimmel on Trump abandoning his blog: ‘It’s a move he calls the Eric’",
+      "excerpt": "With most late-night hosts on holiday this week, Kimmel mocks the end of Trump’s short-lived website and Amazon’s new cannabis policy",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/culture/2021/jun/03/jimmy-kimmel-donald-trump-blog-late-night-recap",
+      "originalUrl": "https://www.theguardian.com/culture/2021/jun/03/jimmy-kimmel-donald-trump-blog-late-night-recap",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/f06f499090879d7c5709f6eb7602fabe4aa920dd/207_107_2428_1457/master/2428.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=32045ce26666f3a7005ff1443790be4c",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/culture/2021/jun/03/jimmy-kimmel-donald-trump-blog-late-night-recap",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/culture/2021/jun/03/jimmy-kimmel-donald-trump-blog-late-night-recap",
+      "publishedDateTime": "2021-06-03T08:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-06-03-jill-biden-gets-delaware-beach-day-for-her-70th-birthday.md",
       "title": "Jill Biden gets Delaware beach day for her 70th birthday",
       "excerpt": "The trip was a rare midweek getaway from the White House by a president. It also was Biden's first visit to the couple's vacation home since he took office in January.",
@@ -1186,154 +1338,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-06-02-fauci-denied-being-muzzled-by-trump-early-in-pandemic-emails-show.md",
-      "title": "Fauci denied being ‘muzzled’ by Trump early in pandemic, emails show",
-      "excerpt": "As COVID-19 started becoming a threat last year, Dr. Anthony Fauci started receiving emails from people asking if he was being censored by the Trump administration. He denied the assertions.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/06/01/fauci-denied-being-muzzled-by-trump-early-in-pandemic-emails-show/",
-      "originalUrl": "https://nypost.com/2021/06/01/fauci-denied-being-muzzled-by-trump-early-in-pandemic-emails-show/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/06/fauci-trump-033.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/06/01/fauci-denied-being-muzzled-by-trump-early-in-pandemic-emails-show/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/01/fauci-denied-being-muzzled-by-trump-early-in-pandemic-emails-show/amp/",
-      "publishedDateTime": "2021-06-01T20:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-02-trump-jr-accuses-ny-ag-james-of-persecution-in-trump-organization-probe.md",
-      "title": "Trump Jr. accuses NY AG James of ‘persecution’ in Trump Organization probe",
-      "excerpt": "Donald Trump Jr. claimed that the New York Attorney General’s probe into the Trump Organization is a form of “political persecution.”",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/06/01/trump-jr-accuses-ny-ag-james-of-persecution-in-trump-org-probe/",
-      "originalUrl": "https://nypost.com/2021/06/01/trump-jr-accuses-ny-ag-james-of-persecution-in-trump-org-probe/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 153,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/06/don-jr-letitia-james-016.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/06/01/trump-jr-accuses-ny-ag-james-of-persecution-in-trump-org-probe/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/01/trump-jr-accuses-ny-ag-james-of-persecution-in-trump-org-probe/amp/",
-      "publishedDateTime": "2021-06-01T19:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-02-us-ends-trump-era-immigration-policy-that-forced-asylum-seekers-to-wait-in-mexico-for-hearings-in-immigration-court.md",
-      "title": "US ends Trump-era immigration policy that forced asylum-seekers to wait in Mexico for hearings in immigration court",
-      "excerpt": "The Biden administration on Tuesday formally ended a Trump-era immigration policy that forced asylum-seekers to wait in Mexico for hearings in U.S. immigration court.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chicagotribune.com/nation-world/ct-aud-nw-us-biden-end-trump-immigration-policy-asylum-mexico-court-20210601-ozztyq5cojhileqsbuog232ipq-story.html",
-      "originalUrl": "https://www.chicagotribune.com/nation-world/ct-aud-nw-us-biden-end-trump-immigration-policy-asylum-mexico-court-20210601-ozztyq5cojhileqsbuog232ipq-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.chicagotribune.com/resizer/6HwP7hGhWlXmHzuJczhcTG55y6A=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/7AK2LAGF26SSGEEMGLS2DI6RVE.aspx",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.chicagotribune.com/nation-world/ct-aud-nw-us-biden-end-trump-immigration-policy-asylum-mexico-court-20210601-ozztyq5cojhileqsbuog232ipq-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-us-biden-end-trump-immigration-policy-asylum-mexico-court-20210601-ozztyq5cojhileqsbuog232ipq-story.html?outputType=amp",
-      "publishedDateTime": "2021-06-01T16:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chicago Tribune",
-        "domain": "chicagotribune.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

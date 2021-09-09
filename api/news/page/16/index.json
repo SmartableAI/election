@@ -2,6 +2,175 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2021-08-02-comedian-john-oliver-slams-bidens-inexcusable-lack-of-plan-to-save-afghan-translators-from-taliban.md",
+      "title": "Comedian John Oliver slams Biden's 'inexcusable' lack of plan to save Afghan translators from Taliban",
+      "excerpt": "Comedian John Oliver roasted President Joe Biden for an \"inexcusable\" lack of a plan to save Afghan translators who assisted the U.S. military and are currently trapped as the Taliban quickly gain ground there.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/comedian-john-oliver-slams-biden-inexcusable-lack-plan-save-afghan-translators-taliban",
+      "originalUrl": "https://www.foxnews.com/media/comedian-john-oliver-slams-biden-inexcusable-lack-plan-save-afghan-translators-taliban",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/74e56eda-375c-4101-a9f3-324be02bfe0e/34369108-f858-4525-a4f9-3556412e89f1/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/comedian-john-oliver-slams-biden-inexcusable-lack-plan-save-afghan-translators-taliban.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/comedian-john-oliver-slams-biden-inexcusable-lack-plan-save-afghan-translators-taliban.amp",
+      "publishedDateTime": "2021-08-02T06:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-08-02-biden-ignores-pelosis-call-to-extend-eviction-ban-despite-kavanaugh-opinion.md",
+      "title": "Biden ignores Pelosi's call to extend eviction ban despite Kavanaugh opinion",
+      "excerpt": "President Biden and the White House as of Monday morning didn't respond to a statment from House Speaker Nancy Pelosi and her leadership team calling on the executive branch to extend the federal eviction moratorium.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/NckR-cP5Ut4/biden-pelosi-eviction-ban-kavanaugh-squad-democrats",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/NckR-cP5Ut4/biden-pelosi-eviction-ban-kavanaugh-squad-democrats",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 232,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-pelosi-eviction-ban-kavanaugh-squad-democrats.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-pelosi-eviction-ban-kavanaugh-squad-democrats.amp",
+      "publishedDateTime": "2021-08-02T06:00:43-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-08-02-mark-meadows-trump-meeting-with-his-cabinet-despite-not-having-one.md",
+      "title": "Mark Meadows: Trump meeting with his 'cabinet' (despite not having one)",
+      "excerpt": "Former Trump White House Chief of Staff Mark Meadows told Newsmax that the former president has been holding meetings with his \"cabinet\" despite not being president. New York Times reporter and CNN political analyst Maggie Haberman has the details.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-0N70X6ATSE/mark-meadows-trump-cabinet-newsmax-haberman-sot-newday-vpx.cnn",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-0N70X6ATSE/mark-meadows-trump-cabinet-newsmax-haberman-sot-newday-vpx.cnn",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210802081536-mark-meadows-newsmax-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/videos/politics/2021/08/02/mark-meadows-trump-cabinet-newsmax-haberman-sot-newday-vpx.cnn",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/08/02/mark-meadows-trump-cabinet-newsmax-haberman-sot-newday-vpx.cnn",
+      "publishedDateTime": "2021-08-02T05:47:19-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-08-02-pastor-greg-locke-says-only-crack-smoking-leftists-believe-joe-biden-won-election.md",
       "title": "Pastor Greg Locke Says Only 'Crack-Smoking' Leftists Believe Joe Biden Won Election",
       "excerpt": "Controversial Tennessee pastor Greg Locke again insisted President Joe Biden was not legitimately elected, and claimed only \"crack-smoking\" leftists would think he beat Donald Trump to the White House.",
@@ -1152,170 +1321,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-31-inslee-newsom-ask-biden-for-more-resources-to-battle-wildfires-blowing-past-every-record.md",
-      "title": "Inslee, Newsom Ask Biden for More Resources to Battle Wildfires 'Blowing Past' Every Record",
-      "excerpt": "California Governor Gavin Newsom said last year, a record 130,000 acres were burned, but that record was shattered in 2021 with 504,000 acres currently burned.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/inslee-newsom-ask-biden-more-resources-battle-wildfires-blowing-past-every-record-1614785",
-      "originalUrl": "https://www.newsweek.com/inslee-newsom-ask-biden-more-resources-battle-wildfires-blowing-past-every-record-1614785",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1858988/president-biden-speaks-governors-about-wildfires.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/inslee-newsom-ask-biden-more-resources-battle-wildfires-blowing-past-every-record-1614785?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/inslee-newsom-ask-biden-more-resources-battle-wildfires-blowing-past-every-record-1614785?amp=1",
-      "publishedDateTime": "2021-07-30T10:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-07-30-justice-department-advises-biden-administration-to-hand-over-trump-tax-returns-to-congress.md",
-      "title": "Justice Department advises Biden administration to hand over Trump tax returns to Congress",
-      "excerpt": "The Justice Department told the Treasury Department that it \"must\" turn over former President Donald Trump's tax returns to the House Ways and Means Committee, which first requested them more than two years ago.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QxYi1VG0usc/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QxYi1VG0usc/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 1200,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/190919130022-20190918-trump-tax-forms-generic-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/30/politics/biden-justice-department-olc-trump-tax-returns-house/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/30/politics/biden-justice-department-olc-trump-tax-returns-house/index.html",
-      "publishedDateTime": "2021-07-30T10:29:16-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-30-trump-to-doj-last-december-just-say-that-the-election-was-corrupt-leave-the-rest-to-me.md",
-      "title": "Trump to DOJ last December: 'Just say that the election was corrupt + leave the rest to me'",
-      "excerpt": "Former President Donald Trump pressured his incoming acting Attorney General Jeffrey Rosen to declare that the election was corrupt in an attempt to help Republican members of Congress try to overturn the election result, according to notes of a December 2020 call Trump held with Rosen and acting deputy",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Yg3TvcyN7PM/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Yg3TvcyN7PM/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 220,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210104150436-01-trump-1205-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/30/politics/trump-election-justice/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/30/politics/trump-election-justice/index.html",
-      "publishedDateTime": "2021-07-30T10:27:52-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

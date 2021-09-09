@@ -2,6 +2,172 @@
   "page": 55,
   "value": [
     {
+      "path": "_news/2021-05-17-mike-pence-rebukes-joe-bidens-tax-plan-says-china-will-benefit-while-us-faces-economic-catastrophe.md",
+      "title": "Mike Pence Rebukes Joe Biden's Tax Plan, Says China Will Benefit While US Faces Economic Catastrophe",
+      "excerpt": "In a Monday op-ed, Pence claimed corporations will flock to China, which \"stands to gain thousands of jobs as U.S. employers flee the crushing taxes\" proposed by Biden.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/mike-pence-rebukes-joe-bidens-tax-plan-says-china-will-benefit-while-us-faces-economic-catastrophe-1592167",
+      "originalUrl": "https://www.newsweek.com/mike-pence-rebukes-joe-bidens-tax-plan-says-china-will-benefit-while-us-faces-economic-catastrophe-1592167",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 445,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1774301/mike-pence-georgia.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/mike-pence-rebukes-joe-bidens-tax-plan-says-china-will-benefit-while-us-faces-economic-catastrophe-1592167?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mike-pence-rebukes-joe-bidens-tax-plan-says-china-will-benefit-while-us-faces-economic-catastrophe-1592167?amp=1",
+      "publishedDateTime": "2021-05-17T08:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-05-17-harris-headlines-unity-summit-for-aapi-community.md",
+      "title": "Harris headlines unity summit for AAPI community",
+      "excerpt": "Vice President Kamala Harris will serve as the keynote speaker for a virtual unity summit for Asian Americans and Pacific Islanders this week, her latest outreach to a community that has faced a wave of racially motivated crimes during the pandemic and is growing as a voting bloc.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7-wnMIXHIqU/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7-wnMIXHIqU/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 205,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210427164345-01-kamala-harris-file-0422-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/17/politics/kamala-harris-aapi-summit/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/17/politics/kamala-harris-aapi-summit/index.html",
+      "publishedDateTime": "2021-05-17T05:35:25-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-05-17-1m-ad-campaign-accuses-biden-of-working-with-dark-money-teachers-unions-to-keep-schools-closed.md",
+      "title": "$1M ad campaign accuses Biden of working with dark money, teachers unions, to keep schools closed",
+      "excerpt": "Americans for Public Trust launched a million-dollar ad campaign going after Biden and the CDC after it was revealed recently the agency was lobbied by the American Federation of Teachers on school reopenings.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/politics/biden-cdc-coronavirus-teachers-unions-school-reopening-guidelines",
+      "originalUrl": "https://www.foxnews.com/politics/biden-cdc-coronavirus-teachers-unions-school-reopening-guidelines",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/add16d20-9f6c-4889-b1f3-9beabe54d1da/be7b1d13-226b-42ba-9109-873a6ca93bfe/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-cdc-coronavirus-teachers-unions-school-reopening-guidelines.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-cdc-coronavirus-teachers-unions-school-reopening-guidelines.amp",
+      "publishedDateTime": "2021-05-17T04:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-05-17-trump-jr-praises-anti-cancel-culture-rant-unaware-same-comedian-roasted-his-father-even-better.md",
       "title": "Trump Jr. Praises Anti-Cancel-Culture Rant, Unaware Same Comedian Roasted His Father Even Better",
       "excerpt": "Trump Jr. shared a comedy clip of Jonathan Pie, a fictional news reporter portrayed by British comedian Tom Walker.",
@@ -1195,162 +1361,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-05-14-nomination-of-kristen-clarke-controversial-biden-civil-rights-pick-hangs-in-balance.md",
-      "title": "Nomination of Kristen Clarke, controversial Biden civil-rights pick, hangs in balance",
-      "excerpt": "The Senate Judiciary Committee advanced the nomination of Kristen Clarke to run the civil rights division at the Department of Justice on Thursday, but her confirmation is still not certain as a handful of key moderate senators have yet to announce their stance on the nominee.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/department-of-justice-kristen-clarke-nomination-moderate-senators-manchin-murkowski-sinema-collins",
-      "originalUrl": "https://www.foxnews.com/politics/department-of-justice-kristen-clarke-nomination-moderate-senators-manchin-murkowski-sinema-collins",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 168,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7b5c045d-f123-483e-bf61-47f1ec138734/82a4dec4-33fd-444e-951d-72ca464a2df4/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/department-of-justice-kristen-clarke-nomination-moderate-senators-manchin-murkowski-sinema-collins.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/department-of-justice-kristen-clarke-nomination-moderate-senators-manchin-murkowski-sinema-collins.amp",
-      "publishedDateTime": "2021-05-14T06:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-14-biden-and-harris-make-first-maskless-appearance-better-days-are-ahead.md",
-      "title": "Biden and Harris make first maskless appearance: ‘Better days are ahead’",
-      "excerpt": "\"We'll laugh again. We’ll know joy again,\" President Biden said Thursday. \"We'll smile again — and now, see one another's smile.\"",
-      "sourceUrl": null,
-      "webUrl": "https://thegrio.com/2021/05/14/biden-harris-maskless-appearance-better-days-ahead/",
-      "originalUrl": "https://thegrio.com/2021/05/14/biden-harris-maskless-appearance-better-days-ahead/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thegrio.com/wp-content/uploads/2021/05/BidenHarris-scaled.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thegrio.com/2021/05/14/biden-harris-maskless-appearance-better-days-ahead/amp/",
-      "cdnAmpWebUrl": "https://thegrio-com.cdn.ampproject.org/c/s/thegrio.com/2021/05/14/biden-harris-maskless-appearance-better-days-ahead/amp/",
-      "publishedDateTime": "2021-05-14T05:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Grio",
-        "domain": "thegrio.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-05-14-bidens-covid-19-rule-tweet-panned-on-social-media.md",
-      "title": "Biden’s COVID-19 ‘rule’ tweet panned on social media",
-      "excerpt": "President Biden received backlash on social media Thursday over a tweet that some users saw as a thinly veiled ultimatum when it comes to receiving a COVID-19 jab.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/qlt2vwp_-aU/bidens-covid-19-rule-tweet-panned-on-social-media",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/qlt2vwp_-aU/bidens-covid-19-rule-tweet-panned-on-social-media",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 355,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/bidens-covid-19-rule-tweet-panned-on-social-media.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-covid-19-rule-tweet-panned-on-social-media.amp",
-      "publishedDateTime": "2021-05-13T23:57:17-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

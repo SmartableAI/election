@@ -2,23 +2,19 @@
 category: news
 title: "Fact check: Image of Kamala Harris and Doug Emhoff altered to show Jeffrey Epstein"
 excerpt: "Several Facebook users shared an image of Harris and Epstein with the words \"Make this photo famous.\" But the image has been altered to add Epstein."
-publishedDateTime: 2021-09-08T20:20:00Z
-originalUrl: "https://www.usatoday.com/story/news/nation/2021/09/08/fact-check-altered-image-shows-jeffrey-epstein-next-kamala-harris/5672684001/"
-webUrl: "https://www.usatoday.com/story/news/nation/2021/09/08/fact-check-altered-image-shows-jeffrey-epstein-next-kamala-harris/5672684001/"
-ampWebUrl: "https://amp.usatoday.com/amp/5672684001"
-cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5672684001"
+publishedDateTime: 2021-09-08T23:06:00Z
+originalUrl: "https://www.indystar.com/story/news/nation/2021/09/08/fact-check-altered-image-shows-jeffrey-epstein-next-kamala-harris/5672684001/"
+webUrl: "https://www.indystar.com/story/news/nation/2021/09/08/fact-check-altered-image-shows-jeffrey-epstein-next-kamala-harris/5672684001/"
+ampWebUrl: "https://amp.indystar.com/amp/5672684001"
+cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/5672684001"
 type: article
-quality: 119
-heat: 199
+quality: 69
+heat: 149
 published: true
 
 provider:
-  name: USA Today
-  domain: usatoday.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Indianapolis Star
+  domain: indystar.com
 
 topics:
   - Election
@@ -90,6 +86,6 @@ related:
         height: 630
         isCached: true
 
-secured: "Nt1bFzcNSI1yzrDP25CXjSzYwkVemvkzqEwvES4J9txcUYrydizNtGyfj6wam6VUVVUH070S3Bh3ftIIWjPe2Ka1jPy7UQ/ODhnGoQ3bu5dn8UEXgZ7AuxOtP11T/GMv9QyXkLKK90BYupakzdN4WgXOwxuAG8UV6W5L2etWBocgMQoAAONkUMsPG0L6sABiwh9qzRY1hWY6A3EVsmJbdCpOj617ce/iwirf7Q5e6EY/9YF79YIqI/+qu3QL1R0GPfIUDL1/tYSTQefqXgSYKBFAJpSJo0tIzIxHbOUkF+JPBDD8oMmpDeRcukFxk26oaRZHKFPosT4Ks9vgGpL9tMStUPke+V7Pee8RAYMBNpaFqOPWGr99iPrk5l8ZfPDx7NKGxMkCIwCqMeEkt9IStMa5mLdF/OFVJ+ANCMs86nSuMJx6Khwg0qty3SIuDUcjD7nivQZb8m85s3e+T9tqHu09AbUx4AaIKPBfPVHIq2ZoCwcO+s6okNZyy7rsAhbgmg53SDdWH3egx1P7eWuz6w==;a2zVGnNfem4ZB+7lwJeqQA=="
+secured: "yWF2JaHZEe8buMwEZoB3K40+Lp8l/FyPxwjDiO13KRBDDNuB/zON+//DhYZib8caXvkJUW9n/6oBSSvHh0YrLaDpuMozoHngLczWzkgX+jIv2yON9lL80b9LxLpIKwwCOzSHG1O7iB6kbpuV4EdA+dhBEhSr/MQO+WNa0lafTqNV1fdeyr+N3ClMDwA1lHlWGnab1TCz8codb5gPaK5dfXiB0UGzu7wG/raUvmbB3OjK61veJnoHwuA8VUmUR/2r1lJzIzGX65HR3fqr4ifgkwkGUJbNMseAvUqVoeZeg7jxjBpdfHANrhUhNuzpLI4X5uYJW9fzqjiv/6o3yqivrCRxXqiRNHckEJ6mnGgayjw5WySmwnAkWS/XNyzzVCC3tiU6JVjIafo/qyK4C63fm0U6iMg8KYlo6MLg+bsnUDpxw9ukkw9HZQCCvBpDpcw2To/za7mPcnKpcI46rggCROb8ZCmdVbWuyIQUMryOwzg/CwFp+pPEd8jWqxzlmuj7FQllFbWSEg9K2u19FCTVcA==;9jfXGxAGtq8HiT+dmjbi1A=="
 ---
 

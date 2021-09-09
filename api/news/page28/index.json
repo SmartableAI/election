@@ -2,6 +2,153 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2021-07-09-biden-says-i-will-not-send-another-generation-of-americans-to-war-in-afghanistan-live.md",
+      "title": "Biden says ‘I will not send another generation of Americans to war in Afghanistan’ – live",
+      "excerpt": "Joe Biden speaks on US troop withdrawal after 20 years at war – follow all the day’s political news",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/live/2021/jul/08/joe-biden-us-troop-withdrawal-afghanistan-covid-coronavirus-politics-latest?page=with:block-60e771858f088074caec4722",
+      "originalUrl": "https://www.theguardian.com/us-news/live/2021/jul/08/joe-biden-us-troop-withdrawal-afghanistan-covid-coronavirus-politics-latest?page=with:block-60e771858f088074caec4722",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 216,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/f875a2dbf99456d76ab1ce8df2c7ea938afda71d/0_117_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=65c205b887888d975c7bb3e64723ed7b",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2021/jul/08/joe-biden-us-troop-withdrawal-afghanistan-covid-coronavirus-politics-latest",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jul/08/joe-biden-us-troop-withdrawal-afghanistan-covid-coronavirus-politics-latest",
+      "publishedDateTime": "2021-07-08T14:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-07-09-kamala-harris-joins-dnc-to-announce-expansion-of-i-will-vote-campaign.md",
+      "title": "Kamala Harris joins DNC to announce expansion of \"I Will Vote\" campaign",
+      "excerpt": "Vice President Harris on Thursday helped the Democratic National Committee announce an expansion of its \"I Will Vote\" campaign, which focuses on promoting voter registration and participation among minorities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/video/kamala-harris-democrats-i-will-vote-campaign/",
+      "originalUrl": "https://www.cbsnews.com/video/kamala-harris-democrats-i-will-vote-campaign/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2021/07/08/eb79983b-83fe-4e13-921f-49af9512cd63/thumbnail/1200x630/7c220e32a1fe3d584e4098b17c57013b/cbsn-fusion-kamala-harris-democrats-i-will-vote-campaign-thumbnail-749879-640x360.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-08T12:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-07-09-mike-pence-reportedly-once-lost-it-after-trump-threw-a-crumpled-newspaper-article-at-him.md",
+      "title": "Mike Pence reportedly once 'lost it' after Trump threw a crumpled newspaper article at him",
+      "excerpt": "Former Vice President Mike Pence reportedly \"lost it\" and \"snarled\" at former President Donald Trump in 2018 after getting a crumpled up newspaper article thrown at him. At the time, Pence's political committee had just hired Trump's adviser Corey Lewandowski,",
+      "sourceUrl": null,
+      "webUrl": "https://theweek.com/mike-pence/1002422/mike-pence-reportedly-once-lost-it-after-trump-threw-a-crumpled-newspaper",
+      "originalUrl": "https://theweek.com/mike-pence/1002422/mike-pence-reportedly-once-lost-it-after-trump-threw-a-crumpled-newspaper",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mediacloud.theweek.com/image/upload/f_auto,t_primary-image-mobile@1/v1625768503/GettyImages-1208915582%20%281%29.jpg",
+          "width": 375,
+          "height": 211,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://theweek.com/mike-pence/1002422/mike-pence-reportedly-once-lost-it-after-trump-threw-a-crumpled-newspaper?amp",
+      "cdnAmpWebUrl": "https://theweek-com.cdn.ampproject.org/c/s/theweek.com/mike-pence/1002422/mike-pence-reportedly-once-lost-it-after-trump-threw-a-crumpled-newspaper?amp",
+      "publishedDateTime": "2021-07-08T12:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "THE WEEK",
+        "domain": "theweek.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-07-08-biden-changes-end-of-us-combat-mission-in-afghanistan-from-sept-11-to-aug-31.md",
       "title": "Biden changes end of US combat mission in Afghanistan from Sept. 11 to Aug. 31",
       "excerpt": "President Biden said U.S. troops will be out of Afghanistan sooner than his original Sept. 11 deadline, telling reporters Thursday U.S. forces will be home by Aug. 31. ",
@@ -1167,162 +1314,6 @@
       "topics": [
         "Election",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-07-07-trump-told-chief-of-staff-hitler-did-a-lot-of-good-things-book-says.md",
-      "title": "Trump told chief of staff Hitler ‘did a lot of good things’, book says",
-      "excerpt": "Remark shocked John Kelly, author Michael Bender reports, detailing former president’s ‘stunning disregard for history’",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/jul/06/donald-trump-hitler-michael-bender-book",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/jul/06/donald-trump-hitler-michael-bender-book",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 185,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/32d9b4b7b6aa0703e0a39545dc45fb0535a661b9/54_0_1905_1143/master/1905.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=abc0f3c3e0e837a7f56c6c1a89f887ca",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/jul/06/donald-trump-hitler-michael-bender-book",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jul/06/donald-trump-hitler-michael-bender-book",
-      "publishedDateTime": "2021-07-07T05:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-07-the-memo-hillbilly-elegy-author-binds-himself-to-trump-after-past-criticism.md",
-      "title": "The Memo: 'Hillbilly Elegy' author binds himself to Trump after past criticism",
-      "excerpt": "Now, as a candidate for the Republican Senate nomination in Ohio, he is a big Trump fan. How and why Vance moved from one position to the other is a topic of red-hot debate only days after the “Hillbilly Elegy” author declared his candidacy for the seat that is being vacated by Sen.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/the-memo/561768-the-memo-hillbilly-elegy-author-binds-himself-to-trump-after-past-criticism",
-      "originalUrl": "https://thehill.com/homenews/the-memo/561768-the-memo-hillbilly-elegy-author-binds-himself-to-trump-after-past-criticism",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/article_images/vancejd_090618getty_vance.jpeg",
-          "width": 980,
-          "height": 580,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/the-memo/561768-the-memo-hillbilly-elegy-author-binds-himself-to-trump-after-past-criticism?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/the-memo/561768-the-memo-hillbilly-elegy-author-binds-himself-to-trump-after-past-criticism?amp",
-      "publishedDateTime": "2021-07-07T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-07-mary-trump-calls-all-gop-lawmakers-traitorsexcludes-cheney-kinzinger.md",
-      "title": "Mary Trump Calls All GOP Lawmakers 'Traitors'—Excludes Cheney, Kinzinger",
-      "excerpt": "The ex-president's niece—a fierce critic of her uncle and much of her extended family—slammed Republican reluctance to hold a probe into the U.S. Capitol riots.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/mary-trump-republicans-capitol-riots-traitors-1607406",
-      "originalUrl": "https://www.newsweek.com/mary-trump-republicans-capitol-riots-traitors-1607406",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1839039/trump-supporters-clash-january-6.jpg",
-          "width": 2500,
-          "height": 1668,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/mary-trump-republicans-capitol-riots-traitors-1607406?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mary-trump-republicans-capitol-riots-traitors-1607406?amp=1",
-      "publishedDateTime": "2021-07-07T01:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

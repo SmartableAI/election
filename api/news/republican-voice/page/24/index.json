@@ -2,6 +2,167 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2021-04-06-biden-hasnt-talked-to-chinese-president-about-coronavirus-origins.md",
+      "title": "Biden hasn't talked to Chinese president about coronavirus origins",
+      "excerpt": "President Biden on Tuesday said he has not spoken to Chinese President Xi Jinping about the origins of COVID-19.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/UhnRJtgchao/biden-chinese-president-xi-jinping-coronavirus-origins",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/UhnRJtgchao/biden-chinese-president-xi-jinping-coronavirus-origins",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 395,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-chinese-president-xi-jinping-coronavirus-origins.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-chinese-president-xi-jinping-coronavirus-origins.amp",
+      "publishedDateTime": "2021-04-06T13:58:17-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-07-cnn-wapo-called-out-for-casting-doubt-on-trumps-april-timeline-for-vaccines.md",
+      "title": "CNN, WaPo called out for casting doubt on Trump's April timeline for vaccines",
+      "excerpt": "President Biden is set to announce all U.S. adults will be eligible for coronavirus vaccines by April 19, although multiple media outlets cast doubt on former President Donald Trump's claim last year there would be enough vaccines for adults by April.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/media-trumps-claim-vaccines-americans-april",
+      "originalUrl": "https://www.foxnews.com/media/media-trumps-claim-vaccines-americans-april",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e360c9be-94bc-48ba-b8f1-c0695538cccb/162fa33e-186e-4288-9a45-28a8efcaa517/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/media-trumps-claim-vaccines-americans-april.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/media-trumps-claim-vaccines-americans-april.amp",
+      "publishedDateTime": "2021-04-06T12:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-06-see-kamala-harris-own-resolute-desk-made-from-parts-of-uss-constitution.md",
+      "title": "See Kamala Harris’ own ‘Resolute’ desk made from parts of USS Constitution",
+      "excerpt": "The desk was built by US Navy Seabees and delivered to the White House in February, according to outlets including Military.com.",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/04/06/see-kamala-harris-desk-made-from-parts-of-uss-constitution/",
+      "originalUrl": "https://nypost.com/2021/04/06/see-kamala-harris-desk-made-from-parts-of-uss-constitution/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 153,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/04/kamala-harris-desk-010.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/04/06/see-kamala-harris-desk-made-from-parts-of-uss-constitution/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/06/see-kamala-harris-desk-made-from-parts-of-uss-constitution/amp/",
+      "publishedDateTime": "2021-04-06T09:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-06-gop-rep-lee-zeldin-urged-by-trump-allies-to-run-for-governor-of-ny-amid-cuomo-scandals.md",
       "title": "GOP Rep. Lee Zeldin urged by Trump allies to run for governor of NY amid Cuomo scandals",
       "excerpt": "EXCLUSIVE: Trump allies are quietly rallying their support behind Republican Rep. Lee Zeldin, encouraging him to mount a GOP gubernatorial bid against New York Gov. Andrew Cuomo in 2022, Fox News has learned. Sources familiar told Fox News that Zeldin ...",
@@ -1475,174 +1636,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/pompeo-regrets-didnt-make-more-progress-north-korea.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pompeo-regrets-didnt-make-more-progress-north-korea.amp",
       "publishedDateTime": "2021-04-01T19:27:08-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-01-former-sen-perdue-slams-biden-spending-bill-as-a-climate-change-bill-at-its-roots.md",
-      "title": "Former Sen. Perdue slams Biden spending bill as a 'climate change bill at its roots'",
-      "excerpt": "Former Georgia Senator David Perdue slammed President Biden's $2 trillion infrastructure spending bill Thursday, saying it was \"a climate change bill at its roots.\" ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/arhZXkmdero/former-sen-perdue-slams-biden-spending-bill-as-a-climate-change-bill-at-its-roots",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/arhZXkmdero/former-sen-perdue-slams-biden-spending-bill-as-a-climate-change-bill-at-its-roots",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 208,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/former-sen-perdue-slams-biden-spending-bill-as-a-climate-change-bill-at-its-roots.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/former-sen-perdue-slams-biden-spending-bill-as-a-climate-change-bill-at-its-roots.amp",
-      "publishedDateTime": "2021-04-01T16:56:05-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-01-border-crisis-result-of-biden-decisions-never-seen-it-close-to-this-bad-cruz.md",
-      "title": "Border crisis result of Biden decisions, 'never seen it close to this bad': Cruz",
-      "excerpt": "Sen. Ted Cruz, R-Texas, argued on \"America Reports\" Thursday that President Biden \"caused the border crisis we are seeing right now\" through his immigration actions during his first week in office.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/e7ZyQ1_wTGc/border-crisis-critical-decisions-biden-president-cruz",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/e7ZyQ1_wTGc/border-crisis-critical-decisions-biden-president-cruz",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 250,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/border-crisis-critical-decisions-biden-president-cruz.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/border-crisis-critical-decisions-biden-president-cruz.amp",
-      "publishedDateTime": "2021-04-01T13:40:03-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-01-biden-hhs-ad-campaign-mirrors-dem-super-pac-ads.md",
-      "title": "Biden HHS ad campaign mirrors Dem super PAC ads",
-      "excerpt": "While it is normal for ad blitzes promoting legislation to happen, the ads coincided with a polling memo put out by Priorities USA after the release of the initial ads saying that voters needed to witness Democrats “deliver on policies that provide real benefits to their lives.”",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ibPjcWhOtfM/hhs-ad-health-coverage-covid-relief-bill",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ibPjcWhOtfM/hhs-ad-health-coverage-covid-relief-bill",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 275,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9e887285-a232-43af-9f21-5ce5e41052d1/0a5d2b63-0c9e-4b53-82ce-05b1b70011c3/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/hhs-ad-health-coverage-covid-relief-bill.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hhs-ad-health-coverage-covid-relief-bill.amp",
-      "publishedDateTime": "2021-04-01T13:37:13-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

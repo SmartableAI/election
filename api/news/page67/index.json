@@ -2,6 +2,170 @@
   "page": 67,
   "value": [
     {
+      "path": "_news/2021-04-19-trump-to-hannity-gop-must-run-on-maga-agenda-if-they-want-to-retake-congress-in-2022.md",
+      "title": "Trump to Hannity: GOP must run on 'MAGA' agenda if they want to retake Congress in 2022",
+      "excerpt": "In an exclusive, hour-long interview with Fox News, former President Donald J. Trump will tell host Sean Hannity that the future of the Republican Party hinges on whether it can coalesce behind the \"Make America Great\" platform that brought new voters into the 'big tent' in both 2016 and 2020.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ky4jQEKi0yA/trump-to-hannity-gop-must-run-on-maga-agenda-if-they-want-to-retake-congress-in-2022",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ky4jQEKi0yA/trump-to-hannity-gop-must-run-on-maga-agenda-if-they-want-to-retake-congress-in-2022",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 227,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8619b06d-38ca-4ec4-92ac-536fe858ead7/a00b6967-d2cf-4458-bab9-114c11417d46/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-to-hannity-gop-must-run-on-maga-agenda-if-they-want-to-retake-congress-in-2022.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-to-hannity-gop-must-run-on-maga-agenda-if-they-want-to-retake-congress-in-2022.amp",
+      "publishedDateTime": "2021-04-19T14:28:29-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-19-psaki-says-biden-believes-protests-must-be-peaceful-after-maxine-waters-confrontational-comments.md",
+      "title": "Psaki says Biden believes ‘protests must be peaceful’ after Maxine Waters’ ‘confrontational’ comments",
+      "excerpt": "White House press secretary Jen Psaki said President Biden believes \"protests must be peaceful\" in response to Rep. Maxine Waters, D-Calif., calling for demonstrators to ramp up their actions in the event that Derek Chauvin is acquitted of murder for the death of George Floyd.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1dnlLGzm7ts/psaki-biden-believes-protests-peaceful-maxine-waters-comments",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1dnlLGzm7ts/psaki-biden-believes-protests-peaceful-maxine-waters-comments",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/psaki-biden-believes-protests-peaceful-maxine-waters-comments.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-biden-believes-protests-peaceful-maxine-waters-comments.amp",
+      "publishedDateTime": "2021-04-19T10:23:13-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-19-the-us-counties-lagging-in-covid-19-vaccinations-have-one-thing-in-common-trump-voters.md",
+      "title": "The US counties lagging in COVID-19 vaccinations have one thing in common: Trump voters",
+      "excerpt": "But in hundreds of counties around the country, vaccination rates are low, with some even languishing in the teens. The disparity in vaccination rates has so far mainly broken down along political lines.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chicagotribune.com/coronavirus/vaccine/ct-aud-nw-nyt-coronavirus-vaccine-hesitancy-politics-20210419-4cjra7mwmnh6tgugojjpfrjeoi-story.html",
+      "originalUrl": "https://www.chicagotribune.com/coronavirus/vaccine/ct-aud-nw-nyt-coronavirus-vaccine-hesitancy-politics-20210419-4cjra7mwmnh6tgugojjpfrjeoi-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chicagotribune.com/resizer/vupPRWS9uJuXNtvMaqKGiBTxMgs=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/XGTUB5W2POGVA4PKVIRGW235VI.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.chicagotribune.com/coronavirus/vaccine/ct-aud-nw-nyt-coronavirus-vaccine-hesitancy-politics-20210419-4cjra7mwmnh6tgugojjpfrjeoi-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/coronavirus/vaccine/ct-aud-nw-nyt-coronavirus-vaccine-hesitancy-politics-20210419-4cjra7mwmnh6tgugojjpfrjeoi-story.html?outputType=amp",
+      "publishedDateTime": "2021-04-19T08:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Tribune",
+        "domain": "chicagotribune.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-04-19-biden-rejoining-iran-nuclear-agreement-dangerous-lieberman.md",
       "title": "Biden rejoining Iran nuclear agreement dangerous: Lieberman",
       "excerpt": "Former Senator Joe Lieberman (I) provides insight into the possible dangers that can come from U.S.-Iran negotiations.",
@@ -1198,177 +1362,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-17-mcenany-liberal-media-ran-with-heinous-allegations-on-russian-bounties-to-hurt-trump.md",
-      "title": "McEnany: Liberal media ran with 'heinous' allegations on Russian bounties to hurt Trump",
-      "excerpt": "Former White House Press Secretary and co-host of 'Outnumbered' Kayleigh McEnany blasted reporters for putting forth a false narrative last year, after U.S. intelligence agencies began to backtrack on reports of Russian bounties being placed on U.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/mcenany-russia-bounty-claims-egregious-trump",
-      "originalUrl": "https://www.foxnews.com/media/mcenany-russia-bounty-claims-egregious-trump",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6c2fe82d-8748-49da-8649-c7d1e65a422c/9578fd0f-96b7-49f5-8bb7-281094431ef9/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/mcenany-russia-bounty-claims-egregious-trump.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/mcenany-russia-bounty-claims-egregious-trump.amp",
-      "publishedDateTime": "2021-04-16T11:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-16-tom-cotton-intel-on-russia-bounties-selectively-leaked-to-media-to-help-biden-campaign.md",
-      "title": "Tom Cotton: Intel on Russia bounties 'selectively leaked' to media to help Biden campaign",
-      "excerpt": "Sen. Tom Cotton, a Republican member of the Senate Judiciary Committee, told “The Faulkner Focus” Friday that Russia bounty intel “selectively leaked” information to the media to help the Biden campaign, after a senior Biden administration official said the intelligence community only had “low to moderate”",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/d1kmkK4Qw5M/tom-cotton-russia-bounty-intel-biden",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/d1kmkK4Qw5M/tom-cotton-russia-bounty-intel-biden",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 166,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/tom-cotton-russia-bounty-intel-biden.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tom-cotton-russia-bounty-intel-biden.amp",
-      "publishedDateTime": "2021-04-16T11:17:38-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-16-kamala-harris-cited-russian-bounty-story-in-general-election-debate-with-pence.md",
-      "title": "Kamala Harris cited Russian bounty story in general election debate with Pence",
-      "excerpt": "Vice President Harris cited the now-backpedaled report of Russia placing bounties on the heads of U.S. soldiers during a general election debate in October with former Vice President Mike Pence.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/rpyuhO0_-WE/kamala-harris-cited-russian-bounty-story-debate-pence",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/rpyuhO0_-WE/kamala-harris-cited-russian-bounty-story-debate-pence",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 741,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/kamala-harris-cited-russian-bounty-story-debate-pence.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-cited-russian-bounty-story-debate-pence.amp",
-      "publishedDateTime": "2021-04-16T11:13:46-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Mike Pence",
-        "Kamala Harris"
       ]
     }
   ],

@@ -2,6 +2,166 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-06-15-gov-noem-slams-biden-over-white-house-fireworks-event-what-a-hypocrite.md",
+      "title": "Gov. Noem slams Biden over White House fireworks event: 'What a hypocrite'",
+      "excerpt": "South Dakota Gov. Kristi Noem slammed President Biden on Tuesday after his administration unveiled plans to host an Independence Day fireworks display at the White House, weeks after federal officials rejected her bid to host a similar event at Mount Rushmore.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/MKWICMlBAHU/gov-noem-slams-biden-white-house-fireworks-event",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/MKWICMlBAHU/gov-noem-slams-biden-white-house-fireworks-event",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 153,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/Noem.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-15T15:03:09-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-15-biden-reveals-9-ambassador-nominations-including-thomas-nides-sully-sullenberger.md",
+      "title": "Biden reveals 9 ambassador nominations, including Thomas Nides, 'Sully' Sullenberger",
+      "excerpt": "President Biden unveiled a slate of nominations for nine ambassadorial positions on Tuesday, including his picks to hold the key diplomatic posts in Mexico, Israel and NATO.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/svGbEeYJl0I/biden-ambassador-nominations-thomas-nides-sully-sullenberger",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/svGbEeYJl0I/biden-ambassador-nominations-thomas-nides-sully-sullenberger",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 148,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/06/AP21155541081134.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-15T13:50:20-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-16-trump-names-ex-rnc-spokeswoman-to-replace-departing-aide-jason-miller.md",
+      "title": "Trump names ex-RNC spokeswoman to replace departing aide Jason Miller",
+      "excerpt": "Former President Donald Trump has named Liz Harrington, a former Republican National Committee spokeswoman, to replace the departing advisor Jason Miller.",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/06/15/trump-replaces-jason-miller-with-ex-rnc-spokeswoman/",
+      "originalUrl": "https://nypost.com/2021/06/15/trump-replaces-jason-miller-with-ex-rnc-spokeswoman/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/06/trump-miller-harrington-hp.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/06/15/trump-replaces-jason-miller-with-ex-rnc-spokeswoman/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/15/trump-replaces-jason-miller-with-ex-rnc-spokeswoman/amp/",
+      "publishedDateTime": "2021-06-15T10:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-15-missouri-ag-slams-bidens-epa-for-federal-government-land-grab-over-reinstatement-of-water-rule.md",
       "title": "Missouri AG slams Biden's EPA for 'federal government land grab' over reinstatement of water rule",
       "excerpt": "Missouri Attorney General Eric Schmitt in a Tuesday letter condemned the EPA's “federal government land grab\" over its decision to revise the Obama-era definition of “waters of the United States.”",
@@ -1484,175 +1644,6 @@
         "Election",
         "Republican Voice",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-06-09-blackburn-rubio-cotton-demand-fauci-resign-or-be-fired-by-biden.md",
-      "title": "Blackburn, Rubio, Cotton demand Fauci resign or be fired by Biden",
-      "excerpt": "EXCLUSIVE: Republican Sens. Marsha Blackburn, Marco Rubio and Tom Cotton are calling on Dr. Anthony Fauci to resign, saying he has “lost the confidence of the American people” amid controversy surrounding the origins of COVID-19 —and if he won’t step down, the Republican senators are urging President",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/pEnP1gMcBB0/blackburn-rubio-cotton-call-on-fauci-to-resign-urge-biden-to-fire-him",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/pEnP1gMcBB0/blackburn-rubio-cotton-call-on-fauci-to-resign-urge-biden-to-fire-him",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/blackburn-rubio-cotton-call-on-fauci-to-resign-urge-biden-to-fire-him.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/blackburn-rubio-cotton-call-on-fauci-to-resign-urge-biden-to-fire-him.amp",
-      "publishedDateTime": "2021-06-09T16:42:24-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-10-biden-asking-for-911-style-attack-by-not-responding-forcefully-to-russian-cyberattacks-kirk-lippold.md",
-      "title": "Biden asking for ‘9/11 style attack’ by not responding ‘forcefully’ to Russian cyberattacks: Kirk Lippold",
-      "excerpt": "Former USS Cole Commander Kirk Lippold told \"Your World\" Joe Biden will embolden Vladimir Putin if he does not \"clearly\" respond to the Russian government for \"state-sponsored\" cyberattacks on American businesses.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/biden-asking-for-9-11-style-attack-by-not-responding-forcefully-to-russian-cyberattacks-kirk-lippold",
-      "originalUrl": "https://www.foxnews.com/media/biden-asking-for-9-11-style-attack-by-not-responding-forcefully-to-russian-cyberattacks-kirk-lippold",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d430e49c-91b2-4548-8f29-d314ed7ffea4/a5eeb00d-501d-415b-8dbc-48c0cbaa0cc4/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/biden-asking-for-9-11-style-attack-by-not-responding-forcefully-to-russian-cyberattacks-kirk-lippold.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/biden-asking-for-9-11-style-attack-by-not-responding-forcefully-to-russian-cyberattacks-kirk-lippold.amp",
-      "publishedDateTime": "2021-06-09T16:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-09-biden-says-us-not-seeking-conflict-with-russia-as-putin-meeting-looms.md",
-      "title": "Biden says US 'not seeking conflict' with Russia as Putin meeting looms",
-      "excerpt": "President Biden said Wednesday he will reiterate to Russian President Vladimir Putin at an upcoming summit that there will be “consequences” if Russia takes harmful action toward democratic governments.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/kjwF5yJdRfo/biden-putin-meeting-us-not-seeking-conflict-russia",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/kjwF5yJdRfo/biden-putin-meeting-us-not-seeking-conflict-russia",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 515,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/66fb34b2-88ee-4794-a45c-0dd47703dce0/d2addf7e-d6f7-4cd9-ad3a-c9109e8796c6/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-putin-meeting-us-not-seeking-conflict-russia.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-putin-meeting-us-not-seeking-conflict-russia.amp",
-      "publishedDateTime": "2021-06-09T16:15:53-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

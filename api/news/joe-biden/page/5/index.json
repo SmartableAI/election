@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-07-17-biden-social-media-platforms-killing-people-with-misinfo.md",
+      "title": "Biden: Social media platforms 'killing people' with misinfo",
+      "excerpt": "President Joe Biden says social media companies are “killing people” by failing to police misinformation on their platforms about the COVID-19 vaccines",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/biden-social-media-platforms-killing-people-with-misinfo/2021/07/16/1e5944f8-e677-11eb-88c5-4fd6382c47cb_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/biden-social-media-platforms-killing-people-with-misinfo/2021/07/16/1e5944f8-e677-11eb-88c5-4fd6382c47cb_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 265,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZRI5GLHGNAI6XCGFJ7LDQLCHZM.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/biden-social-media-platforms-killing-people-with-misinfo/2021/07/16/1e5944f8-e677-11eb-88c5-4fd6382c47cb_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-social-media-platforms-killing-people-with-misinfo/2021/07/16/1e5944f8-e677-11eb-88c5-4fd6382c47cb_story.html?outputType=amp",
+      "publishedDateTime": "2021-07-16T10:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-07-16-biden-to-reappoint-jerome-powell-as-fed-chair-say-economists.md",
       "title": "Biden to reappoint Jerome Powell as Fed chair, say economists",
       "excerpt": "U.S. President Joe Biden will reappoint current Federal Reserve Chair Jerome Powell for a second four-year term starting February next year, according to an overwhelming majority of economists polled by Reuters this week.",
@@ -1503,63 +1555,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-07-06-nbc-news-historian-fawns-over-bidens-half-century-of-political-experience-hes-made-very-few-mistakes.md",
-      "title": "NBC News historian fawns over Biden's 'half-century' of political experience: He's made 'very few mistakes'",
-      "excerpt": "NBC News Presidential Historian Michael Beschloss made clear his admiration for President Biden as he praised the latter's Independence Day address to the nation and declared that we were \"lucky\" to have him as president.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/nbc-news-historioan-fawns-over-biden-half-century-political-experience-made-very-few-mistakes",
-      "originalUrl": "https://www.foxnews.com/media/nbc-news-historioan-fawns-over-biden-half-century-political-experience-made-very-few-mistakes",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8122e021-ff21-45a8-890a-34f0c3af0978/b429fe34-719c-47cb-a97c-6727f39f312b/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/nbc-news-historioan-fawns-over-biden-half-century-political-experience-made-very-few-mistakes.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/nbc-news-historioan-fawns-over-biden-half-century-political-experience-made-very-few-mistakes.amp",
-      "publishedDateTime": "2021-07-05T13:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
       ]
     }
   ],

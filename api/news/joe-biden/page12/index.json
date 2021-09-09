@@ -2,6 +2,63 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-04-19-babylon-bee-editor-in-chief-scolds-samantha-bee-for-pulling-punches-on-biden-blinded-by-your-own-worldview.md",
+      "title": "Babylon Bee editor in chief scolds Samantha Bee for pulling punches on Biden: 'Blinded by your own worldview'",
+      "excerpt": "The editor-in-chief of the popular satirical website The Babylon Bee sounded off at TBS’ far-left \"Full Frontal\" host Samantha Bee over the weekend after she admitted to going easy on President Biden despite years of hard-hitting jokes at the expense of his predecessor.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/babylon-bee-editor-in-chief-scolds-samantha-bee-for-pulling-punches-on-biden-blinded-by-your-own-worldview",
+      "originalUrl": "https://www.foxnews.com/media/babylon-bee-editor-in-chief-scolds-samantha-bee-for-pulling-punches-on-biden-blinded-by-your-own-worldview",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/640/320/Samantha-Bee-628x354.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/babylon-bee-editor-in-chief-scolds-samantha-bee-for-pulling-punches-on-biden-blinded-by-your-own-worldview.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/babylon-bee-editor-in-chief-scolds-samantha-bee-for-pulling-punches-on-biden-blinded-by-your-own-worldview.amp",
+      "publishedDateTime": "2021-04-18T14:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-18-biden-takes-on-democrats-mission-impossible-revitalizing-coal-country.md",
       "title": "Biden takes on Democrats’ ‘Mission Impossible’: Revitalizing coal country",
       "excerpt": "Despite deep skepticism from union allies, Democrats are determined to make their “Just Transition” away from fossil fuels work.",
@@ -1532,63 +1589,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-04-08-damn-it-im-sick-and-tired-of-ordinary-people-being-fleeced-biden-defends-corporate-tax-hike.md",
-      "title": "‘Damn it … I’m sick and tired of ordinary people being fleeced’: Biden defends corporate tax hike",
-      "excerpt": "President Joe Biden on Wednesday defended raising the corporate tax rate to help pay for his infrastructure plan, saying he’s “sick and tired of ordinary people being fleeced.” Biden slammed former President Donald Trump’s corporate tax rate cuts ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2021/04/07/biden-infrastructure-speech-479721",
-      "originalUrl": "https://www.politico.com/news/2021/04/07/biden-infrastructure-speech-479721",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/c3/24/49791ee84b6a94e296633797d05f/210407-biden-ap-773.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/2021/04/07/biden-infrastructure-speech-479721",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/04/07/biden-infrastructure-speech-479721",
-      "publishedDateTime": "2021-04-07T12:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
       ]
     }
   ],

@@ -2,6 +2,176 @@
   "page": 64,
   "value": [
     {
+      "path": "_news/2021-04-28-pompeo-slams-iran-news-when-i-was-briefing-trump-kerry-was-briefing-zarif.md",
+      "title": "Pompeo slams Iran news: 'When I was briefing Trump, Kerry was briefing Zarif'",
+      "excerpt": "Biden climate czar and former Senator John Kerry, D-Mass., was essentially acting in the same role Trump Secretary of State Mike Pompeo was, except in relation to Iranian Foreign Minister Mohammad Javad Zarif during the Republican president's administration, Pompeo told \"Hannity\" on Tuesday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/USljndIEoqc/pompeo-slams-iran-news-when-i-was-briefing-trump-kerry-was-briefing-zarif",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/USljndIEoqc/pompeo-slams-iran-news-when-i-was-briefing-trump-kerry-was-briefing-zarif",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 172,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0d680524-8d5e-4af4-9634-ee3d3c117942/72df003f-5c2a-49a6-be0e-459682735a16/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/pompeo-slams-iran-news-when-i-was-briefing-trump-kerry-was-briefing-zarif.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pompeo-slams-iran-news-when-i-was-briefing-trump-kerry-was-briefing-zarif.amp",
+      "publishedDateTime": "2021-04-27T19:39:16-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-28-new-york-post-temporarily-deletes-then-edits-false-story-that-claimed-harris-book-was-given-out-in-migrant-welcome-kits.md",
+      "title": "New York Post temporarily deletes, then edits false story that claimed Harris' book was given out in migrant 'welcome kits'",
+      "excerpt": "The New York Post temporarily deleted, and then edited and republished, a debunked article that falsely claimed that copies of Vice President Kamala Harris' book were being included in \"welcome kits\" given to migrant children at a shelter in Long Beach, California.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NEHePeGr9Go/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NEHePeGr9Go/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210427164345-01-kamala-harris-file-0422-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/27/politics/new-york-post-fact-check-kamala-harris-book-migrants/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/27/politics/new-york-post-fact-check-kamala-harris-book-migrants/index.html",
+      "publishedDateTime": "2021-04-27T17:03:28-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-04-28-tulane-university-invites-hunter-biden-as-guest-speaker-for-course-on-media-polarization.md",
+      "title": "Tulane University invites Hunter Biden as guest speaker for course on 'Media Polarization'",
+      "excerpt": "Hunter Biden is set to appear as a guest speaker at Tulane University as part of a 10-week course that is being offered to students in the fall.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/tulane-university-invites-hunter-biden-as-guest-speaker-for-course-on-media-polarization",
+      "originalUrl": "https://www.foxnews.com/media/tulane-university-invites-hunter-biden-as-guest-speaker-for-course-on-media-polarization",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/071a5059-e8e2-431c-b3d0-e7bcfedd8b53/aa17f3a3-4d75-4c42-8953-477f38f313de/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/tulane-university-invites-hunter-biden-as-guest-speaker-for-course-on-media-polarization.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/tulane-university-invites-hunter-biden-as-guest-speaker-for-course-on-media-polarization.amp",
+      "publishedDateTime": "2021-04-27T16:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-28-trump-warmongering-fool-liz-cheney-would-embarrass-her-family-with-2024-bid.md",
       "title": "Trump: ‘warmongering fool’ Liz Cheney would ‘embarrass her family’ with 2024 bid",
       "excerpt": "Liz Cheney telling The Post that she’s not ruling out a presidential bid. Trump called the Wyoming Republican a “warmongering fool” and said that she would “embarrass her family” with a 2024 run. “Liz Cheney is polling sooo low in Wyoming,",
@@ -1167,171 +1337,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-23-kerry-blasts-trump-for-pulling-out-of-the-paris-accord-without-any-scientific-evidence.md",
-      "title": "Kerry blasts Trump for pulling out of the Paris accord ‘without any scientific evidence’",
-      "excerpt": "Special presidential envoy for climate John F. Kerry on April 22 said the Biden administration had to restore credibility on climate after former president Donald Trump pulled out of the Paris climate accord \"without any scientific evidence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/video/politics/kerry-blasts-trump-for-pulling-out-of-the-paris-accord-without-any-scientific-evidence/2021/04/22/a8579bcc-bdf9-48f5-a569-039a3ae08043_video.html",
-      "originalUrl": "https://www.washingtonpost.com/video/politics/kerry-blasts-trump-for-pulling-out-of-the-paris-accord-without-any-scientific-evidence/2021/04/22/a8579bcc-bdf9-48f5-a569-039a3ae08043_video.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/04-22-2021/t_39115ea24e174c02b8ae6ab961c27f0a_name_e0ed4a54_a375_11eb_b314_2e993bd83e31.jpg&w=1080",
-          "width": 1080,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-22T11:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-04-22-with-trumps-backing-walker-freezes-senate-gop-field-in-georgia.md",
-      "title": "With Trump's backing, Walker freezes Senate GOP field in Georgia  ",
-      "excerpt": "Former President Donald Trump's backing of football great Herschel Walker to run for the Georgia Senate seat has been enough to effectively freeze the GOP field in place -- even though some Republicans privately worry the political neophyte might fizzle against Sen. Raphael Warnock in a high-stakes general",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Hnl9_MRoAQk/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Hnl9_MRoAQk/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 355,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210421194818-01-herschel-walker-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/22/politics/georgia-senate-race-2022-herschel-walker-donald-trump/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/22/politics/georgia-senate-race-2022-herschel-walker-donald-trump/index.html",
-      "publishedDateTime": "2021-04-22T09:50:58-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-22-the-trump-admin-awarded-a-firm-up-to-13-billion-to-make-covid-vaccine-syringes-where-are-they.md",
-      "title": "The Trump admin awarded a firm up to $1.3 billion to make Covid vaccine syringes. Where are they?",
-      "excerpt": "The Trump admin awarded a firm up to $1.3 billion to make Covid vaccine syringes. Where are they? The Covid vaccines are here, but the ApiJect syringe is not yet approved by federal regulators. WASHINGTON — A year after a Connecticut company was awarded federal loans and contracts worth up to nearly $1.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/health/health-care/trump-administration-awarded-firm-1-3-billion-make-covid-vaccine-n1263872",
-      "originalUrl": "https://www.nbcnews.com/health/health-care/trump-administration-awarded-firm-1-3-billion-make-covid-vaccine-n1263872",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media1.s-nbcnews.com/i/newscms/2021_15/3464809/210414-apiject-pre-filled-Injector-ac-1146p_1b21218c8aec487f6d4fbffa9d5e3fde.jpg",
-          "width": 1497,
-          "height": 998,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1263872",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1263872",
-      "publishedDateTime": "2021-04-22T09:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

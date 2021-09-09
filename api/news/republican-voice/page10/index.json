@@ -2,6 +2,174 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-07-04-trump-makes-no-mention-of-desantis-at-florida-rally.md",
+      "title": "Trump makes no mention of DeSantis at Florida rally",
+      "excerpt": "Former President Trump hit plenty of high notes at his rally Saturday night in Sarasota, Florida. But he glaringly didn't mention the name of his strong ally in the Sunshine State - GOP Gov. Ron DeSantis.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vAXX64PBpzw/trump-florida-rally-no-mention-of-desantis",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vAXX64PBpzw/trump-florida-rally-no-mention-of-desantis",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 335,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-florida-rally-no-mention-of-desantis.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-florida-rally-no-mention-of-desantis.amp",
+      "publishedDateTime": "2021-07-04T07:35:06-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-04-joe-manchin-still-silent-on-biden-nominee-with-ties-to-eco-terrorism.md",
+      "title": "Joe Manchin still silent on Biden nominee with ties to eco-terrorism",
+      "excerpt": "Manchin has yet to say a word on whether he supports Tracy Stone-Manning, Biden’s nominee to lead BLM that has come under major scrutiny in recent weeks.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Rld4494mBxY/manchin-silent-biden-blm-nominee",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Rld4494mBxY/manchin-silent-biden-blm-nominee",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 235,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bb90c347-1da2-4ff1-8e97-51ee924b745f/0fbd8f55-92c5-41b9-ad44-d81042736f26/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/manchin-silent-biden-blm-nominee.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/manchin-silent-biden-blm-nominee.amp",
+      "publishedDateTime": "2021-07-04T03:37:31-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-04-biden-defends-shacarri-richardson-suspension-as-progressives-some-in-gop-balk-rules-are-the-rules.md",
+      "title": "Biden defends Sha'Carri Richardson suspension as progressives, some in GOP balk: ‘Rules are the rules’",
+      "excerpt": "President Biden gave a muted response Saturday to sprinter Sha’Carri Richardson’s suspension due to a positive marijuana test that will cut her from the Tokyo Olympics later this month. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ePvqmbWyuzM/biden-shacarri-richardson-suspension-progressives-republicans-rules-olympics-sprinter",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ePvqmbWyuzM/biden-shacarri-richardson-suspension-progressives-republicans-rules-olympics-sprinter",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c1499995-3ae7-4bfb-bdea-c7f4b639b969/48ba74f1-175b-4fa2-b2a5-712e11a6e961/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-shacarri-richardson-suspension-progressives-republicans-rules-olympics-sprinter.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-shacarri-richardson-suspension-progressives-republicans-rules-olympics-sprinter.amp",
+      "publishedDateTime": "2021-07-03T23:14:28-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-02-biden-calls-top-donor-nea-one-of-americas-indispensable-organizations.md",
       "title": "Biden calls top donor NEA ‘one of America’s indispensable organizations’",
       "excerpt": "President Biden said Friday that the National Education Association (NEA), the nation’s largest labor union, is “one of America’s indispensable organizations.” The group was a particularly generous donor of his presidential campaign.",
@@ -1472,175 +1640,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-28-speaker-trump-he-will-need-to-secure-an-absolute-majority-in-the-house.md",
-      "title": "Speaker Trump? He will need to secure an absolute majority in the House",
-      "excerpt": "It’s unclear if former President Trump will again run for the Oval Office in 2024.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/R0ZESDn5eyE/donald-trump-speaker-of-the-house-chances",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/R0ZESDn5eyE/donald-trump-speaker-of-the-house-chances",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 315,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/340/340/PergramNewPic-e1538074445253.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/donald-trump-speaker-of-the-house-chances.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/donald-trump-speaker-of-the-house-chances.amp",
-      "publishedDateTime": "2021-06-28T11:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-27-trump-returns-to-campaign-trail-to-target-gop-rep-anthony-gonzalez-who-voted-for-impeachment.md",
-      "title": "Trump returns to campaign trail to target GOP Rep. Anthony Gonzalez, who voted for impeachment",
-      "excerpt": "Former President Donald Trump returned to the campaign trail in Ohio on Saturday night to throw his support behind Republican congressional candidate Max Miller in an attempt to oust Rep. Anthony Gonzalez.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/0dmjVTgYvx0/trump-returns-campaign-trail-target-gop-rep-anthony-gonzalez-impeachment",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/0dmjVTgYvx0/trump-returns-campaign-trail-target-gop-rep-anthony-gonzalez-impeachment",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 163,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c05fe5f4-6103-421a-a4ef-a620c94ae839/fc823f7f-0317-4c31-9483-f0fb4f733fd1/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-returns-campaign-trail-target-gop-rep-anthony-gonzalez-impeachment.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-returns-campaign-trail-target-gop-rep-anthony-gonzalez-impeachment.amp",
-      "publishedDateTime": "2021-06-26T19:03:56-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-27-trump-hints-at-another-run-disputes-past-election-at-ohio-fairgrounds.md",
-      "title": "Trump Hints at Another Run, Disputes Past Election at Ohio Fairgrounds",
-      "excerpt": "Former President Donald Trump disputed the 2020 presidential election results and repeated many of the baseless claims of voter fraud he leveled at his last campaign-style rally, which preceded the Jan.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/trump-returns-to-the-rally-stage-in-ohio-11624713874?mod=trending_now_news_4",
-      "originalUrl": "https://www.wsj.com/articles/trump-returns-to-the-rally-stage-in-ohio-11624713874?mod=trending_now_news_4",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 210,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-360721/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/trump-returns-to-the-rally-stage-in-ohio-11624713874",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-returns-to-the-rally-stage-in-ohio-11624713874",
-      "publishedDateTime": "2021-06-26T18:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

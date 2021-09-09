@@ -2,6 +2,148 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-09-03-trump-backs-jones-in-georgia-renews-support-for-walker.md",
+      "title": "Trump backs Jones in Georgia, renews support for Walker",
+      "excerpt": "Former President Donald Trump put his thumb on the scale of Georgia Republican politics again Thursday, endorsing state Sen. Burt Jones in the GOP primary for lieutenant governor and reiterating his support for newly declared U.",
+      "sourceUrl": null,
+      "webUrl": "https://www.islandpacket.com/news/politics-government/national-politics/article253963198.html",
+      "originalUrl": "https://www.islandpacket.com/news/politics-government/national-politics/article253963198.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.islandpacket.com/news/politics-government/national-politics/article253963198.html",
+      "cdnAmpWebUrl": "https://amp-islandpacket-com.cdn.ampproject.org/c/s/amp.islandpacket.com/news/politics-government/national-politics/article253963198.html",
+      "publishedDateTime": "2021-09-03T02:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Island Packet",
+        "domain": "islandpacket.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-09-03-biden-gets-foggy-talking-about-daughters-wedding-my-mind-is-going-blank-now.md",
+      "title": "Biden gets foggy talking about daughter's wedding: 'My mind is going blank now'",
+      "excerpt": "President Biden appeared to get a bit confused Thursday when recalling his daughter's wedding during a virtual event to celebrate the start of the Jewish High Holidays.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZhzoXmY75So/biden-gets-foggy-daughters-wedding-mind-going-blank",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZhzoXmY75So/biden-gets-foggy-daughters-wedding-mind-going-blank",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 191,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/09/720/405/AP21245616505528.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-gets-foggy-daughters-wedding-mind-going-blank.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-gets-foggy-daughters-wedding-mind-going-blank.amp",
+      "publishedDateTime": "2021-09-02T20:31:25-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-09-03-senator-joe-manchin-calls-for-pause-on-bidens-3-trillion-plan.md",
+      "title": "Senator Joe Manchin calls for \"pause\" on Biden's $3 trillion plan",
+      "excerpt": "Senator Joe Manchin called for a \"strategic pause\" on President Biden's $3.5 trillion reconciliation bill Thursday. And House Speaker Nancy Pelosi vowed to bring a bill guaranteeing abortion access before the House for a vote later this month.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/video/senator-joe-manchin-calls-for-pause-on-bidens-3-trillion-plan/",
+      "originalUrl": "https://www.cbsnews.com/video/senator-joe-manchin-calls-for-pause-on-bidens-3-trillion-plan/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 305,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2021/09/02/a25533b6-1ec8-4986-a909-4eb34d8e182c/thumbnail/1200x630/35d5ef0524a8c4d8c9133d77a69cc26b/dxm-dxn-784813-640x360.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/video/senator-joe-manchin-calls-for-pause-on-bidens-3-trillion-plan/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/senator-joe-manchin-calls-for-pause-on-bidens-3-trillion-plan/",
+      "publishedDateTime": "2021-09-02T17:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-09-03-twitter-wants-trumps-lawsuit-moved-to-san-francisco-court-and-then-dismissed.md",
       "title": "Twitter wants Trump’s lawsuit moved to San Francisco court and then dismissed",
       "excerpt": "Twitter wants former President Donald Trump’s lawsuit transferred to a federal judge in San Francisco and scrapped.",
@@ -1140,170 +1282,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/aoc-biden-nomination-rahm-emanuel-ambassador-to-japan.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aoc-biden-nomination-rahm-emanuel-ambassador-to-japan.amp",
       "publishedDateTime": "2021-09-01T05:45:18-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-09-01-lauren-boebert-says-she-has-plan-to-get-rid-of-biden-harris-and-pelosi.md",
-      "title": "Lauren Boebert Says She Has Plan to Get Rid of Biden, Harris and Pelosi",
-      "excerpt": "The Colorado Republican said it was time to \"impeach Biden, impeach Kamala Harris, and throw in the secretary of state.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/lauren-boebert-remove-impeach-president-biden-harris-pelosi-afghanistan-1624896",
-      "originalUrl": "https://www.newsweek.com/lauren-boebert-remove-impeach-president-biden-harris-pelosi-afghanistan-1624896",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 720,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1884472/boebert-attends-freedom-caucus-press-conference.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/lauren-boebert-remove-impeach-president-biden-harris-pelosi-afghanistan-1624896?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/lauren-boebert-remove-impeach-president-biden-harris-pelosi-afghanistan-1624896?amp=1",
-      "publishedDateTime": "2021-09-01T05:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-09-01-stefanik-and-daines-demand-pelosi-schumer-advance-bill-to-reopen-canadian-border-as-biden-keeps-it-closed.md",
-      "title": "Stefanik and Daines demand Pelosi, Schumer advance bill to reopen Canadian border as Biden keeps it closed",
-      "excerpt": "House GOP Conference Chair Elise Stefanik and Sen. Steve Daines, who represent border communities, are asking congressional leaders to call votes on a bill that would force the president to open the Canadian border.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Rrah-x-3UWg/stefanik-daines-canadian-border-biden-legislation-pelosi-schumer",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Rrah-x-3UWg/stefanik-daines-canadian-border-biden-legislation-pelosi-schumer",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/stefanik-daines-canadian-border-biden-legislation-pelosi-schumer.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/stefanik-daines-canadian-border-biden-legislation-pelosi-schumer.amp",
-      "publishedDateTime": "2021-09-01T04:30:02-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-09-01-biden-to-meet-with-ukraines-zelensky-at-white-house-underscore-ironclad-commitment-to-its-sovereignty.md",
-      "title": "Biden to meet with Ukraine's Zelensky at White House, underscore 'ironclad commitment' to its sovereignty",
-      "excerpt": "President Biden is set to meet with Ukrainian President Volodymyr Zelensky Wednesday — to amplify the bilateral relationship, and to underscore the U.S. commitment to Ukraine’s security,officials said.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Px0Pe4fY998/biden-ukraine-white-house-meeting-zelensky",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Px0Pe4fY998/biden-ukraine-white-house-meeting-zelensky",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 158,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-ukraine-white-house-meeting-zelensky.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-ukraine-white-house-meeting-zelensky.amp",
-      "publishedDateTime": "2021-09-01T02:01:45-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

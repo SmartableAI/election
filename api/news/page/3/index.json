@@ -2,6 +2,161 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-09-05-white-house-keeping-kamala-harris-from-afghanistan-crisis-to-stop-contamination.md",
+      "title": "White House keeping Kamala Harris from Afghanistan crisis 'to stop contamination'",
+      "excerpt": "The White House is deliberately keeping Kamala Harris insulated from the Afghanistan withdrawal debacle to clear her way for a future presidential run, sources have told the Teleg",
+      "sourceUrl": null,
+      "webUrl": "https://www.telegraph.co.uk/world-news/2021/09/05/white-house-keeping-kamala-harris-afghanistan-crisis-stop-contamination/",
+      "originalUrl": "https://www.telegraph.co.uk/world-news/2021/09/05/white-house-keeping-kamala-harris-afghanistan-crisis-stop-contamination/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.telegraph.co.uk/content/dam/world-news/2021/09/05/TELEMMGLPICT000269145920_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQf0Rf_Wk3V23H2268P_XkPxc.jpeg",
+          "width": 2500,
+          "height": 1563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.telegraph.co.uk/world-news/2021/09/05/white-house-keeping-kamala-harris-afghanistan-crisis-stop-contamination/amp/",
+      "cdnAmpWebUrl": "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/world-news/2021/09/05/white-house-keeping-kamala-harris-afghanistan-crisis-stop-contamination/amp/",
+      "publishedDateTime": "2021-09-05T06:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Telegraph",
+        "domain": "telegraph.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-09-05-biden-promised-isis-k-will-pay-having-no-us-troops-in-afghanistan-makes-that-harder.md",
+      "title": "Biden promised ISIS-K will 'pay.' Having no US troops in Afghanistan makes that harder",
+      "excerpt": "As the Biden administration grapples with the challenge of carrying out counterterrorism missions in Afghanistan without US boots on the ground, CNN has learned new details about last Sunday's drone strike on suspected ISIS-K fighters in Kabul that some officials say provide insight into the obstacles",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/L72sKp-dsb4/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/L72sKp-dsb4/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210831154223-02-biden-afghanistan-presser-0831-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/09/05/politics/afghanistan-counterterrorism-challenges/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/09/05/politics/afghanistan-counterterrorism-challenges/index.html",
+      "publishedDateTime": "2021-09-04T21:04:10-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-09-05-squad-members-go-after-biden-for-being-silent-on-minnesota-oil-pipeline.md",
+      "title": "Squad members go after Biden for being 'silent' on Minnesota oil pipeline",
+      "excerpt": "Four members of the Democratic “Squad” went after President Biden Saturday for being “silent” on a controversial Minnesota oil pipeline.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/eX7jiATbgkM/squad-go-after-biden-for-being-silent-on-minnesota-oil-pipeline",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/eX7jiATbgkM/squad-go-after-biden-for-being-silent-on-minnesota-oil-pipeline",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 174,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/15769fbd-0b21-4f5a-8c09-0e3029a328c2/81f25dce-10d1-4c45-b884-0c3ec9a033f2/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/squad-go-after-biden-for-being-silent-on-minnesota-oil-pipeline.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/squad-go-after-biden-for-being-silent-on-minnesota-oil-pipeline.amp",
+      "publishedDateTime": "2021-09-04T18:08:07-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-09-04-biden-to-travel-to-new-york-pennsylvania-and-virginia-to-mark-20th-anniversary-of-the-911-terrorist-attacks.md",
       "title": "Biden to travel to New York, Pennsylvania, and Virginia to mark 20th anniversary of the 9/11 terrorist attacks",
       "excerpt": "President Joe Biden and first lady Jill Biden will travel to all three sites of the 9/11 terrorist attacks next Saturday, marking the 20th anniversary of the deadly day, the White House said in a statement Saturday.\n    \n",
@@ -1156,148 +1311,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-09-03-trump-backs-jones-in-georgia-renews-support-for-walker.md",
-      "title": "Trump backs Jones in Georgia, renews support for Walker",
-      "excerpt": "Former President Donald Trump put his thumb on the scale of Georgia Republican politics again Thursday, endorsing state Sen. Burt Jones in the GOP primary for lieutenant governor and reiterating his support for newly declared U.",
-      "sourceUrl": null,
-      "webUrl": "https://www.islandpacket.com/news/politics-government/national-politics/article253963198.html",
-      "originalUrl": "https://www.islandpacket.com/news/politics-government/national-politics/article253963198.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.islandpacket.com/news/politics-government/national-politics/article253963198.html",
-      "cdnAmpWebUrl": "https://amp-islandpacket-com.cdn.ampproject.org/c/s/amp.islandpacket.com/news/politics-government/national-politics/article253963198.html",
-      "publishedDateTime": "2021-09-03T02:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Island Packet",
-        "domain": "islandpacket.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-09-03-biden-gets-foggy-talking-about-daughters-wedding-my-mind-is-going-blank-now.md",
-      "title": "Biden gets foggy talking about daughter's wedding: 'My mind is going blank now'",
-      "excerpt": "President Biden appeared to get a bit confused Thursday when recalling his daughter's wedding during a virtual event to celebrate the start of the Jewish High Holidays.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZhzoXmY75So/biden-gets-foggy-daughters-wedding-mind-going-blank",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZhzoXmY75So/biden-gets-foggy-daughters-wedding-mind-going-blank",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 191,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/09/720/405/AP21245616505528.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-gets-foggy-daughters-wedding-mind-going-blank.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-gets-foggy-daughters-wedding-mind-going-blank.amp",
-      "publishedDateTime": "2021-09-02T20:31:25-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-09-03-senator-joe-manchin-calls-for-pause-on-bidens-3-trillion-plan.md",
-      "title": "Senator Joe Manchin calls for \"pause\" on Biden's $3 trillion plan",
-      "excerpt": "Senator Joe Manchin called for a \"strategic pause\" on President Biden's $3.5 trillion reconciliation bill Thursday. And House Speaker Nancy Pelosi vowed to bring a bill guaranteeing abortion access before the House for a vote later this month.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/video/senator-joe-manchin-calls-for-pause-on-bidens-3-trillion-plan/",
-      "originalUrl": "https://www.cbsnews.com/video/senator-joe-manchin-calls-for-pause-on-bidens-3-trillion-plan/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 305,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2021/09/02/a25533b6-1ec8-4986-a909-4eb34d8e182c/thumbnail/1200x630/35d5ef0524a8c4d8c9133d77a69cc26b/dxm-dxn-784813-640x360.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/video/senator-joe-manchin-calls-for-pause-on-bidens-3-trillion-plan/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/senator-joe-manchin-calls-for-pause-on-bidens-3-trillion-plan/",
-      "publishedDateTime": "2021-09-02T17:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

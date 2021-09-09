@@ -2,6 +2,157 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2021-08-04-if-you-arent-going-to-help-please-get-out-of-the-way-biden-turns-up-the-pressure-on-gop-governors-as-delta-spreads.md",
+      "title": "'If you aren't going to help, please get out of the way': Biden turns up the pressure on GOP governors as Delta spreads",
+      "excerpt": "President Joe Biden on Tuesday will provide an update on his administration's Covid-19 vaccination efforts as the highly contagious Delta variant rips across the country, a White House official tells CNN.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ANN0e-CQMPM/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ANN0e-CQMPM/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 151,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210705205725-biden-fourth-of-july-2021-file-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/08/03/politics/biden-covid-remarks/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/03/politics/biden-covid-remarks/index.html",
+      "publishedDateTime": "2021-08-03T19:32:11-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-08-04-will-bernie-sanders-kamala-harris-and-president-biden-campaign-for-newsom-stay-tuned-aide-says.md",
+      "title": "Will Bernie Sanders, Kamala Harris and President Biden campaign for Newsom? 'Stay tuned,' aide says",
+      "excerpt": "With California's recall election now just six weeks away, and polls showing the race tightening for Governor Newsom, Democrats are hoping to get some big name endorsements.",
+      "sourceUrl": null,
+      "webUrl": "https://abc7news.com/gavin-newsom-california-recall-ca-governor-joe-biden/10928433/",
+      "originalUrl": "https://abc7news.com/gavin-newsom-california-recall-ca-governor-joe-biden/10928433/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.abcotvs.com/dip/images/10928574_080321-kgo-ap-gavin-newsom-img.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abc7news.com/amp/gavin-newsom-california-recall-ca-governor-joe-biden/10928433/",
+      "cdnAmpWebUrl": "https://abc7news-com.cdn.ampproject.org/c/s/abc7news.com/amp/gavin-newsom-california-recall-ca-governor-joe-biden/10928433/",
+      "publishedDateTime": "2021-08-03T19:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC7 San Francisco",
+        "domain": "abc7news.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-08-04-ohio-special-election-underscores-donald-trumps-grip-on-republicans.md",
+      "title": "Ohio special election underscores Donald Trump’s grip on Republicans",
+      "excerpt": "Donald Trump’s grip on the Republican party was bolstered on Tuesday when a coal lobbyist endorsed by the former president defeated 10 fellow Republicans in a closely watched special election in Ohio.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ft.com/content/476b4ec7-1b6c-4e0e-a993-911f09e92d9b",
+      "originalUrl": "https://www.ft.com/content/476b4ec7-1b6c-4e0e-a993-911f09e92d9b",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 1740,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F32a40317-b720-4507-994e-dd960558b7ae.jpg?source=google-amp&fit=scale-down&width=500",
+          "width": 500,
+          "height": 281,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.ft.com/content/476b4ec7-1b6c-4e0e-a993-911f09e92d9b",
+      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/476b4ec7-1b6c-4e0e-a993-911f09e92d9b",
+      "publishedDateTime": "2021-08-03T19:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Times",
+        "domain": "ft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/ft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-08-04-clinton-trump-cuomo-powerful-men-in-politics-are-often-rewarded.md",
       "title": "Clinton. Trump. Cuomo. Powerful men in politics are often rewarded.",
       "excerpt": "The most powerful men in politics. They're often rewarded for having no shame.\n    \n",
@@ -1190,175 +1341,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-08-02-comedian-john-oliver-slams-bidens-inexcusable-lack-of-plan-to-save-afghan-translators-from-taliban.md",
-      "title": "Comedian John Oliver slams Biden's 'inexcusable' lack of plan to save Afghan translators from Taliban",
-      "excerpt": "Comedian John Oliver roasted President Joe Biden for an \"inexcusable\" lack of a plan to save Afghan translators who assisted the U.S. military and are currently trapped as the Taliban quickly gain ground there.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/comedian-john-oliver-slams-biden-inexcusable-lack-plan-save-afghan-translators-taliban",
-      "originalUrl": "https://www.foxnews.com/media/comedian-john-oliver-slams-biden-inexcusable-lack-plan-save-afghan-translators-taliban",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/74e56eda-375c-4101-a9f3-324be02bfe0e/34369108-f858-4525-a4f9-3556412e89f1/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/comedian-john-oliver-slams-biden-inexcusable-lack-plan-save-afghan-translators-taliban.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/comedian-john-oliver-slams-biden-inexcusable-lack-plan-save-afghan-translators-taliban.amp",
-      "publishedDateTime": "2021-08-02T06:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-02-biden-ignores-pelosis-call-to-extend-eviction-ban-despite-kavanaugh-opinion.md",
-      "title": "Biden ignores Pelosi's call to extend eviction ban despite Kavanaugh opinion",
-      "excerpt": "President Biden and the White House as of Monday morning didn't respond to a statment from House Speaker Nancy Pelosi and her leadership team calling on the executive branch to extend the federal eviction moratorium.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/NckR-cP5Ut4/biden-pelosi-eviction-ban-kavanaugh-squad-democrats",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/NckR-cP5Ut4/biden-pelosi-eviction-ban-kavanaugh-squad-democrats",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 232,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-pelosi-eviction-ban-kavanaugh-squad-democrats.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-pelosi-eviction-ban-kavanaugh-squad-democrats.amp",
-      "publishedDateTime": "2021-08-02T06:00:43-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-02-mark-meadows-trump-meeting-with-his-cabinet-despite-not-having-one.md",
-      "title": "Mark Meadows: Trump meeting with his 'cabinet' (despite not having one)",
-      "excerpt": "Former Trump White House Chief of Staff Mark Meadows told Newsmax that the former president has been holding meetings with his \"cabinet\" despite not being president. New York Times reporter and CNN political analyst Maggie Haberman has the details.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-0N70X6ATSE/mark-meadows-trump-cabinet-newsmax-haberman-sot-newday-vpx.cnn",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-0N70X6ATSE/mark-meadows-trump-cabinet-newsmax-haberman-sot-newday-vpx.cnn",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210802081536-mark-meadows-newsmax-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/videos/politics/2021/08/02/mark-meadows-trump-cabinet-newsmax-haberman-sot-newday-vpx.cnn",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/08/02/mark-meadows-trump-cabinet-newsmax-haberman-sot-newday-vpx.cnn",
-      "publishedDateTime": "2021-08-02T05:47:19-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

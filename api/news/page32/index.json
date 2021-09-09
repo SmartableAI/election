@@ -2,6 +2,163 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2021-07-02-donald-trump-jr-blasts-weisselberg-indictment-as-banana-republic-stuff.md",
+      "title": "Donald Trump Jr. blasts Weisselberg indictment as ‘banana republic stuff’",
+      "excerpt": "Donald Trump Jr. blasted the Manhattan DA’s office for bringing tax fraud and other charges against the company’s chief financial officer, calling the case “political persecution",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/07/01/trump-jr-blasts-indictment-as-banana-republic-stuff/",
+      "originalUrl": "https://nypost.com/2021/07/01/trump-jr-blasts-indictment-as-banana-republic-stuff/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/07/donald-trump-jr-index.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/07/01/trump-jr-blasts-indictment-as-banana-republic-stuff/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/01/trump-jr-blasts-indictment-as-banana-republic-stuff/amp/",
+      "publishedDateTime": "2021-07-01T18:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-02-in-florida-biden-woos-trump-ally-desantis-in-unity-pitch.md",
+      "title": "In Florida, Biden woos Trump ally DeSantis in unity pitch",
+      "excerpt": "Sitting next to one of his fiercest critics on Thursday, President Joe Biden managed to find a silver lining in the grave tragedy that brought them together.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/topNews/idUSKCN2E75KA?edition-redirect=in",
+      "originalUrl": "https://www.reuters.com/article/topNews/idUSKCN2E75KA?edition-redirect=in",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 1180,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210701&t=2&i=1567628746&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH602ZN",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKCN2E75KA",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2E75KA",
+      "publishedDateTime": "2021-07-01T17:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-07-02-trump-organization-voting-rights-cloud-gaming-your-thursday-evening-briefing.md",
+      "title": "Trump Organization, Voting Rights, Cloud Gaming: Your Thursday Evening Briefing",
+      "excerpt": "The Trump Organization and its C.F.O. were charged with fraud and tax crimes. The real estate business that catapulted Donald Trump to tabloid fame, television riches and ultimately the White House was charged with criminal tax fraud,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/07/01/briefing/trump-organization-voting-rights-cloud-gaming.html",
+      "originalUrl": "https://www.nytimes.com/2021/07/01/briefing/trump-organization-voting-rights-cloud-gaming.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/07/01/multimedia/01PMBriefing-Trump-promo/01PMBriefing-Trump-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/07/01/briefing/trump-organization-voting-rights-cloud-gaming.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/01/briefing/trump-organization-voting-rights-cloud-gaming.amp.html",
+      "publishedDateTime": "2021-07-01T15:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-01-see-michael-cohens-reaction-to-trump-organization-charges.md",
       "title": "See Michael Cohen's reaction to Trump Organization charges",
       "excerpt": "New York prosecutors charged the Trump Organization, the Trump Payroll Corporation and Chief Financial Officer Allen Weisselberg in connection with an alleged tax scheme stretching back to 2005, in an extraordinary legal development against the former President's namesake company. Weisselberg, the Trump",
@@ -1198,174 +1355,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-30-trump-at-us-mexican-border-slams-biden-for-open-really-dangerous-border.md",
-      "title": "Trump, at U.S.-Mexican border, slams Biden for ‘open, really dangerous’ border",
-      "excerpt": "Former President Trump returned to the nation’s southern border on Wednesday, taking direct aim at his Democratic successor in the White House for the surge this year in migrants crossing the U.S.-Mexican border.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/RcvUy42eZ9o/trump-at-u-s-mexican-border-slams-biden-for-open-really-dangerous-border",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/RcvUy42eZ9o/trump-at-u-s-mexican-border-slams-biden-for-open-really-dangerous-border",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 686,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-at-u-s-mexican-border-slams-biden-for-open-really-dangerous-border.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-at-u-s-mexican-border-slams-biden-for-open-really-dangerous-border.amp",
-      "publishedDateTime": "2021-06-30T12:01:59-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-30-gop-senators-hold-biden-accountable-for-campaign-promise-to-support-the-biofuel-industry-and-family-farmers.md",
-      "title": "GOP senators hold Biden accountable for campaign promise to support the biofuel industry and family farmers",
-      "excerpt": "Sen. Joni Ernst, R-Iowa, led a letter with five of her Senate GOP colleagues to the president on Wednesday, pointing out his campaign promises in support of the biofuel industry as the Biden administration weighs “bailouts” for fuel refineries.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/b3xLyebjyhc/gop-senators-biden-biofuel-promises",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/b3xLyebjyhc/gop-senators-biden-biofuel-promises",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4aff4564-7222-4129-b7af-459b29896ecb/99d7cfe8-16d5-4a1e-a948-55b628fc3cc7/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/gop-senators-biden-biofuel-promises.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-senators-biden-biofuel-promises.amp",
-      "publishedDateTime": "2021-06-30T11:48:40-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-30-fact-check-biden-keeps-repeating-a-false-story-about-an-amtrak-conductor-he-knew.md",
-      "title": "Fact check: Biden keeps repeating a false story about an Amtrak conductor he knew",
-      "excerpt": "On Tuesday, President Joe Biden repeated a vivid story he has been telling since at least his 2020 presidential campaign.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pqZJT7Xerck/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pqZJT7Xerck/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 170,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210630133654-01-angelo-negri-biden-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/30/politics/fact-check-biden-amtrak-angelo-negri-miles-traveled/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/30/politics/fact-check-biden-amtrak-angelo-negri-miles-traveled/index.html",
-      "publishedDateTime": "2021-06-30T11:46:12-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

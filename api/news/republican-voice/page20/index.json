@@ -2,6 +2,175 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2021-04-29-georgia-secretary-of-state-defends-election-law-urges-biden-to-stop-playing-political-games.md",
+      "title": "Georgia secretary of state defends election law, urges Biden to stop 'playing political games'",
+      "excerpt": "EXCLUSIVE: Georgia Secretary of State Brad Raffensperger defended the state’s new voting law amid heightened scrutiny—including from President Biden, who has likened the provision to “Jim Crow on steroids”— by saying it has “commonsense” safeguards for Georgia elections, and maintaining that it is not",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/X89KNVzQfWM/georgia-secretary-of-state-defends-election-law-urges-biden-to-stop-playing-political-games",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/X89KNVzQfWM/georgia-secretary-of-state-defends-election-law-urges-biden-to-stop-playing-political-games",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 218,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/georgia-secretary-of-state-defends-election-law-urges-biden-to-stop-playing-political-games.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/georgia-secretary-of-state-defends-election-law-urges-biden-to-stop-playing-political-games.amp",
+      "publishedDateTime": "2021-04-29T12:50:13-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-29-pence-simon-schuster-book-deal-sparks-war-of-words-inside-company.md",
+      "title": "Pence Simon & Schuster book deal sparks war of words inside company",
+      "excerpt": "The employee petition demanding Simon & Schuster cancel former Vice President Mike Pence's two-book deal is a sign of a growing political divide within an industry founded on freedom of speech, observers say.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5E0i7EUugzE/mike-pence-simon-schuster-book-deal-war-of-words-inside-company",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5E0i7EUugzE/mike-pence-simon-schuster-book-deal-war-of-words-inside-company",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 325,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/rh_laurengreen_0638_sg_cmyk.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/mike-pence-simon-schuster-book-deal-war-of-words-inside-company.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mike-pence-simon-schuster-book-deal-war-of-words-inside-company.amp",
+      "publishedDateTime": "2021-04-29T12:18:43-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-04-29-biden-on-giuliani-raid-i-had-no-idea-this-was-underway.md",
+      "title": "Biden on Giuliani raid: 'I had no idea this was underway'",
+      "excerpt": "President Biden said he did not know about the FBI plans to raid the home of former President Trump's personal attorney and former New York City Mayor Rudy Giuliani before it happened, and that he learned of the operation \"when the rest of the world learned about it.\" ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ihkz_eflo94/biden-giuliani-raid-no-briefing",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ihkz_eflo94/biden-giuliani-raid-no-briefing",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8cb5def7-c7ec-4869-9e44-bcfb49f0e718/dc85f01a-d724-4d4d-a71d-8ab6d7d1f754/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-giuliani-raid-no-briefing.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-giuliani-raid-no-briefing.amp",
+      "publishedDateTime": "2021-04-29T10:25:51-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-29-bidens-immigration-policies-hurt-environment-arizona-green-groups-react-to-state-ags-lawsuit.md",
       "title": "Biden's immigration policies hurt environment? Arizona green groups react to state AG's lawsuit",
       "excerpt": "Arizona Attorney General Mark Brnovich is suing the Biden administration for failing to examine the environmental effects of its immigration policies.",
@@ -1499,174 +1668,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-20-biden-doj-dispatches-peacemakers-to-minneapolis-ahead-of-chauvin-verdict-report.md",
-      "title": "Biden DOJ dispatches 'peacemakers' to Minneapolis ahead of Chauvin verdict: report",
-      "excerpt": "The Justice Department has reportedly dispatched officials from its Community Relations Service to act as peacemakers and facilitate listening sessions in Minneapolis.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/6boZzN2oO9k/doj-community-relations-service-chauvin-minneapolis-riots-protest",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/6boZzN2oO9k/doj-community-relations-service-chauvin-minneapolis-riots-protest",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 189,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/chauvin.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/doj-community-relations-service-chauvin-minneapolis-riots-protest.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/doj-community-relations-service-chauvin-minneapolis-riots-protest.amp",
-      "publishedDateTime": "2021-04-20T12:54:24-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-20-scalise-accuses-biden-administration-of-exempting-illegal-immigrants-from-covid-19-restrictions.md",
-      "title": "Scalise accuses Biden administration of 'exempting' illegal immigrants from COVID-19 restrictions",
-      "excerpt": "FIRST ON FOX: House Republican Whip Steve Scalise on Tuesday wrote to Homeland Security Secretary Alejandro Mayorkas, accusing the Biden administration of exempting illegal immigrants from COVID-19 restrictions – while citing testimony from Dr. Anthony Fauci to make his case.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/kN5Se8Q1slE/scalise-biden-administration-exempting-illegal-immigrants-covid-19-restrictions",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/kN5Se8Q1slE/scalise-biden-administration-exempting-illegal-immigrants-covid-19-restrictions",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 142,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/migrant22.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-20T12:18:20-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-20-reps-roy-herrell-move-to-force-house-vote-on-extending-trump-era-border-restrictions.md",
-      "title": "Reps. Roy, Herrell move to force House vote on extending Trump-era border restrictions",
-      "excerpt": "FIRST ON FOX: Reps. Chip Roy, R-Texas, and Yvette Herrell, R-N.M., on Monday moved to force a vote on a bill that would keep a Trump-era public health order -- which allows migrants to be rapidly expelled from the U.S. -- in place until the COVID-19 pandemic and associated restrictions are repealed.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/pUYbfdUD37M/reps-roy-herrell-house-vote-extending-trump-era-border-restrictions",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/pUYbfdUD37M/reps-roy-herrell-house-vote-extending-trump-era-border-restrictions",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 227,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6aba89ef-13d8-476d-a099-2e7d6c407a22/d8eb31b2-fab7-48ac-b0ae-0ad08d4aa013/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/reps-roy-herrell-house-vote-extending-trump-era-border-restrictions.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/reps-roy-herrell-house-vote-extending-trump-era-border-restrictions.amp",
-      "publishedDateTime": "2021-04-20T04:01:50-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Republican Voice"
       ]
     }

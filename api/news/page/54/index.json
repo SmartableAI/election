@@ -2,6 +2,175 @@
   "page": 54,
   "value": [
     {
+      "path": "_news/2021-05-19-new-york-attorney-general-adds-criminal-capacity-to-probe-of-trump-organization.md",
+      "title": "New York attorney general adds 'criminal capacity' to probe of Trump Organization",
+      "excerpt": "New York Attorney General Letitia James is joining the Manhattan district attorney's office in a criminal investigation of the Trump Organization, James' office said Tuesday.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rxIdNH0extc/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rxIdNH0extc/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 230,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/180108075309-trump-tower-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/18/politics/new-york-attorney-general-trump-organization-criminal-probe/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/18/politics/new-york-attorney-general-trump-organization-criminal-probe/index.html",
+      "publishedDateTime": "2021-05-18T20:32:24-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-19-kirstie-alley-shares-details-with-tucker-on-backlash-for-supporting-trump-feels-like-twilight-zone.md",
+      "title": "Kirstie Alley shares details with Tucker on backlash for supporting Trump: Feels like ‘Twilight Zone'",
+      "excerpt": "Actress Kirstie Alley shares in the newest episode of Fox Nation’s 'Tucker Carlson Today' how being honest about her support for Donald Trump took an extreme turn.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/kirstie-alley-shares-details-with-tucker-on-backlash-for-supporting-trump-feels-like-twilight-zone",
+      "originalUrl": "https://www.foxnews.com/media/kirstie-alley-shares-details-with-tucker-on-backlash-for-supporting-trump-feels-like-twilight-zone",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8ea1fb3b-9765-46cd-895b-15f7b094208f/aef5a418-c8f2-4390-9fe6-69b13ba9c1fd/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/kirstie-alley-shares-details-with-tucker-on-backlash-for-supporting-trump-feels-like-twilight-zone.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/kirstie-alley-shares-details-with-tucker-on-backlash-for-supporting-trump-feels-like-twilight-zone.amp",
+      "publishedDateTime": "2021-05-18T20:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-19-mark-mccloskey-st-louis-man-who-defended-home-from-blm-announces-senate-run-to-stop-bidens-socialism.md",
+      "title": "Mark McCloskey, St. Louis man who defended home from BLM, announces Senate run to stop Biden's 'socialism'",
+      "excerpt": "A St. Louis attorney who famously defended his home from Black Lives Matter protesters who broke into his neighborhood announced his bid for U.S. Senate on Tuesday, telling \"Tucker Carlson Tonight\" he will defend Missourians the same way he defended his wife and family.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/krpMf8CaaSY/mark-mccloskey-st-louis-man-who-defended-home-from-blm-announces-senate-run-ill-defend-the-people-of-mo",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/krpMf8CaaSY/mark-mccloskey-st-louis-man-who-defended-home-from-blm-announces-senate-run-ill-defend-the-people-of-mo",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/14fca3c4-f0a8-4078-8686-1d1eae5b5d72/fbb34b74-7307-43e6-b444-106706c1aa0c/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/mark-mccloskey-st-louis-man-who-defended-home-from-blm-announces-senate-run-ill-defend-the-people-of-mo.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mark-mccloskey-st-louis-man-who-defended-home-from-blm-announces-senate-run-ill-defend-the-people-of-mo.amp",
+      "publishedDateTime": "2021-05-18T19:26:35-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-05-19-vp-kamala-harris-covid-an-opportunity-to-transform-how-we-live-how-we-work-and-how-we-vote.md",
       "title": "VP Kamala Harris: COVID An \"Opportunity\" to \"Transform\" How We Live, How We Work, And How We Vote",
       "excerpt": "Vice President Kamala Harris called COVID-19 an \"opportunity\" to transform society in a speech to the Asian American Pacific Islander Heritage Month unity summit on Wednesday. \"As we emerge from the pandemic,",
@@ -1165,172 +1334,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-17-mike-pence-rebukes-joe-bidens-tax-plan-says-china-will-benefit-while-us-faces-economic-catastrophe.md",
-      "title": "Mike Pence Rebukes Joe Biden's Tax Plan, Says China Will Benefit While US Faces Economic Catastrophe",
-      "excerpt": "In a Monday op-ed, Pence claimed corporations will flock to China, which \"stands to gain thousands of jobs as U.S. employers flee the crushing taxes\" proposed by Biden.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/mike-pence-rebukes-joe-bidens-tax-plan-says-china-will-benefit-while-us-faces-economic-catastrophe-1592167",
-      "originalUrl": "https://www.newsweek.com/mike-pence-rebukes-joe-bidens-tax-plan-says-china-will-benefit-while-us-faces-economic-catastrophe-1592167",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 445,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1774301/mike-pence-georgia.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/mike-pence-rebukes-joe-bidens-tax-plan-says-china-will-benefit-while-us-faces-economic-catastrophe-1592167?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mike-pence-rebukes-joe-bidens-tax-plan-says-china-will-benefit-while-us-faces-economic-catastrophe-1592167?amp=1",
-      "publishedDateTime": "2021-05-17T08:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-05-17-harris-headlines-unity-summit-for-aapi-community.md",
-      "title": "Harris headlines unity summit for AAPI community",
-      "excerpt": "Vice President Kamala Harris will serve as the keynote speaker for a virtual unity summit for Asian Americans and Pacific Islanders this week, her latest outreach to a community that has faced a wave of racially motivated crimes during the pandemic and is growing as a voting bloc.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7-wnMIXHIqU/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7-wnMIXHIqU/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 205,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210427164345-01-kamala-harris-file-0422-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/17/politics/kamala-harris-aapi-summit/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/17/politics/kamala-harris-aapi-summit/index.html",
-      "publishedDateTime": "2021-05-17T05:35:25-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-05-17-1m-ad-campaign-accuses-biden-of-working-with-dark-money-teachers-unions-to-keep-schools-closed.md",
-      "title": "$1M ad campaign accuses Biden of working with dark money, teachers unions, to keep schools closed",
-      "excerpt": "Americans for Public Trust launched a million-dollar ad campaign going after Biden and the CDC after it was revealed recently the agency was lobbied by the American Federation of Teachers on school reopenings.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/biden-cdc-coronavirus-teachers-unions-school-reopening-guidelines",
-      "originalUrl": "https://www.foxnews.com/politics/biden-cdc-coronavirus-teachers-unions-school-reopening-guidelines",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/add16d20-9f6c-4889-b1f3-9beabe54d1da/be7b1d13-226b-42ba-9109-873a6ca93bfe/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-cdc-coronavirus-teachers-unions-school-reopening-guidelines.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-cdc-coronavirus-teachers-unions-school-reopening-guidelines.amp",
-      "publishedDateTime": "2021-05-17T04:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
       ]
     }
   ],

@@ -2,6 +2,167 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2021-05-14-bidens-covid-19-rule-tweet-panned-on-social-media.md",
+      "title": "Biden’s COVID-19 ‘rule’ tweet panned on social media",
+      "excerpt": "President Biden received backlash on social media Thursday over a tweet that some users saw as a thinly veiled ultimatum when it comes to receiving a COVID-19 jab.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/qlt2vwp_-aU/bidens-covid-19-rule-tweet-panned-on-social-media",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/qlt2vwp_-aU/bidens-covid-19-rule-tweet-panned-on-social-media",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 355,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/bidens-covid-19-rule-tweet-panned-on-social-media.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-covid-19-rule-tweet-panned-on-social-media.amp",
+      "publishedDateTime": "2021-05-13T23:57:17-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-13-pelosi-says-she-has-confidence-in-harris-addressing-root-cause-of-border-crisis.md",
+      "title": "Pelosi says she has confidence in Harris addressing root cause of border crisis",
+      "excerpt": "House Speaker Nancy Pelosi said Thursday she has confidence in Vice President Kamala Harris' ability to address the root causes of the border crisis and touted progress the Biden Administration has already made to \"reconstruct\" the immigration system. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/gkMu7NMsm70/pelosi-harris-root-cause-border-crisis",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/gkMu7NMsm70/pelosi-harris-root-cause-border-crisis",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 541,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/340/340/Marisa-Schultz.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/pelosi-harris-root-cause-border-crisis.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-harris-root-cause-border-crisis.amp",
+      "publishedDateTime": "2021-05-13T10:51:09-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-05-14-maddow-potential-trump-indictment-moves-closer-with-mcgahns-testimony.md",
+      "title": "Maddow: Potential Trump Indictment Moves Closer With McGahn's Testimony",
+      "excerpt": "Rachel Maddow explains how Robert Mueller laid out the ways in which Donald Trump potentially committed obstruction of justice (even though Mueller would not prosecute Trump as president) and notes that Don McGahn's testimony was key to putting that together.",
+      "sourceUrl": null,
+      "webUrl": "https://www.realclearpolitics.com/video/2021/05/13/maddow_potential_trump_indictment_moves_closer_with_mcgahns_testimony.html",
+      "originalUrl": "https://www.realclearpolitics.com/video/2021/05/13/maddow_potential_trump_indictment_moves_closer_with_mcgahns_testimony.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.realclear.com/images/45/459895.jpg",
+          "width": 800,
+          "height": 599,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "http://www.realclearpolitics.com/video/2021/05/13/maddow_potential_trump_indictment_moves_closer_with_mcgahns_testimony.amp.html",
+      "cdnAmpWebUrl": "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/05/13/maddow_potential_trump_indictment_moves_closer_with_mcgahns_testimony.amp.html",
+      "publishedDateTime": "2021-05-13T10:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RealClearPolitics",
+        "domain": "realclearpolitics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-05-13-terry-mcauliffe-criticizes-youngkin-for-trump-ties-but-he-has-his-own.md",
       "title": "Terry McAuliffe criticizes Youngkin for Trump ties, but he has his own",
       "excerpt": "McAuliffe – a former governor of the Old Dominion – released an attack ad against Youngkin on Tuesday targeting the Republican nominee for his ties to the former president, calling Trump a “stain on our democracy.”",
@@ -1489,174 +1650,6 @@
       "topics": [
         "Election",
         "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-07-biden-labor-secretary-closed-schools-keeping-people-from-getting-back-in-the-workforce.md",
-      "title": "Biden Labor Secretary: Closed schools 'keeping people from getting back in the workforce'",
-      "excerpt": "Labor Secretary Marty Walsh drew a parallel Friday between the continued fight over reopening schools for in-person instruction and the  April jobs report, which fell far short of experts' predictions.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Pnv-QYxbIsU/biden-labor-secretary-closed-schools-keeping-people-from-getting-back-in-the-workforce",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Pnv-QYxbIsU/biden-labor-secretary-closed-schools-keeping-people-from-getting-back-in-the-workforce",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 166,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1b021ab2-998c-4f09-9fb6-e347f124957d/398faa53-b1b8-48f4-9167-171d2479b5d4/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-labor-secretary-closed-schools-keeping-people-from-getting-back-in-the-workforce.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-labor-secretary-closed-schools-keeping-people-from-getting-back-in-the-workforce.amp",
-      "publishedDateTime": "2021-05-07T15:51:26-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-07-critics-sound-alarm-on-bidens-land-and-water-conservation-plan-call-it-a-land-grab.md",
-      "title": "Critics sound alarm on Biden’s land and water conservation plan, call it a ‘land grab’",
-      "excerpt": "The Biden administration proposed a plan, titled \"America the Beautiful,\" in hopes of boosting the conservation of U.S. land and water by the year 2030. The report is a decade-long effort, called \"30x30,\" which mandates protecting 30% of America’s waterways and land. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/uyKAu7afuXE/critics-bidens-conservation-plan-land-grab",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/uyKAu7afuXE/critics-bidens-conservation-plan-land-grab",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ff96bf74-73a3-4cd8-9659-acab23b7fc3c/37ebb5c1-e6eb-42e9-86f6-49aed6331c5d/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/critics-bidens-conservation-plan-land-grab.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/critics-bidens-conservation-plan-land-grab.amp",
-      "publishedDateTime": "2021-05-07T11:17:03-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-07-sara-carter-exclusive-biden-border-policies-fueling-sprawling-cartel-linked-pot-growing-operations-far-inland.md",
-      "title": "Sara Carter exclusive: Biden border policies fueling sprawling cartel-linked pot-growing operations far inland",
-      "excerpt": "In a special “Hannity” investigation, investigative journalist Sara Carter traveled to the Antelope Valley around Lancaster, Calif., where – hundreds of miles away from the Mexican border – the Biden border crisis is starkly affecting everyday Americans as cartel-linked marijuana growing operations have",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Rhn84YRy62Q/sara-carter-exclusive-biden-border-crisis-fueling-sprawling-cartel-linked-pot-growing-operations-far-inland",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Rhn84YRy62Q/sara-carter-exclusive-biden-border-crisis-fueling-sprawling-cartel-linked-pot-growing-operations-far-inland",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5c5fb830-de6d-4edd-bcd9-b6febbed1e9b/136d7057-b82d-4475-818a-f92ba76c95f2/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/sara-carter-exclusive-biden-border-crisis-fueling-sprawling-cartel-linked-pot-growing-operations-far-inland.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sara-carter-exclusive-biden-border-crisis-fueling-sprawling-cartel-linked-pot-growing-operations-far-inland.amp",
-      "publishedDateTime": "2021-05-06T20:31:40-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Republican Voice"
       ]
     }

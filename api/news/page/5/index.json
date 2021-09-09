@@ -2,6 +2,170 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-09-01-lauren-boebert-says-she-has-plan-to-get-rid-of-biden-harris-and-pelosi.md",
+      "title": "Lauren Boebert Says She Has Plan to Get Rid of Biden, Harris and Pelosi",
+      "excerpt": "The Colorado Republican said it was time to \"impeach Biden, impeach Kamala Harris, and throw in the secretary of state.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/lauren-boebert-remove-impeach-president-biden-harris-pelosi-afghanistan-1624896",
+      "originalUrl": "https://www.newsweek.com/lauren-boebert-remove-impeach-president-biden-harris-pelosi-afghanistan-1624896",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 720,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1884472/boebert-attends-freedom-caucus-press-conference.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/lauren-boebert-remove-impeach-president-biden-harris-pelosi-afghanistan-1624896?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/lauren-boebert-remove-impeach-president-biden-harris-pelosi-afghanistan-1624896?amp=1",
+      "publishedDateTime": "2021-09-01T05:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-09-01-stefanik-and-daines-demand-pelosi-schumer-advance-bill-to-reopen-canadian-border-as-biden-keeps-it-closed.md",
+      "title": "Stefanik and Daines demand Pelosi, Schumer advance bill to reopen Canadian border as Biden keeps it closed",
+      "excerpt": "House GOP Conference Chair Elise Stefanik and Sen. Steve Daines, who represent border communities, are asking congressional leaders to call votes on a bill that would force the president to open the Canadian border.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Rrah-x-3UWg/stefanik-daines-canadian-border-biden-legislation-pelosi-schumer",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Rrah-x-3UWg/stefanik-daines-canadian-border-biden-legislation-pelosi-schumer",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/stefanik-daines-canadian-border-biden-legislation-pelosi-schumer.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/stefanik-daines-canadian-border-biden-legislation-pelosi-schumer.amp",
+      "publishedDateTime": "2021-09-01T04:30:02-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-09-01-biden-to-meet-with-ukraines-zelensky-at-white-house-underscore-ironclad-commitment-to-its-sovereignty.md",
+      "title": "Biden to meet with Ukraine's Zelensky at White House, underscore 'ironclad commitment' to its sovereignty",
+      "excerpt": "President Biden is set to meet with Ukrainian President Volodymyr Zelensky Wednesday — to amplify the bilateral relationship, and to underscore the U.S. commitment to Ukraine’s security,officials said.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Px0Pe4fY998/biden-ukraine-white-house-meeting-zelensky",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Px0Pe4fY998/biden-ukraine-white-house-meeting-zelensky",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 158,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-ukraine-white-house-meeting-zelensky.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-ukraine-white-house-meeting-zelensky.amp",
+      "publishedDateTime": "2021-09-01T02:01:45-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-09-01-flashback-october-2001-joe-biden-says-afghanistan-war-will-not-become-a-swamp-like-vietnam.md",
       "title": "FLASHBACK, October 2001: Joe Biden Says Afghanistan War Will Not \"Become A Swamp\" Like Vietnam",
       "excerpt": "NBC's Steve Kornacki unearthed footage of then-Senator Joe Biden speaking in favor of the October 2001 invasion of Afghanistan during an interview with Chris Matthews, arguing why it will not become a long-term \"swamp\" commitment like the Vietnam War.",
@@ -1123,157 +1287,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-08-30-whoopi-goldberg-mike-pence-didnt-show-north-korea-enough-respect-at-olympics.md",
-      "title": "Whoopi Goldberg: Mike Pence didn’t show North Korea enough ‘respect’ at Olympics",
-      "excerpt": "Whoopi Goldberg says U.S. Vice President Mike Pence should have shown more \"respect\" to North Koreans at the Pyeongchang 2018 Olympic Winter Games. \"He should have given enoughhad enough respect to say,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/article/2020-tokyo-olympics-sports-michael-pence-winter-olympics-whoopi-goldberg-fef42ba0a32d72cc55a6f28f99c95859",
-      "originalUrl": "https://apnews.com/article/2020-tokyo-olympics-sports-michael-pence-winter-olympics-whoopi-goldberg-fef42ba0a32d72cc55a6f28f99c95859",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/ShareLogo2.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-30T00:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-08-30-house-panel-tees-up-trump-executive-privilege-fight-in-jan-6-probe.md",
-      "title": "House panel tees up Trump executive privilege fight in Jan. 6 probe",
-      "excerpt": "The House committee seeking executive branch documents in its investigation of the Jan. 6 attack is likely to force a standoff between Congress and former President Trump Donald Trump Pollsters confront tough survey landscape after 2020 flubs The Memo: Will DeSantis's star fall as Florida COVID numbers rise?",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/regulation/court-battles/569743-house-panel-tees-up-trump-executive-privilege-fight-in-jan-6-probe",
-      "originalUrl": "https://thehill.com/regulation/court-battles/569743-house-panel-tees-up-trump-executive-privilege-fight-in-jan-6-probe",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 405,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/article_images/trumpdonald_070321getty_executive-standoff.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/regulation/court-battles/569743-house-panel-tees-up-trump-executive-privilege-fight-in-jan-6-probe?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/regulation/court-battles/569743-house-panel-tees-up-trump-executive-privilege-fight-in-jan-6-probe?amp",
-      "publishedDateTime": "2021-08-29T16:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-08-29-who-is-deanne-criswell-bidens-fema-boss.md",
-      "title": "Who is Deanne Criswell, Biden’s FEMA boss?",
-      "excerpt": "As Louisiana and the Gulf Coast braced for Hurricane Ida, set to make landfall on Sunday potentially as a Category 4 storm, the Federal Emergency Management Agency (FEMA) was expected to play a key role in disaster relief. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5li4tKMQcHI/who-is-deanne-criswell-bidens-fema-boss",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5li4tKMQcHI/who-is-deanne-criswell-bidens-fema-boss",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 235,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9eae107d-7ab8-4997-b3b5-16388e743752/931d726d-8b7f-4176-ba05-327a3e199447/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/who-is-deanne-criswell-bidens-fema-boss.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/who-is-deanne-criswell-bidens-fema-boss.amp",
-      "publishedDateTime": "2021-08-28T23:38:23-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

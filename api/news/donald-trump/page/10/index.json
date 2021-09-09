@@ -2,6 +2,58 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-06-28-adam-kinzinger-blames-kevin-mccarthy-for-resurrecting-trumps-election-lies.md",
+      "title": "Adam Kinzinger Blames Kevin McCarthy for Resurrecting Trump's Election Lies",
+      "excerpt": "Kinzinger said the House minority leader had \"resurrected\" Donald Trump politically after first denouncing the former president in the aftermath of the Capitol riot.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/adam-kinzinger-blames-kevin-mccarthy-resurrecting-trumps-election-lies-1604600",
+      "originalUrl": "https://www.newsweek.com/adam-kinzinger-blames-kevin-mccarthy-resurrecting-trumps-election-lies-1604600",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 178,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1831487/rep-adam-kinzinger-talks-reporters.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/adam-kinzinger-blames-kevin-mccarthy-resurrecting-trumps-election-lies-1604600?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/adam-kinzinger-blames-kevin-mccarthy-resurrecting-trumps-election-lies-1604600?amp=1",
+      "publishedDateTime": "2021-06-28T02:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-06-27-mitt-romney-likens-trump-election-fraud-claims-to-wwf-its-entertaining-but-its-not-real.md",
       "title": "Mitt Romney Likens Trump Election Fraud Claims to WWF: 'It's Entertaining, but It's Not Real'",
       "excerpt": "The Utah Republican also said he believes Trump's statements on election fraud are having a harmful effect on democracy across the world.",
@@ -1519,58 +1571,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-23-greg-abbotts-border-wall-pushes-democrats-and-activists-to-stop-ignoring-trump.md",
-      "title": "Greg Abbott's Border Wall Pushes Democrats and Activists to Stop Ignoring Trump",
-      "excerpt": "Many in politics are happy to ignore former president Donald Trump now that he has been banished from most social media networks, but his return to the Texas border June 30 has led Latino groups and activists to mobilize against him once again.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/greg-abbotts-border-wall-pushes-democrats-activists-stop-ignoring-trump-1602668",
-      "originalUrl": "https://www.newsweek.com/greg-abbotts-border-wall-pushes-democrats-activists-stop-ignoring-trump-1602668",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 221,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1826714/abbott-trump.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/greg-abbotts-border-wall-pushes-democrats-activists-stop-ignoring-trump-1602668?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/greg-abbotts-border-wall-pushes-democrats-activists-stop-ignoring-trump-1602668?amp=1",
-      "publishedDateTime": "2021-06-22T12:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

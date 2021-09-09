@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-08-01-rudy-giuliani-says-i-committed-no-crime-while-working-for-trump.md",
+      "title": "Rudy Giuliani says ‘I committed no crime’ while working for Trump",
+      "excerpt": "Former New York mayor, under federal investigation over dealings in Ukraine, makes unprompted assertion to NBC",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/jul/31/rudy-giuliani-donald-trump-attorney",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/jul/31/rudy-giuliani-donald-trump-attorney",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/0dbcef0657f58b41c50322c42d24b5e22dc4c973/0_181_5441_3264/master/5441.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=e9da3ca75d6e51a8de0355b0691d5146",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/jul/31/rudy-giuliani-donald-trump-attorney",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jul/31/rudy-giuliani-donald-trump-attorney",
+      "publishedDateTime": "2021-07-31T11:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-07-31-agency-trump-is-due-1m-tax-refund-for-chicago-skyscraper.md",
       "title": "Agency: Trump is due $1M tax refund for Chicago skyscraper",
       "excerpt": "An Illinois tax agency has ruled that former President Donald Trump is due a $1 million refund on the 2011 tax bill on his downtown Chicago skyscraper, but local officials are trying to block the refu",
@@ -1488,58 +1540,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-24-donald-trump-was-almost-giddy-watching-the-capitol-riot-on-tv-author-says.md",
-      "title": "Donald Trump was 'almost giddy' watching the Capitol riot on TV, author says",
-      "excerpt": "It took hours for Ivanka Trump and aides to convince the president to rebuke the Capitol riot, according to \"I Alone Can Fix It\" author Carol Leonnig.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/donald-trump-was-almost-giddy-during-the-capitol-riot-author-says-2021-7",
-      "originalUrl": "https://www.businessinsider.com/donald-trump-was-almost-giddy-during-the-capitol-riot-author-says-2021-7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/60fbcc2228e2cf0018905856?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/donald-trump-was-almost-giddy-during-the-capitol-riot-author-says-2021-7?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/donald-trump-was-almost-giddy-during-the-capitol-riot-author-says-2021-7?amp",
-      "publishedDateTime": "2021-07-24T02:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

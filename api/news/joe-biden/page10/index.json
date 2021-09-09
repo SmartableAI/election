@@ -2,6 +2,58 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-05-13-fast-and-efficient-biden-urges-cdc-approved-vaccinations-for-kids-12-15-us-deaths-lowest-in-10-months-latest-covid-19-updates.md",
+      "title": "'Fast and efficient': Biden urges CDC-approved vaccinations for kids 12-15; US deaths lowest in 10 months: Latest COVID-19 updates",
+      "excerpt": "After weeks of the U.S. reporting around 700 deaths per day, the country is now averaging about 600 deaths a day. Latest COVID-19 news.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/health/2021/05/12/covid-pfizer-vaccine-variant-deaths-hesitancy-cases/5046377001/",
+      "originalUrl": "https://www.usatoday.com/story/news/health/2021/05/12/covid-pfizer-vaccine-variant-deaths-hesitancy-cases/5046377001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/05/12/USAT/f1718a84-e8f8-4fa4-95a2-729411511302-AP21131792607869.jpg?auto=webp&crop=5327,2996,x0,y186&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/5046377001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5046377001",
+      "publishedDateTime": "2021-05-12T16:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-05-12-more-than-120-retired-generals-and-admirals-wrote-to-biden-suggesting-he-wasnt-legitimately-elected-and-questioning-his-mental-health.md",
       "title": "More than 120 retired generals and admirals wrote to Biden suggesting he wasn't legitimately elected and questioning his mental health",
       "excerpt": "The letter published by \"Flag Officers 4 America\" appeared to advance a false conspiracy theory that the 2020 election was illegitimate.",
@@ -1526,58 +1578,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-04-30-10-things-in-politics-how-bidens-100-days-compare.md",
-      "title": "10 Things in Politics: How Biden's 100 days compare",
-      "excerpt": "I hope you'll take your turn when it comes. Here's what we're talking about: With Jordan Erb. 1. ONE HUNDRED PROOF: President Joe Biden has now passed the FDR-inspired first lap of his presidency. Insider decided to compare him with his more-modern ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/10-things-in-politics-biden-100-days-history",
-      "originalUrl": "https://www.businessinsider.com/10-things-in-politics-biden-100-days-history",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 605,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/608af05135c46f0018c0b494?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/10-things-in-politics-biden-100-days-history?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/10-things-in-politics-biden-100-days-history?amp",
-      "publishedDateTime": "2021-04-30T03:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

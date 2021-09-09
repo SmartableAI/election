@@ -2,6 +2,176 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-09-09-biden-making-dem-voters-look-bad-8-months-into-presidency-ben-domenech-of-the-federalist.md",
+      "title": "Biden making Dem voters ‘look bad’ 8 months into presidency: Ben Domenech of ‘The Federalist’",
+      "excerpt": "Ben Domenech, co-founder of The Federalist, appeared on \"The Ingraham Angle\" on Wednesday night, where he tried to explain the \"buyers’ remorse\" that many Democrat voters seem to be expressing about President Biden.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/biden-democrats-look-bad-8-months-presidency-ben-domenech-federalist-ingraham-angle",
+      "originalUrl": "https://www.foxnews.com/media/biden-democrats-look-bad-8-months-presidency-ben-domenech-federalist-ingraham-angle",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/50d0a932-d01d-42b2-8394-b45b74171ff3/4f2d95e8-6b0e-4ad6-9761-72c96b052e8b/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/biden-democrats-look-bad-8-months-presidency-ben-domenech-federalist-ingraham-angle.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/biden-democrats-look-bad-8-months-presidency-ben-domenech-federalist-ingraham-angle.amp",
+      "publishedDateTime": "2021-09-09T00:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-09-09-trump-to-gutfeld-your-fabulous-ratings-are-beating-some-very-untalented-people-slams-bidens-afghan-crisis.md",
+      "title": "Trump to Gutfeld: 'Your fabulous ratings are beating some very untalented people'; slams Biden's Afghan crisis",
+      "excerpt": "In a “Gutfeld!” exclusive, host Greg Gutfeld sat down for an interview with former President Donald Trump who praised the late-night host for his soaring ratings.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/trump-gutfeld-fabulous-ratings-biden-afghan-crisis",
+      "originalUrl": "https://www.foxnews.com/media/trump-gutfeld-fabulous-ratings-biden-afghan-crisis",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 130,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/da79e517-2779-41d5-9f33-1c0b5ad193bf/51443114-5371-4aa9-b22b-7eb0c20705c5/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/trump-gutfeld-fabulous-ratings-biden-afghan-crisis.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/trump-gutfeld-fabulous-ratings-biden-afghan-crisis.amp",
+      "publishedDateTime": "2021-09-08T21:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-09-09-biden-names-3-picks-for-ninth-circuit-5-for-other-courts-stressing-diversity-reports.md",
+      "title": "Biden names 3 picks for Ninth Circuit, 5 for other courts, stressing diversity: reports",
+      "excerpt": "President Biden on Wednesday disclosed the names of eight judicial nominees, including three picks for the U.S. Court of Appeals for the Ninth Circuit.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bYw9EtEIsFo/biden-ninth-circuit-courts-diversity-nominations",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bYw9EtEIsFo/biden-ninth-circuit-courts-diversity-nominations",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7bf92895-b46e-43cb-9aee-c42ba0d055a0/626544be-52a3-4ac8-bc92-67e3343c3dd0/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-ninth-circuit-courts-diversity-nominations.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-ninth-circuit-courts-diversity-nominations.amp",
+      "publishedDateTime": "2021-09-08T21:13:34-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-09-09-trump-deplores-removal-of-richmonds-robert-e-lee-statue.md",
       "title": "Trump deplores removal of Richmond's Robert E. Lee statue",
       "excerpt": "Former President Donald Trump condemned the removal of a 131-year-old statue of Confederate Gen. Robert E. Lee in Richmond, Virginia.",
@@ -1473,175 +1643,6 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-09-02-arizonas-ag-rebuffs-biden-does-mask-probe-wont-tolerate-efforts-to-undermine-state-sovereignty.md",
-      "title": "Arizona's AG rebuffs Biden DOE's mask probe: Won't 'tolerate' efforts to undermine state sovereignty",
-      "excerpt": "Arizona Attorney General Mark Brnovich forcefully responded to the Department of Education (DOE) Tuesday, telling Secretary Miguel Cardona he won't \"tolerate\" any federal overreach through the administration's masking investigation.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4rDsk1S8Fuc/arizona-ag-biden-education-department-mask-probe",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4rDsk1S8Fuc/arizona-ag-biden-education-department-mask-probe",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 160,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/815ebb23-2591-43ee-bb90-9859e5077048/22efde18-2edf-4c8b-95a1-a7c817978585/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/arizona-ag-biden-education-department-mask-probe.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/arizona-ag-biden-education-department-mask-probe.amp",
-      "publishedDateTime": "2021-09-02T07:40:54-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-09-02-biden-to-visit-hurricane-ida-devastation-in-louisiana-on-friday.md",
-      "title": "Biden to visit Hurricane Ida devastation in Louisiana on Friday",
-      "excerpt": "President Biden on Friday will tour the devastation left by Hurricane Ida when it slammed into Louisiana last weekend as a Category 4 storm. He also plans to deliver a speech Thursday outlining the administration’s response plan. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zK4vg3w057I/biden-hurricane-ida-devastation-louisiana-friday",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zK4vg3w057I/biden-hurricane-ida-devastation-louisiana-friday",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 355,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/83fc7f92-2bea-40fd-b69d-16e6093d0fa7/3483f11e-f6d4-4d0b-a4d2-e308c79930a8/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-hurricane-ida-devastation-louisiana-friday.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-hurricane-ida-devastation-louisiana-friday.amp",
-      "publishedDateTime": "2021-09-02T03:23:22-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-09-02-will-cain-kamala-harris-used-on-biden-ticket-been-mia-ever-since.md",
-      "title": "Will Cain: Kamala Harris ‘used’ on Biden ticket, been MIA ever since",
-      "excerpt": "\"The Five\" speculates about Kamala Harris' whereabouts, with co-host Will Cain predicting she will re-emerge from hiding when she's ready to face the fact that she was used for votes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/will-cain-kamala-harris-biden-ticket-mia-since",
-      "originalUrl": "https://www.foxnews.com/media/will-cain-kamala-harris-biden-ticket-mia-since",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 170,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6972f609-5acf-4822-97fb-0148775f443c/f75c6322-2b94-4ce0-90a6-cd48f6631868/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/will-cain-kamala-harris-biden-ticket-mia-since.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/will-cain-kamala-harris-biden-ticket-mia-since.amp",
-      "publishedDateTime": "2021-09-01T19:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris",
         "Republican Voice"
       ]
     }

@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-08-11-secret-irs-files-reveal-how-much-the-ultrawealthy-gained-by-shaping-trumps-big-beautiful-tax-cut.md",
+      "title": "Secret IRS Files Reveal How Much the Ultrawealthy Gained by Shaping Trump’s “Big, Beautiful Tax Cut”",
+      "excerpt": "Billionaire business owners deployed lobbyists to make sure Trump’s 2017 tax bill was tailored to their benefit. Confidential IRS records show the windfall that followed.",
+      "sourceUrl": null,
+      "webUrl": "https://www.propublica.org/article/secret-irs-files-reveal-how-much-the-ultrawealthy-gained-by-shaping-trumps-big-beautiful-tax-cut",
+      "originalUrl": "https://www.propublica.org/article/secret-irs-files-reveal-how-much-the-ultrawealthy-gained-by-shaping-trumps-big-beautiful-tax-cut",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets-c3.propublica.org/images/series/_threeTwo400w/series-3x2.jpg",
+          "width": 400,
+          "height": 267,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.propublica.org/article/secret-irs-files-reveal-how-much-the-ultrawealthy-gained-by-shaping-trumps-big-beautiful-tax-cut/amp",
+      "cdnAmpWebUrl": "https://www-propublica-org.cdn.ampproject.org/c/s/www.propublica.org/article/secret-irs-files-reveal-how-much-the-ultrawealthy-gained-by-shaping-trumps-big-beautiful-tax-cut/amp",
+      "publishedDateTime": "2021-08-11T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ProPublica",
+        "domain": "propublica.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-08-11-msnbc-opinion-piece-argues-why-ron-desantis-is-more-dangerous-than-trump-ahead-of-2024.md",
       "title": "MSNBC opinion piece argues 'Why Ron DeSantis is more dangerous than Trump' ahead of 2024",
       "excerpt": "Conservative pundits have long predicted ahead of 2024 that members of the media would insist that Republican Florida Gov. Ron DeSantis would be a “worse” president than President Trump. Well, one MSNBC opinion piece is way ahead of schedule.",
@@ -1435,58 +1478,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-08-01-rudy-giuliani-says-i-committed-no-crime-while-working-for-trump.md",
-      "title": "Rudy Giuliani says ‘I committed no crime’ while working for Trump",
-      "excerpt": "Former New York mayor, under federal investigation over dealings in Ukraine, makes unprompted assertion to NBC",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/jul/31/rudy-giuliani-donald-trump-attorney",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/jul/31/rudy-giuliani-donald-trump-attorney",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/0dbcef0657f58b41c50322c42d24b5e22dc4c973/0_181_5441_3264/master/5441.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=e9da3ca75d6e51a8de0355b0691d5146",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/jul/31/rudy-giuliani-donald-trump-attorney",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jul/31/rudy-giuliani-donald-trump-attorney",
-      "publishedDateTime": "2021-07-31T11:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

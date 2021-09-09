@@ -2,6 +2,170 @@
   "page": 73,
   "value": [
     {
+      "path": "_news/2021-04-08-trump-torches-arkansas-gov-hutchinson-for-vetoing-bill-banning-puberty-blockers-in-children.md",
+      "title": "Trump torches Arkansas Gov. Hutchinson for vetoing bill banning puberty blockers in children",
+      "excerpt": "Donald Trump blasted Gov. Asa Hutchinson for vetoing legislation to ban gender-confirming treatments or surgery for transgender youth.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/0FitCey4QEU/trump-arkansas-governor-hutchinson-veto-bill-transgender",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/0FitCey4QEU/trump-arkansas-governor-hutchinson-veto-bill-transgender",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 184,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/AP21052687694067.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-arkansas-governor-hutchinson-veto-bill-transgender.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-arkansas-governor-hutchinson-veto-bill-transgender.amp",
+      "publishedDateTime": "2021-04-08T12:18:22-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-09-former-trump-campaign-manager-advising-jenner-on-potential-california-gubernatorial-run.md",
+      "title": "Former Trump campaign manager advising Jenner on potential California gubernatorial run",
+      "excerpt": "ADVERTISEMENT Parscale was the digital guru for former President Trump Donald Trump Gaetz trip to Bahamas part of federal sex trafficking investigation: report Omar slams Biden admin for ...",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/blogs/in-the-know/in-the-know/547205-former-trump-campaign-manager-advising-jenner-on-california",
+      "originalUrl": "https://thehill.com/blogs/in-the-know/in-the-know/547205-former-trump-campaign-manager-advising-jenner-on-california",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 177,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/blogs/jennercaitlyn03112016getty.jpg",
+          "width": 645,
+          "height": 363,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/blogs/in-the-know/in-the-know/547205-former-trump-campaign-manager-advising-jenner-on-california?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/blogs/in-the-know/in-the-know/547205-former-trump-campaign-manager-advising-jenner-on-california?amp",
+      "publishedDateTime": "2021-04-08T12:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-04-08-mueller-fraud-investigator-brought-in-to-help-vances-probe-of-trump-org.md",
+      "title": "Mueller fraud investigator brought in to help Vance's probe of Trump Org.",
+      "excerpt": "A former FBI agent key to special counsel Robert Mueller's investigation into Russian meddling in the 2016 presidential election is one of several forensic accountants working on the Manhattan district attorney's investigation into the Trump Organization, people familiar with the matter say.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/aZEDcNpRbYg/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/aZEDcNpRbYg/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 194,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/180108075309-trump-tower-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/08/politics/vance-mueller-manafort/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/08/politics/vance-mueller-manafort/index.html",
+      "publishedDateTime": "2021-04-08T12:16:53-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-08-epa-replaces-trump-era-chemical-guidance-calling-it-compromised-by-politics.md",
       "title": "EPA replaces Trump-era chemical guidance, calling it 'compromised' by politics",
       "excerpt": "The Biden-led Environmental Protection Agency says Trump administration political officials \"compromised\" an assessment of chemical dangers and has replaced it with a new one they say \"upholds the tenants of scientific integrity.\"\n    \n",
@@ -1202,170 +1366,6 @@
         "Election",
         "Mike Pence",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-08-bidens-planned-pick-for-atf-director-a-fierce-advocate-for-gun-control.md",
-      "title": "Biden's planned pick for ATF director a fierce advocate for gun control",
-      "excerpt": "David Chipman, President Joe Biden's planned nominee for director of the Bureau of Alcohol, Tobacco, Firearms and Explosives, has a long history at the agency and sports credentials in gun control advocacy sure to excite firearm safety groups.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/VX54MO6W-_I/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/VX54MO6W-_I/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 415,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210407172125-david-chipman-2019-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/07/politics/david-chipman-joe-biden-atf-director/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/07/politics/david-chipman-joe-biden-atf-director/index.html",
-      "publishedDateTime": "2021-04-07T18:30:50-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-07-boehner-lays-blame-for-that-bloody-insurrection-at-trumps-feet.md",
-      "title": "Boehner lays blame for 'that bloody insurrection' at Trump's feet",
-      "excerpt": "Former House Speaker John Boehner said former President Donald Trump \"incited that bloody insurrection\" at the US Capitol and blamed his false election claims for the GOP losing control of Congress, according to excerpts from his forthcoming book obtained by The New York Times.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ikjj7tB7bJQ/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ikjj7tB7bJQ/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 255,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210407094117-john-boehner-file-2019-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/07/politics/john-boehner-donald-trump-insurrection/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/07/politics/john-boehner-donald-trump-insurrection/index.html",
-      "publishedDateTime": "2021-04-07T16:58:03-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-08-trump-endorses-alabamas-mo-brooks-for-senate-a-promoter-of-his-false-claims-of-a-stolen-election.md",
-      "title": "Trump endorses Alabama’s Mo Brooks for Senate, a promoter of his false claims of a stolen election",
-      "excerpt": "Trump’s early endorsement is a major boost to Brooks, who has operated on the rightmost edge of the Republican Party during his time in the House.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/trump-brooks-alabama-senate/2021/04/07/c7dabeee-97ad-11eb-a6d0-13d207aadb78_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/trump-brooks-alabama-senate/2021/04/07/c7dabeee-97ad-11eb-a6d0-13d207aadb78_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 286,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UVYMERCV74I6XKJRLMLC2DIDHU.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/trump-brooks-alabama-senate/2021/04/07/c7dabeee-97ad-11eb-a6d0-13d207aadb78_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-brooks-alabama-senate/2021/04/07/c7dabeee-97ad-11eb-a6d0-13d207aadb78_story.html?outputType=amp",
-      "publishedDateTime": "2021-04-07T16:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

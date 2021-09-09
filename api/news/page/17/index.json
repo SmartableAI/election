@@ -2,6 +2,170 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2021-07-31-inslee-newsom-ask-biden-for-more-resources-to-battle-wildfires-blowing-past-every-record.md",
+      "title": "Inslee, Newsom Ask Biden for More Resources to Battle Wildfires 'Blowing Past' Every Record",
+      "excerpt": "California Governor Gavin Newsom said last year, a record 130,000 acres were burned, but that record was shattered in 2021 with 504,000 acres currently burned.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/inslee-newsom-ask-biden-more-resources-battle-wildfires-blowing-past-every-record-1614785",
+      "originalUrl": "https://www.newsweek.com/inslee-newsom-ask-biden-more-resources-battle-wildfires-blowing-past-every-record-1614785",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1858988/president-biden-speaks-governors-about-wildfires.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/inslee-newsom-ask-biden-more-resources-battle-wildfires-blowing-past-every-record-1614785?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/inslee-newsom-ask-biden-more-resources-battle-wildfires-blowing-past-every-record-1614785?amp=1",
+      "publishedDateTime": "2021-07-30T10:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-07-30-justice-department-advises-biden-administration-to-hand-over-trump-tax-returns-to-congress.md",
+      "title": "Justice Department advises Biden administration to hand over Trump tax returns to Congress",
+      "excerpt": "The Justice Department told the Treasury Department that it \"must\" turn over former President Donald Trump's tax returns to the House Ways and Means Committee, which first requested them more than two years ago.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QxYi1VG0usc/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QxYi1VG0usc/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 1200,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/190919130022-20190918-trump-tax-forms-generic-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/30/politics/biden-justice-department-olc-trump-tax-returns-house/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/30/politics/biden-justice-department-olc-trump-tax-returns-house/index.html",
+      "publishedDateTime": "2021-07-30T10:29:16-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-30-trump-to-doj-last-december-just-say-that-the-election-was-corrupt-leave-the-rest-to-me.md",
+      "title": "Trump to DOJ last December: 'Just say that the election was corrupt + leave the rest to me'",
+      "excerpt": "Former President Donald Trump pressured his incoming acting Attorney General Jeffrey Rosen to declare that the election was corrupt in an attempt to help Republican members of Congress try to overturn the election result, according to notes of a December 2020 call Trump held with Rosen and acting deputy",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Yg3TvcyN7PM/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Yg3TvcyN7PM/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 220,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210104150436-01-trump-1205-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/30/politics/trump-election-justice/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/30/politics/trump-election-justice/index.html",
+      "publishedDateTime": "2021-07-30T10:27:52-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-30-biden-says-western-wildfires-demand-urgent-action-in-meeting-with-governors.md",
       "title": "Biden says Western wildfires demand 'urgent action' in meeting with governors ",
       "excerpt": "President Joe Biden said Friday the wildfires intensifying in the West demand \"urgent action\" as he met with seven governors to discuss how states are responding to the wildfires and how the federal government can best assist.\n    \n",
@@ -1171,175 +1335,6 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-28-biden-raises-eyebrows-with-claim-he-used-to-drive-18-wheeler-truck.md",
-      "title": "Biden raises eyebrows with claim he 'used to drive' 18-wheeler truck",
-      "excerpt": "Biden was visiting a Mack Truck facility when he made the claim to have driven the massive trucks before, which require a special kind of license to drive.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/__GG7OmFfRY/biden-claims-driven-18-wheeler",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/__GG7OmFfRY/biden-claims-driven-18-wheeler",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 215,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4892feea-b073-48a9-ac6c-9f133f490441/7dab1738-1e17-4551-ac6b-7269df7c35d3/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-claims-driven-18-wheeler.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-claims-driven-18-wheeler.amp",
-      "publishedDateTime": "2021-07-28T14:49:36-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-28-biden-confuses-trump-with-obama-calls-it-freudian-slip.md",
-      "title": "Biden confuses Trump with Obama, calls it 'Freudian slip'",
-      "excerpt": "President Biden mixed up former President Obama and former President Trump during a speech Wednesday in what he referred to as a \"Freudian slip.\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/hiSObmVXOXA/biden-confuses-trump-obama-freudian",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/hiSObmVXOXA/biden-confuses-trump-obama-freudian",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 370,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/eebeb2c4-cd6e-471f-9a7b-7e1df898ef0f/1f09892a-f282-4ca0-b419-4cecdd6fe1ab/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-confuses-trump-obama-freudian.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-confuses-trump-obama-freudian.amp",
-      "publishedDateTime": "2021-07-28T12:51:18-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-29-jd-vance-rips-nyt-reporters-tweet-about-trump-voters-are-me-and-my-family-domestic-terrorists.md",
-      "title": "JD Vance rips NYT reporter's tweet about Trump voters: ‘Are me and my family domestic terrorists?’",
-      "excerpt": "Ohio Senate candidate J.D. Vance ripped into The New York Times’ Katie Benner on Wednesday after the reporter suggested in a tweet that Trump supporters should be considered 'enemies of the state' following the first day of testimony at the Jan.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/jd-vance-new-york-times-trump-voters-tweet",
-      "originalUrl": "https://www.foxnews.com/media/jd-vance-new-york-times-trump-voters-tweet",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/98734d9c-03bd-4266-a20b-d1e0ee3ed71b/ca1baf02-9b4b-4991-b193-43f2c03cd2ff/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/jd-vance-new-york-times-trump-voters-tweet.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/jd-vance-new-york-times-trump-voters-tweet.amp",
-      "publishedDateTime": "2021-07-28T11:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Republican Voice"
       ]
     }

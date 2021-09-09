@@ -2,6 +2,106 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-09-09-biden-dems-push-civilian-climate-corps-in-echo-of-new-deal.md",
+      "title": "Biden, Dems push Civilian Climate Corps in echo of New Deal",
+      "excerpt": "Inspired by the New Deal-era Civilian Conservation Corps, President Joe Biden and congressional Democrats are pushing for a modern counterpart: a Civilian Climate Corps that would create hundreds of thousands of jobs building trails,",
+      "sourceUrl": null,
+      "webUrl": "https://www.ctpost.com/news/article/Biden-Dems-push-Civilian-Climate-Corps-in-echo-16445011.php",
+      "originalUrl": "https://www.ctpost.com/news/article/Biden-Dems-push-Civilian-Climate-Corps-in-echo-16445011.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
+          "width": 600,
+          "height": 336,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ctpost.com/news/amp/Biden-Dems-push-Civilian-Climate-Corps-in-echo-16445011.php",
+      "cdnAmpWebUrl": "https://www-ctpost-com.cdn.ampproject.org/c/s/www.ctpost.com/news/amp/Biden-Dems-push-Civilian-Climate-Corps-in-echo-16445011.php",
+      "publishedDateTime": "2021-09-09T00:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Connecticut Post",
+        "domain": "ctpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-09-09-biden-making-dem-voters-look-bad-8-months-into-presidency-ben-domenech-of-the-federalist.md",
+      "title": "Biden making Dem voters ‘look bad’ 8 months into presidency: Ben Domenech of ‘The Federalist’",
+      "excerpt": "Ben Domenech, co-founder of The Federalist, appeared on \"The Ingraham Angle\" on Wednesday night, where he tried to explain the \"buyers’ remorse\" that many Democrat voters seem to be expressing about President Biden.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/biden-democrats-look-bad-8-months-presidency-ben-domenech-federalist-ingraham-angle",
+      "originalUrl": "https://www.foxnews.com/media/biden-democrats-look-bad-8-months-presidency-ben-domenech-federalist-ingraham-angle",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/50d0a932-d01d-42b2-8394-b45b74171ff3/4f2d95e8-6b0e-4ad6-9761-72c96b052e8b/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/biden-democrats-look-bad-8-months-presidency-ben-domenech-federalist-ingraham-angle.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/biden-democrats-look-bad-8-months-presidency-ben-domenech-federalist-ingraham-angle.amp",
+      "publishedDateTime": "2021-09-09T00:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-09-09-biden-administration-wants-solar-power-to-increase-tenfold-in-15-years.md",
       "title": "Biden administration wants solar power to increase tenfold in 15 years",
       "excerpt": "The Energy Department says solar energy can produce up to 40% of the nation's electricity within 15 years — a 10-fold increase of current solar output that would require massive changes in U.S. policy and billions of dollars in federal investment.",
@@ -10,7 +110,7 @@
       "originalUrl": "https://www.cbsnews.com/news/solar-power-increase-tenfold-2035-40-percent-of-electricity/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 285,
+      "heat": 305,
       "tags": null,
       "images": [
         {
@@ -209,7 +309,7 @@
       "originalUrl": "https://www.newsweek.com/joe-biden-chants-break-college-football-games-country-1626438",
       "featuredContent": null,
       "highlight": null,
-      "heat": 141,
+      "heat": 161,
       "tags": null,
       "images": [
         {
@@ -349,49 +449,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-09-06-curley-bad-news-is-nothing-a-little-spin-cant-fix-at-biden-white-house.md",
-      "title": "Curley: Bad news is nothing a little spin can’t fix at Biden White House",
-      "excerpt": "Where is the White House cat? I only ask because we were specifically cautioned by White House press secretary Jen Psaki that the feline might appear when the going got tough. “I’ve",
-      "sourceUrl": null,
-      "webUrl": "https://www.bostonherald.com/2021/09/05/curley-bad-news-is-nothing-a-little-spin-cant-fix-at-biden-white-house/",
-      "originalUrl": "https://www.bostonherald.com/2021/09/05/curley-bad-news-is-nothing-a-little-spin-cant-fix-at-biden-white-house/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.bostonherald.com/wp-content/uploads/2021/03/AP21085637016977.jpg?w=1024&#038;h=683",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bostonherald.com/2021/09/05/curley-bad-news-is-nothing-a-little-spin-cant-fix-at-biden-white-house/amp/",
-      "cdnAmpWebUrl": "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2021/09/05/curley-bad-news-is-nothing-a-little-spin-cant-fix-at-biden-white-house/amp/",
-      "publishedDateTime": "2021-09-05T20:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Boston Herald",
-        "domain": "bostonherald.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1443,54 +1500,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-08-28-joe-biden-just-ruined-americas-special-relationship-with-great-britain.md",
-      "title": "Joe Biden just ruined America’s ‘special relationship’ with Great Britain",
-      "excerpt": "Despite such loud promises that he would make America’s alliances great again, Biden’s initially foolish, now fatal, Afghan catastrophe has atomized US international ties.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/08/27/joe-biden-just-ruined-americas-special-relationship-with-great-britain/",
-      "originalUrl": "https://nypost.com/2021/08/27/joe-biden-just-ruined-americas-special-relationship-with-great-britain/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/08/biden-boris-johnson.jpg?quality=90&strip=all&w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/08/27/joe-biden-just-ruined-americas-special-relationship-with-great-britain/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/27/joe-biden-just-ruined-americas-special-relationship-with-great-britain/amp/",
-      "publishedDateTime": "2021-08-27T16:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
       ]
     }
   ],

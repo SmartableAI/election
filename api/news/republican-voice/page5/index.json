@@ -2,6 +2,175 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-08-05-biden-honors-best-in-our-nation-awarding-congressional-gold-medals-to-jan-6-capitol-police-officers.md",
+      "title": "Biden honors 'best in our nation,' awarding Congressional Gold Medals to Jan. 6 Capitol police officers",
+      "excerpt": "President Biden hailed the heroism of the Capitol Police during the January 6 Capitol Hill riot Thursday and signed a bill awarding four congressional gold medals to the police",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/UgU6UR977Ho/biden-honors-best-in-our-nation-awarding-congressional-gold-medals-to-jan-6-capitol-police-officers",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/UgU6UR977Ho/biden-honors-best-in-our-nation-awarding-congressional-gold-medals-to-jan-6-capitol-police-officers",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f0d9ffe7-faec-4354-ae0a-7520d535b814/c20c4c23-ae1d-4281-a370-0e457fd8ee1b/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-honors-best-in-our-nation-awarding-congressional-gold-medals-to-jan-6-capitol-police-officers.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-honors-best-in-our-nation-awarding-congressional-gold-medals-to-jan-6-capitol-police-officers.amp",
+      "publishedDateTime": "2021-08-05T15:09:52-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-08-05-biden-touts-clean-car-drive-as-part-of-a-blue-collar-blueprint-for-economy.md",
+      "title": "Biden touts clean car drive as part of a ‘blue-collar blueprint’ for economy",
+      "excerpt": "President Biden touted his latest executive order in a Thursday press event, saying the push for a clean car overhaul follows the “blue-collar blueprint” of his infrastructure plan.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/n1F-QDK_pMY/biden-touts-clean-car-launch-as-part-of-a-blue-collar-blueprint-in-infrastructure-plan",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/n1F-QDK_pMY/biden-touts-clean-car-launch-as-part-of-a-blue-collar-blueprint-in-infrastructure-plan",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 172,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cf423bad-60a1-4772-8c27-372de6cf790f/ebc7a96f-8818-4f28-8b9a-9cde907d81ba/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-touts-clean-car-launch-as-part-of-a-blue-collar-blueprint-in-infrastructure-plan.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-touts-clean-car-launch-as-part-of-a-blue-collar-blueprint-in-infrastructure-plan.amp",
+      "publishedDateTime": "2021-08-05T13:59:59-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-08-05-pence-urges-young-conservatives-to-go-get-covid-vaccine-shot.md",
+      "title": "Pence urges young conservatives 'to go get' COVID vaccine shot",
+      "excerpt": "Former Vice President Mike Pence, who was very much the public face of the Trump administration's efforts to help drug makers quickly produce an effective coronavirus vaccine through Operation Warp Speed, is urging young conservatives to get vaccinated.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/p1M_MNzwwTw/pence-young-conservatives-get-covid-vaccine-shot",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/p1M_MNzwwTw/pence-young-conservatives-get-covid-vaccine-shot",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 185,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/pence-young-conservatives-get-covid-vaccine-shot.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-young-conservatives-get-covid-vaccine-shot.amp",
+      "publishedDateTime": "2021-08-05T09:16:31-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-08-05-squad-backed-dem-jessica-cisneros-to-run-against-rep-cuellar-moderate-critical-of-biden-on-immigration.md",
       "title": "'Squad'-backed Dem Jessica Cisneros to run against Rep. Cuellar, moderate critical of Biden on immigration",
       "excerpt": "\"Squad\"-backed Texas Democrat Jessica Cisneros on Thursdsay announced that she will again run against Rep. Henry Cuellar in a primary, teeing up yet another battle between the moderate wing of the Democratic Party and its most progressive members.",
@@ -1478,174 +1647,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/biden-expect-more-coronavirus-restrictions.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-expect-more-coronavirus-restrictions.amp",
       "publishedDateTime": "2021-07-30T17:41:13-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-30-trump-told-doj-officials-in-december-2020-to-call-election-corrupt-notes-show.md",
-      "title": "Trump told DOJ officials in December 2020 to call election 'corrupt,' notes show",
-      "excerpt": "Former President Trump instructed top officials at the Department of Justice to call the 2020 general election “corrupt” in support of his efforts to overturn the election.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/rBrred9VNLI/trump-doj-officials-election-corrupt-donoghue-notes",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/rBrred9VNLI/trump-doj-officials-election-corrupt-donoghue-notes",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 225,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/08eaf3c1-0bc0-4ab7-b748-5b27bb6cb6f8/dc1cea00-c153-4975-837b-757c68b29702/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-doj-officials-election-corrupt-donoghue-notes.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-doj-officials-election-corrupt-donoghue-notes.amp",
-      "publishedDateTime": "2021-07-30T14:35:43-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-30-hunter-biden-snaps-at-critics-of-art-dealings-f-em.md",
-      "title": "Hunter Biden snaps at critics of art dealings: 'F--- em'",
-      "excerpt": "Biden appeared on art podcast Nota Bene Thursday, where the president’s son was asked about his art dealings where the buyers are anonymous and the First Son is slated to attend his art shows where they may be.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3odzdcsxpCQ/hunter-biden-snaps-art-deal-critics",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3odzdcsxpCQ/hunter-biden-snaps-art-deal-critics",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 235,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0a5caf11-1d33-4ad9-8839-db1bd23329a8/06238ea1-d906-4d1f-8726-d9a8c455a054/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/hunter-biden-snaps-art-deal-critics.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-snaps-art-deal-critics.amp",
-      "publishedDateTime": "2021-07-30T08:45:25-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-29-biden-defends-previously-saying-vaccinated-dont-need-masks-that-was-true-at-the-time.md",
-      "title": "Biden defends previously saying vaccinated don't need masks: 'That was true at the time'",
-      "excerpt": "President Biden was involved in a heated exchange with Fox News reporter Peter Doocy after he pressed Biden on whether or not vaccinated Americans still need to wear masks.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/rjKnYTWaoyU/biden-vaccinated-need-masks-true-at-time",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/rjKnYTWaoyU/biden-vaccinated-need-masks-true-at-time",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 206,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/eec26b2c-3cfe-4b36-bb76-dfd0652fbbc6/c35c575c-353d-457f-bcbf-31c72016050c/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-vaccinated-need-masks-true-at-time.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-vaccinated-need-masks-true-at-time.amp",
-      "publishedDateTime": "2021-07-29T14:52:30-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

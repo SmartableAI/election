@@ -2,6 +2,166 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2021-04-14-biden-accompanies-first-lady-to-appointment-for-common-medical-procedure.md",
+      "title": "Biden accompanies first lady to appointment for 'common medical procedure'",
+      "excerpt": "President Biden on Wednesday accompanied first lady Jill Biden to an outpatient facility in Washington, D.C., for what the White House said is \"a common medical procedure.\"",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Byiy_FIv6Ns/jill-biden-appointment-medical-procedure",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Byiy_FIv6Ns/jill-biden-appointment-medical-procedure",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 173,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/jill-biden-appointment-medical-procedure.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jill-biden-appointment-medical-procedure.amp",
+      "publishedDateTime": "2021-04-14T05:58:34-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-14-biden-to-address-joint-session-of-congress-on-april-28.md",
+      "title": "Biden to address joint session of Congress on April 28",
+      "excerpt": "If Biden accepts the invitation, it would mark the first time he has addressed Congress in person since becoming president.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/9tajvtn_3qk/pelosi-invites-biden-to-address-joint-congress-session-on-april-28",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/9tajvtn_3qk/pelosi-invites-biden-to-address-joint-congress-session-on-april-28",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 375,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/23634e94-94e7-4bf7-9e0c-fe06767c9820/a40574e7-a98b-4e06-b72a-eedcc3fe9dc2/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/pelosi-invites-biden-to-address-joint-congress-session-on-april-28.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-invites-biden-to-address-joint-congress-session-on-april-28.amp",
+      "publishedDateTime": "2021-04-13T17:21:44-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-14-cnn-staffer-boasts-to-project-veritas-that-network-peddled-anti-trump-propaganda.md",
+      "title": "CNN staffer boasts to Project Veritas that network peddled anti-Trump ‘propaganda’",
+      "excerpt": "A CNN staffer admitted in a secretly recorded video that his network produced “propaganda” to oust former President Donald Trump during the 2020 presidential election — and",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/04/13/cnns-charlie-chester-says-network-peddled-anti-trump-propaganda/",
+      "originalUrl": "https://nypost.com/2021/04/13/cnns-charlie-chester-says-network-peddled-anti-trump-propaganda/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/04/trump-cnn-project-veritas-60.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/04/13/cnns-charlie-chester-says-network-peddled-anti-trump-propaganda/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/13/cnns-charlie-chester-says-network-peddled-anti-trump-propaganda/amp/",
+      "publishedDateTime": "2021-04-13T14:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-13-sen-ron-johnson-warns-biden-spending-blowout-is-irresponsible-could-bankrupt-nation.md",
       "title": "Sen. Ron Johnson warns Biden spending blowout is 'irresponsible,' could 'bankrupt nation'",
       "excerpt": "Sen. Ron Johnson, R-Wis., told \"The Story\" Tuesday that the Biden administration is \"mortgaging our children’s future\" by driving up debt to pay for a proposed infrastructure bill.",
@@ -1485,176 +1645,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2021-04-09T06:16:06-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-09-trump-other-potential-2024-gop-contenders-gathering-at-major-retreat.md",
-      "title": "Trump, other potential 2024 GOP contenders, gathering at major retreat",
-      "excerpt": "... Trump’s influence is not big enough and we have some donors who think that Trump’s influence is too much.\" \"The party is bigger than any one candidate. Clearly, Donald Trump is a big force in the Republican Party but I think the key for us moving ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/trump-2024-gop-contenders-retreat",
-      "originalUrl": "https://www.foxnews.com/politics/trump-2024-gop-contenders-retreat",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/mar-a-lago.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-2024-gop-contenders-retreat.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-2024-gop-contenders-retreat.amp",
-      "publishedDateTime": "2021-04-09T03:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-09-mark-steyn-pushes-back-on-bidens-gun-grab-by-executive-order.md",
-      "title": "Mark Steyn pushes back on Biden's 'gun grab' by executive order",
-      "excerpt": "In practical terms, the measures include: restrictions on pistol stabilizing braces, which Joe Biden claims allow hand-guns to be used as high-accuracy low-recoil rifles and yet with easy concealability of a pistol. A new rule closing yet another supposed ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/mark-steyn-pushes-back-on-bidens-gun-grab-by-executive-order",
-      "originalUrl": "https://www.foxnews.com/media/mark-steyn-pushes-back-on-bidens-gun-grab-by-executive-order",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0a73d4e9-e32b-4f78-b01c-7836d4c075f1/1f2816d7-152b-46e5-bcfc-50912e6eb51e/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/mark-steyn-pushes-back-on-bidens-gun-grab-by-executive-order.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/mark-steyn-pushes-back-on-bidens-gun-grab-by-executive-order.amp",
-      "publishedDateTime": "2021-04-08T17:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-08-trump-cfos-former-daughter-in-law-subpoenaed-and-turns-over-documents-to-manhattan-da.md",
-      "title": "Trump CFO's former daughter-in-law subpoenaed and turns over documents to Manhattan DA",
-      "excerpt": "The Manhattan DA’s office has subpoenaed and now seized documents from the apartment of Jennifer Weisselberg, the former daughter-in-law of  Trump Organization CFO Allen Weisselberg.   ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/YXGIlhqUjbk/trumps-cfo-former-daughter-in-law-subpoenaed-and-turns-over-documents-to-manhattan-da",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/YXGIlhqUjbk/trumps-cfo-former-daughter-in-law-subpoenaed-and-turns-over-documents-to-manhattan-da",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2019/03/ContentBroker_contentid-465ce569746c4d99b19d6aafab45f8eb.png",
-          "width": 1920,
-          "height": 1279,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-08T15:56:28-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

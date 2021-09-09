@@ -2,6 +2,174 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-07-30-trump-told-doj-officials-in-december-2020-to-call-election-corrupt-notes-show.md",
+      "title": "Trump told DOJ officials in December 2020 to call election 'corrupt,' notes show",
+      "excerpt": "Former President Trump instructed top officials at the Department of Justice to call the 2020 general election “corrupt” in support of his efforts to overturn the election.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/rBrred9VNLI/trump-doj-officials-election-corrupt-donoghue-notes",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/rBrred9VNLI/trump-doj-officials-election-corrupt-donoghue-notes",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 225,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/08eaf3c1-0bc0-4ab7-b748-5b27bb6cb6f8/dc1cea00-c153-4975-837b-757c68b29702/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-doj-officials-election-corrupt-donoghue-notes.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-doj-officials-election-corrupt-donoghue-notes.amp",
+      "publishedDateTime": "2021-07-30T14:35:43-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-30-hunter-biden-snaps-at-critics-of-art-dealings-f-em.md",
+      "title": "Hunter Biden snaps at critics of art dealings: 'F--- em'",
+      "excerpt": "Biden appeared on art podcast Nota Bene Thursday, where the president’s son was asked about his art dealings where the buyers are anonymous and the First Son is slated to attend his art shows where they may be.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3odzdcsxpCQ/hunter-biden-snaps-art-deal-critics",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3odzdcsxpCQ/hunter-biden-snaps-art-deal-critics",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 235,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0a5caf11-1d33-4ad9-8839-db1bd23329a8/06238ea1-d906-4d1f-8726-d9a8c455a054/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/hunter-biden-snaps-art-deal-critics.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-snaps-art-deal-critics.amp",
+      "publishedDateTime": "2021-07-30T08:45:25-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-29-biden-defends-previously-saying-vaccinated-dont-need-masks-that-was-true-at-the-time.md",
+      "title": "Biden defends previously saying vaccinated don't need masks: 'That was true at the time'",
+      "excerpt": "President Biden was involved in a heated exchange with Fox News reporter Peter Doocy after he pressed Biden on whether or not vaccinated Americans still need to wear masks.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/rjKnYTWaoyU/biden-vaccinated-need-masks-true-at-time",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/rjKnYTWaoyU/biden-vaccinated-need-masks-true-at-time",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 206,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/eec26b2c-3cfe-4b36-bb76-dfd0652fbbc6/c35c575c-353d-457f-bcbf-31c72016050c/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-vaccinated-need-masks-true-at-time.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-vaccinated-need-masks-true-at-time.amp",
+      "publishedDateTime": "2021-07-29T14:52:30-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-29-first-lady-jill-biden-undergoing-foot-procedure-at-walter-reed.md",
       "title": "First lady Jill Biden undergoing foot procedure at Walter Reed",
       "excerpt": "First lady Jill Biden injured herself in Hawaii last weekend while walking on a beach when an indeterminate \"object\" lodged itself in her foot, according to the White House.",
@@ -1435,158 +1603,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/biden-heckled-plagued-by-another-small-crowd-at-mcauliffe-event.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-heckled-plagued-by-another-small-crowd-at-mcauliffe-event.amp",
       "publishedDateTime": "2021-07-23T17:40:43-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-24-such-a-disgrace-trump-blasts-cleveland-indians-name-change.md",
-      "title": "‘Such a disgrace’: Trump blasts Cleveland Indians name change",
-      "excerpt": "Former President Donald Trump blasted the Cleveland Indians Friday over their name change announcement. “Can anybody believe that the Cleveland Indians, a storied and cherished baseball franchise since taking the name in 1915,",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/07/23/trump-blasts-cleveland-indians-name-change/",
-      "originalUrl": "https://nypost.com/2021/07/23/trump-blasts-cleveland-indians-name-change/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/07/gaurdians-trump-hp.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/07/23/trump-blasts-cleveland-indians-name-change/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/23/trump-blasts-cleveland-indians-name-change/amp/",
-      "publishedDateTime": "2021-07-23T12:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-23-biden-gives-odd-response-about-sucking-blood-out-of-kids-to-question-about-defunding-police.md",
-      "title": "Biden Gives Odd Response About \"Sucking Blood Out Of Kids\" To Question About Defunding Police",
-      "excerpt": "President Biden caused confusion and concern with a bizarre answer to a question about progressive Democrats who campaigned to \"defund the police\" on Thursday evening. \"Are there people in the Democratic Party who want to defund the police?",
-      "sourceUrl": null,
-      "webUrl": "https://www.realclearpolitics.com/video/2021/07/23/biden_gives_odd_response_to_question_about_defunding_police.html",
-      "originalUrl": "https://www.realclearpolitics.com/video/2021/07/23/biden_gives_odd_response_to_question_about_defunding_police.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.realclear.com/images/54/548899.jpg",
-          "width": 750,
-          "height": 562,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "http://www.realclearpolitics.com/video/2021/07/23/biden_gives_odd_response_to_question_about_defunding_police.amp.html",
-      "cdnAmpWebUrl": "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/07/23/biden_gives_odd_response_to_question_about_defunding_police.amp.html",
-      "publishedDateTime": "2021-07-23T08:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RealClearPolitics",
-        "domain": "realclearpolitics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-22-psaki-defends-hunter-bidens-participation-in-art-shows-no-scenario-in-which-buyers-can-provide-influence.md",
-      "title": "Psaki defends Hunter Biden's participation in art shows: 'No scenario' in which buyers can 'provide influence'",
-      "excerpt": "Jen Psaki defended Hunter Biden’s plans to meet with potential buyers of his art, saying the buyers will be anonymous, which will prevent appearance of any \"undue influence\" in the administration.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Nvejj0cT5q0/psaki-defends-hunter-biden-art-shows",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Nvejj0cT5q0/psaki-defends-hunter-biden-art-shows",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/126c9819-8d0a-4ed3-93c2-92db2694a67e/ff2a850f-4b38-400e-9564-ab1439b2cf08/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/psaki-defends-hunter-biden-art-shows.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-defends-hunter-biden-art-shows.amp",
-      "publishedDateTime": "2021-07-22T13:58:15-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

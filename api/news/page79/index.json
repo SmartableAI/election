@@ -2,6 +2,161 @@
   "page": 79,
   "value": [
     {
+      "path": "_news/2021-03-31-new-documents-show-trump-officials-haphazard-and-ineffective-approach-to-procuring-ppe-at-start-of-pandemic-house-committee-says.md",
+      "title": "New documents show Trump officials' 'haphazard and ineffective' approach to procuring PPE at start of pandemic, House committee says ",
+      "excerpt": "The Democratic-led House select committee reviewing the federal response to Covid-19 says it obtained documents that show the Trump administration at the start of the pandemic crisis \"pursued a haphazard and ineffective approach to procurement\" of personal protective equipment and medical supplies.\n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FVDL7t-jvFY/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FVDL7t-jvFY/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/181019110142-01-capitol-building-file-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/31/politics/house-covid-committee-trump-administration-navarro-ppp/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/31/politics/house-covid-committee-trump-administration-navarro-ppp/index.html",
+      "publishedDateTime": "2021-03-31T07:40:55-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-31-quotes-from-bold-vision-to-dangerously-misguided-reactions-to-biden-infrastructure-plan.md",
+      "title": "QUOTES-From 'bold' vision to 'dangerously misguided' - reactions to Biden infrastructure plan",
+      "excerpt": "March 31 (Reuters) - U.S. President Joe Biden is asking Congress to pass a $2.3 trillion jobs and infrastructure plan that fixes roads and bridges and boosts social services like care for the elderly. To pay for it, Biden is seeking to raise corporate tax ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/usa-biden-infrastructure-reaction-idUSL1N2LT1TF",
+      "originalUrl": "https://www.reuters.com/article/usa-biden-infrastructure-reaction-idUSL1N2LT1TF",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL1N2LT1TF",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2LT1TF",
+      "publishedDateTime": "2021-03-31T07:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-03-31-facebook-removes-video-of-trump-interview-with-daughter-in-law-lara-trump.md",
+      "title": "Facebook removes video of Trump interview with daughter-in-law Lara Trump",
+      "excerpt": "Facebook removed a video of an interview with former President Trump conducted by his daughter-in-law Lara Trump, saying any content “in the voice of Donald Trump” would be scrubbed from the social media platform.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/PzqlRWb8SEU/facebook-removes-trump-interview-video-daughter-in-law-lara-trump",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/PzqlRWb8SEU/facebook-removes-trump-interview-video-daughter-in-law-lara-trump",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 274,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/facebook-removes-trump-interview-video-daughter-in-law-lara-trump.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/facebook-removes-trump-interview-video-daughter-in-law-lara-trump.amp",
+      "publishedDateTime": "2021-03-31T07:23:24-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-31-infrastructure-was-a-trump-punchline-but-is-a-window-into-bidens-soul.md",
       "title": "Infrastructure was a Trump punchline but is a window into Biden's soul",
       "excerpt": "President Joe Biden's infrastructure plan is no joke.\n    \n",
@@ -1163,102 +1318,7 @@
         "Election",
         "Mike Pence"
       ]
-    },
-    {
-      "path": "_news/2021-03-31-the-latest-trump-blasts-fauci-and-birx-as-self-promoters.md",
-      "title": "The Latest: Trump blasts Fauci and Birx as ‘self-promoters’",
-      "excerpt": "WASHINGTON — Former President Donald Trump is slamming two of his most prominent coronavirus advisers. He says Dr. Anthony Fauci and Dr. Deborah Birx are “two self-promoters trying to reinvent history.” Fauci is the chief medical adviser to President ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.miamiherald.com/news/article250283305.html",
-      "originalUrl": "https://www.miamiherald.com/news/article250283305.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5618154292001/8f137469-cf5d-422d-8be6-eafce27a3d46/b3810ed2-9fe2-46d9-a692-71fb4e4ae035/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.miamiherald.com/news/article250283305.html",
-      "cdnAmpWebUrl": "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/article250283305.html",
-      "publishedDateTime": "2021-03-30T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Miami Herald",
-        "domain": "miamiherald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-women-dominate-bidens-first-slate-of-judicial-nominees.md",
-      "title": "Women dominate Biden's first slate of judicial nominees",
-      "excerpt": "WASHINGTON (Reuters) - President Joe Biden released his first slate of 11 federal judicial nominations on Tuesday, nine of them women of diverse backgrounds including several Black candidates and an Asian American. “This trailblazing slate of nominees ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-biden-judicial-idUSKBN2BM1GJ",
-      "originalUrl": "https://www.reuters.com/article/us-usa-biden-judicial-idUSKBN2BM1GJ",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 1685,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20210330&t=2&i=1556741242&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2T0O9",
-          "width": 701,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2BM1GJ",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BM1GJ",
-      "publishedDateTime": "2021-03-30T08:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
     }
   ],
-  "nextPage": null
+  "nextPage": 80
 }

@@ -2,6 +2,175 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-09-02-arizonas-ag-rebuffs-biden-does-mask-probe-wont-tolerate-efforts-to-undermine-state-sovereignty.md",
+      "title": "Arizona's AG rebuffs Biden DOE's mask probe: Won't 'tolerate' efforts to undermine state sovereignty",
+      "excerpt": "Arizona Attorney General Mark Brnovich forcefully responded to the Department of Education (DOE) Tuesday, telling Secretary Miguel Cardona he won't \"tolerate\" any federal overreach through the administration's masking investigation.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4rDsk1S8Fuc/arizona-ag-biden-education-department-mask-probe",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4rDsk1S8Fuc/arizona-ag-biden-education-department-mask-probe",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/815ebb23-2591-43ee-bb90-9859e5077048/22efde18-2edf-4c8b-95a1-a7c817978585/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/arizona-ag-biden-education-department-mask-probe.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/arizona-ag-biden-education-department-mask-probe.amp",
+      "publishedDateTime": "2021-09-02T07:40:54-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-09-02-biden-to-visit-hurricane-ida-devastation-in-louisiana-on-friday.md",
+      "title": "Biden to visit Hurricane Ida devastation in Louisiana on Friday",
+      "excerpt": "President Biden on Friday will tour the devastation left by Hurricane Ida when it slammed into Louisiana last weekend as a Category 4 storm. He also plans to deliver a speech Thursday outlining the administration’s response plan. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zK4vg3w057I/biden-hurricane-ida-devastation-louisiana-friday",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zK4vg3w057I/biden-hurricane-ida-devastation-louisiana-friday",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 355,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/83fc7f92-2bea-40fd-b69d-16e6093d0fa7/3483f11e-f6d4-4d0b-a4d2-e308c79930a8/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-hurricane-ida-devastation-louisiana-friday.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-hurricane-ida-devastation-louisiana-friday.amp",
+      "publishedDateTime": "2021-09-02T03:23:22-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-09-02-will-cain-kamala-harris-used-on-biden-ticket-been-mia-ever-since.md",
+      "title": "Will Cain: Kamala Harris ‘used’ on Biden ticket, been MIA ever since",
+      "excerpt": "\"The Five\" speculates about Kamala Harris' whereabouts, with co-host Will Cain predicting she will re-emerge from hiding when she's ready to face the fact that she was used for votes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/will-cain-kamala-harris-biden-ticket-mia-since",
+      "originalUrl": "https://www.foxnews.com/media/will-cain-kamala-harris-biden-ticket-mia-since",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 170,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6972f609-5acf-4822-97fb-0148775f443c/f75c6322-2b94-4ce0-90a6-cd48f6631868/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/will-cain-kamala-harris-biden-ticket-mia-since.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/will-cain-kamala-harris-biden-ticket-mia-since.amp",
+      "publishedDateTime": "2021-09-01T19:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-09-02-florida-restaurant-owner-posts-sign-telling-biden-supporters-to-take-business-elsewhere.md",
       "title": "Florida restaurant owner posts sign telling Biden supporters to 'take business elsewhere'",
       "excerpt": "A Florida restaurant raised eyebrows after posting a sign outsider the front door telling Biden supporters to dine elsewhere citing his recent handling of the American military withdrawal from Afghanistan.",
@@ -1484,167 +1653,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-25-pence-slams-bidens-troop-withdrawal-as-foreign-policy-humiliation.md",
-      "title": "Pence slams Biden’s troop withdrawal as ‘foreign policy humiliation’",
-      "excerpt": "In an interview on The Brian Kilmeade Show, Pence recalled Biden’s decision to fully withdraw by Sept. 11, saying that decision set the “disaster in motion.”",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/08/24/mike-pence-slams-biden-on-chaotic-afghan-troop-withdrawal/",
-      "originalUrl": "https://nypost.com/2021/08/24/mike-pence-slams-biden-on-chaotic-afghan-troop-withdrawal/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 150,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/08/AFP_9LL4DR.jpg?quality=90&strip=all&w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/08/24/mike-pence-slams-biden-on-chaotic-afghan-troop-withdrawal/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/24/mike-pence-slams-biden-on-chaotic-afghan-troop-withdrawal/amp/",
-      "publishedDateTime": "2021-08-24T15:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-24-sasse-urges-biden-to-tell-taliban-were-getting-our-people-out-however-long-it-takes-damn-the-deadline.md",
-      "title": "Sasse urges Biden to tell Taliban 'we're getting our people out however long it takes': 'Damn the deadline'",
-      "excerpt": "In a blistering statement, Sen. Ben Sasse said Biden should be calling the shots, not the Taliban, who said there would be \"no extensions\" of the deadline set for withdrawal.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/YkXyG4A050o/sasse-biden-taliban-damn-the-deadline",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/YkXyG4A050o/sasse-biden-taliban-damn-the-deadline",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/sasse-biden-taliban-damn-the-deadline.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sasse-biden-taliban-damn-the-deadline.amp",
-      "publishedDateTime": "2021-08-24T10:15:19-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-24-kamala-harris-calls-bidens-afghanistan-decision-courageous-as-others-in-white-house-blame-trump.md",
-      "title": "Kamala Harris calls Biden's Afghanistan decision 'courageous' as others in White House blame Trump",
-      "excerpt": "Vice President Kamala Harris gave credit to President Biden for deciding to end the war in Afghanistan, even though members of the administration – including Biden himself – have blamed former President Trump for agreeing to withdraw U.S. troops.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/a8gNbJOmOq4/kamala-harris-biden-afghanistan-decision-courageous-trump-blame",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/a8gNbJOmOq4/kamala-harris-biden-afghanistan-decision-courageous-trump-blame",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 3181,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/kamala-harris-biden-afghanistan-decision-courageous-trump-blame.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-biden-afghanistan-decision-courageous-trump-blame.amp",
-      "publishedDateTime": "2021-08-24T08:15:26-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Kamala Harris"
       ]
     }
   ],

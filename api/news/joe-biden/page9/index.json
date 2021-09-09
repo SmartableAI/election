@@ -2,6 +2,58 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-05-29-bidens-6-trillion-budget-dropped-key-campaign-promises-on-student-debt-cancellation-and-healthcare-reform.md",
+      "title": "Biden's $6 trillion budget dropped key campaign promises on student debt cancellation and healthcare reform",
+      "excerpt": "The White House budget blueprint is focused on infrastructure plans already on the table, which include cash payments for parents and universal pre-K.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/bidens-budget-campaign-promises-student-debt-and-healthcare-reform-2021-5",
+      "originalUrl": "https://www.businessinsider.com/bidens-budget-campaign-promises-student-debt-and-healthcare-reform-2021-5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/609c3d3a6a3ce80019e04192?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/bidens-budget-campaign-promises-student-debt-and-healthcare-reform-2021-5?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/bidens-budget-campaign-promises-student-debt-and-healthcare-reform-2021-5?amp",
+      "publishedDateTime": "2021-05-28T16:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-05-28-biden-to-gop-dont-get-in-the-way-of-infrastructure-plan.md",
       "title": "Biden to GOP: 'Don't get in the way' of infrastructure plan",
       "excerpt": "President Joe Biden is warning naysayers in Congress not to “get in the way” of his big infrastructure plans as the White House panned a counteroffer from Republican senators to tap unused COVID-19 relief for a more modest investment in roads,",
@@ -1508,58 +1560,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-05-13-fast-and-efficient-biden-urges-cdc-approved-vaccinations-for-kids-12-15-us-deaths-lowest-in-10-months-latest-covid-19-updates.md",
-      "title": "'Fast and efficient': Biden urges CDC-approved vaccinations for kids 12-15; US deaths lowest in 10 months: Latest COVID-19 updates",
-      "excerpt": "After weeks of the U.S. reporting around 700 deaths per day, the country is now averaging about 600 deaths a day. Latest COVID-19 news.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/health/2021/05/12/covid-pfizer-vaccine-variant-deaths-hesitancy-cases/5046377001/",
-      "originalUrl": "https://www.usatoday.com/story/news/health/2021/05/12/covid-pfizer-vaccine-variant-deaths-hesitancy-cases/5046377001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/05/12/USAT/f1718a84-e8f8-4fa4-95a2-729411511302-AP21131792607869.jpg?auto=webp&crop=5327,2996,x0,y186&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/5046377001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5046377001",
-      "publishedDateTime": "2021-05-12T16:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

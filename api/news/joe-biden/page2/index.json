@@ -2,6 +2,54 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-08-28-joe-biden-just-ruined-americas-special-relationship-with-great-britain.md",
+      "title": "Joe Biden just ruined America’s ‘special relationship’ with Great Britain",
+      "excerpt": "Despite such loud promises that he would make America’s alliances great again, Biden’s initially foolish, now fatal, Afghan catastrophe has atomized US international ties.",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/08/27/joe-biden-just-ruined-americas-special-relationship-with-great-britain/",
+      "originalUrl": "https://nypost.com/2021/08/27/joe-biden-just-ruined-americas-special-relationship-with-great-britain/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/08/biden-boris-johnson.jpg?quality=90&strip=all&w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/08/27/joe-biden-just-ruined-americas-special-relationship-with-great-britain/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/27/joe-biden-just-ruined-americas-special-relationship-with-great-britain/amp/",
+      "publishedDateTime": "2021-08-27T16:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-08-28-franklin-delano-roosevelt-vs-john-f-kennedy-vs-joe-robinette-biden.md",
       "title": "Franklin Delano Roosevelt vs. John F. Kennedy vs. Joe Robinette Biden",
       "excerpt": "After the deaths of 13 U.S. troops and at least 90 Afghans outside the Kabul airport, Joe Biden gave a speech from a position of weakness.",
@@ -1397,59 +1445,6 @@
       ],
       "topics": [
         "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-08-13-trump-reinstatement-day-latest-failure-in-predictions-hell-resume-presidency-oust-biden.md",
-      "title": "Trump 'Reinstatement Day' Latest Failure in Predictions He'll Resume Presidency, Oust Biden",
-      "excerpt": "Despite the months-long failed predictions that Trump would be reinstated as president, some supporters of the theory continue to peddle it.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/trump-reinstatement-day-latest-failure-predictions-hell-resume-presidency-oust-biden-1619152",
-      "originalUrl": "https://www.newsweek.com/trump-reinstatement-day-latest-failure-predictions-hell-resume-presidency-oust-biden-1619152",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 1280,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1870140/donald-trump-reinstatement-day-president-mike-lindell.jpg",
-          "width": 2500,
-          "height": 1665,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/trump-reinstatement-day-latest-failure-predictions-hell-resume-presidency-oust-biden-1619152?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-reinstatement-day-latest-failure-predictions-hell-resume-presidency-oust-biden-1619152?amp=1",
-      "publishedDateTime": "2021-08-13T07:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Joe Biden"
       ]
     }

@@ -91,6 +91,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Passenger growls, shouts ‘Joe Biden’ at American Airlines attendant, video shows"
+    excerpt: "Armstrong was recorded on video by Dennis Busch, who was also on the flight and said Armstrong told an Asian woman that she “didn’t belong here,” Fox 13 Now reported. Armstrong was also filmed yelling “Joe Biden” at a flight attendant and growling at the crew,"
+    publishedDateTime: 2021-09-07T22:11:00Z
+    webUrl: "https://www.miamiherald.com/news/nation-world/national/article254060303.html"
+    ampWebUrl: "https://amp.miamiherald.com/news/nation-world/national/article254060303.html"
+    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/nation-world/national/article254060303.html"
+    type: article
+    provider:
+      name: Miami Herald
+      domain: miamiherald.com
+    quality: 70
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998031001/e5280ab3-2a9c-4028-8ae1-6788e12e2462/adbc20cf-7551-41d2-8a85-6a5f4bd8b900/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Joe Biden Pledges More Strikes On ISIS Amid Threats Of Another Attack On Kabul Airport"
     excerpt: "President Joe Biden, who decided to hit back at ISIS over the Kabul airport bombings said that the US airstrikes against the extremist group will continue."
     publishedDateTime: 2021-08-29T03:54:00Z
@@ -172,17 +188,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Passenger growls, shouts ‘Joe Biden’ at American Airlines attendant, video shows"
-    excerpt: "Armstrong was recorded on video by Dennis Busch, who was also on the flight and said Armstrong told an Asian woman that she “didn’t belong here,” Fox 13 Now reported. Armstrong was also filmed yelling “Joe Biden” at a flight attendant and growling at the crew,"
-    publishedDateTime: 2021-09-07T21:11:00Z
-    webUrl: "https://www.sacbee.com/news/nation-world/national/article254060303.html"
-    ampWebUrl: "https://amp.sacbee.com/news/nation-world/national/article254060303.html"
-    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/nation-world/national/article254060303.html"
-    type: article
-    provider:
-      name: Sacramento Bee
-      domain: sacbee.com
-    quality: 50
   - title: "Cory Mills evacuates Americans from Afghanistan, says Joe Biden admin wrongly wants credit"
     excerpt: "Congressional candidate Cory Mills went to Afghanistan to successfully rescue Americans still on the ground in the war-torn nation. Now he’s upset President Joe Biden ’s administration wants credit. Mills,"
     publishedDateTime: 2021-09-07T21:56:00Z

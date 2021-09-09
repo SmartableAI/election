@@ -2,6 +2,58 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2021-04-22-lara-trump-is-wild-card-in-north-carolina-senate-race.md",
+      "title": "Lara Trump is wild card in North Carolina Senate race",
+      "excerpt": "Former President Trump’s daughter-in-law Lara Trump is looming over the Republican Senate primary in North Carolina as the field grows with some of the state’s biggest GOP names.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/campaign/549638-lara-trump-is-wild-card-in-north-carolina-senate-race",
+      "originalUrl": "https://thehill.com/homenews/campaign/549638-lara-trump-is-wild-card-in-north-carolina-senate-race",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 305,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/trumplara_082620getty_camp.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/campaign/549638-lara-trump-is-wild-card-in-north-carolina-senate-race?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/549638-lara-trump-is-wild-card-in-north-carolina-senate-race?amp",
+      "publishedDateTime": "2021-04-22T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-04-22-pelosi-felt-liberated-after-ripping-up-trumps-2020-state-of-the-union-speech-author-says.md",
       "title": "Pelosi felt 'liberated' after ripping up Trump's 2020 State of the Union speech, author says",
       "excerpt": "House Speaker Nancy Pelosi felt \"liberated\" when she ripped up a copy of President Donald Trump's State of the Union address last year, but the move was largely unplanned simply because she couldn't find a pen,",
@@ -1521,58 +1573,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-04-15-how-will-donald-trump-fare-in-tuesdays-primaries.md",
-      "title": "How will Donald Trump fare in Tuesday's primaries?",
-      "excerpt": "Candidates are making a final push ahead of Tuesday's primaries. Will Donald Trump enjoy another big night, or will recent violence at his rallies hurt him? CBSN political contributor Leslie Sanchez and Bob Cusack,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/video/how-will-donald-trump-fare-in-tuesdays-primaries-1/",
-      "originalUrl": "https://www.cbsnews.com/video/how-will-donald-trump-fare-in-tuesdays-primaries-1/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2021/04/15/d475d0b6-b992-41b9-90da-fb04ecc2d3e1/thumbnail/1200x630/2fa521bbefe3d5e8c6c3020975a75a5a/cbsn-primary-preview-0314-498944-640x360.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-14T20:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -905,6 +905,22 @@ related:
         width: 1080
         height: 720
         isCached: true
+  - title: "Kamala Harris stumps for Gov. Gavin Newsom in California, blames GOP for recall effort"
+    excerpt: "Vice President Kamala Harris urged Californians Wednesday to rescue Democratic Gov. Gavin Newsom, saying next week’s recall election is part of a nationwide Republican power play that includes new abortion restrictions in Texas and limits on voting in GOP-led states."
+    publishedDateTime: 2021-09-08T21:41:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/sep/8/kamala-harris-stumps-gov-gavin-newsom-california-b/"
+    ampWebUrl: "https://amp.washingtontimes.com/news/2021/sep/8/kamala-harris-stumps-gov-gavin-newsom-california-b/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/sep/8/kamala-harris-stumps-gov-gavin-newsom-california-b/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 67
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2021/09/08/Harris_California_Recall_87600.jpg-8da04_c0-230-5525-3452_s1200x700.jpg?f172c0ed6a03917150c3802d23011865079092ed"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "Kamala Harris at Newsom rally links California recall to new Republican abortion, voting laws"
     excerpt: "Republicans “think if they can win in California they can do this anywhere,” Vice President Kamala Harris said."
     publishedDateTime: 2021-09-08T20:16:00Z
@@ -1094,18 +1110,18 @@ related:
         height: 630
         isCached: true
   - title: "VP Kamala Harris and California Gov. Gavin Nerwsom Hold Vote No on Recall Rall76"
-    excerpt: "Vice President Kamala Harris speaks at a 'vote no on recall' rally for California Governor Gavin Newsom at the IBEW-NECA Joint Apprenticeship Training Center in San Leandro, California on Wednesday, September 8,"
+    excerpt: "California Governor Gavin Newsom waves with Vice President Kamala Harris at a 'vote no on recall' rally at the IBEW-NECA Joint Apprenticeship Training Center in San Leandro, California on Wednesday, September 8,"
     publishedDateTime: 2021-09-08T22:22:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/f9273f3df972c056597095a59bf5d69b/VP-Kamala-Harris-and-California-Gov-Gavin-Nerwsom-Hold-Vote-No-on-Recall-Rall76/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/54517538382a734eab52ef66053f1528/VP-Kamala-Harris-and-California-Gov-Gavin-Nerwsom-Hold-Vote-No-on-Recall-Rall76/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 50
     images:
-      - url: "https://cdnph.upi.com/pv/upi/f9273f3df972c056597095a59bf5d69b/HARRIS-NEWSOM.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/54517538382a734eab52ef66053f1528/HARRIS-NEWSOM.jpg"
         width: 650
-        height: 432
+        height: 447
         isCached: true
   - title: "For her first major task as VP, Kamala Harris is handed a thorny diplomatic mission"
     excerpt: "“And you’re smiling.” Kamala Harris’s first major mission as vice president is not one a lot of politicians would be happy to receive. She’s been deputized to own arguably the most politically thorny issue the administration has on its ..."

@@ -2,6 +2,166 @@
   "page": 39,
   "value": [
     {
+      "path": "_news/2021-06-19-joe-biden-wooed-many-on-his-tour-of-europe-itll-take-much-more-to-fix-the-damage-wrought-by-trump.md",
+      "title": "Joe Biden wooed many on his tour of Europe. It'll take much more to fix the damage wrought by Trump",
+      "excerpt": "Joe Biden's first overseas trip as US President -- a whistle-stop diplomatic tour of Europe -- achieved its primary goal of signaling to America's closest friends that it was ready once more to lead the Western alliance.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uNRmIa9qVK8/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uNRmIa9qVK8/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 316,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210610152515-01-biden-overseas-0610-uk-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/19/politics/biden-europe-tour-analysis-intl-cmd/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/19/politics/biden-europe-tour-analysis-intl-cmd/index.html",
+      "publishedDateTime": "2021-06-18T21:12:11-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-19-the-gops-gaslighting-on-biden-putin-and-trump.md",
+      "title": "The GOP’s gaslighting on Biden, Putin and Trump",
+      "excerpt": "In their quest to pitch Biden as weak on Russia, Republicans are attacking pretty much everything they ignored about Trump.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/2021/06/18/gops-gaslighting-biden-putin-trump/",
+      "originalUrl": "https://www.washingtonpost.com/politics/2021/06/18/gops-gaslighting-biden-putin-trump/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 1180,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/06-16-2021/t_31136d8876b14fb0a02e726c1921b27e_name_biden_presser_0616_scaled.jpg&w=1440",
+          "width": 1440,
+          "height": 810,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/2021/06/18/gops-gaslighting-biden-putin-trump/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/06/18/gops-gaslighting-biden-putin-trump/?outputType=amp",
+      "publishedDateTime": "2021-06-18T14:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-06-19-us-bishops-approve-teaching-document-that-may-rebuke-biden-and-other-catholic-politicians-who-support-abortion-rights.md",
+      "title": "U.S. bishops approve \"teaching document\" that may rebuke Biden and other Catholic politicians who support abortion rights",
+      "excerpt": "The decision came despite appeals from the Vatican for a more cautious and collegial approach to the divisive issue.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/bishops-possible-rebuke-joe-biden-communion-abortion-rights/",
+      "originalUrl": "https://www.cbsnews.com/news/bishops-possible-rebuke-joe-biden-communion-abortion-rights/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2021/06/18/0dab9461-64ac-439e-bba3-006f56d191ab/thumbnail/1200x630/8969446ae0a837cb8619805808b88017/ap21169598321502.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/bishops-possible-rebuke-joe-biden-communion-abortion-rights/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/bishops-possible-rebuke-joe-biden-communion-abortion-rights/",
+      "publishedDateTime": "2021-06-18T14:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-06-19-at-risk-of-falling-short-on-vaccine-goal-biden-marks-new-milestone-300m-shots-under-his-watch.md",
       "title": "At risk of falling short on vaccine goal, Biden marks new milestone: 300M shots under his watch",
       "excerpt": "The White House is pointing to a new milestone on vaccinations – 300 million shots administered since President Joe Biden took office.",
@@ -1192,171 +1352,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-06-17-white-house-cheers-supreme-court-obamacare-decision-with-nod-to-bidens-big-f-deal-hot-mic-comment.md",
-      "title": "White House cheers Supreme Court ObamaCare decision with nod to Biden's 'big f--- deal' hot mic comment",
-      "excerpt": "The White House cheered the U.S. Supreme Court’s decision to uphold Obamacare, with a nod at President Biden’s 2010 “big f**king deal” reaction to then-President Obama signing the Affordable Care Act into law.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/wAENLL8JR5I/white-house-reaction-supreme-court-obamacare-decision-bidens-big-f-deal-hot-mic-comment",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/wAENLL8JR5I/white-house-reaction-supreme-court-obamacare-decision-bidens-big-f-deal-hot-mic-comment",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/white-house-reaction-supreme-court-obamacare-decision-bidens-big-f-deal-hot-mic-comment.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-reaction-supreme-court-obamacare-decision-bidens-big-f-deal-hot-mic-comment.amp",
-      "publishedDateTime": "2021-06-17T08:30:56-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-17-lara-trump-rips-biden-for-only-taking-questions-from-pre-approved-reporters-are-you-kidding-me.md",
-      "title": "Lara Trump rips Biden for only taking questions from pre-approved reporters: 'Are you kidding me?'",
-      "excerpt": "Fox News contributor Lara Trump tore into President Biden on Thursday for only taking pre-approved questions from reporters during a press conference following his meeting with Putin in Geneva.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/lara-trump-biden-questions-pre-approved-reporters-putin-geneva-summit",
-      "originalUrl": "https://www.foxnews.com/media/lara-trump-biden-questions-pre-approved-reporters-putin-geneva-summit",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 176,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3c4dd680-ab9f-40bd-aa35-325cd721dcf8/67a41eac-58b9-43de-b14a-ae16084f548d/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/lara-trump-biden-questions-pre-approved-reporters-putin-geneva-summit.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/lara-trump-biden-questions-pre-approved-reporters-putin-geneva-summit.amp",
-      "publishedDateTime": "2021-06-17T07:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-17-fire-and-fury-author-writes-new-trump-book-landslide.md",
-      "title": "'Fire and Fury' author writes new Trump book 'Landslide'",
-      "excerpt": "The author of “Fire and Fury,” the million-seller from 2018 that helped launched the wave of inside accounts of the Trump White House, will have a last look coming out next month",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Entertainment/wireStory/fire-fury-author-writes-trump-book-landslide-78331930",
-      "originalUrl": "https://abcnews.go.com/Entertainment/wireStory/fire-fury-author-writes-trump-book-landslide-78331930",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Entertainment/WireAP_d798f2abc2e04a698da13553b95b0f68_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Entertainment/wireStory/fire-fury-author-writes-trump-book-landslide-78331930",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/fire-fury-author-writes-trump-book-landslide-78331930",
-      "publishedDateTime": "2021-06-17T03:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

@@ -2,6 +2,148 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-08-10-vp-harris-husband-to-represent-us-at-paralympic-games-in-tokyo.md",
+      "title": "VP Harris' husband to represent US at Paralympic Games in Tokyo",
+      "excerpt": "About 4,400 athletes with physical disabilities from 160 countries will compete in more than 20 sporting events under strict public health measures.",
+      "sourceUrl": null,
+      "webUrl": "https://www.11alive.com/article/sports/olympics/doug-emhoff-represent-us-at-paralympic-games/507-e8a7098a-0411-4cd0-8d00-99bc23bf759c",
+      "originalUrl": "https://www.11alive.com/article/sports/olympics/doug-emhoff-represent-us-at-paralympic-games/507-e8a7098a-0411-4cd0-8d00-99bc23bf759c",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.11alive.com/assets/CCT/images/14f5a6dc-2338-4ed0-ba93-64bf5799ffd3/14f5a6dc-2338-4ed0-ba93-64bf5799ffd3_1140x641.jpg",
+          "width": 1140,
+          "height": 641,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.11alive.com/amp/article/sports/olympics/doug-emhoff-represent-us-at-paralympic-games/507-e8a7098a-0411-4cd0-8d00-99bc23bf759c",
+      "cdnAmpWebUrl": "https://www-11alive-com.cdn.ampproject.org/c/s/www.11alive.com/amp/article/sports/olympics/doug-emhoff-represent-us-at-paralympic-games/507-e8a7098a-0411-4cd0-8d00-99bc23bf759c",
+      "publishedDateTime": "2021-08-10T07:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "11Alive",
+        "domain": "11alive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-08-10-hunter-biden-relaxes-with-family-in-malibu-as-he-readies-for-high-priced-art-sale-see-the-photos.md",
+      "title": "Hunter Biden relaxes with family in Malibu as he readies for high-priced art sale: See the photos",
+      "excerpt": "President Joe Biden's son Hunter Biden was seen in Malibu Sunday afternoon with family and friends ahead of meeting with potential buyers of his controversial art.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/oc0_gPcBM2g/hunter-biden-relaxes-with-family-in-malibu-as-he-readies-for-high-priced-art-sale",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/oc0_gPcBM2g/hunter-biden-relaxes-with-family-in-malibu-as-he-readies-for-high-priced-art-sale",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 182,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3d6e1904-5f76-4296-8d43-5d253226be8c/187fcfeb-e169-46cd-accd-ef3072a9eada/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/hunter-biden-relaxes-with-family-in-malibu-as-he-readies-for-high-priced-art-sale.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-relaxes-with-family-in-malibu-as-he-readies-for-high-priced-art-sale.amp",
+      "publishedDateTime": "2021-08-09T18:50:09-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-08-10-trump-cant-say-hasta-la-vista-to-celebrity-apprentice.md",
+      "title": "Trump can’t say ‘Hasta la vista’ to ‘Celebrity Apprentice’",
+      "excerpt": "President Donald Trump can't seem to bring himself to say \"Hasta la vista, baby\" to \"Celebrity Apprentice.\" Twice in the past month, Trump, who once hosted the NBC reality TV show, has taken pot shots at the current host,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/article/entertainment-politics-donald-trump-reality-tv-celebrity-5f84cc92895c43988ae86485793c2d02",
+      "originalUrl": "https://apnews.com/article/entertainment-politics-donald-trump-reality-tv-celebrity-5f84cc92895c43988ae86485793c2d02",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/afs-prod/media/media:a7dd2932954c4bd5a98a8a1fcccfe5cb/3000.jpeg",
+          "width": 3000,
+          "height": 1994,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-09T17:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-08-10-trump-couture-ex-president-unveils-new-version-of-maga-hat-he-just-designed.md",
       "title": "Trump couture: Ex-president unveils new version of MAGA hat he ‘just designed’",
       "excerpt": "In an email to supporters, former President Donald Trump announced a new version of the “Make America Great Again” hats and claimed he had “just designed” it.",
@@ -1136,166 +1278,6 @@
       "topics": [
         "Election",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-08-06-ohio-rep-bob-gibbs-seeks-articles-of-impeachment-against-biden.md",
-      "title": "Ohio Rep. Bob Gibbs seeks articles of impeachment against Biden",
-      "excerpt": "An Ohio congressman on Friday asked his GOP House colleagues to consider filing articles of impeachment against President Biden for an \"unconstitutional\" order to extend the eviction moratorium and for his \"dereliction\" of duty in securing the southern border. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/EhuY1KsVds4/ohio-bob-gibbs-articles-impeachment-biden",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/EhuY1KsVds4/ohio-bob-gibbs-articles-impeachment-biden",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 335,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/340/340/Marisa-Schultz.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/ohio-bob-gibbs-articles-impeachment-biden.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ohio-bob-gibbs-articles-impeachment-biden.amp",
-      "publishedDateTime": "2021-08-06T13:15:32-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-06-ron-desantis-and-joe-biden-brawl-a-potential-preview-of-ugly-2024-race.md",
-      "title": "Ron DeSantis and Joe Biden Brawl a Potential Preview of Ugly 2024 Race",
-      "excerpt": "DeSantis took aim at comments from the president in regard to governors, while also questioning him looking to \"single out Florida over COVID.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/ron-desantis-joe-biden-2024-1616923",
-      "originalUrl": "https://www.newsweek.com/ron-desantis-joe-biden-2024-1616923",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 365,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1864686/joe-biden-ron-desantis-split.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/ron-desantis-joe-biden-2024-1616923?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/ron-desantis-joe-biden-2024-1616923?amp=1",
-      "publishedDateTime": "2021-08-06T08:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-08-06-joe-biden-to-tout-strong-july-jobs-numbers-us-politics-live.md",
-      "title": "Joe Biden to tout strong July jobs numbers – US politics live",
-      "excerpt": "Figures show US economy added 943,000 jobs in July – follow the day’s politics news",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/live/2021/aug/06/joe-biden-coronavirus-covid-us-economy-us-politics-live?page=with:block-610d36898f0892081f6ce595",
-      "originalUrl": "https://www.theguardian.com/us-news/live/2021/aug/06/joe-biden-coronavirus-covid-us-economy-us-politics-live?page=with:block-610d36898f0892081f6ce595",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 865,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/26b75722c336bad8c50309926af68f13cf3dc72f/0_134_3500_2099/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=eada90142314f96d2869c871b0200db3",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2021/aug/06/joe-biden-coronavirus-covid-us-economy-us-politics-live",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/aug/06/joe-biden-coronavirus-covid-us-economy-us-politics-live",
-      "publishedDateTime": "2021-08-06T05:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

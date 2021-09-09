@@ -2,6 +2,174 @@
   "page": 60,
   "value": [
     {
+      "path": "_news/2021-05-05-donald-trump-promises-supporters-will-be-very-happy-when-he-makes-2024-announcement.md",
+      "title": "Donald Trump promises supporters will be ‘very happy’ when he makes 2024 announcement",
+      "excerpt": "President Donald Trump on Tuesday promised his supporters would be very happy when he eventually makes his announcement about whether he will run in the 2024 presidential election.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1DKa-ZACLs0/donald-trump-supporters-very-happy-2024-announcement",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1DKa-ZACLs0/donald-trump-supporters-very-happy-2024-announcement",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 168,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0d8dfd42-a466-417d-af47-80dd92a6b6df/19decefa-a9f0-45ff-9c45-cf4297aed3b1/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/donald-trump-supporters-very-happy-2024-announcement.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/donald-trump-supporters-very-happy-2024-announcement.amp",
+      "publishedDateTime": "2021-05-04T18:59:55-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-04-doj-ordered-to-turn-over-trump-obstruction-of-justice-memo.md",
+      "title": "DOJ ordered to turn over Trump obstruction of justice memo",
+      "excerpt": "A judge has ordered the Department of Justice (DOJ) to turn over an internal memo from March 2019 that then-Attorney General Bill Barr cited as his reason not to charge former President Trump with obstruction of justice following the Mueller investigation. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nyOZae-aROc/avail-doj-ordered-to-turn-over-trump-obstruction-of-justice-memo",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nyOZae-aROc/avail-doj-ordered-to-turn-over-trump-obstruction-of-justice-memo",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 755,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/07/720/405/ag-barr.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/avail-doj-ordered-to-turn-over-trump-obstruction-of-justice-memo.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/avail-doj-ordered-to-turn-over-trump-obstruction-of-justice-memo.amp",
+      "publishedDateTime": "2021-05-04T16:33:20-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-04-secret-william-barr-memo-saying-not-to-charge-trump-must-be-released-judge-says.md",
+      "title": "Secret William Barr memo saying not to charge Trump must be released, judge says",
+      "excerpt": "A federal judge this week rejected the Justice Department's attempts to keep secret a departmental opinion to not charge former President Donald Trump with obstruction at the end of the Mueller investigation, calling the administration's lawyers \"disingenuous.\"\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/IvPvRos6aUw/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/IvPvRos6aUw/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 210,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/190411180959-0411-01-barr-trump-mueller-split-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/04/politics/william-barr-memo-trump-memo/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/04/politics/william-barr-memo-trump-memo/index.html",
+      "publishedDateTime": "2021-05-04T16:05:31-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-05-05-biden-getting-vaccinated-a-matter-of-life-and-death.md",
       "title": "Biden: Getting vaccinated a matter of 'life and death'",
       "excerpt": "Getting vaccinated a matter of 'life and death' Posted . U.S. President Joe Biden on Tuesday urged all adult Americans to get vaccinated as soon as possible, annou",
@@ -1156,171 +1324,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-05-03-hilary-mantel-mad-max-and-donald-trump-what-we-learned-from-sydney-writers-festival.md",
-      "title": "Hilary Mantel, Mad Max and Donald Trump: what we learned from Sydney writers’ festival",
-      "excerpt": "Judy Bloom, Paul Kelly, George Miller and Tara June Winch were among the guests at Carriageworks, in a welcome return for the beloved event",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/books/2021/may/03/hilary-mantel-mad-max-and-donald-trump-what-we-learned-from-sydney-writers-festival",
-      "originalUrl": "https://www.theguardian.com/books/2021/may/03/hilary-mantel-mad-max-and-donald-trump-what-we-learned-from-sydney-writers-festival",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/2c655ae1623c7cfb41b0663d4c07406f0ffd65ca/0_118_4800_2880/master/4800.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=3dc8214deac6baa8c683456231825f63",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/books/2021/may/03/hilary-mantel-mad-max-and-donald-trump-what-we-learned-from-sydney-writers-festival",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/books/2021/may/03/hilary-mantel-mad-max-and-donald-trump-what-we-learned-from-sydney-writers-festival",
-      "publishedDateTime": "2021-05-02T18:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-05-02-biden-abandoned-the-rule-of-law-at-border-sending-texas-costs-soaring-gov-abbott-says.md",
-      "title": "Biden 'abandoned the rule of law' at border, sending Texas costs soaring, Gov. Abbott says",
-      "excerpt": "President Biden has abandoned the rule of law at the U.S.-Mexico border amid the migrant crisis, sending costs for border security soaring in Texas, Gov. Greg Abbott said Sunday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/frpdoh4lwwg/biden-border-crisis-texas-costs-greg-abbott",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/frpdoh4lwwg/biden-border-crisis-texas-costs-greg-abbott",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/713587da-5828-4066-8cb4-999e43da8e19/49429ba3-a486-43e2-8995-c2db8564fb63/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-border-crisis-texas-costs-greg-abbott.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-border-crisis-texas-costs-greg-abbott.amp",
-      "publishedDateTime": "2021-05-02T11:03:40-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-02-biden-is-a-moderate-no-more-judge-jeanine.md",
-      "title": "Biden is a 'moderate no more': Judge Jeanine",
-      "excerpt": "Guests: Byron Donalds, Richard Grenell, Steve Moore, Lara Trump, Ashley Strohmier, Joe Concha, Leo Terrell, Tomi Lahren",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/transcript/judge-jeanine-it-took-less-than-100-days-to-change-america",
-      "originalUrl": "https://www.foxnews.com/transcript/judge-jeanine-it-took-less-than-100-days-to-change-america",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/958aab46-31d1-4580-9e3d-f4cc6cbf1485/7d4cbc2a-2e07-4dc2-bbde-8e717f1b64e1/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/transcript/judge-jeanine-it-took-less-than-100-days-to-change-america.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/judge-jeanine-it-took-less-than-100-days-to-change-america.amp",
-      "publishedDateTime": "2021-05-02T07:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
       ]
     }
   ],

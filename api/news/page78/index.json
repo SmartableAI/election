@@ -2,6 +2,166 @@
   "page": 78,
   "value": [
     {
+      "path": "_news/2021-04-02-kamala-harris-and-doug-emhoff-to-move-into-vice-presidents-residence-after-two-month-delay.md",
+      "title": "Kamala Harris and Doug Emhoff to move into vice president's residence after two-month delay",
+      "excerpt": "Vice President Kamala Harris is finally moving into the Naval Observatory next week according to chief spokesperson Symone Sanders, over two months after Inauguration Day. Harris and her husband, second gentleman Doug Emhoff, couldn't immediately settle in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/kamala-harris-and-doug-emhoff-to-move-into-vice-presidents-residence-after-two-month-delay/",
+      "originalUrl": "https://www.cbsnews.com/news/kamala-harris-and-doug-emhoff-to-move-into-vice-presidents-residence-after-two-month-delay/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2021/01/21/148495a4-3240-4dc0-8427-641d12f7e7a7/thumbnail/1200x630/991e9902f84e80b7f0fe3aeb916af9b7/ap-18075519617702.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/kamala-harris-and-doug-emhoff-to-move-into-vice-presidents-residence-after-two-month-delay/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/kamala-harris-and-doug-emhoff-to-move-into-vice-presidents-residence-after-two-month-delay/",
+      "publishedDateTime": "2021-04-01T11:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-04-02-biden-only-wants-to-raise-taxes-on-the-wealthy-but-hes-misleading-families-with-400000-plus-income.md",
+      "title": "Biden only wants to raise taxes on the wealthy, but he's misleading families with $400,000-plus income",
+      "excerpt": "DOW S&P 500 NASDAQ 100 President Joe Biden has repeatedly hinged his massive spending plans on a series of tax hikes with the single rule that \"no one making under $400,000 will see their federal taxes go up.\" The assertion is true, depending on your ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/biden-infrastructure-400000-federal-tax-hike-murky-wealthy-americans-affected-2021-4",
+      "originalUrl": "https://www.businessinsider.com/biden-infrastructure-400000-federal-tax-hike-murky-wealthy-americans-affected-2021-4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6065e9f652f11d001943196a?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/biden-infrastructure-400000-federal-tax-hike-murky-wealthy-americans-affected-2021-4?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-infrastructure-400000-federal-tax-hike-murky-wealthy-americans-affected-2021-4?amp",
+      "publishedDateTime": "2021-04-01T10:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-04-01-kennedy-blasts-bidens-massive-spending-plans-moving-toward-the-china-model-of-capitalism.md",
+      "title": "Kennedy blasts Biden's massive spending plans: Moving toward the 'China model of capitalism'",
+      "excerpt": "Republican Louisiana Sen. John Kennedy told \"America's Newsroom\" on Thursday that the Biden administration's infrastructure plan is a \"bold-neo socialist experiment\" that is similar to the \"Chinese model of capitalism.\"",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/rTcl9v4xcFs/kennedy-biden-spending-china-neo-socialist-experiment-infrastructure",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/rTcl9v4xcFs/kennedy-biden-spending-china-neo-socialist-experiment-infrastructure",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/kennedy-biden-spending-china-neo-socialist-experiment-infrastructure.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kennedy-biden-spending-china-neo-socialist-experiment-infrastructure.amp",
+      "publishedDateTime": "2021-04-01T09:58:14-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-01-christian-pastor-claims-biden-surrounded-by-demonic-hedge-of-protection.md",
       "title": "Christian Pastor Claims Biden Surrounded By 'Demonic Hedge of Protection'",
       "excerpt": "Pastor Mario Murillo claimed this week that President Joe Biden is surrounded by a \"demonic hedge of protection,\" urging fellow Christians to pray for a \"powerful move of God\" to bring it down. \"War has been declared on your faith,\" Murillo said during the ...",
@@ -1194,161 +1354,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-new-documents-show-trump-officials-haphazard-and-ineffective-approach-to-procuring-ppe-at-start-of-pandemic-house-committee-says.md",
-      "title": "New documents show Trump officials' 'haphazard and ineffective' approach to procuring PPE at start of pandemic, House committee says ",
-      "excerpt": "The Democratic-led House select committee reviewing the federal response to Covid-19 says it obtained documents that show the Trump administration at the start of the pandemic crisis \"pursued a haphazard and ineffective approach to procurement\" of personal protective equipment and medical supplies.\n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FVDL7t-jvFY/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FVDL7t-jvFY/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/181019110142-01-capitol-building-file-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/31/politics/house-covid-committee-trump-administration-navarro-ppp/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/31/politics/house-covid-committee-trump-administration-navarro-ppp/index.html",
-      "publishedDateTime": "2021-03-31T07:40:55-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-quotes-from-bold-vision-to-dangerously-misguided-reactions-to-biden-infrastructure-plan.md",
-      "title": "QUOTES-From 'bold' vision to 'dangerously misguided' - reactions to Biden infrastructure plan",
-      "excerpt": "March 31 (Reuters) - U.S. President Joe Biden is asking Congress to pass a $2.3 trillion jobs and infrastructure plan that fixes roads and bridges and boosts social services like care for the elderly. To pay for it, Biden is seeking to raise corporate tax ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/usa-biden-infrastructure-reaction-idUSL1N2LT1TF",
-      "originalUrl": "https://www.reuters.com/article/usa-biden-infrastructure-reaction-idUSL1N2LT1TF",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL1N2LT1TF",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2LT1TF",
-      "publishedDateTime": "2021-03-31T07:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-facebook-removes-video-of-trump-interview-with-daughter-in-law-lara-trump.md",
-      "title": "Facebook removes video of Trump interview with daughter-in-law Lara Trump",
-      "excerpt": "Facebook removed a video of an interview with former President Trump conducted by his daughter-in-law Lara Trump, saying any content “in the voice of Donald Trump” would be scrubbed from the social media platform.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/PzqlRWb8SEU/facebook-removes-trump-interview-video-daughter-in-law-lara-trump",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/PzqlRWb8SEU/facebook-removes-trump-interview-video-daughter-in-law-lara-trump",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 274,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/facebook-removes-trump-interview-video-daughter-in-law-lara-trump.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/facebook-removes-trump-interview-video-daughter-in-law-lara-trump.amp",
-      "publishedDateTime": "2021-03-31T07:23:24-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

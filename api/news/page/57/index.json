@@ -2,6 +2,174 @@
   "page": 57,
   "value": [
     {
+      "path": "_news/2021-05-12-biden-signs-cybersecurity-executive-order-though-rules-wouldnt-have-applied-to-colonial-pipeline.md",
+      "title": "Biden signs cybersecurity executive order, though rules wouldn't have applied to Colonial Pipeline",
+      "excerpt": "President Joe Biden signed an executive order Wednesday meant to better protect the nation from cyberattacks, but even as he signed it, the White House acknowledged more will need to be done to prevent the type of hack that affected the Colonial Pipeline.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/12gzgGnLCC0/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/12gzgGnLCC0/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 181,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210512155902-04-pipeline-hack-fallout-0512-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/12/politics/cybersecurity-executive-order/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/12/politics/cybersecurity-executive-order/index.html",
+      "publishedDateTime": "2021-05-12T15:51:25-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-12-former-acting-defense-secretary-christopher-miller-walks-back-trump-blame-for-jan-6-riots.md",
+      "title": "Former acting Defense Secretary Christopher Miller walks back Trump blame for Jan. 6 riots",
+      "excerpt": "Former acting Secretary of Defense Christopher Miller said Tuesday during a hearing on the Jan. 6 riot he’d “reassessed” his previous evaluation that former President Trump’s speech that day had led to his supporters storming the Capitol.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/FnofpdG39B8/former-acting-defense-sec-christopher-miller-walks-back-trump-blame-for-jan-6-riots",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/FnofpdG39B8/former-acting-defense-sec-christopher-miller-walks-back-trump-blame-for-jan-6-riots",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 225,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/720/405/gettyimages-Christopher-miller.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/former-acting-defense-sec-christopher-miller-walks-back-trump-blame-for-jan-6-riots.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/former-acting-defense-sec-christopher-miller-walks-back-trump-blame-for-jan-6-riots.amp",
+      "publishedDateTime": "2021-05-12T15:10:47-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-12-biden-says-hes-not-supposed-to-be-answering-all-these-questions-when-pressed-by-reporters.md",
+      "title": "Biden says he's 'not supposed to be answering all these questions’ when pressed by reporters",
+      "excerpt": "President Biden said during remarks on coronavirus vaccinations that he was not “supposed” to be answering questions.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/wofl2ehUn40/biden-not-supposed-answering-questions",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/wofl2ehUn40/biden-not-supposed-answering-questions",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 184,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ff41d935-df1d-41dc-b594-777125163da2/7ff82d33-0633-4dd5-b547-58f186f9d8a0/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-not-supposed-answering-questions.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-not-supposed-answering-questions.amp",
+      "publishedDateTime": "2021-05-12T14:35:34-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-05-12-pelosi-says-biden-dems-want-big-bold-bipartisan-spending-bill.md",
       "title": "Pelosi says Biden, Dems want 'big, bold' bipartisan spending bill",
       "excerpt": "House Speaker Nancy Pelosi said she's feeling even more optimistic now about passing a \"big, bold\" spending bill this year after meeting with President Biden and congressional leadership at the White House.",
@@ -1158,153 +1326,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-05-11-donald-trump-endorses-texas-lt-gov-dan-patrick-for-reelection.md",
-      "title": "Donald Trump endorses Texas Lt. Gov. Dan Patrick for reelection",
-      "excerpt": "Former President Donald Trump endorsed Lt. Gov. Dan Patrick for reelection Monday, giving a top ally in Texas an early boost in his bid for a third term next year. \"Lieutenant Governor Dan Patrick is a great fighter for the people of Texas,",
-      "sourceUrl": null,
-      "webUrl": "https://www.chron.com/news/houston-texas/article/donald-trump-endorse-dan-patrick-16166069.php",
-      "originalUrl": "https://www.chron.com/news/houston-texas/article/donald-trump-endorse-dan-patrick-16166069.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.hdnux.com/photos/01/17/72/25/20948297/3/rawImage.jpg",
-          "width": 2048,
-          "height": 1366,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-10T16:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Houston Chronicle",
-        "domain": "chron.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-05-11-qanon-podcast-airs-bishop-larry-gaiters-outrageous-claim-of-bidens-satanic-sacrifice.md",
-      "title": "QAnon Podcast Airs Bishop Larry Gaiters' Outrageous Claim of Biden's 'Satanic Sacrifice'",
-      "excerpt": "Bishop Larry Gaiters, a far-right conservative host, has claimed that the deaths of Democratic President Joe Biden 's family members—including his first wife Neilia Biden, his daughter Naomi Biden and his eldest son Beau Biden—were all a \"satanic sacrifice\" to help him acquire political power.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/bishop-larry-gaiters-calls-death-bidens-wife-daughter-son-satanic-sacrifice-1590247",
-      "originalUrl": "https://www.newsweek.com/bishop-larry-gaiters-calls-death-bidens-wife-daughter-son-satanic-sacrifice-1590247",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1792698/neilia-naomi-beau-joe-biden-deaths-pastor.jpg",
-          "width": 3000,
-          "height": 2000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/bishop-larry-gaiters-calls-death-bidens-wife-daughter-son-satanic-sacrifice-1590247?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/bishop-larry-gaiters-calls-death-bidens-wife-daughter-son-satanic-sacrifice-1590247?amp=1",
-      "publishedDateTime": "2021-05-10T15:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-05-11-with-pope-francis-blessing-catholics-pressed-biden-white-house-to-waive-vaccine-patents.md",
-      "title": "With Pope Francis' blessing, Catholics pressed Biden White House to waive vaccine patents",
-      "excerpt": "When U.S. Trade Representative Katherine Tai announced Wednesday (May 5) that the White House would back efforts to suspend intellectual property rights for COVID-19 vaccines, it was a victory for Vatican officials and U.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/religion/with-pope-francis-blessing-catholics-pressed-biden-white-house-to-waive-vaccine-patents/2021/05/10/9b42159a-b1dd-11eb-bc96-fdf55de43bef_story.html",
-      "originalUrl": "https://www.washingtonpost.com/religion/with-pope-francis-blessing-catholics-pressed-biden-white-house-to-waive-vaccine-patents/2021/05/10/9b42159a-b1dd-11eb-bc96-fdf55de43bef_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-          "width": 1484,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/religion/with-pope-francis-blessing-catholics-pressed-biden-white-house-to-waive-vaccine-patents/2021/05/10/9b42159a-b1dd-11eb-bc96-fdf55de43bef_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/religion/with-pope-francis-blessing-catholics-pressed-biden-white-house-to-waive-vaccine-patents/2021/05/10/9b42159a-b1dd-11eb-bc96-fdf55de43bef_story.html?outputType=amp",
-      "publishedDateTime": "2021-05-10T14:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -2,6 +2,162 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2021-07-22-magacoin-pro-trump-cryptocurrency-attracts-over-1000-people-to-sign-up.md",
+      "title": "Magacoin: pro-Trump cryptocurrency attracts over 1,000 people to sign up",
+      "excerpt": "Magacoin bills itself as the ‘digital currency for the MAGA community’ but data from the site shows most of the cryptocurrency is allocated to its self-style creator",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/technology/2021/jul/22/magacoin-pro-trump-cryptocurrency-attracts-over-1000-people-to-sign-up",
+      "originalUrl": "https://www.theguardian.com/technology/2021/jul/22/magacoin-pro-trump-cryptocurrency-attracts-over-1000-people-to-sign-up",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/0e46fed6da68413c5f7caaac609651387515cc28/0_0_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=836d8c1b4ba05e075136a734df1aafc2",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/technology/2021/jul/22/magacoin-pro-trump-cryptocurrency-attracts-over-1000-people-to-sign-up",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2021/jul/22/magacoin-pro-trump-cryptocurrency-attracts-over-1000-people-to-sign-up",
+      "publishedDateTime": "2021-07-21T22:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-07-22-pelosi-bars-trump-allies-from-jan-6-probe-gop-vows-boycott.md",
+      "title": "Pelosi bars Trump allies from Jan. 6 probe; GOP vows boycott",
+      "excerpt": "House Speaker Nancy Pelosi is rejecting two Republicans tapped by House GOP leader Kevin McCarthy to sit on a committee investigating the Jan. 6 Capitol insurrection",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/pelosi-bars-trump-allies-jan-probe-gop-vows-78983176",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/pelosi-bars-trump-allies-jan-probe-gop-vows-78983176",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 425,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/WireAP_08c0f3dbff9944a7a4a9f9fb80897461_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/pelosi-bars-trump-allies-jan-probe-gop-vows-78983176",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/pelosi-bars-trump-allies-jan-probe-gop-vows-78983176",
+      "publishedDateTime": "2021-07-21T21:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-07-22-joe-biden-town-hall-in-cincinnati-heres-the-full-cnn-transcript.md",
+      "title": "Joe Biden town hall in Cincinnati: Here's the full CNN transcript",
+      "excerpt": "Transcript of the July 21, 2021 CNN town hall with President Joe Biden at Mount St. Joseph University in Delhi Township, Ohio DON LEMON, CNN HOST: Good evening, everyone. We are live in Cincinnati, Ohio,",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2021/07/21/joe-biden-cnn-town-hall-transcript/8051311002/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/07/21/joe-biden-cnn-town-hall-transcript/8051311002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 265,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/07/22/PCIN/5d848fd6-8ebf-4f8c-b9b8-e8bdafae7a84-AP21203038237183.jpg?auto=webp&crop=1023,576,x0,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/8051311002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/8051311002",
+      "publishedDateTime": "2021-07-21T19:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-07-22-biden-the-first-time-they-played-hail-to-the-chief-i-asked-where-is-he.md",
       "title": "Biden: The first time they played 'Hail to the Chief' I asked, 'Where is he?'",
       "excerpt": "Joe Biden quipped Wednesday evening that the first time he heard \"Hail to the Chief\" as President he asked, \"Where is he?\"\n    \n",
@@ -1191,161 +1347,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-20-animatronic-joe-biden-joins-hall-of-presidents-at-walt-disney-worlds-magic-kingdom.md",
-      "title": "Animatronic Joe Biden joins Hall of Presidents at Walt Disney World's Magic Kingdom",
-      "excerpt": "Former President Donald Trump's animatronic replica is being moved to another spot in the Hall of Presidents at Walt Disney World.",
-      "sourceUrl": null,
-      "webUrl": "https://www.indystar.com/story/travel/experience/america/theme-parks/2021/07/20/disney-world-hall-presidents-animatronic-joe-biden-magic-kingdom/8027480002/",
-      "originalUrl": "https://www.indystar.com/story/travel/experience/america/theme-parks/2021/07/20/disney-world-hall-presidents-animatronic-joe-biden-magic-kingdom/8027480002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/07/20/USAT/f8066b3b-85a5-4980-adfe-2d6ad08c74d2-hop3498765902898354923423984.jpeg?auto=webp&crop=899,506,x0,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.indystar.com/amp/8027480002",
-      "cdnAmpWebUrl": "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/8027480002",
-      "publishedDateTime": "2021-07-20T09:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indianapolis Star",
-        "domain": "indystar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-07-20-weve-come-up-against-the-brick-wall-southwest-ohio-fights-vaccine-hesitancy-ahead-of-biden-town-hall.md",
-      "title": "'We've come up against the brick wall': Southwest Ohio fights vaccine hesitancy ahead of Biden town hall",
-      "excerpt": "Dena Cranley and Barbara Lynch have a blunt reality check for President Joe Biden: His repeated pleas for vaccinations are going largely unheeded and unheard.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/LIOXc7IZP18/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/LIOXc7IZP18/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 158,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210528111827-kroger-vaccine-file-restricted-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/20/politics/vaccine-hesitancy-cincinnati-ohio/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/20/politics/vaccine-hesitancy-cincinnati-ohio/index.html",
-      "publishedDateTime": "2021-07-20T06:37:08-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-20-biden-to-focus-on-covid-19-infrastructure-climate-and-cybersecurity-at-cabinet-meeting.md",
-      "title": "Biden to focus on Covid-19, infrastructure, climate and cybersecurity at Cabinet meeting",
-      "excerpt": "President Joe Biden is holding his second full Cabinet meeting on Tuesday to mark six months in office, and is expected to focus the discussion on Covid-19, infrastructure, climate and cybersecurity, a White House official tells CNN.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RbhedwxEROg/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RbhedwxEROg/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 186,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210719124237-02-biden-economy-remarks-0719-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/20/politics/biden-cabinet-meeting/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/20/politics/biden-cabinet-meeting/index.html",
-      "publishedDateTime": "2021-07-20T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

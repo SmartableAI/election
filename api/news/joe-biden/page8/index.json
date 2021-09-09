@@ -2,6 +2,58 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-06-11-biden-administration-restores-929-mln-for-california-high-speed-rail.md",
+      "title": "Biden administration restores $929 mln for California high speed rail",
+      "excerpt": "U.S. President Joe Biden's administration and California on Thursday reached a settlement to restore a $929 million grant agreement that former president Donald Trump tried to revoke.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/usa-rail-california/biden-administration-restores-929-mln-for-california-high-speed-rail-idUSL3N2NT138",
+      "originalUrl": "https://www.reuters.com/article/usa-rail-california/biden-administration-restores-929-mln-for-california-high-speed-rail-idUSL3N2NT138",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 225,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20210611&t=2&i=1565317703&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH5A0AE",
+          "width": 792,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKCN2DN0DY",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2DN0DY",
+      "publishedDateTime": "2021-06-10T22:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-06-11-how-bidenland-is-courting-joe-manchin-with-house-boat-dinners-millions-of-dollars-in-grants-and-west-virginia-visits.md",
       "title": "How BidenLand is courting Joe Manchin with house boat dinners, millions of dollars in grants, and West Virginia visits",
       "excerpt": "The conservative Democrat continues to play hard-to-get as the White House seeks his crucial vote to move Biden's priorities.",
@@ -1531,58 +1583,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-05-29-bidens-6-trillion-budget-dropped-key-campaign-promises-on-student-debt-cancellation-and-healthcare-reform.md",
-      "title": "Biden's $6 trillion budget dropped key campaign promises on student debt cancellation and healthcare reform",
-      "excerpt": "The White House budget blueprint is focused on infrastructure plans already on the table, which include cash payments for parents and universal pre-K.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/bidens-budget-campaign-promises-student-debt-and-healthcare-reform-2021-5",
-      "originalUrl": "https://www.businessinsider.com/bidens-budget-campaign-promises-student-debt-and-healthcare-reform-2021-5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/609c3d3a6a3ce80019e04192?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/bidens-budget-campaign-promises-student-debt-and-healthcare-reform-2021-5?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/bidens-budget-campaign-promises-student-debt-and-healthcare-reform-2021-5?amp",
-      "publishedDateTime": "2021-05-28T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -164,20 +164,20 @@ related:
         height: 336
         isCached: true
   - title: "Former President Trump to serve as boxing commentator"
-    excerpt: "Former President Donald Trump is scheduled to provide commentary from ringside Saturday for an exhibition boxing card headlined by 58-year-old former heavyweight champion Evander Holyfield."
-    publishedDateTime: 2021-09-08T21:49:00Z
-    webUrl: "https://www.denverpost.com/2021/09/08/former-president-trump-boxing-commentator/"
-    ampWebUrl: "https://www.denverpost.com/2021/09/08/former-president-trump-boxing-commentator/amp/"
-    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2021/09/08/former-president-trump-boxing-commentator/amp/"
+    excerpt: "Former President Donald Trump is scheduled to provide commentary from ringside Saturday for an exhibition boxing card headlined by 58-year-old former heavyweight champion Evander Holyfield. Trump will be joined by his son,"
+    publishedDateTime: 2021-09-09T03:17:00Z
+    webUrl: "https://www.seattlepi.com/sports/article/Former-President-Trump-to-serve-as-boxing-16444248.php"
+    ampWebUrl: "https://www.seattlepi.com/sports/amp/Former-President-Trump-to-serve-as-boxing-16444248.php"
+    cdnAmpWebUrl: "https://www-seattlepi-com.cdn.ampproject.org/c/s/www.seattlepi.com/sports/amp/Former-President-Trump-to-serve-as-boxing-16444248.php"
     type: article
     provider:
-      name: The Denver Post
-      domain: denverpost.com
+      name: seattlepi.com
+      domain: seattlepi.com
     quality: 75
     images:
-      - url: "https://www.denverpost.com/wp-content/uploads/2021/09/AP21251549466117.jpg?w=1024&#038;h=683"
-        width: 1024
-        height: 683
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
   - title: "Republican Donors Show Disinterest In Trump 2024 Campaign, Focus On Midterms"
     excerpt: "Top Republican Party donors have pushed back on fundraising for former President Donald Trump’s potential 2024 campaign and are instead focused on the 2022 midterm elections, CNBC reported Tuesday. Almost immediately after leaving the White House in January,"

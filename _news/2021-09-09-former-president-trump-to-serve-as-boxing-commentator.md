@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Former President Trump to serve as boxing commentator"
-excerpt: "Former President Donald Trump is scheduled to provide commentary from ringside Saturday for an exhibition boxing card headlined by 58-year-old former heavyweight champion Evander Holyfield."
-publishedDateTime: 2021-09-08T21:49:00Z
-originalUrl: "https://www.denverpost.com/2021/09/08/former-president-trump-boxing-commentator/"
-webUrl: "https://www.denverpost.com/2021/09/08/former-president-trump-boxing-commentator/"
-ampWebUrl: "https://www.denverpost.com/2021/09/08/former-president-trump-boxing-commentator/amp/"
-cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2021/09/08/former-president-trump-boxing-commentator/amp/"
+excerpt: "Former President Donald Trump is scheduled to provide commentary from ringside Saturday for an exhibition boxing card headlined by 58-year-old former heavyweight champion Evander Holyfield. Trump will be joined by his son,"
+publishedDateTime: 2021-09-09T03:17:00Z
+originalUrl: "https://www.seattlepi.com/sports/article/Former-President-Trump-to-serve-as-boxing-16444248.php"
+webUrl: "https://www.seattlepi.com/sports/article/Former-President-Trump-to-serve-as-boxing-16444248.php"
+ampWebUrl: "https://www.seattlepi.com/sports/amp/Former-President-Trump-to-serve-as-boxing-16444248.php"
+cdnAmpWebUrl: "https://www-seattlepi-com.cdn.ampproject.org/c/s/www.seattlepi.com/sports/amp/Former-President-Trump-to-serve-as-boxing-16444248.php"
 type: article
 quality: 75
 heat: -1
 published: false
 
 provider:
-  name: The Denver Post
-  domain: denverpost.com
+  name: seattlepi.com
+  domain: seattlepi.com
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://www.denverpost.com/wp-content/uploads/2021/09/AP21251549466117.jpg?w=1024&#038;h=683"
-    width: 1024
-    height: 683
+  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+    width: 600
+    height: 336
     isCached: true
 
 related:
@@ -244,6 +244,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "sVx29dlTa5Xk7/w3hESBiuDkn1N0NM4yZy15EB/FtfmoT2aUnk9E7TJXxhutXCPnA8MFjoyQ4Vu7eRE/EEG3QX0cCcqhJNBlYGspTMRZCTT49+peggU/zY/oRZqt/dP5iz07+A06XoVNYeuTVCRU2qG3k+FKdbAp7RyDpTPgy+fyFQJ99NxlFjxzHzuuue0CtbF6loITWptTTNlxjgnNfLeJPoqA98FHCqIPg+dJVOKmO4CMrzZW0VrskN3ZXEnuNACFPBuWFIVTe3bpguWliUakEKlN/5IoUsR/plalAtnjfBI6xOfZamO+GqqdImz6q+krJAL+uVZQdfQIqgnBEJLPYgdIHgJp5TRNkfMPWdkXnxze/Wk/lZNzvll3+0l7zKouYBiea2nI175gGwknMC6b4Y28t3uII7ciSwhQwOTivZUtw23OaLZPl+KDQ5i5vUK8U1cNWfiJkpf1SB+UnhSfjeiP3qMSnHK87dw/CsqgJgwyM+xnOBwvhRQdqPKlTIjCXAm2PQAS+UvhHxUA7A==;Yj6+jKNpptzvJ9mINbzJEA=="
+secured: "d3lIQsd8mwbKMDySLrP2ODS1tNMiHxUg+r2yw9kFTyYI3WQ04wtUL8OqS6+KbwpJUcsaIeqILXVImbdpEiOHKXxl4aoat6+kG8weApbBgYzt72HExoKBZVPVa+B2PY4vvl1xB4qSSw4KmGtZhZA8q5WWDqu2u+eAkXdhqYreWZ/+eZqVKDUfnCM8ERrXlQvkpL1aS6pcIgsy+qFuphCZy5kemwiU5qSaf/ItpR/vqm9PJ9kS1d8A9cIxP5X5bSAHQK9dwgiswOzjRJvo2dE3tVS3JoWJdm1tVZ1lnAWQvTNWdQPlHSBjqPR8Jk36tqFRAM3bCbpKbX09nTq3WjbWq7HB9G/axHd7e7hhswimEwaM8jFKDlG3RhNBIffhQe24GTaNySw4Wq/D0vHom35XYOPrm6gQajzlAJoUneHGia8lqL1Yc9C8aRDQQQz7XTpW9VQh+if8R2Lyx/5732wZh6z45TFdr6ZpL8uWFucPN+InJKt12yFrLWwvq5RjKoMVaAYxS2MzvdAcuUnyLLhXKQ==;gc7z7eWWz4iCraIYjH2o4g=="
 ---
 
