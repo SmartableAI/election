@@ -83,6 +83,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Kamala Harris says Texas Gov. Greg Abbott's comments on rape were 'fueled with not only arrogance but bravado'"
+    excerpt: "\"To arrogantly dismiss concerns about rape survivors ... that is not who we want in our leaders,\" Harris said while campaigning for Gov. Gavin Newsom."
+    publishedDateTime: 2021-09-08T20:50:00Z
+    webUrl: "https://www.businessinsider.com/harris-abbott-comments-on-rape-filled-with-arrogance-and-bravado-2021-9"
+    ampWebUrl: "https://www.businessinsider.com/harris-abbott-comments-on-rape-filled-with-arrogance-and-bravado-2021-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/harris-abbott-comments-on-rape-filled-with-arrogance-and-bravado-2021-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+    images:
+      - url: "https://i.insider.com/61391a1beedea900193db0f6?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Fact Check-Kamala Harris Central America policy fact sheet screenshot stripped of context"
     excerpt: "Posts are misinterpreting a fact sheet for one of U.S. Vice President Kamala Harris’ Central America policy initiatives and claiming that it is simply an advertisement for Chobani, a company known for selling yogurt products."
     publishedDateTime: 2021-07-16T13:20:00Z

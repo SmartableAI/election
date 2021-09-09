@@ -727,6 +727,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Kamala Harris rallies voters against Republican threat from Newsom recall"
+    excerpt: "Vice President Kamala Harris flew into the Bay Area on Wednesday to headline a rally for Gov. Gavin Newsom, urging voters to reject the effort to recall him or risk seeing Republicans try the same tactic against Democratic leaders across the country."
+    publishedDateTime: 2021-09-09T03:08:00Z
+    webUrl: "https://www.sfchronicle.com/politics/article/Kamala-Harris-rallies-voters-against-Republican-16444212.php"
+    ampWebUrl: "https://www.sfchronicle.com/politics/amp/Kamala-Harris-rallies-voters-against-Republican-16444212.php"
+    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/politics/amp/Kamala-Harris-rallies-voters-against-Republican-16444212.php"
+    type: article
+    provider:
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 74
+    images:
+      - url: "https://s.hdnux.com/photos/01/21/62/73/21442274/15/400x0.jpg"
+        width: 400
+        height: 266
+        isCached: true
   - title: "Kamala Harris lists Washington D.C. condo for $2M | Raleigh News & Observer"
     excerpt: "Vice President Kamala Harris has been busy. After being sworn into office in January, she’s sold off her one-bedroom, two-bath San Francisco condo and now, her Washington D.C. apartment is availablefor grabs for $1."
     publishedDateTime: 2021-04-07T21:49:00Z
@@ -742,6 +758,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557042001/75ceb1d7-a5a3-4961-8c83-2b3404a46dd8/9d687cd6-0c4d-497e-8ef9-d8a747f3297a/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Recall election: Kamala Harris holds up Texas as a warning to fire up Dems to vote ‘No’ on Newsom recall"
+    excerpt: "The vice president made a stop Wednesday in the Bay Area in a bid to mobilize Democrats to vote against the recall. “They think if they can win in California, they can do this"
+    publishedDateTime: 2021-09-08T18:41:00Z
+    webUrl: "https://www.eastbaytimes.com/2021/09/08/recall-election-vice-president-kamala-harris-campaigns-for-newsom-in-east-bay/"
+    ampWebUrl: "https://www.eastbaytimes.com/2021/09/08/recall-election-vice-president-kamala-harris-campaigns-for-newsom-in-east-bay/amp/"
+    cdnAmpWebUrl: "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2021/09/08/recall-election-vice-president-kamala-harris-campaigns-for-newsom-in-east-bay/amp/"
+    type: article
+    provider:
+      name: East Bay Times
+      domain: eastbaytimes.com
+    quality: 73
+    images:
+      - url: "https://www.eastbaytimes.com/wp-content/uploads/2021/09/SJM-L-KAMALA-0909-2-2.jpg?w=1024&#038;h=683"
+        width: 1024
+        height: 683
         isCached: true
   - title: "VP Kamala Harris, HHS open drive to inspire Americans to take COVID-19 vaccine"
     excerpt: "RELATED Pfizer says COVID-19 vaccine 91% effective after 6 months As part of the launch, Vice President Kamala Harris and Surgeon General Vivek Murthy met with founding members on Thursday. The campaign will include public health experts such as the ..."

@@ -404,6 +404,20 @@ related:
         width: 600
         height: 386
         isCached: true
+  - title: "Praising labor, Biden touts his infrastructure plan"
+    excerpt: "Two days after the national holiday that recognizes labor, President Joe Biden praised the movement for its contributions to increasing the prosperity of American workers. (Sept. 8)"
+    publishedDateTime: 2021-09-09T03:28:00Z
+    webUrl: "https://www.freep.com/videos/news/nation/2021/09/09/praising-labor-biden-touts-his-infrastructure-plan/5781005001/"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 55
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/73bd935f-b088-4ade-bb78-e2363162ce8e_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "VP Kamala Harris slams China right on their doorstep – here’s what she said"
     excerpt: "During her visit to Singapore on Tuesday, Vice President Kamala Harris railed against China for coercing and intimidating countries in the South China Sea. 'We know that Beijing continues to coerce, to intimidate,"
     publishedDateTime: 2021-08-25T17:42:00Z

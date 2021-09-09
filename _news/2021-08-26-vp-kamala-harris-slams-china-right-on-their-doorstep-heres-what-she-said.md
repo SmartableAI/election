@@ -417,6 +417,20 @@ related:
         width: 600
         height: 386
         isCached: true
+  - title: "Praising labor, Biden touts his infrastructure plan"
+    excerpt: "Two days after the national holiday that recognizes labor, President Joe Biden praised the movement for its contributions to increasing the prosperity of American workers. (Sept. 8)"
+    publishedDateTime: 2021-09-09T03:28:00Z
+    webUrl: "https://www.freep.com/videos/news/nation/2021/09/09/praising-labor-biden-touts-his-infrastructure-plan/5781005001/"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 55
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/73bd935f-b088-4ade-bb78-e2363162ce8e_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "For Biden’s presidency has been driven by crisis and is the ‘loneliest job’"
     excerpt: "President Biden wore the weight of a lonely man as he came to grips in recent days with the deadly end of the American effort in Afghanistan, even as he and the nation continued to battle the COVID-19 pandemic."
     publishedDateTime: 2021-08-28T13:24:00Z

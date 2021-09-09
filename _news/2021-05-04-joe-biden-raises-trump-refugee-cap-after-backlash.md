@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/world-us-canada-56975402.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-56975402.amp"
 type: article
 quality: 150
-heat: 4070
+heat: 4090
 published: true
 
 provider:
@@ -2260,6 +2260,22 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/GZPDBGYIWNBH3BLQX4LOLG5CJA.jpg"
         width: 5297
         height: 3531
+        isCached: true
+  - title: "Biden admin. ousts Trump appointees from military academy advisory boards"
+    excerpt: "The Biden administration on Wednesday removed multiple appointees to military advisory boards by former President Donald Trump."
+    publishedDateTime: 2021-09-09T03:23:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2021/09/08/Biden-administration-ousts-Trump-appointees-to-military-academy-advisory-boards/8001631152909/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/09/08/Biden-administration-ousts-Trump-appointees-to-military-academy-advisory-boards/8001631152909/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/09/08/Biden-administration-ousts-Trump-appointees-to-military-academy-advisory-boards/8001631152909/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 89
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/8001631152909/2021/1/fe5a45242825ac9901c630dcfcae0267/v1.5/Biden-admin-ousts-Trump-appointees-from-military-academy-advisory-boards.jpg"
+        width: 800
+        height: 532
         isCached: true
   - title: "Biden administration considers reinstating car regulations slashed by Trump"
     excerpt: "The National Highway Administration is considering reinstating regulations slashed in the last days of the Trump administration."
