@@ -2,6 +2,267 @@
   "page": 80,
   "value": [
     {
+      "path": "_news/2021-03-31-court-lets-ex-apprentice-contestants-defamation-suit-vs-trump-proceed-again.md",
+      "title": "Court lets ex-'Apprentice' contestant's defamation suit vs. Trump proceed again",
+      "excerpt": "NEW YORK — Former President Donald Trump could face questioning under oath about a former “Apprentice” contestant's sexual assault allegations against him, following a ruling from New York's highest court Tuesday. Evidence-gathering has been on hold ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/donald-trump/court-lets-ex-apprentice-contestant-s-defamation-suit-vs-trump-n1262494",
+      "originalUrl": "https://www.nbcnews.com/politics/donald-trump/court-lets-ex-apprentice-contestant-s-defamation-suit-vs-trump-n1262494",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.s-nbcnews.com/i/newscms/2021_13/3460820/210330-summer-zervos-jm-1439_7f50bec42ce1680f710a53fe0880bf1c.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1262494",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1262494",
+      "publishedDateTime": "2021-03-30T11:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-31-biden-judicial-nominee-would-be-first-muslim-federal-judge-in-us-history.md",
+      "title": "Biden judicial nominee would be first Muslim federal judge in US history",
+      "excerpt": "Some Republicans, meanwhile, have broadly criticized Biden's nominees. \"It's payback time -- we know that liberal dark money organizations spent millions of dollars to put President Joe Biden in the White House in terms of contributing to his campaign.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/politics/biden-judicial-nominee-first-muslim-federal-judge-us-history",
+      "originalUrl": "https://www.foxnews.com/politics/biden-judicial-nominee-first-muslim-federal-judge-us-history",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/04/640/320/joe-biden-AP.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-judicial-nominee-first-muslim-federal-judge-us-history.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-judicial-nominee-first-muslim-federal-judge-us-history.amp",
+      "publishedDateTime": "2021-03-30T11:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-31-former-pence-chief-of-staff-says-he-would-not-be-advocating-for-tax-increases-right-now.md",
+      "title": "Former Pence chief of staff says he would not be advocating for tax increases right now",
+      "excerpt": "Marc Short, former chief of staff to Vice President Mike Pence, discusses the proposed Biden tax hikes. Got a confidential news tip? We want to hear from you. Sign up for free newsletters and get more CNBC delivered to your inbox Get this delivered to your ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/video/2021/03/30/former-pence-chief-of-staff-says-he-would-not-be-advocating-for-tax-increases-right-now.html",
+      "originalUrl": "https://www.cnbc.com/video/2021/03/30/former-pence-chief-of-staff-says-he-would-not-be-advocating-for-tax-increases-right-now.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106861725-16171322901617132282-15111908872-1080pnbcnews.jpg?v=1617132289",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-30T11:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-03-31-donald-trump-uses-new-website-to-rewrite-history-of-his-presidency.md",
+      "title": "Donald Trump uses new website to rewrite history of his presidency",
+      "excerpt": "Narrative omits two impeachments, economic crash, Covid death toll and riot that marked end of his term Last modified on Tue 30 Mar 2021 15.23 EDT Donald Trump has launched a new website celebrating his time as US president that includes a very selective ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/mar/30/donald-trump-uses-new-website-rewrite-history-presidency",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/mar/30/donald-trump-uses-new-website-rewrite-history-presidency",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 425,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/4146d99f233c90973e78cde7b63a6c6c5a1791c9/0_78_3782_2271/master/3782.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ff3ad7f46a5f42688e61518116702f35",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/mar/30/donald-trump-uses-new-website-rewrite-history-presidency",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/30/donald-trump-uses-new-website-rewrite-history-presidency",
+      "publishedDateTime": "2021-03-30T11:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-03-31-pence-emerges-lays-groundwork-for-2024-white-house-run.md",
+      "title": "Pence emerges, lays groundwork for 2024 White House run",
+      "excerpt": "New York City Mayor Bill de Blasio called the video of the attack “absolutely disgusting and outrageous” and said it was “absolutely unacceptable” that witnesses did not",
+      "sourceUrl": null,
+      "webUrl": "https://www.mercurynews.com/2021/03/30/pence-emerges-lays-groundwork-for-2024-white-house-run/",
+      "originalUrl": "https://www.mercurynews.com/2021/03/30/pence-emerges-lays-groundwork-for-2024-white-house-run/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mercurynews.com/wp-content/uploads/2021/03/sjm-937101.jpg?w=1024&h=683",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.mercurynews.com/2021/03/30/pence-emerges-lays-groundwork-for-2024-white-house-run/amp/",
+      "cdnAmpWebUrl": "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/03/30/pence-emerges-lays-groundwork-for-2024-white-house-run/amp/",
+      "publishedDateTime": "2021-03-30T11:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mercury News",
+        "domain": "mercurynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-03-31-the-latest-trump-blasts-fauci-and-birx-as-self-promoters.md",
       "title": "The Latest: Trump blasts Fauci and Birx as ‘self-promoters’",
       "excerpt": "WASHINGTON — Former President Donald Trump is slamming two of his most prominent coronavirus advisers. He says Dr. Anthony Fauci and Dr. Deborah Birx are “two self-promoters trying to reinvent history.” Fauci is the chief medical adviser to President ...",

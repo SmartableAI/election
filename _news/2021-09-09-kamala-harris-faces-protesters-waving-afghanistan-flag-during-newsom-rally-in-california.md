@@ -2,13 +2,13 @@
 category: news
 title: "Kamala Harris faces protesters waving Afghanistan flag during Newsom rally in California"
 excerpt: "Vice President Kamala Harris was on mostly friendly ground in her native California on Wednesday as she campaigned for embattled Gov. Gavin Newsom, who faces a recall election next week. But that didn’t mean Harris fully escaped any criticism of her time in office."
-publishedDateTime: 2021-09-09T03:15:23Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/uW3A4XtsPdU/kamala-harris-protesters-afghanistan-newsom-rally-california"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/uW3A4XtsPdU/kamala-harris-protesters-afghanistan-newsom-rally-california"
+publishedDateTime: 2021-09-09T07:29:00Z
+originalUrl: "https://www.foxnews.com/politics/kamala-harris-protesters-afghanistan-newsom-rally-california"
+webUrl: "https://www.foxnews.com/politics/kamala-harris-protesters-afghanistan-newsom-rally-california"
 ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-protesters-afghanistan-newsom-rally-california.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-protesters-afghanistan-newsom-rally-california.amp"
 type: article
-quality: 176
+quality: 126
 heat: -1
 published: false
 
@@ -22,8 +22,8 @@ provider:
 
 topics:
   - Election
-  - Republican Voice
   - Kamala Harris
+  - Republican Voice
 
 images:
   - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/93b2ece7-0289-4644-a183-0a18365e3ea9/1bce33fa-c674-40fa-825c-57efc9148214/1280x720/match/720/405/image.jpg?ve=1&tl=1"
@@ -32,37 +32,117 @@ images:
     isCached: true
 
 related:
-  - title: "Harris accuses Texas Gov. Abbott of 'arrogantly' dismissing rape victims"
-    excerpt: "Vice President Kamala Harris opened up a speech supporting California Gov. Gavin Newsom against a recall effort by slamming Texas Gov. Greg Abbott and his state’s newly enacted law restricting abortions."
-    publishedDateTime: 2021-09-08T22:13:01Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XPudeoBAzzE/harris-slams-abbott-at-pro-newsom-rally-accuses-him-of-arrogantly-dismissing-rape-victims"
-    ampWebUrl: "https://www.foxnews.com/politics/harris-slams-abbott-at-pro-newsom-rally-accuses-him-of-arrogantly-dismissing-rape-victims.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-slams-abbott-at-pro-newsom-rally-accuses-him-of-arrogantly-dismissing-rape-victims.amp"
+  - title: "Harris to campaign for Gov. Gavin Newsom in California after Vietnam, Singapore trip"
+    excerpt: "Vice President Kamala Harris will be making a campaign pit-stop in California next week to support Gov. Gavin Newsom in his race to overcome the recall election."
+    publishedDateTime: 2021-08-21T01:10:57Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ty3BtETzYUg/harris-to-campaign-for-newsom-in-california-after-vietnam-singapore-trip"
+    ampWebUrl: "https://www.foxnews.com/politics/harris-to-campaign-for-newsom-in-california-after-vietnam-singapore-trip.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-to-campaign-for-newsom-in-california-after-vietnam-singapore-trip.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 184
+    quality: 178
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/de97b5d5-9a48-4839-a8a4-d085340888e6/151303eb-e6ed-45a1-867c-254e4a3a3838/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8495bcff-9b88-4652-a881-c8b9c0e8662d/db7b172a-bb2e-43bc-b3a6-5ac1f6dcf567/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
-  - title: "Harris to campaign for Newsom in California next week"
-    excerpt: "Vice President Kamala Harris will campaign for California Gov. Gavin Newsom as his recall election looms two weeks away."
-    publishedDateTime: 2021-09-04T21:31:06Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8xXIRKZE8_o/harris-to-campaign-for-newsom-in-california-next-week"
+  - title: "Kamala Harris' plane from Singapore delayed over possible 'Havana syndrome' incident"
+    excerpt: "Vice President Kamala Harris’ plane was delayed in Singapore on Tuesday for three hours after a possible case of the mysterious \"Havana syndrome.\""
+    publishedDateTime: 2021-08-24T16:03:26Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-G5VtDs4TmM/kamala-harris-plane-singapore-delayed-possible-havana-syndrome"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-plane-singapore-delayed-possible-havana-syndrome.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-plane-singapore-delayed-possible-havana-syndrome.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 165
+    quality: 178
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/06/KAMALAHARRIS-BORDER-TRUMPVISIT.jpg"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/08/340/340/jacqui-heinrich-headshot.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Kamala Harris to travel to Vietnam, Singapore next month amid China tensions, US border crisis"
+    excerpt: "Vice President Kamala Harris has another big trip ahead – but it won't be a return visit to the U.S.-Mexico border."
+    publishedDateTime: 2021-07-31T05:14:41Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rZ4nafHqb1s/kamala-harris-vietnam-singapore-china-tensions-border-migrant-crisis"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-vietnam-singapore-china-tensions-border-migrant-crisis.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-vietnam-singapore-china-tensions-border-migrant-crisis.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1598a130-2526-4c35-96e5-9a43f8e5205e/ac2e8573-7c88-43b6-98fc-9fd51511f45b/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "RNC hammers Harris for campaigning for Newsom while Californians are stranded in Afghanistan"
+    excerpt: "The ads hold nothing back ripping into the vice president as she galavants around California with the embattled governor."
+    publishedDateTime: 2021-09-08T21:00:04Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/G5xDm2pctJs/rnc-hammers-harris-campaigning-newsom-afghanistan"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 154
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/08/GettyImages-1233448858.jpg"
         width: 1280
         height: 720
         isCached: true
+  - title: "Kamala Harris’ flight to Vietnam delayed by possible ‘Havana syndrome’ case"
+    excerpt: "Vice President Kamala Harris’ flight from Singapore to Vietnam had to be pushed back several hours Tuesday over a possible “Havana syndrome” case."
+    publishedDateTime: 2021-08-24T17:04:00Z
+    webUrl: "https://nypost.com/2021/08/24/kamala-harris-vietnam-flight-delayed-by-possible-havana-syndrome/"
+    ampWebUrl: "https://nypost.com/2021/08/24/kamala-harris-vietnam-flight-delayed-by-possible-havana-syndrome/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/24/kamala-harris-vietnam-flight-delayed-by-possible-havana-syndrome/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 133
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/harris-singapore-034.jpg?quality=90&strip=all&w=1024"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "VP Harris heading to California to boost Gavin Newsom ahead of recall vote"
+    excerpt: "Vice President Kamala Harris will hit the campaign trail next week alongside embattled California Gov. Gavin Newsom."
+    publishedDateTime: 2021-09-05T01:16:00Z
+    webUrl: "https://nypost.com/2021/09/04/vp-harris-heading-to-california-to-boost-gavin-newsom-ahead-of-recall-vote/"
+    ampWebUrl: "https://nypost.com/2021/09/04/vp-harris-heading-to-california-to-boost-gavin-newsom-ahead-of-recall-vote/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/09/04/vp-harris-heading-to-california-to-boost-gavin-newsom-ahead-of-recall-vote/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 133
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/09/Gavin-Newsom-136.jpg?quality=90&strip=all&w=1024"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "Kamala Harris’ flight to Vietnam delayed by possible ‘Havana Syndrome’ cases"
+    excerpt: "Vice President Kamala Harris’ flight from Singapore to Vietnam had to be pushed back several hours Tuesday over a possible “Havana syndrome” case."
+    publishedDateTime: 2021-08-24T17:18:00Z
+    webUrl: "https://nypost.com/2021/08/24/kamala-harris-vietnam-flight-delayed-by-possible-havana-syndrome/"
+    ampWebUrl: "https://nypost.com/2021/08/24/kamala-harris-vietnam-flight-delayed-by-possible-havana-syndrome/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/24/kamala-harris-vietnam-flight-delayed-by-possible-havana-syndrome/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 132
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/harris-singapore-034.jpg?quality=90&strip=all&w=1024"
+        width: 1024
+        height: 682
+        isCached: true
 
-secured: "muLYBdUVDiEWGPBdmgp6W65r8EBpPBeDhszEHwPiGkeXGAOwLKZWSVGi5l6OmeEkqZ8s8gi50/svmYQ/04EV3XyOxqR3Dziek9NIwGzvULi0Tl5fioEAynUHzZIhtoyEOKP/Y7igTqNOZHAcwtS25OC+00AjHCMsWORwaLydjqPhRDyCidvIrulw8BWO+7R+0bHdto09SPTV4k17cllSpxpkporrjj8WnY5ho29CyavY/EJM83JtxrVVlvUp2X1T7xLZfs2VGrAOGIHHvP9PbwEzPIXGsUHQBj9oFrU3u7CmKxaL9jNE0ISfW0yJprvYTjEGbDJrM8XUSbamGunDylZjhj8PP64fVl5laux+QHc=;/vVvmNSA91pHAydR5t2y5w=="
+secured: "pWXDPpvcPKsO2wZ3/Dty32OKSknlVmF+079YHO9U4uX5Wc11tn/cyAf8uNveuhN3UOWJzz79C2StnEE52J9H7tEZfyYLRgWtS7jGyRBTOwFJ8s+cknF9ie5Lq9TULaobqUNgqDN/+278ifQvZTDDU9ub52ki55GRzcMC7ezHgSPoCe0BEedBVoUscbUeVUha5+DaLGRKTKdQ7pArYZpACGiwu9LDXeWxLj4ti4aCHix2Iz48c1DiKsDCs6+xKfNMyGbstlAv950ORluUbRPB9oFM+FZelEUOx2+PUoC60OghZ8toAn1X1sv9zcQt4+QwTxCOvVkUm24Zo4pUbKMcK6EU2HRPelVZPk9egrWHnXiQNfLDnAI35cXGq/SI6Ahuesni9IOdinyaYIDWuOwwa33PkBV3N9B0LjQfOyUm1AHOvvUPEovnX0HG3zWg5hZigPsU0CoWYFVyeD7YmEBR4OAVD9KZSPeDGYWqbdOLOXUdSuQdpoVEi6uhjtRopVi930pYdUBrYTQx9lCQpAbk8g==;FwYs3iKBR8eJN3s3w7QsNA=="
 ---
 

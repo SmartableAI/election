@@ -2,6 +2,120 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-06-10-rep-smith-challenges-biden-budget-director-on-absolutely-absurd-use-of-term-birthing-people.md",
+      "title": "Rep. Smith challenges Biden budget director on 'absolutely absurd' use of term ‘birthing people’",
+      "excerpt": "Mo., on Thursday ripped President Biden’s acting Office of Management and Budget director for defending the move to replace the term woman with “birthing people” during a House hearing yesterday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/biden-budget-birthing-people-woman-jason-smith-hearing",
+      "originalUrl": "https://www.foxnews.com/media/biden-budget-birthing-people-woman-jason-smith-hearing",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/biden-budget-birthing-people-woman-jason-smith-hearing.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/biden-budget-birthing-people-woman-jason-smith-hearing.amp",
+      "publishedDateTime": "2021-06-10T07:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-10-california-latino-caucus-rebukes-harris-for-do-not-come-immigration-warning.md",
+      "title": "California Latino Caucus rebukes Harris for 'do not come' immigration warning",
+      "excerpt": "California Latino lawmakers issued a statement Wednesday rebuking Vice President Kamala Harris’ controversial comments in El Salvador this week when she told “folks” from the northern triangle states \"Do not come.\"",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_wsHBOyti2Y/california-latino-caucus-rebuke-harris-for-immigration-warning-do-not-come",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_wsHBOyti2Y/california-latino-caucus-rebuke-harris-for-immigration-warning-do-not-come",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 222,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bff910dc-4c2d-4082-9b97-da2cfa1ec6fa/8ecf015e-aae7-4cf0-b8fe-a84a924199c9/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/california-latino-caucus-rebuke-harris-for-immigration-warning-do-not-come.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/california-latino-caucus-rebuke-harris-for-immigration-warning-do-not-come.amp",
+      "publishedDateTime": "2021-06-09T18:53:01-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-06-09-blackburn-rubio-cotton-demand-fauci-resign-or-be-fired-by-biden.md",
       "title": "Blackburn, Rubio, Cotton demand Fauci resign or be fired by Biden",
       "excerpt": "EXCLUSIVE: Republican Sens. Marsha Blackburn, Marco Rubio and Tom Cotton are calling on Dr. Anthony Fauci to resign, saying he has “lost the confidence of the American people” amid controversy surrounding the origins of COVID-19 —and if he won’t step down, the Republican senators are urging President",
@@ -1553,111 +1667,6 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-04-flashback-ted-koppel-predicted-cnn-ratings-would-be-in-the-toilet-without-donald-trump.md",
-      "title": "FLASHBACK: Ted Koppel predicted CNN ratings 'would be in the toilet without Donald Trump'",
-      "excerpt": "Veteran journalist Ted Koppel said “CNN's ratings would be in the toilet without Donald Trump” in a 2018 interview, words that appear prescient as the liberal network's numbers continue to fall without its nemesis in office.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/flashback-ted-koppel-predicted-cnn-ratings-toilet-without-donald-trump",
-      "originalUrl": "https://www.foxnews.com/media/flashback-ted-koppel-predicted-cnn-ratings-toilet-without-donald-trump",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/18c8a7d9-22e9-4c2b-8acd-d0628fefb0ab/e659bf02-7679-45ea-8c23-d27c2bd8c917/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/flashback-ted-koppel-predicted-cnn-ratings-toilet-without-donald-trump.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/flashback-ted-koppel-predicted-cnn-ratings-toilet-without-donald-trump.amp",
-      "publishedDateTime": "2021-06-03T10:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-03-republican-leaders-to-summit-with-trump-over-conservative-agenda.md",
-      "title": "Republican leaders to summit with Trump over conservative agenda",
-      "excerpt": "Republican Study Committee Chairman Jim Banks and other members of the largest Republican caucus’ leadership will hold a summit with former President Donald Trump in New Jersey next week.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/06/03/republican-leaders-to-meet-with-donald-trump-in-new-jersey/",
-      "originalUrl": "https://nypost.com/2021/06/03/republican-leaders-to-meet-with-donald-trump-in-new-jersey/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/06/jim-banks-rnc-02.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/06/03/republican-leaders-to-meet-with-donald-trump-in-new-jersey/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/03/republican-leaders-to-meet-with-donald-trump-in-new-jersey/amp/",
-      "publishedDateTime": "2021-06-03T09:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Republican Voice"
       ]
     }

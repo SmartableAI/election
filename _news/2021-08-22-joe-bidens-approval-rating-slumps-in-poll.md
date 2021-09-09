@@ -57,6 +57,22 @@ related:
         width: 500
         height: 281
         isCached: true
+  - title: "Biden is bungling the pandemic response"
+    excerpt: "It's all taking their toll on pubic appraisals of President Biden's COVID response — and it's long past time he did something about it. Biden could start by asking someone like White House Coronavirus Response Coordinator Jeff Zients to step aside as part of a broader shift in strategy,"
+    publishedDateTime: 2021-09-09T09:46:00Z
+    webUrl: "https://theweek.com/joe-biden/1004659/biden-is-bungling-the-pandemic-response"
+    ampWebUrl: "https://theweek.com/joe-biden/1004659/biden-is-bungling-the-pandemic-response?amp"
+    cdnAmpWebUrl: "https://theweek-com.cdn.ampproject.org/c/s/theweek.com/joe-biden/1004659/biden-is-bungling-the-pandemic-response?amp"
+    type: article
+    provider:
+      name: THE WEEK
+      domain: theweek.com
+    quality: 75
+    images:
+      - url: "https://mediacloud.theweek.com/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1631134076/zeitz.jpg"
+        width: 814
+        height: 458
+        isCached: true
 
 secured: "B4AIqcSzDwTmXGv2beOSWpPwQIHPLgQIQQfnhg68lGDmKyzbh1AuxZ2rDbfln8REo53YgghsuRQEbbt43KfN/jO82UA/EUW7wU5gOJQADoSwlfcXlvnNUWUj0NseB2K/YOkv+CuJccaeflT9W3w+3K/3hwA9pW3PbCOOsKTBgariwsXKuganio5BhMILd1PPK2+cto5WQZJEAcBAiVz4e+RHaEzvzepf2LYLl6fLPbJZI1ZnboLhNL0iOYN6xp8p9HNrMjzJDAvCrgoOuYiv4ABZPqZXKFexG3KKBpkdyjg4ywnkhZ1bg1wV+b3oaoSIRA8amMOkeC53Hm66PdwvUTXBCYfCFHBD7UlqQhECPKk/3rtOwBzkGxkQtRR8dSYgPYwxsn3DkJoMoJF9WDG3t59PFBWZpuPhbcoKhYKkFT/STUDaFI5pDJwP9iB3//e4V7DFVFBYb+Ho1zb1umf+6Lpb8dYbpo171giAOpWhwXnydHFpwZ1whTKsyAJpfEgcXGcw1Jf9qblXj51Uc/UVEw==;aUqmGCs6OOPxG5QDUZqG/Q=="
 ---

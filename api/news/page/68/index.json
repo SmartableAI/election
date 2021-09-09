@@ -2,6 +2,283 @@
   "page": 68,
   "value": [
     {
+      "path": "_news/2021-04-16-trump-national-security-advisor-commends-biden-administration-no-more-important-alliance-than-japan.md",
+      "title": "Trump National Security Advisor commends Biden Administration: 'No more important alliance' than Japan",
+      "excerpt": "Former National Security Advisor under President Trump, Robert O'Brien, discusses Biden's response to tension with China and Russia.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/qsH0wm3_xZc/no-more-important-alliance-than-japan-amid-tension-china",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/qsH0wm3_xZc/no-more-important-alliance-than-japan-amid-tension-china",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 314,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/no-more-important-alliance-than-japan-amid-tension-china.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/no-more-important-alliance-than-japan-amid-tension-china.amp",
+      "publishedDateTime": "2021-04-16T13:45:06-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-17-oath-keeper-becomes-first-to-plead-guilty-in-pro-trump-capitol-riot.md",
+      "title": "Oath Keeper Becomes First to Plead Guilty in Pro-Trump Capitol Riot",
+      "excerpt": "Jon Schaffer of Indiana admits to carrying bear spray and obstructing official proceedings.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/oath-keeper-becomes-first-to-plead-guilty-in-capitol-riot-11618596401",
+      "originalUrl": "https://www.wsj.com/articles/oath-keeper-becomes-first-to-plead-guilty-in-capitol-riot-11618596401",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-326217/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/oath-keeper-becomes-first-to-plead-guilty-in-capitol-riot-11618596401",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/oath-keeper-becomes-first-to-plead-guilty-in-capitol-riot-11618596401",
+      "publishedDateTime": "2021-04-16T12:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-16-senate-dems-call-on-biden-to-close-guantanamo-to-advance-universal-rights.md",
+      "title": "Senate Dems call on Biden to close Guantanamo to advance 'universal rights'",
+      "excerpt": "Sen. Majority Whip Dick Durbin, D-Ill., and Sen. Patrick Leahy, D-Vt., wrote a letter along with 22 other Democrats to President Biden asking him to shut down the military prison in Guantanamo Bay. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/CZFj3mzTXuo/senate-dems-biden-close-guantanamo",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/CZFj3mzTXuo/senate-dems-biden-close-guantanamo",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 173,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/Durbin.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/senate-dems-biden-close-guantanamo.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/senate-dems-biden-close-guantanamo.amp",
+      "publishedDateTime": "2021-04-16T12:40:22-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-17-pro-trump-lawmakers-form-caucus-to-promote-anglo-saxon-political-traditions.md",
+      "title": "Pro-Trump lawmakers form caucus to promote 'Anglo-Saxon political traditions'",
+      "excerpt": "Marjorie Taylor Greene (Ga.) and Paul Gosar (Ariz.), are reportedly forming a caucus that calls for a \"common respect for uniquely Anglo-Saxon political traditions.\" A policy platform for the group, which calls itself the America First Caucus,",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/house/548731-pro-trump-lawmakers-form-caucus-to-promote-anglo-saxon-political-traditions",
+      "originalUrl": "https://thehill.com/homenews/house/548731-pro-trump-lawmakers-form-caucus-to-promote-anglo-saxon-political-traditions",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 162,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/greenetaylormarjorie_gosarpaul_041621gn_split.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/house/548731-pro-trump-lawmakers-form-caucus-to-promote-anglo-saxon-political-traditions?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/house/548731-pro-trump-lawmakers-form-caucus-to-promote-anglo-saxon-political-traditions?amp",
+      "publishedDateTime": "2021-04-16T12:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-04-16-trump-epa-appointee-blocked-public-release-of-cancer-danger-inspector-general-says.md",
+      "title": "Trump EPA appointee blocked public release of cancer danger, inspector general says",
+      "excerpt": "Trump administration political appointees at the Environmental Protection Agency repeatedly squashed efforts to warn the public about a cancer-causing gas in their neighborhood, according to a new review.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ywfjBkNVdiw/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ywfjBkNVdiw/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 229,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/170629172604-epa-environmental-protection-agency-logo-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/16/politics/epa-cancer-ethylene-oxide/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/16/politics/epa-cancer-ethylene-oxide/index.html",
+      "publishedDateTime": "2021-04-16T12:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-17-mcenany-liberal-media-ran-with-heinous-allegations-on-russian-bounties-to-hurt-trump.md",
       "title": "McEnany: Liberal media ran with 'heinous' allegations on Russian bounties to hurt Trump",
       "excerpt": "Former White House Press Secretary and co-host of 'Outnumbered' Kayleigh McEnany blasted reporters for putting forth a false narrative last year, after U.S. intelligence agencies began to backtrack on reports of Russian bounties being placed on U.",
@@ -1093,275 +1370,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-15-qanon-supporters-think-ivanka-trump-vaccine-picture-was-photoshopped.md",
-      "title": "QAnon Supporters Think Ivanka Trump Vaccine Picture Was Photoshopped",
-      "excerpt": "The conspiracy theorists suggest that an image of former President Donald Trump's eldest daughter was staged, or that it is not her in the photo she tweeted.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/qanon-ivanka-trump-covid-vaccine-1583753",
-      "originalUrl": "https://www.newsweek.com/qanon-ivanka-trump-covid-vaccine-1583753",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1778191/qanon.jpg",
-          "width": 2491,
-          "height": 1657,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/qanon-ivanka-trump-covid-vaccine-1583753?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/qanon-ivanka-trump-covid-vaccine-1583753?amp=1",
-      "publishedDateTime": "2021-04-15T02:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-04-15-biden-tells-family-of-hero-capitol-police-officer-killed-in-car-attack-hes-in-your-blood.md",
-      "title": "Biden tells family of 'hero' Capitol Police officer killed in car attack: 'He’s in your blood'",
-      "excerpt": "President Joe Biden eulogized fallen Capitol Police Officer William “Billy” Evans at a memorial service in the Capitol Rotunda on Tuesday, reflecting on his own personal tragedies as he sought to comfort Evans’ surviving wife and children.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2021/04/13/biden-officer-billy-evans-memorial-481148",
-      "originalUrl": "https://www.politico.com/news/2021/04/13/biden-officer-billy-evans-memorial-481148",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/bb/a7/058c09d345a19933004089104d12/210413-matt-gaetz-women-podium-getty-773.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/2021/04/13/biden-officer-billy-evans-memorial-481148",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/04/13/biden-officer-billy-evans-memorial-481148",
-      "publishedDateTime": "2021-04-15T00:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-15-how-will-donald-trump-fare-in-tuesdays-primaries.md",
-      "title": "How will Donald Trump fare in Tuesday's primaries?",
-      "excerpt": "Candidates are making a final push ahead of Tuesday's primaries. Will Donald Trump enjoy another big night, or will recent violence at his rallies hurt him? CBSN political contributor Leslie Sanchez and Bob Cusack,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/video/how-will-donald-trump-fare-in-tuesdays-primaries-1/",
-      "originalUrl": "https://www.cbsnews.com/video/how-will-donald-trump-fare-in-tuesdays-primaries-1/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2021/04/15/d475d0b6-b992-41b9-90da-fb04ecc2d3e1/thumbnail/1200x630/2fa521bbefe3d5e8c6c3020975a75a5a/cbsn-primary-preview-0314-498944-640x360.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-14T20:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-04-15-liz-cheney-says-she-wont-support-trump-if-he-runs-in-2024.md",
-      "title": "Liz Cheney says she won't support Trump if he runs in 2024",
-      "excerpt": "Wyoming Rep. Liz Cheney, the No. 3 House Republican, said Wednesday she would not support Donald Trump if he decided to launch another White House bid in 2024.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pqJt3v3lcVk/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pqJt3v3lcVk/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 315,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200723145511-liz-cheney-trump-split-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/14/politics/liz-cheney-donald-trump-2024/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/14/politics/liz-cheney-donald-trump-2024/index.html",
-      "publishedDateTime": "2021-04-14T17:03:19-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-15-former-daughter-in-law-of-trump-org-cfo-says-she-has-boxes-and-boxes-of-financial-documents-after-bitter-divorce.md",
-      "title": "Former daughter-in-law of Trump Org CFO says she has \"boxes and boxes\" of financial documents after bitter divorce",
-      "excerpt": "Jennifer and Barry Weisselberg's divorce was a contentious battle, but few realized during the 2017 and 2018 proceedings that it would end up at the center of one of the most high-profile criminal investigations in history – the Manhattan District Attorney's probe into Donald Trump.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/video/former-daughter-in-law-of-trump-org-cfo-says-she-has-boxes-and-boxes-of-financial-documents-after-bitter-divorce/",
-      "originalUrl": "https://www.cbsnews.com/video/former-daughter-in-law-of-trump-org-cfo-says-she-has-boxes-and-boxes-of-financial-documents-after-bitter-divorce/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2021/04/14/0c58dbe0-1a4f-4997-a440-4eeb61919fae/thumbnail/1200x630/b69d701028646c5c10400f2d5b1d89f2/0414-redblue-hgp-692909-640x360.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/video/former-daughter-in-law-of-trump-org-cfo-says-she-has-boxes-and-boxes-of-financial-documents-after-bitter-divorce/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/former-daughter-in-law-of-trump-org-cfo-says-she-has-boxes-and-boxes-of-financial-documents-after-bitter-divorce/",
-      "publishedDateTime": "2021-04-14T15:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

@@ -2,6 +2,196 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-08-30-pence-bill-clinton-will-ferrell-politicking-in-n-carolina.md",
+      "title": "Pence, Bill Clinton, Will Ferrell politicking in N Carolina",
+      "excerpt": "The next-to-last weekend before Election Day is attracting plenty of big-time politicians, leaders of interest groups and even a Hollywood star to the presidential battleground of North Carolina. Republican vice presidential candidate Mike Pence plans to speak at a Jacksonville rally Saturday,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/article/bill-clinton-michael-pence-will-ferrell-c7b517bbb86b0f7c52fb008dc6e22a56",
+      "originalUrl": "https://apnews.com/article/bill-clinton-michael-pence-will-ferrell-c7b517bbb86b0f7c52fb008dc6e22a56",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/ShareLogo2.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-30T03:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-08-30-fact-check-joe-biden-said-that-al-qaida-is-gone-from-afghanistan.md",
+      "title": "Fact Check: Joe Biden said that al-Qaida is 'gone' from Afghanistan",
+      "excerpt": "What interest do we have in Afghanistan at this point with al-Qaida gone? We went to Afghanistan for the express purpose of getting rid of al-Qaida in Afghanistan, as well as getting Osama bin Laden.",
+      "sourceUrl": null,
+      "webUrl": "https://www.houstonchronicle.com/politics/texas/article/Fact-Check-Joe-Biden-said-that-al-Qaida-is-16416922.php",
+      "originalUrl": "https://www.houstonchronicle.com/politics/texas/article/Fact-Check-Joe-Biden-said-that-al-Qaida-is-16416922.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 625,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.hdnux.com/photos/01/21/50/72/21401243/3/400x0.jpg",
+          "width": 400,
+          "height": 266,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.houstonchronicle.com/politics/texas/amp/Fact-Check-Joe-Biden-said-that-al-Qaida-is-16416922.php",
+      "cdnAmpWebUrl": "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/politics/texas/amp/Fact-Check-Joe-Biden-said-that-al-Qaida-is-16416922.php",
+      "publishedDateTime": "2021-08-30T02:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Houston Chronicle",
+        "domain": "houstonchronicle.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/houstonchronicle.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-08-30-australias-recession-is-as-much-a-problem-for-biden-as-sydney.md",
+      "title": "Australia’s Recession Is As Much A Problem For Biden As Sydney",
+      "excerpt": "Australia’s sizable and open economy is often the closest thing the U.S. has to an early warning system, and experts are now warning that the country down under is sliding back into recession.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/williampesek/2021/08/30/australias-recession-is-as-much-a-problem-for-biden-as-sydney/",
+      "originalUrl": "https://www.forbes.com/sites/williampesek/2021/08/30/australias-recession-is-as-much-a-problem-for-biden-as-sydney/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F612c7e3d4264343d3146dd8c%2F0x0.jpg",
+          "width": 1200,
+          "height": 776,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-30T01:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-08-30-joe-biden-watches-bollywood-movies-new-warning-to-isis-sheds-clues.md",
+      "title": "Joe Biden watches Bollywood movies? New warning to ISIS sheds clues",
+      "excerpt": "The new video by Joe Biden has gone viral, and it made many people speculate that the American president is an ardent fan of Bollywood movies",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.co.in/joe-biden-watches-bollywood-movies-new-warning-isis-sheds-clues-840245",
+      "originalUrl": "https://www.ibtimes.co.in/joe-biden-watches-bollywood-movies-new-warning-isis-sheds-clues-840245",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://data1.ibtimes.co.in/en/full/755862/joe-biden.jpg?w=570&h=350",
+          "width": 570,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.ibtimes.co.in/joe-biden-watches-bollywood-movies-new-warning-isis-sheds-clues-840245",
+      "cdnAmpWebUrl": "https://amp-ibtimes-co-in.cdn.ampproject.org/c/s/amp.ibtimes.co.in/joe-biden-watches-bollywood-movies-new-warning-isis-sheds-clues-840245",
+      "publishedDateTime": "2021-08-30T01:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBTimes India",
+        "domain": "ibtimes.co.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-08-30-whoopi-goldberg-mike-pence-didnt-show-north-korea-enough-respect-at-olympics.md",
       "title": "Whoopi Goldberg: Mike Pence didn’t show North Korea enough ‘respect’ at Olympics",
       "excerpt": "Whoopi Goldberg says U.S. Vice President Mike Pence should have shown more \"respect\" to North Koreans at the Pyeongchang 2018 Olympic Winter Games. \"He should have given enoughhad enough respect to say,",
@@ -1044,204 +1234,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-08-26-new-additions-to-tom-barracks-legal-team-signal-former-trump-adviser-will-fight-dojs-charges.md",
-      "title": "New additions to Tom Barrack's legal team signal former Trump adviser will fight DOJ's charges",
-      "excerpt": "Two prominent New York defense attorneys have joined the legal team for Tom Barrack, the former adviser to then-President Donald Trump who is now facing federal foreign lobbying charges.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/GBghlC7VPAQ/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/GBghlC7VPAQ/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 183,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/190814180012-tom-barrack-april-2019-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/08/26/politics/tom-barrack-expands-defense-team/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/26/politics/tom-barrack-expands-defense-team/index.html",
-      "publishedDateTime": "2021-08-26T11:20:29-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-27-seven-capitol-cops-sue-donald-trump-and-his-allies-for-plot-on-the-capitol.md",
-      "title": "Seven Capitol cops SUE Donald Trump and his allies for 'plot' on the Capitol",
-      "excerpt": "Seven Capitol Police officers have filed suit against former President Donald Trump, and some of his associates, claiming they caused the Capitol riot that caused them to face beatings and injuries",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailymail.co.uk/news/article-9930019/Seven-Capitol-cops-SUE-Donald-Trump-allies-plot-Capitol.html",
-      "originalUrl": "https://www.dailymail.co.uk/news/article-9930019/Seven-Capitol-cops-SUE-Donald-Trump-allies-plot-Capitol.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.dailymail.co.uk/1s/2021/08/26/17/47138019-0-image-a-43_1629996316019.jpg",
-          "width": 636,
-          "height": 382,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailymail.co.uk/news/article-9930019/amp/Seven-Capitol-cops-SUE-Donald-Trump-allies-plot-Capitol.html",
-      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-9930019/amp/Seven-Capitol-cops-SUE-Donald-Trump-allies-plot-Capitol.html",
-      "publishedDateTime": "2021-08-26T10:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Mail",
-        "domain": "dailymail.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-08-26-house-republicans-point-fingers-at-biden-moments-after-kabul-blasts.md",
-      "title": "House Republicans point fingers at Biden moments after Kabul blasts",
-      "excerpt": "Republicans in Congress quickly escalated their criticism of President Joe Biden's withdrawal of US troops from Afghanistan after two explosions outside Kabul's airport on Thursday caused the first American casualties since the mass evacuation began.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Oo6vJCiFD0c/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Oo6vJCiFD0c/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 335,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210826094704-01-kabul-airport-210626-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/08/26/politics/republicans-kabul-biden/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/26/politics/republicans-kabul-biden/index.html",
-      "publishedDateTime": "2021-08-26T10:04:56-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-26-ezra-kleins-best-defense-of-joe-biden-it-could-be-worse.md",
-      "title": "Ezra Klein’s Best Defense of Joe Biden: ‘It Could Be Worse!’",
-      "excerpt": "Looking at a bad situation that could, and should, have been avoided and defending it solely on the basis that it could have been worse is not analysis. It’s spin.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nationalreview.com/corner/ezra-kleins-best-defense-of-joe-biden-it-could-be-worse/",
-      "originalUrl": "https://www.nationalreview.com/corner/ezra-kleins-best-defense-of-joe-biden-it-could-be-worse/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.nationalreview.com/wp-content/uploads/2021/08/joe-biden-August24-2021.jpg?fit=1600%2C900",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nationalreview.com/corner/ezra-kleins-best-defense-of-joe-biden-it-could-be-worse/amp/",
-      "cdnAmpWebUrl": "https://www-nationalreview-com.cdn.ampproject.org/c/s/www.nationalreview.com/corner/ezra-kleins-best-defense-of-joe-biden-it-could-be-worse/amp/",
-      "publishedDateTime": "2021-08-26T08:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "National Review",
-        "domain": "nationalreview.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

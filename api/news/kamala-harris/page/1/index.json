@@ -2,6 +2,106 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-09-09-us-vice-president-kamala-harris-to-visit-hampton-university-on-friday-september-10.md",
+      "title": "U.S. Vice President Kamala Harris to Visit Hampton University on Friday, September 10",
+      "excerpt": "U.S. Vice President Kamala Harris will visit Hampton University on Friday, September 10, to recognize the contributions of HBCUs a",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/globe-newswire/kamala-harris-hampton-university-ea2f36913b333cebf7b3566e3d343498",
+      "originalUrl": "https://apnews.com/press-release/globe-newswire/kamala-harris-hampton-university-ea2f36913b333cebf7b3566e3d343498",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 198,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-09T08:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-09-09-kamala-harris-backed-bail-fund-other-groups-wreaking-havoc-on-communities-former-mn-congressional-candidate.md",
+      "title": "Kamala Harris-backed bail fund, other groups wreaking havoc on communities: Former MN congressional candidate",
+      "excerpt": "Kamala Harris-backed Minnesota bail fund helping free an alleged domestic abuser who is now accused of murder is a “reckless disregard for communities,\" Lacy Lee said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/kamala-harris-bail-fund-minnesota-reckless-disregard-communities",
+      "originalUrl": "https://www.foxnews.com/media/kamala-harris-bail-fund-minnesota-reckless-disregard-communities",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9a8dfa8e-3dba-4455-839e-4062f16e08a6/04da69cf-432d-4304-b4b4-864e5be261c7/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/kamala-harris-bail-fund-minnesota-reckless-disregard-communities.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/kamala-harris-bail-fund-minnesota-reckless-disregard-communities.amp",
+      "publishedDateTime": "2021-09-09T06:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-09-09-fact-check-image-of-kamala-harris-and-doug-emhoff-altered-to-show-jeffrey-epstein.md",
       "title": "Fact check: Image of Kamala Harris and Doug Emhoff altered to show Jeffrey Epstein",
       "excerpt": "Several Facebook users shared an image of Harris and Epstein with the words \"Make this photo famous.\" But the image has been altered to add Epstein.",
@@ -10,7 +110,7 @@
       "originalUrl": "https://www.indystar.com/story/news/nation/2021/09/08/fact-check-altered-image-shows-jeffrey-epstein-next-kamala-harris/5672684001/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 149,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -98,49 +198,6 @@
       "topics": [
         "Election",
         "Republican Voice",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-09-09-well-show-them-vice-president-harris-campaigns-for-gov-newsom-in-bay-area.md",
-      "title": "‘We’ll Show Them’: Vice President Harris Campaigns for Gov. Newsom in Bay Area",
-      "excerpt": "Kamala Harris described the recall as part of a broader Republican effort to oust Democrats from power and expand conservative restrictions on voting, abortion and LGBTQ rights.",
-      "sourceUrl": null,
-      "webUrl": "https://timesofsandiego.com/politics/2021/09/08/well-show-them-vice-president-harris-campaigns-for-gov-newsom-in-bay-area/",
-      "originalUrl": "https://timesofsandiego.com/politics/2021/09/08/well-show-them-vice-president-harris-campaigns-for-gov-newsom-in-bay-area/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://timesofsandiego.com/wp-content/uploads/2021/09/Harris-Newsom.png",
-          "width": 1000,
-          "height": 664,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://timesofsandiego.com/politics/2021/09/08/well-show-them-vice-president-harris-campaigns-for-gov-newsom-in-bay-area/",
-      "cdnAmpWebUrl": "https://timesofsandiego-com.cdn.ampproject.org/c/s/timesofsandiego.com/politics/2021/09/08/well-show-them-vice-president-harris-campaigns-for-gov-newsom-in-bay-area/",
-      "publishedDateTime": "2021-09-08T14:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Times of San Diego",
-        "domain": "timesofsandiego.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Kamala Harris"
       ]
     },
@@ -950,7 +1007,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 298,
+      "heat": 318,
       "tags": null,
       "images": [
         {
@@ -1528,63 +1585,6 @@
       "topics": [
         "Election",
         "Democratic Voice",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-08-03-harris-border-role-faces-new-scrutiny-after-report-of-likely-historic-surge-in-unaccompanied-children.md",
-      "title": "Harris’ border role faces new scrutiny after report of likely historic surge in unaccompanied children",
-      "excerpt": "A report from the Associated Press released Monday night seemed to paint a grim picture of the conditions at the border just over four months since Harris’ appointment to the role.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/J2t1mpoJ3XQ/harris-border-role-faces-new-scrutiny",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/J2t1mpoJ3XQ/harris-border-role-faces-new-scrutiny",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/harris-border-role-faces-new-scrutiny.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-border-role-faces-new-scrutiny.amp",
-      "publishedDateTime": "2021-08-03T00:36:55-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
         "Kamala Harris"
       ]
     }

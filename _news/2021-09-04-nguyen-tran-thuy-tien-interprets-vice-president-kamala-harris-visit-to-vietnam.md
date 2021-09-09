@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "U.S. Vice President Kamala Harris to Visit Hampton University on Friday, September 10"
+    excerpt: "U.S. Vice President Kamala Harris will visit Hampton University on Friday, September 10, to recognize the contributions of HBCUs a"
+    publishedDateTime: 2021-09-09T15:27:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/kamala-harris-hampton-university-ea2f36913b333cebf7b3566e3d343498"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 98
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "‘We’ll Show Them’: Vice President Harris Campaigns for Gov. Newsom in Bay Area"
     excerpt: "Kamala Harris described the recall as part of a broader Republican effort to oust Democrats from power and expand conservative restrictions on voting, abortion and LGBTQ rights."
     publishedDateTime: 2021-09-08T21:46:00Z
@@ -70,6 +84,20 @@ related:
       - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2021/09/p-1-this-simple-advice-from-kamala-harris-will-make-you-a-better-public-speaker.png"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Bail fund promoted by Kamala Harris set free alleged domestic abuser who’s now charged with murder"
+    excerpt: "Harris faced widespread criticism following her promotion and endorsement of the organization shortly after the Floyd incident."
+    publishedDateTime: 2021-09-07T17:47:00Z
+    webUrl: "https://www.bizpacreview.com/2021/09/07/bail-fund-promoted-by-kamala-harris-set-free-alleged-domestic-abuser-whos-now-charged-with-murder-1130982/"
+    type: article
+    provider:
+      name: BizPac Review
+      domain: bizpacreview.com
+    quality: 41
+    images:
+      - url: "https://www.bizpacreview.com/wp-content/uploads/2021/06/SG-HARRIS-1200x630.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "VvjleYoGzrK6HhErpf6uHo6yUA455jza7NpWrFtH5fQuJVsjW2ZJ+BHuY9Nd3HxComtoCSXFynv5V1HAg/12gx+DXTVz2EmFE0KK46UsFPimd7OVrBN13G1lldxSGkzUFiLQ0hbzCOi2vAuhqBmDZCIbXhjq66cBJds/2LqFlqkbwzg0FVvz/3m8jDBX9R5a6AAoKDpZnwr1pButM4/pgA78T6gqhejwrK5tOn25n8WLA9S6rFID0Fqv2EtMQgNZ64pqsbNuZl5OQHDrnTjaoAPL8RvoCKjREKhnxduAIjDlHqHOiXwN8DhaQwF7/GicSkfu7U7RRWe+AzYJEagKVZwV5aDl6b0rLfNMInzZogBub97yu6FLpAk2OOdg5Qor+NIu+YsGfAGG8jJlrS/nbC5arJXzu0O+WztZbCou5qpRLOuJJ1UlAqtgcdDbBttFhBcsgmAztiDfeL3K88Uw15tdXtpZp4nntL3VYzccJP9GFWtiGPpWK81iL880TwK4TBucUk/l+pko/FHp1EorlQ==;6l00M6UfdWDMnEtqCmKQtg=="

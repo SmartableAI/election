@@ -2,6 +2,63 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-04-15-biden-tells-family-of-hero-capitol-police-officer-killed-in-car-attack-hes-in-your-blood.md",
+      "title": "Biden tells family of 'hero' Capitol Police officer killed in car attack: 'He’s in your blood'",
+      "excerpt": "President Joe Biden eulogized fallen Capitol Police Officer William “Billy” Evans at a memorial service in the Capitol Rotunda on Tuesday, reflecting on his own personal tragedies as he sought to comfort Evans’ surviving wife and children.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2021/04/13/biden-officer-billy-evans-memorial-481148",
+      "originalUrl": "https://www.politico.com/news/2021/04/13/biden-officer-billy-evans-memorial-481148",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/bb/a7/058c09d345a19933004089104d12/210413-matt-gaetz-women-podium-getty-773.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.com/amp/news/2021/04/13/biden-officer-billy-evans-memorial-481148",
+      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/04/13/biden-officer-billy-evans-memorial-481148",
+      "publishedDateTime": "2021-04-15T00:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-15-liz-cheney-says-she-wont-support-trump-if-he-runs-in-2024.md",
       "title": "Liz Cheney says she won't support Trump if he runs in 2024",
       "excerpt": "Wyoming Rep. Liz Cheney, the No. 3 House Republican, said Wednesday she would not support Donald Trump if he decided to launch another White House bid in 2024.\n    \n",
@@ -1628,63 +1685,6 @@
       ],
       "topics": [
         "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-08-damn-it-im-sick-and-tired-of-ordinary-people-being-fleeced-biden-defends-corporate-tax-hike.md",
-      "title": "‘Damn it … I’m sick and tired of ordinary people being fleeced’: Biden defends corporate tax hike",
-      "excerpt": "President Joe Biden on Wednesday defended raising the corporate tax rate to help pay for his infrastructure plan, saying he’s “sick and tired of ordinary people being fleeced.” Biden slammed former President Donald Trump’s corporate tax rate cuts ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2021/04/07/biden-infrastructure-speech-479721",
-      "originalUrl": "https://www.politico.com/news/2021/04/07/biden-infrastructure-speech-479721",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/c3/24/49791ee84b6a94e296633797d05f/210407-biden-ap-773.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/2021/04/07/biden-infrastructure-speech-479721",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/04/07/biden-infrastructure-speech-479721",
-      "publishedDateTime": "2021-04-07T12:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
         "Democratic Voice"
       ]
     }

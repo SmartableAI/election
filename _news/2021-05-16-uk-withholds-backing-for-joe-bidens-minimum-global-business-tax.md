@@ -47,6 +47,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden is bungling the pandemic response"
+    excerpt: "It's all taking their toll on pubic appraisals of President Biden's COVID response — and it's long past time he did something about it. Biden could start by asking someone like White House Coronavirus Response Coordinator Jeff Zients to step aside as part of a broader shift in strategy,"
+    publishedDateTime: 2021-09-09T09:46:00Z
+    webUrl: "https://theweek.com/joe-biden/1004659/biden-is-bungling-the-pandemic-response"
+    ampWebUrl: "https://theweek.com/joe-biden/1004659/biden-is-bungling-the-pandemic-response?amp"
+    cdnAmpWebUrl: "https://theweek-com.cdn.ampproject.org/c/s/theweek.com/joe-biden/1004659/biden-is-bungling-the-pandemic-response?amp"
+    type: article
+    provider:
+      name: THE WEEK
+      domain: theweek.com
+    quality: 75
+    images:
+      - url: "https://mediacloud.theweek.com/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1631134076/zeitz.jpg"
+        width: 814
+        height: 458
+        isCached: true
   - title: "Joe Biden's approval rating slumps in poll"
     excerpt: "President Joe Biden is facing a summer slump, with Americans taking a notably less positive view of his handling of the coronavirus pandemic and his job approval rating"
     publishedDateTime: 2021-08-21T23:37:00Z

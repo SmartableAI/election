@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/04/22/politics/puerto-rico-relief-inves
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/22/politics/puerto-rico-relief-investigation-washington-post/index.html"
 type: article
 quality: 154
-heat: 174
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -31,21 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "New probe confirms Trump officials blocked Puerto Rico from receiving hurricane aid"
-    excerpt: "Findings from a new inspector general report show how Trump officials blocked hurricane aid for Puerto Rico and obstructed a probe looking into the withholdings."
-    publishedDateTime: 2021-04-22T21:01:00Z
-    webUrl: "https://www.nbcnews.com/news/latino/new-probe-confirms-trump-officials-blocked-puerto-rico-receiving-hurri-rcna749"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna749"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna749"
+  - title: "Washington Post: Trump-installed NSA lawyer resigns after being on administrative leave for three months"
+    excerpt: "National Security Agency general counsel Michael Ellis, who was installed by Trump officials in the final days of the administration, resigned from his post on Friday after being on administrative leave since the start of the Biden administration, according to The Washington Post.\n    \n"
+    publishedDateTime: 2021-04-18T19:18:12Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dUImdq1jD3Y/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/18/politics/michael-ellis-resignation-nsa/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/18/politics/michael-ellis-resignation-nsa/index.html"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 129
+      name: CNN
+      domain: cnn.com
+    quality: 158
     images:
-      - url: "https://media1.s-nbcnews.com/i/rockcms/2021-04/1132/200724-puerto-rico-ew-323p-053a09_a69b88d4a153c119ebf9b4c21caa3521643fa016.jpg"
-        width: 2500
-        height: 1663
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200213150327-pentagon-building-aerial-file-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
 
 secured: "+3g1BKWqWFUWTm8VM8T2PxyzLrgIfWnaxBuLp7Qjzp8PRJOAI9yVvsePGahmYifjJj41u/QApyGdIY7IRpzNfdPSiyFeLqxSLDqqR3NwI5jj0PCibd/LPS5J5Rar38lnCstCuowJxM38ErnwdYQbwF7rdgakwi2yFa8jRkArsvP1eWCAQSiuPA7agYzC/U+cAoCqrNPtK4t/DuV0a4Je5NWrV+d7hFRDj6fVn4YL7E1gV3K5dEV/eqRs+t2rGWdTDgVcOGaWr1TDxG8n9po1Ojpor+b4nrFnvN3LFE/g3GQ2O9lKQjyvPM3arfQNRn+gbymMOddk9ZO/L/rnNf+CZrZCX746fa/MmYD9lz5jQTo=;2e3EUbgKaLavEIgnqaoy5w=="

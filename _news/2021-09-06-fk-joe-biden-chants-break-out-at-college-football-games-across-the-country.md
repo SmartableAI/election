@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/joe-biden-chants-break-college-football-gam
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-chants-break-college-football-games-country-1626438?amp=1"
 type: article
 quality: 121
-heat: 161
+heat: 141
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://wehco.media.clients.ellingtoncms.com/static-3/ao_redesign/graphics/adgog.jpg"
         width: 800
         height: 400
-        isCached: true
-  - title: "President Joe Biden speaks about the COVID-19 relief package in the State Dining Room of the Wh"
-    excerpt: "President Joe Biden speaks about the COVID-19 relief package in the State Dining Room of the White House, Monday, March 15, 2021, in Washington. (AP Photo/Patrick Semansky)"
-    publishedDateTime: 2021-09-09T06:35:00Z
-    webUrl: "https://www.reviewjournal.com/news/politics-and-government/help-is-here-biden-says-in-promoting-covid-relief-bill-2305083/attachment/president-joe-biden-speaks-about-the-covid-19-relief-package-in-the-state-dining-room-of-the-wh/"
-    type: article
-    provider:
-      name: Las Vegas Review-Journal
-      domain: reviewjournal.com
-    quality: 43
-    images:
-      - url: "https://www.reviewjournal.com/wp-content/themes/rjth2019/images/defaultimage-1200x800.jpg"
-        width: 1200
-        height: 800
         isCached: true
 
 secured: "BRj25TVKx9qWoG2N0M4XcD43PyzSl/J2CF48RAEfR9kmWvnm6zX1WNvQ/hVe+hqiWBmHg/ptNHvliWoAV38qvElcvdvxhodiU8ksmx/1n8kn0EjDCea08SjwTYy6B7cHERRK9pSM7W7I+9VfPkasLj99OjoF6rD8O81vkeAZtauv4Qr+95S/qLD9n4choAmwYN8S8FXQXutDOeWFXZa92VxbHWXnW8Oux1PMUAbFPhLp6N+3M5Dg2/nkgdzgTjPOrS+vPNaifBKvl4H/RLgFiocYVQ/M5uzCHmiVYuwTfBtdfas8bKRQvikXMhlrbouvRCg362KswiEMJrX/gqQ7ilvb54kSkER/adU/PtqnAeXOGK0IPuYSCIvnoFVdnVadIQeiX+7WgCJx0be0wFEYlWmPd3tJzWDfc4bH9XzDFMFkrEUxanveng6BGFM4vB7F6710IYY5/cinNlPPMqchy79o2Yo0p3aEQPG1ysidfaEe4fGeYeGSitLYYJLpZbVs4tYNSzDeCU+3iSA/nZ40Aw==;ljFcBz/d4rY4c1oPBiKmwQ=="

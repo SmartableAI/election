@@ -2,6 +2,222 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-08-25-column-donald-trump-cant-cram-his-fake-news-genie-back-in-his-bottle.md",
+      "title": "Column: Donald Trump can’t cram his ‘fake news’ genie back in his bottle",
+      "excerpt": "As Donald Trump may be discovering, once you’ve let that “fake news” genie out of the bottle, it’s impossible to reverse all of the damage it can bring.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chicagotribune.com/columns/clarence-page/ct-column-covid-trump-infodemic-fda-horse-paste-page-20210824-k2lxoefxhfdchb367rojvow45i-story.html",
+      "originalUrl": "https://www.chicagotribune.com/columns/clarence-page/ct-column-covid-trump-infodemic-fda-horse-paste-page-20210824-k2lxoefxhfdchb367rojvow45i-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chicagotribune.com/resizer/D_PVpCIYkDiA1eyzytliOlOmCpg=/1200x0/right/bottom/cloudfront-us-east-1.images.arcpublishing.com/tronc/POWAOZWWKRHONM5KEXQ45AS3GI.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-24T13:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Tribune",
+        "domain": "chicagotribune.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-08-24-sasse-urges-biden-to-tell-taliban-were-getting-our-people-out-however-long-it-takes-damn-the-deadline.md",
+      "title": "Sasse urges Biden to tell Taliban 'we're getting our people out however long it takes': 'Damn the deadline'",
+      "excerpt": "In a blistering statement, Sen. Ben Sasse said Biden should be calling the shots, not the Taliban, who said there would be \"no extensions\" of the deadline set for withdrawal.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/YkXyG4A050o/sasse-biden-taliban-damn-the-deadline",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/YkXyG4A050o/sasse-biden-taliban-damn-the-deadline",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/sasse-biden-taliban-damn-the-deadline.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sasse-biden-taliban-damn-the-deadline.amp",
+      "publishedDateTime": "2021-08-24T10:15:19-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-08-24-kamala-harris-vietnam-visit-reportedly-held-up-by-havana-syndrome-scare.md",
+      "title": "Kamala Harris’ Vietnam Visit Reportedly Held Up By ‘Havana Syndrome’ Scare",
+      "excerpt": "Two or more U.S. staff in Hanoi were evacuated this weekend after feeling symptoms associated with a syndrome experienced by American officials overseas.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/graisondangor/2021/08/24/kamala-harris-vietnam-visit-reportedly-held-up-by-havana-syndrome-scare/",
+      "originalUrl": "https://www.forbes.com/sites/graisondangor/2021/08/24/kamala-harris-vietnam-visit-reportedly-held-up-by-havana-syndrome-scare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 163,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61251c91ce84aa0b4d56c570%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3614%26cropY1%3D183%26cropY2%3D2217",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/graisondangor/2021/08/24/kamala-harris-vietnam-visit-reportedly-held-up-by-havana-syndrome-scare/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/graisondangor/2021/08/24/kamala-harris-vietnam-visit-reportedly-held-up-by-havana-syndrome-scare/amp/",
+      "publishedDateTime": "2021-08-24T09:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-08-24-scotus-gave-trump-leeway-on-executive-actions-biden-wants-the-same-treatment.md",
+      "title": "SCOTUS gave Trump leeway on executive actions. Biden wants the same treatment",
+      "excerpt": "The Biden administration faces two major confrontations with the Supreme Court this week, as the justices weigh requests related to the Covid moratorium on evictions and the termination of a Trump practice that forced migrants seeking US asylum to stay in Mexico until their claims could be heard.\n  ",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HpzaWFCf83k/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HpzaWFCf83k/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 527,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210824140328-02-joe-biden-john-roberts-split-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/08/24/politics/biden-supreme-court/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/24/politics/biden-supreme-court/index.html",
+      "publishedDateTime": "2021-08-24T09:16:52-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-08-24-possible-havana-syndrome-incident-delayed-harris-flight-to-vietnam.md",
       "title": "Possible Havana syndrome incident delayed Harris flight to Vietnam",
       "excerpt": "Vice President Kamala Harris' departure for Vietnam was delayed by several hours Tuesday afternoon after her office was informed by the US embassy in Hanoi, Vietnam, of a \"report of a recent possible anomalous health incident.\"\n    \n",
@@ -1099,215 +1315,6 @@
       "topics": [
         "Election",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-08-23-carlyle-alums-governor-run-mixes-trump-backing-maga-lite-style.md",
-      "title": "Carlyle Alum’s Governor Run Mixes Trump Backing, MAGA-Lite Style",
-      "excerpt": "The crowd of about 300 Republican stalwarts in Norfolk, Virginia, included those wearing the requisite red baseball caps.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2021-08-23/carlyle-alum-s-governor-run-mixes-trump-backing-maga-lite-style",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2021-08-23/carlyle-alum-s-governor-run-mixes-trump-backing-maga-lite-style",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iD7mjU39SxqU/v1/1200x800.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-22T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-08-23-gowdy-biden-claimed-to-be-moses-leading-us-out-of-the-wilderness-and-the-media-fell-for-it-we-knew-better.md",
-      "title": "Gowdy: Biden claimed to be 'Moses leading us out of the wilderness' and the media fell for it. We knew better",
-      "excerpt": "Sunday Night in America” host Trey Gowdy blamed President Biden for the “women and children killed in the streets” of Afghanistan during a passionate opening monologue Sunday night where he addressed the deteriorating situation as the Taliban continues to gain control in the region.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/gowdy-biden-claimed-to-be-moses-leading-us-out-of-the-wilderness-and-the-media-fell-for-it-we-knew-better",
-      "originalUrl": "https://www.foxnews.com/media/gowdy-biden-claimed-to-be-moses-leading-us-out-of-the-wilderness-and-the-media-fell-for-it-we-knew-better",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/aee76ee9-c646-4fc1-94e5-99a770e1f67a/6c8e40cd-9893-4302-b913-9cb3b2363193/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/gowdy-biden-claimed-to-be-moses-leading-us-out-of-the-wilderness-and-the-media-fell-for-it-we-knew-better.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/gowdy-biden-claimed-to-be-moses-leading-us-out-of-the-wilderness-and-the-media-fell-for-it-we-knew-better.amp",
-      "publishedDateTime": "2021-08-22T18:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-23-john-ratcliffe-adversaries-are-going-to-use-bidens-failure-as-propaganda.md",
-      "title": "John Ratcliffe: Adversaries are going to use Biden's failure as propaganda",
-      "excerpt": "Former Director of National Intelligence John Ratcliffe spoke with Trey Gowdy on international consequences following the Afghanistan crisis.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/john-ratcliffe-adversaries-use-bidens-failure-as-propaganda",
-      "originalUrl": "https://www.foxnews.com/media/john-ratcliffe-adversaries-use-bidens-failure-as-propaganda",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 133,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0ec8488a-9efa-49a7-bcce-f3e8fb73ec8d/c215abbc-6db4-44b0-82fc-f031fc28a0f5/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/john-ratcliffe-adversaries-use-bidens-failure-as-propaganda.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/john-ratcliffe-adversaries-use-bidens-failure-as-propaganda.amp",
-      "publishedDateTime": "2021-08-22T18:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-23-vos-to-keep-trump-updated-on-election-investigation.md",
-      "title": "Vos to keep Trump \"updated\" on election investigation",
-      "excerpt": "Assembly Speaker Robin Vos the said in a statement Saturday he is going to be keeping Trump “updated on our investigation,” the Journal Times reported. In a statement, Vos said: “It was an honor to be invited to travel by private plane with President Trump and top staff to attend his rally in Alabama.",
-      "sourceUrl": null,
-      "webUrl": "https://www.houstonchronicle.com/news/article/Vos-to-keep-Trump-updated-on-election-16404028.php",
-      "originalUrl": "https://www.houstonchronicle.com/news/article/Vos-to-keep-Trump-updated-on-election-16404028.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 360,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.houstonchronicle.com/news/amp/Vos-to-keep-Trump-updated-on-election-16404028.php",
-      "cdnAmpWebUrl": "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Vos-to-keep-Trump-updated-on-election-16404028.php",
-      "publishedDateTime": "2021-08-22T16:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Houston Chronicle",
-        "domain": "houstonchronicle.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/houstonchronicle.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

@@ -2,6 +2,215 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-08-23-carlyle-alums-governor-run-mixes-trump-backing-maga-lite-style.md",
+      "title": "Carlyle Alum’s Governor Run Mixes Trump Backing, MAGA-Lite Style",
+      "excerpt": "The crowd of about 300 Republican stalwarts in Norfolk, Virginia, included those wearing the requisite red baseball caps.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2021-08-23/carlyle-alum-s-governor-run-mixes-trump-backing-maga-lite-style",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2021-08-23/carlyle-alum-s-governor-run-mixes-trump-backing-maga-lite-style",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iD7mjU39SxqU/v1/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-22T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-08-23-gowdy-biden-claimed-to-be-moses-leading-us-out-of-the-wilderness-and-the-media-fell-for-it-we-knew-better.md",
+      "title": "Gowdy: Biden claimed to be 'Moses leading us out of the wilderness' and the media fell for it. We knew better",
+      "excerpt": "Sunday Night in America” host Trey Gowdy blamed President Biden for the “women and children killed in the streets” of Afghanistan during a passionate opening monologue Sunday night where he addressed the deteriorating situation as the Taliban continues to gain control in the region.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/gowdy-biden-claimed-to-be-moses-leading-us-out-of-the-wilderness-and-the-media-fell-for-it-we-knew-better",
+      "originalUrl": "https://www.foxnews.com/media/gowdy-biden-claimed-to-be-moses-leading-us-out-of-the-wilderness-and-the-media-fell-for-it-we-knew-better",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/aee76ee9-c646-4fc1-94e5-99a770e1f67a/6c8e40cd-9893-4302-b913-9cb3b2363193/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/gowdy-biden-claimed-to-be-moses-leading-us-out-of-the-wilderness-and-the-media-fell-for-it-we-knew-better.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/gowdy-biden-claimed-to-be-moses-leading-us-out-of-the-wilderness-and-the-media-fell-for-it-we-knew-better.amp",
+      "publishedDateTime": "2021-08-22T18:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-08-23-john-ratcliffe-adversaries-are-going-to-use-bidens-failure-as-propaganda.md",
+      "title": "John Ratcliffe: Adversaries are going to use Biden's failure as propaganda",
+      "excerpt": "Former Director of National Intelligence John Ratcliffe spoke with Trey Gowdy on international consequences following the Afghanistan crisis.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/john-ratcliffe-adversaries-use-bidens-failure-as-propaganda",
+      "originalUrl": "https://www.foxnews.com/media/john-ratcliffe-adversaries-use-bidens-failure-as-propaganda",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 133,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0ec8488a-9efa-49a7-bcce-f3e8fb73ec8d/c215abbc-6db4-44b0-82fc-f031fc28a0f5/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/john-ratcliffe-adversaries-use-bidens-failure-as-propaganda.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/john-ratcliffe-adversaries-use-bidens-failure-as-propaganda.amp",
+      "publishedDateTime": "2021-08-22T18:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-08-23-vos-to-keep-trump-updated-on-election-investigation.md",
+      "title": "Vos to keep Trump \"updated\" on election investigation",
+      "excerpt": "Assembly Speaker Robin Vos the said in a statement Saturday he is going to be keeping Trump “updated on our investigation,” the Journal Times reported. In a statement, Vos said: “It was an honor to be invited to travel by private plane with President Trump and top staff to attend his rally in Alabama.",
+      "sourceUrl": null,
+      "webUrl": "https://www.houstonchronicle.com/news/article/Vos-to-keep-Trump-updated-on-election-16404028.php",
+      "originalUrl": "https://www.houstonchronicle.com/news/article/Vos-to-keep-Trump-updated-on-election-16404028.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 360,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.houstonchronicle.com/news/amp/Vos-to-keep-Trump-updated-on-election-16404028.php",
+      "cdnAmpWebUrl": "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Vos-to-keep-Trump-updated-on-election-16404028.php",
+      "publishedDateTime": "2021-08-22T16:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Houston Chronicle",
+        "domain": "houstonchronicle.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/houstonchronicle.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-08-22-analysis-why-bidens-afghanistan-exit-wasnt-about-good-politics.md",
       "title": "Analysis: Why Biden's Afghanistan exit wasn't about good politics",
       "excerpt": "In ending America's longest war, President Joe Biden did something popular. It was never going to help him politically.\n    \n",
@@ -567,7 +776,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 298,
+      "heat": 318,
       "tags": null,
       "images": [
         {
@@ -1089,178 +1298,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-08-19-joe-biden-takes-aim-at-states-blocking-mask-mandates-setting-gov-greg-abbott-up-for-showdown-with.md",
-      "title": "Joe Biden takes aim at states blocking mask mandates, setting Gov. Greg Abbott up for showdown with",
-      "excerpt": "Texas Gov. Greg Abbott may soon be fighting a war on two fronts — with local officials and the federal government — to stave off mandatory COVID-19 prevention efforts after the Biden administration announced Wednesday it was going after states like Texas that try to ban universal masking at schools.",
-      "sourceUrl": null,
-      "webUrl": "https://www.expressnews.com/news/local/article/Joe-Biden-takes-aim-at-states-blocking-mask-16396786.php",
-      "originalUrl": "https://www.expressnews.com/news/local/article/Joe-Biden-takes-aim-at-states-blocking-mask-16396786.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.hdnux.com/photos/01/21/40/57/21367760/3/400x0.jpg",
-          "width": 400,
-          "height": 266,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.expressnews.com/news/local/amp/Joe-Biden-takes-aim-at-states-blocking-mask-16396786.php",
-      "cdnAmpWebUrl": "https://www-expressnews-com.cdn.ampproject.org/c/s/www.expressnews.com/news/local/amp/Joe-Biden-takes-aim-at-states-blocking-mask-16396786.php",
-      "publishedDateTime": "2021-08-18T19:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "San Antonio Express-News",
-        "domain": "expressnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-08-19-pence-accuses-president-biden-of-breaking-deal-with-taliban-calls-withdrawal-a-disgrace.md",
-      "title": "Pence accuses President Biden of breaking deal with Taliban, calls withdrawal a 'disgrace'",
-      "excerpt": "Former Vice President Mike Pence criticized President Joe Biden for breaking a deal the Trump administration struck with the Taliban in a Wall Street Journal opinion piece published on Tuesday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.indystar.com/story/news/politics/2021/08/18/pence-bidens-withdrawal-of-afghanistan-a-disgrace/8182830002/",
-      "originalUrl": "https://www.indystar.com/story/news/politics/2021/08/18/pence-bidens-withdrawal-of-afghanistan-a-disgrace/8182830002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 240,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/08/18/NCOD/fb7cc8da-c6d3-4109-b45a-ca37c306cb0f-Afghanistan_50883.jpg-4722d.JPG?auto=webp&crop=4031,2268,x0,y205&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.indystar.com/amp/8182830002",
-      "cdnAmpWebUrl": "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/8182830002",
-      "publishedDateTime": "2021-08-18T16:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indianapolis Star",
-        "domain": "indystar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-08-19-vice-president-mike-pence-abruptly-cancels-events-to-return-to-dc.md",
-      "title": "Vice President Mike Pence Abruptly Cancels Events to Return to DC",
-      "excerpt": "Vice President Mike Pence suddenly canceled all of his scheduled speaking events in Indiana on October 9 in order to fly back to Washington D.C., according to Associated Press White House reporter ...",
-      "sourceUrl": null,
-      "webUrl": "https://heavy.com/news/mike-pence-canceled-indiana-dc-coronavirus/",
-      "originalUrl": "https://heavy.com/news/mike-pence-canceled-indiana-dc-coronavirus/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://heavy.com/wp-content/uploads/2020/10/Pence.jpg?quality=65&strip=all",
-          "width": 780,
-          "height": 439,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://heavy.com/news/mike-pence-canceled-indiana-dc-coronavirus/amp/",
-      "cdnAmpWebUrl": "https://heavy-com.cdn.ampproject.org/c/s/heavy.com/news/mike-pence-canceled-indiana-dc-coronavirus/amp/",
-      "publishedDateTime": "2021-08-18T15:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Heavy.com",
-        "domain": "heavy.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-08-19-joe-biden-says-there-was-no-way-to-exit-without-chaos-as-it-happened.md",
-      "title": "Joe Biden says there was no way to exit without ‘chaos’ – as it happened",
-      "excerpt": "This blog is now closed, You can find our latest live coverage here.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/world/live/2021/aug/18/afghanistan-live-news-updates-taliban-kabul-airport-deaths-afghan-crisis?page=with:block-611d91488f0865f6db860f9d",
-      "originalUrl": "https://www.theguardian.com/world/live/2021/aug/18/afghanistan-live-news-updates-taliban-kabul-airport-deaths-afghan-crisis?page=with:block-611d91488f0865f6db860f9d",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/world/live/2021/aug/18/afghanistan-live-news-updates-taliban-kabul-airport-deaths-afghan-crisis",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/live/2021/aug/18/afghanistan-live-news-updates-taliban-kabul-airport-deaths-afghan-crisis",
-      "publishedDateTime": "2021-08-18T15:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

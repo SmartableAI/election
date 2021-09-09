@@ -2,6 +2,119 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-06-23-nebraska-gov-ricketts-sending-police-to-texas-because-biden-is-failing-so-miserably-at-southern-border.md",
+      "title": "Nebraska Gov. Ricketts sending police to Texas because Biden is 'failing so miserably' at southern border",
+      "excerpt": "Nebraska Republican Gov. Pete Ricketts told \"Your World\" on Tuesday that he has dispatched state troopers to assist the Texas Department of Public Safety because President Joe Biden “failing so miserably” at the southern border.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/nebraska-ricketts-sending-police-texas-biden-failing-southern-border",
+      "originalUrl": "https://www.foxnews.com/media/nebraska-ricketts-sending-police-texas-biden-failing-southern-border",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/nebraska-ricketts-sending-police-texas-biden-failing-southern-border.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/nebraska-ricketts-sending-police-texas-biden-failing-southern-border.amp",
+      "publishedDateTime": "2021-06-22T14:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-22-gop-senators-tear-into-biden-national-security-adviser-for-calling-nord-stream-2-ag-a-swiss-company.md",
+      "title": "GOP senators tear into Biden national security adviser for calling Nord Stream 2 AG a 'Swiss' company",
+      "excerpt": "The senators blasted National Security Adviser Jake Sullivan for his Sunday interview where he was pressed on the Biden administration waiving sanctions on the Nord Stream 2 pipeline, which would give Russia greater influence in Europe.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/FQNayDDaCIU/gop-senators-sullivan-nord-stream-pipeline",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/FQNayDDaCIU/gop-senators-sullivan-nord-stream-pipeline",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b97fd954-04a6-4dd7-a7df-3edb01d82f9b/4b35d8e6-8d1d-4c2a-9367-004a045d6b91/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/gop-senators-sullivan-nord-stream-pipeline.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-senators-sullivan-nord-stream-pipeline.amp",
+      "publishedDateTime": "2021-06-22T13:06:10-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-21-obama-ethics-chief-hunter-biden-selling-art-at-obviously-inflated-prices-to-mystery-buyers-feels-grifty.md",
       "title": "Obama ethics chief: Hunter Biden selling art at 'obviously inflated prices' to mystery buyers feels 'grifty'",
       "excerpt": "Walter Shaub, the former Office of Government Ethics director under Obama, ripped into Biden for selling his art for up to $500,000, saying that, while the issue would not involve his governmental alma mater, “common sense should have steered him away from this sale.”",
@@ -1544,118 +1657,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-16-gop-rep-pushes-biden-admin-to-ensure-va-doesnt-start-providing-abortions-calls-dems-party-of-death.md",
-      "title": "GOP rep pushes Biden admin to ensure VA doesn't start providing abortions, calls Dems 'party of death'",
-      "excerpt": "More than 130 Republicans, led by Rep. Matt Rosendale, signed onto a letter to Veterans Affairs (VA) Secretary Denis McDonough asking him to provide assurances that the VA won't attempt to change its rules to provide abortion or abortion-related services under the new administration.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-rSQQ5WBnbg/republican-matt-rosendale-biden-va-abortions-democrats",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-rSQQ5WBnbg/republican-matt-rosendale-biden-va-abortions-democrats",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/GettyImages-1230425162.jpg",
-          "width": 1281,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-16T02:04:24-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-16-trump-to-visit-decimated-mexico-border-with-texas-gov-abbott-on-june-30.md",
-      "title": "Trump to visit 'decimated' Mexico border with Texas Gov. Abbott on June 30",
-      "excerpt": "President Donald Trump is scheduled to visit the U.S.-Mexico border with Texas Gov. Greg Abbott at the end of the month, which he described on Tuesday as an “unmitigated disaster zone.”",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_BrcixYkGM0/trump-visit-mexico-border-abbott-june-30",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_BrcixYkGM0/trump-visit-mexico-border-abbott-june-30",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 173,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/donald-trump-control.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-15T18:45:11-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Republican Voice"
       ]
     }

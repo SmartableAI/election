@@ -2,6 +2,110 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2021-05-28-men-booted-from-yankee-stadium-after-displaying-trump-won-banner.md",
+      "title": "Men booted from Yankee Stadium after displaying ‘Trump Won’ banner",
+      "excerpt": "Two men who brought a ‘Trump Won Save America’ banner to the May 27, 2021 doubleheader between the Yankees and Blue Jays were greeted with boos from the crowd and escorted out of the",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/05/28/two-men-booted-from-yankee-game-for-holding-a-trump-won-sign/",
+      "originalUrl": "https://nypost.com/2021/05/28/two-men-booted-from-yankee-game-for-holding-a-trump-won-sign/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/05/trump-fans-ejected-index.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/05/28/two-men-booted-from-yankee-game-for-holding-a-trump-won-sign/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/28/two-men-booted-from-yankee-game-for-holding-a-trump-won-sign/amp/",
+      "publishedDateTime": "2021-05-27T21:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-28-biden-administrations-return-to-libya-inexplicable-when-us-faces-multiple-crises-at-home-jim-jordan.md",
+      "title": "Biden administration's return to Libya inexplicable when US faces multiple crises at home: Jim Jordan",
+      "excerpt": "House Judiciary Committee Ranking Member Jim Jordan, R-Ohio, said on Thursday's \"Fox News Primetime\" that President Biden seeking a diplomatic return to Libya “doesn't make sense” as the U.S. faces a number of domestic crises.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/mcoQERVml7c/biden-return-libya-inexplicable-jim-jordan",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/mcoQERVml7c/biden-return-libya-inexplicable-jim-jordan",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6ada39e0-4be0-43b2-8ef3-26f3ebfa1e93/141116e1-8abd-474f-a22d-429f1971b439/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-return-libya-inexplicable-jim-jordan.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-return-libya-inexplicable-jim-jordan.amp",
+      "publishedDateTime": "2021-05-27T19:14:46-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-05-28-trump-laments-7-year-high-gas-prices-as-americans-prep-for-memorial-day.md",
       "title": "Trump laments 7-year-high gas prices as Americans prep for Memorial Day",
       "excerpt": "Former President Donald Trump expressed concern Thursday for Americans forced to pay sky-high gas prices as millions hit the road for the Memorial Day holiday. “With Memorial Day Weekend",
@@ -1532,110 +1636,6 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-21-biden-appoints-amb-sung-kim-as-special-envoy-to-north-korea-signals-commitment-to-diplomacy.md",
-      "title": "Biden appoints Amb. Sung Kim as special envoy to North Korea, signals commitment to diplomacy",
-      "excerpt": "President Biden said the U.S. and South Korea are both “deeply concerned” about the situation in North Korea, and announced he is appointing Ambassador Sung Kim as special envoy to the Democratic People’s Republic of Korea (DPRK).",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/itvR3XbpNO4/biden-moon-deeply-concerned-north-korea-amb-sung-kim-special-envoy",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/itvR3XbpNO4/biden-moon-deeply-concerned-north-korea-amb-sung-kim-special-envoy",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/13bcdd1c-2b91-4615-ac0a-120d7aa8316f/c8802b2d-898e-4d85-b916-7e492de9e029/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-moon-deeply-concerned-north-korea-amb-sung-kim-special-envoy.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-moon-deeply-concerned-north-korea-amb-sung-kim-special-envoy.amp",
-      "publishedDateTime": "2021-05-21T15:28:49-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-22-rachel-maddow-trump-backers-use-audit-excuse-to-discredit-elections-after-trump-loss.md",
-      "title": "Rachel Maddow: Trump Backers Use \"Audit\" Excuse To Discredit Elections After Trump Loss",
-      "excerpt": "MSNBC's Rachel Maddow looks at different places around the United States where Donald Trump supporters, inspired by the ballot inspection spectacle in Arizona, are using conspiracy theories to insist on more 'audits' of the 2020 election results Trump lost,",
-      "sourceUrl": null,
-      "webUrl": "https://www.realclearpolitics.com/video/2021/05/21/rachel_maddow_trump_backers_use_audit_excuse_to_discredit_elections_after_trump_loss.html#!",
-      "originalUrl": "https://www.realclearpolitics.com/video/2021/05/21/rachel_maddow_trump_backers_use_audit_excuse_to_discredit_elections_after_trump_loss.html#!",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.realclear.com/images/52/522176.jpg",
-          "width": 1076,
-          "height": 806,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "http://www.realclearpolitics.com/video/2021/05/21/rachel_maddow_trump_backers_use_audit_excuse_to_discredit_elections_after_trump_loss.amp.html",
-      "cdnAmpWebUrl": "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/05/21/rachel_maddow_trump_backers_use_audit_excuse_to_discredit_elections_after_trump_loss.amp.html",
-      "publishedDateTime": "2021-05-21T10:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RealClearPolitics",
-        "domain": "realclearpolitics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Republican Voice"
       ]
     }

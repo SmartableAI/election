@@ -1,23 +1,28 @@
 ---
 category: news
 title: "Biden ousts 18 Trump military academy board appointees"
-excerpt: "The Biden administration on Wednesday removed 18 appointees named to U.S. military academy boards by Donald Trump in the final months of the Republican president's term in office, according to the White House."
-publishedDateTime: 2021-09-09T01:46:00Z
-originalUrl: "https://lasvegassun.com/news/2021/sep/08/biden-ousts-18-trump-military-academy-board-appoin/"
-webUrl: "https://lasvegassun.com/news/2021/sep/08/biden-ousts-18-trump-military-academy-board-appoin/"
+excerpt: "The Biden administration on Wednesday removed 18 appointees named to U.S. military academy boards by Donald Trump in the final months of the"
+publishedDateTime: 2021-09-09T13:51:00Z
+originalUrl: "https://www.abqjournal.com/2427492/biden-ousts-18-trump-military-academy-board-appointees.html"
+webUrl: "https://www.abqjournal.com/2427492/biden-ousts-18-trump-military-academy-board-appointees.html"
 type: article
-quality: 60
+quality: 70
 heat: -1
 published: false
 
 provider:
-  name: Las Vegas Sun
-  domain: lasvegassun.com
+  name: Albuquerque Journal
+  domain: abqjournal.com
 
 topics:
   - Election
-  - Joe Biden
   - Donald Trump
+
+images:
+  - url: "https://d21yqjvcoayho7.cloudfront.net/wp-content/uploads/2021/09/09/BC-US-Biden-Military-Academies-IMG.jpg"
+    width: 1024
+    height: 682
+    isCached: true
 
 related:
   - title: "Joe Biden raises Trump refugee cap after backlash"
@@ -2950,6 +2955,6 @@ related:
       domain: desmoinesregister.com
     quality: 35
 
-secured: "O1DifQIK1Vumz8seS0mWkZpx74GqoabmQi+dxcWagCKUJcV+NrdgZ0INzrURGPt57LANS5bm9BrMTN2aHnyRBOKBQoYW2pDcBwdis9YPEKepeYF1RQ3XpHwjNkP0CF522dg7PdircVUlKpoaRVIhIRwngtwUOUUjctKIRwURo+IKP6vGMjdAIRDrlG3pbVIYl5253kOrl/Ek1InwbbhxeMXLZ2eqap9Mc3INwypxTggf6WvP8ZYMhPhpG/OiPANE18hp8K5ya5kI1QfmwCxFiN1fVwjfsL9zuO9xIEIQa+zcnARs7GATm4D0LYCnnNit4SwmOaePKjLxhr9ZZomfwsb5/CEcnPAUtk5D3Qo6L/VJXpnM0zX9YTElp6n3yMlF4H+2/0gP3EtFSuFt9xUyjQY6V6W4l7dvTKU6fY0/dq3qD2bICaJf3enEzoUSPA0hY17lH5vJuvKLrDJdYC7m7iS6ZTICBl2gi3OVEkE7dI6MGEn3UB9eoir4JdHuNuny3jQb2lXBfYEeCFxyz0/KRw==;/xE7il+IJej7X3DCcZB5RA=="
+secured: "vYSCHEj4xDZmklHpRzRWoEe+U6OrzQV24G4fDlsJTXVg8NivImNr7XaCm2+PdigDQ7fVkiKG8UfbxQQHMXAORMH8eD5wGyVweLbx2TUtYFXt1YpCNJ7/yqiNOO0fjHYXfZD1mde0b/qniqfdXgMhOg6g/668wfpBllhidxTT/G6aG27F2Me4k3MGhIN+XholJNPtoDV1ezpmxGvysbXScTQ87aTdCzHq/CHCgBOmC6DNqCNoVvhLDzd3tukfoNS0xC0oP31eMCjnHlf6t5+an7Dn7RyZXur3nz6+q8ovfu2NH9XxhtFGi6SkLOuj1dc0nE5oQ+QLMGwJePdu3pHOqiYp+oulSe/4DeT9TplK9oE=;C+xyLbMpsuDwvpKWju5FJg=="
 ---
 

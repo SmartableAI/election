@@ -2,6 +2,111 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2021-05-24-liz-cheney-comes-out-in-support-of-stricter-voting-laws-sees-no-link-to-trump.md",
+      "title": "Liz Cheney comes out in support of stricter voting laws, sees no link to Trump",
+      "excerpt": "Liz Cheney — the daughter of former Vice President Dick Cheney — was removed earlier this month from her job as House GOP Conference chair for her continued focus on criticizing Donald",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/05/24/liz-cheney-comes-out-in-support-of-stricter-voting-laws/",
+      "originalUrl": "https://nypost.com/2021/05/24/liz-cheney-comes-out-in-support-of-stricter-voting-laws/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/05/cheney-gop-03.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/05/24/liz-cheney-comes-out-in-support-of-stricter-voting-laws/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/24/liz-cheney-comes-out-in-support-of-stricter-voting-laws/amp/",
+      "publishedDateTime": "2021-05-24T08:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-24-dan-bongino-previews-his-fox-nation-show-interview-with-former-president-trump.md",
+      "title": "Dan Bongino previews his Fox Nation show, interview with former President Trump",
+      "excerpt": "Special guest former President Donald Trump will join ‘The Dan Bongino Show’ in its premiere episode on  Monday for a special interview.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/the-dan-bongino-show-radio-program-fox-nation-special",
+      "originalUrl": "https://www.foxnews.com/media/the-dan-bongino-show-radio-program-fox-nation-special",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6e90743a-b334-4c5d-9351-13fe61fe8e1c/3450d469-e3cd-4cbf-ac41-9a07be0907af/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/the-dan-bongino-show-radio-program-fox-nation-special.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/the-dan-bongino-show-radio-program-fox-nation-special.amp",
+      "publishedDateTime": "2021-05-24T08:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-05-24-ex-trump-iran-envoy-brian-hook-joins-cerberus.md",
       "title": "Ex-Trump Iran Envoy Brian Hook Joins Cerberus",
       "excerpt": "Former State Department Iran envoy Brian Hook has joined private-equity firm Cerberus Capital Management.",
@@ -1484,115 +1589,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-05-15-a-colorado-man-accused-of-murdering-his-wife-told-fbi-agents-that-he-submitted-a-ballot-for-trump-in-her-name-because-the-other-guys-were-cheating.md",
-      "title": "A Colorado man accused of murdering his wife told FBI agents that he submitted a ballot for Trump in her name because the 'other guys' were cheating",
-      "excerpt": "Barry Morphew was charged with a felony count of forging public documents after telling investigators that he sent in a vote for his missing wife.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/colorado-man-tried-vote-for-trump-using-missing-wife-identity-2021-5",
-      "originalUrl": "https://www.businessinsider.com/colorado-man-tried-vote-for-trump-using-missing-wife-identity-2021-5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/609e9e50a807be0018d6227e?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/colorado-man-tried-vote-for-trump-using-missing-wife-identity-2021-5?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/colorado-man-tried-vote-for-trump-using-missing-wife-identity-2021-5?amp",
-      "publishedDateTime": "2021-05-14T10:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-05-14-trump-considers-contenders-to-be-his-new-social-media-outlet-after-big-tech-crackdown.md",
-      "title": "Trump Considers Contenders to Be His New Social-Media Outlet After Big Tech Crackdown",
-      "excerpt": "CloutHub and Skylab Apps are among companies vying to work with the former president, who was sidelined by Facebook and Twitter.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/trump-considers-contenders-to-be-his-new-social-media-outlet-after-big-tech-crackdown-11621013567",
-      "originalUrl": "https://www.wsj.com/articles/trump-considers-contenders-to-be-his-new-social-media-outlet-after-big-tech-crackdown-11621013567",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 128,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-338638/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/trump-considers-contenders-to-be-his-new-social-media-outlet-after-big-tech-crackdown-11621013567",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-considers-contenders-to-be-his-new-social-media-outlet-after-big-tech-crackdown-11621013567",
-      "publishedDateTime": "2021-05-14T09:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     }
   ],

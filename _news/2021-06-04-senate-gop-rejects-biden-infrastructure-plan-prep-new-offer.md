@@ -576,6 +576,29 @@ related:
         width: 650
         height: 433
         isCached: true
+  - title: "Joe Biden to require federal workers to get COVID shot"
+    excerpt: "President Joe Biden on Thursday is toughening COVID-19 vaccine requirements for federal workers and contractors as he aims to boost vaccinations and curb the surging delta variant that is killing thousands each week and jeopardizing the nation’s economic recovery."
+    publishedDateTime: 2021-09-09T14:20:00Z
+    webUrl: "https://floridapolitics.com/archives/456242-joe-biden-to-require-federal-workers-to-get-covid-shot/"
+    type: article
+    provider:
+      name: Florida Politics
+      domain: floridapolitics.com
+    quality: 55
+    images:
+      - url: "https://floridapolitics.com/wp-content/uploads/2021/09/Joe-Biden.jpg"
+        width: 780
+        height: 510
+        isCached: true
+  - title: "Biden to Deliver Six-Step Plan on COVID-19 Pandemic"
+    excerpt: "President Joe Biden on Thursday will outline new approaches to control the COVID-19 pandemic in the United States, which rages on despite the wide availability of vaccines. In a speech, Biden will focus on six areas,"
+    publishedDateTime: 2021-09-09T09:03:00Z
+    webUrl: "https://www.usnews.com/news/us/articles/2021-09-09/biden-to-deliver-six-step-plan-on-covid-19-pandemic"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "aLBh/Xm3i4mf3wTqzbMUSBNR7n+vPS9dSR3K3ygV2KJMWG5NLUkmTMqLo0dPZT3EDLdH9g65N68sCGECa9NC7xv/YiTavDVbw02UdsEUuw46drXdxcnVT608obF2418UHTDh697/cAamSIvA+hYUDVby8i+QSltuRxfkGmQNEb05HM4m21BKPNjzVEpgoNujIZ/HLOohgFsHPc6hvpT6FZVydgcH9vEqIbBs6jgccc1TIDcW3MtX/WeZ6pwiK95ekPFOOs8dIr5UvyZm1weUos/8ustU9Ibq00323SNjSFjFDQxpD6EXpxf5/B7OsJ8S3s+0ypdCaUkqwzL/g1PfSzQ8rHHR10X8oTIKUJfJzIW3Ie3r+3MuNLvDpKjWzuSFEj8E8MkG3eLvipkUlRycVWx93z6P4zsWGShk4/hjKoX2HYs2v189Mr5WRVBSJur2PIoL8VQZSVu1oyFfxsNiWp0+toLaEufxlo4rEq3IMBmrEH7CEsjxdZc+o/eGD5T4nS6KWB+0YqfGrxyqdAYyqA==;feHYLO2oHnkg46EwSz0tlA=="
 ---

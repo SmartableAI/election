@@ -508,6 +508,63 @@
       ]
     },
     {
+      "path": "_news/2021-04-23-new-probe-confirms-trump-officials-blocked-puerto-rico-from-receiving-hurricane-aid.md",
+      "title": "New probe confirms Trump officials blocked Puerto Rico from receiving hurricane aid",
+      "excerpt": "Findings from a new inspector general report show how Trump officials blocked hurricane aid for Puerto Rico and obstructed a probe looking into the withholdings.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/news/latino/new-probe-confirms-trump-officials-blocked-puerto-rico-receiving-hurri-rcna749",
+      "originalUrl": "https://www.nbcnews.com/news/latino/new-probe-confirms-trump-officials-blocked-puerto-rico-receiving-hurri-rcna749",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media1.s-nbcnews.com/i/rockcms/2021-04/1132/200724-puerto-rico-ew-323p-053a09_a69b88d4a153c119ebf9b4c21caa3521643fa016.jpg",
+          "width": 2500,
+          "height": 1663,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna749",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna749",
+      "publishedDateTime": "2021-04-22T14:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-23-outrageous-bank-regulator-lobbies-for-trump-era-rule-angering-democrats.md",
       "title": "'Outrageous': Bank regulator lobbies for Trump-era rule, angering Democrats",
       "excerpt": "Consumer watchdogs have warned that it could unleash predatory loans by enabling \"payday\" lenders to evade state interest rate caps.",
@@ -674,62 +731,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-22-washington-post-trump-administration-blocked-investigation-into-delayed-relief-to-puerto-rico-for-2017-hurricane.md",
-      "title": "Washington Post: Trump administration blocked investigation into delayed relief to Puerto Rico for 2017 hurricane",
-      "excerpt": "The Trump administration put up barriers that delayed $20 billion in hurricane relief aid to Puerto Rico and blocked an investigation into the delayed funds, The Washington Post reported Thursday, citing a 46-page inspector general report.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vQlhUwmwniE/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vQlhUwmwniE/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 174,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210422075257-file-hurricane-maria-puerto-rico-2017-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/22/politics/puerto-rico-relief-investigation-washington-post/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/22/politics/puerto-rico-relief-investigation-washington-post/index.html",
-      "publishedDateTime": "2021-04-22T06:31:13-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Democratic Voice"
       ]
     },
@@ -1242,6 +1243,62 @@
       ]
     },
     {
+      "path": "_news/2021-04-18-washington-post-trump-installed-nsa-lawyer-resigns-after-being-on-administrative-leave-for-three-months.md",
+      "title": "Washington Post: Trump-installed NSA lawyer resigns after being on administrative leave for three months",
+      "excerpt": "National Security Agency general counsel Michael Ellis, who was installed by Trump officials in the final days of the administration, resigned from his post on Friday after being on administrative leave since the start of the Biden administration, according to The Washington Post.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dUImdq1jD3Y/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dUImdq1jD3Y/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 178,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200213150327-pentagon-building-aerial-file-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/18/politics/michael-ellis-resignation-nsa/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/18/politics/michael-ellis-resignation-nsa/index.html",
+      "publishedDateTime": "2021-04-18T12:18:12-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-18-biden-takes-on-democrats-mission-impossible-revitalizing-coal-country.md",
       "title": "Biden takes on Democrats’ ‘Mission Impossible’: Revitalizing coal country",
       "excerpt": "Despite deep skepticism from union allies, Democrats are determined to make their “Just Transition” away from fossil fuels work.",
@@ -1633,63 +1690,6 @@
       ],
       "topics": [
         "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-15-biden-tells-family-of-hero-capitol-police-officer-killed-in-car-attack-hes-in-your-blood.md",
-      "title": "Biden tells family of 'hero' Capitol Police officer killed in car attack: 'He’s in your blood'",
-      "excerpt": "President Joe Biden eulogized fallen Capitol Police Officer William “Billy” Evans at a memorial service in the Capitol Rotunda on Tuesday, reflecting on his own personal tragedies as he sought to comfort Evans’ surviving wife and children.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2021/04/13/biden-officer-billy-evans-memorial-481148",
-      "originalUrl": "https://www.politico.com/news/2021/04/13/biden-officer-billy-evans-memorial-481148",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/bb/a7/058c09d345a19933004089104d12/210413-matt-gaetz-women-podium-getty-773.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/2021/04/13/biden-officer-billy-evans-memorial-481148",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/04/13/biden-officer-billy-evans-memorial-481148",
-      "publishedDateTime": "2021-04-15T00:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
         "Democratic Voice"
       ]
     }

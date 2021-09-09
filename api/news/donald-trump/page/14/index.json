@@ -2,6 +2,110 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-06-01-a-former-associate-of-trump-ally-roger-stone-appeared-to-gesture-for-hillary-clinton-to-be-hanged-at-a-conference-with-qanon-attendees.md",
+      "title": "A former associate of Trump ally Roger Stone appeared to gesture for Hillary Clinton to be hanged at a conference with QAnon attendees",
+      "excerpt": "Jason Sullivan, a former social media adviser to Roger Stone, made a gesture appearing to resemble a noose, receiving loud cheers from a crowd.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/roger-stone-adviser-appeared-to-gesture-for-hillary-clinton-to-be-hanged-at-qanon-conference-2021-5",
+      "originalUrl": "https://www.businessinsider.com/roger-stone-adviser-appeared-to-gesture-for-hillary-clinton-to-be-hanged-at-qanon-conference-2021-5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/60b545ff02ac410018f93a82?width=1200&format=jpeg",
+          "width": 1024,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/roger-stone-adviser-appeared-to-gesture-for-hillary-clinton-to-be-hanged-at-qanon-conference-2021-5?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/roger-stone-adviser-appeared-to-gesture-for-hillary-clinton-to-be-hanged-at-qanon-conference-2021-5?amp",
+      "publishedDateTime": "2021-05-31T15:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-05-31-trumps-ex-advisor-tells-qanon-supporters-us-should-have-coup-like-myanmar.md",
+      "title": "Trump's Ex-Advisor Tells QAnon Supporters US Should Have Coup Like Myanmar",
+      "excerpt": "Donald Trump's Former National Security Advisor Michael Flynn told QAnon supporters over the weekend that the United States should have a coup like the one in Myanmar. A video shared on Twitter showed Flynn,",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/trumps-ex-advisor-tells-qanon-supporters-us-should-have-coup-myanmar-3212873",
+      "originalUrl": "https://www.ibtimes.com/trumps-ex-advisor-tells-qanon-supporters-us-should-have-coup-myanmar-3212873",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/26/total-suspended-cash-payments-linked-to-gas-pipeline-AFP_9AT73Q.jpg",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/trumps-ex-advisor-tells-qanon-supporters-us-should-have-coup-myanmar-3212873?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trumps-ex-advisor-tells-qanon-supporters-us-should-have-coup-myanmar-3212873?amp=1",
+      "publishedDateTime": "2021-05-30T22:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-05-31-pastor-greg-locke-continues-to-insist-trump-won-election-biden-is-still-a-fraud.md",
       "title": "Pastor Greg Locke Continues to Insist Trump Won Election, Biden 'Is Still a Fraud'",
       "excerpt": "Controversial right-wing Pastor Greg Locke on Sunday continued to claim that President Joe Biden \"is still a fraud\" and former President Donald Trump won the 2020 presidential election. Locke, head of the Baptist Global Vision Bible Church in Juliet,",
@@ -1465,111 +1569,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-24-liz-cheney-comes-out-in-support-of-stricter-voting-laws-sees-no-link-to-trump.md",
-      "title": "Liz Cheney comes out in support of stricter voting laws, sees no link to Trump",
-      "excerpt": "Liz Cheney — the daughter of former Vice President Dick Cheney — was removed earlier this month from her job as House GOP Conference chair for her continued focus on criticizing Donald",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/05/24/liz-cheney-comes-out-in-support-of-stricter-voting-laws/",
-      "originalUrl": "https://nypost.com/2021/05/24/liz-cheney-comes-out-in-support-of-stricter-voting-laws/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/05/cheney-gop-03.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/05/24/liz-cheney-comes-out-in-support-of-stricter-voting-laws/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/24/liz-cheney-comes-out-in-support-of-stricter-voting-laws/amp/",
-      "publishedDateTime": "2021-05-24T08:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-24-dan-bongino-previews-his-fox-nation-show-interview-with-former-president-trump.md",
-      "title": "Dan Bongino previews his Fox Nation show, interview with former President Trump",
-      "excerpt": "Special guest former President Donald Trump will join ‘The Dan Bongino Show’ in its premiere episode on  Monday for a special interview.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/the-dan-bongino-show-radio-program-fox-nation-special",
-      "originalUrl": "https://www.foxnews.com/media/the-dan-bongino-show-radio-program-fox-nation-special",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6e90743a-b334-4c5d-9351-13fe61fe8e1c/3450d469-e3cd-4cbf-ac41-9a07be0907af/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/the-dan-bongino-show-radio-program-fox-nation-special.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/the-dan-bongino-show-radio-program-fox-nation-special.amp",
-      "publishedDateTime": "2021-05-24T08:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     }
   ],

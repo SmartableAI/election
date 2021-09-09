@@ -2,6 +2,110 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-07-25-ap-fact-check-trump-is-relentless-in-election-fabrications.md",
+      "title": "AP FACT CHECK: Trump is relentless in election fabrications",
+      "excerpt": "Former President Donald Trump is telling some thoroughly debunked stories as he presses his relentless effort to undermine the legitimacy of his election defeat to President Joe Biden",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/ap-fact-check-trump-relentless-election-fabrications-79041392",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/ap-fact-check-trump-relentless-election-fabrications-79041392",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 860,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/WireAP_ed96847b6f054e7392989f75fa9f50f7_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/ap-fact-check-trump-relentless-election-fabrications-79041392",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-fact-check-trump-relentless-election-fabrications-79041392",
+      "publishedDateTime": "2021-07-24T21:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-07-24-arizona-secretary-of-state-tells-trump-before-election-lie-rally-get-over-it.md",
+      "title": "Arizona secretary of state tells Trump before election lie rally: get over it",
+      "excerpt": "Democrat Katie Hobbs says ‘this is nothing more than being a sore loser’ as ex-president heads to Phoenix for event",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/jul/24/arizona-donald-trump-2020-election-katie-hobbs",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/jul/24/arizona-donald-trump-2020-election-katie-hobbs",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 437,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/274b71ffa728f51467d86bfb18529a226c27cbf3/0_180_3600_2160/master/3600.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=9f8b06ce6f4b954493ef7f27f5896593",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/jul/24/arizona-donald-trump-2020-election-katie-hobbs",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jul/24/arizona-donald-trump-2020-election-katie-hobbs",
+      "publishedDateTime": "2021-07-24T09:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-07-24-donald-trump-was-almost-giddy-watching-the-capitol-riot-on-tv-author-says.md",
       "title": "Donald Trump was 'almost giddy' watching the Capitol riot on TV, author says",
       "excerpt": "It took hours for Ivanka Trump and aides to convince the president to rebuke the Capitol riot, according to \"I Alone Can Fix It\" author Carol Leonnig.",
@@ -1452,106 +1556,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-16-inside-donald-trump-jrs-97-million-florida-mansion-with-a-12-acre-backyard.md",
-      "title": "Inside Donald Trump Jr's $9.7 Million Florida Mansion With A 1.2 Acre Backyard",
-      "excerpt": "Donald Trump Jr. and his girlfriend, Kimberly Guilfoyle, bought a new $9.7 million house in Jupiter, Florida that has a massive 1.2-acre backyard with a swimming pool.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/inside-donald-trump-jrs-97-million-florida-mansion-12-acre-backyard-3253012",
-      "originalUrl": "https://www.ibtimes.com/inside-donald-trump-jrs-97-million-florida-mansion-12-acre-backyard-3253012",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/08/04/donald-trump-jr-kimberly-guilfoyle.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/inside-donald-trump-jrs-97-million-florida-mansion-12-acre-backyard-3253012?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/inside-donald-trump-jrs-97-million-florida-mansion-12-acre-backyard-3253012?amp=1",
-      "publishedDateTime": "2021-07-15T22:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-16-megan-fox-rips-burn-a-witch-at-the-stake-cancel-culture-over-her-trump-comments.md",
-      "title": "Megan Fox rips ‘burn-a-witch-at-the-stake’ cancel culture over her Trump comments",
-      "excerpt": "Uhmmm … I do not align myself with any political party or individual politicians,” the Megan Fox wrote in an all-caps message on her Instagram stories addressing her attackers.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/07/15/megan-fox-rips-cancel-culture-over-her-comments-about-trump/",
-      "originalUrl": "https://nypost.com/2021/07/15/megan-fox-rips-cancel-culture-over-her-comments-about-trump/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 130,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/07/machine-gun-kelly-megan-fox-003.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/07/15/megan-fox-rips-cancel-culture-over-her-comments-about-trump/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/15/megan-fox-rips-cancel-culture-over-her-comments-about-trump/amp/",
-      "publishedDateTime": "2021-07-15T10:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     }
   ],

@@ -222,6 +222,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden faces hard truths of the pandemic ahead of major speech"
+    excerpt: "The thing Americans want most from Joe Biden is beyond his power to deliver: an end to the pandemic.\n    \n"
+    publishedDateTime: 2021-09-09T04:40:03Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/K2zUYyquhBo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/09/09/politics/biden-pandemic-hard-truths-major-speech/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/09/09/politics/biden-pandemic-hard-truths-major-speech/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210903110443-01-biden-jobs-report-0903-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden set to address the nation following the US withdrawal from Afghanistan"
     excerpt: "President Joe Biden is slated to address the nation Tuesday on the end of the war in Afghanistan, a day after the last American military planes left the country, concluding the nation's longest war nearly 20 years after it began.\n    \n"
     publishedDateTime: 2021-08-31T14:05:37Z
@@ -363,6 +379,38 @@ related:
     quality: 166
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210901152946-01-jill-biden-dover-0829-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden to announce that all federal workers must be vaccinated, with no option for testing"
+    excerpt: "President Joe Biden on Thursday will impose more stringent vaccine rules on federal workers, and take steps to encourage private businesses to do the same, during a major speech meant to lay out a new approach to combating the coronavirus.\n    \n"
+    publishedDateTime: 2021-09-09T13:26:17Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HWBd9oUYAaw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/09/09/politics/joe-biden-covid-speech/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/09/09/politics/joe-biden-covid-speech/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210909015050-biden-covid-response-remarks-0823-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "After hitting an Obamacare record, Biden's top health administrator eyes further expansion"
+    excerpt: "The Affordable Care Act's upcoming open enrollment period is going to look very different this year. It will be the first since 2016 that the official in charge is actively supporting efforts to get people coverage under the landmark law, rather than trying to undermine it.\n    \n"
+    publishedDateTime: 2021-09-09T14:04:43Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UV5wfpnqMV0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/09/09/politics/chiquita-brooks-lasure-obamacare-expansion/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/09/09/politics/chiquita-brooks-lasure-obamacare-expansion/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 165
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210908200705-chiquita-brooks-lasure-0415-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

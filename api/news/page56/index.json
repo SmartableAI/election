@@ -2,6 +2,219 @@
   "page": 56,
   "value": [
     {
+      "path": "_news/2021-05-14-elise-stefanik-trump-loyalist-wins-republican-leadership-post.md",
+      "title": "Elise Stefanik: Trump loyalist wins Republican leadership post",
+      "excerpt": "US Republicans have appointed New York Congresswoman Elise Stefanik, a Trump loyalist, to the third-ranking post in the House of Representatives. It follows an earlier vote to oust the incumbent chairwoman,",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/world-us-canada-57121629.amp",
+      "originalUrl": "https://www.bbc.com/news/world-us-canada-57121629.amp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/C15D/production/_118510594_gettyimages-1232884209.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/world-us-canada-57121629.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-57121629.amp",
+      "publishedDateTime": "2021-05-14T09:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-05-14-biden-hit-during-police-week-for-pushing-anti-police-myths.md",
+      "title": "Biden hit during ‘Police Week’ for pushing anti-police 'myths’",
+      "excerpt": "Biden also shares blame, said Johnson. In his actions and words Biden has turned away from embracing police and fighting crime, an anchor in his Senate career. It was noticed, also, that he didn't note the death of a small-town Delaware police officer whose funeral drew state officials,",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonexaminer.com/washington-secrets/biden-hit-during-police-week-for-pushing-anti-police-myths",
+      "originalUrl": "https://www.washingtonexaminer.com/washington-secrets/biden-hit-during-police-week-for-pushing-anti-police-myths",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mediadc.brightspotcdn.com/dims4/default/a7b556a/2147483647/strip/true/crop/3012x2013+0+0/resize/3012x2013!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2F69%2F96%2F49ec0120489b92d2900479a46560%2Fap9409130391.jpeg",
+          "width": 3012,
+          "height": 2013,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonexaminer.com/washington-secrets/biden-hit-during-police-week-for-pushing-anti-police-myths?_amp=true",
+      "cdnAmpWebUrl": "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/washington-secrets/biden-hit-during-police-week-for-pushing-anti-police-myths?_amp=true",
+      "publishedDateTime": "2021-05-14T09:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Examiner",
+        "domain": "washingtonexaminer.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonexaminer.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-14-dump-trump-kicking-him-off-nyc-golf-course-may-not-be-easy.md",
+      "title": "Dump Trump? Kicking him off NYC golf course may not be easy",
+      "excerpt": "Donald Trump has a rich history of fighting back when he’s down and making others pay, and that’s exactly how he intends to deal with New York City over its plans to fire his company from running a ci",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Business/wireStory/dump-trump-kicking-off-nyc-golf-easy-77689371",
+      "originalUrl": "https://abcnews.go.com/Business/wireStory/dump-trump-kicking-off-nyc-golf-easy-77689371",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 325,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Sports/WireAP_3640cc63671a47ac969bb32cb955072c_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Business/wireStory/dump-trump-kicking-off-nyc-golf-easy-77689371",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/dump-trump-kicking-off-nyc-golf-easy-77689371",
+      "publishedDateTime": "2021-05-14T07:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-05-14-delaware-state-university-will-use-bidens-stimulus-to-cancel-over-700000-in-student-debt.md",
+      "title": "Delaware State University will use Biden's stimulus to cancel over $700,000 in student debt",
+      "excerpt": "On average, $3,276 in student debt will be canceled for eligible borrowers: recent graduates who faced financial hardships during the pandemic.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/student-loan-debt-cancelation-delaware-state-university-pandemic-financial-hardships-2021-5",
+      "originalUrl": "https://www.businessinsider.com/student-loan-debt-cancelation-delaware-state-university-pandemic-financial-hardships-2021-5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/609e7c2167e41a00186220db?width=1200&format=jpeg",
+          "width": 811,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/student-loan-debt-cancelation-delaware-state-university-pandemic-financial-hardships-2021-5?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/student-loan-debt-cancelation-delaware-state-university-pandemic-financial-hardships-2021-5?amp",
+      "publishedDateTime": "2021-05-14T06:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-05-14-nomination-of-kristen-clarke-controversial-biden-civil-rights-pick-hangs-in-balance.md",
       "title": "Nomination of Kristen Clarke, controversial Biden civil-rights pick, hangs in balance",
       "excerpt": "The Senate Judiciary Committee advanced the nomination of Kristen Clarke to run the civil rights division at the Department of Justice on Thursday, but her confirmation is still not certain as a handful of key moderate senators have yet to announce their stance on the nominee.",
@@ -1121,226 +1334,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-13-ex-wh-counsel-mcgahn-to-testify-behind-closed-doors-about-trump-efforts-to-obstruct-russia-investigation.md",
-      "title": "Ex-WH counsel McGahn to testify behind closed doors about Trump efforts to obstruct Russia investigation",
-      "excerpt": "Former Trump White House counsel Don McGahn will testify before the House Judiciary Committee behind closed doors about then-President Donald Trump's attempts to obstruct the Russia investigation, the House and the Justice Department announced in a court filing Wednesday night.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5d3bRlEiH-Y/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5d3bRlEiH-Y/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 158,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/170519173358-don-mcgahn-2-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/12/politics/don-mcgahn-house-testimony/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/12/politics/don-mcgahn-house-testimony/index.html",
-      "publishedDateTime": "2021-05-12T18:59:15-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-13-anti-trump-former-gop-officials-readying-threat-to-start-a-third-party-report.md",
-      "title": "Anti-Trump former GOP officials readying threat to start a third party: report",
-      "excerpt": "A group of 100 former Republican officials reportedly will release a letter this week threatening to create a third party if the GOP does not change its course and break from former President Trump.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/tpx6Z_QJWCc/100-former-gop-officials-form-third-party",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/tpx6Z_QJWCc/100-former-gop-officials-form-third-party",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 231,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/720/405/AP20334644546013-e1606925054815.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/100-former-gop-officials-form-third-party.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/100-former-gop-officials-form-third-party.amp",
-      "publishedDateTime": "2021-05-12T17:31:02-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-12-biden-calls-netanyahu-says-israel-has-right-to-defend-itself-against-hamas-rockets.md",
-      "title": "Biden calls Netanyahu, says Israel ‘has right to defend itself’ against Hamas rockets",
-      "excerpt": "President Biden on Wednesday spoke with Prime Minister Benjamin Netanyahu to reaffirm U.S. support for Israel after a night of bloodshed with civilians in Tel Aviv sheltering from Hamas rockets.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1WWZ0vwbFK8/biden-calls-netanyahu-says-israel-has-right-to-defend-itself-against-hamas-rockets",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1WWZ0vwbFK8/biden-calls-netanyahu-says-israel-has-right-to-defend-itself-against-hamas-rockets",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 168,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b23813c0-263f-4ba0-bb51-bcdefd534333/bbd01931-98bc-45cb-ac58-22600b835035/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-calls-netanyahu-says-israel-has-right-to-defend-itself-against-hamas-rockets.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-calls-netanyahu-says-israel-has-right-to-defend-itself-against-hamas-rockets.amp",
-      "publishedDateTime": "2021-05-12T16:35:17-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-13-fast-and-efficient-biden-urges-cdc-approved-vaccinations-for-kids-12-15-us-deaths-lowest-in-10-months-latest-covid-19-updates.md",
-      "title": "'Fast and efficient': Biden urges CDC-approved vaccinations for kids 12-15; US deaths lowest in 10 months: Latest COVID-19 updates",
-      "excerpt": "After weeks of the U.S. reporting around 700 deaths per day, the country is now averaging about 600 deaths a day. Latest COVID-19 news.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/health/2021/05/12/covid-pfizer-vaccine-variant-deaths-hesitancy-cases/5046377001/",
-      "originalUrl": "https://www.usatoday.com/story/news/health/2021/05/12/covid-pfizer-vaccine-variant-deaths-hesitancy-cases/5046377001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/05/12/USAT/f1718a84-e8f8-4fa4-95a2-729411511302-AP21131792607869.jpg?auto=webp&crop=5327,2996,x0,y186&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/5046377001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5046377001",
-      "publishedDateTime": "2021-05-12T16:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

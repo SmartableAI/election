@@ -2,6 +2,115 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-06-29-obama-says-trump-violated-core-tenet-of-democracy-with-election-hooey-live.md",
+      "title": "Obama says Trump violated ‘core tenet’ of democracy with election ‘hooey’ – live",
+      "excerpt": "Former president condemns Donald Trump’s election lies – follow all the day’s politics news live",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/live/2021/jun/28/trump-books-biden-latest-live-news?page=with:block-60da4c8a8f08a0630603cff8",
+      "originalUrl": "https://www.theguardian.com/us-news/live/2021/jun/28/trump-books-biden-latest-live-news?page=with:block-60da4c8a8f08a0630603cff8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/636c8e0d3df07afb8f27096332f486ae80835303/0_81_1402_841/master/1402.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=550dec7f6a3f0da6099387db3501f346",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2021/jun/28/trump-books-biden-latest-live-news",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/28/trump-books-biden-latest-live-news",
+      "publishedDateTime": "2021-06-28T14:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-06-29-eric-bolling-a-trump-ally-is-set-to-host-a-new-cable-show-on-newsmax.md",
+      "title": "Eric Bolling, a Trump ally, is set to host a new cable show on Newsmax.",
+      "excerpt": "Like myself, Newsmax is concerned with the direction that Big Tech and Big Corporate Media have taken journalism and our nation,” Mr. Bolling said in a statement.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/06/28/business/media/eric-bolling-newsmax.html",
+      "originalUrl": "https://www.nytimes.com/2021/06/28/business/media/eric-bolling-newsmax.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/06/28/business/28economy-briefing-bolling/28economy-briefing-bolling-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/06/28/business/media/eric-bolling-newsmax.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/28/business/media/eric-bolling-newsmax.amp.html",
+      "publishedDateTime": "2021-06-28T10:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-28-adam-kinzinger-blames-kevin-mccarthy-for-resurrecting-trumps-election-lies.md",
       "title": "Adam Kinzinger Blames Kevin McCarthy for Resurrecting Trump's Election Lies",
       "excerpt": "Kinzinger said the House minority leader had \"resurrected\" Donald Trump politically after first denouncing the former president in the aftermath of the Capitol riot.",
@@ -1462,115 +1571,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/houstonchronicle.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-23-cnns-don-lemon-continues-trump-rants-more-than-two-weeks-straight-after-urging-media-to-leave-him-alone.md",
-      "title": "CNN's Don Lemon continues Trump rants more than two weeks straight after urging media to 'leave him alone'",
-      "excerpt": "CNN anchor Don Lemon's advice to the media about finally letting go former President Trump has apparently fallen on his own deaf ears.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/cnn-don-lemon-trump-leave-him-alone",
-      "originalUrl": "https://www.foxnews.com/media/cnn-don-lemon-trump-leave-him-alone",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a24baf7a-de51-4a09-8ad0-c22706ad7790/297e2969-30f8-4f38-92a0-27c68faad56b/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/cnn-don-lemon-trump-leave-him-alone.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/cnn-don-lemon-trump-leave-him-alone.amp",
-      "publishedDateTime": "2021-06-22T20:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-23-leader-behind-bleach-miracle-cure-claims-trump-consumed-his-product.md",
-      "title": "Leader behind bleach ‘miracle cure’ claims Trump consumed his product",
-      "excerpt": "Mark Grenon says in interview from prison he gave Trump the product and was the source of Trump’s fixation with disinfectant",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/jun/22/bleach-miracle-cure-donald-trump",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/jun/22/bleach-miracle-cure-donald-trump",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/5edf34569ee9fc3692389157f6c2b9262ef820e6/0_60_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=42fee3826a2c52ffe41808621585d86c",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/jun/22/bleach-miracle-cure-donald-trump",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/22/bleach-miracle-cure-donald-trump",
-      "publishedDateTime": "2021-06-22T13:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

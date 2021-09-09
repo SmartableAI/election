@@ -2,6 +2,222 @@
   "page": 42,
   "value": [
     {
+      "path": "_news/2021-06-13-doj-sought-account-information-of-top-trump-white-house-lawyer-report.md",
+      "title": "DOJ sought account information of top Trump White House lawyer: report",
+      "excerpt": "Apple informed former Trump administration White House counsel Don McGahn that the Justice Department subpoenaed information about an email account of his in 2018, and forbade Apple from letting him know, according to a New York Times report.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/PvOaIbRau2c/doj-sought-account-information-top-trump-white-house-lawyer-report",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/PvOaIbRau2c/doj-sought-account-information-top-trump-white-house-lawyer-report",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 475,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/doj-sought-account-information-top-trump-white-house-lawyer-report.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/doj-sought-account-information-top-trump-white-house-lawyer-report.amp",
+      "publishedDateTime": "2021-06-13T11:12:30-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-13-lawmakers-react-to-trump-doj-subpoenas-of-schiff-swalwell.md",
+      "title": "Lawmakers react to Trump DOJ subpoenas of Schiff, Swalwell",
+      "excerpt": "House Speaker Nancy Pelosi (D-Calif.) and other lawmakers responded June 13 to revelations about acts by former president Donald Trump's Justice Department.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/video/politics/lawmakers-react-to-trump-doj-subpoenas-of-schiff-swalwell/2021/06/13/20c5bdba-01b1-43b7-9c31-72fa426d2001_video.html",
+      "originalUrl": "https://www.washingtonpost.com/video/politics/lawmakers-react-to-trump-doj-subpoenas-of-schiff-swalwell/2021/06/13/20c5bdba-01b1-43b7-9c31-72fa426d2001_video.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/06-13-2021/t_5f5e4acf16054d74b7cb0678b91c7c29_name_20210613_SundayShows_DOJ_v1_Copy_01_00_05_47_27_Still014.jpg&w=1080",
+          "width": 1080,
+          "height": 608,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-13T09:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-06-13-pompeo-says-biden-admin-is-taking-america-back-to-obama-years-when-america-was-weak.md",
+      "title": "Pompeo says Biden admin is taking America back to Obama years when 'America was weak'",
+      "excerpt": "Former Secretary of State Mike Pompeo on Sunday said that when he hears the Biden administration talking about “taking America back\" he said they are talking about taking the United States back to the years when “America was weak” during the Obama administration",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/b-a-rOrqQ7w/pompeo-biden-admin-obama-years-america-weak",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/b-a-rOrqQ7w/pompeo-biden-admin-obama-years-america-weak",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 228,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c983db6c-a7f8-4557-9242-2c11f7ed9274/89a027bb-5a9d-4e72-846b-1d33d2f15e8d/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/pompeo-biden-admin-obama-years-america-weak.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pompeo-biden-admin-obama-years-america-weak.amp",
+      "publishedDateTime": "2021-06-13T08:50:23-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-13-andy-slavitt-faults-trump-administration-for-deadly-sins-at-start-of-pandemic.md",
+      "title": "Andy Slavitt faults Trump administration for \"deadly sins\" at start of pandemic",
+      "excerpt": "Andy Slavitt, the former senior White House COVID-19 adviser, says the Trump administration made costly mistakes at the beginning of the pandemic.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/video/andy-slavitt-faults-trump-administration-for-deadly-sins-at-start-of-pandemic/",
+      "originalUrl": "https://www.cbsnews.com/video/andy-slavitt-faults-trump-administration-for-deadly-sins-at-start-of-pandemic/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 141,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2021/06/13/7df1ec35-5dac-488b-82ae-118957459f84/thumbnail/1200x630/a185a3fde40274b688ec16ca77c67a8e/0613-ftn-slavitt-733712-640x360.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/video/andy-slavitt-faults-trump-administration-for-deadly-sins-at-start-of-pandemic/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/andy-slavitt-faults-trump-administration-for-deadly-sins-at-start-of-pandemic/",
+      "publishedDateTime": "2021-06-13T08:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-06-13-biden-to-face-questions-about-rallying-allies-against-chinas-uyghur-treatment.md",
       "title": "Biden to face questions about rallying allies against China's Uyghur treatment",
       "excerpt": "President Biden could face questions about his progress convincing allies to publicly call out China over its Uyghur reeducation camps.",
@@ -1102,222 +1318,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-06-11-trump-doj-secretly-seized-house-democrats-data-in-crackdown-on-leaks.md",
-      "title": "Trump DoJ secretly seized House Democrats’ data in crackdown on leaks",
-      "excerpt": "At least two House members including Adam Schiff targeted in 2018, say officials familiar with the investigation",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/jun/11/trump-doj-democrats-data-seized-apple-adam-schiff",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/jun/11/trump-doj-democrats-data-seized-apple-adam-schiff",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 205,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/833a082fef419e963431b1565b44ba0c16badbf1/0_150_4500_2700/master/4500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=7272812056fc84ee1bc19156633221c5",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/jun/11/trump-doj-democrats-data-seized-apple-adam-schiff",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/11/trump-doj-democrats-data-seized-apple-adam-schiff",
-      "publishedDateTime": "2021-06-11T04:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-11-how-mike-pences-new-carmel-home-compares-to-the-last-one-he-owned.md",
-      "title": "How Mike Pence's new Carmel home compares to the last one he owned",
-      "excerpt": "Former Vice President Mike Pence and his wife Karen have improved their position in life since they last owned a home in Indiana in 2013. The Pences bought a modest home in Columbus in 2001 for about $116,",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2021/06/11/mike-pence-house-carmel-indiana/7633750002/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/06/11/mike-pence-house-carmel-indiana/7633750002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 205,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/01/20/PIND/9de87950-7812-481d-bbbd-87bec24d0513-01202021_Pence_GH_030.jpg?auto=webp&crop=2804,1578,x0,y334&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/7633750002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7633750002",
-      "publishedDateTime": "2021-06-11T02:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-06-11-live-updates-g-7-summit-2021-kicks-of-friday-as-biden-meets-with-world-leaders.md",
-      "title": "LIVE UPDATES: G-7 summit 2021 kicks of Friday as Biden meets with world leaders",
-      "excerpt": "The 47th G-7 summit is set to commence today in the United Kingdom.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ElV9T712Wlo/live-updates-g-7-summit-2021",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ElV9T712Wlo/live-updates-g-7-summit-2021",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 191,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cce6d6c1-0fe1-4f5f-8731-c7540b6bfd85/010d2956-348b-4e65-93fa-f4150af72ea5/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/live-updates-g-7-summit-2021.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-g-7-summit-2021.amp",
-      "publishedDateTime": "2021-06-11T01:42:05-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-11-jill-biden-and-kate-middleton-to-meet-in-cornwall-as-g-7-gets-underway.md",
-      "title": "Jill Biden and Kate Middleton to meet in Cornwall as G-7 gets underway",
-      "excerpt": "First lady Jill Biden will meet with the Duchess of Cambridge for the first time on Friday during her husband’s first trip abroad as president.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/b_U8YRCx_TE/jill-biden-and-kate-middleton-to-meet-in-cornwall-as-g7-gets-underway",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/b_U8YRCx_TE/jill-biden-and-kate-middleton-to-meet-in-cornwall-as-g7-gets-underway",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 235,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b5d27ae1-ccee-45ec-b569-83491164a783/c6bfc349-5323-49c2-b1db-400bc8784729/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/jill-biden-and-kate-middleton-to-meet-in-cornwall-as-g7-gets-underway.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jill-biden-and-kate-middleton-to-meet-in-cornwall-as-g7-gets-underway.amp",
-      "publishedDateTime": "2021-06-11T01:41:50-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

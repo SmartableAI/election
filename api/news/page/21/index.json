@@ -2,6 +2,223 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2021-07-22-pelosi-weighs-adding-kinzinger-a-second-anti-trump-republican-to-the-jan-6-inquiry.md",
+      "title": "Pelosi weighs adding Kinzinger, a second anti-Trump Republican, to the Jan. 6 inquiry.",
+      "excerpt": "The speaker has already given one of the eight Democratic seats on the panel to Representative Liz Cheney, Republican of Wyoming.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/07/22/us/politics/pelosi-kinzinger-jan-6-inquiry.html",
+      "originalUrl": "https://www.nytimes.com/2021/07/22/us/politics/pelosi-kinzinger-jan-6-inquiry.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/07/22/us/politics/22political-briefing-kinzinger/22political-briefing-kinzinger-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/07/22/us/politics/pelosi-kinzinger-jan-6-inquiry.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/22/us/politics/pelosi-kinzinger-jan-6-inquiry.amp.html",
+      "publishedDateTime": "2021-07-22T05:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-22-biden-says-eliminating-filibuster-would-throw-the-entire-congress-into-chaos.md",
+      "title": "Biden says eliminating filibuster would \"throw the entire Congress into chaos\"",
+      "excerpt": "President Biden essentially rejected the idea of eliminating the filibuster, asserting, that doing so would \"throw the entire Congress into chaos, and nothing would get done.\" He was in Cincinnati at a town hall Wednesday night,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/live-updates/joe-biden-town-hall-filibuster/",
+      "originalUrl": "https://www.cbsnews.com/live-updates/joe-biden-town-hall-filibuster/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2021/07/22/6db0226c-75a4-4efe-9e3d-62440af84a2d/thumbnail/1200x630/9c7781d3b07754207b8d6a007309ab26/ap21203035322896-cropped.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/live-updates/joe-biden-town-hall-filibuster/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/live-updates/joe-biden-town-hall-filibuster/",
+      "publishedDateTime": "2021-07-22T04:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-07-22-biden-estimates-when-fda-will-fully-approve-covid-19-jabs.md",
+      "title": "Biden estimates when FDA will fully approve COVID-19 jabs",
+      "excerpt": "President Biden said Wednesday night that his “expectation” is that the COVID-19 vaccines being used in the U.S. under an emergency use authorization should be approved by the Food and Drug Administration by the fall.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/9p0MGVybb6M/biden-estimates-fda-covid",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/9p0MGVybb6M/biden-estimates-fda-covid",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/vaccine_mask_istock.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-22T02:33:22-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-22-audio-trump-says-he-spoke-to-a-loving-crowd-at-jan-6-rally.md",
+      "title": "Audio: Trump says he spoke to a ‘loving crowd’ at Jan. 6 rally",
+      "excerpt": "In an exclusive interview for the new book \"I Alone Can Fix It,\" the former president described the atmosphere on Jan. 6 before the storming of the Capitol as largely friendly and peaceful.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/2021/07/21/trump-interview-i-alone-can-fix-it/",
+      "originalUrl": "https://www.washingtonpost.com/politics/2021/07/21/trump-interview-i-alone-can-fix-it/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NWR5U4SQJMI6XIPV7WXSRT6KSA.jpg&w=1440",
+          "width": 1440,
+          "height": 936,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-22T00:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-07-22-magacoin-pro-trump-cryptocurrency-attracts-over-1000-people-to-sign-up.md",
       "title": "Magacoin: pro-Trump cryptocurrency attracts over 1,000 people to sign up",
       "excerpt": "Magacoin bills itself as the ‘digital currency for the MAGA community’ but data from the site shows most of the cryptocurrency is allocated to its self-style creator",
@@ -1117,219 +1334,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-21-quarterback-tweak-tom-brady-makes-trump-election-joke-at-white-house-ceremony.md",
-      "title": "Quarterback tweak: Tom Brady makes Trump election joke at White House ceremony",
-      "excerpt": "\"I think about 40 percent of people still don't think we won,\" Brady said of his Super Bowl champion Tampa Bay Buccaneers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/donald-trump/quarterback-tweak-tom-brady-makes-trump-election-joke-white-house-n1274527",
-      "originalUrl": "https://www.nbcnews.com/politics/donald-trump/quarterback-tweak-tom-brady-makes-trump-election-joke-white-house-n1274527",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 166,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_29/3492652/210720-tom-brady-white-house-jm-1332.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1274527",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1274527",
-      "publishedDateTime": "2021-07-20T13:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-21-why-trump-is-getting-the-hard-sell-from-his-former-spokesman-to-join-a-new-conservative-social-media-site.md",
-      "title": "Why Trump is getting the hard sell from his former spokesman to join a new conservative social media site",
-      "excerpt": "Jason Miller has been urging Trump to use the social network GETTR. \"He was holding it in his hand, and he's like, 'Wow, I haven't done this in a while.'\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/gettr-trump-jason-miller-pitch-price-conservative-social-media-2021-7",
-      "originalUrl": "https://www.businessinsider.com/gettr-trump-jason-miller-pitch-price-conservative-social-media-2021-7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fe9fce6edf8920018093d62?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-20T11:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-21-its-a-free-country-trump-addresses-pence-as-potential-2024-competitor-in-new-interview.md",
-      "title": "'It’s a free country': Trump addresses Pence as potential 2024 competitor in new interview",
-      "excerpt": "In a newly-released book excerpt, Donald Trump upholds his false election claims, knocks Mike Pence and says he's a potential 2024 presidential rival.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2021/07/20/donald-trump-news-book-mike-pence-potential-2024-presidential-election-candidates-rivals/8023849002/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/07/20/donald-trump-news-book-mike-pence-potential-2024-presidential-election-candidates-rivals/8023849002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 130,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/-mm-/4748097f30d3c081c091f5625cb14d838cab864a/c=0-248-4778-2936/local/-/media/2021/06/11/Hagerstown/27191107f746a16e6127c7fab24d23f4.jpg?auto=webp&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/8023849002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/8023849002",
-      "publishedDateTime": "2021-07-20T11:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-07-21-mccarthy-appoints-0-republicans-who-voted-to-impeach-trump-to-capitol-riot-committee.md",
-      "title": "McCarthy Appoints 0 Republicans Who Voted to Impeach Trump to Capitol Riot Committee",
-      "excerpt": "McCarthy leaving Republicans who voted to impeach Trump off the committee indicates they plan to push back on the idea that Trump is responsible for the riot.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/mccarthy-appoints-0-republicans-who-voted-impeach-trump-capitol-riot-committee-1603920",
-      "originalUrl": "https://www.newsweek.com/mccarthy-appoints-0-republicans-who-voted-impeach-trump-capitol-riot-committee-1603920",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 178,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1829552/trump-republicans-select-committee-impeachment.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/mccarthy-appoints-0-republicans-who-voted-impeach-trump-capitol-riot-committee-1603920?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mccarthy-appoints-0-republicans-who-voted-impeach-trump-capitol-riot-committee-1603920?amp=1",
-      "publishedDateTime": "2021-07-20T10:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

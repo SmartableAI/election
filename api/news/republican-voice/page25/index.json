@@ -2,6 +2,118 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2021-04-02-sean-hannity-biden-administration-waging-all-out-assault-on-american-principles.md",
+      "title": "Sean Hannity: Biden administration waging ‘all-out assault’ on American principles",
+      "excerpt": "President Biden and the Democrats are attempting to destroy American values, \"Hannity\" host Sean Hannity said.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/t0ElbHltqwY/sean-hannity-biden-administration-waging-all-out-assault-on-american-principles",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/t0ElbHltqwY/sean-hannity-biden-administration-waging-all-out-assault-on-american-principles",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 209,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/aa8c3316-6632-4082-a9a7-44390366678c/5ef799d3-b2dc-47aa-aad3-b9c8865eb279/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/sean-hannity-biden-administration-waging-all-out-assault-on-american-principles.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sean-hannity-biden-administration-waging-all-out-assault-on-american-principles.amp",
+      "publishedDateTime": "2021-04-01T19:58:52-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-02-pompeo-regrets-trump-administration-didnt-make-more-progress-with-north-korea.md",
+      "title": "Pompeo regrets Trump administration ‘didn’t make more progress’ with North Korea",
+      "excerpt": "Secretary of State Mike Pompeo said his “regret” under the Trump administration was not convincing North Korea to give up its nuclear program. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vAYTSdqkFkI/pompeo-regrets-didnt-make-more-progress-north-korea",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vAYTSdqkFkI/pompeo-regrets-didnt-make-more-progress-north-korea",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 170,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/GettyImages-1205319274.jpg",
+          "width": 3201,
+          "height": 2134,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/pompeo-regrets-didnt-make-more-progress-north-korea.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pompeo-regrets-didnt-make-more-progress-north-korea.amp",
+      "publishedDateTime": "2021-04-01T19:27:08-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-01-former-sen-perdue-slams-biden-spending-bill-as-a-climate-change-bill-at-its-roots.md",
       "title": "Former Sen. Perdue slams Biden spending bill as a 'climate change bill at its roots'",
       "excerpt": "Former Georgia Senator David Perdue slammed President Biden's $2 trillion infrastructure spending bill Thursday, saying it was \"a climate change bill at its roots.\" ",

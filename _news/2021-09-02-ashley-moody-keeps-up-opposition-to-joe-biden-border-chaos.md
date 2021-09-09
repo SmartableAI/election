@@ -137,6 +137,22 @@ related:
         width: 1024
         height: 643
         isCached: true
+  - title: "President Biden to announce that all federal workers must be vaccinated, with no option for testing"
+    excerpt: "The new announcements move beyond what Biden announced earlier this summer, when he required federal workers be vaccinated but allowed for those who opted out to be subject to stringent mitigation"
+    publishedDateTime: 2021-09-09T13:57:00Z
+    webUrl: "https://www.mercurynews.com/2021/09/09/president-biden-to-announce-that-all-federal-workers-must-be-vaccinated-with-no-option-for-testing/"
+    ampWebUrl: "https://www.mercurynews.com/2021/09/09/president-biden-to-announce-that-all-federal-workers-must-be-vaccinated-with-no-option-for-testing/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/09/09/president-biden-to-announce-that-all-federal-workers-must-be-vaccinated-with-no-option-for-testing/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 61
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2021/09/hypatia-h_0f4b5605c5784d1e5cd906ac7d91e17d-h_ba1125df3e42ad80962dc929c267c35c.jpg?w=1024&#038;h=683"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Biden wants the sun to provide nearly half the nation’s electricity by 2050"
     excerpt: "The Biden administration announced a plan Wednesday to use solar energy to produce nearly half the nation’s electricity by mid-century, part of its ambitious bid to address climate change. The new Energy Department goal would scale up production of solar panels,"
     publishedDateTime: 2021-09-08T15:02:00Z
@@ -165,6 +181,15 @@ related:
         width: 1034
         height: 630
         isCached: true
+  - title: "Biden to Require All Federal Workers to Be Vaccinated -- Source"
+    excerpt: "U.S. President Joe Biden plans to require all federal employees and government contractors to get vaccinated against COVID-19, a source briefed on the matter told Reuters. In July, Biden said federal workers had to get vaccinated or face regular COVID-19 testing and other restrictions like mandatory face masks at workplaces."
+    publishedDateTime: 2021-09-09T13:41:00Z
+    webUrl: "https://www.usnews.com/news/us/articles/2021-09-09/biden-to-require-all-federal-workers-to-be-vaccinated-source"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "XXZEm/EHYiIvTHGwBecwqDIEFwX4TCf6XI0ehA1AVYdn2CUfG8xuvwYGtLvdYOH+vDxJcwjhixYNpHpOpAg4+orLi0vQwBpkDJXioBkVEXPQaJhgvGbPxSW73mQY6hg1lP5h4wt8yS0sjFV9EbKxg9YL9IomvkwIUq1TQt6bkBFUJl6opSJT0jNx3yjXr0lrFXwa7HxUFgOBxjsYJjZKZRyjfygIYSfKd1pej5Wa5AgLJQwTSXo7Vlq+YuCOAk1BbPVmIgWkwWeNz8nMuJ4zyWrzTJKFDO1fGaxsNUtF+lhlUCj83t2iQwWuqwH2V1jQrfZ4e4Euy1/gYbvXTBakS9uCzxHwPELPbCgVwOPJ3Q6PQWHqZ2YP0iSmYcTkcbe3VZMdyNNKubJt7idFvN2GkS18kfIOt9qxKof3GxaXRy9QM80RHUgdEtMCLn7VBvcTJr6wmwB1NugXvs13a/FRSdka5IgO4Z+81ZNUOKYrP13b/VhkyCIEsVDcul8TJ6IVTEjmDMabH1HQIjXpeeNwOQ==;8mYLHBtYzXYP3bjJKLLbkQ=="
 ---

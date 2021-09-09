@@ -2,6 +2,110 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-08-01-trump-has-more-than-100-million-in-political-cash-after-first-six-months-of-2021.md",
+      "title": "Trump has more than $100 million in political cash after first six months of 2021",
+      "excerpt": "Former president Donald Trump's political groups raised $82 million in the first half of 2021, new filings show, and have $102 million in the bank.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/2021/07/31/trump-committees-fundraising-2021-fec/",
+      "originalUrl": "https://www.washingtonpost.com/politics/2021/07/31/trump-committees-fundraising-2021-fec/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ESPLBIXSG4I6XANSTNYGDJMC3A.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-31T21:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-08-01-leave-the-rest-to-me-new-doj-memos-show-theres-more-to-learn-about-trump-and-jan-6.md",
+      "title": "‘Leave the rest to me’: New DOJ memos show there’s more to learn about Trump and Jan. 6",
+      "excerpt": "Trump’s efforts to try to subvert the election were pervasive, unrelenting and fuel for the attack on the Capitol. A full accounting still hasn’t been done.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/leave-the-rest-to-me-new-doj-memos-show-theres-more-to-learn-about-trump-and-jan-6/2021/07/31/086cad9c-f185-11eb-a452-4da5fe48582d_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/leave-the-rest-to-me-new-doj-memos-show-theres-more-to-learn-about-trump-and-jan-6/2021/07/31/086cad9c-f185-11eb-a452-4da5fe48582d_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NLUBOSCXTII6XLGFSLJIDGQ4ZM.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-31T14:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-08-01-rudy-giuliani-says-i-committed-no-crime-while-working-for-trump.md",
       "title": "Rudy Giuliani says ‘I committed no crime’ while working for Trump",
       "excerpt": "Former New York mayor, under federal investigation over dealings in Ukraine, makes unprompted assertion to NBC",
@@ -1429,110 +1533,6 @@
       "ampWebUrl": "https://amp.theguardian.com/books/2021/jul/25/i-alone-can-fix-it-carol-leonnig-philip-rucker-trump-book-bestseller",
       "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/books/2021/jul/25/i-alone-can-fix-it-carol-leonnig-philip-rucker-trump-book-bestseller",
       "publishedDateTime": "2021-07-24T22:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-25-ap-fact-check-trump-is-relentless-in-election-fabrications.md",
-      "title": "AP FACT CHECK: Trump is relentless in election fabrications",
-      "excerpt": "Former President Donald Trump is telling some thoroughly debunked stories as he presses his relentless effort to undermine the legitimacy of his election defeat to President Joe Biden",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/ap-fact-check-trump-relentless-election-fabrications-79041392",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/ap-fact-check-trump-relentless-election-fabrications-79041392",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 860,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/WireAP_ed96847b6f054e7392989f75fa9f50f7_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/ap-fact-check-trump-relentless-election-fabrications-79041392",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-fact-check-trump-relentless-election-fabrications-79041392",
-      "publishedDateTime": "2021-07-24T21:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-24-arizona-secretary-of-state-tells-trump-before-election-lie-rally-get-over-it.md",
-      "title": "Arizona secretary of state tells Trump before election lie rally: get over it",
-      "excerpt": "Democrat Katie Hobbs says ‘this is nothing more than being a sore loser’ as ex-president heads to Phoenix for event",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/jul/24/arizona-donald-trump-2020-election-katie-hobbs",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/jul/24/arizona-donald-trump-2020-election-katie-hobbs",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 437,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/274b71ffa728f51467d86bfb18529a226c27cbf3/0_180_3600_2160/master/3600.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=9f8b06ce6f4b954493ef7f27f5896593",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/jul/24/arizona-donald-trump-2020-election-katie-hobbs",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jul/24/arizona-donald-trump-2020-election-katie-hobbs",
-      "publishedDateTime": "2021-07-24T09:22:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "The Guardian",

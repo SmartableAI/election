@@ -2,6 +2,153 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-09-09-donald-trump-endorses-oak-parks-kristina-karamo-for-secretary-of-state.md",
+      "title": "Donald Trump endorses Oak Park’s Kristina Karamo for secretary of state",
+      "excerpt": "Donald Trump has endorsed Kristina Karama for Michigan Secretary of State. In a statement, the former president said he highly respects the Oak Park resident and that she has his complete and total endorsement to run for “Secretary of State of the Great State of Michigan!",
+      "sourceUrl": null,
+      "webUrl": "https://www.theoaklandpress.com/2021/09/09/donald-trump-endorses-oak-parks-kristina-karama-for-secretary-of-state",
+      "originalUrl": "https://www.theoaklandpress.com/2021/09/09/donald-trump-endorses-oak-parks-kristina-karama-for-secretary-of-state",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.theoaklandpress.com/wp-content/uploads/2021/06/20210603_4502b028-c460-11eb-b412-d780dcc68576.jpg?w=1024&#038;h=683",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theoaklandpress.com/2021/09/09/donald-trump-endorses-oak-parks-kristina-karama-for-secretary-of-state/amp/",
+      "cdnAmpWebUrl": "https://www-theoaklandpress-com.cdn.ampproject.org/c/s/www.theoaklandpress.com/2021/09/09/donald-trump-endorses-oak-parks-kristina-karama-for-secretary-of-state/amp/",
+      "publishedDateTime": "2021-09-09T06:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Oakland Press",
+        "domain": "theoaklandpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-09-09-biden-ousts-18-trump-military-academy-board-appointees-including-spicer-conway.md",
+      "title": "Biden ousts 18 Trump military academy board appointees including Spicer, Conway",
+      "excerpt": "White House press secretary Jen Psaki confirmed that the former Trump officials were asked to resign or face firing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/biden-trump-military-academy-board-appointees-spicer-conway/",
+      "originalUrl": "https://www.cbsnews.com/news/biden-trump-military-academy-board-appointees-spicer-conway/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 256,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2021/04/21/b1dcf65a-9d9f-4729-a1da-d2642b7e846d/thumbnail/1200x630/5d0f4c6708acaad8e13f9e5c29fb77c7/gettyimages-1232425770.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/biden-trump-military-academy-board-appointees-spicer-conway/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-trump-military-academy-board-appointees-spicer-conway/",
+      "publishedDateTime": "2021-09-09T04:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-09-09-donald-trump-asks-how-many-terrorists-are-coming-in-after-kabul-evacuation.md",
+      "title": "Donald Trump Asks 'How Many Terrorists Are Coming In?' After Kabul Evacuation",
+      "excerpt": "The former president again attacked the Biden administration's handling of the Afghan withdrawal during an interview with Fox News' Greg Gutfeld.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/donald-trump-interview-fox-afghanistan-terrorists-biden-1627359",
+      "originalUrl": "https://www.newsweek.com/donald-trump-interview-fox-afghanistan-terrorists-biden-1627359",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1890487/trump-fox-interview.jpg",
+          "width": 3689,
+          "height": 2459,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/donald-trump-interview-fox-afghanistan-terrorists-biden-1627359?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-interview-fox-afghanistan-terrorists-biden-1627359?amp=1",
+      "publishedDateTime": "2021-09-09T02:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-09-09-trump-to-gutfeld-your-fabulous-ratings-are-beating-some-very-untalented-people-slams-bidens-afghan-crisis.md",
       "title": "Trump to Gutfeld: 'Your fabulous ratings are beating some very untalented people'; slams Biden's Afghan crisis",
       "excerpt": "In a “Gutfeld!” exclusive, host Greg Gutfeld sat down for an interview with former President Donald Trump who praised the late-night host for his soaring ratings.",
@@ -56,58 +203,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-09-09-biden-ousts-18-trump-military-academy-board-appointees-including-spicer-conway.md",
-      "title": "Biden ousts 18 Trump military academy board appointees including Spicer, Conway",
-      "excerpt": "White House press secretary Jen Psaki confirmed that the former Trump officials were asked to resign or face firing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/biden-removes-trump-military-academy-board-appointees-spicer-conway/",
-      "originalUrl": "https://www.cbsnews.com/news/biden-removes-trump-military-academy-board-appointees-spicer-conway/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 196,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2021/04/21/b1dcf65a-9d9f-4729-a1da-d2642b7e846d/thumbnail/1200x630/5d0f4c6708acaad8e13f9e5c29fb77c7/gettyimages-1232425770.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/biden-removes-trump-military-academy-board-appointees-spicer-conway/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-removes-trump-military-academy-board-appointees-spicer-conway/",
-      "publishedDateTime": "2021-09-08T18:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     },
     {
@@ -1009,7 +1104,7 @@
       "originalUrl": "https://www.cnbc.com/2021/09/03/trump-should-not-lead-gop-ticket-in-2024-retiring-sen-pat-toomey-says.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 445,
+      "heat": 465,
       "tags": null,
       "images": [
         {
@@ -1359,110 +1454,6 @@
         "name": "Morning Call PA",
         "domain": "mcall.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-09-02-things-are-not-working-well-for-the-trump-picked-pandemic-relief-watchdog.md",
-      "title": "Things are 'not working well' for the Trump-picked pandemic relief watchdog",
-      "excerpt": "\"Everybody kind of expects you to fail. It's kind of set up to fail,\" Brian Miller told Insider.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/covid-19-pandemic-watchdog-cares-act-inspector-general-congress-2021-9",
-      "originalUrl": "https://www.businessinsider.com/covid-19-pandemic-watchdog-cares-act-inspector-general-congress-2021-9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/61300c8c9ef1e50018f952c3?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-02T01:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-09-02-michigan-man-held-in-bomb-hoax-at-trump-hotel-in-las-vegas.md",
-      "title": "Michigan man held in bomb hoax at Trump hotel in Las Vegas",
-      "excerpt": "An arrest report says a 44-year-old Michigan man accused of creating a bomb hoax at the Trump International Hotel in Las Vegas told investigators he wanted to send a message that former Republican Pre",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/US/wireStory/michigan-man-held-bomb-hoax-trump-hotel-las-79778041",
-      "originalUrl": "https://abcnews.go.com/US/wireStory/michigan-man-held-bomb-hoax-trump-hotel-las-79778041",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 285,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/US/210901_vod_onlocationPM_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/US/wireStory/michigan-man-held-bomb-hoax-trump-hotel-las-79778041",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/michigan-man-held-bomb-hoax-trump-hotel-las-79778041",
-      "publishedDateTime": "2021-09-01T17:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

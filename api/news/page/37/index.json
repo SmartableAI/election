@@ -2,6 +2,231 @@
   "page": 37,
   "value": [
     {
+      "path": "_news/2021-06-24-kennedy-blasts-biden-chicago-became-the-worlds-largest-outdoor-shooting-range-because-of-liberal-policies.md",
+      "title": "Kennedy blasts Biden: 'Chicago became the world's largest outdoor shooting range' because of liberal policies",
+      "excerpt": "La., sounded off Wednesday on “Hannity” following President Biden's address laying out his plan to tamp down the nationwide crime surge.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/john-kennedy-joe-biden-chicago-crime",
+      "originalUrl": "https://www.foxnews.com/media/john-kennedy-joe-biden-chicago-crime",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4be42c86-a543-48f5-8c8b-a24a66c35e58/e9c96052-799a-451d-a4ee-87c030fd77ea/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/john-kennedy-joe-biden-chicago-crime.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/john-kennedy-joe-biden-chicago-crime.amp",
+      "publishedDateTime": "2021-06-23T20:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-24-biden-wants-to-slash-national-guard-force-size-despite-busiest-year-since-wwii.md",
+      "title": "Biden wants to slash National Guard force size despite busiest year since WWII",
+      "excerpt": "The National Guard saw its busiest year with more troops deployed in June 2020 than any time since World War II a top general said Wednesday, but White House budget cuts mean the force will see a drop in authorized troops.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dc5aVyLyLx0/national-guard-sees-busiest-year-since-wwii-but-wh-slashes-force-size",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dc5aVyLyLx0/national-guard-sees-busiest-year-since-wwii-but-wh-slashes-force-size",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 231,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b8f5f98e-a448-4dca-9a4c-f1954c8ef45e/472077b9-875e-45ac-b263-61ccec8d21b0/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/national-guard-sees-busiest-year-since-wwii-but-wh-slashes-force-size.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/national-guard-sees-busiest-year-since-wwii-but-wh-slashes-force-size.amp",
+      "publishedDateTime": "2021-06-23T18:38:09-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-24-republican-led-michigan-panel-affirms-biden-victory-in-the-state.md",
+      "title": "Republican-led Michigan panel affirms Biden victory in the state",
+      "excerpt": "An oversight committee in Michigan on Wednesday confirmed the results of the November 2020 general election, which declared President Biden the winner last year.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/J-Jnc8XFkR8/michigan-report-reaffirms-2020-election-results-discrediting-trumps-fraud-claims",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/J-Jnc8XFkR8/michigan-report-reaffirms-2020-election-results-discrediting-trumps-fraud-claims",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 355,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/927e77e2-ca39-4a6c-88f3-95b80880f6a6/46e99853-e6c0-4496-9eb8-2e4a5ed3ae59/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/michigan-report-reaffirms-2020-election-results-discrediting-trumps-fraud-claims.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/michigan-report-reaffirms-2020-election-results-discrediting-trumps-fraud-claims.amp",
+      "publishedDateTime": "2021-06-23T17:25:47-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-23-biden-nominates-cindy-mccain-to-un-post-with-rank-of-ambassador.md",
+      "title": "Biden nominates Cindy McCain to UN post with rank of 'ambassador'",
+      "excerpt": "President Biden nominated Cindy McCain, wife of the late Arizona Republican Sen. John McCain, to be the U.S. representative to the United Nations Agencies for Food and Agriculture Wednesday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_IHJg0dIBrQ/biden-nominates-cindy-mccain-in-second-round-of-key-administration-roles",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_IHJg0dIBrQ/biden-nominates-cindy-mccain-in-second-round-of-key-administration-roles",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b8f5f98e-a448-4dca-9a4c-f1954c8ef45e/472077b9-875e-45ac-b263-61ccec8d21b0/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-nominates-cindy-mccain-in-second-round-of-key-administration-roles.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-nominates-cindy-mccain-in-second-round-of-key-administration-roles.amp",
+      "publishedDateTime": "2021-06-23T15:36:01-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-23-democrats-urge-biden-to-extend-student-loan-pause-until-april-2022.md",
       "title": "Democrats urge Biden to extend student loan pause until April 2022",
       "excerpt": "Key Democratic lawmakers are calling on President Joe Biden to extend the pandemic-related student loan payment pause another six months beyond October -- or until the economy reaches pre-pandemic employment levels, whichever is longer.\n    \n",
@@ -1112,219 +1337,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-23-greg-abbotts-border-wall-pushes-democrats-and-activists-to-stop-ignoring-trump.md",
-      "title": "Greg Abbott's Border Wall Pushes Democrats and Activists to Stop Ignoring Trump",
-      "excerpt": "Many in politics are happy to ignore former president Donald Trump now that he has been banished from most social media networks, but his return to the Texas border June 30 has led Latino groups and activists to mobilize against him once again.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/greg-abbotts-border-wall-pushes-democrats-activists-stop-ignoring-trump-1602668",
-      "originalUrl": "https://www.newsweek.com/greg-abbotts-border-wall-pushes-democrats-activists-stop-ignoring-trump-1602668",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 221,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1826714/abbott-trump.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/greg-abbotts-border-wall-pushes-democrats-activists-stop-ignoring-trump-1602668?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/greg-abbotts-border-wall-pushes-democrats-activists-stop-ignoring-trump-1602668?amp=1",
-      "publishedDateTime": "2021-06-22T12:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-23-us-will-likely-miss-bidens-july-4-covid-19-goal-of-having-70-of-adults-vaccinated-white-house-says.md",
-      "title": "US will likely miss Biden's July 4 COVID-19 goal of having 70% of adults vaccinated, White House says",
-      "excerpt": "COVID-19 Response Team Coordinator Jeff Zients said it's \"more important than ever\" for people to get vaccinated as the Delta variant spreads.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/biden-july-4-covid-vaccine-goal-likely-missed-officials-say-2021-6",
-      "originalUrl": "https://www.businessinsider.com/biden-july-4-covid-vaccine-goal-likely-missed-officials-say-2021-6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 150,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fcb6773b6a3a800199b6dac?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/biden-july-4-covid-vaccine-goal-likely-missed-officials-say-2021-6?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-july-4-covid-vaccine-goal-likely-missed-officials-say-2021-6?amp",
-      "publishedDateTime": "2021-06-22T12:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-06-22-trump-has-zero-desire-to-be-speaker-of-house-spokesman-says.md",
-      "title": "Trump has ‘zero desire’ to be speaker of House, spokesman says",
-      "excerpt": "Chatter about the most unlikely of political comebacks has spread among Trump supporters",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/jun/22/donald-trump-speaker-of-house",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/jun/22/donald-trump-speaker-of-house",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/78c73c867f8f94067b452dfd52da64986d2c9599/0_170_3500_2417/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=e458faaeb9a757d6aee54fbf008b2cdc",
-          "width": 600,
-          "height": 414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/jun/22/donald-trump-speaker-of-house",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/22/donald-trump-speaker-of-house",
-      "publishedDateTime": "2021-06-22T05:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-22-trump-supporters-discussed-revolution-ahead-of-capitol-riot-fbi-agent-says.md",
-      "title": "Trump supporters discussed ‘revolution’ ahead of Capitol riot, FBI agent says",
-      "excerpt": "According to a court filing from an FBI agent obtained by NBC News, Trump supporters were discussing “revolution” on social media ahead of the January 6th Capitol riot, contrasting how FBI Director Christopher Wray portrayed the agency’s intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/now/video/trump-supporters-discussed-revolution-ahead-of-capitol-riot-fbi-agent-says-115249221531",
-      "originalUrl": "https://www.nbcnews.com/now/video/trump-supporters-discussed-revolution-ahead-of-capitol-riot-fbi-agent-says-115249221531",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_06/1624362404449_ott_now_am_capitol_riot_210622_1920x1080.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo115249221531",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo115249221531",
-      "publishedDateTime": "2021-06-22T04:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     }
   ],

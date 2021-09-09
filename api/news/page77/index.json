@@ -2,6 +2,274 @@
   "page": 77,
   "value": [
     {
+      "path": "_news/2021-04-03-obama-congratulates-mlb-for-taking-a-stand-against-georgia-election-law-as-trump-calls-for-boycott.md",
+      "title": "Obama congratulates MLB for 'taking a stand' against Georgia election law as Trump calls for boycott",
+      "excerpt": "Former Presidents Barack Obama and Donald Trump have weighed in on Major League Baseball's decision to move its All-Star Game out of Atlanta in response to Georgia's new sweeping election law that imposes significant new obstacles to voting.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Ie8gzsDKxz4/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Ie8gzsDKxz4/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 215,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200218073745-obama-trump-split-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/03/politics/obama-trump-mlb-all-star-game-georgia-voting-law/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/03/politics/obama-trump-mlb-all-star-game-georgia-voting-law/index.html",
+      "publishedDateTime": "2021-04-03T12:16:51-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-04-trump-money-bomb-scheme-raised-millions-from-unwitting-donors-report.md",
+      "title": "Trump 'money bomb' scheme raised millions from unwitting donors – report",
+      "excerpt": "Practice that used pre-checked boxes and obscure design on fundraising emails condemned as ‘unethical and inappropriate’ Last modified on Sat 3 Apr 2021 15.45 EDT Donald Trump’s 2020 presidential campaign used pre-checked boxes and obscure design on ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/apr/03/trump-money-bomb-scheme-republican-fundraising-2020",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/apr/03/trump-money-bomb-scheme-republican-fundraising-2020",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/7c3b94345e7d9c1981e5298fee284a4497087e54/0_125_3500_2099/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a7aba3783a09ff47a21884a828bfcfa9",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/apr/03/trump-money-bomb-scheme-republican-fundraising-2020",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/apr/03/trump-money-bomb-scheme-republican-fundraising-2020",
+      "publishedDateTime": "2021-04-03T11:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-04-03-brian-kemp-accuses-stacey-abrams-joe-biden-of-lying-that-led-to-mlb-all-star-game-pullout.md",
+      "title": "Brian Kemp Accuses Stacey Abrams, Joe Biden of Lying That Led to MLB All-Star Game Pullout",
+      "excerpt": "During a Saturday press conference at the Georgia State Capitol speaking on Major League Baseball's (MLB) decision to pull the All-Star Game out of Atlanta, Governor Brian Kemp accused President Joe Biden and politician and activist Stacey Abrams of lying ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/brian-kemp-accuses-stacey-abrams-joe-biden-lying-that-led-mlb-all-star-game-pullout-1580885",
+      "originalUrl": "https://www.newsweek.com/brian-kemp-accuses-stacey-abrams-joe-biden-lying-that-led-mlb-all-star-game-pullout-1580885",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1771329/georgia-governor-brian-kemp.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/brian-kemp-accuses-stacey-abrams-joe-biden-lying-that-led-mlb-all-star-game-pullout-1580885?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/brian-kemp-accuses-stacey-abrams-joe-biden-lying-that-led-mlb-all-star-game-pullout-1580885?amp=1",
+      "publishedDateTime": "2021-04-03T09:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-04-03-trump-rages-over-election-coverage-other-than-that-happy-easter.md",
+      "title": "Trump rages over election coverage: 'Other than that, Happy Easter'",
+      "excerpt": "Former President Trump included a brief Easter message in a statement defending his unproven claims of fraud in the 2020 election. In the statement, released by Trump's Save America PAC on Friday ...",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/news/546301-trump-rages-over-election-coverage-other-than-that-happy-easter",
+      "originalUrl": "https://thehill.com/homenews/news/546301-trump-rages-over-election-coverage-other-than-that-happy-easter",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 260,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/trump_at_cpac_02282021_1.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/news/546301-trump-rages-over-election-coverage-other-than-that-happy-easter?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/news/546301-trump-rages-over-election-coverage-other-than-that-happy-easter?amp",
+      "publishedDateTime": "2021-04-03T07:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-04-03-bidens-quest-to-pass-a-multitrillion-dollar-spending-bill-could-be-imperiled-by-legislative-fatigue.md",
+      "title": "Biden's quest to pass a multitrillion-dollar spending bill could be imperiled by 'legislative fatigue'",
+      "excerpt": "President Biden and Congressional Democrats are prepping trillions of dollars in new spending.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/sTZ2qcybLXw/bidens-quest-multitrillion-spending-bill-legislative-fatigue",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/sTZ2qcybLXw/bidens-quest-multitrillion-spending-bill-legislative-fatigue",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/340/340/PergramNewPic-e1538074445253.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/bidens-quest-multitrillion-spending-bill-legislative-fatigue.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-quest-multitrillion-spending-bill-legislative-fatigue.amp",
+      "publishedDateTime": "2021-04-03T07:13:11-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-03-is-mlb-losing-tremendous-numbers-of-fans-as-donald-trump-claims.md",
       "title": "Is MLB Losing 'Tremendous Numbers of Fans,' as Donald Trump Claims?",
       "excerpt": "Former President Donald Trump called for a boycott of Major League Baseball (MLB) on Friday in response to their decision to move the All-Star Game out of Georgia due to the state's controversial new election law. \"Baseball is already losing tremendous ...",
@@ -1076,282 +1344,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-04-01-former-sen-perdue-slams-biden-spending-bill-as-a-climate-change-bill-at-its-roots.md",
-      "title": "Former Sen. Perdue slams Biden spending bill as a 'climate change bill at its roots'",
-      "excerpt": "Former Georgia Senator David Perdue slammed President Biden's $2 trillion infrastructure spending bill Thursday, saying it was \"a climate change bill at its roots.\" ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/arhZXkmdero/former-sen-perdue-slams-biden-spending-bill-as-a-climate-change-bill-at-its-roots",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/arhZXkmdero/former-sen-perdue-slams-biden-spending-bill-as-a-climate-change-bill-at-its-roots",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 208,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/former-sen-perdue-slams-biden-spending-bill-as-a-climate-change-bill-at-its-roots.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/former-sen-perdue-slams-biden-spending-bill-as-a-climate-change-bill-at-its-roots.amp",
-      "publishedDateTime": "2021-04-01T16:56:05-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-02-suicides-fell-by-2600-in-2020-despite-donald-trumps-lockdown-warnings.md",
-      "title": "Suicides Fell by 2,600 in 2020, Despite Donald Trump's Lockdown Warnings",
-      "excerpt": "Suicides dropped in 2020 amid the COVID-19 pandemic despite former President Donald Trump warning that lockdowns would inspire \"suicides by the thousands\" and cause deaths \"in far greater numbers than the numbers that we're talking about with regard to the virus.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/suicides-fell-2600-2020-despite-donald-trumps-lockdown-warnings-1580585",
-      "originalUrl": "https://www.newsweek.com/suicides-fell-2600-2020-despite-donald-trumps-lockdown-warnings-1580585",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1769526/covid-19-lockdowns-suicide-rate-donald-trump.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/suicides-fell-2600-2020-despite-donald-trumps-lockdown-warnings-1580585?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/suicides-fell-2600-2020-despite-donald-trumps-lockdown-warnings-1580585?amp=1",
-      "publishedDateTime": "2021-04-01T15:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-04-01-border-crisis-result-of-biden-decisions-never-seen-it-close-to-this-bad-cruz.md",
-      "title": "Border crisis result of Biden decisions, 'never seen it close to this bad': Cruz",
-      "excerpt": "Sen. Ted Cruz, R-Texas, argued on \"America Reports\" Thursday that President Biden \"caused the border crisis we are seeing right now\" through his immigration actions during his first week in office.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/e7ZyQ1_wTGc/border-crisis-critical-decisions-biden-president-cruz",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/e7ZyQ1_wTGc/border-crisis-critical-decisions-biden-president-cruz",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 250,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/border-crisis-critical-decisions-biden-president-cruz.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/border-crisis-critical-decisions-biden-president-cruz.amp",
-      "publishedDateTime": "2021-04-01T13:40:03-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-01-biden-hhs-ad-campaign-mirrors-dem-super-pac-ads.md",
-      "title": "Biden HHS ad campaign mirrors Dem super PAC ads",
-      "excerpt": "While it is normal for ad blitzes promoting legislation to happen, the ads coincided with a polling memo put out by Priorities USA after the release of the initial ads saying that voters needed to witness Democrats “deliver on policies that provide real benefits to their lives.”",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ibPjcWhOtfM/hhs-ad-health-coverage-covid-relief-bill",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ibPjcWhOtfM/hhs-ad-health-coverage-covid-relief-bill",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 275,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9e887285-a232-43af-9f21-5ce5e41052d1/0a5d2b63-0c9e-4b53-82ce-05b1b70011c3/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/hhs-ad-health-coverage-covid-relief-bill.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hhs-ad-health-coverage-covid-relief-bill.amp",
-      "publishedDateTime": "2021-04-01T13:37:13-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-01-biden-supports-vaccines-for-undocumented-immigrants-psaki.md",
-      "title": "Biden supports vaccines for undocumented immigrants: Psaki",
-      "excerpt": "White House press secretary Jen Psaki said during Thursday's press briefing that President Biden supports coronavirus vaccines for undocumented immigrants.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/EV8mr7fjMXU/biden-vaccines-undocumented-immigrants-coronavirus-florida",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/EV8mr7fjMXU/biden-vaccines-undocumented-immigrants-coronavirus-florida",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 375,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/COVID-Vaccine-AP.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-vaccines-undocumented-immigrants-coronavirus-florida.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-vaccines-undocumented-immigrants-coronavirus-florida.amp",
-      "publishedDateTime": "2021-04-01T12:48:37-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

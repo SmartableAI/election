@@ -2,6 +2,63 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-06-25-nbc-reporter-to-kamala-harris-husband-are-attacks-on-her-motivated-by-her-race-or-sex.md",
+      "title": "NBC reporter to Kamala Harris' husband: Are attacks on her motivated by her race or sex?",
+      "excerpt": "NBC White House correspondent Peter Alexander caught flak Thursday for asking Second Gentleman Douglas Emhoff if Republican criticisms of his wife, Vice President Kamala Harris, were motivated by racism or sexism.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/nbc-reporter-to-kamala-harris-husband-motivated-race-sex",
+      "originalUrl": "https://www.foxnews.com/media/nbc-reporter-to-kamala-harris-husband-motivated-race-sex",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 146,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ad72c4da-8a99-401d-9171-f6eb09076278/70f38fe0-04e0-46b1-a998-fd5eeb4e9e80/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/nbc-reporter-to-kamala-harris-husband-motivated-race-sex.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/nbc-reporter-to-kamala-harris-husband-motivated-race-sex.amp",
+      "publishedDateTime": "2021-06-24T13:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-23-white-house-appropriate-time-for-kamala-harris-border-visit-after-vp-dismissed-it-as-grand-gesture.md",
       "title": "White House: 'Appropriate time' for Kamala Harris border visit after VP dismissed it as 'grand gesture'",
       "excerpt": "The White House on Wednesday said it is the \"appropriate time\" for Vice President Kamala Harris to make the trip to the U.S.-Mexico border, maintaining that timing is not driven by former President Donald Trump's upcoming visit. ",
@@ -1597,49 +1654,6 @@
       "topics": [
         "Election",
         "Republican Voice",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-05-20-sfchronicle-podcast-chronicled-who-is-kamala-harris-wins-webby-award.md",
-      "title": "SFChronicle podcast 'Chronicled: Who is Kamala Harris?' wins Webby Award",
-      "excerpt": "Those were the questions reporters Joe Garofoli and Tal Kopan explored in the six-part series “Chronicled: Who is Kamala Harris?,” named Best Documentary Podcast (Limited-Series/Specials) by the 2021 Webby Awards this week.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sfchronicle.com/about/newsroomnews/article/SFChronicle-podcast-Chronicled-Who-is-Kamala-16187215.php",
-      "originalUrl": "https://www.sfchronicle.com/about/newsroomnews/article/SFChronicle-podcast-Chronicled-Who-is-Kamala-16187215.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.hdnux.com/photos/01/20/11/27/21009919/4/ratio3x2_400.jpg",
-          "width": 400,
-          "height": 267,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.sfchronicle.com/about/newsroomnews/amp/SFChronicle-podcast-Chronicled-Who-is-Kamala-16187215.php",
-      "cdnAmpWebUrl": "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/about/newsroomnews/amp/SFChronicle-podcast-Chronicled-Who-is-Kamala-16187215.php",
-      "publishedDateTime": "2021-05-19T11:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "San Francisco Chronicle",
-        "domain": "sfchronicle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Kamala Harris"
       ]
     }

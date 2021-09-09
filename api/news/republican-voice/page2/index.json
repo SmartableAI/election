@@ -2,6 +2,118 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-09-02-psaki-snaps-at-male-reporter-over-question-about-abortion-bidens-faith-youve-never-faced-those-choices.md",
+      "title": "Psaki snaps at male reporter over question about abortion, Biden's faith: 'You've never faced those choices'",
+      "excerpt": "White House press secretary Jen Psaki snapped at a reporter Thursday after he asked how President Biden can consider himself a Catholic while also supporting abortion.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/PSx_FEa5nFM/psaki-snaps-reporter-abortion-bidens-faith",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/PSx_FEa5nFM/psaki-snaps-reporter-abortion-bidens-faith",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d86e31ba-0f1a-47e5-a0c5-b225000f9b50/81a723a4-3289-4a43-b031-b73ea6346122/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/psaki-snaps-reporter-abortion-bidens-faith.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-snaps-reporter-abortion-bidens-faith.amp",
+      "publishedDateTime": "2021-09-02T12:40:43-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-09-02-biden-helps-secure-tajikistans-border-amid-us-border-crisis.md",
+      "title": "Biden helps secure Tajikistan’s border amid US border crisis",
+      "excerpt": "The United States is helping Tajikistan secure a portion of its border with Afghanistan to help combat security threats in the region, despite the ongoing crisis at the U.S. border.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/GCeTB-W6StQ/biden-secure-tajikistans-border-us-crisis",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/GCeTB-W6StQ/biden-secure-tajikistans-border-us-crisis",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 415,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2dd2cd3e-37db-4527-a410-18c2cb90ae1e/c5e78bb9-d1d4-4a01-9c74-4ef1265d20f0/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-secure-tajikistans-border-us-crisis.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-secure-tajikistans-border-us-crisis.amp",
+      "publishedDateTime": "2021-09-02T08:49:14-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-09-02-arizonas-ag-rebuffs-biden-does-mask-probe-wont-tolerate-efforts-to-undermine-state-sovereignty.md",
       "title": "Arizona's AG rebuffs Biden DOE's mask probe: Won't 'tolerate' efforts to undermine state sovereignty",
       "excerpt": "Arizona Attorney General Mark Brnovich forcefully responded to the Department of Education (DOE) Tuesday, telling Secretary Miguel Cardona he won't \"tolerate\" any federal overreach through the administration's masking investigation.",
@@ -1517,118 +1629,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/obama-ethics-chief-hunter-biden-art-scheme.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/obama-ethics-chief-hunter-biden-art-scheme.amp",
       "publishedDateTime": "2021-08-26T05:05:18-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-25-biden-ally-claims-trump-greater-threat-to-us-than-al-qaeda.md",
-      "title": "Biden ally claims Trump greater 'threat' to US than al Qaeda",
-      "excerpt": "A Democratic insider and vocal ally of President Biden claimed last week that former President Trump and his “Trumpist” supporters are a bigger threat to the United States than the Taliban and al Qaeda fighters.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/oGIOCzBQ88A/biden-ally-trump-more-dangerous-taliban-al-qaeda",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/oGIOCzBQ88A/biden-ally-trump-more-dangerous-taliban-al-qaeda",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 290,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c34b2f4d-518c-4bf2-84bd-016180d30cf8/77b6a3b5-56bf-4b2d-9c4e-e0e7cc4b07a2/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-ally-trump-more-dangerous-taliban-al-qaeda.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-ally-trump-more-dangerous-taliban-al-qaeda.amp",
-      "publishedDateTime": "2021-08-25T09:04:50-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-25-with-biden-poll-numbers-plunging-democrats-worry-afghan-exit-may-impact-next-years-elections.md",
-      "title": "With Biden poll numbers plunging, Democrats worry Afghan exit may impact next year's elections",
-      "excerpt": "The rushed U.S. evacuation in Afghanistan appears to be a key contributing factor in the plunge in President Biden's approval rating in new polls. Some Democrats are worried the political fallout could impair their prospects in the 2022 midterms.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/PEfZ-75ZWeU/biden-poll-numbers-plunging-democrats-worry-afghanistan-midterms",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/PEfZ-75ZWeU/biden-poll-numbers-plunging-democrats-worry-afghanistan-midterms",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 638,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-poll-numbers-plunging-democrats-worry-afghanistan-midterms.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-poll-numbers-plunging-democrats-worry-afghanistan-midterms.amp",
-      "publishedDateTime": "2021-08-25T03:38:13-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

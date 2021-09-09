@@ -191,6 +191,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden administration on sidelines as Americans trapped in Afghanistan get Taliban permission to leave"
+    excerpt: "More Americans finally left Afghanistan Thursday as Qatar works with the Taliban to allow them to exit the country following the U.S. military's withdrawal."
+    publishedDateTime: 2021-09-09T13:21:00Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/SgyzxbgAzgA/biden-administration-on-sidelines-americans-trapped-in-afghanistan-taliban-permission-to-leave"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-administration-on-sidelines-americans-trapped-in-afghanistan-taliban-permission-to-leave.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-administration-on-sidelines-americans-trapped-in-afghanistan-taliban-permission-to-leave.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 160
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden repeatedly implies he’s not in charge of when, where he can take questions from the press"
     excerpt: "President Joe Biden has repeatedly implied that his handlers set the rules and determine when and where he’s allowed to take questions from the press, leading observers to ponder who is actually calling the shots behind the scenes."
     publishedDateTime: 2021-08-30T14:17:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://timesofsandiego.com/politics/2021/09/08/well-show-them-vice-
 cdnAmpWebUrl: "https://timesofsandiego-com.cdn.ampproject.org/c/s/timesofsandiego.com/politics/2021/09/08/well-show-them-vice-president-harris-campaigns-for-gov-newsom-in-bay-area/"
 type: article
 quality: 71
-heat: 131
-published: true
+heat: -1
+published: false
 
 provider:
   name: Times of San Diego
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "U.S. Vice President Kamala Harris to Visit Hampton University on Friday, September 10"
+    excerpt: "U.S. Vice President Kamala Harris will visit Hampton University on Friday, September 10, to recognize the contributions of HBCUs a"
+    publishedDateTime: 2021-09-09T15:27:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/kamala-harris-hampton-university-ea2f36913b333cebf7b3566e3d343498"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 98
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Vice President Kamala Harris and former President George W. Bush to attend 9/11 observance at Flight 93 memorial"
     excerpt: "Former President George W. Bush is scheduled to speak during the annual 9/11 observance of Sept. 11 at the Flight 93 memorial in Somerset County, Pa."
     publishedDateTime: 2021-09-07T15:16:00Z
@@ -70,6 +84,20 @@ related:
       - url: "https://storage.googleapis.com/gal-uploads/1/2021/09/Nguyen-Tran-Thuy-Tien.jpg"
         width: 2249
         height: 1725
+        isCached: true
+  - title: "Bail fund promoted by Kamala Harris set free alleged domestic abuser who’s now charged with murder"
+    excerpt: "Harris faced widespread criticism following her promotion and endorsement of the organization shortly after the Floyd incident."
+    publishedDateTime: 2021-09-07T17:47:00Z
+    webUrl: "https://www.bizpacreview.com/2021/09/07/bail-fund-promoted-by-kamala-harris-set-free-alleged-domestic-abuser-whos-now-charged-with-murder-1130982/"
+    type: article
+    provider:
+      name: BizPac Review
+      domain: bizpacreview.com
+    quality: 41
+    images:
+      - url: "https://www.bizpacreview.com/wp-content/uploads/2021/06/SG-HARRIS-1200x630.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "ydjRdl7PPRRWjtGGVmoG5wBVgWa/5uQ5uTc8KKwOtMpXmEudZhHg3ltNiBYaEHx0GzI/XOUAsQNL1aSI7sGK4n3FWEQKIR9edAwxP6pNjslwVP2wA5ZNx9SCsVdbVvHjaHZCVML4XJ4n41G1LdpHRzXWQLyj7CsTT9d4VrpZumcIJ+JJqgcNe4/RyoPuA8jctI2lWW1ZXMYwHkYA1GiQBaWa1ec2OkzCMb1KXqShtA7VKzkwWO/T94jUcqxMCS1XZlkicQITEw9YE7tJPsGuDQvCEFTox4q2w9o+WiVrVqzyffOC4D1vBm+ogJCSSB88m+l3PyflTH5HqtrDo/4gHW/ScS3R5D8RXF9P7tw/cqQ=;WlOqQF+Gmve5//FNMd/wgg=="

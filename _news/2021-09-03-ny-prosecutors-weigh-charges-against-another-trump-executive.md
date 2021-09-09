@@ -32,19 +32,35 @@ images:
     isCached: true
 
 related:
-  - title: "New additions to Tom Barrack's legal team signal former Trump adviser will fight DOJ's charges"
-    excerpt: "Two prominent New York defense attorneys have joined the legal team for Tom Barrack, the former adviser to then-President Donald Trump who is now facing federal foreign lobbying charges.\n    \n"
-    publishedDateTime: 2021-08-26T18:20:29Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/GBghlC7VPAQ/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/08/26/politics/tom-barrack-expands-defense-team/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/26/politics/tom-barrack-expands-defense-team/index.html"
+  - title: "Melania Trump's closest White House adviser to release book"
+    excerpt: "Stephanie Grisham, whose career with the Trump administration included stints as East Wing communications director, White House press secretary and chief of staff to Melania Trump, has written a book that will be released next month, two people familiar with the project tell CNN.\n    \n"
+    publishedDateTime: 2021-09-09T10:56:52Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8CjaGsPmjiE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/09/09/politics/stephanie-grisham-book/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/09/09/politics/stephanie-grisham-book/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 163
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190814180012-tom-barrack-april-2019-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190302111020-stephanie-grisham-newsroom-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "As Donald Trump makes noise about 2024, Melania Trump tries to stay out of the public eye"
+    excerpt: "As Donald Trump publicly mulls his political future, playing a game of \"will he-won't he\" in a potential bid for the White House in 2024, all the while flexing influence in primaries for next year's midterms, there is one key person noticeably quiet. Again.\n    \n"
+    publishedDateTime: 2021-09-05T13:45:12Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/kt6Ckaj3lzo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/09/05/politics/melania-trump-out-of-the-public-eye-2024/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/09/05/politics/melania-trump-out-of-the-public-eye-2024/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210903203732-melania-donald-trump-split-restricted-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

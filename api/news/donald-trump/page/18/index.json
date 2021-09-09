@@ -2,6 +2,167 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2021-04-23-kerry-blasts-trump-for-pulling-out-of-the-paris-accord-without-any-scientific-evidence.md",
+      "title": "Kerry blasts Trump for pulling out of the Paris accord ‘without any scientific evidence’",
+      "excerpt": "Special presidential envoy for climate John F. Kerry on April 22 said the Biden administration had to restore credibility on climate after former president Donald Trump pulled out of the Paris climate accord \"without any scientific evidence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/video/politics/kerry-blasts-trump-for-pulling-out-of-the-paris-accord-without-any-scientific-evidence/2021/04/22/a8579bcc-bdf9-48f5-a569-039a3ae08043_video.html",
+      "originalUrl": "https://www.washingtonpost.com/video/politics/kerry-blasts-trump-for-pulling-out-of-the-paris-accord-without-any-scientific-evidence/2021/04/22/a8579bcc-bdf9-48f5-a569-039a3ae08043_video.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/04-22-2021/t_39115ea24e174c02b8ae6ab961c27f0a_name_e0ed4a54_a375_11eb_b314_2e993bd83e31.jpg&w=1080",
+          "width": 1080,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-22T11:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-04-22-the-trump-admin-awarded-a-firm-up-to-13-billion-to-make-covid-vaccine-syringes-where-are-they.md",
+      "title": "The Trump admin awarded a firm up to $1.3 billion to make Covid vaccine syringes. Where are they?",
+      "excerpt": "The Trump admin awarded a firm up to $1.3 billion to make Covid vaccine syringes. Where are they? The Covid vaccines are here, but the ApiJect syringe is not yet approved by federal regulators. WASHINGTON — A year after a Connecticut company was awarded federal loans and contracts worth up to nearly $1.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/health/health-care/trump-administration-awarded-firm-1-3-billion-make-covid-vaccine-n1263872",
+      "originalUrl": "https://www.nbcnews.com/health/health-care/trump-administration-awarded-firm-1-3-billion-make-covid-vaccine-n1263872",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media1.s-nbcnews.com/i/newscms/2021_15/3464809/210414-apiject-pre-filled-Injector-ac-1146p_1b21218c8aec487f6d4fbffa9d5e3fde.jpg",
+          "width": 1497,
+          "height": 998,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1263872",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1263872",
+      "publishedDateTime": "2021-04-22T09:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-22-george-w-bush-says-he-probably-wouldnt-golf-at-a-trump-property.md",
+      "title": "George W. Bush Says He Probably Wouldn't Golf at a Trump Property",
+      "excerpt": "\"I like my properties here in Dallas,\" the former Republican president said during a recent appearance on late-night TV.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/george-w-bush-says-he-probably-wouldnt-golf-trump-property-1585680",
+      "originalUrl": "https://www.newsweek.com/george-w-bush-says-he-probably-wouldnt-golf-trump-property-1585680",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1781665/george-w-bush.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/george-w-bush-says-he-probably-wouldnt-golf-trump-property-1585680?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/george-w-bush-says-he-probably-wouldnt-golf-trump-property-1585680?amp=1",
+      "publishedDateTime": "2021-04-22T06:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-04-22-lara-trump-is-wild-card-in-north-carolina-senate-race.md",
       "title": "Lara Trump is wild card in North Carolina Senate race",
       "excerpt": "Former President Trump’s daughter-in-law Lara Trump is looming over the Republican Senate primary in North Carolina as the field grows with some of the state’s biggest GOP names.",
@@ -1417,162 +1578,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-04-16-washington-moves-of-the-week-gaetz-promotes-former-democratic-staffer-while-former-trump-officials-jump-into-america-first-nonprofit.md",
-      "title": "Washington moves of the week: Gaetz promotes former Democratic staffer while former Trump officials jump into 'America First' nonprofit",
-      "excerpt": "Rep. Matt Gaetz has promoted a former Democratic staffer as other aides quit amid the sex trafficking investigation into the Florida Republican and Trump ally.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/washington-moves-jobs-careers-trump-biden-administration-media-lobbying-congress-2021-4",
-      "originalUrl": "https://www.businessinsider.com/washington-moves-jobs-careers-trump-biden-administration-media-lobbying-congress-2021-4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6078928e74da0300181e1f13?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-16T01:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-04-15-pastor-darrell-scott-claims-capitol-riot-was-congress-set-up-to-impeach-donald-trump.md",
-      "title": "Pastor Darrell Scott Claims Capitol Riot Was Congress 'Set Up' to Impeach Donald Trump",
-      "excerpt": "The New Spirit Revival Center founder made the claims on his radio show while discussing the recent review about the January 6 disorder.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/darrell-scott-capitol-riot-congress-set-impeach-donald-trump-1583878",
-      "originalUrl": "https://www.newsweek.com/darrell-scott-capitol-riot-congress-set-impeach-donald-trump-1583878",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1778410/darrell-scott.jpg",
-          "width": 2500,
-          "height": 1662,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/darrell-scott-capitol-riot-congress-set-impeach-donald-trump-1583878?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/darrell-scott-capitol-riot-congress-set-impeach-donald-trump-1583878?amp=1",
-      "publishedDateTime": "2021-04-15T08:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-04-15-qanon-supporters-think-ivanka-trump-vaccine-picture-was-photoshopped.md",
-      "title": "QAnon Supporters Think Ivanka Trump Vaccine Picture Was Photoshopped",
-      "excerpt": "The conspiracy theorists suggest that an image of former President Donald Trump's eldest daughter was staged, or that it is not her in the photo she tweeted.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/qanon-ivanka-trump-covid-vaccine-1583753",
-      "originalUrl": "https://www.newsweek.com/qanon-ivanka-trump-covid-vaccine-1583753",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1778191/qanon.jpg",
-          "width": 2491,
-          "height": 1657,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/qanon-ivanka-trump-covid-vaccine-1583753?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/qanon-ivanka-trump-covid-vaccine-1583753?amp=1",
-      "publishedDateTime": "2021-04-15T02:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

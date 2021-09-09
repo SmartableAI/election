@@ -163,22 +163,6 @@ related:
         width: 600
         height: 336
         isCached: true
-  - title: "Former President Trump to serve as boxing commentator"
-    excerpt: "Former President Donald Trump is scheduled to provide commentary from ringside Saturday for an exhibition boxing card headlined by 58-year-old former heavyweight champion Evander Holyfield. Trump will be joined by his son,"
-    publishedDateTime: 2021-09-09T03:17:00Z
-    webUrl: "https://www.seattlepi.com/sports/article/Former-President-Trump-to-serve-as-boxing-16444248.php"
-    ampWebUrl: "https://www.seattlepi.com/sports/amp/Former-President-Trump-to-serve-as-boxing-16444248.php"
-    cdnAmpWebUrl: "https://www-seattlepi-com.cdn.ampproject.org/c/s/www.seattlepi.com/sports/amp/Former-President-Trump-to-serve-as-boxing-16444248.php"
-    type: article
-    provider:
-      name: seattlepi.com
-      domain: seattlepi.com
-    quality: 75
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
   - title: "Republican Donors Show Disinterest In Trump 2024 Campaign, Focus On Midterms"
     excerpt: "Top Republican Party donors have pushed back on fundraising for former President Donald Trump’s potential 2024 campaign and are instead focused on the 2022 midterm elections, CNBC reported Tuesday. Almost immediately after leaving the White House in January,"
     publishedDateTime: 2021-08-31T21:38:00Z
@@ -234,6 +218,17 @@ related:
         width: 499
         height: 325
         isCached: true
+  - title: "Former President Trump to serve as boxing commentator"
+    excerpt: "Former President Donald Trump is scheduled to provide commentary from ringside Saturday for an exhibition boxing card headlined by 58-year-old former heavyweight champion Evander Holyfield."
+    publishedDateTime: 2021-09-09T09:45:00Z
+    webUrl: "https://www.bellinghamherald.com/sports/article254086823.html"
+    ampWebUrl: "https://amp.bellinghamherald.com/sports/article254086823.html"
+    cdnAmpWebUrl: "https://amp-bellinghamherald-com.cdn.ampproject.org/c/s/amp.bellinghamherald.com/sports/article254086823.html"
+    type: article
+    provider:
+      name: The Bellingham Herald
+      domain: bellinghamherald.com
+    quality: 55
   - title: "Trump Backs Challenger to Third House Republican Who Voted to Impeach"
     excerpt: "Former President Donald Trump on Tuesday endorsed Michigan state lawmaker Steve Carra's bid to unseat U.S. Representative Fred Upton, his third endorsement of a challenger to a Republican who voted to impeach him on a charge of sparking the Capitol riot."
     publishedDateTime: 2021-09-07T19:34:00Z

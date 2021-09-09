@@ -2,6 +2,230 @@
   "page": 33,
   "value": [
     {
+      "path": "_news/2021-06-30-biden-signs-bill-repealing-trump-era-epa-rule-on-methane-emissions.md",
+      "title": "Biden signs bill repealing Trump-era EPA rule on methane emissions",
+      "excerpt": "President Joe Biden on Wednesday signed a bill repealing a Trump-era rule that rolled back regulations on methane emissions -- a particularly potent greenhouse gas believed to contribute significantly to the climate crisis -- from the oil and gas industries.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/U2lze8ypKcM/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/U2lze8ypKcM/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 670,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210629161844-03-biden-wisconsin-infrastructure-0629-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/30/politics/biden-methane-emissions/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/30/politics/biden-methane-emissions/index.html",
+      "publishedDateTime": "2021-06-30T15:15:04-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-30-analysis-how-nyc-board-of-elections-mistake-fuels-trumps-false-election-fraud-claims.md",
+      "title": "Analysis: How NYC Board of Elections' mistake fuels Trump's false election fraud claims",
+      "excerpt": "The New York City Democratic mayoral primary is a total mess. The city's Board of Elections, known for previous errors, managed to make its biggest one to date when it accidentally included about 135,000 test ballots in its initial calculation of the primary results under the city's new ranked-choice",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/An96uP27e2U/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/An96uP27e2U/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 282,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210618094727-03-nyc-mayoral-election-early-voting-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/30/politics/board-of-elections-nyc-analysis/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/30/politics/board-of-elections-nyc-analysis/index.html",
+      "publishedDateTime": "2021-06-30T14:02:39-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-30-cheney-calls-select-committee-our-only-remaining-option-and-attacks-gop-leaders-for-appeasing-trump.md",
+      "title": "Cheney calls select committee 'our only remaining option' and attacks GOP leaders for appeasing Trump",
+      "excerpt": "Wyoming Rep. Liz Cheney sharply criticized Republican leaders ahead of a vote Wednesday to create a select committee to investigate the January 6 attack on the US Capitol, which she said she supported.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NDe_ujllG8w/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NDe_ujllG8w/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 200,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210514225249-cnne-liz-cheney-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/30/politics/liz-cheney-january-6-committee-trump-gop-leaders/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/30/politics/liz-cheney-january-6-committee-trump-gop-leaders/index.html",
+      "publishedDateTime": "2021-06-30T12:51:11-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-30-psaki-on-cosby-release-biden-a-longtime-advocate-in-fighting-violence-against-women.md",
+      "title": "Psaki on Cosby release: Biden a longtime 'advocate' in fighting 'violence against women'",
+      "excerpt": "White House press secretary Jen Psaki said President Joe Biden remains an “advocate” for survivors of sexual assault following the Pennsylvania Supreme Court's decision to throw out Bill Cosby’s conviction Wednesday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/B3g5eVOk6O0/psaki-on-cosby-release-biden-a-longtime-advocate-in-fighting-violence-against-women",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/B3g5eVOk6O0/psaki-on-cosby-release-biden-a-longtime-advocate-in-fighting-violence-against-women",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 166,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7c355bc6-23c9-410d-a4b7-ab7092e5a405/2de5fa6c-be65-471c-b285-bb4c499ac0f5/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/psaki-on-cosby-release-biden-a-longtime-advocate-in-fighting-violence-against-women.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-on-cosby-release-biden-a-longtime-advocate-in-fighting-violence-against-women.amp",
+      "publishedDateTime": "2021-06-30T12:39:34-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-30-trump-at-us-mexican-border-slams-biden-for-open-really-dangerous-border.md",
       "title": "Trump, at U.S.-Mexican border, slams Biden for ‘open, really dangerous’ border",
       "excerpt": "Former President Trump returned to the nation’s southern border on Wednesday, taking direct aim at his Democratic successor in the White House for the surge this year in migrants crossing the U.S.-Mexican border.",
@@ -1143,219 +1367,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-06-29-online-activism-is-spilling-into-the-streets-of-southern-california-sparking-a-post-trump-movement.md",
-      "title": "Online activism is spilling into the streets of Southern California, sparking a post-Trump movement",
-      "excerpt": "Researchers say a combination of the pandemic and the election radicalized people and enabled right-leaning groups that were not previously aligned to find one another online — creating a mega-network that was often fueled by outrage and misinformation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/technology/2021/06/29/social-media-california-right-trump/",
-      "originalUrl": "https://www.washingtonpost.com/technology/2021/06/29/social-media-california-right-trump/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YO7NMVX4PVG5RL4LICS6GKJFDY.jpg&w=1440",
-          "width": 1440,
-          "height": 1081,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/technology/2021/06/29/social-media-california-right-trump/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2021/06/29/social-media-california-right-trump/?outputType=amp",
-      "publishedDateTime": "2021-06-29T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-29-trump-again-becomes-gops-main-show-the-note.md",
-      "title": "Trump again becomes GOP's main show: The Note",
-      "excerpt": "To many elected Republicans, former President Donald Trump is engaged in a sideshow that they'd just as soon ignore, but he's going to keep feeding the news cycle.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/trump-gops-main-show-note/story?id=78540913",
-      "originalUrl": "https://abcnews.go.com/Politics/trump-gops-main-show-note/story?id=78540913",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 425,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/trump-rt-er-210628_1624925077210_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/trump-gops-main-show-note/story?id=78540913",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-gops-main-show-note/story?id=78540913",
-      "publishedDateTime": "2021-06-29T03:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-29-joe-biden-and-justin-trudeau-bet-on-stanley-cup-final-outcome-youre-on-pal.md",
-      "title": "Joe Biden and Justin Trudeau Bet on Stanley Cup Final Outcome: 'You're on Pal'",
-      "excerpt": "President Joe Biden and Canadian Prime Minister Justin Trudeau have agreed to bet on the outcome of the Stanley Cup Final, which feature a Canadian franchise for the first time in a decade. Much to delight of NHL fans,",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/joe-biden-justin-trudeau-bet-stanley-cup-final-montreal-canadiens-tampa-bay-lightning-1605037",
-      "originalUrl": "https://www.newsweek.com/joe-biden-justin-trudeau-bet-stanley-cup-final-montreal-canadiens-tampa-bay-lightning-1605037",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1832638/joe-biden-justin-trudeau.jpg",
-          "width": 2276,
-          "height": 1500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/joe-biden-justin-trudeau-bet-stanley-cup-final-montreal-canadiens-tampa-bay-lightning-1605037?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-justin-trudeau-bet-stanley-cup-final-montreal-canadiens-tampa-bay-lightning-1605037?amp=1",
-      "publishedDateTime": "2021-06-29T02:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-06-29-gregg-jarrett-debunks-reports-trump-would-be-charged-for-tax-fraud-rely-on-media-youre-twice-the-fool.md",
-      "title": "Gregg Jarrett debunks reports Trump would be charged for tax fraud: Rely on media, you’re ‘twice the fool’",
-      "excerpt": "Fox News legal analyst Gregg Jarrett tells \"Hannity\" that the media’s assumption that former President Trump would be put behind bars for alleged fraud was always foolish.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/gregg-jarrett-trump-tax-fraud",
-      "originalUrl": "https://www.foxnews.com/media/gregg-jarrett-trump-tax-fraud",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/gregg-jarrett-trump-tax-fraud.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/gregg-jarrett-trump-tax-fraud.amp",
-      "publishedDateTime": "2021-06-28T22:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     }
   ],

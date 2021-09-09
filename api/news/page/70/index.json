@@ -2,6 +2,279 @@
   "page": 70,
   "value": [
     {
+      "path": "_news/2021-04-14-pastor-jeff-jansen-says-trump-is-still-president-people-will-be-dancing-in-the-streets-in-april.md",
+      "title": "Pastor Jeff Jansen Says Trump Is 'Still President,' People Will Be 'Dancing in the Streets' in April",
+      "excerpt": "Pastor Jeff Jansen, a self-described \"prophet,\" still believes former President Donald Trump is in office and advised people to \"watch what the Lord does\" this month. Jansen, who leads the Global Fire Ministries International in Murfreesboro, Tennessee ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/pastor-jeff-jansen-says-trump-still-president-people-will-dancing-streets-april-1583396",
+      "originalUrl": "https://www.newsweek.com/pastor-jeff-jansen-says-trump-still-president-people-will-dancing-streets-april-1583396",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1777294/donald-trump-jeff-jansen-biden.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/pastor-jeff-jansen-says-trump-still-president-people-will-dancing-streets-april-1583396?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/pastor-jeff-jansen-says-trump-still-president-people-will-dancing-streets-april-1583396?amp=1",
+      "publishedDateTime": "2021-04-13T13:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-04-13-ex-trump-dhs-officials-say-harris-needs-to-visit-border-accuse-her-of-dodging-political-hot-potato.md",
+      "title": "Ex-Trump DHS officials say Harris needs to visit border, accuse her of dodging 'political hot potato'",
+      "excerpt": "Former Department of Homeland Security (DHS) officials under the Trump administration on Tuesday said Vice President Kamala Harris needs to visit the border soon if she is going to succeed in her role as border czar – while accusing her of dodging what has become a \"political hot potato\" for the administration.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/oZ2MhiRyPYs/trump-dhs-officials-harris-border-political-hot-potato",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/oZ2MhiRyPYs/trump-dhs-officials-harris-border-political-hot-potato",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 245,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/abb66e53-4ffe-4749-bfa4-7c5a9e5312a3/136d60fa-cca1-4e13-a21f-fd66ca526a31/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-dhs-officials-harris-border-political-hot-potato.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-dhs-officials-harris-border-political-hot-potato.amp",
+      "publishedDateTime": "2021-04-13T12:36:52-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-04-13-biden-doesnt-agree-with-tlaibs-call-for-ending-policing-psaki-says-not-the-presidents-view.md",
+      "title": "Biden doesn't agree with Tlaib's call for ending policing, Psaki says: 'Not the president's view'",
+      "excerpt": "White House press secretary Jen Psaki made clear on Tuesday that President Biden does not feel the same way as Rep. Rashida Tlaib, D-Mich., when it comes to police following the death of Daunte Wright.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WGptyjWzGXY/biden-doesnt-agree-with-tlaibs-call-for-ending-policing",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WGptyjWzGXY/biden-doesnt-agree-with-tlaibs-call-for-ending-policing",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 162,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-doesnt-agree-with-tlaibs-call-for-ending-policing.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-doesnt-agree-with-tlaibs-call-for-ending-policing.amp",
+      "publishedDateTime": "2021-04-13T11:26:07-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-13-biden-needs-to-send-message-to-migrants-that-border-is-not-open-national-border-patrol-council-vp.md",
+      "title": "Biden needs to send message to migrants that border 'is not open': National Border Patrol Council VP",
+      "excerpt": "National Border Patrol Council Vice President Hector Garza argued on “America’s Newsroom” on Tuesday that more needs to be done to “stem the flow of illegal immigration” and offered solutions that he argued will be more effective than sending payments to Central American nations.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Nz7gE73YvJE/biden-message-border-not-open-border-patrol-council-vp",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Nz7gE73YvJE/biden-message-border-not-open-border-patrol-council-vp",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 180,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-message-border-not-open-border-patrol-council-vp.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-message-border-not-open-border-patrol-council-vp.amp",
+      "publishedDateTime": "2021-04-13T10:55:28-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-14-austin-us-adds-500-troops-in-germany-despite-trump-pledge.md",
+      "title": "Austin: US adds 500 troops in Germany, despite Trump pledge",
+      "excerpt": "Last year, President Donald Trump ordered the withdrawal of 12,000 troops from Germany as retribution for what he considered Germany’s refusal to spend more on its own defense. Austin suspended ...",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/defense-secretary-austin-us-adding-500-troops-germany-77040046",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/defense-secretary-austin-us-adding-500-troops-germany-77040046",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/WireAP_fce94cb13e4c444581fabcdd20b6585a_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/defense-secretary-austin-us-adding-500-troops-germany-77040046",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/defense-secretary-austin-us-adding-500-troops-germany-77040046",
+      "publishedDateTime": "2021-04-13T10:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABCNews",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-04-13-biden-and-obama-to-appear-in-tv-special-to-promote-covid-19-vaccinations.md",
       "title": "Biden and Obama to appear in TV special to promote Covid-19 vaccinations",
       "excerpt": "President Joe Biden and former President Barack Obama will appear in an hour-long NBC special on Sunday aimed at promoting Covid-19 vaccinations as they hope to convince hesitant Americans to get shots.\n    \n",
@@ -1097,279 +1370,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-12-55-progressive-groups-urge-biden-to-go-big-on-family-friendly-care-infrastructure.md",
-      "title": "55 progressive groups urge Biden to go big on 'family-friendly care infrastructure'",
-      "excerpt": "An envelope. It indicates the ability to send an email. The first $2.3 trillion part of the infrastructure package President Joe Biden unveiled on March 31 included some elements related to care-economy measures, like investments in home care. But ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/progressive-groups-urge-biden-to-go-big-on-care-infrastructure-2021-4",
-      "originalUrl": "https://www.businessinsider.com/progressive-groups-urge-biden-to-go-big-on-care-infrastructure-2021-4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 199,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/606584ffdaf0f10018f9964b?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/progressive-groups-urge-biden-to-go-big-on-care-infrastructure-2021-4?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/progressive-groups-urge-biden-to-go-big-on-care-infrastructure-2021-4?amp",
-      "publishedDateTime": "2021-04-12T08:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-04-12-biden-aims-to-redefine-word-bipartisan-as-dems-work-to-push-spending-bill-without-any-gop-votes.md",
-      "title": "Biden aims to redefine word ‘bipartisan’ as Dems work to push spending bill without any GOP votes",
-      "excerpt": "President Biden vowed to bridge the partisan political divide but, struggling to garner Republican support for major bills, his administration appears to be changing the narrative by redefinining what \"bipartisan\" means.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/wiJ0cferris/biden-redefine-bipartisan-dems-push-spending-bill-without-gop-votes",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/wiJ0cferris/biden-redefine-bipartisan-dems-push-spending-bill-without-gop-votes",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 162,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-redefine-bipartisan-dems-push-spending-bill-without-gop-votes.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-redefine-bipartisan-dems-push-spending-bill-without-gop-votes.amp",
-      "publishedDateTime": "2021-04-12T06:10:26-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-12-gingrich-kamala-harris-put-in-charge-of-border-because-they-knew-she-wouldnt-do-anything.md",
-      "title": "Gingrich: Kamala Harris put in charge of border 'because they knew she wouldn’t do anything'",
-      "excerpt": "Newt Gingrich claimed Monday on \"Fox & Friends\" that the border crisis was not a mistake and that Vice President Kamala Harris was put in charge because they knew she wouldn't do anything to fix the situation. NEWT GINGRICH: If you look at a piece of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/gingrich-harris-border-crisis-immigration-illegal-immigrants",
-      "originalUrl": "https://www.foxnews.com/politics/gingrich-harris-border-crisis-immigration-illegal-immigrants",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/gingrich-harris-border-crisis-immigration-illegal-immigrants.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gingrich-harris-border-crisis-immigration-illegal-immigrants.amp",
-      "publishedDateTime": "2021-04-12T05:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-12-trump-tightens-grip-on-gop-while-biden-bets-on-expanding-federal-power.md",
-      "title": "Trump tightens grip on GOP while Biden bets on expanding federal power",
-      "excerpt": "Prominent Republicans rededicated themselves to Donald Trump's creed of grievance, lies and demagoguery this weekend as President Joe Biden bolstered his counter bet on the use of expansive federal power to ease America's crises.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3UQHOhkhxUQ/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3UQHOhkhxUQ/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 1450,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200928092023-03-trump-biden-split--super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/12/politics/donald-trump-2024-joe-biden-legacy/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/12/politics/donald-trump-2024-joe-biden-legacy/index.html",
-      "publishedDateTime": "2021-04-12T04:00:46-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-12-rep-liz-cheney-criticized-trump-for-embracing-insurrection-in-a-wild-speech-deepening-a-gop-rift.md",
-      "title": "Rep. Liz Cheney criticized Trump for 'embracing insurrection' in a wild speech, deepening a GOP rift",
-      "excerpt": "An envelope. It indicates the ability to send an email. Rep. Liz Cheney criticized former president Donald Trump for continuing to use the incendiary rhetoric that she claims provoked the January 6 riot at the US Capitol. Cheney was responding to a wild ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/liz-cheney-criticizes-trump-and-gop-for-embracing-insurrection-2021-4",
-      "originalUrl": "https://www.businessinsider.com/liz-cheney-criticizes-trump-and-gop-for-embracing-insurrection-2021-4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 130,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/607410c33e3fe7001882a0e1?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/liz-cheney-criticizes-trump-and-gop-for-embracing-insurrection-2021-4?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/liz-cheney-criticizes-trump-and-gop-for-embracing-insurrection-2021-4?amp",
-      "publishedDateTime": "2021-04-12T03:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

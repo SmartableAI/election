@@ -2,6 +2,110 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-08-11-donald-trump-calls-35t-budget-plan-assault-on-our-nation-after-measure-clears-senate.md",
+      "title": "Donald Trump Calls $3.5T Budget Plan 'Assault on Our Nation' After Measure Clears Senate",
+      "excerpt": "Former President Donald Trump said Americans are being \"robbed\" after the Democrats' $3.5 trillion budget plan \"Good morning, America!",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/donald-trump-calls-35t-budget-plan-assault-our-nation-after-measure-clears-senate-1618410",
+      "originalUrl": "https://www.newsweek.com/donald-trump-calls-35t-budget-plan-assault-our-nation-after-measure-clears-senate-1618410",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1868613/trump-slams-35t-budget-plan.jpg",
+          "width": 2500,
+          "height": 1665,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/donald-trump-calls-35t-budget-plan-assault-our-nation-after-measure-clears-senate-1618410?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-calls-35t-budget-plan-assault-our-nation-after-measure-clears-senate-1618410?amp=1",
+      "publishedDateTime": "2021-08-11T08:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-08-11-trump-was-in-pain-and-afraid-from-covid-19-says-niece-mary-trump.md",
+      "title": "Trump was 'in pain and afraid' from COVID-19, says niece Mary Trump",
+      "excerpt": "The former president’s niece made the claim in a new book. Former President Trump was allegedly “in pain and afraid” after he contracted the coronavirus back in early October. Mary claimed that he was struggling to breathe while playing up theatrical his return.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/changing-america/well-being/mental-health/567303-trump-was-in-pain-and-afraid-from-covid-19-says",
+      "originalUrl": "https://thehill.com/changing-america/well-being/mental-health/567303-trump-was-in-pain-and-afraid-from-covid-19-says",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 225,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/ca_trumpwindcomments_061721getty_1.jpg",
+          "width": 1320,
+          "height": 880,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/changing-america/well-being/mental-health/567303-trump-was-in-pain-and-afraid-from-covid-19-says?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/changing-america/well-being/mental-health/567303-trump-was-in-pain-and-afraid-from-covid-19-says?amp",
+      "publishedDateTime": "2021-08-11T05:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-08-11-secret-irs-files-reveal-how-much-the-ultrawealthy-gained-by-shaping-trumps-big-beautiful-tax-cut.md",
       "title": "Secret IRS Files Reveal How Much the Ultrawealthy Gained by Shaping Trump’s “Big, Beautiful Tax Cut”",
       "excerpt": "Billionaire business owners deployed lobbyists to make sure Trump’s 2017 tax bill was tailored to their benefit. Confidential IRS records show the windfall that followed.",
@@ -1374,110 +1478,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-08-01-trump-has-more-than-100-million-in-political-cash-after-first-six-months-of-2021.md",
-      "title": "Trump has more than $100 million in political cash after first six months of 2021",
-      "excerpt": "Former president Donald Trump's political groups raised $82 million in the first half of 2021, new filings show, and have $102 million in the bank.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/2021/07/31/trump-committees-fundraising-2021-fec/",
-      "originalUrl": "https://www.washingtonpost.com/politics/2021/07/31/trump-committees-fundraising-2021-fec/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ESPLBIXSG4I6XANSTNYGDJMC3A.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-31T21:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-08-01-leave-the-rest-to-me-new-doj-memos-show-theres-more-to-learn-about-trump-and-jan-6.md",
-      "title": "‘Leave the rest to me’: New DOJ memos show there’s more to learn about Trump and Jan. 6",
-      "excerpt": "Trump’s efforts to try to subvert the election were pervasive, unrelenting and fuel for the attack on the Capitol. A full accounting still hasn’t been done.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/leave-the-rest-to-me-new-doj-memos-show-theres-more-to-learn-about-trump-and-jan-6/2021/07/31/086cad9c-f185-11eb-a452-4da5fe48582d_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/leave-the-rest-to-me-new-doj-memos-show-theres-more-to-learn-about-trump-and-jan-6/2021/07/31/086cad9c-f185-11eb-a452-4da5fe48582d_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NLUBOSCXTII6XLGFSLJIDGQ4ZM.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-31T14:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

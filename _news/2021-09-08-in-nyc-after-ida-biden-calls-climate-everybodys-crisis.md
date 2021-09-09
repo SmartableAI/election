@@ -37,6 +37,22 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Biden to lay out plans for vaccine push; Mindy hits Florida as tropical storm; Jeter joins Hall of Fame"
+    excerpt: "President Biden to urge vaccine mandates in virus speech today; Mindy hits Florida, moves north; Derek Jeter, other greats inducted into Hall of Fame. Get caught up."
+    publishedDateTime: 2021-09-09T11:30:00Z
+    webUrl: "https://billingsgazette.com/news/national/biden-to-lay-out-plans-for-vaccine-push-mindy-hits-florida-as-tropical-storm-jeter/article_85632095-e724-5c49-ae89-58df1a07dbab.html"
+    ampWebUrl: "https://billingsgazette.com/news/national/biden-to-lay-out-plans-for-vaccine-push-mindy-hits-florida-as-tropical-storm-jeter/article_85632095-e724-5c49-ae89-58df1a07dbab.amp.html"
+    cdnAmpWebUrl: "https://billingsgazette-com.cdn.ampproject.org/c/s/billingsgazette.com/news/national/biden-to-lay-out-plans-for-vaccine-push-mindy-hits-florida-as-tropical-storm-jeter/article_85632095-e724-5c49-ae89-58df1a07dbab.amp.html"
+    type: article
+    provider:
+      name: Billings Gazette
+      domain: billingsgazette.com
+    quality: 59
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/billingsgazette.com/content/tncms/assets/v3/editorial/d/c9/dc9a26a7-c192-532a-ab68-78b23b1eef4b/6139ea8923746.image.jpg?resize=1024%2C682"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "'We don't have any more time:' Biden highlights climate change as he tours Hurricane Ida damage in NY, NJ"
     excerpt: "Biden is using the trip to highlight climate change and underscore his infrastructure bill, which will help communities prepare for extreme weather."
     publishedDateTime: 2021-09-07T17:28:00Z

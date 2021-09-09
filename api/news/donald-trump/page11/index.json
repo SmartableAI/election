@@ -2,6 +2,115 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-06-23-cnns-don-lemon-continues-trump-rants-more-than-two-weeks-straight-after-urging-media-to-leave-him-alone.md",
+      "title": "CNN's Don Lemon continues Trump rants more than two weeks straight after urging media to 'leave him alone'",
+      "excerpt": "CNN anchor Don Lemon's advice to the media about finally letting go former President Trump has apparently fallen on his own deaf ears.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/cnn-don-lemon-trump-leave-him-alone",
+      "originalUrl": "https://www.foxnews.com/media/cnn-don-lemon-trump-leave-him-alone",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a24baf7a-de51-4a09-8ad0-c22706ad7790/297e2969-30f8-4f38-92a0-27c68faad56b/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/cnn-don-lemon-trump-leave-him-alone.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/cnn-don-lemon-trump-leave-him-alone.amp",
+      "publishedDateTime": "2021-06-22T20:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-23-leader-behind-bleach-miracle-cure-claims-trump-consumed-his-product.md",
+      "title": "Leader behind bleach ‘miracle cure’ claims Trump consumed his product",
+      "excerpt": "Mark Grenon says in interview from prison he gave Trump the product and was the source of Trump’s fixation with disinfectant",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/jun/22/bleach-miracle-cure-donald-trump",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/jun/22/bleach-miracle-cure-donald-trump",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/5edf34569ee9fc3692389157f6c2b9262ef820e6/0_60_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=42fee3826a2c52ffe41808621585d86c",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/jun/22/bleach-miracle-cure-donald-trump",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/22/bleach-miracle-cure-donald-trump",
+      "publishedDateTime": "2021-06-22T13:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-06-23-greg-abbotts-border-wall-pushes-democrats-and-activists-to-stop-ignoring-trump.md",
       "title": "Greg Abbott's Border Wall Pushes Democrats and Activists to Stop Ignoring Trump",
       "excerpt": "Many in politics are happy to ignore former president Donald Trump now that he has been banished from most social media networks, but his return to the Texas border June 30 has led Latino groups and activists to mobilize against him once again.",
@@ -1453,110 +1562,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-15-emails-show-trump-pressured-justice-dept-over-2020-election.md",
-      "title": "Emails show Trump pressured Justice Dept. over 2020 election",
-      "excerpt": "Newly released emails show President Donald Trump and his allies pressured the Justice Department to investigate unsubstantiated claims of voter fraud in the 2020 election in the last weeks of his ter",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/emails-show-trump-pressured-justice-dept-2020-election-78292613",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/emails-show-trump-pressured-justice-dept-2020-election-78292613",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 1960,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/site/ABCNews_flat_black.png",
-          "width": 834,
-          "height": 308,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/emails-show-trump-pressured-justice-dept-2020-election-78292613",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/emails-show-trump-pressured-justice-dept-2020-election-78292613",
-      "publishedDateTime": "2021-06-15T09:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-15-chrissy-teigen-apology-all-the-celebs-shes-upset-from-avril-lavigne-to-donald-trump.md",
-      "title": "Chrissy Teigen Apology: All the Celebs She's Upset, From Avril Lavigne to Donald Trump",
-      "excerpt": "After owning up to the Twitter comments she made about Courtney Stodden, Teigen issued a lengthy apology on her blog",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/chrissy-teigen-apology-celebs-avril-lavigne-donald-trump-1600731",
-      "originalUrl": "https://www.newsweek.com/chrissy-teigen-apology-celebs-avril-lavigne-donald-trump-1600731",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1821297/chrissy-teigen-oscars.jpg",
-          "width": 2500,
-          "height": 1664,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/chrissy-teigen-apology-celebs-avril-lavigne-donald-trump-1600731?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/chrissy-teigen-apology-celebs-avril-lavigne-donald-trump-1600731?amp=1",
-      "publishedDateTime": "2021-06-15T07:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

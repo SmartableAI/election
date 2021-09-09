@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "U.S. Vice President Kamala Harris to Visit Hampton University on Friday, September 10"
+    excerpt: "U.S. Vice President Kamala Harris will visit Hampton University on Friday, September 10, to recognize the contributions of HBCUs a"
+    publishedDateTime: 2021-09-09T15:27:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/kamala-harris-hampton-university-ea2f36913b333cebf7b3566e3d343498"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 98
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "‘We’ll Show Them’: Vice President Harris Campaigns for Gov. Newsom in Bay Area"
     excerpt: "Kamala Harris described the recall as part of a broader Republican effort to oust Democrats from power and expand conservative restrictions on voting, abortion and LGBTQ rights."
     publishedDateTime: 2021-09-08T21:46:00Z
@@ -70,6 +84,20 @@ related:
       - url: "https://storage.googleapis.com/gal-uploads/1/2021/09/Nguyen-Tran-Thuy-Tien.jpg"
         width: 2249
         height: 1725
+        isCached: true
+  - title: "Bail fund promoted by Kamala Harris set free alleged domestic abuser who’s now charged with murder"
+    excerpt: "Harris faced widespread criticism following her promotion and endorsement of the organization shortly after the Floyd incident."
+    publishedDateTime: 2021-09-07T17:47:00Z
+    webUrl: "https://www.bizpacreview.com/2021/09/07/bail-fund-promoted-by-kamala-harris-set-free-alleged-domestic-abuser-whos-now-charged-with-murder-1130982/"
+    type: article
+    provider:
+      name: BizPac Review
+      domain: bizpacreview.com
+    quality: 41
+    images:
+      - url: "https://www.bizpacreview.com/wp-content/uploads/2021/06/SG-HARRIS-1200x630.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "gwK+rF7hP8XZ93HDf8koK9+O/ou3hSpygEotAh5i6yF9gsipYm6pVsbxj43EpqstiOCI7bb63Pr1oXqgf2irzESKNNcLJqdaILCNdSwmCR/XAFDWskl1Rpo/LjIcKXasjW/fO92AVRj/39i+dwgTlMKWvyXQPr2QVuuZLyBnmGJePr2pGqAgeMmaAZByTNkdrB9E/+6UeQYlT7pWTECJ2vfjmertHob+zcD1Ep8AlAY2d+RQABbSKS2JLBZJVdVqBBopLVqf3cFZqMlzp0ubrSfyM1wuWsMRPe9TVTWOTMOHgelnw5nbI36hfyhO4ctIkLXVsF7lV0tntQKno1ljPF1PiPF8weXvD3f8JFSeLwE=;68KHMQOOzUa5+gIxuw/Esg=="

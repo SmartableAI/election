@@ -76,6 +76,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Donald Trump Jr.: Biden Admin's Handling Of Afghan Exit \"Literally The Most Biden Thing Ever\""
+    excerpt: "Donald Trump Jr. said the \"clown show\" that is the Biden administration's withdrawal of U.S. forces from Afghanistan continues to get worse and worse in an interview with Sean Hannity: \"American citizens are doing the job,"
+    publishedDateTime: 2021-09-09T14:40:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/09/09/donald_trump_jr_biden_admins_handling_of_afghan_exit_literally_the_most_biden_thing_ever.html"
+    ampWebUrl: "http://www.realclearpolitics.com/video/2021/09/09/donald_trump_jr_biden_admins_handling_of_afghan_exit_literally_the_most_biden_thing_ever.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/09/09/donald_trump_jr_biden_admins_handling_of_afghan_exit_literally_the_most_biden_thing_ever.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 89
+    images:
+      - url: "https://amp.spot.im/loader.png"
+        width: 375
+        height: 815
+        isCached: true
 
 secured: "0GwM/PkA9qVvqtWi+VKuH4JnZylsYgbBkSe9yAbWvPmfXUeSP4tWzle8r8kuJWFOr2GEFPF7ejcLIOLCU/epzDyN8QlJYyuELOpy4RWSomBI2/mEGMcqfIwu8WiOcF+9EUR2/4Ums5Q/O5uB+Jfli+ZaboxEauS4dklnCmbwO8D6EIdjkL6CfMvOMylsQw6GYQt6V+bu9CiV2ZEFpYUq4m8GJWpEewl+t+xxP2ZuAKeSx8bRkaqxpPcO0+8XIFb8F2CJFJkU+SU6o54V7M6/9LZRRpFSnSsmV720iUGPIoSZz4JVbn+sxX14Le7JLKWXAxsGb7bP/ZQZHIYRJjgqvxsLi9jMOS44sOyZKfTnK7zlh4soUJnR7CtpDIdeZXwej5CXmLHoF1i/MgbwAp35sajAlOY6sF5hftmyfu+0OWL/B6iQ2VykzQqTY0anRNv1k9wWpc7oiH/ae3nFiMonwAj8hNHI4v7xQf+1kZGnI+IY7bDnsE7fdTdgZWu8dQ/ZzPq+bZeG/lsaLEuU+fLZ9w==;D6KPSen4Fj8nbOXbSBevEQ=="
 ---

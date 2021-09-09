@@ -122,6 +122,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Kamala Harris faces protesters waving Afghanistan flag during Newsom rally in California"
+    excerpt: "Vice President Kamala Harris was on mostly friendly ground in her native California on Wednesday as she campaigned for embattled Gov. Gavin Newsom, who faces a recall election next week. But that didn’t mean Harris fully escaped any criticism of her time in office."
+    publishedDateTime: 2021-09-09T07:29:00Z
+    webUrl: "https://www.foxnews.com/politics/kamala-harris-protesters-afghanistan-newsom-rally-california"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-protesters-afghanistan-newsom-rally-california.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-protesters-afghanistan-newsom-rally-california.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 126
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/93b2ece7-0289-4644-a183-0a18365e3ea9/1bce33fa-c674-40fa-825c-57efc9148214/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
 
 secured: "p+tUzdPvEEoZ27GXT10AaoxLeiiFyye0BFrUDD/tRadwu0iYGpuVRGsdb+EfPnJuyTP10FXhkbfVlabV4sbhW0eNtKCv8smDk9WpXdlWxVy+t+3om2Z9+tcPhOjP/PGScaU8Culs8Sg7syeBjR/wiIBHnKRWIT3lgGhX0piBBoNMF/GyVupY009xpSfzw3romER8j9G7r4uggPuMdnhYFSPNFprXY/kaOgwtf9VBuLVLNFS8vtwCebFVQQNhnfPZeKaQn3RYyP9iRXnxceYuciaNgEIRg9VyAnLxCqp0iLFjDUU+JhQPGH535TK+qwEihGoiiP8OwV2uOpqrUbfClEjIsPtWRldeTh8O3dUi8oo=;cJNgjoI/0IdZd7a9UyBDRw=="
 ---

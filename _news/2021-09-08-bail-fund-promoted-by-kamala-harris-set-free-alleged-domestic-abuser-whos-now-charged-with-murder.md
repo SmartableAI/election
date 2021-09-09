@@ -25,65 +25,79 @@ images:
     isCached: true
 
 related:
-  - title: "Fact check: Image of Kamala Harris and Doug Emhoff altered to show Jeffrey Epstein"
-    excerpt: "Several Facebook users shared an image of Harris and Epstein with the words \"Make this photo famous.\" But the image has been altered to add Epstein."
-    publishedDateTime: 2021-09-08T23:06:00Z
-    webUrl: "https://www.indystar.com/story/news/nation/2021/09/08/fact-check-altered-image-shows-jeffrey-epstein-next-kamala-harris/5672684001/"
-    ampWebUrl: "https://amp.indystar.com/amp/5672684001"
-    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/5672684001"
+  - title: "U.S. Vice President Kamala Harris to Visit Hampton University on Friday, September 10"
+    excerpt: "U.S. Vice President Kamala Harris will visit Hampton University on Friday, September 10, to recognize the contributions of HBCUs a"
+    publishedDateTime: 2021-09-09T15:27:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/kamala-harris-hampton-university-ea2f36913b333cebf7b3566e3d343498"
     type: article
     provider:
-      name: Indianapolis Star
-      domain: indystar.com
-    quality: 69
+      name: Associated Press
+      domain: apnews.com
+    quality: 98
     images:
-      - url: "https://www.gannett-cdn.com/presto/2021/09/02/USAT/5ce6a7bf-c678-4617-a1fc-5ce8b94ee4fb-AFP_AFP_8RN328.jpg?auto=webp&crop=3999,2250,x0,y200&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
-  - title: "Kamala Harris' stepdaughter Ella Emhoff stuns fans with a new look they didn't see coming"
-    excerpt: "US Vice President Kamala Harris' stepdaughter Ella Emhoff surprised fans with a brand new look they didn't see coming"
-    publishedDateTime: 2021-09-07T12:41:00Z
-    webUrl: "https://www.hellomagazine.com/fashion/20210907121155/kamala-harris-vice-president-ella-emhoff-stepdaughter-surprising-makeover/"
-    ampWebUrl: "https://www.hellomagazine.com/fashion/20210907121155/kamala-harris-vice-president-ella-emhoff-stepdaughter-surprising-makeover/?viewas=amp"
-    cdnAmpWebUrl: "https://www-hellomagazine-com.cdn.ampproject.org/c/s/www.hellomagazine.com/fashion/20210907121155/kamala-harris-vice-president-ella-emhoff-stepdaughter-surprising-makeover/?viewas=amp"
+  - title: "‘We’ll Show Them’: Vice President Harris Campaigns for Gov. Newsom in Bay Area"
+    excerpt: "Kamala Harris described the recall as part of a broader Republican effort to oust Democrats from power and expand conservative restrictions on voting, abortion and LGBTQ rights."
+    publishedDateTime: 2021-09-08T21:46:00Z
+    webUrl: "https://timesofsandiego.com/politics/2021/09/08/well-show-them-vice-president-harris-campaigns-for-gov-newsom-in-bay-area/"
+    ampWebUrl: "https://timesofsandiego.com/politics/2021/09/08/well-show-them-vice-president-harris-campaigns-for-gov-newsom-in-bay-area/"
+    cdnAmpWebUrl: "https://timesofsandiego-com.cdn.ampproject.org/c/s/timesofsandiego.com/politics/2021/09/08/well-show-them-vice-president-harris-campaigns-for-gov-newsom-in-bay-area/"
     type: article
     provider:
-      name: HELLO! Magazine
-      domain: hellomagazine.com
-    quality: 66
+      name: Times of San Diego
+      domain: timesofsandiego.com
+    quality: 71
     images:
-      - url: "https://www.hellomagazine.com/imagenes/fashion/20210907121155/kamala-harris-vice-president-ella-emhoff-stepdaughter-surprising-makeover/0-585-299/elle-emhoff-bonnet-t.jpg"
-        width: 1200
-        height: 721
+      - url: "https://timesofsandiego.com/wp-content/uploads/2021/09/Harris-Newsom.png"
+        width: 1000
+        height: 664
         isCached: true
-  - title: "No, That Picture of Kamala Harris with Jeffrey Epstein Is Not Real"
-    excerpt: "The fake photo was shared widely online in August 2021, and was even posted by a Republican congressional candidate in Texas."
-    publishedDateTime: 2021-08-31T17:38:00Z
-    webUrl: "https://www.snopes.com/fact-check/kamala-harris-jeffrey-epstein-pic/"
+  - title: "Vice President Kamala Harris and former President George W. Bush to attend 9/11 observance at Flight 93 memorial"
+    excerpt: "Former President George W. Bush is scheduled to speak during the annual 9/11 observance of Sept. 11 at the Flight 93 memorial in Somerset County, Pa."
+    publishedDateTime: 2021-09-07T15:16:00Z
+    webUrl: "https://www.wtae.com/article/kamala-harris-george-w-bush-flight-93-memorial-september-11/37500351"
+    ampWebUrl: "https://www.wtae.com/amp/article/kamala-harris-george-w-bush-flight-93-memorial-september-11/37500351"
+    cdnAmpWebUrl: "https://www-wtae-com.cdn.ampproject.org/c/s/www.wtae.com/amp/article/kamala-harris-george-w-bush-flight-93-memorial-september-11/37500351"
     type: article
     provider:
-      name: Snopes.com
-      domain: snopes.com
-    quality: 55
+      name: WTAE-TV
+      domain: wtae.com
+    quality: 54
     images:
-      - url: "https://www.snopes.com/tachyon/2021/08/Copy-of-Rating-Overlay-FEATURED-IMG-37.png"
-        width: 1200
-        height: 675
+      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/kamala-harris-george-w-bush-1631031030.jpg?crop=1.00xw:0.997xh;0,0&resize=1200:*"
+        width: 1000
+        height: 564
         isCached: true
-  - title: "Manipulated photo falsely links Kamala Harris to Jeffrey Epstein"
-    excerpt: "Social media posts with thousands of interactions include a photo tying US Vice President Kamala Harris to disgraced financier and convicted sex offender Jeffrey Epstein. But a reverse image search found that the photograph has been digitally manipulated to include Epstein instead of Harris' husband Douglas Emhoff."
-    publishedDateTime: 2021-09-01T18:57:00Z
-    webUrl: "https://factcheck.afp.com/http%253A%252F%252Fdoc.afp.com%252F9LY982-1"
+  - title: "This simple advice from Kamala Harris will make you a better public speaker"
+    excerpt: "The vice president has, several times, offered smart, assuring words to nervous workers and students that this communications coach says are spot-on."
+    publishedDateTime: 2021-09-03T14:00:00Z
+    webUrl: "https://www.fastcompany.com/90670190/this-simple-advice-from-kamala-harris-will-make-you-a-better-public-speaker"
     type: article
     provider:
-      name: AFP
-      domain: afp.com
-    quality: 55
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 53
     images:
-      - url: "https://factcheck.afp.com/sites/default/files/styles/twitter_card/public/medias/factchecking/g2/2021-09/f49a2ff553f4286c5cf363ff23cce0d8.jpeg?itok=OnCdKm9J"
+      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2021/09/p-1-this-simple-advice-from-kamala-harris-will-make-you-a-better-public-speaker.png"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Nguyện Trần Thuỷ Tiên Interprets Vice President Kamala Harris’ visit to Vietnam"
+    excerpt: "Nguyện Trần Thuỷ Tiên, G-’16, received support from the U.S. Embassy and the White House to provide the deaf community in Việt Nam a translation of Vice President Kamala Harris’ presentation during her visit to the Socialist Republic of Việt Nam last week."
+    publishedDateTime: 2021-09-03T21:41:00Z
+    webUrl: "https://www.gallaudet.edu/news/nguyen-tran-thuy-tien-interprets-vice-president-kamala-harris-visit-to-vietnam/"
+    type: article
+    provider:
+      name: Gallaudet University
+      domain: gallaudet.edu
+    quality: 51
+    images:
+      - url: "https://storage.googleapis.com/gal-uploads/1/2021/09/Nguyen-Tran-Thuy-Tien.jpg"
+        width: 2249
+        height: 1725
         isCached: true
 
 secured: "LYHbPKKle6A06l4cgpQqgZFR5w2u5xJHWU9cPay9yGRU/eeQ6Fs/kzIEwksvdy2fYGwMM+os3NonqwvepujOBI6afb9GJRGcmqqLai9eJDLex0gg39CG6L/uNpXpHugXXZejnmCAR+qNaSpyjdNqLMr9/L32C4Rwzebg+F0phBsuoTYLMKebBn4x88tR6H5+VWbBm9c1XbbLi55iJlyyyM7oc5KfNnGnIiq9Z685Bxpncb8AwRFVPQ7pc3s2PnKKxZS/UgugqrI9366inlNc2jcUXw8PEPk3pSwH8zHpF9kPt3sE6v8KTowvXkYhMZwUVlmvcygAhzjPO4nOiNAjZoAMTK5yCAb8faM5SVRXjR8=;OM3Z/y862KE2ChJy8TrLAA=="

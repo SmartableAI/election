@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-secure-tajikistans-border-us-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-secure-tajikistans-border-us-crisis.amp"
 type: article
 quality: 175
-heat: 395
+heat: 415
 published: true
 
 provider:
@@ -174,6 +174,22 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/812d51c8-799b-4401-8596-00977fb7a92e/4db1e5bd-92e2-4755-aa89-92a34f590e99/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "Biden administration on sidelines as Americans trapped in Afghanistan get Taliban permission to leave"
+    excerpt: "More Americans finally left Afghanistan Thursday as Qatar works with the Taliban to allow them to exit the country following the U.S. military's withdrawal."
+    publishedDateTime: 2021-09-09T13:21:00Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/SgyzxbgAzgA/biden-administration-on-sidelines-americans-trapped-in-afghanistan-taliban-permission-to-leave"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-administration-on-sidelines-americans-trapped-in-afghanistan-taliban-permission-to-leave.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-administration-on-sidelines-americans-trapped-in-afghanistan-taliban-permission-to-leave.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 160
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Border agents slam Biden for securing Tajikistan's border while US border in crisis: 'Slap in the face'"
     excerpt: "President Biden's decision to help secure Tajikistan's border with Afghanistan has infuriated those on the front lines of the U.S. border crisis, who say that America's own southern border still isn't secure."

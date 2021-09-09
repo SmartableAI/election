@@ -1110,18 +1110,18 @@ related:
         height: 533
         isCached: true
   - title: "VP Kamala Harris and California Gov. Gavin Nerwsom Hold Vote No on Recall Rall76"
-    excerpt: "California Governor Gavin Newsom waves with Vice President Kamala Harris at a 'vote no on recall' rally at the IBEW-NECA Joint Apprenticeship Training Center in San Leandro, California on Wednesday, September 8,"
+    excerpt: "Vice President Kamala Harris speaks at a 'vote no on recall' rally for California Governor Gavin Newsom at the IBEW-NECA Joint Apprenticeship Training Center in San Leandro, California on Wednesday, September 8,"
     publishedDateTime: 2021-09-08T22:22:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/54517538382a734eab52ef66053f1528/VP-Kamala-Harris-and-California-Gov-Gavin-Nerwsom-Hold-Vote-No-on-Recall-Rall76/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/f9273f3df972c056597095a59bf5d69b/VP-Kamala-Harris-and-California-Gov-Gavin-Nerwsom-Hold-Vote-No-on-Recall-Rall76/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 50
     images:
-      - url: "https://cdnph.upi.com/pv/upi/54517538382a734eab52ef66053f1528/HARRIS-NEWSOM.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/f9273f3df972c056597095a59bf5d69b/HARRIS-NEWSOM.jpg"
         width: 650
-        height: 447
+        height: 432
         isCached: true
   - title: "For her first major task as VP, Kamala Harris is handed a thorny diplomatic mission"
     excerpt: "“And you’re smiling.” Kamala Harris’s first major mission as vice president is not one a lot of politicians would be happy to receive. She’s been deputized to own arguably the most politically thorny issue the administration has on its ..."
@@ -1214,6 +1214,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "Z0Sv/ygtHXaq4OCEMUNB0soE3oXs1b2IhUPl+xqpCoLBSFFZ2hpt7tzSQC2npgCq72piI3GkiXS8W67IUFN/grA8gZJVOqBhZ/49D/AG8+vbQ8qaA1OebNzfow+rCJIrwLR71LNWPYzqEyJIOHQg6j1Hp+g6oYHnzz9NkJ+zKBOgvVfPKpfYMU6cyc7gS/EytGyKPbIhEZ1qRv+fSvCUmUn3HIdj7X9gieNasT62kx2ldI4Ypz7qbCYhhPNvX3r9NFrMfUTbeXIi/89OlPbkFVVsvBHcflwZifNE6BqKsAztZKYVRGH/JAKBbkcqshhpNa7mM5zapYNUitjNyWwGjdbdVMP4DOpU1JCvvttTJcY=;eKnW6NBN1MN2/okz7ijtbQ=="
+secured: "N4T4Eji3SRw3UhtvzdkaqXQDlMnKw1KvKOdy9eYWcGjrUBuSuxbR6o8Qjo08DaxuRHU0+XEa2ApahORB46yI2+1GbwVjrZIcHHPMdiTDtsxhoHk59gvyrFxIvtgHUVbAcu/dqXNMMt3ZK/TiXhWlMB6iHcaLQA+oyZo7M4KJZHWRSob+Df3HCia+DEIkDecxH9uA5R28VEht4DOHBRpdwSMbSyW1sRdufCqtK/5S/yn/hLpOrTDDyGeB/0m/6nWkRLU8RuZwXsRgio/RLxURf4KRoNqxbrNOziL8W5PYUCB+wFfg6y1jWDcO3M7Voaa57i1sim9T6qrvIQlUOJyH9HkY9GrJOSG7Rcm08raWnGxLmH8x1gXjyy47vfVUtz7qjZdVK1UAwJScOcCK/AZTEctCKObEwazqMAZL21+Lw0OHUBmBvezBwIle4X1cEclsQvrcLztj1vBaLFn7vQNiZD45LfaSwaflBsw0oUE/jihZp9h0ObMvxCO9iifK1+Pqo5CnwwinpfB0NfXtt6d1RA==;4KrrNYrXsFXI4xI1aZAD2Q=="
 ---
 

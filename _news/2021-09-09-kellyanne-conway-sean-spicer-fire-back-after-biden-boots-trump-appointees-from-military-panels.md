@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/kellyanne-conway-sean-spicer-biden-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kellyanne-conway-sean-spicer-biden-trump-appointees-military-panels.amp"
 type: article
 quality: 178
-heat: 238
+heat: 258
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ab16235e-7cf3-40a3-9bf0-2d3f23ea92cd/0630e86d-55f3-4867-8638-47312e235d26/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "Donald Trump Jr.: Biden Admin's Handling Of Afghan Exit \"Literally The Most Biden Thing Ever\""
+    excerpt: "Donald Trump Jr. said the \"clown show\" that is the Biden administration's withdrawal of U.S. forces from Afghanistan continues to get worse and worse in an interview with Sean Hannity: \"American citizens are doing the job,"
+    publishedDateTime: 2021-09-09T14:40:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/09/09/donald_trump_jr_biden_admins_handling_of_afghan_exit_literally_the_most_biden_thing_ever.html"
+    ampWebUrl: "http://www.realclearpolitics.com/video/2021/09/09/donald_trump_jr_biden_admins_handling_of_afghan_exit_literally_the_most_biden_thing_ever.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/09/09/donald_trump_jr_biden_admins_handling_of_afghan_exit_literally_the_most_biden_thing_ever.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 89
+    images:
+      - url: "https://amp.spot.im/loader.png"
+        width: 375
+        height: 815
         isCached: true
   - title: "Joe Biden Is No Jimmy Carter"
     excerpt: "And if some of his accomplishments provide stark contrasts with his only-18-years-younger successor President Joe Biden, well, draw your own conclusions. I start off by noting that Carter came to the presidency with almost no relevant experience."

@@ -2,6 +2,219 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2021-06-23-greg-abbotts-border-wall-pushes-democrats-and-activists-to-stop-ignoring-trump.md",
+      "title": "Greg Abbott's Border Wall Pushes Democrats and Activists to Stop Ignoring Trump",
+      "excerpt": "Many in politics are happy to ignore former president Donald Trump now that he has been banished from most social media networks, but his return to the Texas border June 30 has led Latino groups and activists to mobilize against him once again.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/greg-abbotts-border-wall-pushes-democrats-activists-stop-ignoring-trump-1602668",
+      "originalUrl": "https://www.newsweek.com/greg-abbotts-border-wall-pushes-democrats-activists-stop-ignoring-trump-1602668",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 221,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1826714/abbott-trump.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/greg-abbotts-border-wall-pushes-democrats-activists-stop-ignoring-trump-1602668?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/greg-abbotts-border-wall-pushes-democrats-activists-stop-ignoring-trump-1602668?amp=1",
+      "publishedDateTime": "2021-06-22T12:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-06-23-us-will-likely-miss-bidens-july-4-covid-19-goal-of-having-70-of-adults-vaccinated-white-house-says.md",
+      "title": "US will likely miss Biden's July 4 COVID-19 goal of having 70% of adults vaccinated, White House says",
+      "excerpt": "COVID-19 Response Team Coordinator Jeff Zients said it's \"more important than ever\" for people to get vaccinated as the Delta variant spreads.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/biden-july-4-covid-vaccine-goal-likely-missed-officials-say-2021-6",
+      "originalUrl": "https://www.businessinsider.com/biden-july-4-covid-vaccine-goal-likely-missed-officials-say-2021-6",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 150,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fcb6773b6a3a800199b6dac?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/biden-july-4-covid-vaccine-goal-likely-missed-officials-say-2021-6?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-july-4-covid-vaccine-goal-likely-missed-officials-say-2021-6?amp",
+      "publishedDateTime": "2021-06-22T12:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-06-22-trump-has-zero-desire-to-be-speaker-of-house-spokesman-says.md",
+      "title": "Trump has ‘zero desire’ to be speaker of House, spokesman says",
+      "excerpt": "Chatter about the most unlikely of political comebacks has spread among Trump supporters",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/jun/22/donald-trump-speaker-of-house",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/jun/22/donald-trump-speaker-of-house",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/78c73c867f8f94067b452dfd52da64986d2c9599/0_170_3500_2417/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=e458faaeb9a757d6aee54fbf008b2cdc",
+          "width": 600,
+          "height": 414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/jun/22/donald-trump-speaker-of-house",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/22/donald-trump-speaker-of-house",
+      "publishedDateTime": "2021-06-22T05:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-06-22-trump-supporters-discussed-revolution-ahead-of-capitol-riot-fbi-agent-says.md",
+      "title": "Trump supporters discussed ‘revolution’ ahead of Capitol riot, FBI agent says",
+      "excerpt": "According to a court filing from an FBI agent obtained by NBC News, Trump supporters were discussing “revolution” on social media ahead of the January 6th Capitol riot, contrasting how FBI Director Christopher Wray portrayed the agency’s intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/now/video/trump-supporters-discussed-revolution-ahead-of-capitol-riot-fbi-agent-says-115249221531",
+      "originalUrl": "https://www.nbcnews.com/now/video/trump-supporters-discussed-revolution-ahead-of-capitol-riot-fbi-agent-says-115249221531",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_06/1624362404449_ott_now_am_capitol_riot_210622_1920x1080.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo115249221531",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo115249221531",
+      "publishedDateTime": "2021-06-22T04:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-22-judge-dismisses-most-claims-against-trump-administration-in-clearing-of-lafayette-square.md",
       "title": "Judge dismisses most claims against Trump administration in clearing of Lafayette Square",
       "excerpt": "Activists and civil liberties groups accused Trump of violating the civil rights of protesters who were removed from the park near the White House.",
@@ -1125,223 +1338,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-19-bidens-announce-their-beloved-german-shepherd-champ-has-died.md",
-      "title": "Bidens announce their 'beloved' German Shepherd Champ has died",
-      "excerpt": "The Bidens announced Saturday that their \"beloved\" German Shepherd Champ has died.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/LUR3KMSshoY/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/LUR3KMSshoY/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210619114227-champ-dog-joe-biden-02-24-2021-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/19/politics/champ-biden-german-shepherd-dog-dies/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/19/politics/champ-biden-german-shepherd-dog-dies/index.html",
-      "publishedDateTime": "2021-06-19T10:02:56-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-19-bidens-announce-death-of-family-dog-champ-our-sweet-good-boy.md",
-      "title": "Bidens announce death of family dog Champ, 'our sweet, good boy'",
-      "excerpt": "President Biden and First Lady Jill Biden on Saturday announced the death of Champ, one of their two German shepherds, describing him as a \"cherished companion\" and a \"sweet, good boy.\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZpDEpw85vyA/bidens-announce-death-family-dog-champ",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZpDEpw85vyA/bidens-announce-death-family-dog-champ",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/46e1d247-c90a-47f4-b9c5-2db30850f1a3/409933ae-16d5-48d8-86ec-bbe110fd6286/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/bidens-announce-death-family-dog-champ.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-announce-death-family-dog-champ.amp",
-      "publishedDateTime": "2021-06-19T08:57:43-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-19-mike-lindell-cites-divine-appointments-prophets-words-to-explain-affinity-for-trump.md",
-      "title": "Mike Lindell Cites 'Divine Appointments,' Prophet's Words to Explain Affinity for Trump",
-      "excerpt": "The MyPillow CEO claimed Trump \"will be in office by this fall\" after a July \"cyber symposium\" he plans to hold.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/mike-lindell-cites-divine-appointments-prophets-words-explain-affinity-trump-1602266",
-      "originalUrl": "https://www.newsweek.com/mike-lindell-cites-divine-appointments-prophets-words-explain-affinity-trump-1602266",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1825816/mike-lindell.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/mike-lindell-cites-divine-appointments-prophets-words-explain-affinity-trump-1602266?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mike-lindell-cites-divine-appointments-prophets-words-explain-affinity-trump-1602266?amp=1",
-      "publishedDateTime": "2021-06-19T08:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-19-mike-pence-not-a-traitor-says-kevin-mccarthy-stood-right-by-president-trump.md",
-      "title": "Mike Pence 'Not a Traitor' Says Kevin McCarthy, 'Stood Right by President Trump'",
-      "excerpt": "Pence continues to face strong criticism from some supporters of former President Donald Trump for his role on January 6.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/mike-pence-not-traitor-kevin-mccarthy-stood-right-president-trump-1602240",
-      "originalUrl": "https://www.newsweek.com/mike-pence-not-traitor-kevin-mccarthy-stood-right-president-trump-1602240",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1825772/mike-pence-addresses-gops-lincoln-reagan-dinner.jpg",
-          "width": 2814,
-          "height": 1876,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/mike-pence-not-traitor-kevin-mccarthy-stood-right-president-trump-1602240?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mike-pence-not-traitor-kevin-mccarthy-stood-right-president-trump-1602240?amp=1",
-      "publishedDateTime": "2021-06-19T04:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Mike Pence"
       ]
     }
   ],

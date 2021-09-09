@@ -2,6 +2,233 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2021-06-26-nj-school-official-who-called-kamala-harris-street-walker-receives-no-confidence-vote-reports.md",
+      "title": "NJ school official who called Kamala Harris ‘street walker,’ receives ‘no confidence’ vote: reports",
+      "excerpt": "A school board member in New Jersey has received a \"no confidence\" vote from colleagues despite his apology for referring to Vice President Kamala Harris as a \"street walker,\" according to reports.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/cCz-LDOETcQ/nj-school-official-who-called-kamala-harris-street-walker-receives-no-confidence-vote-reports",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/cCz-LDOETcQ/nj-school-official-who-called-kamala-harris-street-walker-receives-no-confidence-vote-reports",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 171,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b75ff0ce-4753-4fbd-845f-4acf20881597/57d26767-91d3-4765-8a76-834bfe88bbf4/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/nj-school-official-who-called-kamala-harris-street-walker-receives-no-confidence-vote-reports.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nj-school-official-who-called-kamala-harris-street-walker-receives-no-confidence-vote-reports.amp",
+      "publishedDateTime": "2021-06-25T23:41:46-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-06-26-new-york-times-trump-white-house-aides-drafted-proclamation-on-insurrection-act-amid-floyd-protests.md",
+      "title": "New York Times: Trump White House aides drafted proclamation on Insurrection Act amid Floyd protests",
+      "excerpt": "White House aides prepared a draft proclamation last June to invoke the Insurrection Act as then-President Donald Trump debated deploying active-duty US soldiers in response to protests after the death of George Floyd, The New York Times reported Friday, citing two senior Trump administration officials.\n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/kg7XHYsd4ug/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/kg7XHYsd4ug/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200601005713-17-george-floyd-protests-0531-washington-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/25/politics/trump-white-house-insurrection-act-draft/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/25/politics/trump-white-house-insurrection-act-draft/index.html",
+      "publishedDateTime": "2021-06-25T18:21:51-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-26-will-cain-biden-has-long-shown-an-instinct-toward-racism-as-the-left-seeks-it-like-a-trophy-hunt.md",
+      "title": "Will Cain: Biden has long shown an 'instinct toward racism' as the left seeks it like a 'trophy hunt'",
+      "excerpt": "President Joe Biden should be looking inward if he and the Democrats want to continue their campaign against systemic racism, \"Fox News Primetime\" host Will Cain said Friday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/will-cain-biden-instinct-toward-racism",
+      "originalUrl": "https://www.foxnews.com/media/will-cain-biden-instinct-toward-racism",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b3420308-ff6e-40bc-9682-f085957d4008/c9d83f60-37b3-4f78-a9ef-1192cf4e41ec/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/will-cain-biden-instinct-toward-racism.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/will-cain-biden-instinct-toward-racism.amp",
+      "publishedDateTime": "2021-06-25T17:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-26-biden-says-afghans-must-decide-their-future-as-us-troops-withdraw.md",
+      "title": "Biden Says Afghans Must ‘Decide Their Future’ as U.S. Troops Withdraw",
+      "excerpt": "Mr. Biden told President Ashraf Ghani that the United States would still offer security assistance, as well as diplomatic and humanitarian aid.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/06/25/us/politics/biden-afghanistan-withdrawal.html",
+      "originalUrl": "https://www.nytimes.com/2021/06/25/us/politics/biden-afghanistan-withdrawal.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/06/25/us/politics/25dc-biden-afghan-1-SWAP/25dc-biden-afghan-1-SWAP-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/06/25/us/politics/biden-afghanistan-withdrawal.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/25/us/politics/biden-afghanistan-withdrawal.amp.html",
+      "publishedDateTime": "2021-06-25T17:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-26-kamala-harris-el-paso-visit-signals-departure-from-trump-border-policies.md",
       "title": "Kamala Harris' El Paso Visit Signals Departure From Trump Border Policies",
       "excerpt": "Biden officials told reporters that Harris chose El Paso as a symbolic reminder of the previous administration's controversial immigration policies.",
@@ -1137,218 +1364,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-06-25-in-this-rural-virginia-district-a-young-republican-turns-toward-trump-in-faceoff-against-blm-supporter.md",
-      "title": "In this rural Virginia district, a young Republican turns toward Trump in faceoff against BLM supporter",
-      "excerpt": "Newcomer Wren Williams, who worked on the Trump campaign recount, faces a November contest with Black Lives Matter advocate Bridgette Craighead.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/local/virginia-politics/wren-williams-virginia-republican-house/2021/06/24/4f5e6ff2-cf8d-11eb-8cd2-4e95230cfac2_story.html",
-      "originalUrl": "https://www.washingtonpost.com/local/virginia-politics/wren-williams-virginia-republican-house/2021/06/24/4f5e6ff2-cf8d-11eb-8cd2-4e95230cfac2_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/65UWZ6GTNYI6XM47AWRNO5VR6Q.jpg&w=1440",
-          "width": 1440,
-          "height": 990,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/local/virginia-politics/wren-williams-virginia-republican-house/2021/06/24/4f5e6ff2-cf8d-11eb-8cd2-4e95230cfac2_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/virginia-politics/wren-williams-virginia-republican-house/2021/06/24/4f5e6ff2-cf8d-11eb-8cd2-4e95230cfac2_story.html?outputType=amp",
-      "publishedDateTime": "2021-06-25T00:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-25-biden-bets-on-his-own-old-fashioned-belief-that-washington-can-work.md",
-      "title": "Biden bets on his own, old-fashioned belief that Washington can work",
-      "excerpt": "President Joe Biden is using words not heard in Washington for many a long year, like \"trust,\" \"consensus\" and \"compromise.\" He's even convinced that \"friends\" on the other side of the nation's deep political chasm will keep their word.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lXjYAHo__Fs/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lXjYAHo__Fs/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 255,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210624151530-joe-biden-june-24-2021-01-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/25/politics/joe-biden-infrastructure-policing-deals-congress/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/25/politics/joe-biden-infrastructure-policing-deals-congress/index.html",
-      "publishedDateTime": "2021-06-24T21:22:35-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-25-pence-sees-gop-as-last-line-of-defense-for-constitution.md",
-      "title": "Pence sees GOP as 'last line of defense' for Constitution",
-      "excerpt": "Vice President Mike Pence is accusing Democrats of trying to rewrite the Constitution and urging Republicans to build the party’s future around a defense of the nation’s founding documents, a robust m",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/pence-sees-gop-line-defense-constitution-78481299",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/pence-sees-gop-line-defense-constitution-78481299",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/WireAP_2814cd6e46264fab9bd23515a6d2e9b1_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/pence-sees-gop-line-defense-constitution-78481299",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/pence-sees-gop-line-defense-constitution-78481299",
-      "publishedDateTime": "2021-06-24T21:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-06-25-ivana-trump-photographed-in-new-york-city-with-luxury-real-estate-broker-pal.md",
-      "title": "Ivana Trump Photographed In New York City With Luxury Real Estate Broker Pal",
-      "excerpt": "Ivana Trump was photographed out and about in New York City Wednesday with a friend, who was identified as seasoned realtor A. Laurance Kaiser IV.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/ivana-trump-photographed-new-york-city-luxury-real-estate-broker-pal-3235124",
-      "originalUrl": "https://www.ibtimes.com/ivana-trump-photographed-new-york-city-luxury-real-estate-broker-pal-3235124",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2017/10/10/ivana-trump.jpg",
-          "width": 594,
-          "height": 434,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/ivana-trump-photographed-new-york-city-luxury-real-estate-broker-pal-3235124?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/ivana-trump-photographed-new-york-city-luxury-real-estate-broker-pal-3235124?amp=1",
-      "publishedDateTime": "2021-06-24T20:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

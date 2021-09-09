@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ap-norc-poll-biden-app
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-norc-poll-biden-approval-buoyed-pandemic-response-77598908"
 type: article
 quality: 125
-heat: 165
+heat: 185
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fe1c800d4-e0a9-4da9-98da-11634db34510.jpg?source=google-amp&fit=scale-down&width=500"
         width: 500
         height: 281
+        isCached: true
+  - title: "Biden is bungling the pandemic response"
+    excerpt: "It's all taking their toll on pubic appraisals of President Biden's COVID response — and it's long past time he did something about it. Biden could start by asking someone like White House Coronavirus Response Coordinator Jeff Zients to step aside as part of a broader shift in strategy,"
+    publishedDateTime: 2021-09-09T09:46:00Z
+    webUrl: "https://theweek.com/joe-biden/1004659/biden-is-bungling-the-pandemic-response"
+    ampWebUrl: "https://theweek.com/joe-biden/1004659/biden-is-bungling-the-pandemic-response?amp"
+    cdnAmpWebUrl: "https://theweek-com.cdn.ampproject.org/c/s/theweek.com/joe-biden/1004659/biden-is-bungling-the-pandemic-response?amp"
+    type: article
+    provider:
+      name: THE WEEK
+      domain: theweek.com
+    quality: 75
+    images:
+      - url: "https://mediacloud.theweek.com/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1631134076/zeitz.jpg"
+        width: 814
+        height: 458
         isCached: true
   - title: "Joe Biden's approval rating slumps in poll"
     excerpt: "President Joe Biden is facing a summer slump, with Americans taking a notably less positive view of his handling of the coronavirus pandemic and his job approval rating"

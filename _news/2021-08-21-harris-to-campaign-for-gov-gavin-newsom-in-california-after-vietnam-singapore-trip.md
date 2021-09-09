@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/harris-to-campaign-for-newsom-in-ca
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-to-campaign-for-newsom-in-california-after-vietnam-singapore-trip.amp"
 type: article
 quality: 178
-heat: 298
+heat: 318
 published: true
 
 provider:
@@ -125,6 +125,22 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/harris-singapore-034.jpg?quality=90&strip=all&w=1024"
         width: 1024
         height: 682
+        isCached: true
+  - title: "Kamala Harris faces protesters waving Afghanistan flag during Newsom rally in California"
+    excerpt: "Vice President Kamala Harris was on mostly friendly ground in her native California on Wednesday as she campaigned for embattled Gov. Gavin Newsom, who faces a recall election next week. But that didn’t mean Harris fully escaped any criticism of her time in office."
+    publishedDateTime: 2021-09-09T07:29:00Z
+    webUrl: "https://www.foxnews.com/politics/kamala-harris-protesters-afghanistan-newsom-rally-california"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-protesters-afghanistan-newsom-rally-california.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-protesters-afghanistan-newsom-rally-california.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 126
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/93b2ece7-0289-4644-a183-0a18365e3ea9/1bce33fa-c674-40fa-825c-57efc9148214/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
 
 secured: "voVJqjjFxhowlL87O9FGe1wOFs2TUr7Asb+Dk5mTOThvhfLKfpSGIiykV7rN6YrSqHq0pWZTwRRU5FveogAqBSNtarqKPAevibiFu1nF/XIKwT9IWKrpE5OHyibLt/pIE/qG03ClMbrvyg6xSu6eAQE/wEUsaFBj6y9IvoKfllxIUMtXAfqPa60m3w22OV0kxsWlo/zrIIU5PCbKGCc1pPKc00AR2WVTUp70VQ8T+vCKhsLmTnQTHOEprHGl8BXlmhPLbqylDGzMWgxrQQRCg7oMqY2PWdZVAxllYQPY8o0N1c8wO6Swv3HVVTqHBa7HXBUXEh5KGyidrQomoECgnFvhrqvDZ8OUnV1E6DoXn6c=;H6bFDUpdwev7YEdCm0Z3Sg=="

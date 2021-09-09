@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-09-09-joe-biden-promised-to-defeat-the-lies-then-his-presidency-hit-a-crisis.md",
+      "title": "Joe Biden Promised to 'Defeat the Lies.' Then His Presidency Hit a Crisis",
+      "excerpt": "President Joe Biden pointedly advocated truth-telling in his inaugural address, in a tacit rebuke of Donald Trump's loose relationship with facts. But a few months on, the crises posed by the U.S. withdrawal from Afghanistan have tested Biden's commitment to truth.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/joe-biden-defeat-lies-presidency-crisis-1627349",
+      "originalUrl": "https://www.newsweek.com/joe-biden-defeat-lies-presidency-crisis-1627349",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 204,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1890536/biden-delivers-speech-state-dining-room.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/joe-biden-defeat-lies-presidency-crisis-1627349?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-defeat-lies-presidency-crisis-1627349?amp=1",
+      "publishedDateTime": "2021-09-09T07:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-09-09-biden-dems-push-civilian-climate-corps-in-echo-of-new-deal.md",
       "title": "Biden, Dems push Civilian Climate Corps in echo of New Deal",
       "excerpt": "Inspired by the New Deal-era Civilian Conservation Corps, President Joe Biden and congressional Democrats are pushing for a modern counterpart: a Civilian Climate Corps that would create hundreds of thousands of jobs building trails,",
@@ -10,7 +62,7 @@
       "originalUrl": "https://www.ctpost.com/news/article/Biden-Dems-push-Civilian-Climate-Corps-in-echo-16445011.php",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 115,
       "tags": null,
       "images": [
         {
@@ -110,7 +162,7 @@
       "originalUrl": "https://www.cbsnews.com/news/solar-power-increase-tenfold-2035-40-percent-of-electricity/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 305,
+      "heat": 345,
       "tags": null,
       "images": [
         {
@@ -266,7 +318,7 @@
       "originalUrl": "https://www.upi.com/Top_News/US/2021/09/07/new-york-jersey-joe-biden-hurricane-ida/7121631012476/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 115,
+      "heat": 135,
       "tags": null,
       "images": [
         {
@@ -309,7 +361,7 @@
       "originalUrl": "https://www.newsweek.com/joe-biden-chants-break-college-football-games-country-1626438",
       "featuredContent": null,
       "highlight": null,
-      "heat": 161,
+      "heat": 141,
       "tags": null,
       "images": [
         {
@@ -462,58 +514,6 @@
       ]
     },
     {
-      "path": "_news/2021-09-06-crisis-isnt-over-progressives-push-biden-to-revive-unemployment-benefits-amid-pandemic.md",
-      "title": "'Crisis Isn't Over': Progressives Push Biden to Revive Unemployment Benefits Amid Pandemic",
-      "excerpt": "\"We're still in a pandemic, and the latest jobs numbers prove that. Doing our part to support Americans right now includes extending expanded\" unemployment insurance benefits, Representative Jamaal Bowman told Newsweek.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/crisis-isnt-over-progressives-push-biden-revive-unemployment-benefits-amid-pandemic-1626267",
-      "originalUrl": "https://www.newsweek.com/crisis-isnt-over-progressives-push-biden-revive-unemployment-benefits-amid-pandemic-1626267",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1887979/ocasio-cortez-jamaal-bowman-progressive-unemployment-benefits-revive.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/crisis-isnt-over-progressives-push-biden-revive-unemployment-benefits-amid-pandemic-1626267?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/crisis-isnt-over-progressives-push-biden-revive-unemployment-benefits-amid-pandemic-1626267?amp=1",
-      "publishedDateTime": "2021-09-05T14:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
       "path": "_news/2021-09-04-joe-biden-walks-storm-ravaged-louisiana-i-know-youre-hurting.md",
       "title": "Joe Biden walks storm-ravaged Louisiana: “I know you’re hurting”",
       "excerpt": "Less than a week after Hurricane Ida battered the Gulf Coast, President Joe Biden walked the streets of a hardhit Louisiana neighborhood on Friday and told local residents, “I know you’re hurting, I know you’re hurting.",
@@ -565,7 +565,7 @@
       "originalUrl": "https://www.cbsnews.com/video/senator-joe-manchin-calls-for-pause-on-bidens-3-trillion-plan/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 305,
+      "heat": 325,
       "tags": null,
       "images": [
         {

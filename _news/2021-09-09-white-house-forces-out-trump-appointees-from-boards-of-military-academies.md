@@ -80,6 +80,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Proponents of Post-Trump Curbs on Executive Power Prepare New Push"
+    excerpt: "House Democrats are framing their efforts as a rebuke of Donald J. Trump’s record as would-be reformers seek Senate Republican support."
+    publishedDateTime: 2021-09-09T09:00:00Z
+    webUrl: "https://www.nytimes.com/2021/09/09/us/politics/executive-power-limits.html"
+    ampWebUrl: "https://www.nytimes.com/2021/09/09/us/politics/executive-power-limits.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/09/09/us/politics/executive-power-limits.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/09/08/us/politics/08dc-presidency/08dc-presidency-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
 
 secured: "y6surQeRgD1vzmZicGNTUG2vdiJkzZXqV4Xvh9RG6tJDd1mbo/IJAi2rVPyQff8ctMWlUrTxKMWfCLa7Z31TSYOaOuG9wXShcPxl1iI7jMcDQXjFnCtFWhXLhclYQehMxfjq8VV8SRrqtFrt5tTAVKl6fURJmzEolh4plVDi+slgSob83wnH6BkKHIKtSrHmPn656PPBvnjemK5pVz1KQEl5L8hDfvPwR3etabXvdulavRPgUyWSdxeVJOhS9M1P9IUOF3ZBz4rRh/eInrnbih2Z3RNbfS8RKhKsCIecHhp+xyXy+P4yQxDDeuiVUfPiwJJOumyxEdJKLyOrQFfbqM3S3dKY5P9TogD+bcCvtnE=;r9zw8iwhFDhq5N1OnRErjw=="
 ---

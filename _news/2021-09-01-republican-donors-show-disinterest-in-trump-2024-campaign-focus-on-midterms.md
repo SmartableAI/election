@@ -169,22 +169,6 @@ related:
         width: 600
         height: 336
         isCached: true
-  - title: "Former President Trump to serve as boxing commentator"
-    excerpt: "Former President Donald Trump is scheduled to provide commentary from ringside Saturday for an exhibition boxing card headlined by 58-year-old former heavyweight champion Evander Holyfield. Trump will be joined by his son,"
-    publishedDateTime: 2021-09-09T03:17:00Z
-    webUrl: "https://www.seattlepi.com/sports/article/Former-President-Trump-to-serve-as-boxing-16444248.php"
-    ampWebUrl: "https://www.seattlepi.com/sports/amp/Former-President-Trump-to-serve-as-boxing-16444248.php"
-    cdnAmpWebUrl: "https://www-seattlepi-com.cdn.ampproject.org/c/s/www.seattlepi.com/sports/amp/Former-President-Trump-to-serve-as-boxing-16444248.php"
-    type: article
-    provider:
-      name: seattlepi.com
-      domain: seattlepi.com
-    quality: 75
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
   - title: "Pro-Trump lawyers who pushed fraud cases face serious consequences"
     excerpt: "Lawyers who sought to overturn the 2020 election results in key states, alleging fraud, were sanctioned last week by a federal judge in Michigan."
     publishedDateTime: 2021-08-31T20:06:00Z
@@ -224,6 +208,17 @@ related:
         width: 499
         height: 325
         isCached: true
+  - title: "Former President Trump to serve as boxing commentator"
+    excerpt: "Former President Donald Trump is scheduled to provide commentary from ringside Saturday for an exhibition boxing card headlined by 58-year-old former heavyweight champion Evander Holyfield."
+    publishedDateTime: 2021-09-09T09:45:00Z
+    webUrl: "https://www.bellinghamherald.com/sports/article254086823.html"
+    ampWebUrl: "https://amp.bellinghamherald.com/sports/article254086823.html"
+    cdnAmpWebUrl: "https://amp-bellinghamherald-com.cdn.ampproject.org/c/s/amp.bellinghamherald.com/sports/article254086823.html"
+    type: article
+    provider:
+      name: The Bellingham Herald
+      domain: bellinghamherald.com
+    quality: 55
   - title: "Kent lands endorsement from former President Trump in congressional campaign"
     excerpt: "Joe Kent has added one of the biggest potential Republican endorsements to his campaign to take Jaime Herrera Beutler's seat in the House of Representatives: President Donald Trump."
     publishedDateTime: 2021-09-02T00:15:00Z

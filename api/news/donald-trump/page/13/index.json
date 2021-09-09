@@ -2,6 +2,115 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-06-07-trump-adviser-lewandowski-he-lost-the-election-and-will-not-be-reinstated.md",
+      "title": "Trump adviser Lewandowski: he ‘lost the election’ and will not be reinstated",
+      "excerpt": "Former campaign manager tells Fox News Sunday there is no mechanism by which a loser can return to the White House",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/jun/06/trump-lewandowski-election-reinstated-biden-north-carolina-fox-news",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/jun/06/trump-lewandowski-election-reinstated-biden-north-carolina-fox-news",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/a4b97b8c413143ea1afe44637af39841f042e591/0_275_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=4f52b1748e208e20eb8ed24e73d36fff",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/jun/06/trump-lewandowski-election-reinstated-biden-north-carolina-fox-news",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/06/trump-lewandowski-election-reinstated-biden-north-carolina-fox-news",
+      "publishedDateTime": "2021-06-06T12:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-06-06-blunt-trump-should-be-focused-on-2022-not-the-past.md",
+      "title": "Blunt: Trump should be 'focused' on 2022, not the past",
+      "excerpt": "In an exclusive interview with Meet the Press, Sen. Roy Blunt (R-Mo.), Chair, Republican Policy Committee, encourages former President Donald Trump to stop relitigating 2020.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/meet-the-press/video/blunt-trump-should-be-focused-on-2022-not-the-past-114399301693",
+      "originalUrl": "https://www.nbcnews.com/meet-the-press/video/blunt-trump-should-be-focused-on-2022-not-the-past-114399301693",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_06/1622987297976_mtp_clip_Blunt2022_210606_1920x1080.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo114399301693",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo114399301693",
+      "publishedDateTime": "2021-06-06T06:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-06-trump-too-soon-to-tell-if-pence-would-be-running-mate-if-he-seeks-white-house-in-2024.md",
       "title": "Trump: 'Too soon to tell' if Pence would be running mate if he seeks White House in 2024",
       "excerpt": "Former President Trump Donald Trump Trump touts record, blasts Dems in return to stage Trump demands China pay 'reparations' for role in coronavirus pandemic Trump endorses Rep. Ted Budd for ...",
@@ -1465,110 +1574,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-01-a-former-associate-of-trump-ally-roger-stone-appeared-to-gesture-for-hillary-clinton-to-be-hanged-at-a-conference-with-qanon-attendees.md",
-      "title": "A former associate of Trump ally Roger Stone appeared to gesture for Hillary Clinton to be hanged at a conference with QAnon attendees",
-      "excerpt": "Jason Sullivan, a former social media adviser to Roger Stone, made a gesture appearing to resemble a noose, receiving loud cheers from a crowd.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/roger-stone-adviser-appeared-to-gesture-for-hillary-clinton-to-be-hanged-at-qanon-conference-2021-5",
-      "originalUrl": "https://www.businessinsider.com/roger-stone-adviser-appeared-to-gesture-for-hillary-clinton-to-be-hanged-at-qanon-conference-2021-5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/60b545ff02ac410018f93a82?width=1200&format=jpeg",
-          "width": 1024,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/roger-stone-adviser-appeared-to-gesture-for-hillary-clinton-to-be-hanged-at-qanon-conference-2021-5?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/roger-stone-adviser-appeared-to-gesture-for-hillary-clinton-to-be-hanged-at-qanon-conference-2021-5?amp",
-      "publishedDateTime": "2021-05-31T15:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-05-31-trumps-ex-advisor-tells-qanon-supporters-us-should-have-coup-like-myanmar.md",
-      "title": "Trump's Ex-Advisor Tells QAnon Supporters US Should Have Coup Like Myanmar",
-      "excerpt": "Donald Trump's Former National Security Advisor Michael Flynn told QAnon supporters over the weekend that the United States should have a coup like the one in Myanmar. A video shared on Twitter showed Flynn,",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/trumps-ex-advisor-tells-qanon-supporters-us-should-have-coup-myanmar-3212873",
-      "originalUrl": "https://www.ibtimes.com/trumps-ex-advisor-tells-qanon-supporters-us-should-have-coup-myanmar-3212873",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/26/total-suspended-cash-payments-linked-to-gas-pipeline-AFP_9AT73Q.jpg",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/trumps-ex-advisor-tells-qanon-supporters-us-should-have-coup-myanmar-3212873?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trumps-ex-advisor-tells-qanon-supporters-us-should-have-coup-myanmar-3212873?amp=1",
-      "publishedDateTime": "2021-05-30T22:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

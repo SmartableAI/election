@@ -2,6 +2,272 @@
   "page": 65,
   "value": [
     {
+      "path": "_news/2021-04-23-mike-pence-worst-border-policy-in-history.md",
+      "title": "Mike Pence: 'Worst border policy in history'",
+      "excerpt": "The situation is more than complex on the southern border these days. U.S. Customs and Border Protection offers this update:",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtontimes.com/news/2021/apr/22/inside-the-beltway-mike-pence-worst-border-policy-/",
+      "originalUrl": "https://www.washingtontimes.com/news/2021/apr/22/inside-the-beltway-mike-pence-worst-border-policy-/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://twt-thumbs.washtimes.com/media/image/2021/04/22/4_222021_beltway-border-agen8202_c0-161-3000-1911_s1200x700.jpg?ce8ba673cd04f4ec823de30e08101336c565f046",
+          "width": 1200,
+          "height": 700,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.washingtontimes.com/news/2021/apr/22/inside-the-beltway-mike-pence-worst-border-policy-/",
+      "cdnAmpWebUrl": "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/apr/22/inside-the-beltway-mike-pence-worst-border-policy-/",
+      "publishedDateTime": "2021-04-22T14:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Times",
+        "domain": "washingtontimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-04-22-house-republicans-demand-answers-from-vp-harris-on-politically-motivated-border-decision.md",
+      "title": "House Republicans demand answers from VP Harris on 'politically motivated' border decision",
+      "excerpt": "EXCLUSIVE: House Republicans are demanding answers from Vice President Kamala Harris on whether a facility for migrant children in Florida has not been activated because of the Democrat's personal politics. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2kGx09VpZ1M/house-republicans-demand-answers-from-vp-harris-on-politically-motivated-border-decisions",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2kGx09VpZ1M/house-republicans-demand-answers-from-vp-harris-on-politically-motivated-border-decisions",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2018/10/Cathy-McMorris-Rodgers.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-22T14:12:50-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-04-23-new-probe-confirms-trump-officials-blocked-puerto-rico-from-receiving-hurricane-aid.md",
+      "title": "New probe confirms Trump officials blocked Puerto Rico from receiving hurricane aid",
+      "excerpt": "Findings from a new inspector general report show how Trump officials blocked hurricane aid for Puerto Rico and obstructed a probe looking into the withholdings.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/news/latino/new-probe-confirms-trump-officials-blocked-puerto-rico-receiving-hurri-rcna749",
+      "originalUrl": "https://www.nbcnews.com/news/latino/new-probe-confirms-trump-officials-blocked-puerto-rico-receiving-hurri-rcna749",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media1.s-nbcnews.com/i/rockcms/2021-04/1132/200724-puerto-rico-ew-323p-053a09_a69b88d4a153c119ebf9b4c21caa3521643fa016.jpg",
+          "width": 2500,
+          "height": 1663,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna749",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna749",
+      "publishedDateTime": "2021-04-22T14:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-23-republicans-unveil-568-billion-infrastructure-package-to-counter-bidens-23-trillion-plan.md",
+      "title": "Republicans unveil $568 billion infrastructure package to counter Biden's $2.3 trillion plan",
+      "excerpt": "U.S. Senate Republicans on Thursday put forward their version of an infrastructure package that would spend $568 billion over five years in a response to Democratic U.S. President Joe Biden's $2.3 trillion proposal.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-congress-infrastructure-republica-idUSKBN2C92BK",
+      "originalUrl": "https://www.reuters.com/article/us-usa-congress-infrastructure-republica-idUSKBN2C92BK",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210422&t=2&i=1559564512&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3L156",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2C92BK",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2C92BK",
+      "publishedDateTime": "2021-04-22T13:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-04-23-outrageous-bank-regulator-lobbies-for-trump-era-rule-angering-democrats.md",
+      "title": "'Outrageous': Bank regulator lobbies for Trump-era rule, angering Democrats",
+      "excerpt": "Consumer watchdogs have warned that it could unleash predatory loans by enabling \"payday\" lenders to evade state interest rate caps.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2021/04/22/outrageous-bank-regulator-lobbies-for-trump-era-rule-angering-democrats-484295",
+      "originalUrl": "https://www.politico.com/news/2021/04/22/outrageous-bank-regulator-lobbies-for-trump-era-rule-angering-democrats-484295",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 133,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/9c/60/6fa5d152480e8c5e5c3979f428d6/190716-sherrod-brown-ap-773.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.com/amp/news/2021/04/22/outrageous-bank-regulator-lobbies-for-trump-era-rule-angering-democrats-484295",
+      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/04/22/outrageous-bank-regulator-lobbies-for-trump-era-rule-angering-democrats-484295",
+      "publishedDateTime": "2021-04-22T12:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-23-kerry-blasts-trump-for-pulling-out-of-the-paris-accord-without-any-scientific-evidence.md",
       "title": "Kerry blasts Trump for pulling out of the Paris accord ‘without any scientific evidence’",
       "excerpt": "Special presidential envoy for climate John F. Kerry on April 22 said the Biden administration had to restore credibility on climate after former president Donald Trump pulled out of the Paris climate accord \"without any scientific evidence.",
@@ -320,62 +586,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-04-22-washington-post-trump-administration-blocked-investigation-into-delayed-relief-to-puerto-rico-for-2017-hurricane.md",
-      "title": "Washington Post: Trump administration blocked investigation into delayed relief to Puerto Rico for 2017 hurricane",
-      "excerpt": "The Trump administration put up barriers that delayed $20 billion in hurricane relief aid to Puerto Rico and blocked an investigation into the delayed funds, The Washington Post reported Thursday, citing a 46-page inspector general report.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vQlhUwmwniE/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vQlhUwmwniE/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 174,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210422075257-file-hurricane-maria-puerto-rico-2017-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/22/politics/puerto-rico-relief-investigation-washington-post/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/22/politics/puerto-rico-relief-investigation-washington-post/index.html",
-      "publishedDateTime": "2021-04-22T06:31:13-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     },
     {
@@ -1106,226 +1316,6 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/21/politics/climate-summit-white-house/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/21/politics/climate-summit-white-house/index.html",
       "publishedDateTime": "2021-04-21T12:08:41-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-22-biden-briefed-on-tragic-police-killing-of-makhia-bryant-white-house-says.md",
-      "title": "Biden briefed on ‘tragic’ police killing of Ma’Khia Bryant, White House says",
-      "excerpt": "Ma’Khia, 16, shot dead by police in Columbus, Ohio on Tuesday, minutes before jury announced guilty verdict in Chauvin murder case",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/apr/21/makhia-bryant-killing-columbus-ohio-biden-briefing-white-house",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/apr/21/makhia-bryant-killing-columbus-ohio-biden-briefing-white-house",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/04aa95a47f93798a660fb0419df4d7e053acc3fb/0_33_2000_1200/master/2000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=6dfefbcaf13ea87747971103d69119bd",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/apr/21/makhia-bryant-killing-columbus-ohio-biden-briefing-white-house",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/apr/21/makhia-bryant-killing-columbus-ohio-biden-briefing-white-house",
-      "publishedDateTime": "2021-04-21T11:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-04-21-biden-advisers-brother-lobbying-white-house-for-pharma-giants-docs-reveal.md",
-      "title": "Biden adviser's brother lobbying White House for pharma giants, docs reveal",
-      "excerpt": "Jeff Ricchetti began lobbying the White House at the beginning of this year’s first quarter, with disclosures showing that he was representing pharmaceutical giants Horizon Therapeutics, GlaxoSmithKline and Vaxart Inc., according to financial disclosure reports.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3gHaxINDUjQ/biden-white-house-richetti-brother-lobbying-pharma",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3gHaxINDUjQ/biden-white-house-richetti-brother-lobbying-pharma",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 173,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3f1fa356-6f69-460c-b69d-f0b1c45219ee/81fdc322-52d7-45aa-9e79-21bad849c756/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-white-house-richetti-brother-lobbying-pharma.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-white-house-richetti-brother-lobbying-pharma.amp",
-      "publishedDateTime": "2021-04-21T11:47:20-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-21-boebert-roy-seek-to-force-vote-on-reversing-bidens-oil-and-gas-executive-orders.md",
-      "title": "Boebert, Roy seek to force vote on reversing Biden's oil and gas executive orders",
-      "excerpt": "Reps. Lauren Boebert and Chip Roy launched an effort Wednesday to force a House vote on reversing President Biden's oil and gas executive orders that the GOP lawmakers panned as detrimental to the economy and America's energy independence. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Akwbi_5_V1k/boebert-seeks-to-repeal-bidens-executive-order-limiting-oil-drilling",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Akwbi_5_V1k/boebert-seeks-to-repeal-bidens-executive-order-limiting-oil-drilling",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 170,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/Chip-Roy-Lauren-Boebert.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/boebert-seeks-to-repeal-bidens-executive-order-limiting-oil-drilling.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/boebert-seeks-to-repeal-bidens-executive-order-limiting-oil-drilling.amp",
-      "publishedDateTime": "2021-04-21T11:41:11-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-21-andrew-giuliani-to-meet-with-trump-as-he-preps-ny-gubernatorial-bid.md",
-      "title": "Andrew Giuliani to meet with Trump as he preps NY gubernatorial bid",
-      "excerpt": "Andrew Giuliani, the son of former New York City Mayor Rudy Giuliani and a former public liaison official inside the Trump White House, will meet with the former President at Mar-a-Lago next week as he finalizes his plans to launch a campaign for New York governor.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/yo6M08jV-Lk/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/yo6M08jV-Lk/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210104125229-trump-south-lawn-1212-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/21/politics/andrew-giuliani-trump-meeting/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/21/politics/andrew-giuliani-trump-meeting/index.html",
-      "publishedDateTime": "2021-04-21T10:28:42-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",

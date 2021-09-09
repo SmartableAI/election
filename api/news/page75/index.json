@@ -2,6 +2,267 @@
   "page": 75,
   "value": [
     {
+      "path": "_news/2021-04-07-pence-launches-conservative-political-group.md",
+      "title": "Pence launches conservative political group",
+      "excerpt": "Former Vice President Mike Pence Michael (Mike) Richard Pence Republican battle with MLB intensifies War over voting laws further corrodes trust in elections The Memo: Biden's bet on taxes MORE ...",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/campaign/546848-pence-launches-conservative-political-group",
+      "originalUrl": "https://thehill.com/homenews/campaign/546848-pence-launches-conservative-political-group",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 185,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/pence_010621getty.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/campaign/546848-pence-launches-conservative-political-group?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/546848-pence-launches-conservative-political-group?amp",
+      "publishedDateTime": "2021-04-07T04:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-04-07-trump-slams-woke-mlb-in-tv-interview-claims-fans-giving-up-on-baseball.md",
+      "title": "Trump slams 'woke' MLB in TV interview, claims fans 'giving up on baseball'",
+      "excerpt": "In a TV interview on Tuesday, former President Trump expounded on his recent statements objecting to Major League Baseball's recent decision to move the All-Star Game out of Atlanta. The league's move was a reaction to Georgia's recently passed voting ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/trump-slams-woke-mlb-in-tv-interview-claims-fans-giving-up-on-baseball",
+      "originalUrl": "https://www.foxnews.com/media/trump-slams-woke-mlb-in-tv-interview-claims-fans-giving-up-on-baseball",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 133,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20334644546013-e1606925054815.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/trump-slams-woke-mlb-in-tv-interview-claims-fans-giving-up-on-baseball.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/trump-slams-woke-mlb-in-tv-interview-claims-fans-giving-up-on-baseball.amp",
+      "publishedDateTime": "2021-04-07T01:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-07-steyn-biden-consciously-enriching-cartels-with-entirely-dissolved-southern-border.md",
+      "title": "Steyn: Biden 'consciously enriching cartels' with 'entirely dissolved' southern border",
+      "excerpt": "In his \"Fox News Primetime\" monologue on Tuesday, host Mark Steyn lamented the exponential increase in human smuggling into the United States as the Biden administration fails to secure the southern b",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/politics/steyn-biden-consciously-enriching-cartels-with-entirely-dissolved-southern-border",
+      "originalUrl": "https://www.foxnews.com/politics/steyn-biden-consciously-enriching-cartels-with-entirely-dissolved-southern-border",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9f2d6dc0-4bc4-4aa4-b5dc-699a52c0278c/dc452007-fbad-423d-be76-3a780d567600/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/steyn-biden-consciously-enriching-cartels-with-entirely-dissolved-southern-border.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/steyn-biden-consciously-enriching-cartels-with-entirely-dissolved-southern-border.amp",
+      "publishedDateTime": "2021-04-06T18:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-07-harris-vaccinated-can-be-role-models-for-friends-family.md",
+      "title": "Harris: Vaccinated can be 'role models' for friends, family",
+      "excerpt": "Vice President Kamala Harris on Tuesday urged Chicago union members to share their experience receiving a COVID-19 vaccine and act as “role models\" for family and friends who may be reluctant even as Illinois prepares to open access to all adults.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chron.com/business/article/Harris-Vaccinated-can-be-role-models-for-16081248.php",
+      "originalUrl": "https://www.chron.com/business/article/Harris-Vaccinated-can-be-role-models-for-16081248.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
+          "width": 600,
+          "height": 336,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.chron.com/news/amp/Harris-Vaccinated-can-be-role-models-for-16081248.php",
+      "cdnAmpWebUrl": "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Harris-Vaccinated-can-be-role-models-for-16081248.php",
+      "publishedDateTime": "2021-04-06T18:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Houston Chronicle",
+        "domain": "chron.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-04-07-donald-trump-calls-georgia-election-law-too-weak-hope-the-rinos-are-happy.md",
+      "title": "Donald Trump Calls Georgia Election Law 'Too Weak': 'Hope the RINOs Are Happy'",
+      "excerpt": "Former U.S. President Donald Trump has criticized Georgia's recently passed election law as \"too weak.\" \"Hope the RINOs are happy,\" Trump wrote in a Tuesday statement criticizing the law. RINO is an initialism for Republicans in Name Only. The initialism ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/donald-trump-calls-georgia-election-law-too-weak-hope-rinos-are-happy-1581492",
+      "originalUrl": "https://www.newsweek.com/donald-trump-calls-georgia-election-law-too-weak-hope-rinos-are-happy-1581492",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 236,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1772337/donald-trump-georgia-election-law-weak-rinos.jpg",
+          "width": 3000,
+          "height": 2000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/donald-trump-calls-georgia-election-law-too-weak-hope-rinos-are-happy-1581492?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-calls-georgia-election-law-too-weak-hope-rinos-are-happy-1581492?amp=1",
+      "publishedDateTime": "2021-04-06T17:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-04-06-harris-moving-into-naval-observatory-residence-after-renovations-delay.md",
       "title": "Harris moving into Naval Observatory residence after renovations delay",
       "excerpt": "Vice President Kamala Harris and second gentleman Doug Emhoff will move in to the Naval Observatory residence Tuesday night after their move was delayed for more than two months because of \"repairs to the home,\" a White House official told CNN.\n    \n",
@@ -1063,275 +1324,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/bidens-energy-policies-dangerous-message-texas-george-p-bush.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-energy-policies-dangerous-message-texas-george-p-bush.amp",
       "publishedDateTime": "2021-04-05T10:25:49-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-05-former-cheney-adviser-biden-admin-hell-bent-on-rejoining-iran-nuclear-deal.md",
-      "title": "Former Cheney adviser: Biden admin 'hell-bent' on rejoining Iran nuclear deal",
-      "excerpt": "The former National Security Advisor to Vice President Cheney, John Hannah, said that the Biden administration is 'hell-bent' on rejoining the Iran nuclear deal, during a Monday appearance on 'America's Newsroom.'",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/d86aaDrLRYE/biden-admin-iran-nuclear-john-hannah-foreign-policy",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/d86aaDrLRYE/biden-admin-iran-nuclear-john-hannah-foreign-policy",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 192,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-admin-iran-nuclear-john-hannah-foreign-policy.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-admin-iran-nuclear-john-hannah-foreign-policy.amp",
-      "publishedDateTime": "2021-04-05T09:24:30-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-05-supreme-court-dismisses-trump-twitter-case-as-moot-as-thomas-highlights-glaring-concern-of-platforms-power.md",
-      "title": "Supreme Court dismisses Trump Twitter case as moot, as Thomas highlights 'glaring concern' of platform's power",
-      "excerpt": "The Supreme Court on Monday deemed former President Donald Trump's appeal of a ruling that said it was unconstitutional for him to block critics, deeming his page to be a protected public forum. The court called for the case to be dismissed, as Trump is no ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/supreme-court-dismisses-trump-twitter-case-moot",
-      "originalUrl": "https://www.foxnews.com/politics/supreme-court-dismisses-trump-twitter-case-moot",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/293bed5e-ef2c-4f3b-a18d-a7c565bbef69/1133c664-0b35-4f1f-9163-666f52e5e1dd/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/supreme-court-dismisses-trump-twitter-case-moot.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/supreme-court-dismisses-trump-twitter-case-moot.amp",
-      "publishedDateTime": "2021-04-05T08:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-05-a-miracle-hunter-biden-says-a-blind-date-with-his-future-wife-rescued-him-from-crack-addiction.md",
-      "title": "A \"miracle\": Hunter Biden says a blind date with his future wife rescued him from crack addiction",
-      "excerpt": "Biden's mother, Neilia Biden, and his one-year-old sister, Naomi, were killed in a car crash in 1972. He and his older brother, Beau, just two and three at the time, were critically injured, but survived. Their father, Joe, was sworn in to his first term ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/hunter-biden-crack-addition-blind-date-future-wife/",
-      "originalUrl": "https://www.cbsnews.com/news/hunter-biden-crack-addition-blind-date-future-wife/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2021/04/05/ebb7e532-69f6-4ada-9dd2-64f6cd707bdb/thumbnail/1200x630/c65d58112a1f5beed214fd35a5924ac5/0405-ctm-hunter.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/hunter-biden-crack-addition-blind-date-future-wife/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/hunter-biden-crack-addition-blind-date-future-wife/",
-      "publishedDateTime": "2021-04-05T06:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-04-05-trump-melania-met-with-cheers-at-easter-church-service-in-florida.md",
-      "title": "Trump, Melania met with cheers at Easter church service in Florida",
-      "excerpt": "Former President Donald Trump and former First Lady Melania Trump spent their Easter in Florida, attending church before spending time with family at an Easter egg roll at their Mar-a-Lago estate.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/04/05/trump-melania-met-with-cheers-at-easter-church-service-in-florida/",
-      "originalUrl": "https://nypost.com/2021/04/05/trump-melania-met-with-cheers-at-easter-church-service-in-florida/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/04/donald-trump-easter-82.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/04/05/trump-melania-met-with-cheers-at-easter-church-service-in-florida/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/05/trump-melania-met-with-cheers-at-easter-church-service-in-florida/amp/",
-      "publishedDateTime": "2021-04-05T05:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-05-gop-seeks-to-pull-back-curtain-on-biden-tax-shelter-hypocrisy.md",
-      "title": "GOP seeks to pull back curtain on Biden tax shelter ‘hypocrisy’",
-      "excerpt": "A blistering letter from the leader of a House conservative caucus regarding Biden’s own tax loopholes could foreshadow what Republicans aim to include in their oversight agenda should they flip the House of Representative in 2022.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ElR9JLoJZmw/gop-seeks-to-pull-back-curtain-on-biden-tax-shelter-hypocrisy",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ElR9JLoJZmw/gop-seeks-to-pull-back-curtain-on-biden-tax-shelter-hypocrisy",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 235,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Jim-Banks-GETTY.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/gop-seeks-to-pull-back-curtain-on-biden-tax-shelter-hypocrisy.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-seeks-to-pull-back-curtain-on-biden-tax-shelter-hypocrisy.amp",
-      "publishedDateTime": "2021-04-05T04:03:49-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

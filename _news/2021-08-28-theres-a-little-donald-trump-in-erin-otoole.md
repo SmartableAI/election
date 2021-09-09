@@ -230,6 +230,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Donald Trump endorses Wyoming lawyer Harriet Hageman in GOP primary against Liz Cheney"
+    excerpt: "Former President Donald Trump has vowed vengeance on all 10 House Republicans who voted to impeach him. Rip. Liz Cheney leads that list."
+    publishedDateTime: 2021-09-09T15:29:00Z
+    webUrl: "https://www.azcentral.com/story/news/politics/2021/09/09/donald-trump-endorses-wyoming-republican-challenging-liz-cheney/5771493001/"
+    ampWebUrl: "https://amp.azcentral.com/amp/5771493001"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/5771493001"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 67
+    images:
+      - url: "https://www.gannett-cdn.com/-mm-/b4c3f32029a6857e744e8c1612673bb889137d09/c=0-283-5433-3339/local/-/media/2021/08/10/USATODAY/usatsports/B9346556187Z.1_20210810182456_000_G0ITSUTGE.2-0.jpg?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Bernie Sanders sets out to sell big government in Trump country"
     excerpt: "He's specifically targeting two congressional districts where Trump's vote totals increased between 2016 and 2020."
     publishedDateTime: 2021-08-27T10:03:00Z

@@ -2,6 +2,214 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2021-07-14-pro-trump-senate-hopeful-jd-vance-called-then-president-a-moral-disaster-in-2017-messages.md",
+      "title": "Pro-Trump Senate hopeful J.D. Vance called then-President a 'moral disaster' in 2017 messages",
+      "excerpt": "Ohio Republican Senate candidate J.D. Vance, a venture capitalist and author of the bestselling book \"Hillbilly Elegy,\" disparaged then-President Donald Trump as a \"moral disaster\" whose administration had \"no domestic policy agenda besides tax cuts\" in Twitter direct messages from summer 2017.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-U3o2EgtfvE/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-U3o2EgtfvE/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210714141649-jd-vance-trump-split-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/14/politics/kfile-jd-vance-donald-trump-2017/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/14/politics/kfile-jd-vance-donald-trump-2017/index.html",
+      "publishedDateTime": "2021-07-14T13:00:20-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-15-mike-pence-says-china-seizing-on-biden-admin-weakness-to-become-evil-empire.md",
+      "title": "Mike Pence Says China Seizing on Biden Admin 'Weakness' to Become 'Evil Empire'",
+      "excerpt": "Pence called America's return to the WHO under Biden without \"demanding a single concession\" an example of the U.S. \"rolling over to communist China.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/mike-pence-says-china-seizing-biden-admin-weakness-become-evil-empire-1609794",
+      "originalUrl": "https://www.newsweek.com/mike-pence-says-china-seizing-biden-admin-weakness-become-evil-empire-1609794",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 216,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1846054/mike-pence-china-biden-admin.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/mike-pence-says-china-seizing-biden-admin-weakness-become-evil-empire-1609794?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mike-pence-says-china-seizing-biden-admin-weakness-become-evil-empire-1609794?amp=1",
+      "publishedDateTime": "2021-07-14T12:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-07-15-trumps-ag-bill-barr-denies-he-blocked-election-fraud-probes-in-pennsylvania.md",
+      "title": "Trump's AG Bill Barr denies he blocked election fraud probes in Pennsylvania",
+      "excerpt": "The former U.S. attorney general says he never blocked former U.S. Attorney William McSwain from investigating election fraud claims in Pennsylvania.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2021/07/14/attorney-general-bill-barr-trump-pennsylvania-election-fraud/7968006002/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/07/14/attorney-general-bill-barr-trump-pennsylvania-election-fraud/7968006002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 257,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/-mm-/3aaa5390e2198791e1539a5c55e668f463ec89a9/c=0-106-2036-1251/local/-/media/2021/05/26/Hagerstown/9601e05ba52fd734e7351590674f3aec.jpg?auto=webp&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/7968006002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7968006002",
+      "publishedDateTime": "2021-07-14T11:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-07-14-david-gergen-trump-more-dangerous-than-nixon-could-bring-the-whole-system-down.md",
+      "title": "David Gergen: Trump More Dangerous Than Nixon, Could \"Bring The Whole System Down\"",
+      "excerpt": "Former Nixon advisor David Gergen told CNN on Tuesday that he fears President Trump was \"more dangerous\" than Richard Nixon because he was \"crazy.\" \"what we worried about with Trump was that he was crazy,",
+      "sourceUrl": null,
+      "webUrl": "https://www.realclearpolitics.com/video/2021/07/14/david_gergen_trump_more_dangerous_than_nixon_could_bring_the_whole_system_down.html",
+      "originalUrl": "https://www.realclearpolitics.com/video/2021/07/14/david_gergen_trump_more_dangerous_than_nixon_could_bring_the_whole_system_down.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.realclear.com/images/41/414210.jpg",
+          "width": 568,
+          "height": 426,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "http://www.realclearpolitics.com/video/2021/07/14/david_gergen_trump_more_dangerous_than_nixon_could_bring_the_whole_system_down.amp.html",
+      "cdnAmpWebUrl": "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/07/14/david_gergen_trump_more_dangerous_than_nixon_could_bring_the_whole_system_down.amp.html",
+      "publishedDateTime": "2021-07-14T09:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RealClearPolitics",
+        "domain": "realclearpolitics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-14-trump-economist-steve-moore-hired-to-ruin-yet-another-state.md",
       "title": "Trump Economist Steve Moore Hired to Ruin Yet Another State",
       "excerpt": "I have the best senior economic adviser on the planet in Stephen Moore working with me,” boasts Virginia governor candidate Glenn Youngkin.",
@@ -1136,206 +1344,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-13-what-will-president-biden-do-about-cuba-20m-pumped-into-sports-betting-push-florida-gop-dominates-again-in-raising-money.md",
-      "title": "What will President Biden do about Cuba? — $20M pumped into sports betting push — Florida GOP dominates again in raising money",
-      "excerpt": "Next steps — What will President Joe Biden do about Cuba? That mystery really wasn’t solved on Monday at the White House. Cautious — As reports of a second day of protests took place on the island nation,",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/newsletters/florida-playbook/2021/07/13/what-will-president-biden-do-about-cuba-20m-pumped-into-sports-betting-push-florida-gop-dominates-again-in-raising-money-493547",
-      "originalUrl": "https://www.politico.com/newsletters/florida-playbook/2021/07/13/what-will-president-biden-do-about-cuba-20m-pumped-into-sports-betting-push-florida-gop-dominates-again-in-raising-money-493547",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/d3/05/ba68c9f5400bbef72003544b41ba/fineoutlogo.jpg",
-          "width": 900,
-          "height": 1165,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-13T03:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-13-joe-biden-styles-himself-as-a-21st-century-trust-buster.md",
-      "title": "Joe Biden styles himself as a 21st century ‘trust buster’",
-      "excerpt": "Joe Biden’s biggest supporters insist he is the most progressive US president since his reforming predecessor Franklin Delano. Now Biden is trying to place himself in",
-      "sourceUrl": null,
-      "webUrl": "https://www.ft.com/content/2db2f9d4-7a91-476b-bb22-d0a7cf0d4805",
-      "originalUrl": "https://www.ft.com/content/2db2f9d4-7a91-476b-bb22-d0a7cf0d4805",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-12T21:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Times",
-        "domain": "ft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/ft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-07-13-tammy-bruce-kamala-harris-clearly-doesnt-know-america-at-all.md",
-      "title": "Tammy Bruce: Kamala Harris clearly doesn't know America at all",
-      "excerpt": "Fox News contributor Tammy Bruce joined “Tucker Carlson Tonight” to react to Vice President Kamala Harris' comments on rural voters not being able to photocopy an ID.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/tammy-bruce-kamala-harris-doesnt-know-america",
-      "originalUrl": "https://www.foxnews.com/media/tammy-bruce-kamala-harris-doesnt-know-america",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 215,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4aed3fb8-f75b-402e-999e-50a80149916a/543856b3-355a-4b2a-836b-d49bc1330f04/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/tammy-bruce-kamala-harris-doesnt-know-america.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/tammy-bruce-kamala-harris-doesnt-know-america.amp",
-      "publishedDateTime": "2021-07-12T19:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-13-angela-merkel-doubts-joe-biden-meeting-will-solve-gas-pipeline-dispute.md",
-      "title": "Angela Merkel doubts Joe Biden meeting will solve gas pipeline dispute",
-      "excerpt": "German Chancellor Angela Merkel said Monday that she doubts the dispute between her country and the United States over a nearly completed gas pipeline from Russia will be fully resolved at a meeting with President Joe Biden this week.",
-      "sourceUrl": null,
-      "webUrl": "https://www.spokesman.com/stories/2021/jul/12/angela-merkel-doubts-joe-biden-meeting-will-solve-/",
-      "originalUrl": "https://www.spokesman.com/stories/2021/jul/12/angela-merkel-doubts-joe-biden-meeting-will-solve-/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumb.spokesman.com/pp1m8I0ZK-WdKj158Hc90_6tk-0=/480x0/media.spokesman.com/photos/2021/07/12/60ecdb5e51a63.hires.jpg",
-          "width": 480,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.spokesman.com/stories/2021/jul/12/angela-merkel-doubts-joe-biden-meeting-will-solve-/?amp-content=amp",
-      "cdnAmpWebUrl": "https://www-spokesman-com.cdn.ampproject.org/c/s/www.spokesman.com/stories/2021/jul/12/angela-merkel-doubts-joe-biden-meeting-will-solve-/?amp-content=amp",
-      "publishedDateTime": "2021-07-12T17:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Spokesman-Review",
-        "domain": "spokesman.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

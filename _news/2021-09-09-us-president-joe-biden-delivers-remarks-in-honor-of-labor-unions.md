@@ -1,10 +1,10 @@
 ---
 category: news
 title: "US President Joe Biden Delivers Remarks in Honor of Labor Unions"
-excerpt: "US President Joe Biden delivers remarks in honor of labor unions during an event in the East Room of the White House in Washington, DC on September 8, 2021. Pool Photo by Shawn Thew/UPI"
+excerpt: "US President Joe Biden mingles with guests following his remarks in honor of labor unions during an event in the East Room of the White House in Washington, DC on September 8, 2021. Pool Photo by Shaw"
 publishedDateTime: 2021-09-08T18:45:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/9206e6481851b50280a2e51885fbedbe/US-President-Joe-Biden-Delivers-Remarks-in-Honor-of-Labor-Unions/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/9206e6481851b50280a2e51885fbedbe/US-President-Joe-Biden-Delivers-Remarks-in-Honor-of-Labor-Unions/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/2d999a88cd873bb200a4fcece91cf36a/US-President-Joe-Biden-Delivers-Remarks-in-Honor-of-Labor-Unions/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/2d999a88cd873bb200a4fcece91cf36a/US-President-Joe-Biden-Delivers-Remarks-in-Honor-of-Labor-Unions/"
 type: article
 quality: 55
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/9206e6481851b50280a2e51885fbedbe/BIDEN-LABOR-UNIONS.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/2d999a88cd873bb200a4fcece91cf36a/BIDEN-LABOR-UNIONS.jpg"
     width: 650
     height: 433
     isCached: true
@@ -73,6 +73,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "It is far too soon for people to write off Joe Biden"
+    excerpt: "Sign up to myFT Daily Digest to be the first to know about Joe Biden news. Put it down to a hyper-caffeinated media. A few weeks ago, Joe Biden’s presidency was widely hailed as a triumph. Coronavirus was in retreat."
+    publishedDateTime: 2021-09-09T10:59:00Z
+    webUrl: "https://www.ft.com/content/117c7687-9354-4f45-8ddc-145cec24acb3"
+    ampWebUrl: "https://amp.ft.com/content/117c7687-9354-4f45-8ddc-145cec24acb3"
+    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/117c7687-9354-4f45-8ddc-145cec24acb3"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 125
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Faee5bb0a-da85-43c4-b288-55946ab399cb.jpg?source=google-amp&fit=scale-down&width=500"
+        width: 500
+        height: 281
+        isCached: true
   - title: "Biden tours destruction of storm-ravaged Manville"
     excerpt: "President Joe Biden toured a neighborhood in storm-ravaged New Jersey, surveying the aftermath of Hurricane Ida's floods. Biden heard a harrowing tale from a couple who escaped before the storm destroyed their home and their daughter's nursery."
     publishedDateTime: 2021-09-07T21:40:00Z
@@ -104,16 +120,16 @@ related:
   - title: "President Joe Biden Deliver Remarks in Honor of Labor Unions"
     excerpt: "President Joe Biden deliver remarks in honor of labor unions during an event in the East Room of the White House in Washington, DC, on Wednesday, September 8 2021. Photo by Shawn Thew/UPI"
     publishedDateTime: 2021-09-08T16:34:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/05f9c116747fbce74ef23bbe7a146c93/President-Joe-Biden-Deliver-Remarks-in-Honor-of-Labor-Unions/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/0780d645dd81667d6e38f3effadedfff/President-Joe-Biden-Deliver-Remarks-in-Honor-of-Labor-Unions/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/05f9c116747fbce74ef23bbe7a146c93/BIDEN-LABOR-UNIONS.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/0780d645dd81667d6e38f3effadedfff/BIDEN-LABOR-UNIONS.jpg"
         width: 650
-        height: 975
+        height: 433
         isCached: true
   - title: "Biden expected to push broad vaccination mandates"
     excerpt: "About 27% of the eligible U.S. population age 12 and older have not received any coronavirus vaccinations, according to data from the Centers for Disease Control and Prevention."
@@ -155,6 +171,6 @@ related:
         height: 675
         isCached: true
 
-secured: "+IwxlO3qggxCf976zyYhNrlovfDokmy/aos+NPpIDmrFvbDHJ1NgAsBuYcC6Q6KfyyWi4HHbuYNvVQyPjSEl7txVOJ/EpW0dNCS+Qkra96mQtlERwQAYdFjxA0LUE8qc8+o6n6MHykimFRBGrFsP3ZEUQlO0kxhAdrhbxZhj4RGNO6x//RfJ+xoGiGoabFXAWSAQBRkv/c4k/LlDG1AG58D/RAoFUgAJ+3JQzf9+1yRly7Cy3a0hshHzkUY5LqOS9YOj8Vmspec8Rnd6vgPgixYnldPPkxQHdedoYohoq1w6szmZQomvn4fhGHoRvu0lT/zddV3CEFhpRPZqyDjIBt7gZn9fidMrOGR3HLdEkEw=;qrRX10Aj1weuMva12gEvZg=="
+secured: "81JeyRqZU+YfeQXNWf8WmR/ChSiWij2W4CS4AewuWeegmm+hPnXJw1WK1ivFnv5x+Zn0NlqR4NCIiNXtyDjBrf/rQYbyYQ6l6O1edYFgDx8qLrLSxG9v01C9R8Yp+GRA5tPEPdqUpesI20FZ9CW0IsHXz31tJE/XMSku9Ke9cqfK4MZF5Sd5frXzfDf3RYHJziEPhMBFr2hQnsYFdHeLxmyE2TTVY61+Ejo1zFrCxpWOaR4KUzgP266utaQT5+M5nh1i55AqLoQuWe9jWMLum6wgGncJqBX6oewKtPsyFOt59rYFWGj/FcDpGRDCR/SHnDj1F3dJz0+xWzHDPjvxD3rXtT9fYuH144luAl9VLzk=;nywI9ySEjCUFb3eozS9E0g=="
 ---
 

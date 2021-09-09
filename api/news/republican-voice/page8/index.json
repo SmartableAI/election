@@ -2,6 +2,118 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-07-17-arizona-ag-brnovich-urges-biden-to-reverse-reported-title-42-repeal-after-border-numbers-rise-again.md",
+      "title": "Arizona AG Brnovich urges Biden to reverse reported Title 42 repeal after border numbers rise again",
+      "excerpt": "FIRST ON FOX: Arizona Attorney General Mark Brnovich on Friday wrote to President Biden urging him to reverse a reported plan to rollback Title 42 public health protections that allow for the rapid expulsion of migrants at the southern border after figures show there were nearly 190,000 attempted crossings",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/G4y7A3Cb2K0/arizona-brnovich-biden-reverse-title-42-repeal-border-numbers-rise-again",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/G4y7A3Cb2K0/arizona-brnovich-biden-reverse-title-42-repeal-border-numbers-rise-again",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 141,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cdcc19ec-b13e-4192-bb0b-d93532f1b904/111142cd-63a4-4ea6-834e-5dc83240884b/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-17T10:31:43-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-17-levin-slams-biden-admins-relationship-with-facebook-calls-trumps-big-tech-lawsuit-slam-dunk.md",
+      "title": "Levin slams Biden admin's relationship with Facebook, calls Trump's Big Tech lawsuit 'slam dunk'",
+      "excerpt": "Conservative commentator and author Mark Levin slammed the Biden administration for its relationship with Silicon Valley in its bid to halt the spread of misinformation concerning vaccines.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ag7t6vogZ1A/levin-biden-administration-facebook-not-independent",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ag7t6vogZ1A/levin-biden-administration-facebook-not-independent",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 517,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8dd557d5-4070-482a-bf1c-9bd4730188fc/a1bea93a-e995-457f-b882-6ab308460503/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/levin-biden-administration-facebook-not-independent.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/levin-biden-administration-facebook-not-independent.amp",
+      "publishedDateTime": "2021-07-17T08:31:45-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-17-things-keep-getting-worse-for-biden-blm-nominee-tracy-stone-manning.md",
       "title": "Things keep getting worse for Biden BLM nominee Tracy Stone-Manning",
       "excerpt": "Things keep getting worse for Tracy Stone-Manning, President Biden's nominee to lead the Bureau of Land Management.",
@@ -1496,118 +1608,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/trump-easily-wins-cpac-2024-gop-presidential-nomination-straw-poll.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-easily-wins-cpac-2024-gop-presidential-nomination-straw-poll.amp",
       "publishedDateTime": "2021-07-11T13:22:40-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-11-trump-on-big-tech-theyre-immune-from-so-many-different-things-but-theyre-not-immune-from-this-lawsuit.md",
-      "title": "Trump on Big Tech: 'They're immune from so many different things, but they're not immune from this lawsuit'",
-      "excerpt": "Former President Donald Trump continued his fight against tech industry giants he claims are improperly censoring him, telling Fox News' \"Sunday Morning Futures\" that what Twitter, Facebook and YouTube are doing amounts to campaign contributions to Democrats.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/n9DcPav6ekE/trump-big-tech-not-immune-from-this-lawsuit",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/n9DcPav6ekE/trump-big-tech-not-immune-from-this-lawsuit",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 217,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-big-tech-not-immune-from-this-lawsuit.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-big-tech-not-immune-from-this-lawsuit.amp",
-      "publishedDateTime": "2021-07-11T09:09:46-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-11-missouri-ag-schmitt-spotlights-pushback-against-biden-in-2022-senate-gop-primary.md",
-      "title": "Missouri AG Schmitt spotlights 'pushback' against Biden in 2022 Senate GOP primary",
-      "excerpt": "In a crowded U.S. Senate GOP primary field, Missouri Attorney General Eric Schmitt says his efforts in taking on what he calls the \"really radical\" agenda of President Biden's administration is making his campaign stand out.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/yQBX0GBoe94/missouri-ag-schmitt-pushback-against-biden-2022-senate-gop-primary",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/yQBX0GBoe94/missouri-ag-schmitt-pushback-against-biden-2022-senate-gop-primary",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/missouri-ag-schmitt-pushback-against-biden-2022-senate-gop-primary.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/missouri-ag-schmitt-pushback-against-biden-2022-senate-gop-primary.amp",
-      "publishedDateTime": "2021-07-11T02:50:46-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

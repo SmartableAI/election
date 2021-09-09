@@ -1120,18 +1120,18 @@ related:
         height: 533
         isCached: true
   - title: "VP Kamala Harris and California Gov. Gavin Nerwsom Hold Vote No on Recall Rall76"
-    excerpt: "California Governor Gavin Newsom waves with Vice President Kamala Harris at a 'vote no on recall' rally at the IBEW-NECA Joint Apprenticeship Training Center in San Leandro, California on Wednesday, September 8,"
+    excerpt: "Vice President Kamala Harris speaks at a 'vote no on recall' rally for California Governor Gavin Newsom at the IBEW-NECA Joint Apprenticeship Training Center in San Leandro, California on Wednesday, September 8,"
     publishedDateTime: 2021-09-08T22:22:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/54517538382a734eab52ef66053f1528/VP-Kamala-Harris-and-California-Gov-Gavin-Nerwsom-Hold-Vote-No-on-Recall-Rall76/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/f9273f3df972c056597095a59bf5d69b/VP-Kamala-Harris-and-California-Gov-Gavin-Nerwsom-Hold-Vote-No-on-Recall-Rall76/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 50
     images:
-      - url: "https://cdnph.upi.com/pv/upi/54517538382a734eab52ef66053f1528/HARRIS-NEWSOM.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/f9273f3df972c056597095a59bf5d69b/HARRIS-NEWSOM.jpg"
         width: 650
-        height: 447
+        height: 432
         isCached: true
   - title: "Gavin Newsom sides with Alexandria Ocasio-Cortez in border debate with Kamala Harris"
     excerpt: "Gavin Newsom, who endorsed Harris early in her 2020 presidential bid, is taking the side of The border has seen a dramatic surge in migrant arrivals, and Harris, who was tasked with leading the Biden administration's response to the surge,"

@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/09/08/politics/trump-cheney-endorsement
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/09/08/politics/trump-cheney-endorsement-primary-harriet-hageman/index.html"
 type: article
 quality: 172
-heat: 192
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -31,19 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "Washington Post: Trump-installed NSA lawyer resigns after being on administrative leave for three months"
-    excerpt: "National Security Agency general counsel Michael Ellis, who was installed by Trump officials in the final days of the administration, resigned from his post on Friday after being on administrative leave since the start of the Biden administration, according to The Washington Post.\n    \n"
-    publishedDateTime: 2021-04-18T19:18:12Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dUImdq1jD3Y/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/18/politics/michael-ellis-resignation-nsa/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/18/politics/michael-ellis-resignation-nsa/index.html"
+  - title: "Trump endorses Harriet Hageman in GOP primary challenge to Liz Cheney"
+    excerpt: "Former President Donald Trump has endorsed a Republican primary challenger to Wyoming Rep. Liz Cheney, a vocal critic of the former president who voted to impeach him earlier this year.\n    \n"
+    publishedDateTime: 2021-09-09T15:55:01Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/yn3pu5i05Kc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/09/09/politics/trump-endorses-harriet-hageman-cheney-challenger/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/09/09/politics/trump-endorses-harriet-hageman-cheney-challenger/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 158
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200213150327-pentagon-building-aerial-file-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210908171145-harriet-hageman-2018-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

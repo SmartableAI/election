@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/rcna749"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna749"
 type: article
 quality: 129
-heat: -1
-published: false
+heat: 129
+published: true
 
 provider:
   name: NBC News
@@ -30,24 +30,6 @@ images:
     width: 2500
     height: 1663
     isCached: true
-
-related:
-  - title: "Washington Post: Trump administration blocked investigation into delayed relief to Puerto Rico for 2017 hurricane"
-    excerpt: "The Trump administration put up barriers that delayed $20 billion in hurricane relief aid to Puerto Rico and blocked an investigation into the delayed funds, The Washington Post reported Thursday, citing a 46-page inspector general report.\n    \n"
-    publishedDateTime: 2021-04-22T13:31:13Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vQlhUwmwniE/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/22/politics/puerto-rico-relief-investigation-washington-post/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/22/politics/puerto-rico-relief-investigation-washington-post/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 154
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210422075257-file-hurricane-maria-puerto-rico-2017-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
 
 secured: "t0TDt5wmte7SGuiPmhB3RZvWOGaH7rd1RqSS2frd0UZ/AQv+/wUlpX4fMFa4CnSS9gWRNtw3IHIVTVEbjHMlflMfPknclYVCRkdjU8xjSvjczVpQGOHiy3Gdk5AwgzvUIiHEujLc6JM/XV7eohtQooFjpngk46nLBYqzhKQSd/T1dQwW1mwxeA6nxlHxGxc1m4SnfZNei12x+UhKBAehVvJv2WVMqSSqA+iC/FZJrbDZlEGB0P75GNrTMB3ugSj28/q+rQXAdQmIdVfgrFbvEXDUoDglC3E63LIbr6PWqAGw43jHjuny7n29wP+L7L+RJTltCGcXqhA1BRDdoWJvNh4mRZel+k8r1xJypzOKBXZVAxL1DICWe45RJ3pfL5f4/G4WMxhXd7Ow/yHT1Kq5E048C+ESLTSMbqHvr1T6bcwdshy5a7T52OYNOdAsvhB6FhldWuJzGGzncrUYDKSLkzbGOU3W3FxNCY6fb3As/3KCNhZ4IT9lwBnbXxUTtDHxbtPn0q8hgtBfSznUtxOYlA==;YpkKm6H/cKNH7kmgDEnkIg=="
 ---

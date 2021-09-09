@@ -64,6 +64,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Donald Trump Jr.: Biden Admin's Handling Of Afghan Exit \"Literally The Most Biden Thing Ever\""
+    excerpt: "Donald Trump Jr. said the \"clown show\" that is the Biden administration's withdrawal of U.S. forces from Afghanistan continues to get worse and worse in an interview with Sean Hannity: \"American citizens are doing the job,"
+    publishedDateTime: 2021-09-09T14:40:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/09/09/donald_trump_jr_biden_admins_handling_of_afghan_exit_literally_the_most_biden_thing_ever.html"
+    ampWebUrl: "http://www.realclearpolitics.com/video/2021/09/09/donald_trump_jr_biden_admins_handling_of_afghan_exit_literally_the_most_biden_thing_ever.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/09/09/donald_trump_jr_biden_admins_handling_of_afghan_exit_literally_the_most_biden_thing_ever.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 89
+    images:
+      - url: "https://amp.spot.im/loader.png"
+        width: 375
+        height: 815
+        isCached: true
   - title: "Joe Biden Is No Jimmy Carter"
     excerpt: "And if some of his accomplishments provide stark contrasts with his only-18-years-younger successor President Joe Biden, well, draw your own conclusions. I start off by noting that Carter came to the presidency with almost no relevant experience."
     publishedDateTime: 2021-09-03T10:39:00Z

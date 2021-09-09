@@ -2,6 +2,226 @@
   "page": 66,
   "value": [
     {
+      "path": "_news/2021-04-22-biden-briefed-on-tragic-police-killing-of-makhia-bryant-white-house-says.md",
+      "title": "Biden briefed on ‘tragic’ police killing of Ma’Khia Bryant, White House says",
+      "excerpt": "Ma’Khia, 16, shot dead by police in Columbus, Ohio on Tuesday, minutes before jury announced guilty verdict in Chauvin murder case",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/apr/21/makhia-bryant-killing-columbus-ohio-biden-briefing-white-house",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/apr/21/makhia-bryant-killing-columbus-ohio-biden-briefing-white-house",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/04aa95a47f93798a660fb0419df4d7e053acc3fb/0_33_2000_1200/master/2000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=6dfefbcaf13ea87747971103d69119bd",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/apr/21/makhia-bryant-killing-columbus-ohio-biden-briefing-white-house",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/apr/21/makhia-bryant-killing-columbus-ohio-biden-briefing-white-house",
+      "publishedDateTime": "2021-04-21T11:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-04-21-biden-advisers-brother-lobbying-white-house-for-pharma-giants-docs-reveal.md",
+      "title": "Biden adviser's brother lobbying White House for pharma giants, docs reveal",
+      "excerpt": "Jeff Ricchetti began lobbying the White House at the beginning of this year’s first quarter, with disclosures showing that he was representing pharmaceutical giants Horizon Therapeutics, GlaxoSmithKline and Vaxart Inc., according to financial disclosure reports.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3gHaxINDUjQ/biden-white-house-richetti-brother-lobbying-pharma",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3gHaxINDUjQ/biden-white-house-richetti-brother-lobbying-pharma",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 173,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3f1fa356-6f69-460c-b69d-f0b1c45219ee/81fdc322-52d7-45aa-9e79-21bad849c756/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-white-house-richetti-brother-lobbying-pharma.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-white-house-richetti-brother-lobbying-pharma.amp",
+      "publishedDateTime": "2021-04-21T11:47:20-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-21-boebert-roy-seek-to-force-vote-on-reversing-bidens-oil-and-gas-executive-orders.md",
+      "title": "Boebert, Roy seek to force vote on reversing Biden's oil and gas executive orders",
+      "excerpt": "Reps. Lauren Boebert and Chip Roy launched an effort Wednesday to force a House vote on reversing President Biden's oil and gas executive orders that the GOP lawmakers panned as detrimental to the economy and America's energy independence. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Akwbi_5_V1k/boebert-seeks-to-repeal-bidens-executive-order-limiting-oil-drilling",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Akwbi_5_V1k/boebert-seeks-to-repeal-bidens-executive-order-limiting-oil-drilling",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 170,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/Chip-Roy-Lauren-Boebert.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/boebert-seeks-to-repeal-bidens-executive-order-limiting-oil-drilling.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/boebert-seeks-to-repeal-bidens-executive-order-limiting-oil-drilling.amp",
+      "publishedDateTime": "2021-04-21T11:41:11-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-21-andrew-giuliani-to-meet-with-trump-as-he-preps-ny-gubernatorial-bid.md",
+      "title": "Andrew Giuliani to meet with Trump as he preps NY gubernatorial bid",
+      "excerpt": "Andrew Giuliani, the son of former New York City Mayor Rudy Giuliani and a former public liaison official inside the Trump White House, will meet with the former President at Mar-a-Lago next week as he finalizes his plans to launch a campaign for New York governor.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/yo6M08jV-Lk/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/yo6M08jV-Lk/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210104125229-trump-south-lawn-1212-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/21/politics/andrew-giuliani-trump-meeting/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/21/politics/andrew-giuliani-trump-meeting/index.html",
+      "publishedDateTime": "2021-04-21T10:28:42-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-21-8-podcasts-to-help-make-sense-of-post-trump-america.md",
       "title": "8 Podcasts to Help Make Sense of Post-Trump America",
       "excerpt": "In the wake of a most untraditional presidency, these shows will keep you up-to-date on what’s happening in Washington and our politically polarized country.",
@@ -1138,218 +1358,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-04-20-reps-roy-herrell-move-to-force-house-vote-on-extending-trump-era-border-restrictions.md",
-      "title": "Reps. Roy, Herrell move to force House vote on extending Trump-era border restrictions",
-      "excerpt": "FIRST ON FOX: Reps. Chip Roy, R-Texas, and Yvette Herrell, R-N.M., on Monday moved to force a vote on a bill that would keep a Trump-era public health order -- which allows migrants to be rapidly expelled from the U.S. -- in place until the COVID-19 pandemic and associated restrictions are repealed.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/pUYbfdUD37M/reps-roy-herrell-house-vote-extending-trump-era-border-restrictions",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/pUYbfdUD37M/reps-roy-herrell-house-vote-extending-trump-era-border-restrictions",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 227,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6aba89ef-13d8-476d-a099-2e7d6c407a22/d8eb31b2-fab7-48ac-b0ae-0ad08d4aa013/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/reps-roy-herrell-house-vote-extending-trump-era-border-restrictions.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/reps-roy-herrell-house-vote-extending-trump-era-border-restrictions.amp",
-      "publishedDateTime": "2021-04-20T04:01:50-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-20-trump-says-he-is-beyond-seriously-considering-2024-white-house-run.md",
-      "title": "Trump says he is ‘beyond seriously’ considering 2024 White House run",
-      "excerpt": "Former President Donald Trump said he is “seriously” considering another White House bid during an interview that aired Monday night. Trump teased the idea of a 2024 presidential run, but again",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/04/20/trump-says-he-is-beyond-seriously-considering-2024-white-house-run/",
-      "originalUrl": "https://nypost.com/2021/04/20/trump-says-he-is-beyond-seriously-considering-2024-white-house-run/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/04/Trump-Republicans.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 796,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/04/20/trump-says-he-is-beyond-seriously-considering-2024-white-house-run/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/20/trump-says-he-is-beyond-seriously-considering-2024-white-house-run/amp/",
-      "publishedDateTime": "2021-04-19T22:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-20-trump-fda-pausing-johnson-johnson-was-terrible-only-benefits-pfizer-moderna.md",
-      "title": "Trump: FDA pausing Johnson & Johnson was ‘terrible,’ only benefits Pfizer, Moderna",
-      "excerpt": "Former President Donald Trump criticizes the FDA for their management of coronavirus vaccines in an exclusive interview with \"Hannity.\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5Ey1E1dkwdI/trump-fda-pausing-johnson-johnson-was-terrible-only-benefits-pfizer-moderna",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5Ey1E1dkwdI/trump-fda-pausing-johnson-johnson-was-terrible-only-benefits-pfizer-moderna",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 189,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b1f7fec9-547f-45bd-9035-973b14a240da/4000920d-f25c-4a5d-970a-3d523b8a04ff/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-fda-pausing-johnson-johnson-was-terrible-only-benefits-pfizer-moderna.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-fda-pausing-johnson-johnson-was-terrible-only-benefits-pfizer-moderna.amp",
-      "publishedDateTime": "2021-04-19T20:21:56-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-20-donald-trump-says-all-the-states-that-voted-for-him-had-no-election-fraud.md",
-      "title": "Donald Trump Says All the States That Voted for Him Had No Election Fraud",
-      "excerpt": "\"Florida, Ohio, all of the states that we won, were properly run,\" Trump said, speaking of states he thought had adequate voter fraud safeguards.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/donald-trump-says-all-states-that-voted-him-had-no-election-fraud-1584865",
-      "originalUrl": "https://www.newsweek.com/donald-trump-says-all-states-that-voted-him-had-no-election-fraud-1584865",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 679,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1561291/breaking-news-newsweek-high-resolution.jpg",
-          "width": 1366,
-          "height": 911,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/donald-trump-says-all-states-that-voted-him-had-no-election-fraud-1584865?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-says-all-states-that-voted-him-had-no-election-fraud-1584865?amp=1",
-      "publishedDateTime": "2021-04-19T18:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

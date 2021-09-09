@@ -2735,6 +2735,20 @@ related:
       name: Lexington Herald Leader
       domain: kentucky.com
     quality: 70
+  - title: "Biden ousts 18 Trump military academy board appointees"
+    excerpt: "The Biden administration on Wednesday removed 18 appointees named to U.S. military academy boards by Donald Trump in the final months of the"
+    publishedDateTime: 2021-09-09T13:51:00Z
+    webUrl: "https://www.abqjournal.com/2427492/biden-ousts-18-trump-military-academy-board-appointees.html"
+    type: article
+    provider:
+      name: Albuquerque Journal
+      domain: abqjournal.com
+    quality: 70
+    images:
+      - url: "https://d21yqjvcoayho7.cloudfront.net/wp-content/uploads/2021/09/09/BC-US-Biden-Military-Academies-IMG.jpg"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Eric Trump’s Pants on Fire claim that Joe Biden’s White House doesn’t travel"
     excerpt: "President Joe Biden steps off Air Force One to board Marine One at Andrews Air Force Base, Md., on May 19, 2021, for a trip back to the White House after speaking at the commencement for the U.S. Coast Guard Academy in New London,"
     publishedDateTime: 2021-05-20T20:26:00Z
@@ -2802,15 +2816,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Biden ousts 18 Trump military academy board appointees"
-    excerpt: "The Biden administration on Wednesday removed 18 appointees named to U.S. military academy boards by Donald Trump in the final months of the Republican president's term in office, according to the White House."
-    publishedDateTime: 2021-09-09T01:46:00Z
-    webUrl: "https://lasvegassun.com/news/2021/sep/08/biden-ousts-18-trump-military-academy-board-appoin/"
-    type: article
-    provider:
-      name: Las Vegas Sun
-      domain: lasvegassun.com
-    quality: 60
   - title: "Biden Plays Golf For First Time As President, Months After Trump Played His First Round As POTUS"
     excerpt: "In 2014, while he was vice-president, Biden joked that running for president could potentially hurt his golf game. “If you want to keep your handicap in golf don’t run for pre"
     publishedDateTime: 2021-04-18T17:14:00Z

@@ -1,10 +1,10 @@
 ---
 category: news
 title: "VP Kamala Harris and California Gov. Gavin Nerwsom Hold Vote No on Recall Rall76"
-excerpt: "California Governor Gavin Newsom waves with Vice President Kamala Harris at a 'vote no on recall' rally at the IBEW-NECA Joint Apprenticeship Training Center in San Leandro, California on Wednesday, September 8,"
+excerpt: "Vice President Kamala Harris speaks at a 'vote no on recall' rally for California Governor Gavin Newsom at the IBEW-NECA Joint Apprenticeship Training Center in San Leandro, California on Wednesday, September 8,"
 publishedDateTime: 2021-09-08T22:22:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/54517538382a734eab52ef66053f1528/VP-Kamala-Harris-and-California-Gov-Gavin-Nerwsom-Hold-Vote-No-on-Recall-Rall76/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/54517538382a734eab52ef66053f1528/VP-Kamala-Harris-and-California-Gov-Gavin-Nerwsom-Hold-Vote-No-on-Recall-Rall76/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/f9273f3df972c056597095a59bf5d69b/VP-Kamala-Harris-and-California-Gov-Gavin-Nerwsom-Hold-Vote-No-on-Recall-Rall76/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/f9273f3df972c056597095a59bf5d69b/VP-Kamala-Harris-and-California-Gov-Gavin-Nerwsom-Hold-Vote-No-on-Recall-Rall76/"
 type: article
 quality: 50
 heat: -1
@@ -19,9 +19,9 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/54517538382a734eab52ef66053f1528/HARRIS-NEWSOM.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/f9273f3df972c056597095a59bf5d69b/HARRIS-NEWSOM.jpg"
     width: 650
-    height: 447
+    height: 432
     isCached: true
 
 related:
@@ -1214,6 +1214,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "l/oaiKWk48X9RU1+UqGFf3LBV2SeLc3wyi+aCR9XoMIpDliuexcpFExN01lY33AnGO6sO729pJGxJqu3vCSREzySNVCv3sja8266aSwoCamL8JmLJXixvoJULTRtaPJfyMn8CKn2hQ4YcRmpMzbsuJgvmVQXhCdElDshBnwLECB1p95zsps+VDXiWjgfiFj7q2Cr4HoMhrcGvfX9N3ZHq/TYa7uqn+q8aovJKKAKOlThVC5zfqQdejeQJrplIcXHpvUsQs0xUoxAeEy3VyhH5gYpct11ZHYq2JSGQrZPRprgMcgEsK9GZ3vVtsgYgLpRUXkV7vfFOXfDB5TZ5t1QTT5NCO6oUbhT4MRTJgyEDc4=;DGZtox3/0qmHqUXmDpghFw=="
+secured: "bTNTGuyyRVh2UCNuq4N7I0gMz0YtGehzMJne4uSCPmpVLlfnhgGLVObMi6y3lga1VL4imTXK5wBRRMijAqioaZoiUYF43q2yPOInDdv50u3dRFTXtDqLk2lNCmKuMJ8TLYXReR+4Qaj7oTco4Xt7rIl+x1Yl824fnF+Guuthte/Ny16j+6LTOD7eiUgViu6IFgMZy9fFXSjB3Lc59HH7/OsTlL3QBMdDpXqAWdgE8zg/8C3cz0fzW0kUntvAnpnaBaCdzZP9EPXC+DB1AJnUoaKpFZzfaRmCg+PpS+4LNNWCagVRrP8LjIXfsH+PcV8Q0j2ejcqXQwLjlOK5uj4yMgWuYo429Cfipks8kn8C3hbcxTzRGp6a/mZJ7W28gD2WoQ1kBXfCEmMq5/MSSYh5Y0X4QSM4GeL/N0wem91e+79xFQ/ZpWdiD35U/L4Z0GkapcK4i8dStKe9WZYxZKl31y4uQW2NrNXmhw9IGIvIWZ52Uipvcl2UeJnawVe3gz0O2jjkdlZO5z8oupfP6llEag==;TAiZ+3oamlfBtb2UptPEwg=="
 ---
 

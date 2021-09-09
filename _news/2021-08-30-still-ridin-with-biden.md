@@ -41,20 +41,6 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "President Joe Biden speaks about the COVID-19 relief package in the State Dining Room of the Wh"
-    excerpt: "President Joe Biden speaks about the COVID-19 relief package in the State Dining Room of the White House, Monday, March 15, 2021, in Washington. (AP Photo/Patrick Semansky)"
-    publishedDateTime: 2021-09-09T06:35:00Z
-    webUrl: "https://www.reviewjournal.com/news/politics-and-government/help-is-here-biden-says-in-promoting-covid-relief-bill-2305083/attachment/president-joe-biden-speaks-about-the-covid-19-relief-package-in-the-state-dining-room-of-the-wh/"
-    type: article
-    provider:
-      name: Las Vegas Review-Journal
-      domain: reviewjournal.com
-    quality: 43
-    images:
-      - url: "https://www.reviewjournal.com/wp-content/themes/rjth2019/images/defaultimage-1200x800.jpg"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "G22k2Ztm4OqT0ywp2xZpjgtSWplvY7TcoxR9gq0WpqGQ36urV/X7X0mNVUQ1akNZPuhHQDdj2Ujhk1eMsHrhEde0MrsL6azfBY4QntJdri66WejrZRcQ9xJJwwDa+XGhnq8rsE4JbZwhvUzG2M/yQt7Jzd+cn2u3A4NJEJOUhJI/bfwtKYOqNx9mSF/jgsLNPZN6y2K8pR0N7aFzJH3eEhKn80QzdJUpzLRfCFi3kVWeAB2z2ZpC0SKr5vLl4/W54dC5QUdUGeb1rEcGGjHtwIQEEGEKm4z7VFbWaVDJWQwq+Ex0PpWyPLifSbTzQV68ycgy7F+deHJpvjvz69tu3jyzRrI+UN6/r4/IYsUoPJE=;jXBjr8yMOXrxoP3e5aCwyw=="
 ---

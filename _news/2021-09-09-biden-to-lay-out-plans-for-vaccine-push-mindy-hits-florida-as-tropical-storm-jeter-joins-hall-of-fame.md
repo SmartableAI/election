@@ -1,0 +1,76 @@
+---
+category: news
+title: "Biden to lay out plans for vaccine push; Mindy hits Florida as tropical storm; Jeter joins Hall of Fame"
+excerpt: "President Biden to urge vaccine mandates in virus speech today; Mindy hits Florida, moves north; Derek Jeter, other greats inducted into Hall of Fame. Get caught up."
+publishedDateTime: 2021-09-09T11:30:00Z
+originalUrl: "https://billingsgazette.com/news/national/biden-to-lay-out-plans-for-vaccine-push-mindy-hits-florida-as-tropical-storm-jeter/article_85632095-e724-5c49-ae89-58df1a07dbab.html"
+webUrl: "https://billingsgazette.com/news/national/biden-to-lay-out-plans-for-vaccine-push-mindy-hits-florida-as-tropical-storm-jeter/article_85632095-e724-5c49-ae89-58df1a07dbab.html"
+ampWebUrl: "https://billingsgazette.com/news/national/biden-to-lay-out-plans-for-vaccine-push-mindy-hits-florida-as-tropical-storm-jeter/article_85632095-e724-5c49-ae89-58df1a07dbab.amp.html"
+cdnAmpWebUrl: "https://billingsgazette-com.cdn.ampproject.org/c/s/billingsgazette.com/news/national/biden-to-lay-out-plans-for-vaccine-push-mindy-hits-florida-as-tropical-storm-jeter/article_85632095-e724-5c49-ae89-58df1a07dbab.amp.html"
+type: article
+quality: 59
+heat: -1
+published: false
+
+provider:
+  name: Billings Gazette
+  domain: billingsgazette.com
+
+topics:
+  - Election
+  - Joe Biden
+
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/billingsgazette.com/content/tncms/assets/v3/editorial/d/c9/dc9a26a7-c192-532a-ab68-78b23b1eef4b/6139ea8923746.image.jpg?resize=1024%2C682"
+    width: 1024
+    height: 682
+    isCached: true
+
+related:
+  - title: "Biden to visit areas of NYC, N.J. damaged by floods from Hurricane Ida"
+    excerpt: "President Joe Biden on Tuesday will visit New York City and multiple locations in New Jersey that were heavily damaged by major flooding and rains that killed dozens of people last week."
+    publishedDateTime: 2021-09-07T11:48:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2021/09/07/new-york-jersey-joe-biden-hurricane-ida/7121631012476/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/09/07/new-york-jersey-joe-biden-hurricane-ida/7121631012476/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/09/07/new-york-jersey-joe-biden-hurricane-ida/7121631012476/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 75
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/i/7121631012476/2021/1/16310151479197/v1.5/Biden-to-visit-areas-of-NYC-NJ-damaged-by-floods-from-Hurricane-Ida.jpg"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "'We don't have any more time:' Biden highlights climate change as he tours Hurricane Ida damage in NY, NJ"
+    excerpt: "Biden is using the trip to highlight climate change and underscore his infrastructure bill, which will help communities prepare for extreme weather."
+    publishedDateTime: 2021-09-07T17:28:00Z
+    webUrl: "https://www.indystar.com/story/news/politics/2021/09/07/biden-talk-climate-change-ny-nj-tour-hurricane-ida-damage/5751911001/"
+    ampWebUrl: "https://amp.indystar.com/amp/5751911001"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/5751911001"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 58
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/09/07/USAT/d9420a68-f0d8-4cdf-b3cf-e9ea0e81c78a-GTY_1338886053.jpg?auto=webp&crop=6658,3746,x0,y414&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "In NYC after Ida, Biden calls climate ‘everybody’s crisis’"
+    excerpt: "Surveying storm damage, President Joe Biden has declared climate change has reached “code red” and now has become “everybody’s crisis.”."
+    publishedDateTime: 2021-09-08T11:45:00Z
+    webUrl: "https://www.sunherald.com/news/politics-government/national-politics/article254044563.html"
+    ampWebUrl: "https://amp.sunherald.com/news/politics-government/national-politics/article254044563.html"
+    cdnAmpWebUrl: "https://amp-sunherald-com.cdn.ampproject.org/c/s/amp.sunherald.com/news/politics-government/national-politics/article254044563.html"
+    type: article
+    provider:
+      name: Biloxi Sun Herald
+      domain: sunherald.com
+    quality: 55
+
+secured: "Igs0UqzFPs+mtHrIfGAYZUZCBY7FG7vWgzum7jo+TiL1WqaGvUiLXW5dCXtogtj1U2HIoi6hx4+bMvQ5Aw8O7autT5Vehoc0vYkU61pQ0WlYUwmrtjOk2zeU/QeULWoryTBgZOOr1jn/llA1y0ymNi+CG26YujAyBzE76xew62qf5ygHAgMt6YqCrPPTmQLluyHhpJ1cw7syBTeXtvkxIheLOhyS/7mW/aHmHxlgb8z/oIRUXawDX7uWX8NIWqqIxCtFLgaAfqruED8+BwW20RZprrp+GcJwVPCp9kZ+jP23rwzSESPXTZJJtdAJyll1H5RPX/thVe9foGuj0telgTUB067gcW82EYljJzQ7GiY=;SYyqCg5ibJm/l5vHzO1dyQ=="
+---
+

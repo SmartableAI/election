@@ -2,6 +2,110 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-08-06-ohio-rep-bob-gibbs-seeks-articles-of-impeachment-against-biden.md",
+      "title": "Ohio Rep. Bob Gibbs seeks articles of impeachment against Biden",
+      "excerpt": "An Ohio congressman on Friday asked his GOP House colleagues to consider filing articles of impeachment against President Biden for an \"unconstitutional\" order to extend the eviction moratorium and for his \"dereliction\" of duty in securing the southern border. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/EhuY1KsVds4/ohio-bob-gibbs-articles-impeachment-biden",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/EhuY1KsVds4/ohio-bob-gibbs-articles-impeachment-biden",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 335,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/340/340/Marisa-Schultz.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/ohio-bob-gibbs-articles-impeachment-biden.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ohio-bob-gibbs-articles-impeachment-biden.amp",
+      "publishedDateTime": "2021-08-06T13:15:32-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-08-06-trump-backer-elliot-broidy-accused-of-orchestrating-covert-campaign-against-qatar.md",
+      "title": "Trump backer Elliot Broidy accused of orchestrating covert campaign against Qatar",
+      "excerpt": "A top GOP donor and Donald Trump ally was paid millions of dollars by the United Arab Emirates to engineer a smear campaign against rival Persian Gulf state Qatar, according to an explosive",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/08/05/elliot-broidy-accused-of-orchestrating-campaign-against-qatar/",
+      "originalUrl": "https://nypost.com/2021/08/05/elliot-broidy-accused-of-orchestrating-campaign-against-qatar/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 130,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/08/elliott-broidy-trump-backer-0006.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/08/05/elliot-broidy-accused-of-orchestrating-campaign-against-qatar/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/05/elliot-broidy-accused-of-orchestrating-campaign-against-qatar/amp/",
+      "publishedDateTime": "2021-08-05T16:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-08-05-biden-honors-best-in-our-nation-awarding-congressional-gold-medals-to-jan-6-capitol-police-officers.md",
       "title": "Biden honors 'best in our nation,' awarding Congressional Gold Medals to Jan. 6 Capitol police officers",
       "excerpt": "President Biden hailed the heroism of the Capitol Police during the January 6 Capitol Hill riot Thursday and signed a bill awarding four congressional gold medals to the police",
@@ -1535,118 +1639,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/trumps-fundraising-prowess-82-million-haul-during-first-half-of-2021.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trumps-fundraising-prowess-82-million-haul-during-first-half-of-2021.amp",
       "publishedDateTime": "2021-08-01T07:29:54-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-31-iowa-republican-governor-rejects-bidens-100-vaccine-incentives.md",
-      "title": "Iowa Republican governor rejects Biden's $100 vaccine incentives",
-      "excerpt": "Republican Iowa Gov. Kim Reynolds rejected President Biden’s request that state and local governments use federal funds to encourage people to get the coronavirus vaccine.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nJdybRnfGcs/iowa-governor-kim-reynolds-biden-vaccine-incentive",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nJdybRnfGcs/iowa-governor-kim-reynolds-biden-vaccine-incentive",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 315,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c8cf00b1-363b-4e1d-b72f-e05113a4bc22/f680b6fb-5223-413f-842b-bb89a04d720c/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/iowa-governor-kim-reynolds-biden-vaccine-incentive.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/iowa-governor-kim-reynolds-biden-vaccine-incentive.amp",
-      "publishedDateTime": "2021-07-31T07:22:44-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-31-biden-says-americans-should-expect-more-covid-restrictions.md",
-      "title": "Biden says Americans should expect more COVID restrictions",
-      "excerpt": "President Biden warned Friday that increased COVID-related restrictions could again become a possibility as the U.S. sees spiking coronavirus cases nationwide.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zDpxbYydvl0/biden-expect-more-coronavirus-restrictions",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zDpxbYydvl0/biden-expect-more-coronavirus-restrictions",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 555,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/08eaf3c1-0bc0-4ab7-b748-5b27bb6cb6f8/dc1cea00-c153-4975-837b-757c68b29702/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-expect-more-coronavirus-restrictions.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-expect-more-coronavirus-restrictions.amp",
-      "publishedDateTime": "2021-07-30T17:41:13-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

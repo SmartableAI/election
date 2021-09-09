@@ -2,6 +2,204 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-08-15-biden-administration-struggles-to-project-order-as-taliban-enters-kabul.md",
+      "title": "Biden administration struggles to project order as Taliban enters Kabul",
+      "excerpt": "President Joe Biden and his administration struggled Sunday to project order amid a race by American and other foreign personnel to evacuate Afghanistan as Taliban fighters entered Kabul.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/oD9xOBuzblk/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/oD9xOBuzblk/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 375,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210815102517-antony-blinken-august-15-2021-screengrab-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/08/15/politics/biden-administration-taliban-kabul-afghanistan/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/15/politics/biden-administration-taliban-kabul-afghanistan/index.html",
+      "publishedDateTime": "2021-08-15T08:03:53-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-08-15-donald-trump-blasts-former-secretary-of-state-rex-tillerson-dumb-as-a-rock.md",
+      "title": "Donald Trump blasts former secretary of state Rex Tillerson; ‘Dumb as a rock’",
+      "excerpt": "President Trump denounced his former Secretary of State Thursday following reports Rex Tillerson quietly met with the House Foreign Affairs Committee and testified about his time in the Trump administration.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/article/donald-trump-europe-rex-tillerson-96b455a30118c4b2ac668418b27073f2",
+      "originalUrl": "https://apnews.com/article/donald-trump-europe-rex-tillerson-96b455a30118c4b2ac668418b27073f2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/ShareLogo2.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-14T20:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-08-15-biden-praises-arizona-florida-school-chiefs-on-mask-wearing.md",
+      "title": "Biden praises Arizona, Florida school chiefs on mask-wearing",
+      "excerpt": "President Joe Biden has commended the leadership of two Arizona and Florida school district superintendents after the districts' boards recently implemented mask requirements in defiance of their Republican governors.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nhregister.com/news/article/Biden-praises-Arizona-Florida-school-chiefs-on-16387253.php",
+      "originalUrl": "https://www.nhregister.com/news/article/Biden-praises-Arizona-Florida-school-chiefs-on-16387253.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
+          "width": 600,
+          "height": 336,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nhregister.com/news/amp/Biden-praises-Arizona-Florida-school-chiefs-on-16387253.php",
+      "cdnAmpWebUrl": "https://www-nhregister-com.cdn.ampproject.org/c/s/www.nhregister.com/news/amp/Biden-praises-Arizona-Florida-school-chiefs-on-16387253.php",
+      "publishedDateTime": "2021-08-14T12:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Haven Register",
+        "domain": "nhregister.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-08-14-newsom-ramps-up-attacks-in-ca-recall-slams-elder-as-further-right-than-trump.md",
+      "title": "Newsom ramps up attacks in CA recall, slams Elder as further right than Trump",
+      "excerpt": "Gov. Gavin Newsom ramped up his campaign to hold onto the governorship, slamming Republican opponent Larry Elder as more right-wing than former President Donald Trump.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8T3aU8WdBX4/gavin-newsom-recall-larry-elder-more-right-trump",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8T3aU8WdBX4/gavin-newsom-recall-larry-elder-more-right-trump",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 212,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0383e2e6-abd7-41e7-82b4-dc923634fc6e/1cbd1666-3884-4b74-bfd1-4a05cf64a2f3/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/gavin-newsom-recall-larry-elder-more-right-trump.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gavin-newsom-recall-larry-elder-more-right-trump.amp",
+      "publishedDateTime": "2021-08-14T04:17:30-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-08-14-newsom-paints-larry-elder-as-right-of-donald-trump-as-recall-election-heats-up.md",
       "title": "Newsom paints Larry Elder as ‘right of Donald Trump’ as recall election heats up",
       "excerpt": "Gov. Gavin Newsom was joined by prominent San Francisco politicians at Manny’s in San Francisco’s Mission District on Friday.",
@@ -1086,220 +1284,6 @@
       "topics": [
         "Election",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-08-12-bidens-approval-rating-sinks-to-new-low-of-50-amid-economic-fears-polls-show.md",
-      "title": "Biden’s approval rating sinks to new low of 50% amid economic fears, polls show",
-      "excerpt": "Support for President Joe Biden is taking a hit with his average approval rating sinking to a record low of 50 percent, new polls show.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/08/12/bidens-approval-rating-sinks-to-record-low-of-50-polls-show/",
-      "originalUrl": "https://nypost.com/2021/08/12/bidens-approval-rating-sinks-to-record-low-of-50-polls-show/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/08/rcp-poll-biden-01.jpg?quality=90&strip=all&w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/08/12/bidens-approval-rating-sinks-to-record-low-of-50-polls-show/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/12/bidens-approval-rating-sinks-to-record-low-of-50-polls-show/amp/",
-      "publishedDateTime": "2021-08-12T09:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-12-lara-trump-torches-kamala-harris-spectacular-failures-as-vp-on-fox-friends.md",
-      "title": "Lara Trump torches Kamala Harris' 'spectacular' failures as VP on 'Fox & Friends'",
-      "excerpt": "Fox News contributor Lara Trump joined \"Fox & Friends\" Thursday, after an op-ed was penned in the New York Post stating that some Democrats do not want Vice President Kamala Harris to run for president in 2024.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/lara-trump-torches-kamala-harris-failures",
-      "originalUrl": "https://www.foxnews.com/media/lara-trump-torches-kamala-harris-failures",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/22c44787-0d2a-4a77-a89d-680775135204/a28385c8-4809-4e82-9655-7cb6502df422/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/lara-trump-torches-kamala-harris-failures.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/lara-trump-torches-kamala-harris-failures.amp",
-      "publishedDateTime": "2021-08-12T08:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-12-what-rosen-told-us-senators-trump-applied-persistent-pressure-to-get-justice-to-discredit-election.md",
-      "title": "What Rosen told U.S. senators: Trump applied ‘persistent’ pressure to get Justice to discredit election",
-      "excerpt": "Trump’s last attorney general told lawmakers he had to “persuade the president not to pursue a different path.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/national-security/rosen-senate-judiciary-testimony-trump/2021/08/12/4b500618-fabd-11eb-8a67-f14cd1d28e47_story.html",
-      "originalUrl": "https://www.washingtonpost.com/national-security/rosen-senate-judiciary-testimony-trump/2021/08/12/4b500618-fabd-11eb-8a67-f14cd1d28e47_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EOFJRDH3DQI6XCTH6FGNDUUOI4.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-12T08:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-08-12-cuomo-avenatti-the-lincoln-project-the-medias-anti-trump-idols-whove-collapsed-in-disgrace.md",
-      "title": "Cuomo, Avenatti, The Lincoln Project: The media's anti-Trump idols who've collapsed in disgrace",
-      "excerpt": "Democratic New York Gov. Andrew Cuomo was not only hailed by the media as a hero of the coronavirus pandemic; he was also being floated as a presidential candidate.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/andrew-cuomo-michael-avenatti-the-lincoln-project",
-      "originalUrl": "https://www.foxnews.com/media/andrew-cuomo-michael-avenatti-the-lincoln-project",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/19744884-ba06-42c5-ace0-e4be0c36d8cb/33d50dff-5424-46d5-995b-a2e58056de34/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/andrew-cuomo-michael-avenatti-the-lincoln-project.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/andrew-cuomo-michael-avenatti-the-lincoln-project.amp",
-      "publishedDateTime": "2021-08-12T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     }
   ],

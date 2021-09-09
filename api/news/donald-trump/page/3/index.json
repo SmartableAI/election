@@ -2,6 +2,110 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-08-23-when-ruby-wax-met-review-excruciating-outpourings-from-oj-simpson-donald-trump-and-more.md",
+      "title": "When Ruby Wax Met … review – excruciating outpourings from OJ Simpson, Donald Trump and more",
+      "excerpt": "From a menacing Trump to OJ Simpson trying to stab her with a banana, Wax looks back at her interview hits and misses – and it makes for jaw-dropping, fascinating TV",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/tv-and-radio/2021/aug/22/when-ruby-wax-met-review-donald-trump-oj-simpson",
+      "originalUrl": "https://www.theguardian.com/tv-and-radio/2021/aug/22/when-ruby-wax-met-review-donald-trump-oj-simpson",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/e0adb2adc2e690e3978a53ba6379935b6b24bec0/0_283_4264_2558/master/4264.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=41457bdff99edca6dc9affc11c3661b6",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/tv-and-radio/2021/aug/22/when-ruby-wax-met-review-donald-trump-oj-simpson",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/tv-and-radio/2021/aug/22/when-ruby-wax-met-review-donald-trump-oj-simpson",
+      "publishedDateTime": "2021-08-22T13:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-08-22-barron-trump-enrolls-in-35000-a-year-private-school-in-florida.md",
+      "title": "Barron Trump Enrolls In $35,000-A-Year Private School In Florida",
+      "excerpt": "Barron Trump has enrolled in an exclusive private school in Palm Beach, Florida, for the new school year. A spokesperson for Oxbridge Academy announced earlier this week that Melania and Donald Trump's 15-year-old son has enrolled in the elite school as part of the class of 2024,",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/barron-trump-enrolls-35000-year-private-school-florida-3278565",
+      "originalUrl": "https://www.ibtimes.com/barron-trump-enrolls-35000-year-private-school-florida-3278565",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/02/donald-and-melania-trump-have-tested-positive-for.jpg",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/barron-trump-enrolls-35000-year-private-school-florida-3278565?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/barron-trump-enrolls-35000-year-private-school-florida-3278565?amp=1",
+      "publishedDateTime": "2021-08-22T03:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-08-22-donald-trumps-save-america-rally-packs-farm-near-cullman.md",
       "title": "Donald Trump’s ‘Save America’ Rally Packs Farm Near Cullman",
       "excerpt": "The former president of the United States fired up supporters Saturday night, criticizing the Biden administration’s handling of COVID-19, the troop withdrawal in Afghanistan and more.",
@@ -1356,110 +1460,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-11-donald-trump-calls-35t-budget-plan-assault-on-our-nation-after-measure-clears-senate.md",
-      "title": "Donald Trump Calls $3.5T Budget Plan 'Assault on Our Nation' After Measure Clears Senate",
-      "excerpt": "Former President Donald Trump said Americans are being \"robbed\" after the Democrats' $3.5 trillion budget plan \"Good morning, America!",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/donald-trump-calls-35t-budget-plan-assault-our-nation-after-measure-clears-senate-1618410",
-      "originalUrl": "https://www.newsweek.com/donald-trump-calls-35t-budget-plan-assault-our-nation-after-measure-clears-senate-1618410",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1868613/trump-slams-35t-budget-plan.jpg",
-          "width": 2500,
-          "height": 1665,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/donald-trump-calls-35t-budget-plan-assault-our-nation-after-measure-clears-senate-1618410?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-calls-35t-budget-plan-assault-our-nation-after-measure-clears-senate-1618410?amp=1",
-      "publishedDateTime": "2021-08-11T08:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-08-11-trump-was-in-pain-and-afraid-from-covid-19-says-niece-mary-trump.md",
-      "title": "Trump was 'in pain and afraid' from COVID-19, says niece Mary Trump",
-      "excerpt": "The former president’s niece made the claim in a new book. Former President Trump was allegedly “in pain and afraid” after he contracted the coronavirus back in early October. Mary claimed that he was struggling to breathe while playing up theatrical his return.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/changing-america/well-being/mental-health/567303-trump-was-in-pain-and-afraid-from-covid-19-says",
-      "originalUrl": "https://thehill.com/changing-america/well-being/mental-health/567303-trump-was-in-pain-and-afraid-from-covid-19-says",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 225,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/ca_trumpwindcomments_061721getty_1.jpg",
-          "width": 1320,
-          "height": 880,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/changing-america/well-being/mental-health/567303-trump-was-in-pain-and-afraid-from-covid-19-says?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/changing-america/well-being/mental-health/567303-trump-was-in-pain-and-afraid-from-covid-19-says?amp",
-      "publishedDateTime": "2021-08-11T05:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

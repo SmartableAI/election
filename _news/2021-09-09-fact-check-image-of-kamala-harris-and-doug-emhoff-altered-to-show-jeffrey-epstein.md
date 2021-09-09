@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.indystar.com/amp/5672684001"
 cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/5672684001"
 type: article
 quality: 69
-heat: 149
+heat: 129
 published: true
 
 provider:
@@ -70,20 +70,6 @@ related:
       - url: "https://factcheck.afp.com/sites/default/files/styles/twitter_card/public/medias/factchecking/g2/2021-09/f49a2ff553f4286c5cf363ff23cce0d8.jpeg?itok=OnCdKm9J"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Bail fund promoted by Kamala Harris set free alleged domestic abuser who’s now charged with murder"
-    excerpt: "Harris faced widespread criticism following her promotion and endorsement of the organization shortly after the Floyd incident."
-    publishedDateTime: 2021-09-07T17:47:00Z
-    webUrl: "https://www.bizpacreview.com/2021/09/07/bail-fund-promoted-by-kamala-harris-set-free-alleged-domestic-abuser-whos-now-charged-with-murder-1130982/"
-    type: article
-    provider:
-      name: BizPac Review
-      domain: bizpacreview.com
-    quality: 41
-    images:
-      - url: "https://www.bizpacreview.com/wp-content/uploads/2021/06/SG-HARRIS-1200x630.png"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "yWF2JaHZEe8buMwEZoB3K40+Lp8l/FyPxwjDiO13KRBDDNuB/zON+//DhYZib8caXvkJUW9n/6oBSSvHh0YrLaDpuMozoHngLczWzkgX+jIv2yON9lL80b9LxLpIKwwCOzSHG1O7iB6kbpuV4EdA+dhBEhSr/MQO+WNa0lafTqNV1fdeyr+N3ClMDwA1lHlWGnab1TCz8codb5gPaK5dfXiB0UGzu7wG/raUvmbB3OjK61veJnoHwuA8VUmUR/2r1lJzIzGX65HR3fqr4ifgkwkGUJbNMseAvUqVoeZeg7jxjBpdfHANrhUhNuzpLI4X5uYJW9fzqjiv/6o3yqivrCRxXqiRNHckEJ6mnGgayjw5WySmwnAkWS/XNyzzVCC3tiU6JVjIafo/qyK4C63fm0U6iMg8KYlo6MLg+bsnUDpxw9ukkw9HZQCCvBpDpcw2To/za7mPcnKpcI46rggCROb8ZCmdVbWuyIQUMryOwzg/CwFp+pPEd8jWqxzlmuj7FQllFbWSEg9K2u19FCTVcA==;9jfXGxAGtq8HiT+dmjbi1A=="

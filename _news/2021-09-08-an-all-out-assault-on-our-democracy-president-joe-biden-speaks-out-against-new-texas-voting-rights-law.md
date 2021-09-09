@@ -43,21 +43,21 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "President Joe Biden says Texas' new abortion law \"unleashes unconstitutional chaos\""
-    excerpt: "Biden promised to mobilize the federal government to respond to the Texas law “to ensure that women in Texas have access to safe and legal abortions as protected by Roe.\""
-    publishedDateTime: 2021-09-02T16:24:00Z
-    webUrl: "https://www.texastribune.org/2021/09/02/texas-abortion-law-joe-biden/"
-    ampWebUrl: "https://www.texastribune.org/2021/09/02/texas-abortion-law-joe-biden/amp/"
-    cdnAmpWebUrl: "https://www-texastribune-org.cdn.ampproject.org/c/s/www.texastribune.org/2021/09/02/texas-abortion-law-joe-biden/amp/"
+  - title: "AP source: Biden requiring federal workers to get COVID shot"
+    excerpt: "Biden will sign a new executive order to require vaccination for employees of the executive branch and contractors who do business with the federal government"
+    publishedDateTime: 2021-09-09T15:34:00Z
+    webUrl: "https://www.cleveland.com/nation/2021/09/ap-source-biden-requiring-federal-workers-to-get-covid-shot.html"
+    ampWebUrl: "https://www.cleveland.com/nation/2021/09/ap-source-biden-requiring-federal-workers-to-get-covid-shot.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/nation/2021/09/ap-source-biden-requiring-federal-workers-to-get-covid-shot.html?outputType=amp"
     type: article
     provider:
-      name: Texas Tribune
-      domain: texastribune.org
-    quality: 69
+      name: Cleveland.com
+      domain: cleveland.com
+    quality: 75
     images:
-      - url: "https://thumbnails.texastribune.org/awXUfugw4V8ATiBjcqo7A4RnVXA=/1200x630/filters:quality(95)/static.texastribune.org/media/files/302214eb567a50813c271e480d6ebd7b/Biden%20Aug%2031%20REUTERS%20TT.jpg"
-        width: 1200
-        height: 630
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/RPWHJQK2CRASZGMNYUSI6LGYHE.jpg"
+        width: 1024
+        height: 682
         isCached: true
   - title: "Biden Calls Top Court Ruling on Texas Abortion Ban 'Unprecedented Assault' on Women's Rights"
     excerpt: "President Joe Biden on Thursday said the U.S. Supreme Court's ruling on Texas' abortion ban \"is an unprecedented assault on a woman's constitutional rights,\" after the top court allowed the law to remain in place."

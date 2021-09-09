@@ -64,6 +64,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Proponents of Post-Trump Curbs on Executive Power Prepare New Push"
+    excerpt: "House Democrats are framing their efforts as a rebuke of Donald J. Trump’s record as would-be reformers seek Senate Republican support."
+    publishedDateTime: 2021-09-09T09:00:00Z
+    webUrl: "https://www.nytimes.com/2021/09/09/us/politics/executive-power-limits.html"
+    ampWebUrl: "https://www.nytimes.com/2021/09/09/us/politics/executive-power-limits.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/09/09/us/politics/executive-power-limits.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/09/08/us/politics/08dc-presidency/08dc-presidency-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
   - title: "White House Forces Out Trump Appointees From Boards of Military Academies"
     excerpt: "The Biden administration was seeking to ensure that board members were “qualified to serve” and aligned with the president’s values, said Jen Psaki, the White House press secretary."
     publishedDateTime: 2021-09-09T01:17:00Z

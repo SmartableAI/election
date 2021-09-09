@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/04/18/politics/michael-ellis-resignatio
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/18/politics/michael-ellis-resignation-nsa/index.html"
 type: article
 quality: 158
-heat: -1
-published: false
+heat: 178
+published: true
 
 provider:
   name: CNN
@@ -31,19 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "Washington Post: Trump to endorse Wyoming lawyer in effort to primary Cheney "
-    excerpt: "Donald Trump is planning to endorse a lawyer and former Republican Party official in Wyoming in an effort to primary GOP Rep. Liz Cheney, an outspoken critic of the former President who has drawn his ire for rejecting his claims of voter fraud in the 2020 election, The Washington Post reported Wednesday.\n"
-    publishedDateTime: 2021-09-08T22:37:21Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/utc3D1xAqKc/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/09/08/politics/trump-cheney-endorsement-primary-harriet-hageman/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/09/08/politics/trump-cheney-endorsement-primary-harriet-hageman/index.html"
+  - title: "Washington Post: Trump administration blocked investigation into delayed relief to Puerto Rico for 2017 hurricane"
+    excerpt: "The Trump administration put up barriers that delayed $20 billion in hurricane relief aid to Puerto Rico and blocked an investigation into the delayed funds, The Washington Post reported Thursday, citing a 46-page inspector general report.\n    \n"
+    publishedDateTime: 2021-04-22T13:31:13Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vQlhUwmwniE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/22/politics/puerto-rico-relief-investigation-washington-post/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/22/politics/puerto-rico-relief-investigation-washington-post/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 172
+    quality: 154
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210908170837-trump-cheney-split-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210422075257-file-hurricane-maria-puerto-rico-2017-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

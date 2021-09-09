@@ -2,6 +2,209 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-09-06-melania-trump-doesnt-want-to-be-first-lady-again-its-over.md",
+      "title": "Melania Trump Doesn’t Want To Be First Lady Again: ‘It’s Over’",
+      "excerpt": "Melania Trump, the wife of former President Donald Trump, has no interest in returning to the White House as the first lady again, according to a report. The former first lady has",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/melania-trump-doesnt-want-be-first-lady-again-its-over-3288729",
+      "originalUrl": "https://www.ibtimes.com/melania-trump-doesnt-want-be-first-lady-again-its-over-3288729",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/02/03/melania-trump-seen-here-on-january-20-which.jpg",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/melania-trump-doesnt-want-be-first-lady-again-its-over-3288729?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/melania-trump-doesnt-want-be-first-lady-again-its-over-3288729?amp=1",
+      "publishedDateTime": "2021-09-05T18:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-09-06-trumps-long-campaign-to-steal-the-presidency-a-timeline.md",
+      "title": "Trump’s Long Campaign to Steal the Presidency: A Timeline",
+      "excerpt": "The insurrection wasn’t a one-day event. It was the culmination of a multifaceted, yearslong plot — and it isn’t over.",
+      "sourceUrl": null,
+      "webUrl": "https://nymag.com/intelligencer/article/trump-campaign-steal-presidency-timeline.html",
+      "originalUrl": "https://nymag.com/intelligencer/article/trump-campaign-steal-presidency-timeline.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://pyxis.nymag.com/v1/imgs/0c7/d7c/20a3acd661e5113bfd8825a177d26a0649-trump-steal-01.1x.rsocial.w1200.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nymag.com/intelligencer/amp/article/trump-campaign-steal-presidency-timeline.html",
+      "cdnAmpWebUrl": "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/article/trump-campaign-steal-presidency-timeline.html",
+      "publishedDateTime": "2021-09-05T13:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Magazine",
+        "domain": "nymag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-09-05-lara-trump-slams-hypocritical-kamala-harris-michelle-obama-for-silence-on-afghan-women.md",
+      "title": "Lara Trump Slams 'Hypocritical' Kamala Harris, Michelle Obama for Silence on Afghan Women",
+      "excerpt": "\"They are happy to be activists when it's politically advantageous,\" Donald Trump's daughter-in-law said on Fox News.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/lara-trump-slams-hypocritical-kamala-harris-michelle-obama-silence-afghan-women-1626238",
+      "originalUrl": "https://www.newsweek.com/lara-trump-slams-hypocritical-kamala-harris-michelle-obama-silence-afghan-women-1626238",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 171,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1887939/lara-trump-slams-kamala-harris-michelle-obama.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/lara-trump-slams-hypocritical-kamala-harris-michelle-obama-silence-afghan-women-1626238?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/lara-trump-slams-hypocritical-kamala-harris-michelle-obama-silence-afghan-women-1626238?amp=1",
+      "publishedDateTime": "2021-09-05T08:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-09-05-did-trump-just-go-up-with-the-first-tv-ad-of-the-2024-presidential-campaign.md",
+      "title": "Did Trump just go up with the first TV ad of the 2024 presidential campaign?",
+      "excerpt": "A new ad by former President Trump's political action committee that blasts President Biden over the U.S. exit from Afghanistan can be seen as the first TV ad of the 2024 presidential campaign",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5iY7Yflm_LQ/did-trump-just-go-up-with-the-first-tv-ad-of-the-2024-presidential-campaign",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5iY7Yflm_LQ/did-trump-just-go-up-with-the-first-tv-ad-of-the-2024-presidential-campaign",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 252,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/did-trump-just-go-up-with-the-first-tv-ad-of-the-2024-presidential-campaign.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/did-trump-just-go-up-with-the-first-tv-ad-of-the-2024-presidential-campaign.amp",
+      "publishedDateTime": "2021-09-05T07:23:27-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-09-05-white-house-keeping-kamala-harris-from-afghanistan-crisis-to-stop-contamination.md",
       "title": "White House keeping Kamala Harris from Afghanistan crisis 'to stop contamination'",
       "excerpt": "The White House is deliberately keeping Kamala Harris insulated from the Afghanistan withdrawal debacle to clear her way for a future presidential run, sources have told the Teleg",
@@ -774,7 +977,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 235,
+      "heat": 255,
       "tags": null,
       "images": [
         {
@@ -1067,7 +1270,7 @@
       "originalUrl": "https://www.cnbc.com/2021/09/03/trump-should-not-lead-gop-ticket-in-2024-retiring-sen-pat-toomey-says.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 445,
+      "heat": 465,
       "tags": null,
       "images": [
         {
@@ -1091,209 +1294,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-09-03-donald-trump-told-jim-jordan-hell-announce-2024-run-any-day-now-report.md",
-      "title": "Donald Trump Told Jim Jordan He'll Announce 2024 Run 'Any Day Now': Report",
-      "excerpt": "Jim Jordan (R-OH) has reportedly told Undercurrent journalist Lauren Windsor that former President Donald Trump will announce his intention to run for head of state again in 2024 \"any day now.\" Undercurrent News calls itself \"a grassroots political web-show for investigative and field reporting.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/donald-trump-told-jim-jordan-announce-2024-run-any-day-now-report-1625778",
-      "originalUrl": "https://www.newsweek.com/donald-trump-told-jim-jordan-announce-2024-run-any-day-now-report-1625778",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 143,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1881943/trump-osama-bin-laden.jpg",
-          "width": 2500,
-          "height": 1665,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/donald-trump-told-jim-jordan-announce-2024-run-any-day-now-report-1625778?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-told-jim-jordan-announce-2024-run-any-day-now-report-1625778?amp=1",
-      "publishedDateTime": "2021-09-03T04:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-09-03-this-is-an-everybody-problem-study-by-wsu-researchers-links-trump-votes-with-lgbtq-bullying-in-schools.md",
-      "title": "‘This is an everybody problem’: Study by WSU researchers links Trump votes with LGBTQ+ bullying in schools",
-      "excerpt": "Hobaica co-authored a study published this summer examining the correlation between the political leanings of a school district and levels of bullying against LGBTQ+ students. To do so, authors used the 2018 Washington State Healthy Youth Survey,",
-      "sourceUrl": null,
-      "webUrl": "https://www.spokesman.com/stories/2021/sep/03/this-is-an-everybody-problem-study-by-wsu-research/",
-      "originalUrl": "https://www.spokesman.com/stories/2021/sep/03/this-is-an-everybody-problem-study-by-wsu-research/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumb.spokesman.com/KG-kgiXMHyqWGTDBbw19vnXTBWM=/480x0/media.spokesman.com/photos/2021/09/02/6131463fd3fde.hires.jpg",
-          "width": 480,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.spokesman.com/stories/2021/sep/03/this-is-an-everybody-problem-study-by-wsu-research/?amp-content=amp",
-      "cdnAmpWebUrl": "https://www-spokesman-com.cdn.ampproject.org/c/s/www.spokesman.com/stories/2021/sep/03/this-is-an-everybody-problem-study-by-wsu-research/?amp-content=amp",
-      "publishedDateTime": "2021-09-03T04:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Spokesman-Review",
-        "domain": "spokesman.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-09-03-biden-set-to-travel-to-louisiana-to-survey-damage-from-hurricane-ida.md",
-      "title": "Biden set to travel to Louisiana to survey damage from Hurricane Ida",
-      "excerpt": "President Joe Biden is headed to Louisiana on Friday to survey damage from Hurricane Ida, after almost a week of the deadly storm ravaging the eastern half of the United States.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vbv-IqXj3qo/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vbv-IqXj3qo/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210902140750-01-biden-ida-0902-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/09/03/politics/biden-hurricane-ida-travel-louisiana/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/09/03/politics/biden-hurricane-ida-travel-louisiana/index.html",
-      "publishedDateTime": "2021-09-03T03:08:38-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-09-03-trump-towers-key-tenants-have-fallen-behind-on-rent-and-moved-out-but-trump-has-one-reliable-customer-his-own-pac.md",
-      "title": "Trump Tower’s key tenants have fallen behind on rent and moved out. But Trump has one reliable customer: His own PAC.",
-      "excerpt": "Trump’s PAC pays more than $37,000 a month for space at the tower — the latest instance of Trump using donors’ money to prop up his businesses.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/trump-tower-pac-rent-campaign-finance/2021/09/02/dfeae19e-0b2f-11ec-9781-07796ffb56fe_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/trump-tower-pac-rent-campaign-finance/2021/09/02/dfeae19e-0b2f-11ec-9781-07796ffb56fe_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JEFP3DGEWII6VKBFQ4RAATSBKA.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-03T03:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -2,6 +2,222 @@
   "page": 55,
   "value": [
     {
+      "path": "_news/2021-05-18-trump-house-democrats-near-agreement-on-deutsche-bank-subpoenas.md",
+      "title": "Trump, House Democrats near agreement on Deutsche Bank subpoenas",
+      "excerpt": "Former President Donald Trump and Democrats in the U.S. House of Representatives said on Monday they are near an agreement to resolve disputes concerning congressional subpoenas of his financial records from Deutsche Bank AG.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/legal-us-usa-congress-trump-idUSKCN2CY2JN",
+      "originalUrl": "https://www.reuters.com/article/legal-us-usa-congress-trump-idUSKCN2CY2JN",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20210517&t=2&i=1562452809&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH4G17I",
+          "width": 828,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKCN2CY2JN",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2CY2JN",
+      "publishedDateTime": "2021-05-17T13:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-05-17-georgia-gop-lt-gov-duncan-a-trump-critic-wont-run-for-reelection-in-2022.md",
+      "title": "Georgia GOP Lt. Gov. Duncan, a Trump critic, won’t run for reelection in 2022",
+      "excerpt": "Republican Lt. Gov. Geoff Duncan of Georgia, a vocal critic of former President Trump, on Monday announced that he won’t seek a second term in office in next year’s elections.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/TtQyWEd3UYo/georgia-gop-lt-gov-duncan-wont-run-for-re-election-in-2022",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/TtQyWEd3UYo/georgia-gop-lt-gov-duncan-wont-run-for-re-election-in-2022",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 347,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/georgia-gop-lt-gov-duncan-wont-run-for-re-election-in-2022.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/georgia-gop-lt-gov-duncan-wont-run-for-re-election-in-2022.amp",
+      "publishedDateTime": "2021-05-17T12:57:33-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-18-biden-to-working-families-help-is-here.md",
+      "title": "Biden to working families: 'Help is here'",
+      "excerpt": "President Joe Biden says a new child tax credit “sends a clear and powerful message to American workers, working families with children: Help is here.\" 39 million families are set to receive monthly child payments beginning in July.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/videos/news/nation/2021/05/17/biden-working-families-help-here/5134671001/",
+      "originalUrl": "https://www.usatoday.com/videos/news/nation/2021/05/17/biden-working-families-help-here/5134671001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/authoring/video-thumbnails/7c75be8c-dca6-41d7-ac4b-b80419371f8e_poster.jpg?quality=10",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-17T12:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-05-17-how-trump-and-mcconnell-set-the-final-pieces-for-the-supreme-court-to-reconsider-roe-v-wade.md",
+      "title": "How Trump and McConnell set the final pieces for the Supreme Court to reconsider Roe v. Wade",
+      "excerpt": "Conservatives have been waiting decades for this moment: a transformed Supreme Court on Monday agreed to hear an abortion case that directly challenges women's reproductive rights tracing to the 1973 Roe v. Wade milestone.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5Uzxs-i9E-w/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5Uzxs-i9E-w/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201230094039-split-donald-trump-mitch-mcconnell-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/17/politics/abortion-supreme-court-roe-v-wade/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/17/politics/abortion-supreme-court-roe-v-wade/index.html",
+      "publishedDateTime": "2021-05-17T11:54:20-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-05-17-mike-pence-rebukes-joe-bidens-tax-plan-says-china-will-benefit-while-us-faces-economic-catastrophe.md",
       "title": "Mike Pence Rebukes Joe Biden's Tax Plan, Says China Will Benefit While US Faces Economic Catastrophe",
       "excerpt": "In a Monday op-ed, Pence claimed corporations will flock to China, which \"stands to gain thousands of jobs as U.S. employers flee the crushing taxes\" proposed by Biden.",
@@ -1148,219 +1364,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-14-elise-stefanik-trump-loyalist-wins-republican-leadership-post.md",
-      "title": "Elise Stefanik: Trump loyalist wins Republican leadership post",
-      "excerpt": "US Republicans have appointed New York Congresswoman Elise Stefanik, a Trump loyalist, to the third-ranking post in the House of Representatives. It follows an earlier vote to oust the incumbent chairwoman,",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/world-us-canada-57121629.amp",
-      "originalUrl": "https://www.bbc.com/news/world-us-canada-57121629.amp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/C15D/production/_118510594_gettyimages-1232884209.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/world-us-canada-57121629.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-57121629.amp",
-      "publishedDateTime": "2021-05-14T09:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-05-14-biden-hit-during-police-week-for-pushing-anti-police-myths.md",
-      "title": "Biden hit during ‘Police Week’ for pushing anti-police 'myths’",
-      "excerpt": "Biden also shares blame, said Johnson. In his actions and words Biden has turned away from embracing police and fighting crime, an anchor in his Senate career. It was noticed, also, that he didn't note the death of a small-town Delaware police officer whose funeral drew state officials,",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonexaminer.com/washington-secrets/biden-hit-during-police-week-for-pushing-anti-police-myths",
-      "originalUrl": "https://www.washingtonexaminer.com/washington-secrets/biden-hit-during-police-week-for-pushing-anti-police-myths",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mediadc.brightspotcdn.com/dims4/default/a7b556a/2147483647/strip/true/crop/3012x2013+0+0/resize/3012x2013!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2F69%2F96%2F49ec0120489b92d2900479a46560%2Fap9409130391.jpeg",
-          "width": 3012,
-          "height": 2013,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonexaminer.com/washington-secrets/biden-hit-during-police-week-for-pushing-anti-police-myths?_amp=true",
-      "cdnAmpWebUrl": "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/washington-secrets/biden-hit-during-police-week-for-pushing-anti-police-myths?_amp=true",
-      "publishedDateTime": "2021-05-14T09:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Examiner",
-        "domain": "washingtonexaminer.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonexaminer.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-14-dump-trump-kicking-him-off-nyc-golf-course-may-not-be-easy.md",
-      "title": "Dump Trump? Kicking him off NYC golf course may not be easy",
-      "excerpt": "Donald Trump has a rich history of fighting back when he’s down and making others pay, and that’s exactly how he intends to deal with New York City over its plans to fire his company from running a ci",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Business/wireStory/dump-trump-kicking-off-nyc-golf-easy-77689371",
-      "originalUrl": "https://abcnews.go.com/Business/wireStory/dump-trump-kicking-off-nyc-golf-easy-77689371",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 325,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Sports/WireAP_3640cc63671a47ac969bb32cb955072c_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Business/wireStory/dump-trump-kicking-off-nyc-golf-easy-77689371",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/dump-trump-kicking-off-nyc-golf-easy-77689371",
-      "publishedDateTime": "2021-05-14T07:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-05-14-delaware-state-university-will-use-bidens-stimulus-to-cancel-over-700000-in-student-debt.md",
-      "title": "Delaware State University will use Biden's stimulus to cancel over $700,000 in student debt",
-      "excerpt": "On average, $3,276 in student debt will be canceled for eligible borrowers: recent graduates who faced financial hardships during the pandemic.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/student-loan-debt-cancelation-delaware-state-university-pandemic-financial-hardships-2021-5",
-      "originalUrl": "https://www.businessinsider.com/student-loan-debt-cancelation-delaware-state-university-pandemic-financial-hardships-2021-5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/609e7c2167e41a00186220db?width=1200&format=jpeg",
-          "width": 811,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/student-loan-debt-cancelation-delaware-state-university-pandemic-financial-hardships-2021-5?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/student-loan-debt-cancelation-delaware-state-university-pandemic-financial-hardships-2021-5?amp",
-      "publishedDateTime": "2021-05-14T06:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

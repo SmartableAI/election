@@ -43,6 +43,20 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Joe Biden, Dems push Civilian Climate Corps in echo of New Deal"
+    excerpt: "Inspired by the New Deal-era Civilian Conservation Corps, President Joe Biden and congressional Democrats are pushing for a modern counterpart: a Civilian Climate Corps that would create hundreds of thousands of jobs building trails,"
+    publishedDateTime: 2021-09-09T13:00:00Z
+    webUrl: "https://floridapolitics.com/archives/456087-joe-biden-dems-push-civilian-climate-corps-in-echo-of-new-deal/"
+    type: article
+    provider:
+      name: Florida Politics
+      domain: floridapolitics.com
+    quality: 55
+    images:
+      - url: "https://floridapolitics.com/wp-content/uploads/2021/09/Joe-Biden-in-Queens.jpg"
+        width: 733
+        height: 415
+        isCached: true
 
 secured: "WHsTJgpswetqmhhMVKHCDl7gUy0kJi4Wl7XTZXzfHovVISlUwrtjFH3WA2q04iEt2IPlaFWNdkGADDoRI/L9ZOIoUhVXzOxmIdYerbLlvB782N390sJRrZae+RCaycbauJigxAmMIRYhD2JK50v++ZWT+QjFac4q1j/Fi7L8vrcHazfq/pdwiEKzOJMVPRlXgx4v63Zqpb4SZwPMg9qJmmzmWfdNj2jRRZ5mUiVOElUbI2OrbJkSN+XXYkx+xzMyU26L9vHV99CHWjA4PPyy9tfJuuJx9hfuVYjuIlhoPIuJB5K2YXIUAKbS2qCV72CWEomRLWk3bVGzHtLVJ07CycOM1qQ/tohNLCVUOrzEzqc=;8vd8BJUn2pP9WXfp59qgWg=="
 ---

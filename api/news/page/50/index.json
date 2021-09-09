@@ -2,6 +2,214 @@
   "page": 50,
   "value": [
     {
+      "path": "_news/2021-05-28-biden-to-gop-dont-get-in-the-way-of-infrastructure-plan.md",
+      "title": "Biden to GOP: 'Don't get in the way' of infrastructure plan",
+      "excerpt": "President Joe Biden is warning naysayers in Congress not to “get in the way” of his big infrastructure plans as the White House panned a counteroffer from Republican senators to tap unused COVID-19 relief for a more modest investment in roads,",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Business/wireStory/biden-gop-dont-infrastructure-plan-77955654",
+      "originalUrl": "https://abcnews.go.com/Business/wireStory/biden-gop-dont-infrastructure-plan-77955654",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/WireAP_f31c9f06758e48e98c1f2a10ec488122_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Business/wireStory/biden-gop-dont-infrastructure-plan-77955654",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/biden-gop-dont-infrastructure-plan-77955654",
+      "publishedDateTime": "2021-05-27T21:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-05-28-men-booted-from-yankee-stadium-after-displaying-trump-won-banner.md",
+      "title": "Men booted from Yankee Stadium after displaying ‘Trump Won’ banner",
+      "excerpt": "Two men who brought a ‘Trump Won Save America’ banner to the May 27, 2021 doubleheader between the Yankees and Blue Jays were greeted with boos from the crowd and escorted out of the",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/05/28/two-men-booted-from-yankee-game-for-holding-a-trump-won-sign/",
+      "originalUrl": "https://nypost.com/2021/05/28/two-men-booted-from-yankee-game-for-holding-a-trump-won-sign/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/05/trump-fans-ejected-index.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/05/28/two-men-booted-from-yankee-game-for-holding-a-trump-won-sign/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/28/two-men-booted-from-yankee-game-for-holding-a-trump-won-sign/amp/",
+      "publishedDateTime": "2021-05-27T21:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-28-biden-administrations-return-to-libya-inexplicable-when-us-faces-multiple-crises-at-home-jim-jordan.md",
+      "title": "Biden administration's return to Libya inexplicable when US faces multiple crises at home: Jim Jordan",
+      "excerpt": "House Judiciary Committee Ranking Member Jim Jordan, R-Ohio, said on Thursday's \"Fox News Primetime\" that President Biden seeking a diplomatic return to Libya “doesn't make sense” as the U.S. faces a number of domestic crises.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/mcoQERVml7c/biden-return-libya-inexplicable-jim-jordan",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/mcoQERVml7c/biden-return-libya-inexplicable-jim-jordan",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6ada39e0-4be0-43b2-8ef3-26f3ebfa1e93/141116e1-8abd-474f-a22d-429f1971b439/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-return-libya-inexplicable-jim-jordan.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-return-libya-inexplicable-jim-jordan.amp",
+      "publishedDateTime": "2021-05-27T19:14:46-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-28-former-house-speaker-paul-ryan-joined-the-fight-against-donald-trump-by-urging-fellow-conservatives-to-reject-the-former-presidents-politics.md",
+      "title": "Former House Speaker Paul Ryan joined the fight against Donald Trump by urging fellow conservatives to reject the former president’s politics",
+      "excerpt": "Emerging from two years of relative silence, former House Speaker Paul Ryan joined the fight against Donald Trump on Thursday, urging fellow conservatives to reject the former president’s divisive politics and those Republican leaders who emulate him.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chicagotribune.com/nation-world/ct-aud-nw-paul-ryan-donald-trump-republicans-gop-reject-poltics-20210528-5rmkikur35hqreddnnt7gk5jje-story.html",
+      "originalUrl": "https://www.chicagotribune.com/nation-world/ct-aud-nw-paul-ryan-donald-trump-republicans-gop-reject-poltics-20210528-5rmkikur35hqreddnnt7gk5jje-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chicagotribune.com/resizer/TeYNpM4qwEPkL99MF8R8RkqIgFI=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/ZVAH3T2NCBH5AJHZHQCLFWV7LA.aspx",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.chicagotribune.com/nation-world/ct-aud-nw-paul-ryan-donald-trump-republicans-gop-reject-poltics-20210528-5rmkikur35hqreddnnt7gk5jje-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-paul-ryan-donald-trump-republicans-gop-reject-poltics-20210528-5rmkikur35hqreddnnt7gk5jje-story.html?outputType=amp",
+      "publishedDateTime": "2021-05-27T19:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Tribune",
+        "domain": "chicagotribune.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-05-28-trump-laments-7-year-high-gas-prices-as-americans-prep-for-memorial-day.md",
       "title": "Trump laments 7-year-high gas prices as Americans prep for Memorial Day",
       "excerpt": "Former President Donald Trump expressed concern Thursday for Americans forced to pay sky-high gas prices as millions hit the road for the Memorial Day holiday. “With Memorial Day Weekend",
@@ -1155,219 +1363,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-26-trump-asks-court-to-toss-out-capitol-assault-suit-from-eric-swalwell.md",
-      "title": "Trump asks court to toss out Capitol assault suit from Eric Swalwell",
-      "excerpt": "Swalwell is suing Mr. Trump, Donald Trump Jr., GOP Congressman Mo Brooks of Alabama and Rudy Giuliani, the former president's lawyer, over the events of January 6.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/capitol-riot-suit-trump-swalwell/",
-      "originalUrl": "https://www.cbsnews.com/news/capitol-riot-suit-trump-swalwell/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/20/2d48bb4f-3279-4bf6-90d9-c7543fa89033/thumbnail/1200x630/61ea42e1b42e185ea35df3dd7de18759/gettyimages-1230692812.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/capitol-riot-suit-trump-swalwell/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/capitol-riot-suit-trump-swalwell/",
-      "publishedDateTime": "2021-05-26T07:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-05-26-son-ghostwriter-of-late-senator-say-trump-intervened-to-stop-probe-of-patriots-spygate-scandal.md",
-      "title": "Son, ghostwriter of late senator say Trump intervened to stop probe of Patriots' Spygate scandal",
-      "excerpt": "A hard-charging United States senator from Pennsylvania named Arlen Specter had launched an investigation into the Spygate scandal. He tried to determine how many games the New England Patriots' illegal videotaping operation of opposing coaches' signals had helped the team win and learn why the NFL,",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Sports/son-ghostwriter-late-senator-trump-intervened-stop-probe/story?id=77914778",
-      "originalUrl": "https://abcnews.go.com/Sports/son-ghostwriter-late-senator-trump-intervened-stop-probe/story?id=77914778",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 172,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/site/ABCNews_flat_black.png",
-          "width": 834,
-          "height": 308,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Sports/son-ghostwriter-late-senator-trump-intervened-stop-probe/story?id=77914778",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Sports/son-ghostwriter-late-senator-trump-intervened-stop-probe/story?id=77914778",
-      "publishedDateTime": "2021-05-26T05:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-05-26-kamala-harris-urged-by-new-mexico-gop-lawmaker-to-involve-congress-in-her-root-causes-talks.md",
-      "title": "Kamala Harris urged by New Mexico GOP lawmaker to involve Congress in her ‘root causes’ talks",
-      "excerpt": "Vice President Kamala Harris should consult members of Congress as she continues discussions with Mexican and Central American officials on the \"root causes\" of migration, a Republican lawmaker urged this week.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/HQqjNR0Sbk8/kamala-harris-urged-by-new-mexico-gop-lawmaker-to-involve-congress-in-her-root-causes-talks",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/HQqjNR0Sbk8/kamala-harris-urged-by-new-mexico-gop-lawmaker-to-involve-congress-in-her-root-causes-talks",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 174,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/22a9630b-047d-47d1-9952-04d0bea71b85/eeb72bf6-9f91-441b-afd6-816eea0f5863/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/kamala-harris-urged-by-new-mexico-gop-lawmaker-to-involve-congress-in-her-root-causes-talks.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-urged-by-new-mexico-gop-lawmaker-to-involve-congress-in-her-root-causes-talks.amp",
-      "publishedDateTime": "2021-05-25T20:54:17-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-05-26-donald-trump-says-he-usually-did-the-opposite-of-what-anthony-fauci-advised-on-covid.md",
-      "title": "Donald Trump Says He 'Usually Did the Opposite' Of What Anthony Fauci Advised on COVID",
-      "excerpt": "Republican former President Donald Trump on Tuesday night said he \"usually did the opposite\" of what infectious diseases expert Dr. Anthony Fauci advised during his presidency. \"Remember I closed our country to China way early much earlier than [Democratic House Speaker Nancy] Pelosi or anybody wanted it to happen,",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/donald-trump-says-he-usually-did-opposite-what-anthony-fauci-advised-covid-1594858",
-      "originalUrl": "https://www.newsweek.com/donald-trump-says-he-usually-did-opposite-what-anthony-fauci-advised-covid-1594858",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1806862/president-donald-trump-opposite-fauci-covid-19-advice.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/donald-trump-says-he-usually-did-opposite-what-anthony-fauci-advised-covid-1594858?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-says-he-usually-did-opposite-what-anthony-fauci-advised-covid-1594858?amp=1",
-      "publishedDateTime": "2021-05-25T20:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

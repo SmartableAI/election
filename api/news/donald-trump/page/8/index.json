@@ -2,6 +2,115 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-07-09-the-rebranding-of-trump-country.md",
+      "title": "The Rebranding of ‘Trump Country’",
+      "excerpt": "The population is fleeing, jobs are disappearing and coal really isn’t coming back. West Virginia’s boldest plan to reverse the slide is bribing white-collar workers to move from out of state.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/magazine/2021/07/09/west-virginia-economy-paid-remote-work-498238",
+      "originalUrl": "https://www.politico.com/news/magazine/2021/07/09/west-virginia-economy-paid-remote-work-498238",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/1d/94/ae211dc14744bf9dde718ba3af5a/thompson-mylan-52-2000-cms.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.com/amp/news/magazine/2021/07/09/west-virginia-economy-paid-remote-work-498238",
+      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/magazine/2021/07/09/west-virginia-economy-paid-remote-work-498238",
+      "publishedDateTime": "2021-07-09T01:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-09-trump-says-global-warming-efforts-dont-work-because-rest-of-the-world-is-filthy.md",
+      "title": "Trump Says Global Warming Efforts Don't Work Because 'Rest of the World' is 'Filthy'",
+      "excerpt": "Trump blamed China and India for creating massive air pollution from coal plants while the U.S. focuses on \"stupid\" windmills that provide renewable energy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/trump-says-global-warming-efforts-dont-work-because-rest-world-filthy-1608129",
+      "originalUrl": "https://www.newsweek.com/trump-says-global-warming-efforts-dont-work-because-rest-world-filthy-1608129",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1841386/oreilly-trump-global-warming-climate-change-filthy.jpg",
+          "width": 2500,
+          "height": 1554,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/trump-says-global-warming-efforts-dont-work-because-rest-world-filthy-1608129?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-says-global-warming-efforts-dont-work-because-rest-world-filthy-1608129?amp=1",
+      "publishedDateTime": "2021-07-08T15:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-07-09-trump-cia-chief-joins-king-spaldings-bench-of-us-agency-alums.md",
       "title": "Trump CIA chief joins King & Spalding's bench of U.S. agency alums",
       "excerpt": "King & Spalding continues to build up its ranks of former federal government officials, announcing Thursday that it has added former U.S. Central Intelligence Agency director Gina Haspel to its national security team in Washington,",
@@ -1440,115 +1549,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-04-trump-wanted-to-chop-up-and-sell-off-mar-a-lagos-grounds-in-the-90s-this-is-how-preservationists-and-officials-stopped-him.md",
-      "title": "Trump wanted to chop up and sell off Mar-a-Lago's grounds in the '90s. This is how preservationists and officials stopped him.",
-      "excerpt": "Donald Trump attempted to subdivide his Mar-a-Lago property and build mansions, but a group of preservationists had other ideas.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/mar-a-lago-donald-trump-palm-beach-florida-preservationists-mansions-2021-6",
-      "originalUrl": "https://www.businessinsider.com/mar-a-lago-donald-trump-palm-beach-florida-preservationists-mansions-2021-6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/609e546d67e41a0018622095?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/mar-a-lago-donald-trump-palm-beach-florida-preservationists-mansions-2021-6?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mar-a-lago-donald-trump-palm-beach-florida-preservationists-mansions-2021-6?amp",
-      "publishedDateTime": "2021-07-04T04:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-04-trump-rails-against-prosecutorial-misconduct-during-florida-rally.md",
-      "title": "Trump rails against ‘prosecutorial misconduct’ during Florida rally",
-      "excerpt": "The former president brought a MAGA-style rally to Sarasota, where he derided the indictments as \"prosecutorial misconduct.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/states/florida/story/2021/07/03/trump-attacks-indictments-against-his-company-during-florida-rally-1387897",
-      "originalUrl": "https://www.politico.com/states/florida/story/2021/07/03/trump-attacks-indictments-against-his-company-during-florida-rally-1387897",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/70/07/902631d6403eb54c1f8d5e3c2adc/ap21185068176846.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-03T19:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     }
   ],

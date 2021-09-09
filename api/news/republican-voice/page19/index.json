@@ -2,6 +2,119 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2021-05-08-biden-white-house-releases-first-virtual-visitor-logs.md",
+      "title": "Biden White House releases first virtual visitor logs",
+      "excerpt": "The Biden White House released its first round of visitor logs Friday in an effort to \"restore integrity, transparency, and trust in government,\" the administration said.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/txUF60LDXWI/biden-white-house-first-virtual-visitor-logs",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/txUF60LDXWI/biden-white-house-first-virtual-visitor-logs",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 955,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/88785100-c591-4705-a000-240dbb0fec6e/e8c41f49-b049-4819-a13e-a62dfe9c3e34/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-white-house-first-virtual-visitor-logs.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-white-house-first-virtual-visitor-logs.amp",
+      "publishedDateTime": "2021-05-08T13:02:53-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-08-hannity-corrupt-media-is-lying-to-protect-bidens-mental-errors.md",
+      "title": "Hannity: Corrupt media is lying to protect Biden's 'mental errors'",
+      "excerpt": "HANNITY: What was that? Could you repeat that please? Anyway, these kinds of bizarre mental errors, they are commonplace in Joe's White House. It's not just the verbal gaffes. Joe Biden also seems to be having trouble with something called telling the truth,",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/transcript/hannity-corrupt-media-is-lying-to-protect-bidens-mental-errors",
+      "originalUrl": "https://www.foxnews.com/transcript/hannity-corrupt-media-is-lying-to-protect-bidens-mental-errors",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bf731f55-ebf0-4cc2-b65b-83d63507562f/d485e088-eea8-4b62-8f8b-365bb81085a5/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/transcript/hannity-corrupt-media-is-lying-to-protect-bidens-mental-errors.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/hannity-corrupt-media-is-lying-to-protect-bidens-mental-errors.amp",
+      "publishedDateTime": "2021-05-07T23:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-05-07-biden-labor-secretary-closed-schools-keeping-people-from-getting-back-in-the-workforce.md",
       "title": "Biden Labor Secretary: Closed schools 'keeping people from getting back in the workforce'",
       "excerpt": "Labor Secretary Marty Walsh drew a parallel Friday between the continued fight over reopening schools for in-person instruction and the  April jobs report, which fell far short of experts' predictions.",
@@ -1555,120 +1668,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-30-leon-panetta-on-bidens-lack-bipartisanship-it-takes-two-to-tango.md",
-      "title": "Leon Panetta on Biden's lack bipartisanship: It takes two to tango",
-      "excerpt": "We're going to get into the details of all of that, fair and balanced, with John Barrasso, the Republican senator from Wyoming, and Leon Panetta, Bill Clinton's chief of staff, and whether we are building up a lot of debt very,",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/transcript/leon-panetta-on-bidens-lack-bipartisanship-it-takes-two-to-tango",
-      "originalUrl": "https://www.foxnews.com/transcript/leon-panetta-on-bidens-lack-bipartisanship-it-takes-two-to-tango",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/81623771-3b4f-45ee-8b65-03c338f4a578/58b06d7d-6c90-487b-aebe-6f2abac016ad/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/transcript/leon-panetta-on-bidens-lack-bipartisanship-it-takes-two-to-tango.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/leon-panetta-on-bidens-lack-bipartisanship-it-takes-two-to-tango.amp",
-      "publishedDateTime": "2021-04-29T17:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-29-pence-to-target-biden-in-first-post-vice-presidency-speech.md",
-      "title": "Pence to target Biden in first post-vice presidency speech",
-      "excerpt": "It’s no coincidence that former Vice President Mike Pence’s first speech since the end of Donald Trump’s administration comes on the same day that President Biden marks his first 100 days in office.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-heqPVY0Hbc/pence-expected-to-target-biden-as-he-makes-his-first-post-vice-presidency-speech",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-heqPVY0Hbc/pence-expected-to-target-biden-as-he-makes-his-first-post-vice-presidency-speech",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 2340,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/pence-expected-to-target-biden-as-he-makes-his-first-post-vice-presidency-speech.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-expected-to-target-biden-as-he-makes-his-first-post-vice-presidency-speech.amp",
-      "publishedDateTime": "2021-04-29T13:10:36-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Mike Pence"
       ]
     }
   ],

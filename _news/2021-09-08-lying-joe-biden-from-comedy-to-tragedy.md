@@ -29,10 +29,10 @@ images:
 related:
   - title: "Biden ousts 18 Trump military academy board appointees including Spicer, Conway"
     excerpt: "White House press secretary Jen Psaki confirmed that the former Trump officials were asked to resign or face firing."
-    publishedDateTime: 2021-09-09T01:20:00Z
-    webUrl: "https://www.cbsnews.com/news/biden-removes-trump-military-academy-board-appointees-spicer-conway/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-removes-trump-military-academy-board-appointees-spicer-conway/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-removes-trump-military-academy-board-appointees-spicer-conway/"
+    publishedDateTime: 2021-09-09T11:43:00Z
+    webUrl: "https://www.cbsnews.com/news/biden-trump-military-academy-board-appointees-spicer-conway/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-trump-military-academy-board-appointees-spicer-conway/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-trump-military-academy-board-appointees-spicer-conway/"
     type: article
     provider:
       name: CBS News
@@ -42,6 +42,38 @@ related:
       - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/04/21/b1dcf65a-9d9f-4729-a1da-d2642b7e846d/thumbnail/1200x630/5d0f4c6708acaad8e13f9e5c29fb77c7/gettyimages-1232425770.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Military Academy Board Members Defy Joe Biden, Refuse to Resign"
+    excerpt: "Kellyanne Conway said she will not resign from the Air Force Academy board, but urged Biden to step down instead."
+    publishedDateTime: 2021-09-09T10:05:00Z
+    webUrl: "https://www.newsweek.com/military-academy-board-members-defy-joe-biden-refuse-resign-partisan-1627339"
+    ampWebUrl: "https://www.newsweek.com/military-academy-board-members-defy-joe-biden-refuse-resign-partisan-1627339?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/military-academy-board-members-defy-joe-biden-refuse-resign-partisan-1627339?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
+    images:
+      - url: "https://d.newsweek.com/en/full/1890485/kellyanne-conway-speaks-trump-supporters.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Trump contacted families of US troops killed in Kabul terror attack, as he seeks to use Afghanistan withdrawal to damage Biden"
+    excerpt: "The former president has sought to damage Joe Biden over the Afghanistan withdrawal, while remaining silent on his role brokering the deal."
+    publishedDateTime: 2021-09-09T11:14:00Z
+    webUrl: "https://www.businessinsider.com/trump-spoke-families-troops-killed-kabul-2021-9"
+    ampWebUrl: "https://www.businessinsider.com/trump-spoke-families-troops-killed-kabul-2021-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-spoke-families-troops-killed-kabul-2021-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 112
+    images:
+      - url: "https://i.insider.com/6139dba92534ab0018536f52?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Biden ousts 18 Trump military academy board appointees, including Kellyanne Conway at the Air Force Academy"
     excerpt: "The Biden administration on Wednesday removed 18 appointees named to U.S. military academy boards by Donald Trump in the final months of the Republican president’s term in office, according"
@@ -58,6 +90,20 @@ related:
       - url: "https://www.denverpost.com/wp-content/uploads/2017/01/632381492.jpg?w=1024&#038;h=683"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Trump appointees told to exit boards of military academies"
+    excerpt: "The Biden administration on Wednesday removed 18 appointees named to U.S. military academy boards by Donald Trump in the final months of the Republican president's term in office, according to the White House."
+    publishedDateTime: 2021-09-09T09:17:00Z
+    webUrl: "https://www.arkansasonline.com/news/2021/sep/09/trump-appointees-told-to-exit-boards-of-military/"
+    type: article
+    provider:
+      name: Arkansas Democrat-Gazette
+      domain: arkansasonline.com
+    quality: 55
+    images:
+      - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/199349080_199348864-251778aab291432293913b50cc05e2ef_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
+        width: 600
+        height: 399
         isCached: true
   - title: "Former Trump press secretary Sean Spicer asked to resign from Naval Academy Board of Visitors"
     excerpt: "Former Trump press secretary Sean Spicer was among several people asked to resign from the Naval Academy Board of Visitors, as President Joe Biden removes Trump appointees from service academy advisory boards."
