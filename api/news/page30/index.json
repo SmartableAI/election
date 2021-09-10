@@ -2,6 +2,114 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2021-07-06-some-rnc-staffers-did-not-vote-for-trump-amid-2020-campaign-power-struggle-new-book-claims.md",
+      "title": "Some RNC staffers did not vote for Trump amid 2020 campaign power struggle, new book claims",
+      "excerpt": "Some Republican National Committee officials didn’t vote for then-President Donald Trump in last November’s election, according to a forthcoming book by Wall Street Journal reporter Michael Bender.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-n6WJL6tSdE/rnc-staffers-trump-2020-campaign-power-struggle-new-book",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-n6WJL6tSdE/rnc-staffers-trump-2020-campaign-power-struggle-new-book",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/88376ef7-5b29-4486-87a8-20fec2672c8d/47252811-a31f-4063-a1a2-be20407f7b37/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/rnc-staffers-trump-2020-campaign-power-struggle-new-book.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rnc-staffers-trump-2020-campaign-power-struggle-new-book.amp",
+      "publishedDateTime": "2021-07-06T03:16:44-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-06-joe-biden-ramps-up-vaccination-drive-with-new-initiatives-pfizer-moderna-vaccines-on-brink-of-full-fda-approval-todays-covid-19-updates.md",
+      "title": "Joe Biden ramps up vaccination drive with new initiatives; Pfizer, Moderna vaccines on brink of full FDA approval?: Today's COVID-19 updates",
+      "excerpt": "President Biden unveiled initiatives aimed at the one-third of the eligible U.S. population that has not gotten any COVID vaccine shots. Latest news.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/health/2021/07/06/delta-covid-variant-missouri-mississippi-indonesia-oxygen/7867828002/",
+      "originalUrl": "https://www.usatoday.com/story/news/health/2021/07/06/delta-covid-variant-missouri-mississippi-indonesia-oxygen/7867828002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/07/05/USAT/d9b8c20d-2490-487b-a9f4-3ce0c8477dd1-AP21183799994472.jpg?auto=webp&crop=4644,2613,x0,y236&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/7867828002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7867828002",
+      "publishedDateTime": "2021-07-06T02:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-07-06-the-stimulus-helped-these-trump-voters-pay-rent-and-bills-but-they-blame-it-for-a-range-of-economic-ills.md",
       "title": "The stimulus helped these Trump voters pay rent and bills. But they blame it for a range of economic ills.",
       "excerpt": "In Ohio’s Appalachian region, people agree their stimulus money went to good use. But they also criticize the program for the worker shortage and rising inflation.",
@@ -1196,114 +1304,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/manchin-silent-biden-blm-nominee.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/manchin-silent-biden-blm-nominee.amp",
       "publishedDateTime": "2021-07-04T03:37:31-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-04-try-and-try-again-gop-tests-out-myriad-attacks-on-biden.md",
-      "title": "Try and try again: GOP tests out myriad attacks on Biden",
-      "excerpt": "Republicans are testing out a myriad of attacks against President Biden, trying to turn public opinion against a popular president among key sectors of the electorate in hopes of boosting their chances in the 2022 midterm elections and beyond.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/administration/561442-try-and-try-again-gop-tests-out-myriad-attacks-on-biden",
-      "originalUrl": "https://thehill.com/homenews/administration/561442-try-and-try-again-gop-tests-out-myriad-attacks-on-biden",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 365,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/article_images/bidenjoe_063021getty_biden-gop.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/administration/561442-try-and-try-again-gop-tests-out-myriad-attacks-on-biden?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/561442-try-and-try-again-gop-tests-out-myriad-attacks-on-biden?amp",
-      "publishedDateTime": "2021-07-04T02:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-07-04-biden-defends-shacarri-richardson-suspension-as-progressives-some-in-gop-balk-rules-are-the-rules.md",
-      "title": "Biden defends Sha'Carri Richardson suspension as progressives, some in GOP balk: ‘Rules are the rules’",
-      "excerpt": "President Biden gave a muted response Saturday to sprinter Sha’Carri Richardson’s suspension due to a positive marijuana test that will cut her from the Tokyo Olympics later this month. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ePvqmbWyuzM/biden-shacarri-richardson-suspension-progressives-republicans-rules-olympics-sprinter",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ePvqmbWyuzM/biden-shacarri-richardson-suspension-progressives-republicans-rules-olympics-sprinter",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c1499995-3ae7-4bfb-bdea-c7f4b639b969/48ba74f1-175b-4fa2-b2a5-712e11a6e961/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-shacarri-richardson-suspension-progressives-republicans-rules-olympics-sprinter.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-shacarri-richardson-suspension-progressives-republicans-rules-olympics-sprinter.amp",
-      "publishedDateTime": "2021-07-03T23:14:28-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

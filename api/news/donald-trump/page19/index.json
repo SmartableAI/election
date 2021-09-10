@@ -2,6 +2,58 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2021-04-16-donald-trump-is-ditching-the-spray-tan-hair-highlights-and-even-some-extra-pounds-as-he-mulls-his-political-future.md",
+      "title": "Donald Trump is ditching the spray tan, hair highlights, and even some extra pounds as he mulls his political future",
+      "excerpt": "Former President Donald Trump has lost weight and \"feels great\" nearly three months after leaving the White House, advisors say.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/donald-trump-weight-loss-spray-tan-hair-white-house-2021-4",
+      "originalUrl": "https://www.businessinsider.com/donald-trump-weight-loss-spray-tan-hair-white-house-2021-4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6078c02a4206150018175cd0?width=1200&format=jpeg",
+          "width": 568,
+          "height": 284,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-16T01:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-04-16-washington-moves-of-the-week-gaetz-promotes-former-democratic-staffer-while-former-trump-officials-jump-into-america-first-nonprofit.md",
       "title": "Washington moves of the week: Gaetz promotes former Democratic staffer while former Trump officials jump into 'America First' nonprofit",
       "excerpt": "Rep. Matt Gaetz has promoted a former Democratic staffer as other aides quit amid the sex trafficking investigation into the Florida Republican and Trump ally.",
@@ -1535,63 +1587,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-04-09-trump-other-potential-2024-gop-contenders-gathering-at-major-retreat.md",
-      "title": "Trump, other potential 2024 GOP contenders, gathering at major retreat",
-      "excerpt": "... Trump’s influence is not big enough and we have some donors who think that Trump’s influence is too much.\" \"The party is bigger than any one candidate. Clearly, Donald Trump is a big force in the Republican Party but I think the key for us moving ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/trump-2024-gop-contenders-retreat",
-      "originalUrl": "https://www.foxnews.com/politics/trump-2024-gop-contenders-retreat",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/mar-a-lago.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-2024-gop-contenders-retreat.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-2024-gop-contenders-retreat.amp",
-      "publishedDateTime": "2021-04-09T03:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     }
   ],

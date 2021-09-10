@@ -2,6 +2,210 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-09-06-son-of-911-victim-to-biden-do-not-come-to-ground-zero-memorials.md",
+      "title": "Son of 9/11 victim to Biden: Do not come to Ground Zero memorials",
+      "excerpt": "Nic Haros Jr., the son of a 9/11 victim, urged President Biden to avoid attending 20-year memorials during an interview on \"Fox & Friends\" on Monday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/son-9-11-victim-urges-biden-avoid-ground-zero-memorial",
+      "originalUrl": "https://www.foxnews.com/media/son-9-11-victim-urges-biden-avoid-ground-zero-memorial",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c7287a1d-46a0-4b90-be6f-0af4de47b4d2/8ff0fc81-a822-4fb5-b437-50b0bd85f38c/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/son-9-11-victim-urges-biden-avoid-ground-zero-memorial.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/son-9-11-victim-urges-biden-avoid-ground-zero-memorial.amp",
+      "publishedDateTime": "2021-09-06T08:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-09-06-americans-emailed-pence-officials-asking-to-remove-trump-from-office-after-capitol-riot.md",
+      "title": "Americans Emailed Pence, Officials Asking to Remove Trump From Office After Capitol Riot",
+      "excerpt": "Emails accused Trump of inciting the violence and called for members of the administration to take drastic action.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/americans-emailed-pence-officials-asking-remove-trump-office-after-capitol-riot-1626418",
+      "originalUrl": "https://www.newsweek.com/americans-emailed-pence-officials-asking-remove-trump-office-after-capitol-riot-1626418",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 191,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1888243/mike-pence-25th-amendment-trump-removal-january6.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/americans-emailed-pence-officials-asking-remove-trump-office-after-capitol-riot-1626418?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/americans-emailed-pence-officials-asking-remove-trump-office-after-capitol-riot-1626418?amp=1",
+      "publishedDateTime": "2021-09-06T06:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-09-06-joe-bidens-granddaughter-naomi-announces-engagement-to-longtime-beau-peter-neal.md",
+      "title": "Joe Biden's Granddaughter Naomi Announces Engagement To Longtime Beau Peter Neal",
+      "excerpt": "Naomi Biden, President Joe Biden's granddaughter, is now engaged. The 27-year-old daughter of Hunter Biden with ex-wife Kathleen Buhle took to Instagram Wednesday to confirm she's tying the knot with her longtime beau,",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/joe-bidens-granddaughter-naomi-announces-engagement-longtime-beau-peter-neal-3289026",
+      "originalUrl": "https://www.ibtimes.com/joe-bidens-granddaughter-naomi-announces-engagement-longtime-beau-peter-neal-3289026",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/07/04/us-president-joe-biden-2nd-l-first-lady.jpg",
+          "width": 1024,
+          "height": 681,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/joe-bidens-granddaughter-naomi-announces-engagement-longtime-beau-peter-neal-3289026?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/joe-bidens-granddaughter-naomi-announces-engagement-longtime-beau-peter-neal-3289026?amp=1",
+      "publishedDateTime": "2021-09-06T03:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-09-06-curley-bad-news-is-nothing-a-little-spin-cant-fix-at-biden-white-house.md",
+      "title": "Curley: Bad news is nothing a little spin can’t fix at Biden White House",
+      "excerpt": "Where is the White House cat? I only ask because we were specifically cautioned by White House press secretary Jen Psaki that the feline might appear when the going got tough. “I’ve",
+      "sourceUrl": null,
+      "webUrl": "https://www.bostonherald.com/2021/09/05/curley-bad-news-is-nothing-a-little-spin-cant-fix-at-biden-white-house/",
+      "originalUrl": "https://www.bostonherald.com/2021/09/05/curley-bad-news-is-nothing-a-little-spin-cant-fix-at-biden-white-house/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.bostonherald.com/wp-content/uploads/2021/03/AP21085637016977.jpg?w=1024&#038;h=683",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bostonherald.com/2021/09/05/curley-bad-news-is-nothing-a-little-spin-cant-fix-at-biden-white-house/amp/",
+      "cdnAmpWebUrl": "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2021/09/05/curley-bad-news-is-nothing-a-little-spin-cant-fix-at-biden-white-house/amp/",
+      "publishedDateTime": "2021-09-05T20:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Boston Herald",
+        "domain": "bostonherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-09-06-melania-trump-doesnt-want-to-be-first-lady-again-its-over.md",
       "title": "Melania Trump Doesn’t Want To Be First Lady Again: ‘It’s Over’",
       "excerpt": "Melania Trump, the wife of former President Donald Trump, has no interest in returning to the White House as the first lady again, according to a report. The former first lady has",
@@ -51,6 +255,58 @@
       "topics": [
         "Election",
         "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-09-06-crisis-isnt-over-progressives-push-biden-to-revive-unemployment-benefits-amid-pandemic.md",
+      "title": "'Crisis Isn't Over': Progressives Push Biden to Revive Unemployment Benefits Amid Pandemic",
+      "excerpt": "\"We're still in a pandemic, and the latest jobs numbers prove that. Doing our part to support Americans right now includes extending expanded\" unemployment insurance benefits, Representative Jamaal Bowman told Newsweek.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/crisis-isnt-over-progressives-push-biden-revive-unemployment-benefits-amid-pandemic-1626267",
+      "originalUrl": "https://www.newsweek.com/crisis-isnt-over-progressives-push-biden-revive-unemployment-benefits-amid-pandemic-1626267",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1887979/ocasio-cortez-jamaal-bowman-progressive-unemployment-benefits-revive.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/crisis-isnt-over-progressives-push-biden-revive-unemployment-benefits-amid-pandemic-1626267?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/crisis-isnt-over-progressives-push-biden-revive-unemployment-benefits-amid-pandemic-1626267?amp=1",
+      "publishedDateTime": "2021-09-05T14:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
       ]
     },
     {
@@ -105,7 +361,7 @@
       "originalUrl": "https://www.newsweek.com/lara-trump-slams-hypocritical-kamala-harris-michelle-obama-silence-afghan-women-1626238",
       "featuredContent": null,
       "highlight": null,
-      "heat": 171,
+      "heat": 191,
       "tags": null,
       "images": [
         {
@@ -977,7 +1233,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 255,
+      "heat": 295,
       "tags": null,
       "images": [
         {
@@ -1061,256 +1317,6 @@
       "topics": [
         "Election",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-09-03-biden-says-texas-anti-abortion-law-is-almost-un-american-and-sort-of-creates-a-vigilante-system.md",
-      "title": "Biden says Texas' anti-abortion law is 'almost un-American' and 'sort of creates a vigilante system'",
-      "excerpt": "President Joe Biden said Friday the Texas state law that bans abortion after as early as six weeks into pregnancy is \"almost un-American,\" pointing specifically to a provision allowing individuals to take civil action against people who help a woman get an abortion.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Mmetq79NlnI/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Mmetq79NlnI/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 160,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210831154223-02-biden-afghanistan-presser-0831-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/09/03/politics/biden-texas-abortion-law/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/09/03/politics/biden-texas-abortion-law/index.html",
-      "publishedDateTime": "2021-09-03T09:01:37-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-09-03-biden-doubles-down-on-35-trillion-plan-that-manchin-moderate-dems-oppose-not-about-short-term-stimulus.md",
-      "title": "Biden doubles down on $3.5 trillion plan that Manchin, moderate Dems oppose: 'Not about short term stimulus'",
-      "excerpt": "President Biden argued for his economic agenda in comments following the release of the latest jobs report.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/7TIUH30GAsE/biden-manchin-moderates-reconciliation-stimulus-jobs-september",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/7TIUH30GAsE/biden-manchin-moderates-reconciliation-stimulus-jobs-september",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-manchin-moderates-reconciliation-stimulus-jobs-september.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-manchin-moderates-reconciliation-stimulus-jobs-september.amp",
-      "publishedDateTime": "2021-09-03T08:49:55-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-09-03-donald-trump-backers-bet-big-on-dennis-kucinich-in-mayoral-race.md",
-      "title": "Donald Trump backers bet big on Dennis Kucinich in mayoral race",
-      "excerpt": "Two Republicans – a convicted and pardoned fraudster and a figure tied to the House Bill 6 bribery scandal – are betting big on Democratic former Mayor Dennis Kucinich in the race to succeed Mayor Frank Jackson.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cleveland.com/cityhall/2021/09/donald-trump-backers-bet-big-on-dennis-kucinich-in-mayoral-race.html",
-      "originalUrl": "https://www.cleveland.com/cityhall/2021/09/donald-trump-backers-bet-big-on-dennis-kucinich-in-mayoral-race.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/F34S72NVXNF4RETR4UCULZUJCI.jpg",
-          "width": 600,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cleveland.com/cityhall/2021/09/donald-trump-backers-bet-big-on-dennis-kucinich-in-mayoral-race.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/cityhall/2021/09/donald-trump-backers-bet-big-on-dennis-kucinich-in-mayoral-race.html?outputType=amp",
-      "publishedDateTime": "2021-09-03T08:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cleveland.com",
-        "domain": "cleveland.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-09-03-us-to-resume-high-level-economic-cooperation-with-mexico-that-trump-suspended.md",
-      "title": "U.S. to Resume High-Level Economic Cooperation with Mexico That Trump Suspended",
-      "excerpt": "The high-level talks were launched by Joe Biden in 2013, when he served as vice president under Barack Obama but were suspended under Trump.",
-      "sourceUrl": null,
-      "webUrl": "https://timesofsandiego.com/business/2021/09/03/u-s-to-resume-high-level-economic-cooperation-with-mexico-that-trump-suspended/",
-      "originalUrl": "https://timesofsandiego.com/business/2021/09/03/u-s-to-resume-high-level-economic-cooperation-with-mexico-that-trump-suspended/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i1.wp.com/timesofsandiego.com/wp-content/uploads/2017/04/Otay-Trucks-e1527595766485.jpg?fit=640%2C427&ssl=1",
-          "width": 640,
-          "height": 427,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://timesofsandiego.com/business/2021/09/03/u-s-to-resume-high-level-economic-cooperation-with-mexico-that-trump-suspended/",
-      "cdnAmpWebUrl": "https://timesofsandiego-com.cdn.ampproject.org/c/s/timesofsandiego.com/business/2021/09/03/u-s-to-resume-high-level-economic-cooperation-with-mexico-that-trump-suspended/",
-      "publishedDateTime": "2021-09-03T07:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Times of San Diego",
-        "domain": "timesofsandiego.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-09-03-retiring-gop-sen-toomey-says-trump-should-not-lead-ticket-in-2024.md",
-      "title": "Retiring GOP Sen. Toomey says Trump should not lead ticket in 2024",
-      "excerpt": "Sen. Pat Toomey has urged his party not to nominate former President Donald Trump as its presidential nominee in 2024.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2021/09/03/trump-should-not-lead-gop-ticket-in-2024-retiring-sen-pat-toomey-says.html",
-      "originalUrl": "https://www.cnbc.com/2021/09/03/trump-should-not-lead-gop-ticket-in-2024-retiring-sen-pat-toomey-says.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 465,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106937287-1630677698608-IMG_6416.JPG?v=1630677935",
-          "width": 3744,
-          "height": 5616,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2021/09/03/trump-should-not-lead-gop-ticket-in-2024-retiring-sen-pat-toomey-says.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/09/03/trump-should-not-lead-gop-ticket-in-2024-retiring-sen-pat-toomey-says.html",
-      "publishedDateTime": "2021-09-03T06:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

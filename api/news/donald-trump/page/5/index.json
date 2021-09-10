@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-08-01-kinzinger-mccarthy-and-jordan-should-face-6-january-subpoenas-but-maybe-not-trump.md",
+      "title": "Kinzinger: McCarthy and Jordan should face 6 January subpoenas – but maybe not Trump",
+      "excerpt": "Republican on select committee seeks Capitol attack answers but Collins toes GOP line in saying panel not sufficiently bipartisan",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/aug/01/kinzinger-mccarthy-jordan-6-january-capitol-attack-subpoenas-donald-trump",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/aug/01/kinzinger-mccarthy-jordan-6-january-capitol-attack-subpoenas-donald-trump",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/aug/01/kinzinger-mccarthy-jordan-6-january-capitol-attack-subpoenas-donald-trump",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/aug/01/kinzinger-mccarthy-jordan-6-january-capitol-attack-subpoenas-donald-trump",
+      "publishedDateTime": "2021-08-01T07:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-08-01-trump-has-more-than-100-million-in-political-cash-after-first-six-months-of-2021.md",
       "title": "Trump has more than $100 million in political cash after first six months of 2021",
       "excerpt": "Former president Donald Trump's political groups raised $82 million in the first half of 2021, new filings show, and have $102 million in the bank.",
@@ -1504,58 +1547,6 @@
       "topics": [
         "Election",
         "Mike Pence",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-25-i-alone-can-fix-it-carol-leonnig-and-philip-rucker-on-their-trump-bestseller.md",
-      "title": "I Alone Can Fix It: Carol Leonnig and Philip Rucker on their Trump bestseller",
-      "excerpt": "The Washington Post reporters have unleashed a second startling story of incompetence and malevolence in the White House",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/books/2021/jul/25/i-alone-can-fix-it-carol-leonnig-philip-rucker-trump-book-bestseller",
-      "originalUrl": "https://www.theguardian.com/books/2021/jul/25/i-alone-can-fix-it-carol-leonnig-philip-rucker-trump-book-bestseller",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 142,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/8cc42eb3c56aa9ffb79ab92e2f7e56f65ffdea68/0_0_4000_2399/master/4000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=e5217cfdf1e9c460dce0e880b25dcd4e",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/books/2021/jul/25/i-alone-can-fix-it-carol-leonnig-philip-rucker-trump-book-bestseller",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/books/2021/jul/25/i-alone-can-fix-it-carol-leonnig-philip-rucker-trump-book-bestseller",
-      "publishedDateTime": "2021-07-24T22:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Donald Trump"
       ]
     }

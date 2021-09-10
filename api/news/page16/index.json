@@ -2,6 +2,114 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2021-08-03-ex-illinois-governor-who-trump-freed-from-jail-files-lawsuit-to-run-for-office-again.md",
+      "title": "Ex-Illinois Governor, Who Trump Freed from Jail, Files Lawsuit to Run for Office Again",
+      "excerpt": "\"The issues are very clear,\" former Illinois Governor Rod Blagojevich said to reporters Monday. \"It's about right to vote and it's about due process.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/ex-illinois-governor-who-trump-freed-jail-files-lawsuit-run-office-again-1615491",
+      "originalUrl": "https://www.newsweek.com/ex-illinois-governor-who-trump-freed-jail-files-lawsuit-run-office-again-1615491",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 197,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1860656/rod-blagojevich.jpg",
+          "width": 3000,
+          "height": 2001,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/ex-illinois-governor-who-trump-freed-jail-files-lawsuit-run-office-again-1615491?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/ex-illinois-governor-who-trump-freed-jail-files-lawsuit-run-office-again-1615491?amp=1",
+      "publishedDateTime": "2021-08-02T15:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-08-02-biden-nominee-for-us-anti-semitism-envoy-blasted-ilhan-omar-comment-as-textbook-example.md",
+      "title": "Biden nominee for US anti-Semitism envoy blasted Ilhan Omar comment as 'textbook' example",
+      "excerpt": "President Biden’s nominee to serve as U.S. Special Envoy to Monitor and Combat Anti-Semitism once blasted Rep. Ilhan Omar’s controversial statements criticizing Israel.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WGgJGSIwUjI/bidens-nominee-for-u-s-anti-semitism-envoy-blasted-ilhan-omars-anti-israel-comments",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WGgJGSIwUjI/bidens-nominee-for-u-s-anti-semitism-envoy-blasted-ilhan-omars-anti-israel-comments",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 166,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b6692f51-10a4-4b60-8193-3361ffff93fb/407bb340-cf36-49ee-b791-25b1989e3e34/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/bidens-nominee-for-u-s-anti-semitism-envoy-blasted-ilhan-omars-anti-israel-comments.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-nominee-for-u-s-anti-semitism-envoy-blasted-ilhan-omars-anti-israel-comments.amp",
+      "publishedDateTime": "2021-08-02T14:23:41-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-08-03-meghan-mccain-i-skipped-mary-trump-interview-because-shes-too-irrelevant-for-my-time.md",
       "title": "Meghan McCain: I skipped Mary Trump interview because she's 'too irrelevant for my time'",
       "excerpt": "Soon-to-be-former “The View” co-host Meghan McCain skipped an interview with guest Mary Trump on Monday's program, saying the former president's niece wasn't worth her time.",
@@ -1177,75 +1285,23 @@
       ]
     },
     {
-      "path": "_news/2021-07-31-texas-gov-greg-abbott-accuses-biden-of-creating-constitutional-crisis-after-doj-lawsuit.md",
-      "title": "Texas Gov. Greg Abbott Accuses Biden of Creating 'Constitutional Crisis' After DOJ Lawsuit",
-      "excerpt": "\"This stems from the Biden Administration's refusal to enforce immigration laws and allow illegal immigrants with COVID-19 to enter our country,\" Abbott said Friday.",
+      "path": "_news/2021-07-31-kamala-harris-to-travel-to-vietnam-singapore-next-month-amid-china-tensions-us-border-crisis.md",
+      "title": "Kamala Harris to travel to Vietnam, Singapore next month amid China tensions, US border crisis",
+      "excerpt": "Vice President Kamala Harris has another big trip ahead – but it won't be a return visit to the U.S.-Mexico border.",
       "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/texas-gov-greg-abbott-accuses-biden-creating-constitutional-crisis-after-doj-lawsuit-1614875",
-      "originalUrl": "https://www.newsweek.com/texas-gov-greg-abbott-accuses-biden-creating-constitutional-crisis-after-doj-lawsuit-1614875",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1859135/greg-abbott-joe-biden-covid-19-immigration-constitution.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/texas-gov-greg-abbott-accuses-biden-creating-constitutional-crisis-after-doj-lawsuit-1614875?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/texas-gov-greg-abbott-accuses-biden-creating-constitutional-crisis-after-doj-lawsuit-1614875?amp=1",
-      "publishedDateTime": "2021-07-30T18:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-07-31-biden-says-americans-should-expect-more-covid-restrictions.md",
-      "title": "Biden says Americans should expect more COVID restrictions",
-      "excerpt": "President Biden warned Friday that increased COVID-related restrictions could again become a possibility as the U.S. sees spiking coronavirus cases nationwide.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zDpxbYydvl0/biden-expect-more-coronavirus-restrictions",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zDpxbYydvl0/biden-expect-more-coronavirus-restrictions",
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/rZ4nafHqb1s/kamala-harris-vietnam-singapore-china-tensions-border-migrant-crisis",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/rZ4nafHqb1s/kamala-harris-vietnam-singapore-china-tensions-border-migrant-crisis",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 555,
+      "heat": 213,
       "tags": null,
       "images": [
         {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/08eaf3c1-0bc0-4ab7-b748-5b27bb6cb6f8/dc1cea00-c153-4975-837b-757c68b29702/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1598a130-2526-4c35-96e5-9a43f8e5205e/ac2e8573-7c88-43b6-98fc-9fd51511f45b/1280x720/match/720/405/image.jpg?ve=1&tl=1",
           "width": 720,
           "height": 405,
           "title": null,
@@ -1255,9 +1311,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-expect-more-coronavirus-restrictions.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-expect-more-coronavirus-restrictions.amp",
-      "publishedDateTime": "2021-07-30T17:41:13-07:00",
+      "ampWebUrl": "https://www.foxnews.com/politics/kamala-harris-vietnam-singapore-china-tensions-border-migrant-crisis.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-vietnam-singapore-china-tensions-border-migrant-crisis.amp",
+      "publishedDateTime": "2021-07-30T22:14:41-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -1281,64 +1337,8 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-31-delta-trump-haiti-your-friday-evening-briefing.md",
-      "title": "Delta, Trump, Haiti: Your Friday Evening Briefing",
-      "excerpt": "The rare Friday session comes as Senate Democrats race to pass the bipartisan bill before leaving for the August recess. The emerging deal will provide $550 billion in new funding,but it still faces a bumpy road.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/07/30/briefing/delta-trump-haiti.html",
-      "originalUrl": "https://www.nytimes.com/2021/07/30/briefing/delta-trump-haiti.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/07/30/multimedia/30PMBriefing-virus-vaccines-promo/merlin_192102756_b1244776-fd01-4502-9da6-419fbdd217b0-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/07/30/briefing/delta-trump-haiti.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/30/briefing/delta-trump-haiti.amp.html",
-      "publishedDateTime": "2021-07-30T14:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
+        "Republican Voice",
+        "Kamala Harris"
       ]
     }
   ],

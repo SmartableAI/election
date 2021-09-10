@@ -308,22 +308,6 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "California GOP lawmakers call on Biden admin to address aviation fuel shortage to prevent wildfire disaster"
-    excerpt: "Letter to Interior Secretary Deb Haaland and Agriculture Secretary Tom Vilsack calls on them to address a “potential fuel shortage” for airplanes tasked with fighting fires."
-    publishedDateTime: 2021-07-20T20:53:35Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/CbwKjwNIoq0/california-lawmakers-biden-fuel-shortage-wildfire"
-    ampWebUrl: "https://www.foxnews.com/politics/california-lawmakers-biden-fuel-shortage-wildfire.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/california-lawmakers-biden-fuel-shortage-wildfire.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 157
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7036c65d-5b29-40c2-a67b-439d0399fb6e/4ab15bfe-320e-47e0-9ff2-b52ad15f1220/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
   - title: "24 House Republicans urge Biden to reject Dems' amnesty push in $3.5 trillion budget bill"
     excerpt: "Two dozen House Republicans on Wednesday wrote to President Biden urging him to reject a move by Democratic lawmakers to include amnesty for some illegal immigrants in their budget reconciliation proposal, warning that Biden’s support would betray his prior promises to promote unity."
     publishedDateTime: 2021-07-21T15:00:36Z

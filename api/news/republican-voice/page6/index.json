@@ -2,23 +2,23 @@
   "page": 6,
   "value": [
     {
-      "path": "_news/2021-07-31-iowa-republican-governor-rejects-bidens-100-vaccine-incentives.md",
-      "title": "Iowa Republican governor rejects Biden's $100 vaccine incentives",
-      "excerpt": "Republican Iowa Gov. Kim Reynolds rejected President Biden’s request that state and local governments use federal funds to encourage people to get the coronavirus vaccine.",
+      "path": "_news/2021-07-31-kamala-harris-to-travel-to-vietnam-singapore-next-month-amid-china-tensions-us-border-crisis.md",
+      "title": "Kamala Harris to travel to Vietnam, Singapore next month amid China tensions, US border crisis",
+      "excerpt": "Vice President Kamala Harris has another big trip ahead – but it won't be a return visit to the U.S.-Mexico border.",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nJdybRnfGcs/iowa-governor-kim-reynolds-biden-vaccine-incentive",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nJdybRnfGcs/iowa-governor-kim-reynolds-biden-vaccine-incentive",
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/rZ4nafHqb1s/kamala-harris-vietnam-singapore-china-tensions-border-migrant-crisis",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/rZ4nafHqb1s/kamala-harris-vietnam-singapore-china-tensions-border-migrant-crisis",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 315,
+      "heat": 213,
       "tags": null,
       "images": [
         {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c8cf00b1-363b-4e1d-b72f-e05113a4bc22/f680b6fb-5223-413f-842b-bb89a04d720c/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1598a130-2526-4c35-96e5-9a43f8e5205e/ac2e8573-7c88-43b6-98fc-9fd51511f45b/1280x720/match/720/405/image.jpg?ve=1&tl=1",
           "width": 720,
           "height": 405,
           "title": null,
@@ -28,9 +28,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/iowa-governor-kim-reynolds-biden-vaccine-incentive.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/iowa-governor-kim-reynolds-biden-vaccine-incentive.amp",
-      "publishedDateTime": "2021-07-31T07:22:44-07:00",
+      "ampWebUrl": "https://www.foxnews.com/politics/kamala-harris-vietnam-singapore-china-tensions-border-migrant-crisis.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-vietnam-singapore-china-tensions-border-migrant-crisis.amp",
+      "publishedDateTime": "2021-07-30T22:14:41-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -54,7 +54,8 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
+        "Republican Voice",
+        "Kamala Harris"
       ]
     },
     {
@@ -382,54 +383,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-30-dems-worried-about-kamala-harris-approval-more-harm-than-good.md",
-      "title": "Dems worried about Kamala Harris approval: ‘More harm than good’",
-      "excerpt": "As Vice President Kamala Harris’ poll numbers remain underwater, some Democrats are worried that she could become a drag on their efforts to maintain control of congress in the 2022 midterm",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/07/29/democrats-worried-about-kamala-harris-approval-numbers/",
-      "originalUrl": "https://nypost.com/2021/07/29/democrats-worried-about-kamala-harris-approval-numbers/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/07/kamala-harris-ratings-04.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/07/29/democrats-worried-about-kamala-harris-approval-numbers/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/29/democrats-worried-about-kamala-harris-approval-numbers/amp/",
-      "publishedDateTime": "2021-07-29T12:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris",
         "Republican Voice"
       ]
     },
@@ -1603,6 +1556,62 @@
       "ampWebUrl": "https://www.foxnews.com/politics/trump-slams-critical-race-theory-as-flagrant-racism.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-slams-critical-race-theory-as-flagrant-racism.amp",
       "publishedDateTime": "2021-07-25T07:12:33-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-24-senate-gop-report-finds-biden-administration-spending-2b-to-suspend-border-wall-construction.md",
+      "title": "Senate GOP report finds Biden administration spending $2B to suspend border wall construction",
+      "excerpt": "A new report by Republicans on a Senate subcommittee has concluded that the Biden administration is spending a minimum of approximately $2 billion to suspend construction of the wall at the southern border, even amid a continuing migrant crisis.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xy786WosRJI/senate-gop-report-biden-administration-2b-suspend-wall-construction",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xy786WosRJI/senate-gop-report-biden-administration-2b-suspend-wall-construction",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 224,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/be4ab425-a0b5-4bb2-b937-8add142c15a2/ea903716-737c-4736-a554-1adbb05e6bce/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/senate-gop-report-biden-administration-2b-suspend-wall-construction.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/senate-gop-report-biden-administration-2b-suspend-wall-construction.amp",
+      "publishedDateTime": "2021-07-24T08:45:29-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

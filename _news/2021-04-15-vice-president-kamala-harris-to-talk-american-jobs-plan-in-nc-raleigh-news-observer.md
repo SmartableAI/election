@@ -344,6 +344,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "Vice President Kamala Harris at U.S.-Mexico High Level Economic Dialogue"
+    excerpt: "US Ambassador to Mexico, Ken Salazar, looks on as Vice President Kamala Harris delivers opening remarks at the U.S.-Mexico High Level Economic Dialogue (HLED) in the Indian Treaty Room of the Eisenhower Executive Office Building in Washington,"
+    publishedDateTime: 2021-09-09T21:31:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/01914a497c118f95fe0a22189cd6cb8c/Vice-President-Kamala-Harris-at-US-Mexico-High-Level-Economic-Dialogue/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 54
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/01914a497c118f95fe0a22189cd6cb8c/mexico-usa.jpg"
+        width: 650
+        height: 433
+        isCached: true
   - title: "After Kamala Harris’ visit sparks ‘bakery vs. border’ debate, Chicago's Brown Sugar Bakery gets caught in the crossfire"
     excerpt: "In the days following Vice President Kamala Harris’ visit to Brown Sugar Bakery in Chicago, Harris has been criticized for her stop while in the city — and the South Side bakery has been caught in the crossfire. Harris’ visit to the bakery Tuesday ..."
     publishedDateTime: 2021-04-09T20:49:00Z

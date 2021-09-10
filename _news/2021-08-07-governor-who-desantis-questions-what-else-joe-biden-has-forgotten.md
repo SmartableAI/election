@@ -201,6 +201,20 @@ related:
         width: 1000
         height: 667
         isCached: true
+  - title: "Ron DeSantis surprised monoclonal antibodies aren’t part of Joe Biden’s COVID-19 plan — they are"
+    excerpt: "Ron DeSantis suggested President Joe Biden should have included monoclonal antibody treatment in his six-point plan to combat COVID-19 the White House unveiled Thursday. There’s just one problem with DeSantis’ critique though — the plan’s improved care section is largely dedicated to the therapy."
+    publishedDateTime: 2021-09-09T23:46:00Z
+    webUrl: "https://floridapolitics.com/archives/456389-ron-desantis-surprised-monoclonal-antibodies-arent-part-of-joe-bidens-covid-19-plan-they-are/"
+    type: article
+    provider:
+      name: Florida Politics
+      domain: floridapolitics.com
+    quality: 42
+    images:
+      - url: "https://floridapolitics.com/wp-content/uploads/2021/07/1000-54.jpeg"
+        width: 1000
+        height: 667
+        isCached: true
 
 secured: "7z90mSDqKVpAdoUIlIuSmkPOZ1svU/iJ4kAWtZenhJc1d84Ad5oZms7mpKpq7WDM/0EJq+djZGFiUkdK3G+4mKpW5G7jZqH6f1BeE7t2+MHYFj/4ohhNYkYodrkv+7ldXIHnLsi+kgnaS76l8bkgYj4aOkPGDwONM3WNU8pkgbwQY09XP4XnmkLHJ1dijMwhEQrsXGa0+y7KSU+uxkyt2KomF3CL2WljokEkGxuiWQjIAcjkiZiQ8MP0g9hjg1Rgz6MLHNwbfBVMu9AFMNr9nzIDRpg2Vtg1AH3N4qE8Y4n2e+Bm7Xt7K0WhAYxJRzjiJOUOJHlKo9QXEQC8n/Cp6jP73aaCrdkUckb5Yh6Xs6A=;4yCk7xf5tDrZ2vtVPtDGow=="
 ---

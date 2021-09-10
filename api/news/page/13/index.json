@@ -2,6 +2,175 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-08-11-msnbc-opinion-piece-argues-why-ron-desantis-is-more-dangerous-than-trump-ahead-of-2024.md",
+      "title": "MSNBC opinion piece argues 'Why Ron DeSantis is more dangerous than Trump' ahead of 2024",
+      "excerpt": "Conservative pundits have long predicted ahead of 2024 that members of the media would insist that Republican Florida Gov. Ron DeSantis would be a “worse” president than President Trump. Well, one MSNBC opinion piece is way ahead of schedule.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/msnbc-why-ron-desantis-is-more-dangerous-than-trump",
+      "originalUrl": "https://www.foxnews.com/media/msnbc-why-ron-desantis-is-more-dangerous-than-trump",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/66326c66-e604-4c69-8e1c-60288fe28032/004b93fc-2b6c-48e2-b00d-9265d18ce4a5/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/msnbc-why-ron-desantis-is-more-dangerous-than-trump.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/msnbc-why-ron-desantis-is-more-dangerous-than-trump.amp",
+      "publishedDateTime": "2021-08-10T15:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-08-10-biden-on-cuomos-resignation-i-respect-the-governors-decision.md",
+      "title": "Biden on Cuomo's resignation: 'I respect the governor's decision'",
+      "excerpt": "President Joe Biden said Tuesday that he respects New York Gov. Andrew Cuomo's decision to resign after the President called on Cuomo to step down last week following an official report that said Cuomo sexually harassed multiple women.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UVnFhrELno0/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UVnFhrELno0/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210810151248-04-biden-harris-remarks-0810-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/08/10/politics/joe-biden-andrew-cuomo-resignation/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/10/politics/joe-biden-andrew-cuomo-resignation/index.html",
+      "publishedDateTime": "2021-08-10T14:16:38-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-08-10-biden-white-house-recruits-tiktok-influencer-benny-drama-for-eyebrow-raising-vaccine-video.md",
+      "title": "Biden White House recruits TikTok influencer Benny Drama for eyebrow-raising vaccine video",
+      "excerpt": "The White House recruited social media comedian Benny Drama for another digital push to convince the COVID-19 vaccine-hesitant population to get the jab.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/jurz3HjcM4I/biden-white-house-tiktok-benny-drama-vaccine-video",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/jurz3HjcM4I/biden-white-house-tiktok-benny-drama-vaccine-video",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/32ee1110-08cb-4a02-b803-a9d7d5c3abbf/593b03d6-d9fc-4145-9e25-2fa66d994d69/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-white-house-tiktok-benny-drama-vaccine-video.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-white-house-tiktok-benny-drama-vaccine-video.amp",
+      "publishedDateTime": "2021-08-10T13:40:48-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-08-11-times-up-co-founder-robbie-kaplan-sued-donald-trump-and-nazis-but-shes-also-helped-at-least-3-targets-of-sex-misconduct-claims.md",
       "title": "Time's Up co-founder Robbie Kaplan sued Donald Trump and Nazis. But she's also helped at least 3 targets of sex misconduct claims.",
       "excerpt": "Robbie Kaplan is well-known for her progressive legal work. But her work for clients accused of sexual misconduct cover-ups has reared its head.",
@@ -1088,174 +1257,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-07-interviews-with-former-justice-department-officials-provide-new-details-on-trump-efforts-to-undermine-election-results.md",
-      "title": "Interviews with former Justice Department officials provide new details on Trump efforts to undermine election results ",
-      "excerpt": "Two top former Justice Department officials provided interviews to the Senate Judiciary Committee and provided detailed accounts of a tumultuous period in late December and early January during which a senior Justice Department lawyer sought to deploy the department's resources in support of false voting",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/II2thVfyS1U/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/II2thVfyS1U/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 166,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210805190917-jeffrey-clark-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/08/07/politics/jeffrey-clark-richard-donoghue-jeffrey-rosen-justice-department-trump-election-results/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/07/politics/jeffrey-clark-richard-donoghue-jeffrey-rosen-justice-department-trump-election-results/index.html",
-      "publishedDateTime": "2021-08-07T16:45:35-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-07-bidens-to-meet-virtually-with-team-usa-athletes.md",
-      "title": "Bidens to meet virtually with Team USA athletes",
-      "excerpt": "President Joe Biden and first lady Jill Biden will meet with members of the 2020 US Olympic Team Saturday in a livestreamed virtual reception.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sdRHwfloIXI/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sdRHwfloIXI/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 215,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210705211845-america-divided-fourth-of-july-2021-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/08/07/politics/joe-biden-jill-biden-team-usa-olympics/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/07/politics/joe-biden-jill-biden-team-usa-olympics/index.html",
-      "publishedDateTime": "2021-08-07T12:46:29-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-07-fact-checking-claim-biden-administration-is-pushing-vaccine-passport.md",
-      "title": "Fact-checking claim Biden administration is pushing vaccine passport",
-      "excerpt": "Amid confusion over mask mandates, booster shots, and new guidance for those vaccinated, some Republicans have thrown fuel on the fire with false and misleading claims.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/LYv1KLMn5Zo/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/LYv1KLMn5Zo/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 495,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210726095519-france-covid-pass-law-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/08/07/politics/biden-vaccine-passport-fact-check/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/07/politics/biden-vaccine-passport-fact-check/index.html",
-      "publishedDateTime": "2021-08-07T09:30:17-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

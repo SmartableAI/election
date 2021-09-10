@@ -44,6 +44,17 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Beneficiary of Kamala Harris-endorsed bail fund charged with murder"
+    excerpt: "V ice President Kamala Harris may have some of the worst political instincts of anyone in Washington, D.C. The beneficiary of a bail fund Harris personally endorsed has been charged with murder. George Howard,"
+    publishedDateTime: 2021-09-08T20:41:00Z
+    webUrl: "https://www.washingtonexaminer.com/opinion/beneficiary-of-kamala-harris-endorsed-bail-fund-charged-with-murder"
+    ampWebUrl: "https://www.washingtonexaminer.com/opinion/beneficiary-of-kamala-harris-endorsed-bail-fund-charged-with-murder?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/opinion/beneficiary-of-kamala-harris-endorsed-bail-fund-charged-with-murder?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 65
 
 secured: "+Tt7afA90W3gCYQmGwZN76nAxnTi5oNC4EybTg3RG+xyt3nBK74XRX1+N8otqRbiL4d2DZJP3OpYq7lawMyIfu3wjzvnFTnZ4uFJdbOB/S5C5mTTS4EQv04lJHvbHNkNIDUP9J4lf6LbHd7VuSgYV4w42NzAeBt7d5fvrVAr7KmDERSEqEDrF4qVcUCzDYejr0PwzF3xOr41S6anjveiUza5SULMOt3taUrqiD/wv0IjB6PiJljcgn5bSQOK1UUDeT6eo7+R6S1hKr8ReL0nlYwI6xq7MHaU96BwZofstz4pxUDRFI5Y4kK+oc87qYYaH3UgOvPAHWQTl/1vjtmRdYktBTWDq3GyWvZfH7/TXk4/gwqGaZLPm49zlJP/fN3ZzGPj4rHUy11qpKWt/m6iQsNhYB4yfyPcpYJyMMKBQaHnjSVuWWQu43eoD8XiZ3nE9WBVMxns3bAOtWQFpMqspdCw2cfdZ0DwORthULiQR/IVC/ORlxi0fqNd3m6neNUT6hPGamY1Yoj4bn7ulNqVBA==;uuCTLuYQnJKoiKmXgeDbCg=="
 ---

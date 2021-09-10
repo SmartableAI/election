@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2021/09/03/trump-should-not-lead-gop-ticket
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/09/03/trump-should-not-lead-gop-ticket-in-2024-retiring-sen-pat-toomey-says.html"
 type: article
 quality: 125
-heat: 465
+heat: 485
 published: true
 
 provider:
@@ -122,6 +122,17 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Liz Cheney Responds to Donald Trump's Endorsement of Her GOP Challenger: 'Bring It'"
+    excerpt: "Cheney has earned the ire of Trump and other colleagues for pushing back on false claims that the 2020 presidential election was stolen."
+    publishedDateTime: 2021-09-09T17:39:00Z
+    webUrl: "https://www.newsweek.com/liz-cheney-responds-donald-trumps-endorsement-her-gop-challenger-bring-it-1627585"
+    ampWebUrl: "https://www.newsweek.com/liz-cheney-responds-donald-trumps-endorsement-her-gop-challenger-bring-it-1627585?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/liz-cheney-responds-donald-trumps-endorsement-her-gop-challenger-bring-it-1627585?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 99
   - title: "US Sen. Mike Rounds isn't convinced Donald Trump would win GOP nomination in 2024 election"
     excerpt: "South Dakota U.S. Sen. Mike Rounds, in discussion with Sioux Falls Rotarians, speculated what might lie ahead for the Republican Party for 2024."
     publishedDateTime: 2021-08-30T19:39:00Z

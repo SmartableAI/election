@@ -37,6 +37,22 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Biden’s ‘America last’ agenda"
+    excerpt: "Twenty years after 9/11, a plague from China rampages across our homeland. To date, COVID-19 has killed over 230 times more Americans than did those terrorist attacks."
+    publishedDateTime: 2021-09-09T21:56:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/sep/9/bidens-america-last-agenda/"
+    ampWebUrl: "https://amp.washingtontimes.com/news/2021/sep/9/bidens-america-last-agenda/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/sep/9/bidens-america-last-agenda/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 75
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2021/09/08/Congress_Biden_Agenda_88765.jpg-deb7d_c0-469-6000-3969_s1200x700.jpg?077a4d12eee34b9fb188e6dd074bd433a74c3820"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "Biden to lay out plans for vaccine push; Mindy hits Florida as tropical storm; Jeter joins Hall of Fame"
     excerpt: "President Biden to urge vaccine mandates in virus speech today; Mindy hits Florida, moves north; Derek Jeter, other greats inducted into Hall of Fame. Get caught up."
     publishedDateTime: 2021-09-09T11:30:00Z

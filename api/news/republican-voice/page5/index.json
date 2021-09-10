@@ -14,7 +14,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 335,
+      "heat": 375,
       "tags": null,
       "images": [
         {
@@ -736,7 +736,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 195,
+      "heat": 215,
       "tags": null,
       "images": [
         {
@@ -792,7 +792,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 187,
+      "heat": 207,
       "tags": null,
       "images": [
         {
@@ -888,63 +888,6 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-04-border-patrol-union-official-says-situation-still-horrific-no-progress-since-kamala-harris-visit.md",
-      "title": "Border Patrol union official says situation still 'horrific': ‘No progress’ since Kamala Harris visit",
-      "excerpt": "National Border Patrol Council VP Art Del Cueto told “America’s Newsroom” Tuesday that the migrant surge is “horrific” and there’s been zero progress since Vice President Kamala Harris last visited the southern border.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/border-patrol-del-cueto-migrant-surge-kamala-harris",
-      "originalUrl": "https://www.foxnews.com/media/border-patrol-del-cueto-migrant-surge-kamala-harris",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/098c09e1-5b32-40b2-aca6-8fa85de4aa8e/d16ba95d-5167-4d6c-8cee-5c758971c911/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/border-patrol-del-cueto-migrant-surge-kamala-harris.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/border-patrol-del-cueto-migrant-surge-kamala-harris.amp",
-      "publishedDateTime": "2021-08-03T10:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris",
         "Republican Voice"
       ]
     },
@@ -1639,6 +1582,62 @@
       "ampWebUrl": "https://www.foxnews.com/politics/trumps-fundraising-prowess-82-million-haul-during-first-half-of-2021.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trumps-fundraising-prowess-82-million-haul-during-first-half-of-2021.amp",
       "publishedDateTime": "2021-08-01T07:29:54-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-31-iowa-republican-governor-rejects-bidens-100-vaccine-incentives.md",
+      "title": "Iowa Republican governor rejects Biden's $100 vaccine incentives",
+      "excerpt": "Republican Iowa Gov. Kim Reynolds rejected President Biden’s request that state and local governments use federal funds to encourage people to get the coronavirus vaccine.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nJdybRnfGcs/iowa-governor-kim-reynolds-biden-vaccine-incentive",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nJdybRnfGcs/iowa-governor-kim-reynolds-biden-vaccine-incentive",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 315,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c8cf00b1-363b-4e1d-b72f-e05113a4bc22/f680b6fb-5223-413f-842b-bb89a04d720c/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/iowa-governor-kim-reynolds-biden-vaccine-incentive.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/iowa-governor-kim-reynolds-biden-vaccine-incentive.amp",
+      "publishedDateTime": "2021-07-31T07:22:44-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

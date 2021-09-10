@@ -63,6 +63,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden departs for vacation as multiple crises escalate"
+    excerpt: "Biden departed the White House for a vacation in Wilmington as multiple crises escalated Thursday"
+    publishedDateTime: 2021-08-12T21:56:54Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dPjuYw6QT58/biden-departs-for-vacation-as-multiple-crises-escalate"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-departs-for-vacation-as-multiple-crises-escalate.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-departs-for-vacation-as-multiple-crises-escalate.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c505be5b-7fe5-4a10-b256-fbc6b1e6a2f1/272c5604-5105-47e9-88ac-0be2cd6b1b4d/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Biden-linked lobbyists see sharp increase in cash streams"
     excerpt: "Several lobbying firms with connections to President Biden are experiencing a sharp increase in cash as the influence industry has pivoted to access the White House."
     publishedDateTime: 2021-08-12T15:23:32Z
@@ -158,6 +174,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/08/720/405/AP21216625636317-e1628113969608.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "President Biden urges voters to vote ‘no’ in Newsom’s recall vote"
+    excerpt: "President Joe Biden made a statement on Thursday supporting California Governor Gavin Newsom and urging voters to vote “no” in the recall election."
+    publishedDateTime: 2021-08-13T02:00:00Z
+    webUrl: "https://nypost.com/2021/08/12/president-biden-urges-voters-to-vote-no-in-newsoms-recall-vote/"
+    ampWebUrl: "https://nypost.com/2021/08/12/president-biden-urges-voters-to-vote-no-in-newsoms-recall-vote/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/12/president-biden-urges-voters-to-vote-no-in-newsoms-recall-vote/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/biden-newsom-recall-600.jpg?quality=90&strip=all&w=1024"
+        width: 1024
+        height: 682
         isCached: true
 
 secured: "N1W7Y9iMqre3ZRjiW0rz3LJFO/acQqU4jOB/krkCcHbcZWRKyWSG6F3NOIbcdzYQGTG23bKGjU0mSo5S+kD1WHXrgRIO5IfLEC3QCLQCp+BwN4eiUm8qaZGG3gCVAcZATlTWTwZE8bW0JZRxwVi3mWZzJbnL16AyYm5rmcaUFpQmdUY7B6RtBbwJYlrk1iUZ8RoUkgrIdFTQ35T6Z6IokoLZxvzEvWsI8LAJWeM95O6/WStshr03tgDDgC6fIN6r2G4eGFv3L8pekwPCMyrUkFA5XNYsKY9MbJMRhl/h6xJJDQgj4wwZXbc1IE/dQl03/42cxzjvCpoZJu7CPhZDA6opiMKZGItskzgt7nRmrUg=;ogNysosfARir03TjtCmMBg=="

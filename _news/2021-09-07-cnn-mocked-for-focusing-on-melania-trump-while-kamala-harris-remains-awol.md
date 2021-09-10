@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Vice President Kamala Harris Meeting on Reproductive Rights"
+    excerpt: "Vice President Kamala Harris makes opening remarks about the impact of Texas Senate Bill 8 and other restrictions on reproductive care during a meeting with abortion and reproductive health providers and patients from Texas,"
+    publishedDateTime: 2021-09-09T21:55:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/7f688401c5db1e73cddd60906d2880b1/Vice-President-Kamala-Harris-Meeting-on-Reproductive-Rights/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/7f688401c5db1e73cddd60906d2880b1/HARRIS-TEXAS.jpg"
+        width: 650
+        height: 433
+        isCached: true
 
 secured: "Qro4x3nCSf7PqQk5hDIXn/9udzS3SY64XuraR+losISD728tqTUdfhlPi1M2XNlnt3aLs9HAOci+6LZJlCYPDICwKj/AhH4hw9/KgMPdjp3gE8FiXkQOsWG2+t/uKW+IN+5ZBzl9x2OZmw0xMMl106D8CnjJl04GqwJ2bi17SYn8m/H9e0KINFn0cwGDcAduvOhhwMGnrG+T0/XL2+cCet/BsDjJ9R9N3hkGI3+9p43IIS3K7Fw3U3GA+3dbk7shp3IA4eoibTwtfgvWa/9nsdNPvRTAbVdtoeHMusp0x0xYeaWQReXnfq+v+9bInijtaHzjD78TTE747XcTejtrkolPd6Fu4FvUKzaomfxAcXKSLCgqHgkI93U8hZoNPkInkZZt0rLYS7UG9eGSoa+5YTuQu1YHLpn31ZCVcMsfBzcXOKWuIjVLba2QVVTZozi1MbGvM1ZfCuCrEjeTFs8nl8zNKsbQQFQd6kvBs0yPly6qv8l1eTcF38+zK+XSb/k27VT0gJYIDN0q1bl0+um0Eg==;Obv/EIIlgVzhiQEOM0TCWw=="
 ---

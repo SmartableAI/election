@@ -2,6 +2,110 @@
   "page": 80,
   "value": [
     {
+      "path": "_news/2021-03-31-bloomberg-former-rnc-chair-steele-back-biden-pick-for-civil-rights-division.md",
+      "title": "Bloomberg, former RNC chair Steele back Biden pick for civil rights division",
+      "excerpt": "President Biden Joe Biden The Hill's Morning Report - Biden officials brace for worst despite vaccine data Congress looks to rein in Biden's war powers Democrats seize on voting rights ...",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/administration/545611-bloomberg-former-rnc-chair-steele-back-biden-pick-for-civil-rights",
+      "originalUrl": "https://thehill.com/homenews/administration/545611-bloomberg-former-rnc-chair-steele-back-biden-pick-for-civil-rights",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/steelemichael_33021_gettyimages.jpg",
+          "width": 827,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/administration/545611-bloomberg-former-rnc-chair-steele-back-biden-pick-for-civil-rights?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/545611-bloomberg-former-rnc-chair-steele-back-biden-pick-for-civil-rights?amp",
+      "publishedDateTime": "2021-03-30T12:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-03-31-schaumburg-businessman-gary-rabine-supporter-of-trump-and-conservative-causes-launches-bid-for-gop-nomination-for-governor.md",
+      "title": "Schaumburg businessman Gary Rabine, supporter of Trump and conservative causes, launches bid for GOP nomination for governor",
+      "excerpt": "Northwest suburban businessman Gary Rabine, an ardent supporter of Donald Trump who turned his family’s driveway paving business into a multimillion-dollar business services group, on Tuesday announced his bid for the Republican nomination for governor.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chicagotribune.com/politics/ct-gary-rabine-illinois-governor-20210330-j3jbt7igyzcxthf5vb2cvkftne-story.html",
+      "originalUrl": "https://www.chicagotribune.com/politics/ct-gary-rabine-illinois-governor-20210330-j3jbt7igyzcxthf5vb2cvkftne-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chicagotribune.com/resizer/4v9-IzGkB5Y-p7ocfeJGUF0QR1w=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/ZEQ2XBXQLNA3VD63AWEE663BWY.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.chicagotribune.com/politics/ct-gary-rabine-illinois-governor-20210330-j3jbt7igyzcxthf5vb2cvkftne-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/politics/ct-gary-rabine-illinois-governor-20210330-j3jbt7igyzcxthf5vb2cvkftne-story.html?outputType=amp",
+      "publishedDateTime": "2021-03-30T12:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Tribune",
+        "domain": "chicagotribune.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-03-31-court-lets-ex-apprentice-contestants-defamation-suit-vs-trump-proceed-again.md",
       "title": "Court lets ex-'Apprentice' contestant's defamation suit vs. Trump proceed again",
       "excerpt": "NEW YORK — Former President Donald Trump could face questioning under oath about a former “Apprentice” contestant's sexual assault allegations against him, following a ruling from New York's highest court Tuesday. Evidence-gathering has been on hold ...",

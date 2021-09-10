@@ -2,6 +2,62 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-08-16-trump-ally-in-georgia-running-for-lieutenant-governor-vows-to-expose-all-voter-fraud.md",
+      "title": "Trump ally in Georgia running for lieutenant governor vows to 'expose all voter fraud'",
+      "excerpt": "A state senator in Georgia who’s a strong supporter of former President Trump is vowing to \"investigate and expose all voter fraud\" as he runs next year for lieutenant governor.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Z1KXyAFdmwc/trump-ally-georgia-lieutenant-governor-voter-fraud",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Z1KXyAFdmwc/trump-ally-georgia-lieutenant-governor-voter-fraud",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 187,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-ally-georgia-lieutenant-governor-voter-fraud.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-ally-georgia-lieutenant-governor-voter-fraud.amp",
+      "publishedDateTime": "2021-08-16T04:02:55-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-08-16-president-biden-vp-harris-avoid-the-cameras-as-kabul-falls-to-taliban.md",
       "title": "President Biden, VP Harris avoid the cameras as Kabul falls to Taliban",
       "excerpt": "President Joe Biden and Vice President Kamala Harris have avoided going on camera as Kabul, the capital city of Afghanistan, fell to the Taliban on Sunday.",
@@ -276,62 +332,6 @@
       ]
     },
     {
-      "path": "_news/2021-08-13-biden-backs-newsom-as-california-recall-election-looms-urges-residents-to-vote-no.md",
-      "title": "Biden backs Newsom as California recall election looms, urges residents to 'vote no'",
-      "excerpt": "President Joe Biden delivered his strongest endorsement to date for embattled Democratic Gov. Gavin Newsom on Thursday, urging Californians to reject an effort to recall the governor in an upcoming special election.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zNBK8tUn23w/biden-backs-newsom-california-recall-election",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zNBK8tUn23w/biden-backs-newsom-california-recall-election",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 283,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0f18efe6-404a-4e2c-b361-15a6d9a9bc12/671f0271-fb6b-47cd-b5e6-d2efaf051978/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-backs-newsom-california-recall-election.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-backs-newsom-california-recall-election.amp",
-      "publishedDateTime": "2021-08-12T18:49:48-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-08-13-biden-adviser-anita-dunn-leaves-the-white-house.md",
       "title": "Biden adviser Anita Dunn leaves the White House",
       "excerpt": "Top Biden adviser Anita Dunn is leaving her position at the White House",
@@ -512,7 +512,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 133,
+      "heat": 153,
       "tags": null,
       "images": [
         {

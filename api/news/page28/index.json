@@ -2,6 +2,116 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2021-07-09-rupert-murdoch-approved-fox-news-calling-arizona-for-biden-book-claims.md",
+      "title": "Rupert Murdoch approved Fox News calling Arizona for Biden, book claims",
+      "excerpt": "Loss of state signalled Donald Trump’s 2020 election defeat but Murdoch reportedly said: ‘Fuck him’",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/media/2021/jul/09/rupert-murdoch-donald-trump-fox-news-arizona",
+      "originalUrl": "https://www.theguardian.com/media/2021/jul/09/rupert-murdoch-donald-trump-fox-news-arizona",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 335,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/ce605a7b8f34ae08a973d02474c80f693186c85c/0_0_3280_1968/master/3280.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f16e06960bae0821364feece0851061f",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/media/2021/jul/09/rupert-murdoch-donald-trump-fox-news-arizona",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/media/2021/jul/09/rupert-murdoch-donald-trump-fox-news-arizona",
+      "publishedDateTime": "2021-07-09T08:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-07-09-gov-kemp-blasts-kamala-harris-lies-about-georgia-voting-law-truth-is-on-our-side.md",
+      "title": "Gov. Kemp blasts Kamala Harris' lies about Georgia voting law: 'Truth is on our side'",
+      "excerpt": "Georgia Governor Brian Kemp defended his state's election laws after Vice President Kamala Harris announced a $25 million plan to combat Republican legislation on voting requirements.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/georgia-gov-kemp-kamala-harris-target-gop-voting-laws",
+      "originalUrl": "https://www.foxnews.com/media/georgia-gov-kemp-kamala-harris-target-gop-voting-laws",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 128,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/be18983e-102b-4a83-a0ab-6ce22e463732/428d02d3-ffd3-47d9-8a16-654ed62d1101/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/georgia-gov-kemp-kamala-harris-target-gop-voting-laws.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/georgia-gov-kemp-kamala-harris-target-gop-voting-laws.amp",
+      "publishedDateTime": "2021-07-09T07:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-09-jill-biden-travels-the-south-to-plead-with-hesitant-americans-to-get-their-covid-19-vaccines.md",
       "title": "Jill Biden travels the South to plead with hesitant Americans to get their Covid-19 vaccines",
       "excerpt": "First lady Jill Biden is back on the road, heading to parts of the country disenchanted, disaffected and -- perhaps -- disbelieving of the benefits of Covid-19 vaccines.\n    \n",
@@ -1192,105 +1302,6 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/07/politics/epa-air-quality-biden-environmental-justice/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/07/politics/epa-air-quality-biden-environmental-justice/index.html",
       "publishedDateTime": "2021-07-07T10:45:38-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-07-joe-biden-departs-to-chicago-washington.md",
-      "title": "Joe Biden departs to Chicago - Washington",
-      "excerpt": "U.S. President Joe Biden walks on the South Lawn f the White House in Washington as he returns from a day trip to Chicago on Wednesday, July 7, 2021. Biden is to deliver remarks on his Build Back Better agenda at McHenry County College in Crystal Lake,",
-      "sourceUrl": null,
-      "webUrl": "https://www.upi.com/News_Photos/view/upi/136f1b640383ef6c4bb6ba33d8e40e73/Joe-Biden-departs-to-Chicago-Washington/",
-      "originalUrl": "https://www.upi.com/News_Photos/view/upi/136f1b640383ef6c4bb6ba33d8e40e73/Joe-Biden-departs-to-Chicago-Washington/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdnph.upi.com/pv/upi/136f1b640383ef6c4bb6ba33d8e40e73/BIDEN-SOUTH-LAWN.jpg",
-          "width": 650,
-          "height": 433,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-07T09:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UPI.com",
-        "domain": "upi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-07-07-trump-says-hell-sue-facebook-google-and-twitter-its-a-familiar-threat.md",
-      "title": "Trump says he'll sue Facebook, Google and Twitter. It's a familiar threat",
-      "excerpt": "Former President Donald Trump on Wednesday filed class-action lawsuits targeting Facebook and its CEO Mark Zuckerberg and Twitter and its CEO Jack Dorsey in a Hail Mary move after being removed from their platforms. Trump also filed a class-action suit against YouTube, which names Sundar Pichai, the",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/CSmw0gLeL7I/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/CSmw0gLeL7I/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 234,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201116161713-01-dorsey-zuckerberg-split-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/07/tech/trump-zuckerberg-dorsey-lawsuit/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/07/tech/trump-zuckerberg-dorsey-lawsuit/index.html",
-      "publishedDateTime": "2021-07-07T08:44:44-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",

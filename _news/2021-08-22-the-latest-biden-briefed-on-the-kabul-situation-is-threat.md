@@ -190,6 +190,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "The Latest: Biden to announce sweeping new vaccine rules"
+    excerpt: "As COVID-19 patients fill Philippine hospitals to the brim, officials say the virus has hit an orphanage and infected almost 100 children."
+    publishedDateTime: 2021-09-09T18:15:00Z
+    webUrl: "https://www.sunherald.com/news/business/article254097623.html"
+    ampWebUrl: "https://amp.sunherald.com/news/business/article254097623.html"
+    cdnAmpWebUrl: "https://amp-sunherald-com.cdn.ampproject.org/c/s/amp.sunherald.com/news/business/article254097623.html"
+    type: article
+    provider:
+      name: Biloxi Sun Herald
+      domain: sunherald.com
+    quality: 75
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998031001/e5280ab3-2a9c-4028-8ae1-6788e12e2462/adbc20cf-7551-41d2-8a85-6a5f4bd8b900/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "The Latest: Biden says 11,000 flown from Kabul over weekend"
     excerpt: "President Joe Biden says 11,000 individuals were evacuated from Kabul over the weekend and he remains committed to assisting all Americans who want to leave Afghanistan get out."
     publishedDateTime: 2021-08-23T03:46:00Z

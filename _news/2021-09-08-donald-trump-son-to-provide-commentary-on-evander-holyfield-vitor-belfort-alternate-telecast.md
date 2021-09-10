@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Sports/donald-trump-son-provide-commentar
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Sports/donald-trump-son-provide-commentary-evander-holyfield-vitor/story?id=79884415"
 type: article
 quality: 114
-heat: 194
+heat: 214
 published: true
 
 provider:
@@ -88,6 +88,17 @@ related:
       name: Charlotte Observer
       domain: charlotteobserver.com
     quality: 53
+  - title: "Former President Donald Trump and son to call exhibition boxing match at Hard Rock Stadium"
+    excerpt: "After the world saw the boxing return of Mike Tyson in an exhibition match with Roy Jones Jr. last year, Tyson’s former rival and heavyweight champion Evander Holyfield, 58, is following suit at Miami’s Hard Rock Stadium on Saturday."
+    publishedDateTime: 2021-09-09T16:05:00Z
+    webUrl: "https://www.miamiherald.com/sports/article254101733.html"
+    ampWebUrl: "https://amp.miamiherald.com/sports/article254101733.html"
+    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/sports/article254101733.html"
+    type: article
+    provider:
+      name: Miami Herald
+      domain: miamiherald.com
+    quality: 45
 
 secured: "47Ek+NE7UCHQpQNrqb5ERwJaLn+1ngBNk4o+AoPEfbJGCoyVRs7SxlPeiWoTRygJgwRX4WMDfijndmZZD8DIaL5vexGOSU/LvIKoHEgrRhnfOLTKV0i9BPmToczgL2lG0JJ2STLOctqiOPP+2HTdi12ZA5IP6I/yhldOH8O6vpCSkKKSlw0IduoY1mODiPvzNAW6xegtPCvVmupwzgjsxnbqF4Ki6dP1O9/D7zS2exmXBTDwwUZqfMMwFivH8PFJjLfDSg29HIJBzhxmK9pJYUweUanScrbPaFtI4UtpC9Cn8S/6VJ6sDFiIJPmZvUN2CtmwFj2VplFtIEWGaYW1Ockz+N4EmF9S3I5SYA6d3v4=;BOduN4QM25YOfRtFVuD9SQ=="
 ---

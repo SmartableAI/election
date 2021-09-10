@@ -27,61 +27,47 @@ images:
     isCached: true
 
 related:
-  - title: "Joe Biden Promised to 'Defeat the Lies.' Then His Presidency Hit a Crisis"
-    excerpt: "President Joe Biden pointedly advocated truth-telling in his inaugural address, in a tacit rebuke of Donald Trump's loose relationship with facts. But a few months on, the crises posed by the U.S. withdrawal from Afghanistan have tested Biden's commitment to truth."
-    publishedDateTime: 2021-09-09T14:10:00Z
-    webUrl: "https://www.newsweek.com/joe-biden-defeat-lies-presidency-crisis-1627349"
-    ampWebUrl: "https://www.newsweek.com/joe-biden-defeat-lies-presidency-crisis-1627349?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-defeat-lies-presidency-crisis-1627349?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 124
-    images:
-      - url: "https://d.newsweek.com/en/full/1890536/biden-delivers-speech-state-dining-room.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "'Crisis Isn't Over': Progressives Push Biden to Revive Unemployment Benefits Amid Pandemic"
-    excerpt: "\"We're still in a pandemic, and the latest jobs numbers prove that. Doing our part to support Americans right now includes extending expanded\" unemployment insurance benefits, Representative Jamaal Bowman told Newsweek."
-    publishedDateTime: 2021-09-05T21:33:00Z
-    webUrl: "https://www.newsweek.com/crisis-isnt-over-progressives-push-biden-revive-unemployment-benefits-amid-pandemic-1626267"
-    ampWebUrl: "https://www.newsweek.com/crisis-isnt-over-progressives-push-biden-revive-unemployment-benefits-amid-pandemic-1626267?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/crisis-isnt-over-progressives-push-biden-revive-unemployment-benefits-amid-pandemic-1626267?amp=1"
+  - title: "Joe Biden Tells Federal Agencies to 'Insulate Women and Providers' From Texas Abortion Law"
+    excerpt: "The Supreme Court voted 5-4 in the middle of the night to deny an emergency appeal from abortion providers aimed at blocking the Texas law from taking effect."
+    publishedDateTime: 2021-09-02T17:17:00Z
+    webUrl: "https://www.newsweek.com/joe-biden-tells-federal-agencies-insulate-women-providers-texas-abortion-law-1625552"
+    ampWebUrl: "https://www.newsweek.com/joe-biden-tells-federal-agencies-insulate-women-providers-texas-abortion-law-1625552?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-tells-federal-agencies-insulate-women-providers-texas-abortion-law-1625552?amp=1"
     type: article
     provider:
       name: Newsweek
       domain: newsweek.com
     quality: 115
     images:
-      - url: "https://d.newsweek.com/en/full/1887979/ocasio-cortez-jamaal-bowman-progressive-unemployment-benefits-revive.jpg"
+      - url: "https://d.newsweek.com/en/full/1886367/supreme-court-denies-emergency-appeal.jpg"
         width: 2500
         height: 1667
         isCached: true
-  - title: "President Joe Biden speaks about the COVID-19 relief package in the State Dining Room of the Wh"
-    excerpt: "President Joe Biden speaks about the COVID-19 relief package in the State Dining Room of the White House, Monday, March 15, 2021, in Washington. (AP Photo/Patrick Semansky)"
-    publishedDateTime: 2021-09-09T06:35:00Z
-    webUrl: "https://www.reviewjournal.com/news/politics-and-government/help-is-here-biden-says-in-promoting-covid-relief-bill-2305083/attachment/president-joe-biden-speaks-about-the-covid-19-relief-package-in-the-state-dining-room-of-the-wh-5/"
+  - title: "'An all-out assault on our democracy' | President Joe Biden speaks out against new Texas voting rights law"
+    excerpt: "Biden urged Congress to send both bills “to my desk immediately.” “We’re facing an all-out assault on our democracy,” Biden wrote in a tweet. “We need to pass the For the People Act and the John Lewis Voting Rights Advancement Act to protect the sacred right to vote."
+    publishedDateTime: 2021-09-08T11:40:00Z
+    webUrl: "https://www.khou.com/article/news/politics/president-joe-biden-kamala-harris-texas-voting-rights-law/269-552e0c5f-4871-4a5d-8bc1-c561ae193511"
+    ampWebUrl: "https://www.khou.com/amp/article/news/politics/president-joe-biden-kamala-harris-texas-voting-rights-law/269-552e0c5f-4871-4a5d-8bc1-c561ae193511"
+    cdnAmpWebUrl: "https://www-khou-com.cdn.ampproject.org/c/s/www.khou.com/amp/article/news/politics/president-joe-biden-kamala-harris-texas-voting-rights-law/269-552e0c5f-4871-4a5d-8bc1-c561ae193511"
     type: article
     provider:
-      name: Las Vegas Review-Journal
-      domain: reviewjournal.com
-    quality: 43
+      name: KHOU 11
+      domain: khou.com
+    quality: 57
     images:
-      - url: "https://www.reviewjournal.com/wp-content/themes/rjth2019/images/defaultimage-1200x800.jpg"
-        width: 1200
-        height: 800
+      - url: "https://media.khou.com/assets/KHOU/images/275f81fd-b79a-420e-aa1c-c32cb165a206/275f81fd-b79a-420e-aa1c-c32cb165a206_1140x641.jpg"
+        width: 1140
+        height: 641
         isCached: true
-  - title: "Japan PM Suga Arranging U.S. Visit for Meeting With Biden - TV Asahi"
-    excerpt: "The Japanese government is arranging a visit by outgoing Prime Minister Yoshihide Suga to the United States in the latter half of this month for a summit meeting with President Joe Biden, TV Asahi reported on Wednesday."
-    publishedDateTime: 2021-09-08T13:21:00Z
-    webUrl: "https://www.usnews.com/news/world/articles/2021-09-08/japan-pm-suga-arranging-us-visit-for-meeting-with-biden-tv-asahi"
+  - title: "Biden Calls Top Court Ruling on Texas Abortion Ban 'Unprecedented Assault' on Women's Rights"
+    excerpt: "President Joe Biden on Thursday said the U.S. Supreme Court's ruling on Texas' abortion ban \"is an unprecedented assault on a woman's constitutional rights,\" after the top court allowed the law to remain in place."
+    publishedDateTime: 2021-09-02T15:42:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-09-02/biden-calls-top-court-ruling-on-texas-abortion-ban-unprecedented-assault-on-womens-rights"
     type: article
     provider:
       name: U.S. News & World Report
       domain: usnews.com
-    quality: 35
+    quality: 24
 
 secured: "vhkvJx6iUwJ5MJBjkHEJDNiJmM7lC4U5RHW1x63r/IzPBLjSrK1mLQ7I5cOn8WISUhMtT6FYCN3If1C1JKVvt5al0GzTevTxM9yoe9kjCA+e8Ixyv0GJg98OLV1kT2p6BtPqrRWYidYC9j1Me1bLyIrw37vuim+1nVEQNQyLzog3QbO8chrE09+1SJ7ary6j648dm/aBBm7w4uyh6RKE9CQZuXAxNmzTgL9yUhy4KvtXzuWFhP94EhPDhDQzH8xkOeWvs8a+qU3jAUYNAxAEVG+Ba9Qx63neOn4/1Nt2O56Aw4Yfg6s0DoUTBBmtKsc/tpuV5oIJuyIBkADSOkHqRTx25URBWr8GymgaBi2RTFE=;Tw0burwrfhctnKptB8uOvg=="
 ---

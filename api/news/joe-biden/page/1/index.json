@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-09-09-joe-biden-promised-to-defeat-the-lies-then-his-presidency-hit-a-crisis.md",
-      "title": "Joe Biden Promised to 'Defeat the Lies.' Then His Presidency Hit a Crisis",
-      "excerpt": "President Joe Biden pointedly advocated truth-telling in his inaugural address, in a tacit rebuke of Donald Trump's loose relationship with facts. But a few months on, the crises posed by the U.S. withdrawal from Afghanistan have tested Biden's commitment to truth.",
+      "path": "_news/2021-09-10-nancy-pelosi-jim-mcgovern-plug-joe-biden-child-tax-credit-during-worcester-visit.md",
+      "title": "Nancy Pelosi, Jim McGovern plug Joe Biden child tax credit during Worcester visit",
+      "excerpt": "Speaker of the House Nancy Pelosi made a pit stop in Worcester to meet children and families who have benefitted from President Biden’s child tax credit and plug a bill that would expand",
       "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/joe-biden-defeat-lies-presidency-crisis-1627349",
-      "originalUrl": "https://www.newsweek.com/joe-biden-defeat-lies-presidency-crisis-1627349",
+      "webUrl": "https://www.bostonherald.com/2021/09/09/nancy-pelosi-jim-mcgovern-plug-joe-biden-child-tax-credit-during-worcester-visit/",
+      "originalUrl": "https://www.bostonherald.com/2021/09/09/nancy-pelosi-jim-mcgovern-plug-joe-biden-child-tax-credit-during-worcester-visit/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 204,
+      "heat": 70,
       "tags": null,
       "images": [
         {
-          "url": "https://d.newsweek.com/en/full/1890536/biden-delivers-speech-state-dining-room.jpg",
-          "width": 2500,
-          "height": 1667,
+          "url": "https://www.bostonherald.com/wp-content/uploads/2021/09/AP21252729611795.jpg?w=1024&#038;h=761",
+          "width": 1024,
+          "height": 761,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,9 +24,52 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/joe-biden-defeat-lies-presidency-crisis-1627349?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-defeat-lies-presidency-crisis-1627349?amp=1",
-      "publishedDateTime": "2021-09-09T07:10:00-07:00",
+      "ampWebUrl": "https://www.bostonherald.com/2021/09/09/nancy-pelosi-jim-mcgovern-plug-joe-biden-child-tax-credit-during-worcester-visit/amp/",
+      "cdnAmpWebUrl": "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2021/09/09/nancy-pelosi-jim-mcgovern-plug-joe-biden-child-tax-credit-during-worcester-visit/amp/",
+      "publishedDateTime": "2021-09-09T16:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Boston Herald",
+        "domain": "bostonherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-09-10-joe-biden-has-6-new-steps-to-curb-covid-19-heres-what-they-are.md",
+      "title": "Joe Biden Has 6 New Steps to Curb COVID-19: Here's What They Are",
+      "excerpt": "The president wants more vaccine shots, more testing, more masking and more treatments to combat the pandemic.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/joe-biden-has-6-new-steps-curb-covid-19-heres-what-they-are-1627569",
+      "originalUrl": "https://www.newsweek.com/joe-biden-has-6-new-steps-curb-covid-19-heres-what-they-are-1627569",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 245,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1890963/more-vaccines-part-bidens-covid-19-plan.jpg",
+          "width": 2500,
+          "height": 1664,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/joe-biden-has-6-new-steps-curb-covid-19-heres-what-they-are-1627569?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-has-6-new-steps-curb-covid-19-heres-what-they-are-1627569?amp=1",
+      "publishedDateTime": "2021-09-09T13:15:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Newsweek",
@@ -41,49 +84,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-09-09-biden-dems-push-civilian-climate-corps-in-echo-of-new-deal.md",
-      "title": "Biden, Dems push Civilian Climate Corps in echo of New Deal",
-      "excerpt": "Inspired by the New Deal-era Civilian Conservation Corps, President Joe Biden and congressional Democrats are pushing for a modern counterpart: a Civilian Climate Corps that would create hundreds of thousands of jobs building trails,",
-      "sourceUrl": null,
-      "webUrl": "https://www.ctpost.com/news/article/Biden-Dems-push-Civilian-Climate-Corps-in-echo-16445011.php",
-      "originalUrl": "https://www.ctpost.com/news/article/Biden-Dems-push-Civilian-Climate-Corps-in-echo-16445011.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
-          "width": 600,
-          "height": 336,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ctpost.com/news/amp/Biden-Dems-push-Civilian-Climate-Corps-in-echo-16445011.php",
-      "cdnAmpWebUrl": "https://www-ctpost-com.cdn.ampproject.org/c/s/www.ctpost.com/news/amp/Biden-Dems-push-Civilian-Climate-Corps-in-echo-16445011.php",
-      "publishedDateTime": "2021-09-09T00:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Connecticut Post",
-        "domain": "ctpost.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -266,7 +266,7 @@
       "originalUrl": "https://thehill.com/homenews/administration/571071-biden-expected-to-campaign-for-newsom-in-california-next-week",
       "featuredContent": null,
       "highlight": null,
-      "heat": 285,
+      "heat": 345,
       "tags": null,
       "images": [
         {
@@ -318,7 +318,7 @@
       "originalUrl": "https://www.upi.com/Top_News/US/2021/09/07/new-york-jersey-joe-biden-hurricane-ida/7121631012476/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 135,
+      "heat": 155,
       "tags": null,
       "images": [
         {
@@ -514,6 +514,101 @@
       ]
     },
     {
+      "path": "_news/2021-09-06-curley-bad-news-is-nothing-a-little-spin-cant-fix-at-biden-white-house.md",
+      "title": "Curley: Bad news is nothing a little spin can’t fix at Biden White House",
+      "excerpt": "Where is the White House cat? I only ask because we were specifically cautioned by White House press secretary Jen Psaki that the feline might appear when the going got tough. “I’ve",
+      "sourceUrl": null,
+      "webUrl": "https://www.bostonherald.com/2021/09/05/curley-bad-news-is-nothing-a-little-spin-cant-fix-at-biden-white-house/",
+      "originalUrl": "https://www.bostonherald.com/2021/09/05/curley-bad-news-is-nothing-a-little-spin-cant-fix-at-biden-white-house/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.bostonherald.com/wp-content/uploads/2021/03/AP21085637016977.jpg?w=1024&#038;h=683",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bostonherald.com/2021/09/05/curley-bad-news-is-nothing-a-little-spin-cant-fix-at-biden-white-house/amp/",
+      "cdnAmpWebUrl": "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2021/09/05/curley-bad-news-is-nothing-a-little-spin-cant-fix-at-biden-white-house/amp/",
+      "publishedDateTime": "2021-09-05T20:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Boston Herald",
+        "domain": "bostonherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-09-06-crisis-isnt-over-progressives-push-biden-to-revive-unemployment-benefits-amid-pandemic.md",
+      "title": "'Crisis Isn't Over': Progressives Push Biden to Revive Unemployment Benefits Amid Pandemic",
+      "excerpt": "\"We're still in a pandemic, and the latest jobs numbers prove that. Doing our part to support Americans right now includes extending expanded\" unemployment insurance benefits, Representative Jamaal Bowman told Newsweek.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/crisis-isnt-over-progressives-push-biden-revive-unemployment-benefits-amid-pandemic-1626267",
+      "originalUrl": "https://www.newsweek.com/crisis-isnt-over-progressives-push-biden-revive-unemployment-benefits-amid-pandemic-1626267",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1887979/ocasio-cortez-jamaal-bowman-progressive-unemployment-benefits-revive.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/crisis-isnt-over-progressives-push-biden-revive-unemployment-benefits-amid-pandemic-1626267?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/crisis-isnt-over-progressives-push-biden-revive-unemployment-benefits-amid-pandemic-1626267?amp=1",
+      "publishedDateTime": "2021-09-05T14:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-09-04-joe-biden-walks-storm-ravaged-louisiana-i-know-youre-hurting.md",
       "title": "Joe Biden walks storm-ravaged Louisiana: “I know you’re hurting”",
       "excerpt": "Less than a week after Hurricane Ida battered the Gulf Coast, President Joe Biden walked the streets of a hardhit Louisiana neighborhood on Friday and told local residents, “I know you’re hurting, I know you’re hurting.",
@@ -565,7 +660,7 @@
       "originalUrl": "https://www.cbsnews.com/video/senator-joe-manchin-calls-for-pause-on-bidens-3-trillion-plan/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 325,
+      "heat": 385,
       "tags": null,
       "images": [
         {
@@ -1403,92 +1498,6 @@
       "provider": {
         "name": "IBTimes India",
         "domain": "ibtimes.co.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-08-29-howie-carr-think-joe-biden-is-bad-check-out-the-current-line-of-succession.md",
-      "title": "Howie Carr: Think Joe Biden is bad? Check out the current line of succession",
-      "excerpt": "Before you heed those calls to remove Dementia Joe Biden via either impeachment or the 25th amendment, remember the old saying: Be careful what you wish for.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bostonherald.com/2021/08/28/howie-carr-think-joe-biden-is-bad-check-out-the-current-line-of-succession/",
-      "originalUrl": "https://www.bostonherald.com/2021/08/28/howie-carr-think-joe-biden-is-bad-check-out-the-current-line-of-succession/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.bostonherald.com/wp-content/uploads/2021/08/AP21236785596020.jpg?w=1024&#038;h=683",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bostonherald.com/2021/08/28/howie-carr-think-joe-biden-is-bad-check-out-the-current-line-of-succession/amp/",
-      "cdnAmpWebUrl": "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2021/08/28/howie-carr-think-joe-biden-is-bad-check-out-the-current-line-of-succession/amp/",
-      "publishedDateTime": "2021-08-28T13:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Boston Herald",
-        "domain": "bostonherald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-08-28-joe-biden-says-china-still-withholding-critical-info-on-covid-19-origins.md",
-      "title": "Joe Biden says China still withholding 'critical' info on Covid-19 origins",
-      "excerpt": "PRESIDENT JOE BIDEN said that China was withholding “critical information” on the origins of Covid-19 after the US intelligence community said it did not believe the virus was a bioweapon – but remained split on whether it escaped from a lab.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thejournal.ie/joe-biden-china-covid-origins-5534218-Aug2021/",
-      "originalUrl": "https://www.thejournal.ie/joe-biden-china-covid-origins-5534218-Aug2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img2.thejournal.ie/article/5534218/listing/?width=600&version=5534221",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thejournal.ie/joe-biden-china-covid-origins-5534218-Aug2021/?amp=1",
-      "cdnAmpWebUrl": "https://www-thejournal-ie.cdn.ampproject.org/c/s/www.thejournal.ie/joe-biden-china-covid-origins-5534218-Aug2021/?amp=1",
-      "publishedDateTime": "2021-08-28T02:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TheJournal.ie",
-        "domain": "thejournal.ie",
         "images": null,
         "publishers": null,
         "authors": null

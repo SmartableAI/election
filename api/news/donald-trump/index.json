@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-09-10-donald-trump-getting-millions-and-millions-for-boxing-analyst-gig-report-says.md",
+      "title": "Donald Trump getting ‘millions and millions’ for boxing analyst gig, report says",
+      "excerpt": "Former President Donald Trump will serve as a commentator for Saturday's fight card at the Hard Rock Hotel & Casino in Hollywood, Florida.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nj.com/sports/2021/09/donald-trump-getting-millions-and-millions-for-boxing-analyst-gig-report-says.html",
+      "originalUrl": "https://www.nj.com/sports/2021/09/donald-trump-getting-millions-and-millions-for-boxing-analyst-gig-report-says.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/VA7TEMXULZBFRKEWICA5CC6JAA.jpg",
+          "width": 2569,
+          "height": 1713,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nj.com/sports/2021/09/donald-trump-getting-millions-and-millions-for-boxing-analyst-gig-report-says.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-nj-com.cdn.ampproject.org/c/s/www.nj.com/sports/2021/09/donald-trump-getting-millions-and-millions-for-boxing-analyst-gig-report-says.html?outputType=amp",
+      "publishedDateTime": "2021-09-09T11:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NJ.com",
+        "domain": "nj.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-09-09-donald-trump-endorses-oak-parks-kristina-karamo-for-secretary-of-state.md",
       "title": "Donald Trump endorses Oak Park’s Kristina Karamo for secretary of state",
       "excerpt": "Donald Trump has endorsed Kristina Karama for Michigan Secretary of State. In a statement, the former president said he highly respects the Oak Park resident and that she has his complete and total endorsement to run for “Secretary of State of the Great State of Michigan!",
@@ -567,7 +610,7 @@
       "originalUrl": "https://abcnews.go.com/Sports/donald-trump-son-provide-commentary-evander-holyfield-vitor/story?id=79884415",
       "featuredContent": null,
       "highlight": null,
-      "heat": 194,
+      "heat": 214,
       "tags": null,
       "images": [
         {
@@ -667,7 +710,7 @@
       "originalUrl": "https://www.houstonchronicle.com/politics/texas/article/How-Texas-is-following-up-on-Trump-s-voter-16441526.php",
       "featuredContent": null,
       "highlight": null,
-      "heat": 439,
+      "heat": 479,
       "tags": null,
       "images": [
         {
@@ -1061,7 +1104,7 @@
       "originalUrl": "https://timesofsandiego.com/business/2021/09/03/u-s-to-resume-high-level-economic-cooperation-with-mexico-that-trump-suspended/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 111,
       "tags": null,
       "images": [
         {
@@ -1104,7 +1147,7 @@
       "originalUrl": "https://www.cnbc.com/2021/09/03/trump-should-not-lead-gop-ticket-in-2024-retiring-sen-pat-toomey-says.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 465,
+      "heat": 485,
       "tags": null,
       "images": [
         {
@@ -1411,49 +1454,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-09-02-readers-react-why-are-pa-politicians-listening-to-trump.md",
-      "title": "Readers React: Why are Pa. politicians listening to Trump?",
-      "excerpt": "Reader: Instead of spending the money on alleged voter fraud, they should have hearings on senior citizens’ school tax relief.",
-      "sourceUrl": null,
-      "webUrl": "https://www.mcall.com/opinion/readers-react/mc-opi-let-strisofsky-election-investigation-20210902-w6cxkb77rfc6td3bf3gja4def4-story.html",
-      "originalUrl": "https://www.mcall.com/opinion/readers-react/mc-opi-let-strisofsky-election-investigation-20210902-w6cxkb77rfc6td3bf3gja4def4-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mcall.com/resizer/CN-Feg5tqnrPPvST2lo5Z57fxrQ=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/2PA43TU4FZERZHCE7GQB5D3JBU.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.mcall.com/opinion/readers-react/mc-opi-let-strisofsky-election-investigation-20210902-w6cxkb77rfc6td3bf3gja4def4-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-mcall-com.cdn.ampproject.org/c/s/www.mcall.com/opinion/readers-react/mc-opi-let-strisofsky-election-investigation-20210902-w6cxkb77rfc6td3bf3gja4def4-story.html?outputType=amp",
-      "publishedDateTime": "2021-09-02T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morning Call PA",
-        "domain": "mcall.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

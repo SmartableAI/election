@@ -2,6 +2,110 @@
   "page": 74,
   "value": [
     {
+      "path": "_news/2021-04-08-arizona-blocks-federal-gun-control-measures-ahead-of-joe-biden-address.md",
+      "title": "Arizona Blocks Federal Gun Control Measures Ahead of Joe Biden Address",
+      "excerpt": "The Republican has pre-empted President Joe Biden's plan to tackle gun violence with a raft of executive orders this week by signing Arizona House Bill 2111. Under the state legislation, known as the Second Amendment Firearm Freedom Act, federal gun laws ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/arizona-blocks-federal-gun-control-joe-biden-1581921",
+      "originalUrl": "https://www.newsweek.com/arizona-blocks-federal-gun-control-joe-biden-1581921",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 1125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1772989/arizona-governor-doug-ducey.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/arizona-blocks-federal-gun-control-joe-biden-1581921?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/arizona-blocks-federal-gun-control-joe-biden-1581921?amp=1",
+      "publishedDateTime": "2021-04-08T05:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-04-08-913-carson-trump-axelrod.md",
+      "title": "9/13: Carson, Trump, Axelrod",
+      "excerpt": "The latest on the 2016 presidential campaign and the newest polls in key battleground states, with Donald Trump, Ben Carson, CBS News Elections Director Anthony Salvanto, Democratic Strategist David Axelrod,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/video/913-carson-trump-axelrod-1/",
+      "originalUrl": "https://www.cbsnews.com/video/913-carson-trump-axelrod-1/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews3.cbsistatic.com/hub/i/r/2017/12/15/9334678b-ba9b-48ff-9dca-8457084b146a/thumbnail/1200x630/f248e71cc26ba21608939f758781626d/page-2-0912v3-445078-640x360.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-08T04:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-04-08-rep-ilhan-omar-slams-bidens-shameful-plan-to-restart-construction-on-trumps-xenophobic-and-racist-wall.md",
       "title": "Rep. Ilhan Omar slams Biden's 'shameful' plan to restart construction on Trump's 'xenophobic and racist' wall",
       "excerpt": "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% Rep. Ilhan Omar has criticized President Joe Biden for continuing the construction of Donald Trump's \"xenophobic and racist\" southern border wall. \"It's shameful and unacceptable for @POTUS to continue the ...",
@@ -1249,114 +1353,6 @@
       "topics": [
         "Election",
         "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-07-pence-lines-up-allies-nodding-at-possible-2024-campaign.md",
-      "title": "Pence Lines Up Allies, Nodding at Possible 2024 Campaign",
-      "excerpt": "Former Vice President Mike Pence on Wednesday launched an advocacy group to promote his agenda and defend the Trump administration’s record, a signal that he’s moving toward a 2024 presidential bid. The group, Advancing American Freedom, will “build ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2021-04-07/pence-forms-advocacy-group-to-highlight-agenda-defend-record",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2021-04-07/pence-forms-advocacy-group-to-highlight-agenda-defend-record",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i5t076Ijl52Y/v0/1200x800.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-07T05:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-04-07-matt-gaetz-once-sought-preemptive-pardon-from-trump-white-house-source.md",
-      "title": "Matt Gaetz once sought preemptive pardon from Trump White House: source",
-      "excerpt": "Florida Republican Rep. Matt Gaetz, who is facing a federal investigation over allegations of sexual misconduct, asked President Trump's White House for a preemptive pardon at the end of his term, Fox News has confirmed.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2En4SAVf2Jk/matt-gaetz-preemptive-pardon-trump-white-house",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2En4SAVf2Jk/matt-gaetz-preemptive-pardon-trump-white-house",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 315,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/matt-gaetz-preemptive-pardon-trump-white-house.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/matt-gaetz-preemptive-pardon-trump-white-house.amp",
-      "publishedDateTime": "2021-04-07T05:16:56-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Republican Voice"
       ]
     }

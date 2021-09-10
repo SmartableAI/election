@@ -2,6 +2,118 @@
   "page": 59,
   "value": [
     {
+      "path": "_news/2021-05-08-biden-administration-has-spent-3b-on-migrant-facility-contracts-report.md",
+      "title": "Biden administration has spent $3B on migrant facility contracts: report",
+      "excerpt": "The Biden administration has reportedly spent $3 billion in contracts to house unaccompanied children at the border – as it continues to deal with a continued influx of migrants coming to the border each day.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1qsgBBzNOuw/biden-administration-border-migrant-facility-contracts-spending",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1qsgBBzNOuw/biden-administration-border-migrant-facility-contracts-spending",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 254,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0f550adb-2ed6-455f-a2ae-68505d5f7890/5c62bf26-1061-41a5-a638-47043d8946a5/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-administration-border-migrant-facility-contracts-spending.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-administration-border-migrant-facility-contracts-spending.amp",
+      "publishedDateTime": "2021-05-08T14:33:26-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-08-biden-white-house-releases-first-virtual-visitor-logs.md",
+      "title": "Biden White House releases first virtual visitor logs",
+      "excerpt": "The Biden White House released its first round of visitor logs Friday in an effort to \"restore integrity, transparency, and trust in government,\" the administration said.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/txUF60LDXWI/biden-white-house-first-virtual-visitor-logs",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/txUF60LDXWI/biden-white-house-first-virtual-visitor-logs",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 955,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/88785100-c591-4705-a000-240dbb0fec6e/e8c41f49-b049-4819-a13e-a62dfe9c3e34/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-white-house-first-virtual-visitor-logs.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-white-house-first-virtual-visitor-logs.amp",
+      "publishedDateTime": "2021-05-08T13:02:53-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-05-09-first-lady-vice-president-harris-highlight-different-paths-to-motherhood.md",
       "title": "First lady, Vice President Harris highlight different paths to motherhood",
       "excerpt": "Kamala Harris’ childhood friends share memories about presidential hopeful With families around the country preparing to celebrate Mother’s Day on Sunday, first lady Jill Biden and Vice President Kamala Harris are putting a new national spotlight on less traditional types of motherhood.",
@@ -1226,119 +1338,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/liz-cheney-gop-leadership-trump-cult.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/liz-cheney-gop-leadership-trump-cult.amp",
       "publishedDateTime": "2021-05-05T16:23:24-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-05-kamala-harris-and-doug-emhoff-both-vaccinated-kiss-with-their-masks-on-not-about-the-science.md",
-      "title": "Kamala Harris and Doug Emhoff, both vaccinated, kiss with their masks on: 'Not about the science'",
-      "excerpt": "Vice President Kamala Harris and Second Gentleman Douglas Emhoff kissed each other with their masks on Wednesday, even though both are fully vaccinated.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/stq8UMhm1aM/kamala-harris-and-doug-emhoff-both-vaccinated-kiss-with-their-masks-on-not-about-the-science",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/stq8UMhm1aM/kamala-harris-and-doug-emhoff-both-vaccinated-kiss-with-their-masks-on-not-about-the-science",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 212,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fbf844e7-da00-4269-b859-827c56602764/5d922b54-0023-4170-ae81-95b2cc76f88b/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/kamala-harris-and-doug-emhoff-both-vaccinated-kiss-with-their-masks-on-not-about-the-science.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-and-doug-emhoff-both-vaccinated-kiss-with-their-masks-on-not-about-the-science.amp",
-      "publishedDateTime": "2021-05-05T13:16:23-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-05-05-biden-when-asked-about-liz-cheney-says-i-dont-understand-republicans.md",
-      "title": "Biden, when asked about Liz Cheney, says 'I don't understand Republicans'",
-      "excerpt": "President Biden seemed perplexed Wednesday by the effort of House Republicans to oust Rep. Liz Cheney as the GOP conference chair.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/DTg4Dn4DSrQ/biden-liz-cheney-dont-understand-republicans",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/DTg4Dn4DSrQ/biden-liz-cheney-dont-understand-republicans",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 234,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/340/340/Marisa-Schultz.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-liz-cheney-dont-understand-republicans.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-liz-cheney-dont-understand-republicans.amp",
-      "publishedDateTime": "2021-05-05T11:15:25-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

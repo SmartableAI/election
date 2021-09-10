@@ -2,6 +2,63 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-06-01-trump-turned-nonvoters-into-voters-in-2020-will-they-turn-out-for-next-years-midterms.md",
+      "title": "Trump Turned Nonvoters Into Voters in 2020. Will They Turn Out for Next Year’s Midterms?",
+      "excerpt": "Former President Donald Trump drew substantial support in 2020 from a new pool of voters whose decisions on whether to participate in elections again will be central to next year’s midterms.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/trump-turned-nonvoters-into-voters-in-2020-will-they-turn-out-for-next-years-midterms-11622545202",
+      "originalUrl": "https://www.wsj.com/articles/trump-turned-nonvoters-into-voters-in-2020-will-they-turn-out-for-next-years-midterms-11622545202",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-344446/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/trump-turned-nonvoters-into-voters-in-2020-will-they-turn-out-for-next-years-midterms-11622545202",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-turned-nonvoters-into-voters-in-2020-will-they-turn-out-for-next-years-midterms-11622545202",
+      "publishedDateTime": "2021-06-01T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-01-a-former-associate-of-trump-ally-roger-stone-appeared-to-gesture-for-hillary-clinton-to-be-hanged-at-a-conference-with-qanon-attendees.md",
       "title": "A former associate of Trump ally Roger Stone appeared to gesture for Hillary Clinton to be hanged at a conference with QAnon attendees",
       "excerpt": "Jason Sullivan, a former social media adviser to Roger Stone, made a gesture appearing to resemble a noose, receiving loud cheers from a crowd.",
@@ -1512,63 +1569,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-05-25-sondland-sues-pompeo-us-government-for-legal-fees-over-trump-impeachment-probe.md",
-      "title": "Sondland sues Pompeo, U.S. government, for legal fees over Trump impeachment probe",
-      "excerpt": "Former U.S. ambassador to the European Union, Gordon Sondland, filed a lawsuit against former Secretary of State Mike Pompeo and the U.S. government. Sondland is seeking $1.8 million in legal fees he accumulated during the first House impeachment investigation against then-President Donald Trump.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/now/video/sondland-sues-pompeo-u-s-government-for-legal-fees-over-trump-impeachment-probe-113087557862",
-      "originalUrl": "https://www.nbcnews.com/now/video/sondland-sues-pompeo-u-s-government-for-legal-fees-over-trump-impeachment-probe-113087557862",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media14.s-nbcnews.com/i/mpx/2704722219/2021_05/1621887619887_ott_now_pwilliams_210524_1920x1080.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo113087557862",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo113087557862",
-      "publishedDateTime": "2021-05-24T13:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     }
   ],

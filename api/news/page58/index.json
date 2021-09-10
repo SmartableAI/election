@@ -2,6 +2,114 @@
   "page": 58,
   "value": [
     {
+      "path": "_news/2021-05-11-biden-to-tap-rahm-emanuel-as-japan-ambassador-reports.md",
+      "title": "Biden to tap Rahm Emanuel as Japan ambassador: reports",
+      "excerpt": "President Biden is reportedly set to tap Rahm Emanuel -- former President Barack Obama's chief of staff and Chicago mayor -- as U.S. ambassador to Japan. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/OnUKMshHtV0/biden-rahm-emanuel-japan-ambassador",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/OnUKMshHtV0/biden-rahm-emanuel-japan-ambassador",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/720/405/GettyImages-1165549574.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-rahm-emanuel-japan-ambassador.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-rahm-emanuel-japan-ambassador.amp",
+      "publishedDateTime": "2021-05-11T10:07:33-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-11-ap-source-biden-to-tap-rahm-emanuel-for-ambassador-to-japan.md",
+      "title": "AP source: Biden to tap Rahm Emanuel for ambassador to Japan",
+      "excerpt": "President Joe Biden is expected to nominate former Chicago Mayor Rahm Emanuel to serve as the U.S. ambassador to Japan",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/ap-source-biden-to-tap-rahm-emanuel-for-ambassador-to-japan/2021/05/11/436b9316-b276-11eb-bc96-fdf55de43bef_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/ap-source-biden-to-tap-rahm-emanuel-for-ambassador-to-japan/2021/05/11/436b9316-b276-11eb-bc96-fdf55de43bef_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 245,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6RMFI2FSOQI6XPEW7X2V3ZB354.jpg&w=1440",
+          "width": 1440,
+          "height": 890,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/ap-source-biden-to-tap-rahm-emanuel-for-ambassador-to-japan/2021/05/11/436b9316-b276-11eb-bc96-fdf55de43bef_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/ap-source-biden-to-tap-rahm-emanuel-for-ambassador-to-japan/2021/05/11/436b9316-b276-11eb-bc96-fdf55de43bef_story.html?outputType=amp",
+      "publishedDateTime": "2021-05-11T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-05-11-biden-administration-is-open-to-sharing-coronavirus-vaccines-with-north-korea.md",
       "title": "Biden administration is open to sharing coronavirus vaccines with North Korea",
       "excerpt": "The Biden administration is open to sharing coronavirus vaccines and other humanitarian assistance to help North Korea combat the deadly pandemic, according to two sources familiar with internal discussions.\n    \n",
@@ -1232,118 +1340,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-05-08-biden-administration-has-spent-3b-on-migrant-facility-contracts-report.md",
-      "title": "Biden administration has spent $3B on migrant facility contracts: report",
-      "excerpt": "The Biden administration has reportedly spent $3 billion in contracts to house unaccompanied children at the border – as it continues to deal with a continued influx of migrants coming to the border each day.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1qsgBBzNOuw/biden-administration-border-migrant-facility-contracts-spending",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1qsgBBzNOuw/biden-administration-border-migrant-facility-contracts-spending",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 254,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0f550adb-2ed6-455f-a2ae-68505d5f7890/5c62bf26-1061-41a5-a638-47043d8946a5/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-administration-border-migrant-facility-contracts-spending.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-administration-border-migrant-facility-contracts-spending.amp",
-      "publishedDateTime": "2021-05-08T14:33:26-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-08-biden-white-house-releases-first-virtual-visitor-logs.md",
-      "title": "Biden White House releases first virtual visitor logs",
-      "excerpt": "The Biden White House released its first round of visitor logs Friday in an effort to \"restore integrity, transparency, and trust in government,\" the administration said.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/txUF60LDXWI/biden-white-house-first-virtual-visitor-logs",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/txUF60LDXWI/biden-white-house-first-virtual-visitor-logs",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 955,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/88785100-c591-4705-a000-240dbb0fec6e/e8c41f49-b049-4819-a13e-a62dfe9c3e34/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-white-house-first-virtual-visitor-logs.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-white-house-first-virtual-visitor-logs.amp",
-      "publishedDateTime": "2021-05-08T13:02:53-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

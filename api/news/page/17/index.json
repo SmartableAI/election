@@ -2,6 +2,171 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2021-07-31-texas-gov-greg-abbott-accuses-biden-of-creating-constitutional-crisis-after-doj-lawsuit.md",
+      "title": "Texas Gov. Greg Abbott Accuses Biden of Creating 'Constitutional Crisis' After DOJ Lawsuit",
+      "excerpt": "\"This stems from the Biden Administration's refusal to enforce immigration laws and allow illegal immigrants with COVID-19 to enter our country,\" Abbott said Friday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/texas-gov-greg-abbott-accuses-biden-creating-constitutional-crisis-after-doj-lawsuit-1614875",
+      "originalUrl": "https://www.newsweek.com/texas-gov-greg-abbott-accuses-biden-creating-constitutional-crisis-after-doj-lawsuit-1614875",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1859135/greg-abbott-joe-biden-covid-19-immigration-constitution.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/texas-gov-greg-abbott-accuses-biden-creating-constitutional-crisis-after-doj-lawsuit-1614875?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/texas-gov-greg-abbott-accuses-biden-creating-constitutional-crisis-after-doj-lawsuit-1614875?amp=1",
+      "publishedDateTime": "2021-07-30T18:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-07-31-biden-says-americans-should-expect-more-covid-restrictions.md",
+      "title": "Biden says Americans should expect more COVID restrictions",
+      "excerpt": "President Biden warned Friday that increased COVID-related restrictions could again become a possibility as the U.S. sees spiking coronavirus cases nationwide.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zDpxbYydvl0/biden-expect-more-coronavirus-restrictions",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zDpxbYydvl0/biden-expect-more-coronavirus-restrictions",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 555,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/08eaf3c1-0bc0-4ab7-b748-5b27bb6cb6f8/dc1cea00-c153-4975-837b-757c68b29702/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-expect-more-coronavirus-restrictions.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-expect-more-coronavirus-restrictions.amp",
+      "publishedDateTime": "2021-07-30T17:41:13-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-31-delta-trump-haiti-your-friday-evening-briefing.md",
+      "title": "Delta, Trump, Haiti: Your Friday Evening Briefing",
+      "excerpt": "The rare Friday session comes as Senate Democrats race to pass the bipartisan bill before leaving for the August recess. The emerging deal will provide $550 billion in new funding,but it still faces a bumpy road.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/07/30/briefing/delta-trump-haiti.html",
+      "originalUrl": "https://www.nytimes.com/2021/07/30/briefing/delta-trump-haiti.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/07/30/multimedia/30PMBriefing-virus-vaccines-promo/merlin_192102756_b1244776-fd01-4502-9da6-419fbdd217b0-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/07/30/briefing/delta-trump-haiti.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/30/briefing/delta-trump-haiti.amp.html",
+      "publishedDateTime": "2021-07-30T14:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-30-trump-told-doj-officials-in-december-2020-to-call-election-corrupt-notes-show.md",
       "title": "Trump told DOJ officials in December 2020 to call election 'corrupt,' notes show",
       "excerpt": "Former President Trump instructed top officials at the Department of Justice to call the 2020 general election “corrupt” in support of his efforts to overturn the election.",
@@ -801,54 +966,6 @@
       ]
     },
     {
-      "path": "_news/2021-07-30-dems-worried-about-kamala-harris-approval-more-harm-than-good.md",
-      "title": "Dems worried about Kamala Harris approval: ‘More harm than good’",
-      "excerpt": "As Vice President Kamala Harris’ poll numbers remain underwater, some Democrats are worried that she could become a drag on their efforts to maintain control of congress in the 2022 midterm",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/07/29/democrats-worried-about-kamala-harris-approval-numbers/",
-      "originalUrl": "https://nypost.com/2021/07/29/democrats-worried-about-kamala-harris-approval-numbers/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/07/kamala-harris-ratings-04.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/07/29/democrats-worried-about-kamala-harris-approval-numbers/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/29/democrats-worried-about-kamala-harris-approval-numbers/amp/",
-      "publishedDateTime": "2021-07-29T12:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-07-29-mccarthy-says-country-would-be-better-off-if-biden-had-done-nothing-since-taking-office.md",
       "title": "McCarthy says country would be better off if Biden had 'done nothing' since taking office",
       "excerpt": "House Minority Leader Kevin McCarthy said President Biden's policies have put the \"country in crisis\" and Americans would be better off if Biden had done absolutely \"nothing\" since taking office. ",
@@ -1218,114 +1335,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-29-trumps-inroads-with-florida-latinos-are-influencing-democratic-response-to-cuba.md",
-      "title": "Trump's inroads with Florida Latinos are influencing Democratic response to Cuba",
-      "excerpt": "Democrats in South Florida, beleaguered by a tough 2020 election in the state, have been privately and publicly urging their party leaders to embrace the protests against Cuba's communist regime that are roiling the island nation.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/P3cDrUWiFi4/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/P3cDrUWiFi4/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 170,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210712220115-cuba-protestas-fin-dictadura-conclusiones-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/29/politics/biden-cuba-florida-politics/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/29/politics/biden-cuba-florida-politics/index.html",
-      "publishedDateTime": "2021-07-29T04:06:36-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-29-where-in-the-world-is-kamala-harris-opinion.md",
-      "title": "Where in the World is Kamala Harris? | Opinion",
-      "excerpt": "Kamala Harris is not an effective politician. The Biden team is keeping her out of sight because she would do nothing useful to build support for the administration or its latest initiative.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/where-world-kamala-harris-opinion-1613148",
-      "originalUrl": "https://www.newsweek.com/where-world-kamala-harris-opinion-1613148",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 945,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1857513/vice-president-kamala-harris.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/where-world-kamala-harris-opinion-1613148?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/where-world-kamala-harris-opinion-1613148?amp=1",
-      "publishedDateTime": "2021-07-29T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
       ]
     }
   ],

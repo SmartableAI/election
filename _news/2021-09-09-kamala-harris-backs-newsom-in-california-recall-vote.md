@@ -231,6 +231,20 @@ related:
         width: 1200
         height: 803
         isCached: true
+  - title: "California Recall Brings Kamala Harris Home to Support Gavin Newsom"
+    excerpt: "Vice President Kamala Harris returned to her home state of California on Wednesday to rally voters against the recall of Gov. Gavin Newsom, whose campaign expressed growing confidence the first-term Democrat would survive the attempt to remove him from office a year early."
+    publishedDateTime: 2021-09-08T04:13:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-09-08/california-recall-vote-offers-test-of-biden-political-clout"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 105
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iArmhzqnfXNo/v1/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Kamala Harris visited beloved Brown Sugar Bakery on Chicago’s South Side on Tuesday. She couldn’t have chosen better."
     excerpt: "On her way out of town Tuesday following a pit stop in Chicago between California and Washington, D.C., Vice President Kamala Harris grabbed dessert from Brown Sugar Bakery and Confections in the Chatham neighborhood. It was a pretty sweet call on her part."
     publishedDateTime: 2021-04-07T03:00:00Z

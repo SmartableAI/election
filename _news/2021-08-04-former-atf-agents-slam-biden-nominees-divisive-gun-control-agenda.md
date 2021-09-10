@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/former-atf-agents-slam-biden-nomine
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/former-atf-agents-slam-biden-nominees-divisive-gun-control-agenda.amp"
 type: article
 quality: 175
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -47,6 +47,15 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "It's Up to Democrats to Stop Biden's Radical Agenda"
+    excerpt: "Senate Democrats released a 92-page outline of President Joe Biden's agenda Monday morning. It is nothing short of a blueprint for a far-left, radical remaking of the United States."
+    publishedDateTime: 2021-08-10T11:58:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/08/10/its_up_to_democrats_to_stop_bidens_radical_agenda_549108.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
 
 secured: "xmQTh5MJGECUHk6OLaPmrz/Q9AWYNYSU3rvWNaSzujzbwARILzK6pXGWBOIgm8IoRIeoRZHnoqxnwnnBgNGzu5tHn3vhp5qZ/mURVxgdydUQ5BUmUeh9ZLiX+pX3u5G4RUzxfsTg+RGUwu6X9fk9qvZfGLH+yMXHvReHES+EcYfjBOeRbnhxK6rqniLIluN0FwnJYM72xtkGbpRlIq8k+ghThuYgLAVeHU2OYtfvw4njXmF/cCg2fPBVZMfV09v8A2ztyNOPv8ix640ko4087g2733PD/y8d/sz9wJZrCmaDG57oFK2WpHX3zmVu4OKgMlr6vRdjNKMMdT8HAy9o8aRLSNVXjCWlp8RhHH176Cc=;TOHbJyb+G1p+zRwNgNdPGg=="
 ---

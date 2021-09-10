@@ -2,6 +2,115 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-03-31-major-is-still-adjusting-new-white-house-trouble-hounds-bidens-dog.md",
+      "title": "'Major is still adjusting': New White House trouble hounds Biden's dog",
+      "excerpt": "President Joe Biden's dog Major has been involved in a second biting incident at the White House, NBC News has confirmed. “Major is still adjusting to his new surroundings and he nipped someone while on a walk. Out of an abundance of caution, the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/white-house/major-still-adjusting-new-white-house-trouble-hounds-biden-s-n1262527",
+      "originalUrl": "https://www.nbcnews.com/politics/white-house/major-still-adjusting-new-white-house-trouble-hounds-biden-s-n1262527",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media4.s-nbcnews.com/i/newscms/2021_13/3460867/210330-major-biden-dog-ac-435p_33990fb7823b6d94d4f5c4411ad7b697.jpg",
+          "width": 2500,
+          "height": 1668,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1262527",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1262527",
+      "publishedDateTime": "2021-03-30T14:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-31-bloomberg-former-rnc-chair-steele-back-biden-pick-for-civil-rights-division.md",
+      "title": "Bloomberg, former RNC chair Steele back Biden pick for civil rights division",
+      "excerpt": "President Biden Joe Biden The Hill's Morning Report - Biden officials brace for worst despite vaccine data Congress looks to rein in Biden's war powers Democrats seize on voting rights ...",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/administration/545611-bloomberg-former-rnc-chair-steele-back-biden-pick-for-civil-rights",
+      "originalUrl": "https://thehill.com/homenews/administration/545611-bloomberg-former-rnc-chair-steele-back-biden-pick-for-civil-rights",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/steelemichael_33021_gettyimages.jpg",
+          "width": 827,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/administration/545611-bloomberg-former-rnc-chair-steele-back-biden-pick-for-civil-rights?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/545611-bloomberg-former-rnc-chair-steele-back-biden-pick-for-civil-rights?amp",
+      "publishedDateTime": "2021-03-30T12:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-03-31-biden-judicial-nominee-would-be-first-muslim-federal-judge-in-us-history.md",
       "title": "Biden judicial nominee would be first Muslim federal judge in US history",
       "excerpt": "Some Republicans, meanwhile, have broadly criticized Biden's nominees. \"It's payback time -- we know that liberal dark money organizations spent millions of dollars to put President Joe Biden in the White House in terms of contributing to his campaign.",

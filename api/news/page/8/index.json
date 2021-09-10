@@ -2,6 +2,205 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-08-25-israeli-leader-naftali-bennett-to-meet-with-joe-biden-as-mideast-tensions-grow.md",
+      "title": "Israeli Leader Naftali Bennett to Meet with Joe Biden as Mideast Tensions Grow",
+      "excerpt": "The Israeli leader's meeting with President Joe Biden comes amid heightened tensions with regional arch-enemy Iran",
+      "sourceUrl": null,
+      "webUrl": "https://time.com/6092540/naftali-bennett-joe-biden/",
+      "originalUrl": "https://time.com/6092540/naftali-bennett-joe-biden/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 161,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://api.time.com/wp-content/uploads/2021/08/AP21236666683066.jpg",
+          "width": 6325,
+          "height": 4217,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-24T23:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Time",
+        "domain": "time.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/time.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-08-25-supreme-court-rules-biden-may-not-suspend-trump-era-remain-in-mexico-policy-for-migrants.md",
+      "title": "Supreme Court rules Biden may not suspend Trump-era 'remain in Mexico' policy for migrants",
+      "excerpt": "A lower federal court said Biden officials improperly halted the Trump-era 'remain in Mexico' policy, which was intended to reduce immigration.",
+      "sourceUrl": null,
+      "webUrl": "https://www.freep.com/story/news/politics/2021/08/24/supreme-court-biden-may-not-halt-trump-era-remain-mexico-policy/8244772002/",
+      "originalUrl": "https://www.freep.com/story/news/politics/2021/08/24/supreme-court-biden-may-not-halt-trump-era-remain-mexico-policy/8244772002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/08/24/USAT/746d7176-bffa-46c2-99b3-816182b82d0c-GTY_1329925284.jpg?auto=webp&crop=7917,4454,x0,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.freep.com/amp/8244772002",
+      "cdnAmpWebUrl": "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/8244772002",
+      "publishedDateTime": "2021-08-24T19:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Detroit Free Press",
+        "domain": "freep.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-08-24-with-cases-in-florida-surging-desantis-and-biden-square-off-over-coronavirus-response.md",
+      "title": "With cases in Florida surging, DeSantis and Biden square off over coronavirus response ",
+      "excerpt": "President Joe Biden and Florida Gov. Ron DeSantis have found their chosen rhetorical rivals in the fight against the coronavirus: each other. And neither seems eager to back down anytime soon.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/cwrqW6xZ2R0/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/cwrqW6xZ2R0/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210824173907-01-desantis-biden-split-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/08/24/politics/biden-desantis-coronavirus/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/24/politics/biden-desantis-coronavirus/index.html",
+      "publishedDateTime": "2021-08-24T16:01:39-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-08-25-pence-slams-bidens-troop-withdrawal-as-foreign-policy-humiliation.md",
+      "title": "Pence slams Biden’s troop withdrawal as ‘foreign policy humiliation’",
+      "excerpt": "In an interview on The Brian Kilmeade Show, Pence recalled Biden’s decision to fully withdraw by Sept. 11, saying that decision set the “disaster in motion.”",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/08/24/mike-pence-slams-biden-on-chaotic-afghan-troop-withdrawal/",
+      "originalUrl": "https://nypost.com/2021/08/24/mike-pence-slams-biden-on-chaotic-afghan-troop-withdrawal/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 150,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/08/AFP_9LL4DR.jpg?quality=90&strip=all&w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/08/24/mike-pence-slams-biden-on-chaotic-afghan-troop-withdrawal/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/24/mike-pence-slams-biden-on-chaotic-afghan-troop-withdrawal/amp/",
+      "publishedDateTime": "2021-08-24T15:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-08-25-column-donald-trump-cant-cram-his-fake-news-genie-back-in-his-bottle.md",
       "title": "Column: Donald Trump can’t cram his ‘fake news’ genie back in his bottle",
       "excerpt": "As Donald Trump may be discovering, once you’ve let that “fake news” genie out of the bottle, it’s impossible to reverse all of the damage it can bring.",
@@ -215,6 +414,63 @@
       "topics": [
         "Election",
         "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-08-24-kamala-harris-plane-from-singapore-delayed-over-possible-havana-syndrome-incident.md",
+      "title": "Kamala Harris' plane from Singapore delayed over possible 'Havana syndrome' incident",
+      "excerpt": "Vice President Kamala Harris’ plane was delayed in Singapore on Tuesday for three hours after a possible case of the mysterious \"Havana syndrome.\"",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-G5VtDs4TmM/kamala-harris-plane-singapore-delayed-possible-havana-syndrome",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-G5VtDs4TmM/kamala-harris-plane-singapore-delayed-possible-havana-syndrome",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 218,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/08/340/340/jacqui-heinrich-headshot.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/kamala-harris-plane-singapore-delayed-possible-havana-syndrome.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-plane-singapore-delayed-possible-havana-syndrome.amp",
+      "publishedDateTime": "2021-08-24T09:03:26-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
       ]
     },
     {
@@ -1069,252 +1325,6 @@
         "Election",
         "Kamala Harris",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-23-josh-duggars-lawyers-trying-to-get-the-case-dismissed-with-a-donald-trump-oriented-argument.md",
-      "title": "Josh Duggar's Lawyers Trying To Get The Case Dismissed With A Donald Trump-Oriented Argument",
-      "excerpt": "Josh Duggar’s legal team has been busy in recent weeks as the former 19 Kids and Counting’s star preps for trial. The eldest son of Jim Bob and Michelle Duggar was arrested on one count of receipt of child pornography and one count of possession of child pornography back in April.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cinemablend.com/television/2572395/josh-duggar-lawyer-case-dismissed-donald-trump-oriented-argument?pv=related_list",
-      "originalUrl": "https://www.cinemablend.com/television/2572395/josh-duggar-lawyer-case-dismissed-donald-trump-oriented-argument?pv=related_list",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.cinemablend.com/quill/4/5/8/a/9/0/458a9063ffa8791c4da283f5ee12d513513c70e7.jpg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cinemablend.com/television/2572395/josh-duggar-lawyer-case-dismissed-donald-trump-oriented-argument",
-      "cdnAmpWebUrl": "https://amp-cinemablend-com.cdn.ampproject.org/c/s/amp.cinemablend.com/television/2572395/josh-duggar-lawyer-case-dismissed-donald-trump-oriented-argument",
-      "publishedDateTime": "2021-08-23T09:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cinema Blend",
-        "domain": "cinemablend.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-08-23-budget-clash-pits-moderate-democrats-against-biden-pelosi.md",
-      "title": "Budget clash pits moderate Democrats against Biden, Pelosi",
-      "excerpt": "The moderates want Congress to quickly send the bipartisan infrastructure measure to President Biden so he can sign it",
-      "sourceUrl": null,
-      "webUrl": "https://www.cleveland.com/nation/2021/08/budget-clash-pits-moderate-democrats-against-biden-pelosi.html",
-      "originalUrl": "https://www.cleveland.com/nation/2021/08/budget-clash-pits-moderate-democrats-against-biden-pelosi.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/AGDG7PYD6ZC7TIQFWCSZEP3KFA.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cleveland.com/nation/2021/08/budget-clash-pits-moderate-democrats-against-biden-pelosi.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/nation/2021/08/budget-clash-pits-moderate-democrats-against-biden-pelosi.html?outputType=amp",
-      "publishedDateTime": "2021-08-23T08:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cleveland.com",
-        "domain": "cleveland.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-08-23-matt-gaetz-says-he-asked-for-trumps-approval-before-proposing-to-ginger-luckey-who-eloped-with-him-amid-a-sex-trafficking-probe.md",
-      "title": "Matt Gaetz says he asked for Trump's approval before proposing to Ginger Luckey, who eloped with him amid a sex trafficking probe",
-      "excerpt": "Matt Gaetz said he asked for former President Donald Trump's approval before proposing to his now-wife Ginger Luckey, with whom he eloped over the weekend amid a federal sex",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/matt-gaetz-asked-for-trumps-approval-before-proposing-to-ginger-luckey-2021-8",
-      "originalUrl": "https://www.businessinsider.com/matt-gaetz-asked-for-trumps-approval-before-proposing-to-ginger-luckey-2021-8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 136,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6123ae95de5f560019e845d6?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/matt-gaetz-asked-for-trumps-approval-before-proposing-to-ginger-luckey-2021-8?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/matt-gaetz-asked-for-trumps-approval-before-proposing-to-ginger-luckey-2021-8?amp",
-      "publishedDateTime": "2021-08-23T08:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-08-23-nevada-senate-candidate-adam-laxalt-says-his-trump-ties-will-energize-base-give-gop-majority-in-2022.md",
-      "title": "Nevada Senate candidate Adam Laxalt says his Trump ties will energize base, give GOP majority in 2022",
-      "excerpt": "Republicans see Nevada as their ticket to put the brakes on President Biden's agenda for the final two years of his term. And Senate candidate Adam Laxalt believes that his support for former President Trump will help put him over the top in the state Republicans have had trouble winning for years.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/hNlVq6dVcfA/adam-laxalt-senate-trump-coalition-nevada",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/hNlVq6dVcfA/adam-laxalt-senate-trump-coalition-nevada",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 160,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/adam-laxalt-senate-trump-coalition-nevada.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/adam-laxalt-senate-trump-coalition-nevada.amp",
-      "publishedDateTime": "2021-08-23T03:15:14-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-23-kamala-harris-says-focus-must-stay-on-afghan-evacuation.md",
-      "title": "Kamala Harris says focus must stay on Afghan evacuation",
-      "excerpt": "The vice president says the priority is on evacuating Americans and vulnerable Afghans and it shouldn’t get distracted by questions over what went wrong in the chaotic U.S. exit from Afghanistan.",
-      "sourceUrl": null,
-      "webUrl": "https://www.latimes.com/world-nation/story/2021-08-23/kamala-harris-says-focus-must-stay-on-afghan-evacuation",
-      "originalUrl": "https://www.latimes.com/world-nation/story/2021-08-23/kamala-harris-says-focus-must-stay-on-afghan-evacuation",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 1765,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ca-times.brightspotcdn.com/dims4/default/9d14458/2147483647/strip/true/crop/4854x3246+8+0/resize/320x214!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F61%2F3f%2Fd4e6d7864c69a65dddf7f2ea5e01%2Fap21234735010272.jpg",
-          "width": 320,
-          "height": 214,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.latimes.com/world-nation/story/2021-08-23/kamala-harris-says-focus-must-stay-on-afghan-evacuation?_amp=true",
-      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2021-08-23/kamala-harris-says-focus-must-stay-on-afghan-evacuation?_amp=true",
-      "publishedDateTime": "2021-08-23T01:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Los Angeles Times",
-        "domain": "latimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
       ]
     }
   ],

@@ -2,6 +2,97 @@
   "page": 40,
   "value": [
     {
+      "path": "_news/2021-06-18-kushner-snags-book-deal-with-harper-collins-no-deal-yet-for-trump.md",
+      "title": "Kushner snags book deal with Harper Collins; no deal yet for Trump",
+      "excerpt": "The Broadside Books imprint of Harper Collins said it signed Donald Trump’s son-in-law and former trusted adviser to a book that’s still untitled but apparently well underway and",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/06/17/kushner-snags-book-deal-with-harper-collins-no-deal-yet-for-trump/",
+      "originalUrl": "https://nypost.com/2021/06/17/kushner-snags-book-deal-with-harper-collins-no-deal-yet-for-trump/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/06/kushner-nabs-book-deal4.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/06/17/kushner-snags-book-deal-with-harper-collins-no-deal-yet-for-trump/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/17/kushner-snags-book-deal-with-harper-collins-no-deal-yet-for-trump/amp/",
+      "publishedDateTime": "2021-06-17T17:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-18-trump-nominated-judge-to-hear-us-fight-to-stop-aons-purchase-of-willis-towers.md",
+      "title": "Trump-nominated judge to hear U.S. fight to stop Aon’s purchase of Willis Towers",
+      "excerpt": "U.S. District Judge Carl Nichols, who joined the court in 2019, will hear the Justice Department's lawsuit aimed at stopping insurance broker Aon's (AON.N) $30 billion acquisition of Willis Towers Watson (WTY.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/legal/litigation/trump-nominated-judge-hear-us-fight-stop-aons-purchase-willis-towers-2021-06-17/",
+      "originalUrl": "https://www.reuters.com/legal/litigation/trump-nominated-judge-hear-us-fight-stop-aons-purchase-willis-towers-2021-06-17/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-17T14:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-06-18-axios-mocked-for-blaming-worker-burnout-on-capitol-riot-fallout-from-the-trump-presidency.md",
       "title": "Axios mocked for blaming worker burnout on Capitol riot, 'fallout from the Trump presidency'",
       "excerpt": "Many Americans have declined to return to work following coronavirus shutdowns and enhanced unemployment benefits, but Axios feels the labor shortage is largely former President Donald Trump’s fault.",
@@ -1226,114 +1317,6 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/15/politics/takeaways-trump-emails-election/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/15/politics/takeaways-trump-emails-election/index.html",
       "publishedDateTime": "2021-06-15T10:05:52-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-15-emails-show-trump-pressured-justice-dept-over-2020-election.md",
-      "title": "Emails show Trump pressured Justice Dept. over 2020 election",
-      "excerpt": "Newly released emails show President Donald Trump and his allies pressured the Justice Department to investigate unsubstantiated claims of voter fraud in the 2020 election in the last weeks of his ter",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/emails-show-trump-pressured-justice-dept-2020-election-78292613",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/emails-show-trump-pressured-justice-dept-2020-election-78292613",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 1960,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/site/ABCNews_flat_black.png",
-          "width": 834,
-          "height": 308,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/emails-show-trump-pressured-justice-dept-2020-election-78292613",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/emails-show-trump-pressured-justice-dept-2020-election-78292613",
-      "publishedDateTime": "2021-06-15T09:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-15-potential-red-flag-trump-struggles-to-clear-senate-gop-fields.md",
-      "title": "'Potential red flag': Trump struggles to clear Senate GOP fields ",
-      "excerpt": "A growing number of GOP Senate contenders are spurning former President Donald Trump's wishes with campaigns that defy his criticism or ignore his support of a rival, as the Republican Party debates his role in its future.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3qjhpMNpm8U/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3qjhpMNpm8U/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210614174534-01-trump-senate-gop-budd-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/15/politics/trump-influence-2022-senate-gop-field/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/15/politics/trump-influence-2022-senate-gop-field/index.html",
-      "publishedDateTime": "2021-06-15T09:02:11-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",

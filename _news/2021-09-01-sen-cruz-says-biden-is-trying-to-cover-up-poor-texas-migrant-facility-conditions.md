@@ -95,22 +95,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Biden slams Supreme Court Texas abortion ruling as 'unprecedented assault on a woman’s constitutional rights’"
-    excerpt: "President Biden on Thursday slammed the Supreme Court’s overnight ruling on Texas' abortion law as an “unprecedented assault on a woman’s constitutional rights.”"
-    publishedDateTime: 2021-09-02T18:20:36Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/s0NHXNhMv88/biden-supreme-court-texas-abortion-ruling-reaction"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-supreme-court-texas-abortion-ruling-reaction.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-supreme-court-texas-abortion-ruling-reaction.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 156
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Joe Biden orders declassification review of 9/11 probe documents"
     excerpt: "President Biden signed an executive order directing the DOJ and other agencies to oversee the review of 9/11 documents and ordered Merrick Garland to release any declassified documents publicly."
     publishedDateTime: 2021-09-04T03:23:00Z

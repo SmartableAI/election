@@ -26,35 +26,37 @@ topics:
   - Republican Voice
 
 related:
-  - title: "Harris accuses Texas Gov. Abbott of 'arrogantly' dismissing rape victims"
-    excerpt: "Vice President Kamala Harris opened up a speech supporting California Gov. Gavin Newsom against a recall effort by slamming Texas Gov. Greg Abbott and his state’s newly enacted law restricting abortions."
-    publishedDateTime: 2021-09-08T22:13:01Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XPudeoBAzzE/harris-slams-abbott-at-pro-newsom-rally-accuses-him-of-arrogantly-dismissing-rape-victims"
-    ampWebUrl: "https://www.foxnews.com/politics/harris-slams-abbott-at-pro-newsom-rally-accuses-him-of-arrogantly-dismissing-rape-victims.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-slams-abbott-at-pro-newsom-rally-accuses-him-of-arrogantly-dismissing-rape-victims.amp"
+  - title: "Will Cain: Kamala Harris ‘used’ on Biden ticket, been MIA ever since"
+    excerpt: "\"The Five\" speculates about Kamala Harris' whereabouts, with co-host Will Cain predicting she will re-emerge from hiding when she's ready to face the fact that she was used for votes."
+    publishedDateTime: 2021-09-02T02:43:00Z
+    webUrl: "https://www.foxnews.com/media/will-cain-kamala-harris-biden-ticket-mia-since"
+    ampWebUrl: "https://www.foxnews.com/media/will-cain-kamala-harris-biden-ticket-mia-since.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/will-cain-kamala-harris-biden-ticket-mia-since.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 184
+    quality: 150
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/de97b5d5-9a48-4839-a8a4-d085340888e6/151303eb-e6ed-45a1-867c-254e4a3a3838/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6972f609-5acf-4822-97fb-0148775f443c/f75c6322-2b94-4ce0-90a6-cd48f6631868/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
-  - title: "Harris to campaign for Newsom in California next week"
-    excerpt: "Vice President Kamala Harris will campaign for California Gov. Gavin Newsom as his recall election looms two weeks away."
-    publishedDateTime: 2021-09-04T21:31:06Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8xXIRKZE8_o/harris-to-campaign-for-newsom-in-california-next-week"
+  - title: "Bail fund backed by Kamala Harris freed Minneapolis man charged with murder"
+    excerpt: "A bail fund promoted by Vice President Kamala Harris helped lead to the release of an alleged Minneapolis domestic abuser — who has now been charged with murder in a road rage slaying."
+    publishedDateTime: 2021-09-08T12:42:00Z
+    webUrl: "https://nypost.com/2021/09/08/bail-fund-backed-by-kamala-harris-freed-man-charged-with-murder/"
+    ampWebUrl: "https://nypost.com/2021/09/08/bail-fund-backed-by-kamala-harris-freed-man-charged-with-murder/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/09/08/bail-fund-backed-by-kamala-harris-freed-man-charged-with-murder/amp/"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 165
+      name: New York Post
+      domain: nypost.com
+    quality: 133
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/06/KAMALAHARRIS-BORDER-TRUMPVISIT.jpg"
-        width: 1280
-        height: 720
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/09/shooting-97.jpg?quality=90&strip=all&w=1024"
+        width: 1024
+        height: 682
         isCached: true
 
 secured: "+klbMkrrcrdFttmworAKA/NeMeFqviRZ/2PrhPNrDMa4qe9WiSNsbv4ekMXBShSDILqX0nIXZUSZzK+9arO6hK6K+ouN/gX5LpSPWYGlp+dMcAtyTA9ouOUpXP59wjm2QbJGe8Rgl4bdiKPjCmdyBqBR9wFI7UbQxhPBYO/V1UiGWQTRFpwYG+XwI5TLLbvzjKpAr7iAJIlF2Vp8W7dPh/RJHS2FpdgrPTCvBkDTTSnFXTHHLa9yEaQJVvAdnnS2lSKrB7VctSWbNB8Y4mayiufoLnWOM5DMk4YjtUWvn1EkJ/r8ALyeHY+JKF6V6I7NH+M3+7JnOkiiaKSOMJbcHycAtD0FBd1CSn8fGm9CRDA7FbURVzMrYihwQV96dN3pAWE/uUZsXw1ypHtxb9c+GL1iNhKhmvCBbzXv5NSSu9WPBz0rS3Uc9XZK/d9utJoHhZ1fkFk3qJfyZHaXT3bvk2BJe4/Fc8DD9UkJqAs9AbgWATn2Y6y09BuMKa5XyAdsg/vpypt3Su6HX/ACLg2wqA==;NDxe5zdFbvayIsdU/oM0Wg=="

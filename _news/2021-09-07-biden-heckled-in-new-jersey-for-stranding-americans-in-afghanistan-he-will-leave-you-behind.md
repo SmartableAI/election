@@ -111,6 +111,17 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Passenger aboard American Airlines flight growls like a dog, shouts, ‘Joe Biden!’"
+    excerpt: "The man, identified as 61-year-old Timothy Armstrong of Las Vegas, was aboard Flight 1802 from LA to Salt Lake City on Monday when he went on his unhinged tirade."
+    publishedDateTime: 2021-09-09T14:59:00Z
+    webUrl: "https://nypost.com/2021/09/09/passenger-aboard-american-airlines-flight-growls-like-a-dog/"
+    ampWebUrl: "https://nypost.com/2021/09/09/passenger-aboard-american-airlines-flight-growls-like-a-dog/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/09/09/passenger-aboard-american-airlines-flight-growls-like-a-dog/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 110
 
 secured: "CKU8etcZkQJsoZQheLKOgHWrm9tRUtnkIu99bPkXtxE4URHdGoJcDiaViZ0m9nwZRYwVqrm4H6+t+nzR2StC7wxmM3diLh3uGcD5bGV7ejP377TuUkvZU7mcATW6X8JzhtdrTbLM0WjbgjDWOZJVW+1RCwyHzhwIxQC3xWq5Enr6QhP+7EnT2G65awRo6xkBgaMAINzmY0bueynYjRP9/mTafb9vs8MatzQyDAuLSyo4FnzbBnZuJr8PVlidElZUe6DMnYBqHHwhQ46spZNVsmgbPdcYgKokJRhNqJtWIJmyVdscxelgYq5IQQ05tWOYkPeIuPKskWDrLzpkh88Iz+Lgvr/CQGJS+EZQUcfhmu8=;AOt2maw8nx6S2zy7Rmf+rw=="
 ---

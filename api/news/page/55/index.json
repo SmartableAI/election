@@ -2,6 +2,115 @@
   "page": 55,
   "value": [
     {
+      "path": "_news/2021-05-18-trump-is-still-spending-taxpayer-money-to-fund-his-office-17-staff-report.md",
+      "title": "Trump Is Still Spending Taxpayer Money To Fund His Office, 17 Staff: Report",
+      "excerpt": "Former President Donald Trump can continue using taxpayer money to fund his office and staffers until July 21.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/trump-still-spending-taxpayer-money-fund-his-office-17-staff-report-3201158",
+      "originalUrl": "https://www.ibtimes.com/trump-still-spending-taxpayer-money-fund-his-office-17-staff-report-3201158",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/12/former-us-president-donald-trumps-grip-on-the.jpg",
+          "width": 1024,
+          "height": 731,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/trump-still-spending-taxpayer-money-fund-his-office-17-staff-report-3201158?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-still-spending-taxpayer-money-fund-his-office-17-staff-report-3201158?amp=1",
+      "publishedDateTime": "2021-05-17T18:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-05-18-pentagon-weighs-keeping-trump-era-change-to-psychological-operations.md",
+      "title": "Pentagon weighs keeping Trump-era change to ‘psychological operations’",
+      "excerpt": "The policy change highlights tension between military leaders and diplomats about how the U.S. handles gray-area operations that fall short of all-out war.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2021/05/17/pentagon-weighs-trump-change-489109",
+      "originalUrl": "https://www.politico.com/news/2021/05/17/pentagon-weighs-trump-change-489109",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/f2/f2/daa4b5344203925a725579019d88/5-17-21-lloydaustin-ap-773.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.com/amp/news/2021/05/17/pentagon-weighs-trump-change-489109",
+      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/05/17/pentagon-weighs-trump-change-489109",
+      "publishedDateTime": "2021-05-17T15:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-05-18-trump-house-democrats-near-agreement-on-deutsche-bank-subpoenas.md",
       "title": "Trump, House Democrats near agreement on Deutsche Bank subpoenas",
       "excerpt": "Former President Donald Trump and Democrats in the U.S. House of Representatives said on Monday they are near an agreement to resolve disputes concerning congressional subpoenas of his financial records from Deutsche Bank AG.",
@@ -1255,115 +1364,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-05-15-a-colorado-man-accused-of-murdering-his-wife-told-fbi-agents-that-he-submitted-a-ballot-for-trump-in-her-name-because-the-other-guys-were-cheating.md",
-      "title": "A Colorado man accused of murdering his wife told FBI agents that he submitted a ballot for Trump in her name because the 'other guys' were cheating",
-      "excerpt": "Barry Morphew was charged with a felony count of forging public documents after telling investigators that he sent in a vote for his missing wife.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/colorado-man-tried-vote-for-trump-using-missing-wife-identity-2021-5",
-      "originalUrl": "https://www.businessinsider.com/colorado-man-tried-vote-for-trump-using-missing-wife-identity-2021-5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/609e9e50a807be0018d6227e?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/colorado-man-tried-vote-for-trump-using-missing-wife-identity-2021-5?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/colorado-man-tried-vote-for-trump-using-missing-wife-identity-2021-5?amp",
-      "publishedDateTime": "2021-05-14T10:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-05-14-trump-considers-contenders-to-be-his-new-social-media-outlet-after-big-tech-crackdown.md",
-      "title": "Trump Considers Contenders to Be His New Social-Media Outlet After Big Tech Crackdown",
-      "excerpt": "CloutHub and Skylab Apps are among companies vying to work with the former president, who was sidelined by Facebook and Twitter.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/trump-considers-contenders-to-be-his-new-social-media-outlet-after-big-tech-crackdown-11621013567",
-      "originalUrl": "https://www.wsj.com/articles/trump-considers-contenders-to-be-his-new-social-media-outlet-after-big-tech-crackdown-11621013567",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 128,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-338638/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/trump-considers-contenders-to-be-his-new-social-media-outlet-after-big-tech-crackdown-11621013567",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-considers-contenders-to-be-his-new-social-media-outlet-after-big-tech-crackdown-11621013567",
-      "publishedDateTime": "2021-05-14T09:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     }
   ],

@@ -79,6 +79,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "RNC to sue Biden admin over vaccine mandates"
+    excerpt: "RNC Chairwoman Ronna McDaniel announced Thursday that the RNC intends to sue President Joe Biden over new COVID-19 vaccine mandates, which directly impact the private sector."
+    publishedDateTime: 2021-09-10T01:51:56Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MbbpePHC-As/rnc-announces-intention-to-sue-biden-admin-over-vaccine-mandates"
+    ampWebUrl: "https://www.foxnews.com/politics/rnc-announces-intention-to-sue-biden-admin-over-vaccine-mandates.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rnc-announces-intention-to-sue-biden-admin-over-vaccine-mandates.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cdf0774a-c248-4a91-886c-8ee712603e6c/e9778feb-d2db-493c-8361-c73e73d6a80d/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Sen. Hagerty picks up 'shock' from US allies over Biden's Afghanistan exit"
     excerpt: "Sen. Bill Hagerty says that NATO allies are concerned about terror threats that could emerge from Afghanistan after the botched U.S. withdrawal."
     publishedDateTime: 2021-09-06T20:39:51Z

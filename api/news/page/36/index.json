@@ -2,6 +2,110 @@
   "page": 36,
   "value": [
     {
+      "path": "_news/2021-06-25-mike-pence-brands-critical-race-theory-state-sanctioned-racism.md",
+      "title": "Mike Pence Brands Critical Race Theory 'State-Sanctioned Racism'",
+      "excerpt": "Former Vice President Mike Pence has called for the elimination of critical race theory during a speech in which he outlined his vision for the future of the Republican Party. Pence said on Thursday that the GOP \"must stop the efforts to rewrite American history through initiatives like the 1619 Project ,",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/mike-pence-gop-critical-race-theory-state-sanctioned-racism-1604033",
+      "originalUrl": "https://www.newsweek.com/mike-pence-gop-critical-race-theory-state-sanctioned-racism-1604033",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1829732/former-vice-president-mike-pence.jpg",
+          "width": 2814,
+          "height": 1876,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/mike-pence-gop-critical-race-theory-state-sanctioned-racism-1604033?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mike-pence-gop-critical-race-theory-state-sanctioned-racism-1604033?amp=1",
+      "publishedDateTime": "2021-06-25T02:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-06-25-joe-biden-whispering-video-viewed-over-3-million-times-what-did-i-just-watch.md",
+      "title": "Joe Biden Whispering Video Viewed Over 3 Million Times: 'What Did I Just Watch?'",
+      "excerpt": "The president drew criticism from several prominent conservatives for his whispered responses to reporters while discussing a $1.2 trillion infrastructure deal.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/joe-biden-whispering-viewed-3-million-times-infrastructure-bill-1604022",
+      "originalUrl": "https://www.newsweek.com/joe-biden-whispering-viewed-3-million-times-infrastructure-bill-1604022",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1829722/joe-biden-whispering-white-house.jpg",
+          "width": 2500,
+          "height": 1817,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/joe-biden-whispering-viewed-3-million-times-infrastructure-bill-1604022?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-whispering-viewed-3-million-times-infrastructure-bill-1604022?amp=1",
+      "publishedDateTime": "2021-06-25T01:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-06-25-in-this-rural-virginia-district-a-young-republican-turns-toward-trump-in-faceoff-against-blm-supporter.md",
       "title": "In this rural Virginia district, a young Republican turns toward Trump in faceoff against BLM supporter",
       "excerpt": "Newcomer Wren Williams, who worked on the Trump campaign recount, faces a November contest with Black Lives Matter advocate Bridgette Craighead.",
@@ -1237,114 +1341,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-06-24-fauci-resisted-trump-directive-to-cancel-virus-research-grant-linked-to-wuhan-lab-book.md",
-      "title": "Fauci resisted Trump directive to cancel virus research grant linked to Wuhan lab: Book",
-      "excerpt": "Anthony Fauci resisted a White House directive in April of last year to cancel a research grant for a nonprofit linked to the Wuhan Institute of Virology, only complying after he learned that former President Donald Trump had explicitly ordered its cancellation, according to an exclusive excerpt from",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/STf92Ecf4-E/fauci-resisted-trump-cancel-virus-research-grant-wuhan-lab",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/STf92Ecf4-E/fauci-resisted-trump-cancel-virus-research-grant-wuhan-lab",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a6b6882a-3fe3-451f-afaf-d997c6272a0f/3c86c9b9-8f29-40ed-b50c-c73b6de58ca8/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/fauci-resisted-trump-cancel-virus-research-grant-wuhan-lab.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/fauci-resisted-trump-cancel-virus-research-grant-wuhan-lab.amp",
-      "publishedDateTime": "2021-06-24T03:18:39-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-24-trump-ridicules-ducey-over-political-future-there-is-no-way-he-would-get-my-endorsement.md",
-      "title": "Trump ridicules Ducey over political future: 'There is no way he would get my endorsement'",
-      "excerpt": "Without the former president's endorsement, Ducey's aspirations \"would be permanently put to rest,\" Trump said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/arizona/2021/06/23/donald-trump-ridicules-gov-doug-ducey-over-his-political-future/5330681001/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/arizona/2021/06/23/donald-trump-ridicules-gov-doug-ducey-over-his-political-future/5330681001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/05/07/PPHX/88ce62df-6266-499d-aff4-e7edab852105-_S_03764.JPG?auto=webp&crop=2742,1542,x0,y231&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/5330681001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5330681001",
-      "publishedDateTime": "2021-06-23T21:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

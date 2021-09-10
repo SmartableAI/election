@@ -1,10 +1,10 @@
 ---
 category: news
 title: "US President Joe Biden Delivers Remarks in Honor of Labor Unions"
-excerpt: "US President Joe Biden mingles with guests following his remarks in honor of labor unions during an event in the East Room of the White House in Washington, DC on September 8, 2021. Pool Photo by Shaw"
+excerpt: "US President Joe Biden delivers remarks in honor of labor unions during an event in the East Room of the White House in Washington, DC on September 8, 2021. Pool Photo by Shawn Thew/UPI"
 publishedDateTime: 2021-09-08T18:45:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/2d999a88cd873bb200a4fcece91cf36a/US-President-Joe-Biden-Delivers-Remarks-in-Honor-of-Labor-Unions/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/2d999a88cd873bb200a4fcece91cf36a/US-President-Joe-Biden-Delivers-Remarks-in-Honor-of-Labor-Unions/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/d56b095e1367e837233d75d514c4b21e/US-President-Joe-Biden-Delivers-Remarks-in-Honor-of-Labor-Unions/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/d56b095e1367e837233d75d514c4b21e/US-President-Joe-Biden-Delivers-Remarks-in-Honor-of-Labor-Unions/"
 type: article
 quality: 55
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/2d999a88cd873bb200a4fcece91cf36a/BIDEN-LABOR-UNIONS.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/d56b095e1367e837233d75d514c4b21e/BIDEN-LABOR-UNIONS.jpg"
     width: 650
     height: 433
     isCached: true
@@ -103,6 +103,54 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "House Dems begin moving parts of Biden $3.5T domestic plans"
+    excerpt: "Democrats began pushing plans for providing paid family and medical leave, easing climate change and bolstering education through House committees Thursday as they battled Republicans and among themselves over President Joe Biden's $3."
+    publishedDateTime: 2021-09-09T21:56:00Z
+    webUrl: "https://www.ctpost.com/news/article/House-Dems-begin-moving-parts-of-Biden-3-5T-16446639.php"
+    ampWebUrl: "https://www.ctpost.com/news/amp/House-Dems-begin-moving-parts-of-Biden-3-5T-16446639.php"
+    cdnAmpWebUrl: "https://www-ctpost-com.cdn.ampproject.org/c/s/www.ctpost.com/news/amp/House-Dems-begin-moving-parts-of-Biden-3-5T-16446639.php"
+    type: article
+    provider:
+      name: Connecticut Post
+      domain: ctpost.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
+  - title: "President Joe Biden to stop in Boise next week"
+    excerpt: "President Joe Biden will be in Boise on Monday to visit the National Interagency Fire Center, the White House Press Office announced Thursday."
+    publishedDateTime: 2021-09-09T17:57:00Z
+    webUrl: "https://www.idahopress.com/news/local/president-joe-biden-to-stop-in-boise-next-week/article_f5c10594-f642-5a6d-b4b7-6cc4700c0894.html"
+    ampWebUrl: "https://www.idahopress.com/news/local/president-joe-biden-to-stop-in-boise-next-week/article_f5c10594-f642-5a6d-b4b7-6cc4700c0894.amp.html"
+    cdnAmpWebUrl: "https://www-idahopress-com.cdn.ampproject.org/c/s/www.idahopress.com/news/local/president-joe-biden-to-stop-in-boise-next-week/article_f5c10594-f642-5a6d-b4b7-6cc4700c0894.amp.html"
+    type: article
+    provider:
+      name: Idaho Press
+      domain: idahopress.com
+    quality: 75
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/idahopress.com/content/tncms/assets/v3/editorial/b/ea/beaa0a53-d92f-5cb4-883e-5d447566f033/613a4eaf1a3be.image.jpg"
+        width: 512
+        height: 341
+        isCached: true
+  - title: "Biden calls for companies with more than 100 workers to require COVID-19 vaccinations or tests"
+    excerpt: "The president is also calling for a vaccination or testing policy at many health care facilities. The steps would affect 100 million Americans."
+    publishedDateTime: 2021-09-09T19:54:00Z
+    webUrl: "https://www.pennlive.com/coronavirus/2021/09/biden-calls-for-companies-with-more-than-100-workers-to-require-covid-19-vaccinations-or-tests.html"
+    ampWebUrl: "https://www.pennlive.com/coronavirus/2021/09/biden-calls-for-companies-with-more-than-100-workers-to-require-covid-19-vaccinations-or-tests.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-pennlive-com.cdn.ampproject.org/c/s/www.pennlive.com/coronavirus/2021/09/biden-calls-for-companies-with-more-than-100-workers-to-require-covid-19-vaccinations-or-tests.html?outputType=amp"
+    type: article
+    provider:
+      name: Penn Live
+      domain: pennlive.com
+    quality: 63
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/S3532I2WZFHONEQGMNXIF764Z4.jpg"
+        width: 4009
+        height: 2672
+        isCached: true
   - title: "John Rutherford calls for Joe Biden’s resignation"
     excerpt: "A Republican Congressman from Northeast Florida is calling for President Joe Biden to resign from office. U.S. Rep. John Rutherford, who represents Florida’s 4th Congressional District, blasted Biden in the wake of the Afghanistan withdrawal."
     publishedDateTime: 2021-08-31T18:12:00Z
@@ -120,16 +168,16 @@ related:
   - title: "President Joe Biden Deliver Remarks in Honor of Labor Unions"
     excerpt: "President Joe Biden deliver remarks in honor of labor unions during an event in the East Room of the White House in Washington, DC, on Wednesday, September 8 2021. Photo by Shawn Thew/UPI"
     publishedDateTime: 2021-09-08T16:34:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/0780d645dd81667d6e38f3effadedfff/President-Joe-Biden-Deliver-Remarks-in-Honor-of-Labor-Unions/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/05f9c116747fbce74ef23bbe7a146c93/President-Joe-Biden-Deliver-Remarks-in-Honor-of-Labor-Unions/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/0780d645dd81667d6e38f3effadedfff/BIDEN-LABOR-UNIONS.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/05f9c116747fbce74ef23bbe7a146c93/BIDEN-LABOR-UNIONS.jpg"
         width: 650
-        height: 433
+        height: 975
         isCached: true
   - title: "Biden expected to push broad vaccination mandates"
     excerpt: "About 27% of the eligible U.S. population age 12 and older have not received any coronavirus vaccinations, according to data from the Centers for Disease Control and Prevention."
@@ -171,6 +219,6 @@ related:
         height: 675
         isCached: true
 
-secured: "81JeyRqZU+YfeQXNWf8WmR/ChSiWij2W4CS4AewuWeegmm+hPnXJw1WK1ivFnv5x+Zn0NlqR4NCIiNXtyDjBrf/rQYbyYQ6l6O1edYFgDx8qLrLSxG9v01C9R8Yp+GRA5tPEPdqUpesI20FZ9CW0IsHXz31tJE/XMSku9Ke9cqfK4MZF5Sd5frXzfDf3RYHJziEPhMBFr2hQnsYFdHeLxmyE2TTVY61+Ejo1zFrCxpWOaR4KUzgP266utaQT5+M5nh1i55AqLoQuWe9jWMLum6wgGncJqBX6oewKtPsyFOt59rYFWGj/FcDpGRDCR/SHnDj1F3dJz0+xWzHDPjvxD3rXtT9fYuH144luAl9VLzk=;nywI9ySEjCUFb3eozS9E0g=="
+secured: "MbF/7GHwRMBt2VFG4ldRVAUFEzejeETg5zKrDFyKSYIqib1Z4ceslIz2AJQ0HDUBDjiyfdlZ6GulGE2E6368ZTww9GG1KzNsHieCKOb3p3RNplkQt7nCltxZQFTm1Qwo2/LZapkEJvl1G7OBITkXlrt36NaggUkszJnYjzwR37ZlWPnIzZmfv7OV3MVeusINU+/SNGdy53N4LNJ23NQ3G7YazijSe9oSXfiHvjQkLO2PgOzM+4I9GnjJfyCffIaGsMd3gTWN/rXR33he1yJGYbSk+eKsjDIyzMtejg+iy5iLIBBKOR6U87q67nRX+d8oZ9xKdudFn7HV2mTFwJeBxxzEpCruJMVmqXs9U8mqzZ8=;85zXVG69Xisf562UXeonaA=="
 ---
 

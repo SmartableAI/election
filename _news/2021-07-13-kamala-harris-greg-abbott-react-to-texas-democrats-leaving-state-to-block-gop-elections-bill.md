@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/7943614002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7943614002"
 type: article
 quality: 129
-heat: 669
+heat: 689
 published: true
 
 provider:
@@ -133,6 +133,22 @@ related:
       - url: "https://i2.wp.com/www.nationalreview.com/wp-content/uploads/2021/06/kamala-harris-el-paso-texas-2.jpg?fit=1200%2C700&ssl=1"
         width: 1200
         height: 700
+        isCached: true
+  - title: "Kamala Harris blasts Texas Gov. Abbott’s ‘arrogant’ abortion comments"
+    excerpt: "Vice president Kamala Harris has blasted Gov. Greg Abbott of Texas for saying he would 'eliminate all rapists.'"
+    publishedDateTime: 2021-09-09T19:37:00Z
+    webUrl: "https://thegrio.com/2021/09/09/kamala-harris-blasts-abbott/"
+    ampWebUrl: "https://thegrio.com/2021/09/09/kamala-harris-blasts-abbott/amp/"
+    cdnAmpWebUrl: "https://thegrio-com.cdn.ampproject.org/c/s/thegrio.com/2021/09/09/kamala-harris-blasts-abbott/amp/"
+    type: article
+    provider:
+      name: The Grio
+      domain: thegrio.com
+    quality: 75
+    images:
+      - url: "https://thegrio.com/wp-content/uploads/2021/09/KamalaAbbott-scaled.jpg"
+        width: 1280
+        height: 659
         isCached: true
   - title: "Harris meets with Texas lawmakers who left state to block GOP voting bill"
     excerpt: "VP Kamala Harris will meet with Texas Democratic lawmakers this week. Harris last met with Texas Democratic leaders in June. WASHINGTON — Vice President Kamala Harris met Tuesday with Democratic lawmakers from Texas who left the state to avoid voting on a bill backed by a GOP-controlled Legislature that would make sweeping changes to voting in the state."

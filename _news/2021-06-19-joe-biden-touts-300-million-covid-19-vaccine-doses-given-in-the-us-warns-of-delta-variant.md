@@ -235,6 +235,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Joe Biden expected to mandate Covid vaccines for federal workers"
+    excerpt: "President to outline six-point plan to tackle coronavirus spread and falling falling vaccination rate"
+    publishedDateTime: 2021-09-09T12:54:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/sep/09/joe-biden-coronavirus-covid-pandemic-white-house"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/sep/09/joe-biden-coronavirus-covid-pandemic-white-house"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/sep/09/joe-biden-coronavirus-covid-pandemic-white-house"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/45e15e5feb7fec61408ce2ed3eea80f457b8b752/0_0_5210_3126/master/5210.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=370fbf4a6451e3ef7d4e134064e29ca3"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Biden pushes plan to rebuild US infrastructure as Covid cases rise – live"
     excerpt: "President to launch next phase of Build Back Better program and announces plans to tackle rising anti-Asian violence – follow all the latest politics news"
     publishedDateTime: 2021-03-30T17:44:00Z

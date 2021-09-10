@@ -2,6 +2,114 @@
   "page": 78,
   "value": [
     {
+      "path": "_news/2021-04-02-pompeo-regrets-trump-administration-didnt-make-more-progress-with-north-korea.md",
+      "title": "Pompeo regrets Trump administration ‘didn’t make more progress’ with North Korea",
+      "excerpt": "Secretary of State Mike Pompeo said his “regret” under the Trump administration was not convincing North Korea to give up its nuclear program. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vAYTSdqkFkI/pompeo-regrets-didnt-make-more-progress-north-korea",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vAYTSdqkFkI/pompeo-regrets-didnt-make-more-progress-north-korea",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 170,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/GettyImages-1205319274.jpg",
+          "width": 3201,
+          "height": 2134,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/pompeo-regrets-didnt-make-more-progress-north-korea.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pompeo-regrets-didnt-make-more-progress-north-korea.amp",
+      "publishedDateTime": "2021-04-01T19:27:08-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-02-wisconsin-seeks-145000-in-fees-for-trumps-bad-faith-election-lawsuit.md",
+      "title": "Wisconsin seeks $145,000 in fees for Trump's 'bad faith' election lawsuit",
+      "excerpt": "Wisconsin's Democratic Governor Tony Evers has asked a federal judge to order Donald Trump to cover $145,000 in legal fees the state spent to defend against the former Republican president's unsuccessful effort to overturn its 2020 election results.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-election-wisconsin-idUSKBN2BO6M8",
+      "originalUrl": "https://www.reuters.com/article/us-usa-election-wisconsin-idUSKBN2BO6M8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 259,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.reutersmedia.net/resources/r/?m=02&d=20210401&t=2&i=1557071923&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH303G2",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2BO6M8",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BO6M8",
+      "publishedDateTime": "2021-04-01T17:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-04-01-former-sen-perdue-slams-biden-spending-bill-as-a-climate-change-bill-at-its-roots.md",
       "title": "Former Sen. Perdue slams Biden spending bill as a 'climate change bill at its roots'",
       "excerpt": "Former Georgia Senator David Perdue slammed President Biden's $2 trillion infrastructure spending bill Thursday, saying it was \"a climate change bill at its roots.\" ",
@@ -1257,110 +1365,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-01-donald-trump-moving-forward-with-plans-for-own-social-media-platform.md",
-      "title": "Donald Trump ‘moving forward’ with plans for own social media platform",
-      "excerpt": "Former President Donald Trump and his team are “moving forward” with plans to create their own social media platform, a report published Wednesday said. “We’re moving forward,”",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/03/31/trump-moving-forward-with-plan-for-social-media-platform/",
-      "originalUrl": "https://nypost.com/2021/03/31/trump-moving-forward-with-plan-for-social-media-platform/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/03/trump-social-media.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/03/31/trump-moving-forward-with-plan-for-social-media-platform/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/31/trump-moving-forward-with-plan-for-social-media-platform/amp/",
-      "publishedDateTime": "2021-03-31T11:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-biden-should-keep-dog-major-away-from-people-after-2nd-bite-lawyers.md",
-      "title": "Biden should keep dog Major away from people after 2nd bite: lawyers",
-      "excerpt": "President Biden has a duty to keep his German Shepherd, Major, away from people after the dog bit a second employee, a personal injury lawyer told Fox News.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/7EjKAKvN9JU/biden-dog-major-bite-white-house-legal",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/7EjKAKvN9JU/biden-dog-major-bite-white-house-legal",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 595,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/2021-03-23T172225Z_739678050_RC25HM9L4A90_RTRMADP_3_USA-BIDEN.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-dog-major-bite-white-house-legal.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-dog-major-bite-white-house-legal.amp",
-      "publishedDateTime": "2021-03-31T11:28:04-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

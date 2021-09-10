@@ -2,6 +2,110 @@
   "page": 67,
   "value": [
     {
+      "path": "_news/2021-04-20-trump-looking-beyond-seriously-at-2024-run.md",
+      "title": "Trump looking 'beyond seriously' at 2024 run",
+      "excerpt": "Former President Trump in an interview broadcast late Monday teased a run for the White House in 2024 but declined to give a definitive answer on if he has made the decision to pursue the Oval Office for a second time.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/campaign/549139-trump-looking-beyond-seriously-at-2024-run",
+      "originalUrl": "https://thehill.com/homenews/campaign/549139-trump-looking-beyond-seriously-at-2024-run",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 205,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/ca_trumplgbtqsuit_110420getty_0.jpg",
+          "width": 1440,
+          "height": 880,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/campaign/549139-trump-looking-beyond-seriously-at-2024-run?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/549139-trump-looking-beyond-seriously-at-2024-run?amp",
+      "publishedDateTime": "2021-04-20T04:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-04-20-there-would-probably-be-more-yawns-than-outrage-if-biden-expanded-the-supreme-court.md",
+      "title": "There would probably be more yawns than outrage if Biden expanded the Supreme Court",
+      "excerpt": "Some progressives want Biden to expand the court and appoint several new members to balance the conservative 6-3 majority on the court. They are outraged at what they perceive as Republicans illegitimately filling two seats: first,",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/2021/04/20/thered-probably-be-more-yawns-than-outrage-if-biden-expanded-supreme-court/",
+      "originalUrl": "https://www.washingtonpost.com/politics/2021/04/20/thered-probably-be-more-yawns-than-outrage-if-biden-expanded-supreme-court/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/F5DZZDFBJ4I6XMYUF2MTXWB6GE.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/2021/04/20/thered-probably-be-more-yawns-than-outrage-if-biden-expanded-supreme-court/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/04/20/thered-probably-be-more-yawns-than-outrage-if-biden-expanded-supreme-court/?outputType=amp",
+      "publishedDateTime": "2021-04-20T04:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-04-20-reps-roy-herrell-move-to-force-house-vote-on-extending-trump-era-border-restrictions.md",
       "title": "Reps. Roy, Herrell move to force House vote on extending Trump-era border restrictions",
       "excerpt": "FIRST ON FOX: Reps. Chip Roy, R-Texas, and Yvette Herrell, R-N.M., on Monday moved to force a vote on a bill that would keep a Trump-era public health order -- which allows migrants to be rapidly expelled from the U.S. -- in place until the COVID-19 pandemic and associated restrictions are repealed.",
@@ -1241,118 +1345,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-16-fox-nation-takes-a-look-at-taxes-how-trump-cuomo-and-the-rolling-stones-have-shaped-the-taxation-debate.md",
-      "title": "Fox Nation takes a look at taxes: How Trump, Cuomo and the Rolling Stones have shaped the taxation debate",
-      "excerpt": "In the fifth, and final, episode of Fox Nation's special \"An Unauthorized History of Taxes,\" anchor Bret Baier and his guest experts explore the contemporary state of taxation, and its cause-and-effect.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/GzptEPeQPZ0/fox-nation-takes-a-look-at-taxes-how-trump-cuomo-and-the-rolling-stones",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/GzptEPeQPZ0/fox-nation-takes-a-look-at-taxes-how-trump-cuomo-and-the-rolling-stones",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 178,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4bf88bfc-054a-4218-bd34-235119560599/e8d018ef-f1fd-47a8-af14-3b2e8bfb605b/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/fox-nation-takes-a-look-at-taxes-how-trump-cuomo-and-the-rolling-stones.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/fox-nation-takes-a-look-at-taxes-how-trump-cuomo-and-the-rolling-stones.amp",
-      "publishedDateTime": "2021-04-16T15:07:21-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-16-biden-says-us-japan-committed-to-working-together-on-challenges-from-china-north-korea.md",
-      "title": "Biden says US, Japan 'committed to working together' on challenges from China, North Korea",
-      "excerpt": "President Biden on Friday said he and Japanese Prime Minister Yoshihide Suga affirmed their “ironclad support” of the U.S.-Japanese alliance, saying the two nations committed to take on challenges posed by China and North Korea together to “ensure a future of a free and open Indo-Pacific.”",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ix1wnfFVEzE/biden-japan",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ix1wnfFVEzE/biden-japan",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-japan.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-japan.amp",
-      "publishedDateTime": "2021-04-16T14:48:59-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

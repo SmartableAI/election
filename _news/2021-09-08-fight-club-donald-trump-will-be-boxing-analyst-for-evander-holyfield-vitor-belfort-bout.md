@@ -84,7 +84,18 @@ related:
       name: Charlotte Observer
       domain: charlotteobserver.com
     quality: 53
+  - title: "Former President Donald Trump and son to call exhibition boxing match at Hard Rock Stadium"
+    excerpt: "After the world saw the boxing return of Mike Tyson in an exhibition match with Roy Jones Jr. last year, Tyson’s former rival and heavyweight champion Evander Holyfield, 58, is following suit at Miami’s Hard Rock Stadium on Saturday."
+    publishedDateTime: 2021-09-09T16:05:00Z
+    webUrl: "https://www.miamiherald.com/sports/article254101733.html"
+    ampWebUrl: "https://amp.miamiherald.com/sports/article254101733.html"
+    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/sports/article254101733.html"
+    type: article
+    provider:
+      name: Miami Herald
+      domain: miamiherald.com
+    quality: 45
 
-secured: "8k1k7HqUnbHhjjVZ8DqldhCatftS1Un9fc29XzISFE3IDqMbZ9riR4Tfh1lg3YINuRznNRXZDcCzQD24V7lcGx4zhl+GakceTXhTpGyTLgXRsSdCYrgrYY4dDPQAHB/3P32WP1j5HsJVBoiN6KO7cdT+NlYyPtlz5uph6cO/GtvgPiLtqKgAx3LXSszpfNSQbjdDsSjF09BTIAk3OHqX+PdVhDzJzfU0ia2r+ETAZg/AtiSHI3Zr/suX9QBfVEKxhhz2B3Rr+e8zEulMeHzsUQULrVtqq42E3glpf2FBzqi7GHzHtAw8NAaBItPIgrz5cx/E+IcDd4hS77y9ZEvEuqE24mHA7BBz33bx1spLI9U=;E71NTQJFMHcfln+jBLVt2Q=="
+secured: "JZbtceHjnMHOqLJrIWcJp2ahLqtQQps7muFEhs8egKt3THOQ//w+L3SVmqKjqWrUGExLhfHTrjA8j0KcsvbjhOxGx/YiMgtcZOBs3K8LBvtmub4Bt4eHMzGYO5xO5dogU5PY+TOe3FhFxJO9BI/9tnNSYlChS9MGR8+hhkM5OLlvTaJOxOks3uNusSL5zqLWtDA47VGRzSw9GlrWKcX8gYQkNXASZJF1zIdmoJXhvycKEbHlIdWLujik6vrx2niy7f520QzOH/UCj5Y9gCqTx+ezG+Wel8Nglh6cqtylgzKMb0b2RsoufyAC239MMDmFj5e0uN7XDOfAi5NvqTnsd02frzV7biGo5fDnJvto8/4KU+QBuxqUicmWbK7e4jIvh34QbBscjHLAg5i5NaIRX0tbNZiY9K5yrEkoXeMiwFYD1wQPawO2LfWjnwOoGYJmFlnqYSYhmIJ9hiA5t4xpZz3v3cfn+ib6eIR7GM9HTTO8kPf6CC3S1qyOQak55ubM34NJRDJJHhAcyPY40D4XUQ==;OCunXy/emWf9E/B+YEUwUQ=="
 ---
 

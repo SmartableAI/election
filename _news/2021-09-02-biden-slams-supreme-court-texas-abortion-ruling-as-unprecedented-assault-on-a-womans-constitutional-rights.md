@@ -31,131 +31,35 @@ images:
     isCached: true
 
 related:
-  - title: "Biden rips Texas abortion law as 'extreme,' violation of Roe v. Wade"
-    excerpt: "President Biden criticized a new Texas law that prohibits abortion except for during the very beginning of pregnancy or in cases of medical emergencies, stating that it goes against established Supreme Court precedent."
-    publishedDateTime: 2021-09-01T18:56:31Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/BhqafWb1_Z4/biden-texas-abortion-law-extreme-violation-of-roe-v-wade"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-texas-abortion-law-extreme-violation-of-roe-v-wade.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-texas-abortion-law-extreme-violation-of-roe-v-wade.amp"
+  - title: "Harris assails Texas abortion law as 'patently unconstitutional'"
+    excerpt: "Vice President Kamala Harris condemned the Texas abortion law as \"patently unconstitutional\" and called for Roe v. Wade to be codified."
+    publishedDateTime: 2021-09-10T01:48:51Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gwnw3JqIkpY/harris-calls-texas-abortion-law-patently-unconstitutional-urges-roe-v-wade-to-be-codified"
+    ampWebUrl: "https://www.foxnews.com/politics/harris-calls-texas-abortion-law-patently-unconstitutional-urges-roe-v-wade-to-be-codified.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-calls-texas-abortion-law-patently-unconstitutional-urges-roe-v-wade-to-be-codified.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 185
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Biden changes position, now says life doesn't begin at conception"
-    excerpt: "President Biden on Friday appeared to change a position he had just six years ago on whether life begins at conception."
-    publishedDateTime: 2021-09-03T17:42:16Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/nSzOUcmF7YA/biden-changes-position-life-begin-conception"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-changes-position-life-begin-conception.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-changes-position-life-begin-conception.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4d458d90-0cf5-4f7e-b4c7-1382e4206fb8/989d37e0-15b2-4b14-b0d0-2686d65b114f/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/50a20733-9d95-4d8b-b7db-5b4dfd356b46/f3c78e9e-9391-4de0-aa90-295132e3c7e3/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
-  - title: "Border Patrol scrambles to fill gap in wall left by Biden administration"
-    excerpt: "When President Biden took office in January, his administration ordered an immediate halt on the construction of a 30-foot high border fence, leaving a gaping hole at one of the most vulnerable stretches of the US-Mexican border."
-    publishedDateTime: 2021-09-05T19:46:29Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Hp0dPIIzsXk/border-patrol-scrambles-gap-wall-biden-administration"
-    ampWebUrl: "https://www.foxnews.com/politics/border-patrol-scrambles-gap-wall-biden-administration.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/border-patrol-scrambles-gap-wall-biden-administration.amp"
+  - title: "Harris accuses Texas Gov. Abbott of 'arrogantly' dismissing rape victims"
+    excerpt: "Vice President Kamala Harris opened up a speech supporting California Gov. Gavin Newsom against a recall effort by slamming Texas Gov. Greg Abbott and his state’s newly enacted law restricting abortions."
+    publishedDateTime: 2021-09-08T22:13:01Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XPudeoBAzzE/harris-slams-abbott-at-pro-newsom-rally-accuses-him-of-arrogantly-dismissing-rape-victims"
+    ampWebUrl: "https://www.foxnews.com/politics/harris-slams-abbott-at-pro-newsom-rally-accuses-him-of-arrogantly-dismissing-rape-victims.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-slams-abbott-at-pro-newsom-rally-accuses-him-of-arrogantly-dismissing-rape-victims.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 174
+    quality: 184
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/879b88e5-5c73-4acf-9570-451c852ff872/cb52dd93-9e06-4f1c-b4d8-cd9f015bac23/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Biden DOJ vows to defend abortion access in wake of Texas heartbeat bill"
-    excerpt: "Attorney General Merrick Garland pledged to protect abortion clinics, women seeking abortions, and abortion providers after the Supreme Court allowed Texas' S.B.8 to go into effect."
-    publishedDateTime: 2021-09-06T20:16:57Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/uiWAo2FY1hY/biden-doj-vows-to-defend-abortion-in-wake-of-texas-heartbeat-bill"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-doj-vows-to-defend-abortion-in-wake-of-texas-heartbeat-bill.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-doj-vows-to-defend-abortion-in-wake-of-texas-heartbeat-bill.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 174
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/08/340/340/Tyler-ONeil-Headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Sen. Cruz says Biden is trying to cover up poor Texas migrant facility conditions"
-    excerpt: "Cruz and fellow GOP lawmakers Reps. Chip Roy and Nancy Mace held a press conference after spending time with the men and women of Border Patrol in Laredo, Texas."
-    publishedDateTime: 2021-09-01T19:23:47Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/91jGm3ejYqQ/cruz-biden-cover-up-poor-border-facility-conditions"
-    ampWebUrl: "https://www.foxnews.com/politics/cruz-biden-cover-up-poor-border-facility-conditions.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cruz-biden-cover-up-poor-border-facility-conditions.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 170
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ffd9786c-a6ff-4664-bcf8-aa50156e5ca5/baa20d53-a8c4-4810-a228-f2bdd1cd27d0/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Joe Biden orders declassification review of 9/11 probe documents"
-    excerpt: "President Biden signed an executive order directing the DOJ and other agencies to oversee the review of 9/11 documents and ordered Merrick Garland to release any declassified documents publicly."
-    publishedDateTime: 2021-09-04T03:23:00Z
-    webUrl: "https://nypost.com/2021/09/03/joe-biden-orders-declassification-review-of-s11-documents/"
-    ampWebUrl: "https://nypost.com/2021/09/03/joe-biden-orders-declassification-review-of-s11-documents/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/09/03/joe-biden-orders-declassification-review-of-s11-documents/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 135
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/09/sept-11-documents-06.jpg?quality=90&strip=all&w=1024"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "Trump takes credit for Supreme Court not blocking Texas abortion law"
-    excerpt: "In his first TV interview since leaving office, Trump was asked if his three nominees to the court made a difference when it came to the controversial law."
-    publishedDateTime: 2021-09-05T18:11:00Z
-    webUrl: "https://nypost.com/2021/09/05/trump-takes-credit-for-texas-abortion-ban-moving-through-scotus/"
-    ampWebUrl: "https://nypost.com/2021/09/05/trump-takes-credit-for-texas-abortion-ban-moving-through-scotus/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/09/05/trump-takes-credit-for-texas-abortion-ban-moving-through-scotus/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 135
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/09/anti-abortion-protests-084.jpg?quality=90&strip=all&w=1024"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "Judge Jeanine: Joe Biden has given a terrorist organization their own nation"
-    excerpt: "Judge Jeanine ripped into President Biden's decision to withdraw from Afghanistan and give a terrorist organization a country of their own on Saturday night's episode of \"Justice with Judge Jeanine.\""
-    publishedDateTime: 2021-09-05T01:50:00Z
-    webUrl: "https://www.foxnews.com/media/judge-jeanine-joe-biden-given-terrorist-organization-their-own-nation"
-    ampWebUrl: "https://www.foxnews.com/media/judge-jeanine-joe-biden-given-terrorist-organization-their-own-nation.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/judge-jeanine-joe-biden-given-terrorist-organization-their-own-nation.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 132
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2705a599-f390-4716-b725-dd082be42873/c519de00-5cb9-4bb3-b15b-460f17c6723f/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/de97b5d5-9a48-4839-a8a4-d085340888e6/151303eb-e6ed-45a1-867c-254e4a3a3838/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true

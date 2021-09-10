@@ -2,6 +2,101 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-07-31-texas-gov-greg-abbott-accuses-biden-of-creating-constitutional-crisis-after-doj-lawsuit.md",
+      "title": "Texas Gov. Greg Abbott Accuses Biden of Creating 'Constitutional Crisis' After DOJ Lawsuit",
+      "excerpt": "\"This stems from the Biden Administration's refusal to enforce immigration laws and allow illegal immigrants with COVID-19 to enter our country,\" Abbott said Friday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/texas-gov-greg-abbott-accuses-biden-creating-constitutional-crisis-after-doj-lawsuit-1614875",
+      "originalUrl": "https://www.newsweek.com/texas-gov-greg-abbott-accuses-biden-creating-constitutional-crisis-after-doj-lawsuit-1614875",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1859135/greg-abbott-joe-biden-covid-19-immigration-constitution.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/texas-gov-greg-abbott-accuses-biden-creating-constitutional-crisis-after-doj-lawsuit-1614875?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/texas-gov-greg-abbott-accuses-biden-creating-constitutional-crisis-after-doj-lawsuit-1614875?amp=1",
+      "publishedDateTime": "2021-07-30T18:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-07-31-you-dont-have-to-die-biden-urges-americans-to-get-vaccinated-and-calls-for-incentives-as-it-happened.md",
+      "title": "‘You don’t have to die’: Biden urges Americans to get vaccinated and calls for incentives – as it happened",
+      "excerpt": "White House confirms his administration is instituting a vaccine mandate for US federal workers – follow all the latest",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/live/2021/jul/29/covid-vaccine-mandate-federal-employees-joe-biden-us-politics-latest",
+      "originalUrl": "https://www.theguardian.com/us-news/live/2021/jul/29/covid-vaccine-mandate-federal-employees-joe-biden-us-politics-latest",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2021/jul/29/covid-vaccine-mandate-federal-employees-joe-biden-us-politics-latest",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jul/29/covid-vaccine-mandate-federal-employees-joe-biden-us-politics-latest",
+      "publishedDateTime": "2021-07-30T11:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-07-31-inslee-newsom-ask-biden-for-more-resources-to-battle-wildfires-blowing-past-every-record.md",
       "title": "Inslee, Newsom Ask Biden for More Resources to Battle Wildfires 'Blowing Past' Every Record",
       "excerpt": "California Governor Gavin Newsom said last year, a record 130,000 acres were burned, but that record was shattered in 2021 with 504,000 acres currently burned.",
@@ -1387,110 +1482,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-07-17-biden-grappling-with-pandemic-of-the-unvaccinated.md",
-      "title": "Biden grappling with 'pandemic of the unvaccinated'",
-      "excerpt": "Two weeks after celebrating America’s near “independence” from the coronavirus, President Joe Biden is confronting the worrying reality of rising cases and deaths",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Health/wireStory/biden-grappling-pandemic-unvaccinated-78897684",
-      "originalUrl": "https://abcnews.go.com/Health/wireStory/biden-grappling-pandemic-unvaccinated-78897684",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 205,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/US/WireAP_6f049db552754deb97da2642b7a377d7_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Health/wireStory/biden-grappling-pandemic-unvaccinated-78897684",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/biden-grappling-pandemic-unvaccinated-78897684",
-      "publishedDateTime": "2021-07-16T21:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-07-17-joe-biden-taps-jane-hartley-as-ambassador-to-the-uk.md",
-      "title": "Joe Biden taps Jane Hartley as ambassador to the UK",
-      "excerpt": "Joe Biden has tapped Jane Hartley, a Democratic fundraiser and former ambassador to France, as the US envoy to the UK, according to people familiar with the matter. Hartley’s selection comes after weeks of uncertainty over Biden’s intentions with regard to the post.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ft.com/content/7e916247-1b55-420a-89d0-ec35abba5514",
-      "originalUrl": "https://www.ft.com/content/7e916247-1b55-420a-89d0-ec35abba5514",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 185,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F7d02cc86-f021-4ab3-8310-1aa3e19cddb6.jpg?source=google-amp&fit=scale-down&width=500",
-          "width": 500,
-          "height": 281,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.ft.com/content/7e916247-1b55-420a-89d0-ec35abba5514",
-      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/7e916247-1b55-420a-89d0-ec35abba5514",
-      "publishedDateTime": "2021-07-16T11:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Times",
-        "domain": "ft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/ft.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -2,6 +2,118 @@
   "page": 69,
   "value": [
     {
+      "path": "_news/2021-04-15-georgia-election-official-warns-biden-to-stop-lies-about-voting-law-someone-is-going-to-get-hurt.md",
+      "title": "Georgia election official warns Biden to stop 'lies' about voting law: 'Someone is going to get hurt'",
+      "excerpt": "Gabriel Sterling, the chief operating officer and chief financial officer for the Georgia secretary of state's office, said he has the same sense of \"foreboding\" he had after November's election in the months leading up to the Jan. 6 Capitol riot. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/gLOdnOxNgeY/georgia-election-official-sterling-warns-biden-voting-law",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/gLOdnOxNgeY/georgia-election-official-sterling-warns-biden-voting-law",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/georgia-election-official-sterling-warns-biden-voting-law.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/georgia-election-official-sterling-warns-biden-voting-law.amp",
+      "publishedDateTime": "2021-04-15T06:58:02-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-15-biden-imposes-new-sanctions-on-russia-in-response-to-election-interference-and-cyber-hacks.md",
+      "title": "Biden imposes new sanctions on Russia in response to election interference and cyber hacks",
+      "excerpt": "The Biden administration is expected to announce sanctions as soon as Thursday targeting Russian individuals and entities, in addition to the expulsion of as many as a dozen Russian diplomats from the US in response to the hack of SolarWinds and election interference, according to two sources familiar",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zKvUE1aRpHs/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zKvUE1aRpHs/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 640,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201218161649-solarwinds-headquarters---stock-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/14/politics/russia-sanctions-expel-officials-hacking-election/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/14/politics/russia-sanctions-expel-officials-hacking-election/index.html",
+      "publishedDateTime": "2021-04-15T05:25:01-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-15-qanon-supporters-think-ivanka-trump-vaccine-picture-was-photoshopped.md",
       "title": "QAnon Supporters Think Ivanka Trump Vaccine Picture Was Photoshopped",
       "excerpt": "The conspiracy theorists suggest that an image of former President Donald Trump's eldest daughter was staged, or that it is not her in the photo she tweeted.",
@@ -391,7 +503,7 @@
       "originalUrl": "https://www.newsweek.com/kamala-harris-again-says-she-has-no-plans-visit-us-mexico-border-1583642",
       "featuredContent": null,
       "highlight": null,
-      "heat": 645,
+      "heat": 665,
       "tags": null,
       "images": [
         {
@@ -1223,115 +1335,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-04-14-tara-reade-rips-new-york-times-columnists-for-classifying-biden-assault-claim-as-sex-scandal.md",
-      "title": "Tara Reade rips New York Times columnists for classifying Biden assault claim as 'sex scandal'",
-      "excerpt": "Tara Reade, the former Senate staffer who alleged last year that Joe Biden sexually assaulted her in 1993, scolded The New York Times Tuesday for putting her claims in the same category as the controversy surrounding Rep.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/tara-reade-new-york-times-biden-assault-sex-scandal",
-      "originalUrl": "https://www.foxnews.com/media/tara-reade-new-york-times-biden-assault-sex-scandal",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Image-from-iOS-10.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/tara-reade-new-york-times-biden-assault-sex-scandal.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/tara-reade-new-york-times-biden-assault-sex-scandal.amp",
-      "publishedDateTime": "2021-04-13T13:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-14-fact-check-viral-image-does-not-show-president-joe-biden-apologizing-to-george-floyds-child.md",
-      "title": "Fact check: Viral image does not show President Joe Biden apologizing to George Floyd's child",
-      "excerpt": "A miscaptioned photo purports to show President Joe Biden apologizing to George Floyd’s son. However, the child in the image is not Floyd’s. “U.S. President Joe Biden kneels down to beg George Floyd's son for forgiveness,” media company ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/factcheck/2021/04/13/fact-check-photo-miscaptioned-joe-biden-apology-floyd-family/7191274002/",
-      "originalUrl": "https://www.usatoday.com/story/news/factcheck/2021/04/13/fact-check-photo-miscaptioned-joe-biden-apology-floyd-family/7191274002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/09/10/PDTF/ff87b317-0aa6-49c9-b3ee-e02fa10236ff-GTY_1271608759.jpg?auto=webp&crop=3408,1917,x0,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/7191274002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7191274002",
-      "publishedDateTime": "2021-04-13T13:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

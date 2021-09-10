@@ -2,6 +2,115 @@
   "page": 70,
   "value": [
     {
+      "path": "_news/2021-04-14-tara-reade-rips-new-york-times-columnists-for-classifying-biden-assault-claim-as-sex-scandal.md",
+      "title": "Tara Reade rips New York Times columnists for classifying Biden assault claim as 'sex scandal'",
+      "excerpt": "Tara Reade, the former Senate staffer who alleged last year that Joe Biden sexually assaulted her in 1993, scolded The New York Times Tuesday for putting her claims in the same category as the controversy surrounding Rep.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/tara-reade-new-york-times-biden-assault-sex-scandal",
+      "originalUrl": "https://www.foxnews.com/media/tara-reade-new-york-times-biden-assault-sex-scandal",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Image-from-iOS-10.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/tara-reade-new-york-times-biden-assault-sex-scandal.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/tara-reade-new-york-times-biden-assault-sex-scandal.amp",
+      "publishedDateTime": "2021-04-13T13:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-14-fact-check-viral-image-does-not-show-president-joe-biden-apologizing-to-george-floyds-child.md",
+      "title": "Fact check: Viral image does not show President Joe Biden apologizing to George Floyd's child",
+      "excerpt": "A miscaptioned photo purports to show President Joe Biden apologizing to George Floyd’s son. However, the child in the image is not Floyd’s. “U.S. President Joe Biden kneels down to beg George Floyd's son for forgiveness,” media company ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/factcheck/2021/04/13/fact-check-photo-miscaptioned-joe-biden-apology-floyd-family/7191274002/",
+      "originalUrl": "https://www.usatoday.com/story/news/factcheck/2021/04/13/fact-check-photo-miscaptioned-joe-biden-apology-floyd-family/7191274002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/09/10/PDTF/ff87b317-0aa6-49c9-b3ee-e02fa10236ff-GTY_1271608759.jpg?auto=webp&crop=3408,1917,x0,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/7191274002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7191274002",
+      "publishedDateTime": "2021-04-13T13:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-04-14-pastor-jeff-jansen-says-trump-is-still-president-people-will-be-dancing-in-the-streets-in-april.md",
       "title": "Pastor Jeff Jansen Says Trump Is 'Still President,' People Will Be 'Dancing in the Streets' in April",
       "excerpt": "Pastor Jeff Jansen, a self-described \"prophet,\" still believes former President Donald Trump is in office and advised people to \"watch what the Lord does\" this month. Jansen, who leads the Global Fire Ministries International in Murfreesboro, Tennessee ...",
@@ -1262,114 +1371,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-joe-biden-says-no-justification-for-looting-violence-amid-unrest-over-daunte-wright-shooting.md",
-      "title": "Joe Biden Says 'No Justification' For Looting, Violence Amid Unrest Over Daunte Wright Shooting",
-      "excerpt": "President Joe Biden condemned looting and violence that has taken place in the aftermath of the police shooting of 20-year-old Daunte Wright in Brooklyn Center, Minnesota on Sunday. Wright, a Black man, died Sunday after he was shot by a police officer ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/joe-biden-says-no-justification-looting-violence-amid-unrest-over-daunte-wright-shooting-1583048",
-      "originalUrl": "https://www.newsweek.com/joe-biden-says-no-justification-looting-violence-amid-unrest-over-daunte-wright-shooting-1583048",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 173,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1776653/daunte-wright-protest.jpg",
-          "width": 1024,
-          "height": 695,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/joe-biden-says-no-justification-looting-violence-amid-unrest-over-daunte-wright-shooting-1583048?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-says-no-justification-looting-violence-amid-unrest-over-daunte-wright-shooting-1583048?amp=1",
-      "publishedDateTime": "2021-04-12T13:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-04-12-chris-christie-biden-lying-about-spending-package-going-toward-infrastructure.md",
-      "title": "Chris Christie: Biden 'lying' about spending package going toward 'infrastructure'",
-      "excerpt": "Chris Christie on Sunday accused President Biden of \"lying\" about his nearly $2 trillion infrastructure package — saying he’s calling a \"dog a cat\" because it goes far beyond rebuilding roads and bridges to include Democratic priorities like healthcare.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5hHd_PHUK-E/chris-christie-biden-lying-about-spending-package-going-toward-infrastructure",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5hHd_PHUK-E/chris-christie-biden-lying-about-spending-package-going-toward-infrastructure",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 189,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/458e1351-a334-436c-a243-c5de219cc253/ba8d7be5-8ec3-40ae-85ca-a697844886d5/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/chris-christie-biden-lying-about-spending-package-going-toward-infrastructure.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/chris-christie-biden-lying-about-spending-package-going-toward-infrastructure.amp",
-      "publishedDateTime": "2021-04-12T08:44:56-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

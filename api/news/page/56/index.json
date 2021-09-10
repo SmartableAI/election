@@ -2,6 +2,115 @@
   "page": 56,
   "value": [
     {
+      "path": "_news/2021-05-15-a-colorado-man-accused-of-murdering-his-wife-told-fbi-agents-that-he-submitted-a-ballot-for-trump-in-her-name-because-the-other-guys-were-cheating.md",
+      "title": "A Colorado man accused of murdering his wife told FBI agents that he submitted a ballot for Trump in her name because the 'other guys' were cheating",
+      "excerpt": "Barry Morphew was charged with a felony count of forging public documents after telling investigators that he sent in a vote for his missing wife.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/colorado-man-tried-vote-for-trump-using-missing-wife-identity-2021-5",
+      "originalUrl": "https://www.businessinsider.com/colorado-man-tried-vote-for-trump-using-missing-wife-identity-2021-5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/609e9e50a807be0018d6227e?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/colorado-man-tried-vote-for-trump-using-missing-wife-identity-2021-5?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/colorado-man-tried-vote-for-trump-using-missing-wife-identity-2021-5?amp",
+      "publishedDateTime": "2021-05-14T10:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-05-14-trump-considers-contenders-to-be-his-new-social-media-outlet-after-big-tech-crackdown.md",
+      "title": "Trump Considers Contenders to Be His New Social-Media Outlet After Big Tech Crackdown",
+      "excerpt": "CloutHub and Skylab Apps are among companies vying to work with the former president, who was sidelined by Facebook and Twitter.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/trump-considers-contenders-to-be-his-new-social-media-outlet-after-big-tech-crackdown-11621013567",
+      "originalUrl": "https://www.wsj.com/articles/trump-considers-contenders-to-be-his-new-social-media-outlet-after-big-tech-crackdown-11621013567",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 128,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-338638/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/trump-considers-contenders-to-be-his-new-social-media-outlet-after-big-tech-crackdown-11621013567",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-considers-contenders-to-be-his-new-social-media-outlet-after-big-tech-crackdown-11621013567",
+      "publishedDateTime": "2021-05-14T09:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-05-14-elise-stefanik-trump-loyalist-wins-republican-leadership-post.md",
       "title": "Elise Stefanik: Trump loyalist wins Republican leadership post",
       "excerpt": "US Republicans have appointed New York Congresswoman Elise Stefanik, a Trump loyalist, to the third-ranking post in the House of Representatives. It follows an earlier vote to oust the incumbent chairwoman,",
@@ -1202,114 +1311,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/cyberattacks-america-biden-watch.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cyberattacks-america-biden-watch.amp",
       "publishedDateTime": "2021-05-13T03:07:07-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-13-trump-white-house-counsel-donald-mcgahn-expected-to-answer-house-committee-questions-as-soon-as-possible.md",
-      "title": "Trump White House counsel Donald McGahn expected to answer House committee questions ‘as soon as possible’",
-      "excerpt": "McGahn will be asked whether Trump interfered with Mueller’s Russia investigation. House Democrats have been fighting for years to enforce a subpoena for his testimony.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/local/legal-issues/mcgahn-committee-interview-subpoena/2021/05/12/d3b2217a-b38d-11eb-a980-a60af976ed44_story.html",
-      "originalUrl": "https://www.washingtonpost.com/local/legal-issues/mcgahn-committee-interview-subpoena/2021/05/12/d3b2217a-b38d-11eb-a980-a60af976ed44_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TJLL2AUPQAI6RPGVTWIRY6CMHA.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/local/legal-issues/mcgahn-committee-interview-subpoena/2021/05/12/d3b2217a-b38d-11eb-a980-a60af976ed44_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/legal-issues/mcgahn-committee-interview-subpoena/2021/05/12/d3b2217a-b38d-11eb-a980-a60af976ed44_story.html?outputType=amp",
-      "publishedDateTime": "2021-05-13T00:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-05-13-aoc-criticizes-biden-statement-of-support-for-israel-as-siding-with-occupation.md",
-      "title": "AOC criticizes Biden statement of support for Israel as siding with 'occupation'",
-      "excerpt": "U.S. Rep. Alexandria Ocasio-Cortez, D-N.Y., criticized President Biden over his Wednesday statement of support for Israel amid escalating violence with Hamas, claiming he gave little context for what stoked the tensions and was consequently “siding with occupation.”",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/wNI60u2TCG4/aoc-criticizes-biden-statement-of-support-for-israel-as-sideing-with-occupation",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/wNI60u2TCG4/aoc-criticizes-biden-statement-of-support-for-israel-as-sideing-with-occupation",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 210,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/10fce050-6dfa-430f-9d44-b46217b4aa55/8e11a4a9-96be-45e4-b6f4-6430454f1d93/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/aoc-criticizes-biden-statement-of-support-for-israel-as-sideing-with-occupation.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aoc-criticizes-biden-statement-of-support-for-israel-as-sideing-with-occupation.amp",
-      "publishedDateTime": "2021-05-12T22:10:05-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

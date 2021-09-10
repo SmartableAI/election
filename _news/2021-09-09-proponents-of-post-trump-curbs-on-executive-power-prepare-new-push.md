@@ -48,6 +48,38 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "McConnell carefully choosing battles in Trump proxy war for the midterms"
+    excerpt: "Sen. Mitch McConnell is locked in a proxy war with former President Donald Trump this fall as both Republicans work to position candidates for primaries taking place all over the country next spring and summer.\n    \n"
+    publishedDateTime: 2021-09-09T18:39:32Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ig5p41UIsEk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/09/09/politics/mitch-mcconnell-trump-proxy-war/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/09/09/politics/mitch-mcconnell-trump-proxy-war/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200130105634-02-trump-mcconnell-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "EPA moves to block controversial Alaskan gold mine, reversing Trump administration stance"
+    excerpt: "The Biden administration on Thursday announced it's taking new steps to protect the waters of Bristol Bay, Alaska, reversing a Trump administration policy that favored the development of a massive gold and copper mine.\n    \n"
+    publishedDateTime: 2021-09-09T20:33:40Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bWa3IX1GpmA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/09/09/politics/epa-bristol-bay-alaska-gold-mine/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/09/09/politics/epa-bristol-bay-alaska-gold-mine/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210909152656-bristol-bay-ak-2019-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "On Afghanistan, G.O.P. Assails the Pullout It Had Supported Under Trump"
     excerpt: "Eager to denounce President Biden, some Republicans have flip-flopped on bringing U.S. troops home — making it difficult to discern what they actually believe."
     publishedDateTime: 2021-09-01T17:43:00Z

@@ -2,6 +2,120 @@
   "page": 47,
   "value": [
     {
+      "path": "_news/2021-06-04-in-a-speech-to-a-new-hampshire-gop-group-pence-calls-systemic-racism-a-left-wing-myth.md",
+      "title": "In a speech to a New Hampshire G.O.P. group, Pence calls systemic racism a ‘left-wing myth.’",
+      "excerpt": "Mike Pence also distanced himself from President Donald J. Trump, saying of the Capitol attack, “I don’t know if we’ll ever see eye-to-eye on that day.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/06/03/us/politics/pence-trump-systemic-racism.html",
+      "originalUrl": "https://www.nytimes.com/2021/06/03/us/politics/pence-trump-systemic-racism.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/06/03/us/politics/03new-washington-briefing-pence2/03new-washington-briefing-pence2-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/06/03/us/politics/pence-trump-systemic-racism.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/03/us/politics/pence-trump-systemic-racism.amp.html",
+      "publishedDateTime": "2021-06-03T17:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-03-pence-targeting-critical-race-theory-declares-america-is-not-a-racist-nation.md",
+      "title": "Pence, targeting critical race theory, declares ‘America is not a racist nation’",
+      "excerpt": "During a trip that sparked more 2024 speculation, former Vice President Mike Pence dived directly into the latest battleground in the nation’s culture wars, as he took direct aim at critical race theory and spotlighted that “America is not a racist nation.”",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZzyeDTXs5Zs/pence-targeting-critical-race-theory-declares-america-is-not-a-racist-nation",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZzyeDTXs5Zs/pence-targeting-critical-race-theory-declares-america-is-not-a-racist-nation",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 180,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/pence-targeting-critical-race-theory-declares-america-is-not-a-racist-nation.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-targeting-critical-race-theory-declares-america-is-not-a-racist-nation.amp",
+      "publishedDateTime": "2021-06-03T16:32:22-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-06-03-trump-to-speak-at-dallas-cpac-event-in-july.md",
       "title": "Trump to speak at Dallas CPAC event in July",
       "excerpt": "Former President Donald Trump will speak at the Conservative Political Action Conference (CPAC) event in Dallas in July, Fox News has learned, in what will be one of his most high-profile speaking engagements since leaving the White House.",
@@ -123,7 +237,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/live/2021/jun/03/joe-biden-republicans-covid-coronavirus-politics-latest-updates",
       "featuredContent": null,
       "highlight": null,
-      "heat": 865,
+      "heat": 885,
       "tags": null,
       "images": [
         {
@@ -1246,102 +1360,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-02-ex-trump-adviser-michael-flynn-endorses-fernando-mateo-for-mayor.md",
-      "title": "Ex-Trump adviser Michael Flynn endorses Fernando Mateo for mayor",
-      "excerpt": "Former Trump national security advisor Michael Flynn is endorsing Fernando Mateo in the Republican primary for mayor.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/06/02/ex-trump-advisor-michael-flynn-endorses-fernando-mateo-for-mayor/",
-      "originalUrl": "https://nypost.com/2021/06/02/ex-trump-advisor-michael-flynn-endorses-fernando-mateo-for-mayor/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/06/Mateo.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/06/02/ex-trump-advisor-michael-flynn-endorses-fernando-mateo-for-mayor/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/02/ex-trump-advisor-michael-flynn-endorses-fernando-mateo-for-mayor/amp/",
-      "publishedDateTime": "2021-06-02T09:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-02-barack-obama-interview-joe-biden-is-finishing-the-job.md",
-      "title": "Barack Obama Interview: Joe Biden Is 'Finishing the Job'",
-      "excerpt": "Barack Obama tells Ezra Klein how American went from \"Yes We Can\" to \"MAGA.\" The former president also discuss Joe Biden, aliens, and three of his favorite books.",
-      "sourceUrl": null,
-      "webUrl": "https://www.realclearpolitics.com/video/2021/06/02/barack_obama_interview_joe_biden_is_finishing_the_job.html#!",
-      "originalUrl": "https://www.realclearpolitics.com/video/2021/06/02/barack_obama_interview_joe_biden_is_finishing_the_job.html#!",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.realclear.com/images/54/544771.jpg",
-          "width": 3851,
-          "height": 2562,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-02T09:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RealClearPolitics",
-        "domain": "realclearpolitics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
       ]
     }
   ],

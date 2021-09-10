@@ -2,6 +2,114 @@
   "page": 63,
   "value": [
     {
+      "path": "_news/2021-04-30-representative-sara-jacobs-president-bidens-address-gave-us-reasons-to-feel-hopeful.md",
+      "title": "Representative Sara Jacobs: President Biden's address \"gave us reasons\" to feel hopeful",
+      "excerpt": "Congresswoman Sarah Jacobs, a Democrat from California, says President Joe Biden's address to a joint session of Congress on Wednesday gave Americans many reasons to feel \"hopeful.\" She joins CBSN's Tanya Rivero for a closer look at Mr.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/video/rep-sara-jacobs-says-pres-bidens-address-to-congress-gave-us-reasons-to-feel-hopeful/",
+      "originalUrl": "https://www.cbsnews.com/video/rep-sara-jacobs-says-pres-bidens-address-to-congress-gave-us-reasons-to-feel-hopeful/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2021/04/29/41bc8ffb-b4cb-4c73-b658-89f738eac29c/thumbnail/1200x630/fa07439f6dbcd1f0e70a210a7ba2d4f5/cbsn-fusion-rep-sara-jacobs-says-pres-bidens-address-to-congress-gave-us-reasons-to-feel-hopeful-thumbnail-704368-640x360.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/video/rep-sara-jacobs-says-pres-bidens-address-to-congress-gave-us-reasons-to-feel-hopeful/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/rep-sara-jacobs-says-pres-bidens-address-to-congress-gave-us-reasons-to-feel-hopeful/",
+      "publishedDateTime": "2021-04-29T12:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-04-29-republican-house-leader-kevin-mccarthy-repeats-debunked-claim-that-biden-is-trying-to-impose-meat-limits.md",
+      "title": "Republican House leader Kevin McCarthy repeats debunked claim that Biden is trying to impose meat limits ",
+      "excerpt": "By Monday, numerous media outlets had debunked the viral false claim that President Joe Biden has proposed to restrict how much red meat Americans are allowed to eat. Even a Fox News anchor admitted on air on Monday afternoon that the claim was inaccurate.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/EPghEnEPet0/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/EPghEnEPet0/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 158,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210420081324-02-kevin-mccarthy-0415-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/29/politics/fact-check-kevin-mccarthy-biden-red-meat-limit-four-pounds/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/29/politics/fact-check-kevin-mccarthy-biden-red-meat-limit-four-pounds/index.html",
+      "publishedDateTime": "2021-04-29T11:54:23-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-29-biden-on-giuliani-raid-i-had-no-idea-this-was-underway.md",
       "title": "Biden on Giuliani raid: 'I had no idea this was underway'",
       "excerpt": "President Biden said he did not know about the FBI plans to raid the home of former President Trump's personal attorney and former New York City Mayor Rudy Giuliani before it happened, and that he learned of the operation \"when the rest of the world learned about it.\" ",
@@ -1257,114 +1365,6 @@
       "topics": [
         "Election",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-04-28-trump-administration-accuses-obama-of-wiretapping.md",
-      "title": "Trump administration accuses Obama of wiretapping",
-      "excerpt": "President Trump is calling for Congress to investigate his claim that the Obama administration wiretapped phones in Trump Tower during the presidential campaign. Associated Press White House reporter Vivian Salama joins CBSN to discuss.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/video/trump-administration-accuses-obama-of-wiretapping-1/",
-      "originalUrl": "https://www.cbsnews.com/video/trump-administration-accuses-obama-of-wiretapping-1/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 345,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2021/04/28/3c065ea1-f5ce-4109-b082-ec5c177eb01f/thumbnail/1200x630/d4c9e75aea628913678984b32312628c/cbsn-qbg-0305-1263634-640x360.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/video/trump-administration-accuses-obama-of-wiretapping-1/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/trump-administration-accuses-obama-of-wiretapping-1/",
-      "publishedDateTime": "2021-04-28T05:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-04-28-not-an-easy-transition-inside-trumps-unconventional-first-months-out-of-office.md",
-      "title": "'Not an easy transition': Inside Trump's unconventional first months out of office ",
-      "excerpt": "Most Mondays and Tuesdays, former President Donald Trump skips golf to confer with aides about the week ahead.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pOEZBB6l-VI/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pOEZBB6l-VI/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 189,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210427170017-01-trump-manhattan-0309-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/28/politics/trump-post-presidency/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/28/politics/trump-post-presidency/index.html",
-      "publishedDateTime": "2021-04-28T04:17:41-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

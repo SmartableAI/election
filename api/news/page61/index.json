@@ -2,6 +2,115 @@
   "page": 61,
   "value": [
     {
+      "path": "_news/2021-05-04-pence-to-headline-new-hampshire-event-in-june.md",
+      "title": "Pence to headline New Hampshire event in June",
+      "excerpt": "Former Vice President Mike Pence will headline a campaign event in New Hampshire next month, fueling speculation that he may run for the White House.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/campaign/551497-pence-to-headline-new-hampshire-event-in-june",
+      "originalUrl": "https://thehill.com/homenews/campaign/551497-pence-to-headline-new-hampshire-event-in-june",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 225,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/pencemike_100820getty.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/campaign/551497-pence-to-headline-new-hampshire-event-in-june?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/551497-pence-to-headline-new-hampshire-event-in-june?amp",
+      "publishedDateTime": "2021-05-03T10:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-05-03-kamala-harris-stresses-need-for-independent-judiciary-in-el-salvador-as-democrats-push-court-packing-in-us.md",
+      "title": "Kamala Harris stresses need for 'independent' judiciary in El Salvador as Democrats push court-packing in US",
+      "excerpt": "Vice President Kamala Harris stressed the need for an \"independent\" judiciary in El Salvador on Sunday, even as she has yet to speak out against a Democratic attempt to pack the Supreme Court.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/DMWuZxonfYU/kamala-harris-el-salvador-independent-judiciary-democrats-pack-supreme-court",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/DMWuZxonfYU/kamala-harris-el-salvador-independent-judiciary-democrats-pack-supreme-court",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 166,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fbf844e7-da00-4269-b859-827c56602764/5d922b54-0023-4170-ae81-95b2cc76f88b/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/kamala-harris-el-salvador-independent-judiciary-democrats-pack-supreme-court.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-el-salvador-independent-judiciary-democrats-pack-supreme-court.amp",
+      "publishedDateTime": "2021-05-03T10:35:02-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-05-03-trump-suggests-arizona-election-recount-will-go-his-way-lets-see-what-they-find.md",
       "title": "Trump Suggests Arizona Election Recount Will Go His Way: \"Let's See What They Find\"",
       "excerpt": "Former President Donald Trump suggested to guests at Mar-a-Lago on Thursday that a recount vote in Arizona could prove the 2020 election was \"stolen\" due to voter fraud. \"Let's see what they find. I wouldn't be surprised if they found thousands and thousands and thousands of votes,",
@@ -1221,114 +1330,6 @@
         "Election",
         "Joe Biden",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-30-bidens-bringing-cat-into-white-house-despite-dog-biting-drama.md",
-      "title": "Bidens bringing cat into White House despite dog-biting drama",
-      "excerpt": "Despite having a ruff run of things with first dog Major caught up in a biting scandal, President Biden and first lady Jill Biden announced Friday that they’re bringing a cat to the White House.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/TN1s2IHXNqg/bidens-bringing-cat-white-house-dog-biting",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/TN1s2IHXNqg/bidens-bringing-cat-white-house-dog-biting",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 255,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b6165699-e33d-4790-9f5d-d33471d1c4b4/19c2eb65-527f-4e43-9d3a-3aed7ed97d5b/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/bidens-bringing-cat-white-house-dog-biting.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-bringing-cat-white-house-dog-biting.amp",
-      "publishedDateTime": "2021-04-30T09:46:40-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-30-paul-ryan-trump-debate-will-fade-as-new-candidates-emerge.md",
-      "title": "Paul Ryan: Trump debate will fade as new candidates emerge",
-      "excerpt": "Nearly six months after the presidential election, Republicans remain divided over former President Donald Trump",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/paul-ryan-trump-debate-fade-candidates-emerge-77422027",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/paul-ryan-trump-debate-fade-candidates-emerge-77422027",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 205,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/WireAP_c9db11371d264d36a3059ee975d86cbf_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/paul-ryan-trump-debate-fade-candidates-emerge-77422027",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/paul-ryan-trump-debate-fade-candidates-emerge-77422027",
-      "publishedDateTime": "2021-04-30T09:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

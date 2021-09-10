@@ -223,6 +223,20 @@ related:
         width: 1200
         height: 803
         isCached: true
+  - title: "California Recall Brings Kamala Harris Home to Support Gavin Newsom"
+    excerpt: "Vice President Kamala Harris returned to her home state of California on Wednesday to rally voters against the recall of Gov. Gavin Newsom, whose campaign expressed growing confidence the first-term Democrat would survive the attempt to remove him from office a year early."
+    publishedDateTime: 2021-09-08T04:13:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-09-08/california-recall-vote-offers-test-of-biden-political-clout"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 105
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iArmhzqnfXNo/v1/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Kamala Harris backs Newsom in California recall vote"
     excerpt: "Harris and Obama are the latest high-profile Democrats to join Newsom's all-out push against Larry Elder and lesser-known candidates as the recall vote nears."
     publishedDateTime: 2021-09-09T00:49:00Z

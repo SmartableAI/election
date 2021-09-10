@@ -2,6 +2,58 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2021-04-04-dominion-will-one-canadian-company-bring-down-trumps-empire-of-disinformation.md",
+      "title": "Dominion: will one Canadian company bring down Trump's empire of disinformation?",
+      "excerpt": "Dominion has filed defamation lawsuits against several Trump allies for pushing election ‘radioactive falsehoods’ – could it triumph? Last modified on Sun 4 Apr 2021 02.01 EDT When Donald Trump and his allies pushed the “big lie” of voter fraud ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/apr/04/dominion-trump-disinformation-fox-news-sidney-powell-giuliani-mike-lindell-lawsuits",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/apr/04/dominion-trump-disinformation-fox-news-sidney-powell-giuliani-mike-lindell-lawsuits",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/52126a829e901e0c283655aa51405cf255bfb0fc/0_79_2350_1410/master/2350.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f64f72dd689637d64f85025eabe68e81",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/apr/04/dominion-trump-disinformation-fox-news-sidney-powell-giuliani-mike-lindell-lawsuits",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/apr/04/dominion-trump-disinformation-fox-news-sidney-powell-giuliani-mike-lindell-lawsuits",
+      "publishedDateTime": "2021-04-03T22:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-04-04-trump-money-bomb-scheme-raised-millions-from-unwitting-donors-report.md",
       "title": "Trump 'money bomb' scheme raised millions from unwitting donors – report",
       "excerpt": "Practice that used pre-checked boxes and obscure design on fundraising emails condemned as ‘unethical and inappropriate’ Last modified on Sat 3 Apr 2021 15.45 EDT Donald Trump’s 2020 presidential campaign used pre-checked boxes and obscure design on ...",

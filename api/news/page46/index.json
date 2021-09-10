@@ -2,6 +2,120 @@
   "page": 46,
   "value": [
     {
+      "path": "_news/2021-06-06-blunt-trump-should-be-focused-on-2022-not-the-past.md",
+      "title": "Blunt: Trump should be 'focused' on 2022, not the past",
+      "excerpt": "In an exclusive interview with Meet the Press, Sen. Roy Blunt (R-Mo.), Chair, Republican Policy Committee, encourages former President Donald Trump to stop relitigating 2020.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/meet-the-press/video/blunt-trump-should-be-focused-on-2022-not-the-past-114399301693",
+      "originalUrl": "https://www.nbcnews.com/meet-the-press/video/blunt-trump-should-be-focused-on-2022-not-the-past-114399301693",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_06/1622987297976_mtp_clip_Blunt2022_210606_1920x1080.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo114399301693",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo114399301693",
+      "publishedDateTime": "2021-06-06T06:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-06-why-mike-pences-speech-was-really-important-and-what-it-says-about-2024.md",
+      "title": "Why Mike Pence’s speech was really important, and what it says about 2024",
+      "excerpt": "The former vice president well received speech was interrupted by numerous standing ovations by the sold out crowd of conservative activists and leaders, but most importantly, he gave his most extensive comments to date about the deadly Jan. 6 insurrection at the U.S. Capitol.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bCY86DIpu5I/why-mike-pences-speech-was-really-important-and-what-it-says-about-2024",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bCY86DIpu5I/why-mike-pences-speech-was-really-important-and-what-it-says-about-2024",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 204,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/why-mike-pences-speech-was-really-important-and-what-it-says-about-2024.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/why-mike-pences-speech-was-really-important-and-what-it-says-about-2024.amp",
+      "publishedDateTime": "2021-06-06T06:50:10-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-06-06-trump-too-soon-to-tell-if-pence-would-be-running-mate-if-he-seeks-white-house-in-2024.md",
       "title": "Trump: 'Too soon to tell' if Pence would be running mate if he seeks White House in 2024",
       "excerpt": "Former President Trump Donald Trump Trump touts record, blasts Dems in return to stage Trump demands China pay 'reparations' for role in coronavirus pandemic Trump endorses Rep. Ted Budd for ...",
@@ -1241,120 +1355,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Republican Voice",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-06-04-in-a-speech-to-a-new-hampshire-gop-group-pence-calls-systemic-racism-a-left-wing-myth.md",
-      "title": "In a speech to a New Hampshire G.O.P. group, Pence calls systemic racism a ‘left-wing myth.’",
-      "excerpt": "Mike Pence also distanced himself from President Donald J. Trump, saying of the Capitol attack, “I don’t know if we’ll ever see eye-to-eye on that day.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/06/03/us/politics/pence-trump-systemic-racism.html",
-      "originalUrl": "https://www.nytimes.com/2021/06/03/us/politics/pence-trump-systemic-racism.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/06/03/us/politics/03new-washington-briefing-pence2/03new-washington-briefing-pence2-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/06/03/us/politics/pence-trump-systemic-racism.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/03/us/politics/pence-trump-systemic-racism.amp.html",
-      "publishedDateTime": "2021-06-03T17:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-03-pence-targeting-critical-race-theory-declares-america-is-not-a-racist-nation.md",
-      "title": "Pence, targeting critical race theory, declares ‘America is not a racist nation’",
-      "excerpt": "During a trip that sparked more 2024 speculation, former Vice President Mike Pence dived directly into the latest battleground in the nation’s culture wars, as he took direct aim at critical race theory and spotlighted that “America is not a racist nation.”",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZzyeDTXs5Zs/pence-targeting-critical-race-theory-declares-america-is-not-a-racist-nation",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZzyeDTXs5Zs/pence-targeting-critical-race-theory-declares-america-is-not-a-racist-nation",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 180,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/pence-targeting-critical-race-theory-declares-america-is-not-a-racist-nation.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-targeting-critical-race-theory-declares-america-is-not-a-racist-nation.amp",
-      "publishedDateTime": "2021-06-03T16:32:22-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Republican Voice",
         "Mike Pence"
       ]

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.bostonherald.com/2021/09/05/curley-bad-news-is-nothing-a
 cdnAmpWebUrl: "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2021/09/05/curley-bad-news-is-nothing-a-little-spin-cant-fix-at-biden-white-house/amp/"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 94
+published: true
 
 provider:
   name: Boston Herald
@@ -27,35 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "Biden, Dems push Civilian Climate Corps in echo of New Deal"
-    excerpt: "Inspired by the New Deal-era Civilian Conservation Corps, President Joe Biden and congressional Democrats are pushing for a modern counterpart: a Civilian Climate Corps that would create hundreds of thousands of jobs building trails,"
-    publishedDateTime: 2021-09-09T07:25:00Z
-    webUrl: "https://www.ctpost.com/news/article/Biden-Dems-push-Civilian-Climate-Corps-in-echo-16445011.php"
-    ampWebUrl: "https://www.ctpost.com/news/amp/Biden-Dems-push-Civilian-Climate-Corps-in-echo-16445011.php"
-    cdnAmpWebUrl: "https://www-ctpost-com.cdn.ampproject.org/c/s/www.ctpost.com/news/amp/Biden-Dems-push-Civilian-Climate-Corps-in-echo-16445011.php"
+  - title: "St. John residents plead for housing aid ahead of Joe Biden's visit: 'We need help ASAP'"
+    excerpt: "Neisha Perrilloux sat in 93 degree heat outside her powerless, storm-damaged apartment on Thursday trying to catch a breeze and wishing she were anywhere but LaPlace."
+    publishedDateTime: 2021-09-02T22:16:00Z
+    webUrl: "https://www.nola.com/news/hurricane/article_581eb13e-0c3b-11ec-a872-0b6336a8aab4.html"
     type: article
     provider:
-      name: Connecticut Post
-      domain: ctpost.com
-    quality: 75
+      name: NOLA.com
+      domain: nola.com
+    quality: 46
     images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
-  - title: "Joe Biden, Dems push Civilian Climate Corps in echo of New Deal"
-    excerpt: "Inspired by the New Deal-era Civilian Conservation Corps, President Joe Biden and congressional Democrats are pushing for a modern counterpart: a Civilian Climate Corps that would create hundreds of thousands of jobs building trails,"
-    publishedDateTime: 2021-09-09T13:00:00Z
-    webUrl: "https://floridapolitics.com/archives/456087-joe-biden-dems-push-civilian-climate-corps-in-echo-of-new-deal/"
-    type: article
-    provider:
-      name: Florida Politics
-      domain: floridapolitics.com
-    quality: 55
-    images:
-      - url: "https://floridapolitics.com/wp-content/uploads/2021/09/Joe-Biden-in-Queens.jpg"
-        width: 733
-        height: 415
+      - url: "https://bloximages.newyork1.vip.townnews.com/nola.com/content/tncms/assets/v3/editorial/d/f6/df63a7e7-2cd9-518f-8cda-14f7cbb70b7c/612fe8af921af.image.jpg?resize=924%2C630"
+        width: 924
+        height: 630
         isCached: true
 
 secured: "WHsTJgpswetqmhhMVKHCDl7gUy0kJi4Wl7XTZXzfHovVISlUwrtjFH3WA2q04iEt2IPlaFWNdkGADDoRI/L9ZOIoUhVXzOxmIdYerbLlvB782N390sJRrZae+RCaycbauJigxAmMIRYhD2JK50v++ZWT+QjFac4q1j/Fi7L8vrcHazfq/pdwiEKzOJMVPRlXgx4v63Zqpb4SZwPMg9qJmmzmWfdNj2jRRZ5mUiVOElUbI2OrbJkSN+XXYkx+xzMyU26L9vHV99CHWjA4PPyy9tfJuuJx9hfuVYjuIlhoPIuJB5K2YXIUAKbS2qCV72CWEomRLWk3bVGzHtLVJ07CycOM1qQ/tohNLCVUOrzEzqc=;8vd8BJUn2pP9WXfp59qgWg=="

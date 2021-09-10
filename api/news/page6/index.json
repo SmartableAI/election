@@ -2,6 +2,209 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-08-31-watch-biden-pledges-hurricane-ida-support-for-as-long-as-it-takes.md",
+      "title": "WATCH: Biden pledges Hurricane Ida support for ‘as long as it takes’",
+      "excerpt": "Ida has left scores of coastal Louisiana residents trapped by floodwaters and pleading to be rescued, while making a shambles of the electrical grid across a wide swath of the state in the sweltering,",
+      "sourceUrl": null,
+      "webUrl": "https://www.pbs.org/newshour/nation/watch-biden-pledges-hurricane-ida-support-for-as-long-as-it-takes",
+      "originalUrl": "https://www.pbs.org/newshour/nation/watch-biden-pledges-hurricane-ida-support-for-as-long-as-it-takes",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 365,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d3i6fh83elv35t.cloudfront.net/static/2021/08/2021-08-30T182355Z_554461000_RC2TFP9CFQYB_RTRMADP_3_STORM-IDA-BIDEN-1024x563.jpg",
+          "width": 1024,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pbs.org/newshour/amp/nation/watch-biden-pledges-hurricane-ida-support-for-as-long-as-it-takes",
+      "cdnAmpWebUrl": "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/nation/watch-biden-pledges-hurricane-ida-support-for-as-long-as-it-takes",
+      "publishedDateTime": "2021-08-30T12:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PBS",
+        "domain": "pbs.org",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/pbs.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-08-30-trump-big-tech-suit-lawyer-predicts-case-headed-to-supreme-court-says-govt-pressure-made-firms-state-actors.md",
+      "title": "Trump big tech suit lawyer predicts case headed to Supreme Court, says gov't pressure made firms state actors",
+      "excerpt": "John Coale leads former President Donald Trump's lawsuit against big tech companies Facebook, Twitter and YouTube, which is owned by Google.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1b5Ise1fHjY/trump-lawyer-john-coale-google-big-tech-lawsuit-hypocrisy",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1b5Ise1fHjY/trump-lawyer-john-coale-google-big-tech-lawsuit-hypocrisy",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-lawyer-john-coale-google-big-tech-lawsuit-hypocrisy.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-lawyer-john-coale-google-big-tech-lawsuit-hypocrisy.amp",
+      "publishedDateTime": "2021-08-30T07:46:14-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-08-30-rand-paul-hatred-for-trump-blocking-research-into-ivermectin-as-covid-19-treatment.md",
+      "title": "Rand Paul: 'Hatred for Trump' blocking research into Ivermectin as COVID-19 treatment",
+      "excerpt": "Sen. Rand Paul (R-Ky.) suggested researchers are not pursuing ivermectin as a possible COVID-19 treatment because of their disdain for former President Trump.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/569975-rand-paul-hatred-for-trump-blocking-research-into-ivermectin",
+      "originalUrl": "https://thehill.com/homenews/569975-rand-paul-hatred-for-trump-blocking-research-into-ivermectin",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 198,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/paulrand_081021gn_lead.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/569975-rand-paul-hatred-for-trump-blocking-research-into-ivermectin?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/569975-rand-paul-hatred-for-trump-blocking-research-into-ivermectin?amp",
+      "publishedDateTime": "2021-08-30T07:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-08-30-senior-living-bidens-no-jab-no-job-order-creates-quandary-for-nursing-homes.md",
+      "title": "Senior Living: Biden’s no-jab-no-job order creates quandary for nursing homes",
+      "excerpt": "Although 83% of residents in the average nursing facility are vaccinated, only 61% of a home’s workers are likely to be, according to data submitted by homes and published by the Centers for",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailynews.com/2021/08/30/senior-living-bidens-no-jab-no-job-order-creates-quandary-for-nursing-homes/",
+      "originalUrl": "https://www.dailynews.com/2021/08/30/senior-living-bidens-no-jab-no-job-order-creates-quandary-for-nursing-homes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dailynews.com/wp-content/uploads/2021/08/SeniorLivingBeach-4.jpg?w=1000&#038;h=586",
+          "width": 1000,
+          "height": 586,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailynews.com/2021/08/30/senior-living-bidens-no-jab-no-job-order-creates-quandary-for-nursing-homes/amp/",
+      "cdnAmpWebUrl": "https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2021/08/30/senior-living-bidens-no-jab-no-job-order-creates-quandary-for-nursing-homes/amp/",
+      "publishedDateTime": "2021-08-30T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Los Angeles Daily News",
+        "domain": "dailynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-08-30-pence-bill-clinton-will-ferrell-politicking-in-n-carolina.md",
       "title": "Pence, Bill Clinton, Will Ferrell politicking in N Carolina",
       "excerpt": "The next-to-last weekend before Election Day is attracting plenty of big-time politicians, leaders of interest groups and even a Hollywood star to the presidential battleground of North Carolina. Republican vice presidential candidate Mike Pence plans to speak at a Jacksonville rally Saturday,",
@@ -1028,222 +1231,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-27-trumps-former-national-security-advisor-john-bolton-says-its-impossible-for-mike-pompeo-to-rewrite-history-on-his-negotiations-with-the.md",
-      "title": "Trump's former national security advisor John Bolton says it's 'impossible' for Mike Pompeo to 'rewrite history' on his negotiations with the Taliban",
-      "excerpt": "\"That's a prescription for Democratic attack ads that would be fatal to someone's credibility,\" Bolton told Politico.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/john-bolton-impossible-to-rewrite-history-on-mike-pompeo-taliban-deal-2021-8",
-      "originalUrl": "https://www.businessinsider.com/john-bolton-impossible-to-rewrite-history-on-mike-pompeo-taliban-deal-2021-8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 146,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/61279e06e4235b00180aa5ba?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/john-bolton-impossible-to-rewrite-history-on-mike-pompeo-taliban-deal-2021-8?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/john-bolton-impossible-to-rewrite-history-on-mike-pompeo-taliban-deal-2021-8?amp",
-      "publishedDateTime": "2021-08-26T19:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-08-26-psaki-dismisses-calls-for-biden-to-resign-not-a-day-for-politics.md",
-      "title": "Psaki dismisses calls for Biden to resign: 'Not a day for politics'",
-      "excerpt": "White House Press Secretary Jen Psaki dismissed calls for President Joe Biden to resign in the wake of a terrorist attack in Kabul, Afghanistan that killed 13 U.S. service members, saying that there’s no room for politics in the discussion of the tragedy.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/UOSQkpsa_DQ/psaki-dismisses-calls-for-biden-to-resign-not-a-day-for-politics",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/UOSQkpsa_DQ/psaki-dismisses-calls-for-biden-to-resign-not-a-day-for-politics",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 275,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/14c646a6-ad3d-4268-aace-2e063ea85db7/12540c0f-99ca-442a-be78-656b4a413121/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/psaki-dismisses-calls-for-biden-to-resign-not-a-day-for-politics.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-dismisses-calls-for-biden-to-resign-not-a-day-for-politics.amp",
-      "publishedDateTime": "2021-08-26T16:46:39-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-26-biden-doesnt-deny-report-of-us-handing-over-names-of-americans-to-taliban-there-may-have-been.md",
-      "title": "Biden doesn't deny report of US handing over names of Americans to Taliban: 'There may have been'",
-      "excerpt": "President Biden did not deny a report circulating Thursday that officials in his administration had provided names of Americans in Afghanistan to the Taliban in order to help usher them safely to the airport.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/OK6k2tKrGqA/biden-doesnt-deny-report-of-u-s-handing-over-names-of-americans-to-taliban-theyre-may-have-been",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/OK6k2tKrGqA/biden-doesnt-deny-report-of-u-s-handing-over-names-of-americans-to-taliban-theyre-may-have-been",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 202,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/36970f94-cdd7-4d94-95be-ecb45dc8e5c4/22c1fa4f-9b06-4657-bd69-c02e796da689/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-doesnt-deny-report-of-u-s-handing-over-names-of-americans-to-taliban-theyre-may-have-been.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-doesnt-deny-report-of-u-s-handing-over-names-of-americans-to-taliban-theyre-may-have-been.amp",
-      "publishedDateTime": "2021-08-26T15:10:34-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-27-how-to-watch-live-stream-joe-bidens-speech-after-attack-at-kabul-airport.md",
-      "title": "How to Watch, Live Stream Joe Biden's Speech After Attack at Kabul Airport",
-      "excerpt": "The speech will be streamed live on the White House's Youtube page. Press secretary Jen Psaki will also brief reporters following Biden's speech at 5:45 p.m. Eastern Time. Two explosions occurred Thursday near the Hamid Karzai International Airport in Kabul,",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/how-watch-live-stream-joe-bidens-speech-after-explosions-kabul-airport-1623378",
-      "originalUrl": "https://www.newsweek.com/how-watch-live-stream-joe-bidens-speech-after-explosions-kabul-airport-1623378",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 503,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1880784/live-stream-joe-bidens-speech-after-explosion.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/how-watch-live-stream-joe-bidens-speech-after-explosions-kabul-airport-1623378?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/how-watch-live-stream-joe-bidens-speech-after-explosions-kabul-airport-1623378?amp=1",
-      "publishedDateTime": "2021-08-26T11:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

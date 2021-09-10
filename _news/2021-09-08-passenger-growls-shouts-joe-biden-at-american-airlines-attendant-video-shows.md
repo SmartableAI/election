@@ -2,29 +2,23 @@
 category: news
 title: "Passenger growls, shouts ‘Joe Biden’ at American Airlines attendant, video shows"
 excerpt: "Armstrong was recorded on video by Dennis Busch, who was also on the flight and said Armstrong told an Asian woman that she “didn’t belong here,” Fox 13 Now reported. Armstrong was also filmed yelling “Joe Biden” at a flight attendant and growling at the crew,"
-publishedDateTime: 2021-09-07T21:11:00Z
-originalUrl: "https://www.sacbee.com/news/nation-world/national/article254060303.html"
-webUrl: "https://www.sacbee.com/news/nation-world/national/article254060303.html"
-ampWebUrl: "https://amp.sacbee.com/news/nation-world/national/article254060303.html"
-cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/nation-world/national/article254060303.html"
+publishedDateTime: 2021-09-07T22:11:00Z
+originalUrl: "https://www.miamiherald.com/news/nation-world/national/article254060303.html"
+webUrl: "https://www.miamiherald.com/news/nation-world/national/article254060303.html"
+ampWebUrl: "https://amp.miamiherald.com/news/nation-world/national/article254060303.html"
+cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/nation-world/national/article254060303.html"
 type: article
-quality: 70
+quality: 50
 heat: -1
 published: false
 
 provider:
-  name: Sacramento Bee
-  domain: sacbee.com
+  name: Miami Herald
+  domain: miamiherald.com
 
 topics:
   - Election
   - Joe Biden
-
-images:
-  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998031001/e5280ab3-2a9c-4028-8ae1-6788e12e2462/adbc20cf-7551-41d2-8a85-6a5f4bd8b900/1280x720/match/image.jpg"
-    width: 1280
-    height: 720
-    isCached: true
 
 related:
   - title: "Joe Biden’s Ukraine meeting is a test of America’s pledges"
@@ -203,6 +197,6 @@ related:
         height: 430
         isCached: true
 
-secured: "s0OkZUwSPAm7/FujPWbGptYbXTP6qa5WPWKyFZd6Y+7brsIWDAef99V1+z/1okB45ABiCWIaUKo9qgNhWKlErWmYGPE2ksvK3uIJWWFNFHzvFL8i9ErN5DkMr4wvBCPCFXYiETRI9rza6p7yv3C4IL9RK8AClHYXX5Ic9WvtzzFk6xGFjs+9yRxeC6zMaZ5e7fZLuNDLGaeWRew//4N7nRkIjEf5ioNlyskOP7to883m+623XJeLc4DvAmuLSw/C/k7w5Pv3UO2f74U+eSCLKaOl5PpRnG06numXXPMOC5NMo5xNDi/9uCC2PHEWmafENZNdyXVKSRkf2pPhqX4DMonBCXmjGNCge69L1kjSWX1i/ayznij6f7LRrEm9zguH3kfL2KekcGd0s9tJ1rq+3rdo8gM1JrEfOihZAfN1kuuHlxZF3TrDzaxBcTO22g9tsUXdf/6nCHVXJ4CFYVsdfXdALmmSi7xfLYRLAZhbCw7VREm/xHYPUByWDUXipVgEVE0+KZoT72S+cD3lX27UlQ==;0G7RE5YPi4HsQzpIWJg0oQ=="
+secured: "Ym2GSl4WswDOg1KpSoQy07IgZclJUBwwVBAvwh6klarcD3W5VEUjM6mwZawo90Q2g2asZeNhOSexG5nXtkdUJ/+5BttPFd4f3E2t8QNMPkx8pye+I+caR1p2rrelet+8vFPOf9hI23Tr46E6QVXnAuC5cuicekMjj6KaXOJp6lHWRDYe7go77982jWAayOKjQiSEJCktAg2Wp1kaaPRxJyItWCp/oE9ULon0ggwEdOMQjSoUibyqk+3BCy+8mUIo3j9dYzCOVaLWl+qfDTkMqagfRiorLae4RZ3WeCC9+6L3V0MxPO3gv3xaBCH6XuD/dSdypDzAKmXsjRVfYV05NGT58SBAgq4NJ2reBFXOyUCzXlVmUFU0hTIE17nh32HU0yANtn3q+DIkqDB7GisulcbxCj0+897IpoKPfxGi/Qd7oIYAFnn2dvOCkyF8tBa5NFMz6bQqa0Gwp6FyDgW+P+UpJoN1FqTvtKxLaF1QDZPpcHyX7QbBKgNFMBKxbCA3Ui+s6Er81SreI+/wCUBOsA==;uu7beHae56lAl0fcH1O0fA=="
 ---
 

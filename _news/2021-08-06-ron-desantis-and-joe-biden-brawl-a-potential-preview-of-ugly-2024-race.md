@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/ron-desantis-joe-biden-2024-1616923?amp=1"
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/ron-desantis-joe-biden-2024-1616923?amp=1"
 type: article
 quality: 125
-heat: 365
+heat: 385
 published: true
 
 provider:
@@ -200,6 +200,20 @@ related:
       name: Florida Politics
       domain: floridapolitics.com
     quality: 48
+    images:
+      - url: "https://floridapolitics.com/wp-content/uploads/2021/07/1000-54.jpeg"
+        width: 1000
+        height: 667
+        isCached: true
+  - title: "Ron DeSantis surprised monoclonal antibodies aren’t part of Joe Biden’s COVID-19 plan — they are"
+    excerpt: "Ron DeSantis suggested President Joe Biden should have included monoclonal antibody treatment in his six-point plan to combat COVID-19 the White House unveiled Thursday. There’s just one problem with DeSantis’ critique though — the plan’s improved care section is largely dedicated to the therapy."
+    publishedDateTime: 2021-09-09T23:46:00Z
+    webUrl: "https://floridapolitics.com/archives/456389-ron-desantis-surprised-monoclonal-antibodies-arent-part-of-joe-bidens-covid-19-plan-they-are/"
+    type: article
+    provider:
+      name: Florida Politics
+      domain: floridapolitics.com
+    quality: 42
     images:
       - url: "https://floridapolitics.com/wp-content/uploads/2021/07/1000-54.jpeg"
         width: 1000

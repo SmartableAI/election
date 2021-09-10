@@ -2,6 +2,214 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-09-08-biden-admins-response-to-taliban-excuse-for-grounded-flights-slammed-by-lawmakers.md",
+      "title": "Biden admin's response to Taliban 'excuse' for grounded flights slammed by lawmakers",
+      "excerpt": "Secretary of State Antony Blinken said the Taliban have kept planes grounded because evacuees lack required visa documentation, but Republicans are frustrated with the administration’s “excuse.”",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Urd-B-YNieI/biden-admin-taliban-grounded-flights-lawmakers",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Urd-B-YNieI/biden-admin-taliban-grounded-flights-lawmakers",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 188,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2e5b21bf-685d-49c1-a532-196bcdaa6507/7a27150e-99b5-4aed-834a-f74efdfb03b7/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-admin-taliban-grounded-flights-lawmakers.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-admin-taliban-grounded-flights-lawmakers.amp",
+      "publishedDateTime": "2021-09-08T11:19:08-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-09-09-pelosi-to-hold-security-briefing-ahead-of-sept-18-rally-planned-by-trump-supporters.md",
+      "title": "Pelosi to hold security briefing ahead of Sept. 18 rally planned by Trump supporters",
+      "excerpt": "Speaker Nancy Pelosi has invited her fellow congressional leaders from the House and Senate to attend a security briefing about an upcoming rally planned at the Capitol in support people who were arrested during the Jan.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/congress/pelosi-hold-security-briefing-ahead-sept-18-rally-planned-trump-n1278713",
+      "originalUrl": "https://www.nbcnews.com/politics/congress/pelosi-hold-security-briefing-ahead-sept-18-rally-planned-trump-n1278713",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 128,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_36/3504362/210908-nancy-pelosi-ew-1238p.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1278713",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1278713",
+      "publishedDateTime": "2021-09-08T10:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-09-08-top-jimmy-carter-aide-says-biden-admin-is-reminiscent-of-reliving-carter-years.md",
+      "title": "Top Jimmy Carter aide says Biden admin is 'reminiscent of reliving' Carter years",
+      "excerpt": "Former White House deputy chief of staff under Carter, Les Francis, said that President Biden seems unable to “catch a break” amid the chaotic, crisis-ridden first year of his term.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8PiYsm3iSrQ/top-jimmy-carter-aide-says-biden-admin-is-reminiscent-of-reliving-carter-years",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8PiYsm3iSrQ/top-jimmy-carter-aide-says-biden-admin-is-reminiscent-of-reliving-carter-years",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 170,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fce9db3d-9d8c-42e7-a5e0-eb6777d4f9ee/80bbd468-54e3-49a9-a0e0-8398c2ee7e4c/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/top-jimmy-carter-aide-says-biden-admin-is-reminiscent-of-reliving-carter-years.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/top-jimmy-carter-aide-says-biden-admin-is-reminiscent-of-reliving-carter-years.amp",
+      "publishedDateTime": "2021-09-08T08:03:03-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-09-08-donald-trump-will-call-evander-holyfield-vitor-belfort-fight-with-son-don-jr.md",
+      "title": "Donald Trump will call Evander Holyfield-Vitor Belfort fight with son Don Jr.",
+      "excerpt": "Former President Donald Trump and his son Donald Trump Jr. will provide commentary on a “gamecast” for Saturday’s pay-per-view boxing event led by the Evander Holyfield vs. Vitor",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/09/08/donald-trump-and-son-calling-belfort-holyfield-triller-fight/",
+      "originalUrl": "https://nypost.com/2021/09/08/donald-trump-and-son-calling-belfort-holyfield-triller-fight/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 112,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/09/08/donald-trump-and-son-calling-belfort-holyfield-triller-fight/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/09/08/donald-trump-and-son-calling-belfort-holyfield-triller-fight/amp/",
+      "publishedDateTime": "2021-09-08T07:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-09-08-donald-trump-to-provide-commentary-on-boxing-match-between-evander-holyfield-and-vitor-belfort.md",
       "title": "Donald Trump to provide commentary on boxing match between Evander Holyfield and Vitor Belfort",
       "excerpt": "President Donald Trump will host and commentate the Triller Fight Club heavyweight boxing match between Evander Holyfield and Vitor Belfort. Trump is providing \"guest commentary\" for the fight, which will take place at the Seminole Hard Rock Hotel in Hollywood,",
@@ -271,7 +479,7 @@
       "originalUrl": "https://abcnews.go.com/Sports/donald-trump-son-provide-commentary-evander-holyfield-vitor/story?id=79884415",
       "featuredContent": null,
       "highlight": null,
-      "heat": 194,
+      "heat": 214,
       "tags": null,
       "images": [
         {
@@ -427,7 +635,7 @@
       "originalUrl": "https://www.houstonchronicle.com/politics/texas/article/How-Texas-is-following-up-on-Trump-s-voter-16441526.php",
       "featuredContent": null,
       "highlight": null,
-      "heat": 439,
+      "heat": 479,
       "tags": null,
       "images": [
         {
@@ -648,7 +856,7 @@
       "originalUrl": "https://thehill.com/homenews/administration/571071-biden-expected-to-campaign-for-newsom-in-california-next-week",
       "featuredContent": null,
       "highlight": null,
-      "heat": 285,
+      "heat": 345,
       "tags": null,
       "images": [
         {
@@ -752,7 +960,7 @@
       "originalUrl": "https://www.upi.com/Top_News/US/2021/09/07/new-york-jersey-joe-biden-hurricane-ida/7121631012476/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 135,
+      "heat": 155,
       "tags": null,
       "images": [
         {
@@ -894,7 +1102,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 1006,
+      "heat": 1046,
       "tags": null,
       "images": [
         {
@@ -950,7 +1158,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 264,
+      "heat": 284,
       "tags": null,
       "images": [
         {
@@ -1082,223 +1290,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-09-06-son-of-911-victim-to-biden-do-not-come-to-ground-zero-memorials.md",
-      "title": "Son of 9/11 victim to Biden: Do not come to Ground Zero memorials",
-      "excerpt": "Nic Haros Jr., the son of a 9/11 victim, urged President Biden to avoid attending 20-year memorials during an interview on \"Fox & Friends\" on Monday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/son-9-11-victim-urges-biden-avoid-ground-zero-memorial",
-      "originalUrl": "https://www.foxnews.com/media/son-9-11-victim-urges-biden-avoid-ground-zero-memorial",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c7287a1d-46a0-4b90-be6f-0af4de47b4d2/8ff0fc81-a822-4fb5-b437-50b0bd85f38c/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/son-9-11-victim-urges-biden-avoid-ground-zero-memorial.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/son-9-11-victim-urges-biden-avoid-ground-zero-memorial.amp",
-      "publishedDateTime": "2021-09-06T08:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-09-06-the-trump-factor-newsom-spotlights-former-president-in-california-gubernatorial-recall-election.md",
-      "title": "The Trump factor: Newsom spotlights former president in California gubernatorial recall election",
-      "excerpt": "He’s not on the ballot in the California recall election of Gov. Gavin Newsom, but former President Trump’s front and center as the embattled Democratic governor fights to save his job steering the Golden State.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/DqxgJTzrifo/the-trump-factor-newsom-spotlights-former-president-in-california-gubernatorial-recall-election",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/DqxgJTzrifo/the-trump-factor-newsom-spotlights-former-president-in-california-gubernatorial-recall-election",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 197,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/the-trump-factor-newsom-spotlights-former-president-in-california-gubernatorial-recall-election.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/the-trump-factor-newsom-spotlights-former-president-in-california-gubernatorial-recall-election.amp",
-      "publishedDateTime": "2021-09-06T07:42:38-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-09-06-americans-emailed-pence-officials-asking-to-remove-trump-from-office-after-capitol-riot.md",
-      "title": "Americans Emailed Pence, Officials Asking to Remove Trump From Office After Capitol Riot",
-      "excerpt": "Emails accused Trump of inciting the violence and called for members of the administration to take drastic action.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/americans-emailed-pence-officials-asking-remove-trump-office-after-capitol-riot-1626418",
-      "originalUrl": "https://www.newsweek.com/americans-emailed-pence-officials-asking-remove-trump-office-after-capitol-riot-1626418",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 191,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1888243/mike-pence-25th-amendment-trump-removal-january6.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/americans-emailed-pence-officials-asking-remove-trump-office-after-capitol-riot-1626418?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/americans-emailed-pence-officials-asking-remove-trump-office-after-capitol-riot-1626418?amp=1",
-      "publishedDateTime": "2021-09-06T06:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-09-06-joe-bidens-granddaughter-naomi-announces-engagement-to-longtime-beau-peter-neal.md",
-      "title": "Joe Biden's Granddaughter Naomi Announces Engagement To Longtime Beau Peter Neal",
-      "excerpt": "Naomi Biden, President Joe Biden's granddaughter, is now engaged. The 27-year-old daughter of Hunter Biden with ex-wife Kathleen Buhle took to Instagram Wednesday to confirm she's tying the knot with her longtime beau,",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/joe-bidens-granddaughter-naomi-announces-engagement-longtime-beau-peter-neal-3289026",
-      "originalUrl": "https://www.ibtimes.com/joe-bidens-granddaughter-naomi-announces-engagement-longtime-beau-peter-neal-3289026",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/07/04/us-president-joe-biden-2nd-l-first-lady.jpg",
-          "width": 1024,
-          "height": 681,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/joe-bidens-granddaughter-naomi-announces-engagement-longtime-beau-peter-neal-3289026?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/joe-bidens-granddaughter-naomi-announces-engagement-longtime-beau-peter-neal-3289026?amp=1",
-      "publishedDateTime": "2021-09-06T03:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

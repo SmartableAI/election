@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/blumenthal-furious-biden-admin-dela
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/blumenthal-furious-biden-admin-delaying-americans-leaving-afghanistan.amp"
 type: article
 quality: 164
-heat: 264
+heat: 284
 published: true
 
 provider:
@@ -111,6 +111,17 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Passenger aboard American Airlines flight growls like a dog, shouts, ‘Joe Biden!’"
+    excerpt: "The man, identified as 61-year-old Timothy Armstrong of Las Vegas, was aboard Flight 1802 from LA to Salt Lake City on Monday when he went on his unhinged tirade."
+    publishedDateTime: 2021-09-09T14:59:00Z
+    webUrl: "https://nypost.com/2021/09/09/passenger-aboard-american-airlines-flight-growls-like-a-dog/"
+    ampWebUrl: "https://nypost.com/2021/09/09/passenger-aboard-american-airlines-flight-growls-like-a-dog/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/09/09/passenger-aboard-american-airlines-flight-growls-like-a-dog/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 110
 
 secured: "Ep1JJ77z8gcKcHno5WdlEyNjXwHrLFXyHgY8gkuL9OhrUMOw8DrXwPoCtIVDC+gjXWXhjsfe6cAVzwVUui3onVl9YuUCDOeD3DSUreqtv1L/U1b8z1O2YHnKxv/Yj7cekGWkHB7TwYkP4hKmPj4fU3gpujqv4rvUXKUWYaoIvQyk5Io8tKqWmYfj2GG+mTRC1E+8X9d6viK5WFeWEAfRKNdPtc7YxK/8mgZyydD+OAuIj7n4FqCfAhqwO8nSGW1SFbmb83cTk7aIWRRq/Qr3Z40dICass7GplqsLw/rtw2k4YoptSYbAN29d5vDSf/QHW9c+ehVhFirkKGeY5wgGXAGpJJnaVQBit62aICYWQV0=;PcjBZ4lRXGUxLRUFO67sZA=="
 ---

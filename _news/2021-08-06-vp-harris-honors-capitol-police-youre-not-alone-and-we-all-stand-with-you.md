@@ -26,21 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "Dems worried about Kamala Harris approval: ‘More harm than good’"
-    excerpt: "As Vice President Kamala Harris’ poll numbers remain underwater, some Democrats are worried that she could become a drag on their efforts to maintain control of congress in the 2022 midterm"
-    publishedDateTime: 2021-07-29T19:23:00Z
-    webUrl: "https://nypost.com/2021/07/29/democrats-worried-about-kamala-harris-approval-numbers/"
-    ampWebUrl: "https://nypost.com/2021/07/29/democrats-worried-about-kamala-harris-approval-numbers/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/29/democrats-worried-about-kamala-harris-approval-numbers/amp/"
+  - title: "Miranda Devine: Kamala Harris inches closer to 2024 and Dems are terrified"
+    excerpt: "Wednesday that Kamala Harris was announced as Joe Biden’s running mate. That auspicious moment catapulted her into prime time, a heartbeat away from the Oval Office."
+    publishedDateTime: 2021-08-12T17:38:00Z
+    webUrl: "https://www.foxnews.com/opinion/kamala-harris-2024-democrats-miranda-devine"
+    ampWebUrl: "https://www.foxnews.com/opinion/kamala-harris-2024-democrats-miranda-devine.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/kamala-harris-2024-democrats-miranda-devine.amp"
     type: article
     provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 135
+      name: Fox News
+      domain: foxnews.com
+    quality: 133
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/kamala-harris-ratings-04.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/22c44787-0d2a-4a77-a89d-680775135204/a28385c8-4809-4e82-9655-7cb6502df422/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
 
 secured: "yz/0YKn561DiKQQqzx2Y1GCm3yvsNjvLbtZXyPQW4uklI9S2BJ4P5Mktd0hnk7KoVZRqoYEzMQ4IJvQTOWyH7E3GYfcBjfsPm68Cl5iF9LhRKuhjHW5Y0VqspJyQZHf428pwVictRO5CcIDJinxtg8YYQ0j7EMbfbS0axwI5d1XI2yIJ931R70wVFbUypThFHtnAesunBZ9NDsETOEVYBKO++l3ha9HUTmVZayK7Flsgwo2z01rRLgRZ4GtAClt3+m+qyrLyFQ0NJe2CYcVes2IXD+Xq2rXvii+qg5xNbqvjCaNPH96tDop/r1LWmjbLtdHfff2lUIUJhnip+3xxXWG5zjmCsLKwwh81iGXM0NQ=;k6uK9UkLz3urUSoYgpYkRg=="

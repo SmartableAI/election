@@ -2,63 +2,6 @@
   "page": 18,
   "value": [
     {
-      "path": "_news/2021-05-14-biden-hit-during-police-week-for-pushing-anti-police-myths.md",
-      "title": "Biden hit during ‘Police Week’ for pushing anti-police 'myths’",
-      "excerpt": "Biden also shares blame, said Johnson. In his actions and words Biden has turned away from embracing police and fighting crime, an anchor in his Senate career. It was noticed, also, that he didn't note the death of a small-town Delaware police officer whose funeral drew state officials,",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonexaminer.com/washington-secrets/biden-hit-during-police-week-for-pushing-anti-police-myths",
-      "originalUrl": "https://www.washingtonexaminer.com/washington-secrets/biden-hit-during-police-week-for-pushing-anti-police-myths",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mediadc.brightspotcdn.com/dims4/default/a7b556a/2147483647/strip/true/crop/3012x2013+0+0/resize/3012x2013!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2F69%2F96%2F49ec0120489b92d2900479a46560%2Fap9409130391.jpeg",
-          "width": 3012,
-          "height": 2013,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonexaminer.com/washington-secrets/biden-hit-during-police-week-for-pushing-anti-police-myths?_amp=true",
-      "cdnAmpWebUrl": "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/washington-secrets/biden-hit-during-police-week-for-pushing-anti-police-myths?_amp=true",
-      "publishedDateTime": "2021-05-14T09:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Examiner",
-        "domain": "washingtonexaminer.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonexaminer.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-05-14-nomination-of-kristen-clarke-controversial-biden-civil-rights-pick-hangs-in-balance.md",
       "title": "Nomination of Kristen Clarke, controversial Biden civil-rights pick, hangs in balance",
       "excerpt": "The Senate Judiciary Committee advanced the nomination of Kristen Clarke to run the civil rights division at the Department of Justice on Thursday, but her confirmation is still not certain as a handful of key moderate senators have yet to announce their stance on the nominee.",
@@ -1628,6 +1571,62 @@
       "ampWebUrl": "https://www.foxnews.com/politics/biden-administration-border-migrant-facility-contracts-spending.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-administration-border-migrant-facility-contracts-spending.amp",
       "publishedDateTime": "2021-05-08T14:33:26-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-08-biden-white-house-releases-first-virtual-visitor-logs.md",
+      "title": "Biden White House releases first virtual visitor logs",
+      "excerpt": "The Biden White House released its first round of visitor logs Friday in an effort to \"restore integrity, transparency, and trust in government,\" the administration said.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/txUF60LDXWI/biden-white-house-first-virtual-visitor-logs",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/txUF60LDXWI/biden-white-house-first-virtual-visitor-logs",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 955,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/88785100-c591-4705-a000-240dbb0fec6e/e8c41f49-b049-4819-a13e-a62dfe9c3e34/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-white-house-first-virtual-visitor-logs.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-white-house-first-virtual-visitor-logs.amp",
+      "publishedDateTime": "2021-05-08T13:02:53-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

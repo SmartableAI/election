@@ -2,6 +2,106 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2021-07-15-mike-pence-evidence-strongly-suggests-covid-19-came-from-a-chinese-lab.md",
+      "title": "Mike Pence: Evidence 'strongly suggests' COVID-19 came from a Chinese lab",
+      "excerpt": "Ex-VP Mike Pence points to a Chinese lab as COVID's source, but doesn't elaborate on the evidence he's citing. In a new paper, virologists disagree.",
+      "sourceUrl": null,
+      "webUrl": "https://www.freep.com/story/news/politics/2021/07/14/covid-origin-mike-pence-says-evidence-strongly-suggests-chinese-lab/7968126002/",
+      "originalUrl": "https://www.freep.com/story/news/politics/2021/07/14/covid-origin-mike-pence-says-evidence-strongly-suggests-chinese-lab/7968126002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/07/14/USAT/a2df8c41-e316-433a-a049-afa1df9aa141-Pence.jpg?auto=webp&crop=1999,1125,x0,y390&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.freep.com/amp/7968126002",
+      "cdnAmpWebUrl": "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/7968126002",
+      "publishedDateTime": "2021-07-14T15:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Detroit Free Press",
+        "domain": "freep.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-07-14-pence-calls-on-biden-to-demand-olympics-move-out-of-beijing-until-china-offers-transparency-on-covid-19.md",
+      "title": "Pence calls on Biden to demand Olympics move out of Beijing until China offers transparency on COVID-19",
+      "excerpt": "Former Vice President Mike Pence called on President Biden to demand the 2022 Olympics be moved out of Beijing unless China offers transparency on the origins of COVID-19 and ends human rights abuses against the county's Muslim minority populations in Xinjiang.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/e6fAb3WCVkE/pence-biden-olympics-beijing-covid",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/e6fAb3WCVkE/pence-biden-olympics-beijing-covid",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 444,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3da8478d-1e2c-4b7a-9da3-315d44adb9c3/a1fc8b66-1770-40f0-8564-e8c23e587ad2/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/pence-biden-olympics-beijing-covid.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-biden-olympics-beijing-covid.amp",
+      "publishedDateTime": "2021-07-14T13:10:08-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-07-14-pro-trump-senate-hopeful-jd-vance-called-then-president-a-moral-disaster-in-2017-messages.md",
       "title": "Pro-Trump Senate hopeful J.D. Vance called then-President a 'moral disaster' in 2017 messages",
       "excerpt": "Ohio Republican Senate candidate J.D. Vance, a venture capitalist and author of the bestselling book \"Hillbilly Elegy,\" disparaged then-President Donald Trump as a \"moral disaster\" whose administration had \"no domestic policy agenda besides tax cuts\" in Twitter direct messages from summer 2017.\n    \n",
@@ -1212,114 +1312,6 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/13/politics/calk-manafort-trump-administration/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/13/politics/calk-manafort-trump-administration/index.html",
       "publishedDateTime": "2021-07-13T08:48:16-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-13-chicago-banker-convicted-in-loans-for-trump-job-scheme.md",
-      "title": "Chicago banker convicted in loans-for-Trump job scheme",
-      "excerpt": "A Manhattan jury has convicted a Chicago banker of criminal charges for enabling Paul Manafort to get $16 million in loans as the former campaign manager for ex-President Donald Trump helped him get a",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/business/chicago-banker-convicted-in-loans-for-trump-job-scheme/2021/07/13/f69eaaca-e3f6-11eb-88c5-4fd6382c47cb_story.html",
-      "originalUrl": "https://www.washingtonpost.com/business/chicago-banker-convicted-in-loans-for-trump-job-scheme/2021/07/13/f69eaaca-e3f6-11eb-88c5-4fd6382c47cb_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 325,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OBHSMSXD7EI6XCGFJ7LDQLCHZM.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/business/chicago-banker-convicted-in-loans-for-trump-job-scheme/2021/07/13/f69eaaca-e3f6-11eb-88c5-4fd6382c47cb_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/chicago-banker-convicted-in-loans-for-trump-job-scheme/2021/07/13/f69eaaca-e3f6-11eb-88c5-4fd6382c47cb_story.html?outputType=amp",
-      "publishedDateTime": "2021-07-13T08:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-13-trump-said-whoever-leaked-info-on-his-white-house-bunker-stay-should-be-executed-new-book-claims.md",
-      "title": "Trump said whoever 'leaked' info on his White House bunker stay should be 'executed,' new book claims",
-      "excerpt": "Then-President Donald Trump told a number of his advisers in 2020 that whoever leaked information about his stay in the White House bunker during protests last June had committed treason and should be executed for sharing details about the episode with members of the press, according to excerpts of a",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1GunlAHA_OA/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1GunlAHA_OA/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 160,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210303224724-donald-trump-file-201126-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/13/politics/trump-white-house-bunker-leak-executed-treason-book-claims/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/13/politics/trump-white-house-bunker-leak-executed-treason-book-claims/index.html",
-      "publishedDateTime": "2021-07-13T06:55:41-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",

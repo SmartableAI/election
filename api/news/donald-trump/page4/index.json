@@ -2,6 +2,54 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-08-12-trump-gop-slam-dems-35t-budget-as-communist-plan-to-destroy-us.md",
+      "title": "Trump, GOP slam Dems’ $3.5T budget as ‘Communist plan to destroy’ US",
+      "excerpt": "Former President Donald Trump led the Republican criticism after a 15-hour “vote-a-rama” overnight that saw senators pass the $3.5 trillion budget reconciliation package.",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/08/11/trump-gop-slam-dems-3-5t-budget-as-communist-plan-to-destroy-us/",
+      "originalUrl": "https://nypost.com/2021/08/11/trump-gop-slam-dems-3-5t-budget-as-communist-plan-to-destroy-us/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/08/gop-oppose-infrastructure.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/08/11/trump-gop-slam-dems-3-5t-budget-as-communist-plan-to-destroy-us/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/11/trump-gop-slam-dems-3-5t-budget-as-communist-plan-to-destroy-us/amp/",
+      "publishedDateTime": "2021-08-11T13:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-08-11-donald-trump-calls-35t-budget-plan-assault-on-our-nation-after-measure-clears-senate.md",
       "title": "Donald Trump Calls $3.5T Budget Plan 'Assault on Our Nation' After Measure Clears Senate",
       "excerpt": "Former President Donald Trump said Americans are being \"robbed\" after the Democrats' $3.5 trillion budget plan \"Good morning, America!",
@@ -1435,49 +1483,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-08-01-kinzinger-mccarthy-and-jordan-should-face-6-january-subpoenas-but-maybe-not-trump.md",
-      "title": "Kinzinger: McCarthy and Jordan should face 6 January subpoenas – but maybe not Trump",
-      "excerpt": "Republican on select committee seeks Capitol attack answers but Collins toes GOP line in saying panel not sufficiently bipartisan",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/aug/01/kinzinger-mccarthy-jordan-6-january-capitol-attack-subpoenas-donald-trump",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/aug/01/kinzinger-mccarthy-jordan-6-january-capitol-attack-subpoenas-donald-trump",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/aug/01/kinzinger-mccarthy-jordan-6-january-capitol-attack-subpoenas-donald-trump",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/aug/01/kinzinger-mccarthy-jordan-6-january-capitol-attack-subpoenas-donald-trump",
-      "publishedDateTime": "2021-08-01T07:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

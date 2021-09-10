@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/lara-trump-slams-hypocritical-kamala-harris
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/lara-trump-slams-hypocritical-kamala-harris-michelle-obama-silence-afghan-women-1626238?amp=1"
 type: article
 quality: 131
-heat: 171
+heat: 191
 published: true
 
 provider:
@@ -60,6 +60,20 @@ related:
       - url: "https://www.snopes.com/tachyon/2021/08/Kamala_hero-1560x936-1-e1630430333267.jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Vice President Kamala Harris Meeting on Reproductive Rights"
+    excerpt: "Vice President Kamala Harris makes opening remarks about the impact of Texas Senate Bill 8 and other restrictions on reproductive care during a meeting with abortion and reproductive health providers and patients from Texas,"
+    publishedDateTime: 2021-09-09T21:55:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/7f688401c5db1e73cddd60906d2880b1/Vice-President-Kamala-Harris-Meeting-on-Reproductive-Rights/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/7f688401c5db1e73cddd60906d2880b1/HARRIS-TEXAS.jpg"
+        width: 650
+        height: 433
         isCached: true
 
 secured: "mDSrDBHIjxcpoMQR6r+7C0+YYEDwiO1LBdLD7ksSaMN34rpaR8tA529Lj8ngoMhxP7/7sIfGPyn/whLW4j92jOb3kAlsge5lZmCw0/NXI2yAS0hvDXFMz/tUi0C6z2bPLp0d+qtVa/xm9tSAM+IvH7bGC6ifyhnNst60mEERQCsZsI4jlF1FbhE/LJwhLrh6KaefysFj9Ig8XdskLpG3AIf0rsm2j1YeP0gZgL5MNs3bRNQ9+EWQobEehLLxNwOTbi5Z63uHX8msOjsAjucfDUdbkt89UlEN8b++oqaWucG2ok6u2QKFqURUeUsXDurwar2dM/ata8mzjn9d5Ux6UliuijHH4+gBAi6CvllZjgw=;44SORI4iRc/wGQuxdgv7tg=="

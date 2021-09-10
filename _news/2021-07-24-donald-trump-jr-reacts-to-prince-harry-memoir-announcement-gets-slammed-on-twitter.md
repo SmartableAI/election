@@ -95,6 +95,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Donald Trump endorses GOP challenger to Wyoming Rep. Liz Cheney"
+    excerpt: "Former President Donald Trump endorsed a Wyoming attorney on Thursday in his campaign to unseat U.S. Rep. Liz Cheney, one of his most vocal Republican critics."
+    publishedDateTime: 2021-09-10T01:36:00Z
+    webUrl: "https://www.spokesman.com/stories/2021/sep/09/donald-trump-endorses-gop-challenger-to-wyoming-re/"
+    ampWebUrl: "https://www.spokesman.com/stories/2021/sep/09/donald-trump-endorses-gop-challenger-to-wyoming-re/?amp-content=amp"
+    cdnAmpWebUrl: "https://www-spokesman-com.cdn.ampproject.org/c/s/www.spokesman.com/stories/2021/sep/09/donald-trump-endorses-gop-challenger-to-wyoming-re/?amp-content=amp"
+    type: article
+    provider:
+      name: The Spokesman-Review
+      domain: spokesman.com
+    quality: 75
+    images:
+      - url: "https://thumb.spokesman.com/PNYQwdIlYuZnFT3wrISlMMgzc20=/480x0/media.spokesman.com/photos/2021/09/02/61311cb765353.hires.jpg"
+        width: 480
+        height: 345
+        isCached: true
 
 secured: "NS4+9b0+BbDCtVNral2USryBn8WwbUOWQGfMeci1QZkBFY6jYteSkyVGndh0Lv+1donJCUJeBaufydr0eB6AZhX+pvVEZiOYtyGRUyr1+Uje3gij1djLPTy9OdmR7yEN04vAzGMhX/ye/OuLiwbqjWPkbDPzW1PqmnRFkmaZwFuH6zatSAXWFrf/dk+msW5tobKL6suJxSyt5+mn4g30uPe2ZwoBZxYFjxMbZZdEHdqMcgd48yESqWjPmsdUU/ncS0ybSFKB5TSUcGK8doIsFe9f7CCu2V/EReO5V5eLh4NcZMMyrM1havFCMxbERPU5JJNT4ytMZ7wlcuGIgdRXgmyUub0BCvnhLB/533AkrSC3M8niRbWWQiCrT1EUwoXzLDHgxj/11+Yy9Sjf7xVzm2dUQAPJOC/fUah+AmqltKsNznMzMwaC5TgrwXwi8FCwvtw+CJ0a+b0CdcVgcqBru3jPvFYN0TwJMFH0VYXMWwGjsJI0a7fi0vX2/Loqhf9FLuaYPXe4u/z5aOHIcHYJ1A==;FzxmffG7fHDp7MK/9O8ixA=="
 ---

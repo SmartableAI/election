@@ -2,6 +2,217 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-09-01-biden-administration-guidance-limiting-ice-arrests-sees-pushback-from-16-states.md",
+      "title": "Biden administration guidance limiting ICE arrests sees pushback from 16 states",
+      "excerpt": "A coalition of 16 attorneys general is pushing back against \"interim guidance\" issued under President Biden’s administration which limits the number of deportations and immigration-related arrests by U.S. Immigration and Customs Enforcement (ICE).",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/wb_Ny-a1VNg/16-states-push-back-biden-administration-guidance-ice-arrests",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/wb_Ny-a1VNg/16-states-push-back-biden-administration-guidance-ice-arrests",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 251,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1d7193e5-ede5-4bf2-aa7b-dbd866fc1d66/a339ff07-8e85-4916-bbeb-616f413934b1/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/16-states-push-back-biden-administration-guidance-ice-arrests.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/16-states-push-back-biden-administration-guidance-ice-arrests.amp",
+      "publishedDateTime": "2021-09-01T14:59:10-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-09-02-trump-endorses-sean-parnell-in-pennsylvanias-2022-senate-race.md",
+      "title": "Trump endorses Sean Parnell in Pennsylvania’s 2022 Senate race",
+      "excerpt": "Former President Donald Trump endorsed Sean Parnell in Pennsylvania’s critical U.S. Senate race Wednesday, giving the Army veteran a coveted prize in the competitive 2022 Republican primary.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bozemandailychronicle.com/ap_news/politics/trump-endorses-sean-parnell-in-pennsylvania-s-2022-senate-race/article_4539c735-2639-58e9-9d80-6509ce3064f1.html",
+      "originalUrl": "https://www.bozemandailychronicle.com/ap_news/politics/trump-endorses-sean-parnell-in-pennsylvania-s-2022-senate-race/article_4539c735-2639-58e9-9d80-6509ce3064f1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/custom/image/2ffee154-edef-11e4-a572-ab4a61dde6eb.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-01T14:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bozeman Daily Chronicle",
+        "domain": "bozemandailychronicle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-09-01-retired-military-leaders-demand-mass-resignation-of-biden-team-milley-austin-blinken-sullivan.md",
+      "title": "Retired military leaders demand mass resignation of Biden team: Milley, Austin, Blinken, Sullivan",
+      "excerpt": "Three retired military leaders – including two generals – have called for the resignations of President Biden's top military and diplomatic officials, including Chairman of the Joint Chiefs of Staff Mark Milley, Secretary of Defense Lloyd Austin, Secretary of State Anthony Blinken, and national security",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/wiTWhB3c1lM/retired-military-demand-resignation-biden-team",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/wiTWhB3c1lM/retired-military-demand-resignation-biden-team",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 182,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/08/340/340/Tyler-ONeil-Headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/retired-military-demand-resignation-biden-team.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/retired-military-demand-resignation-biden-team.amp",
+      "publishedDateTime": "2021-09-01T14:33:33-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-09-01-trump-endorses-parnell-in-pennsylvania-senate-race.md",
+      "title": "Trump endorses Parnell in Pennsylvania Senate race",
+      "excerpt": "Former President Donald Trump waded into Pennsylvania's US Senate race on Wednesday, endorsing Sean Parnell, an Army veteran and former congressional candidate, in the competitive Republican primary.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/LdhKidPhmKY/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/LdhKidPhmKY/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 275,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210901170126-sean-parnell-file-2020-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/09/01/politics/trump-endorses-pennsylvania-senate-sean-parnell/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/09/01/politics/trump-endorses-pennsylvania-senate-sean-parnell/index.html",
+      "publishedDateTime": "2021-09-01T14:21:29-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-09-01-biden-rips-texas-abortion-law-as-extreme-violation-of-roe-v-wade.md",
       "title": "Biden rips Texas abortion law as 'extreme,' violation of Roe v. Wade",
       "excerpt": "President Biden criticized a new Texas law that prohibits abortion except for during the very beginning of pregnancy or in cases of medical emergencies, stating that it goes against established Supreme Court precedent.",
@@ -14,7 +225,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 335,
+      "heat": 315,
       "tags": null,
       "images": [
         {
@@ -1105,209 +1316,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-08-31-watch-biden-pledges-hurricane-ida-support-for-as-long-as-it-takes.md",
-      "title": "WATCH: Biden pledges Hurricane Ida support for ‘as long as it takes’",
-      "excerpt": "Ida has left scores of coastal Louisiana residents trapped by floodwaters and pleading to be rescued, while making a shambles of the electrical grid across a wide swath of the state in the sweltering,",
-      "sourceUrl": null,
-      "webUrl": "https://www.pbs.org/newshour/nation/watch-biden-pledges-hurricane-ida-support-for-as-long-as-it-takes",
-      "originalUrl": "https://www.pbs.org/newshour/nation/watch-biden-pledges-hurricane-ida-support-for-as-long-as-it-takes",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 365,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d3i6fh83elv35t.cloudfront.net/static/2021/08/2021-08-30T182355Z_554461000_RC2TFP9CFQYB_RTRMADP_3_STORM-IDA-BIDEN-1024x563.jpg",
-          "width": 1024,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pbs.org/newshour/amp/nation/watch-biden-pledges-hurricane-ida-support-for-as-long-as-it-takes",
-      "cdnAmpWebUrl": "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/nation/watch-biden-pledges-hurricane-ida-support-for-as-long-as-it-takes",
-      "publishedDateTime": "2021-08-30T12:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PBS",
-        "domain": "pbs.org",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/pbs.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-08-30-trump-big-tech-suit-lawyer-predicts-case-headed-to-supreme-court-says-govt-pressure-made-firms-state-actors.md",
-      "title": "Trump big tech suit lawyer predicts case headed to Supreme Court, says gov't pressure made firms state actors",
-      "excerpt": "John Coale leads former President Donald Trump's lawsuit against big tech companies Facebook, Twitter and YouTube, which is owned by Google.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1b5Ise1fHjY/trump-lawyer-john-coale-google-big-tech-lawsuit-hypocrisy",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1b5Ise1fHjY/trump-lawyer-john-coale-google-big-tech-lawsuit-hypocrisy",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-lawyer-john-coale-google-big-tech-lawsuit-hypocrisy.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-lawyer-john-coale-google-big-tech-lawsuit-hypocrisy.amp",
-      "publishedDateTime": "2021-08-30T07:46:14-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-30-rand-paul-hatred-for-trump-blocking-research-into-ivermectin-as-covid-19-treatment.md",
-      "title": "Rand Paul: 'Hatred for Trump' blocking research into Ivermectin as COVID-19 treatment",
-      "excerpt": "Sen. Rand Paul (R-Ky.) suggested researchers are not pursuing ivermectin as a possible COVID-19 treatment because of their disdain for former President Trump.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/569975-rand-paul-hatred-for-trump-blocking-research-into-ivermectin",
-      "originalUrl": "https://thehill.com/homenews/569975-rand-paul-hatred-for-trump-blocking-research-into-ivermectin",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 198,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/paulrand_081021gn_lead.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/569975-rand-paul-hatred-for-trump-blocking-research-into-ivermectin?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/569975-rand-paul-hatred-for-trump-blocking-research-into-ivermectin?amp",
-      "publishedDateTime": "2021-08-30T07:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-08-30-senior-living-bidens-no-jab-no-job-order-creates-quandary-for-nursing-homes.md",
-      "title": "Senior Living: Biden’s no-jab-no-job order creates quandary for nursing homes",
-      "excerpt": "Although 83% of residents in the average nursing facility are vaccinated, only 61% of a home’s workers are likely to be, according to data submitted by homes and published by the Centers for",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailynews.com/2021/08/30/senior-living-bidens-no-jab-no-job-order-creates-quandary-for-nursing-homes/",
-      "originalUrl": "https://www.dailynews.com/2021/08/30/senior-living-bidens-no-jab-no-job-order-creates-quandary-for-nursing-homes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dailynews.com/wp-content/uploads/2021/08/SeniorLivingBeach-4.jpg?w=1000&#038;h=586",
-          "width": 1000,
-          "height": 586,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailynews.com/2021/08/30/senior-living-bidens-no-jab-no-job-order-creates-quandary-for-nursing-homes/amp/",
-      "cdnAmpWebUrl": "https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2021/08/30/senior-living-bidens-no-jab-no-job-order-creates-quandary-for-nursing-homes/amp/",
-      "publishedDateTime": "2021-08-30T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Los Angeles Daily News",
-        "domain": "dailynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

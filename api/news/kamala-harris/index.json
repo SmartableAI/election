@@ -2,6 +2,63 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-09-10-harris-assails-texas-abortion-law-as-patently-unconstitutional.md",
+      "title": "Harris assails Texas abortion law as 'patently unconstitutional'",
+      "excerpt": "Vice President Kamala Harris condemned the Texas abortion law as \"patently unconstitutional\" and called for Roe v. Wade to be codified.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/gwnw3JqIkpY/harris-calls-texas-abortion-law-patently-unconstitutional-urges-roe-v-wade-to-be-codified",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/gwnw3JqIkpY/harris-calls-texas-abortion-law-patently-unconstitutional-urges-roe-v-wade-to-be-codified",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 225,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/50a20733-9d95-4d8b-b7db-5b4dfd356b46/f3c78e9e-9391-4de0-aa90-295132e3c7e3/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/harris-calls-texas-abortion-law-patently-unconstitutional-urges-roe-v-wade-to-be-codified.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-calls-texas-abortion-law-patently-unconstitutional-urges-roe-v-wade-to-be-codified.amp",
+      "publishedDateTime": "2021-09-09T18:48:51-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-09-09-us-vice-president-kamala-harris-to-visit-hampton-university-on-friday-september-10.md",
       "title": "U.S. Vice President Kamala Harris to Visit Hampton University on Friday, September 10",
       "excerpt": "U.S. Vice President Kamala Harris will visit Hampton University on Friday, September 10, to recognize the contributions of HBCUs a",
@@ -145,63 +202,6 @@
       ]
     },
     {
-      "path": "_news/2021-09-08-harris-accuses-texas-gov-abbott-of-arrogantly-dismissing-rape-victims.md",
-      "title": "Harris accuses Texas Gov. Abbott of 'arrogantly' dismissing rape victims",
-      "excerpt": "Vice President Kamala Harris opened up a speech supporting California Gov. Gavin Newsom against a recall effort by slamming Texas Gov. Greg Abbott and his state’s newly enacted law restricting abortions.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/XPudeoBAzzE/harris-slams-abbott-at-pro-newsom-rally-accuses-him-of-arrogantly-dismissing-rape-victims",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/XPudeoBAzzE/harris-slams-abbott-at-pro-newsom-rally-accuses-him-of-arrogantly-dismissing-rape-victims",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 224,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/de97b5d5-9a48-4839-a8a4-d085340888e6/151303eb-e6ed-45a1-867c-254e4a3a3838/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/harris-slams-abbott-at-pro-newsom-rally-accuses-him-of-arrogantly-dismissing-rape-victims.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-slams-abbott-at-pro-newsom-rally-accuses-him-of-arrogantly-dismissing-rape-victims.amp",
-      "publishedDateTime": "2021-09-08T15:13:01-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Kamala Harris"
-      ]
-    },
-    {
       "path": "_news/2021-09-08-tomi-lahren-rips-kamala-harris-havent-seen-this-level-of-tone-deafness-since-american-idol-auditions.md",
       "title": "Tomi Lahren rips Kamala Harris: Haven't seen this level of tone-deafness since 'American Idol' auditions",
       "excerpt": "Fox Nation host Tomi Lahren ripped into Vice President Kamala Harris Tuesday on ‘Outnumbered’ for traveling to California to campaign for Governor Gavin Newsom while remaining largely silent on Afghanistan.",
@@ -267,7 +267,7 @@
       "originalUrl": "https://www.newsweek.com/lara-trump-slams-hypocritical-kamala-harris-michelle-obama-silence-afghan-women-1626238",
       "featuredContent": null,
       "highlight": null,
-      "heat": 171,
+      "heat": 191,
       "tags": null,
       "images": [
         {
@@ -466,7 +466,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 170,
+      "heat": 190,
       "tags": null,
       "images": [
         {
@@ -611,6 +611,63 @@
       ],
       "topics": [
         "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-08-24-kamala-harris-plane-from-singapore-delayed-over-possible-havana-syndrome-incident.md",
+      "title": "Kamala Harris' plane from Singapore delayed over possible 'Havana syndrome' incident",
+      "excerpt": "Vice President Kamala Harris’ plane was delayed in Singapore on Tuesday for three hours after a possible case of the mysterious \"Havana syndrome.\"",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-G5VtDs4TmM/kamala-harris-plane-singapore-delayed-possible-havana-syndrome",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-G5VtDs4TmM/kamala-harris-plane-singapore-delayed-possible-havana-syndrome",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 218,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/08/340/340/jacqui-heinrich-headshot.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/kamala-harris-plane-singapore-delayed-possible-havana-syndrome.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-plane-singapore-delayed-possible-havana-syndrome.amp",
+      "publishedDateTime": "2021-08-24T09:03:26-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
         "Kamala Harris"
       ]
     },
@@ -995,63 +1052,6 @@
       ]
     },
     {
-      "path": "_news/2021-08-21-harris-to-campaign-for-gov-gavin-newsom-in-california-after-vietnam-singapore-trip.md",
-      "title": "Harris to campaign for Gov. Gavin Newsom in California after Vietnam, Singapore trip",
-      "excerpt": "Vice President Kamala Harris will be making a campaign pit-stop in California next week to support Gov. Gavin Newsom in his race to overcome the recall election.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ty3BtETzYUg/harris-to-campaign-for-newsom-in-california-after-vietnam-singapore-trip",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ty3BtETzYUg/harris-to-campaign-for-newsom-in-california-after-vietnam-singapore-trip",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 318,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8495bcff-9b88-4652-a881-c8b9c0e8662d/db7b172a-bb2e-43bc-b3a6-5ac1f6dcf567/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/harris-to-campaign-for-newsom-in-california-after-vietnam-singapore-trip.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-to-campaign-for-newsom-in-california-after-vietnam-singapore-trip.amp",
-      "publishedDateTime": "2021-08-20T18:10:57-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Kamala Harris"
-      ]
-    },
-    {
       "path": "_news/2021-08-19-vivek-ramaswamy-calls-out-kamala-harris-silence-on-afghan-women-shes-totally-lost.md",
       "title": "Vivek Ramaswamy calls out Kamala Harris' silence on Afghan women: 'She's totally lost'",
       "excerpt": "Vivek Ramaswamy, author of Woke, Inc., called out Vice President Kamala Harris for her silence as some Afghan women face civil rights violations at the hands of the Taliban. Ramaswamy called it a ‘wasted opportunity’ for the vice president who could have positioned herself as a leader on women's rights.",
@@ -1178,7 +1178,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 133,
+      "heat": 153,
       "tags": null,
       "images": [
         {
@@ -1475,63 +1475,6 @@
       ]
     },
     {
-      "path": "_news/2021-08-04-border-patrol-union-official-says-situation-still-horrific-no-progress-since-kamala-harris-visit.md",
-      "title": "Border Patrol union official says situation still 'horrific': ‘No progress’ since Kamala Harris visit",
-      "excerpt": "National Border Patrol Council VP Art Del Cueto told “America’s Newsroom” Tuesday that the migrant surge is “horrific” and there’s been zero progress since Vice President Kamala Harris last visited the southern border.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/border-patrol-del-cueto-migrant-surge-kamala-harris",
-      "originalUrl": "https://www.foxnews.com/media/border-patrol-del-cueto-migrant-surge-kamala-harris",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/098c09e1-5b32-40b2-aca6-8fa85de4aa8e/d16ba95d-5167-4d6c-8cee-5c758971c911/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/border-patrol-del-cueto-migrant-surge-kamala-harris.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/border-patrol-del-cueto-migrant-surge-kamala-harris.amp",
-      "publishedDateTime": "2021-08-03T10:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-08-03-harris-to-promote-america-is-back-message-in-singapore-and-vietnam.md",
       "title": "Harris to promote 'America is back' message in Singapore and Vietnam",
       "excerpt": "Vice President Kamala Harris is set to travel to Singapore and Vietnam later this month, becoming the highest-ranking Biden administration official to visit Asia so far.\n    \n",
@@ -1585,6 +1528,63 @@
       "topics": [
         "Election",
         "Democratic Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-08-03-harris-border-role-faces-new-scrutiny-after-report-of-likely-historic-surge-in-unaccompanied-children.md",
+      "title": "Harris’ border role faces new scrutiny after report of likely historic surge in unaccompanied children",
+      "excerpt": "A report from the Associated Press released Monday night seemed to paint a grim picture of the conditions at the border just over four months since Harris’ appointment to the role.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/J2t1mpoJ3XQ/harris-border-role-faces-new-scrutiny",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/J2t1mpoJ3XQ/harris-border-role-faces-new-scrutiny",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/harris-border-role-faces-new-scrutiny.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-border-role-faces-new-scrutiny.amp",
+      "publishedDateTime": "2021-08-03T00:36:55-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
         "Kamala Harris"
       ]
     }

@@ -2,6 +2,106 @@
   "page": 43,
   "value": [
     {
+      "path": "_news/2021-06-11-swalwell-donald-trump-was-the-biggest-brother-weve-ever-seen-in-terms-of-spying-on-opponents.md",
+      "title": "Swalwell: Donald Trump \"Was The Biggest Brother We've Ever Seen\" In Terms Of Spying On Opponents",
+      "excerpt": "Rep. Eric Swalwell (D-CA) said former President Donald Trump used the Department of Justice to spy on him: \"I hope Trump supporters who fear big brother see that Donald Trump was the biggest brother we've ever seen in our country who did weaponize this to go all the way down the stack into the private communications of people he perceived as political opponents.",
+      "sourceUrl": null,
+      "webUrl": "https://www.realclearpolitics.com/video/2021/06/11/swalwell_donald_trump_was_the_biggest_brother_weve_ever_seen_in_terms_of_spying_on_opponents.html",
+      "originalUrl": "https://www.realclearpolitics.com/video/2021/06/11/swalwell_donald_trump_was_the_biggest_brother_weve_ever_seen_in_terms_of_spying_on_opponents.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.realclear.com/images/54/545501.jpg",
+          "width": 1210,
+          "height": 906,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "http://www.realclearpolitics.com/video/2021/06/11/swalwell_donald_trump_was_the_biggest_brother_weve_ever_seen_in_terms_of_spying_on_opponents.amp.html",
+      "cdnAmpWebUrl": "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/06/11/swalwell_donald_trump_was_the_biggest_brother_weve_ever_seen_in_terms_of_spying_on_opponents.amp.html",
+      "publishedDateTime": "2021-06-11T07:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RealClearPolitics",
+        "domain": "realclearpolitics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-11-biden-to-host-germanys-merkel-at-the-white-house-in-july.md",
+      "title": "Biden to host Germany's Merkel at the White House in July",
+      "excerpt": "President Biden will host German Chancellor Angela Merkel at the White House next month, his third in-person visit with a foreign leader in Washington since taking office at the beginning of this year.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/administration/557943-biden-to-host-germanys-merkel-at-the-white-house-in-july",
+      "originalUrl": "https://thehill.com/homenews/administration/557943-biden-to-host-germanys-merkel-at-the-white-house-in-july",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 205,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/bidenjoe_merkelangela_germany_getty.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/administration/557943-biden-to-host-germanys-merkel-at-the-white-house-in-july?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/557943-biden-to-host-germanys-merkel-at-the-white-house-in-july?amp",
+      "publishedDateTime": "2021-06-11T04:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-06-11-trump-doj-secretly-seized-house-democrats-data-in-crackdown-on-leaks.md",
       "title": "Trump DoJ secretly seized House Democrats’ data in crackdown on leaks",
       "excerpt": "At least two House members including Adam Schiff targeted in 2018, say officials familiar with the investigation",
@@ -1175,7 +1275,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 222,
+      "heat": 202,
       "tags": null,
       "images": [
         {
@@ -1217,119 +1317,6 @@
         "Election",
         "Republican Voice",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-06-09-blackburn-rubio-cotton-demand-fauci-resign-or-be-fired-by-biden.md",
-      "title": "Blackburn, Rubio, Cotton demand Fauci resign or be fired by Biden",
-      "excerpt": "EXCLUSIVE: Republican Sens. Marsha Blackburn, Marco Rubio and Tom Cotton are calling on Dr. Anthony Fauci to resign, saying he has “lost the confidence of the American people” amid controversy surrounding the origins of COVID-19 —and if he won’t step down, the Republican senators are urging President",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/pEnP1gMcBB0/blackburn-rubio-cotton-call-on-fauci-to-resign-urge-biden-to-fire-him",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/pEnP1gMcBB0/blackburn-rubio-cotton-call-on-fauci-to-resign-urge-biden-to-fire-him",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/blackburn-rubio-cotton-call-on-fauci-to-resign-urge-biden-to-fire-him.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/blackburn-rubio-cotton-call-on-fauci-to-resign-urge-biden-to-fire-him.amp",
-      "publishedDateTime": "2021-06-09T16:42:24-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-10-biden-asking-for-911-style-attack-by-not-responding-forcefully-to-russian-cyberattacks-kirk-lippold.md",
-      "title": "Biden asking for ‘9/11 style attack’ by not responding ‘forcefully’ to Russian cyberattacks: Kirk Lippold",
-      "excerpt": "Former USS Cole Commander Kirk Lippold told \"Your World\" Joe Biden will embolden Vladimir Putin if he does not \"clearly\" respond to the Russian government for \"state-sponsored\" cyberattacks on American businesses.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/biden-asking-for-9-11-style-attack-by-not-responding-forcefully-to-russian-cyberattacks-kirk-lippold",
-      "originalUrl": "https://www.foxnews.com/media/biden-asking-for-9-11-style-attack-by-not-responding-forcefully-to-russian-cyberattacks-kirk-lippold",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d430e49c-91b2-4548-8f29-d314ed7ffea4/a5eeb00d-501d-415b-8dbc-48c0cbaa0cc4/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/biden-asking-for-9-11-style-attack-by-not-responding-forcefully-to-russian-cyberattacks-kirk-lippold.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/biden-asking-for-9-11-style-attack-by-not-responding-forcefully-to-russian-cyberattacks-kirk-lippold.amp",
-      "publishedDateTime": "2021-06-09T16:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
       ]
     }
   ],

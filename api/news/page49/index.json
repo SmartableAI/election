@@ -2,6 +2,110 @@
   "page": 49,
   "value": [
     {
+      "path": "_news/2021-05-31-trumps-ex-advisor-tells-qanon-supporters-us-should-have-coup-like-myanmar.md",
+      "title": "Trump's Ex-Advisor Tells QAnon Supporters US Should Have Coup Like Myanmar",
+      "excerpt": "Donald Trump's Former National Security Advisor Michael Flynn told QAnon supporters over the weekend that the United States should have a coup like the one in Myanmar. A video shared on Twitter showed Flynn,",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/trumps-ex-advisor-tells-qanon-supporters-us-should-have-coup-myanmar-3212873",
+      "originalUrl": "https://www.ibtimes.com/trumps-ex-advisor-tells-qanon-supporters-us-should-have-coup-myanmar-3212873",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/26/total-suspended-cash-payments-linked-to-gas-pipeline-AFP_9AT73Q.jpg",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/trumps-ex-advisor-tells-qanon-supporters-us-should-have-coup-myanmar-3212873?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trumps-ex-advisor-tells-qanon-supporters-us-should-have-coup-myanmar-3212873?amp=1",
+      "publishedDateTime": "2021-05-30T22:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-05-31-senator-ted-cruz-in-israel-calls-on-biden-to-deliver-more-weapons-to-the-country.md",
+      "title": "Senator Ted Cruz, in Israel, calls on Biden to deliver more weapons to the country",
+      "excerpt": "Cruz last week, introduced a resolution approving two arms sales to Israel after Democrats voiced concern and moved to block a sale of weapons.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/ted-cruz-israel-calls-on-biden-deliver-weapons-to-country-2021-5",
+      "originalUrl": "https://www.businessinsider.com/ted-cruz-israel-calls-on-biden-deliver-weapons-to-country-2021-5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/60b4379fbee0fc0019d5a791?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/ted-cruz-israel-calls-on-biden-deliver-weapons-to-country-2021-5?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ted-cruz-israel-calls-on-biden-deliver-weapons-to-country-2021-5?amp",
+      "publishedDateTime": "2021-05-30T19:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-05-31-pastor-greg-locke-continues-to-insist-trump-won-election-biden-is-still-a-fraud.md",
       "title": "Pastor Greg Locke Continues to Insist Trump Won Election, Biden 'Is Still a Fraud'",
       "excerpt": "Controversial right-wing Pastor Greg Locke on Sunday continued to claim that President Joe Biden \"is still a fraud\" and former President Donald Trump won the 2020 presidential election. Locke, head of the Baptist Global Vision Bible Church in Juliet,",
@@ -1250,115 +1354,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-28-at-naval-academy-graduation-harris-to-focus-on-strengthening-a-fragile-world.md",
-      "title": "At Naval Academy Graduation, Harris to Focus on Strengthening a ‘Fragile’ World",
-      "excerpt": "Vice President Kamala Harris, the school’s first female commencement speaker, is expected to use her speech to address some of the Biden administration’s most urgent challenges.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/05/28/us/politics/kamala-harris-commencement-speech-naval-academy.html",
-      "originalUrl": "https://www.nytimes.com/2021/05/28/us/politics/kamala-harris-commencement-speech-naval-academy.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/05/28/multimedia/28DC-Harris-01/28DC-Harris-01-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/05/28/us/politics/kamala-harris-commencement-speech-naval-academy.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/05/28/us/politics/kamala-harris-commencement-speech-naval-academy.amp.html",
-      "publishedDateTime": "2021-05-28T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-28-inside-trumps-hot-vax-new-jersey-summer-where-hes-playing-golf-and-plotting-rallies-while-legal-storms-form.md",
-      "title": "Inside Trump's hot vax New Jersey summer, where he's playing golf and plotting rallies while legal storms form",
-      "excerpt": "Trump's political machine is humming from his summer perch in Bedminster, New Jersey. But legal trouble is brewing in New York",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/inside-donald-trumps-hot-vax-new-jersey-summer-vacation-2021-5",
-      "originalUrl": "https://www.businessinsider.com/inside-donald-trumps-hot-vax-new-jersey-summer-vacation-2021-5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/60b0198ebee0fc0019d5a154?width=1200&format=jpeg",
-          "width": 802,
-          "height": 401,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-28T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

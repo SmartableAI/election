@@ -121,22 +121,6 @@ related:
         width: 1440
         height: 961
         isCached: true
-  - title: "Fact check: Donald Trump falsely claims California recall election is ‘rigged’ for Gavin Newsom"
-    excerpt: "Claim: Former President Donald Trump, speaking on Newsmax Tuesday night, claimed that the California recall against Gov. Gavin Newsom is likely ‘rigged’, suggesting that the widespread use of mail ballots will ensure a victory for the Democrat."
-    publishedDateTime: 2021-09-08T20:24:00Z
-    webUrl: "https://www.sacbee.com/news/politics-government/capitol-alert/article254079148.html"
-    ampWebUrl: "https://amp.sacbee.com/news/politics-government/capitol-alert/article254079148.html"
-    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/politics-government/capitol-alert/article254079148.html"
-    type: article
-    provider:
-      name: Sacramento Bee
-      domain: sacbee.com
-    quality: 78
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557042001/615ff921-7db1-4f3b-9944-fea466d47a13/d6166ffe-75f3-4972-b399-35ef606ee9d5/1280x720/match/image.jpg?pubId=5502557044001"
-        width: 1061
-        height: 720
-        isCached: true
   - title: "Judge tosses Trump rollback of clean water safeguards"
     excerpt: "A federal judge has thrown out a Trump-era rule that ended federal protections for hundreds of thousands of small streams, wetlands and other waterways and left them vulnerable to pollution from nearby development."
     publishedDateTime: 2021-08-31T21:36:00Z
@@ -168,6 +152,36 @@ related:
       - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
         width: 600
         height: 336
+        isCached: true
+  - title: "Two candidates leave House race on day of Trump endorsement"
+    excerpt: "It took only hours for two candidates to drop out of Wyoming's House race after Donald Trump endorsed Harriet Hageman in her bid to unseat Rep. Liz Cheney."
+    publishedDateTime: 2021-09-10T01:30:00Z
+    webUrl: "https://trib.com/news/state-and-regional/govt-and-politics/two-candidates-leave-house-race-on-day-of-trump-endorsement/article_667d778a-4430-5f74-8fec-a3a266ede310.html"
+    ampWebUrl: "https://trib.com/news/state-and-regional/govt-and-politics/two-candidates-leave-house-race-on-day-of-trump-endorsement/article_667d778a-4430-5f74-8fec-a3a266ede310.amp.html"
+    cdnAmpWebUrl: "https://trib-com.cdn.ampproject.org/c/s/trib.com/news/state-and-regional/govt-and-politics/two-candidates-leave-house-race-on-day-of-trump-endorsement/article_667d778a-4430-5f74-8fec-a3a266ede310.amp.html"
+    type: article
+    provider:
+      name: Casper Star-Tribune
+      domain: trib.com
+    quality: 75
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/trib.com/content/tncms/assets/v3/editorial/e/8f/e8f2f0a7-5a20-58e2-b129-2a72bd6dca92/5f35d1ae40b66.image.jpg?crop=426%2C322%2C10%2C32"
+        width: 426
+        height: 322
+        isCached: true
+  - title: "Fact check: Donald Trump falsely claims California recall election is 'rigged' for Gavin Newsom"
+    excerpt: "Claim: Former President Donald Trump, speaking on Newsmax Tuesday night, claimed that the California recall against Gov. Gavin Newsom is likely \"rigged,\" suggesting that the widespread use of mail bal"
+    publishedDateTime: 2021-09-09T16:21:00Z
+    webUrl: "https://www.bozemandailychronicle.com/ap_news/politics/fact-check-donald-trump-falsely-claims-california-recall-election-is-rigged-for-gavin-newsom/article_028173d1-9a47-5860-8489-238822991876.html"
+    type: article
+    provider:
+      name: Bozeman Daily Chronicle
+      domain: bozemandailychronicle.com
+    quality: 58
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/custom/image/2ffee154-edef-11e4-a572-ab4a61dde6eb.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Pro-Trump lawyers who pushed fraud cases face serious consequences"
     excerpt: "Lawyers who sought to overturn the 2020 election results in key states, alleging fraud, were sanctioned last week by a federal judge in Michigan."
@@ -218,6 +232,17 @@ related:
     provider:
       name: The Bellingham Herald
       domain: bellinghamherald.com
+    quality: 55
+  - title: "Former President Trump to serve as boxing commentator"
+    excerpt: "Former President Donald Trump is scheduled to provide commentary from ringside Saturday for an exhibition boxing card headlined by 58-year-old former heavyweight champion Evander Holyfield."
+    publishedDateTime: 2021-09-09T19:59:00Z
+    webUrl: "https://www.idahostatesman.com/sports/article254086823.html"
+    ampWebUrl: "https://amp.idahostatesman.com/sports/article254086823.html"
+    cdnAmpWebUrl: "https://amp-idahostatesman-com.cdn.ampproject.org/c/s/amp.idahostatesman.com/sports/article254086823.html"
+    type: article
+    provider:
+      name: Idaho Statesman
+      domain: idahostatesman.com
     quality: 55
   - title: "Kent lands endorsement from former President Trump in congressional campaign"
     excerpt: "Joe Kent has added one of the biggest potential Republican endorsements to his campaign to take Jaime Herrera Beutler's seat in the House of Representatives: President Donald Trump."

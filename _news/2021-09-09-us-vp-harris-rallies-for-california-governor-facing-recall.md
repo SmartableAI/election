@@ -71,6 +71,22 @@ related:
         width: 1024
         height: 580
         isCached: true
+  - title: "President Joe Biden to campaign Monday with Gavin Newsom as recall nears end"
+    excerpt: "California Gov. Gavin Newsom will get a boost in the final days of a campaign that is trying to kick him out of office from the nation's most prominent Democrat: President Joe Biden."
+    publishedDateTime: 2021-09-10T00:28:00Z
+    webUrl: "https://www.spokesman.com/stories/2021/sep/09/president-joe-biden-to-campaign-monday-with-gavin-/"
+    ampWebUrl: "https://www.spokesman.com/stories/2021/sep/09/president-joe-biden-to-campaign-monday-with-gavin-/?amp-content=amp"
+    cdnAmpWebUrl: "https://www-spokesman-com.cdn.ampproject.org/c/s/www.spokesman.com/stories/2021/sep/09/president-joe-biden-to-campaign-monday-with-gavin-/?amp-content=amp"
+    type: article
+    provider:
+      name: The Spokesman-Review
+      domain: spokesman.com
+    quality: 72
+    images:
+      - url: "https://thumb.spokesman.com/ZwT8RYZ1MA1HqfT09mKnu9SYM5g=/480x0/media.spokesman.com/photos/2021/09/08/6139595071e5e.hires.jpg"
+        width: 480
+        height: 319
+        isCached: true
   - title: "Biden to travel to California ‘early next week’ to campaign for Gov. Newsom ahead of recall vote"
     excerpt: "Newsom is attempting to stave off a Republican-backed effort to oust him, which is motivated in part by anger toward his pandemic restrictions. Biden’s visit would come in the final hours of"
     publishedDateTime: 2021-09-07T23:38:00Z
@@ -137,6 +153,28 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "President Joe Biden coming to Denver next week to tout economic agenda"
+    excerpt: "President Joe Biden is coming to Denver next week to tout his economic agenda, the White House said Thursday. Biden’s office did not say what day he will be in town or where he will be, but White House officials said he will speak about his Build Back Better agenda here."
+    publishedDateTime: 2021-09-09T17:06:00Z
+    webUrl: "https://www.denverpost.com/2021/09/09/joe-biden-denver-economy/"
+    ampWebUrl: "https://www.denverpost.com/2021/09/09/joe-biden-denver-economy/amp/"
+    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2021/09/09/joe-biden-denver-economy/amp/"
+    type: article
+    provider:
+      name: The Denver Post
+      domain: denverpost.com
+    quality: 55
+  - title: "President Joe Biden to visit Sacramento amid California wildfires, Gavin Newsom recall"
+    excerpt: "President Joe Biden will visit Sacramento next week to survey wildfire damage and then travel to Long Beach to campaign with Gov. Gavin Newsom against the recall election, the White House said Thursday."
+    publishedDateTime: 2021-09-09T17:15:00Z
+    webUrl: "https://www.sacbee.com/news/politics-government/capitol-alert/article254105243.html"
+    ampWebUrl: "https://amp.sacbee.com/news/politics-government/capitol-alert/article254105243.html"
+    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/politics-government/capitol-alert/article254105243.html"
+    type: article
+    provider:
+      name: Sacramento Bee
+      domain: sacbee.com
+    quality: 47
 
 secured: "rvaSbwY8GQvsTN2MKswYH2bQB8xjHeHvCWFms6vytj0Dm3HWPpN2H/52fjDLgqbg+vIpWEn3c/gqardOeHBrOs9YO2/w/qQCWEmMI6Bp7iTPPXYbn8jCTXx6RTAl4f/h/ghrc8YNW3MwezsoApa4N+H5LuECZPckGDc1UHny9RD8CqAaSJql3L8laBb+Tf6aSt43/YMYtEpI+Od7OaeEc/dspNv/MO+Z3vc5JLahiKQP+XPHKbFrh0C2WINMJkbrv5SGvq0J3PRsaogBR7/J8bYdEfp/TggdsGFbZD3bguzENO+71bDKplCa1UPGk97S/5jEp7MYDo442hGfB6cviCByH+STNrjlYkom/y9/lSFapxuCBVYP9U4+NGVO8YEz0x43insCFIGY16ASphNdM/zXkiXSydc66SSz2jKM2+xRmH/70sEFBQ+Ut3K5U+wKNGQiq1MsElQKeC2xVeGS3IXuvti039u7NNeGZHoF/9mpE/0Gjlvs6xpO5E0POu6oxRut0Kt0SeZd/QT1Uh4qmw==;gQ/oPyO2pNdi0YiMECu9iw=="
 ---

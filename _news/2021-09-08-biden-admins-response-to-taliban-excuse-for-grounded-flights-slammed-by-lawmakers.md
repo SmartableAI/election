@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-admin-taliban-grounded-flight
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-admin-taliban-grounded-flights-lawmakers.amp"
 type: article
 quality: 168
-heat: 168
+heat: 188
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 720
     height: 405
     isCached: true
+
+related:
+  - title: "Biden officials praised Bergdahl prisoner swap that released terrorists now in Taliban cabinet"
+    excerpt: "Top officials now residing in the Biden administration once praised the 2014 exchange of five Taliban members for Army soldier Bowe Bergdahl as a swap \"absolutely\" worth it."
+    publishedDateTime: 2021-09-09T17:47:47Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/mS3Z16qaydA/biden-officials-praised-bergdahl-prisoner-swap-taliban-cabinet"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-officials-praised-bergdahl-prisoner-swap-taliban-cabinet.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-officials-praised-bergdahl-prisoner-swap-taliban-cabinet.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f3454366-babf-404a-b450-19dfe8c8ef28/afaeb275-5918-4ee8-ac9a-cdcf76116c37/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
 
 secured: "ks7A/5UX3qAUrzRtzJRGohPZF0vi/h2swLB4opoNWUL3ydqkYK1EdC8hgJX7ZBiQyWDWA0aOYokLJHcLzSY1IDi7EiIUNTsqD/9M8FOXWNZC+x8UUjWfX2dfEuiKz09pfj9rxe6n9hmtGUThhHFbzRYpPIk056POd0px3g/lwmiPL4lq5ia03T46feo0YonAQwgNr+9ZFySOI+yTGPYygiwpj5qHYBOEee2tfv8vpr2X/rN6yHn1y/7wB28M9VArpt5uOZKaOqx2BwgKkSm+93kowz6NJltXyGVrrff3F3BU99t0szUbVXsyLjcoJdo5whN65iXCaHBAogQ8L4siiPFvZ3BwXhCa9s3KCSRQmGo=;77JPss4WvYlvKGOF3M10GA=="
 ---

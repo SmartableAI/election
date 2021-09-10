@@ -2,6 +2,114 @@
   "page": 45,
   "value": [
     {
+      "path": "_news/2021-06-09-trump-backs-nigeria-banning-twitter-calls-for-other-countries-to-follow.md",
+      "title": "Trump backs Nigeria banning Twitter, calls for other countries to follow",
+      "excerpt": "Former President Trump on Tuesday applauded Nigeria’s Twitter ban and called on other countries to follow suit.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/policy/technology/557451-trump-backs-nigeria-banning-twitter-calls-for-other-countries-to",
+      "originalUrl": "https://thehill.com/policy/technology/557451-trump-backs-nigeria-banning-twitter-calls-for-other-countries-to",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/trumpdonald_093020getty_trump-legal.jpg",
+          "width": 980,
+          "height": 580,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/policy/technology/557451-trump-backs-nigeria-banning-twitter-calls-for-other-countries-to?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/557451-trump-backs-nigeria-banning-twitter-calls-for-other-countries-to?amp",
+      "publishedDateTime": "2021-06-08T16:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-06-08-gop-reps-say-biden-admin-downplaying-border-crisis-only-empowers-bad-actors.md",
+      "title": "GOP reps say Biden admin downplaying border crisis only 'empowers bad actors'",
+      "excerpt": "Republican members of the House of Representatives blasted the Biden administration for downplaying the crisis at the southern border, saying the decision \"empowers bad actors.\"",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/alL88IQEJm4/gop-biden-border-crisis-empowers-bad-actors",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/alL88IQEJm4/gop-biden-border-crisis-empowers-bad-actors",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 232,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9a4c2abd-87f5-4752-be3f-94e17533012e/8087ecda-dc5d-4e4e-8af2-933f901d4dc5/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/gop-biden-border-crisis-empowers-bad-actors.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-biden-border-crisis-empowers-bad-actors.amp",
+      "publishedDateTime": "2021-06-08T14:58:27-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-08-ivanka-trump-focusing-on-family-time-in-months-after-trump-administration.md",
       "title": "Ivanka Trump 'focusing on family time' in months after Trump administration",
       "excerpt": "Ivanka Trump is focusing on her family and living in Miami, Florida, with her husband Jared Kushner, sources familiar with the couple’s plans told Fox News, following four years in Washington, D.C., serving in the Trump administration.",
@@ -1257,120 +1365,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-06-blunt-trump-should-be-focused-on-2022-not-the-past.md",
-      "title": "Blunt: Trump should be 'focused' on 2022, not the past",
-      "excerpt": "In an exclusive interview with Meet the Press, Sen. Roy Blunt (R-Mo.), Chair, Republican Policy Committee, encourages former President Donald Trump to stop relitigating 2020.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/meet-the-press/video/blunt-trump-should-be-focused-on-2022-not-the-past-114399301693",
-      "originalUrl": "https://www.nbcnews.com/meet-the-press/video/blunt-trump-should-be-focused-on-2022-not-the-past-114399301693",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_06/1622987297976_mtp_clip_Blunt2022_210606_1920x1080.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo114399301693",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo114399301693",
-      "publishedDateTime": "2021-06-06T06:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-06-why-mike-pences-speech-was-really-important-and-what-it-says-about-2024.md",
-      "title": "Why Mike Pence’s speech was really important, and what it says about 2024",
-      "excerpt": "The former vice president well received speech was interrupted by numerous standing ovations by the sold out crowd of conservative activists and leaders, but most importantly, he gave his most extensive comments to date about the deadly Jan. 6 insurrection at the U.S. Capitol.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bCY86DIpu5I/why-mike-pences-speech-was-really-important-and-what-it-says-about-2024",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bCY86DIpu5I/why-mike-pences-speech-was-really-important-and-what-it-says-about-2024",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 204,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/why-mike-pences-speech-was-really-important-and-what-it-says-about-2024.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/why-mike-pences-speech-was-really-important-and-what-it-says-about-2024.amp",
-      "publishedDateTime": "2021-06-06T06:50:10-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Mike Pence"
       ]
     }
   ],

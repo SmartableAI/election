@@ -2,63 +2,6 @@
   "page": 12,
   "value": [
     {
-      "path": "_news/2021-06-23-nebraska-gov-ricketts-sending-police-to-texas-because-biden-is-failing-so-miserably-at-southern-border.md",
-      "title": "Nebraska Gov. Ricketts sending police to Texas because Biden is 'failing so miserably' at southern border",
-      "excerpt": "Nebraska Republican Gov. Pete Ricketts told \"Your World\" on Tuesday that he has dispatched state troopers to assist the Texas Department of Public Safety because President Joe Biden “failing so miserably” at the southern border.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/nebraska-ricketts-sending-police-texas-biden-failing-southern-border",
-      "originalUrl": "https://www.foxnews.com/media/nebraska-ricketts-sending-police-texas-biden-failing-southern-border",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/nebraska-ricketts-sending-police-texas-biden-failing-southern-border.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/nebraska-ricketts-sending-police-texas-biden-failing-southern-border.amp",
-      "publishedDateTime": "2021-06-22T14:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-06-22-gop-senators-tear-into-biden-national-security-adviser-for-calling-nord-stream-2-ag-a-swiss-company.md",
       "title": "GOP senators tear into Biden national security adviser for calling Nord Stream 2 AG a 'Swiss' company",
       "excerpt": "The senators blasted National Security Adviser Jake Sullivan for his Sunday interview where he was pressed on the Biden administration waiving sanctions on the Nord Stream 2 pipeline, which would give Russia greater influence in Europe.",
@@ -1657,6 +1600,62 @@
       "topics": [
         "Election",
         "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-16-gop-rep-pushes-biden-admin-to-ensure-va-doesnt-start-providing-abortions-calls-dems-party-of-death.md",
+      "title": "GOP rep pushes Biden admin to ensure VA doesn't start providing abortions, calls Dems 'party of death'",
+      "excerpt": "More than 130 Republicans, led by Rep. Matt Rosendale, signed onto a letter to Veterans Affairs (VA) Secretary Denis McDonough asking him to provide assurances that the VA won't attempt to change its rules to provide abortion or abortion-related services under the new administration.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-rSQQ5WBnbg/republican-matt-rosendale-biden-va-abortions-democrats",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-rSQQ5WBnbg/republican-matt-rosendale-biden-va-abortions-democrats",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/GettyImages-1230425162.jpg",
+          "width": 1281,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-16T02:04:24-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
         "Republican Voice"
       ]
     }

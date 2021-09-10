@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/media/will-cain-kamala-harris-biden-ticket-m
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/will-cain-kamala-harris-biden-ticket-mia-since.amp"
 type: article
 quality: 150
-heat: 170
+heat: 190
 published: true
 
 provider:
@@ -48,6 +48,17 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Beneficiary of Kamala Harris-endorsed bail fund charged with murder"
+    excerpt: "V ice President Kamala Harris may have some of the worst political instincts of anyone in Washington, D.C. The beneficiary of a bail fund Harris personally endorsed has been charged with murder. George Howard,"
+    publishedDateTime: 2021-09-08T20:41:00Z
+    webUrl: "https://www.washingtonexaminer.com/opinion/beneficiary-of-kamala-harris-endorsed-bail-fund-charged-with-murder"
+    ampWebUrl: "https://www.washingtonexaminer.com/opinion/beneficiary-of-kamala-harris-endorsed-bail-fund-charged-with-murder?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/opinion/beneficiary-of-kamala-harris-endorsed-bail-fund-charged-with-murder?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 65
 
 secured: "7YfRITYCFm8Bgc1q1sAcCB2NVQVMqfumDQsdhfQr9dYKjAg+DhQ31Cy3xOc45fKWolxrDgBpFVjaaAtAa2NYQyhP457Oq0O+uz8nE5v6gEl+c0mISVdHuG/+Jk6cLCyf55Ta8L68+4wmW/di1DAFvkunAh6fmLvMjjHJaNlFSfY+t6WqvhCPUizNCu9xJ2OWjOHMx7qfUpQj596c5A9lB09+OCLpSB+atiZeguP9gj9HfLP+frZhrzXF2zi9nK8WA6AaikdG/PWORF4ulbYC4jONgKWp0yKD8hNqhxw3baIZuyQ3tjQGSvNN9Mw7KeRmZXMEqd8XI6q66I9TM2d9uEQVTn0g0hsLLzJG9UytudXnHb3uOxBldlzsoeCeRnGpnAcu7UI3gAs6GQIvQrUUDgN6TlOzeKczOx9L7cKDIRcJdKOa8EErHOgkxEKe7+1joe6IYOT6mdZQM9PMrwsyR0l+qbCNhFRdYcwNJxT3B77PVw5R0XHoByD06bmfBmy+bzZ0n37KctlAsah7bzXcdw==;NCJ8EU9M1kOQ3opOn4hqNA=="
 ---

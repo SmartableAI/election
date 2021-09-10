@@ -2,12 +2,181 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-09-09-bidens-six-prong-covid-19-plan-includes-vaccine-and-mask-mandates-preview-of-thursday-speech.md",
-      "title": "Biden's six-prong COVID-19 plan includes vaccine and mask mandates: preview of Thursday speech",
-      "excerpt": "The details of President Biden's six-prong plan to fight COVID-19 are unclear, but a White House official says they will include vaccine and mask requirements.",
+      "path": "_news/2021-09-10-harris-assails-texas-abortion-law-as-patently-unconstitutional.md",
+      "title": "Harris assails Texas abortion law as 'patently unconstitutional'",
+      "excerpt": "Vice President Kamala Harris condemned the Texas abortion law as \"patently unconstitutional\" and called for Roe v. Wade to be codified.",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/rt_swDeHprI/biden-covid-six-prong-plan-white-house",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/rt_swDeHprI/biden-covid-six-prong-plan-white-house",
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/gwnw3JqIkpY/harris-calls-texas-abortion-law-patently-unconstitutional-urges-roe-v-wade-to-be-codified",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/gwnw3JqIkpY/harris-calls-texas-abortion-law-patently-unconstitutional-urges-roe-v-wade-to-be-codified",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 225,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/50a20733-9d95-4d8b-b7db-5b4dfd356b46/f3c78e9e-9391-4de0-aa90-295132e3c7e3/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/harris-calls-texas-abortion-law-patently-unconstitutional-urges-roe-v-wade-to-be-codified.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-calls-texas-abortion-law-patently-unconstitutional-urges-roe-v-wade-to-be-codified.amp",
+      "publishedDateTime": "2021-09-09T18:48:51-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-09-09-biden-declares-war-on-desantis-and-abbott-get-them-out-of-the-way.md",
+      "title": "Biden declares war on DeSantis and Abbott: 'Get them out of the way'",
+      "excerpt": "President Joe Biden condemned Republican governors who are not enforcing his administration's COVID-19 plan and threatened to resist them with his presidential powers.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Xi-wXD4UNyE/get-them-out-of-the-way-biden-declares-war-on-desantis-and-abbott",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Xi-wXD4UNyE/get-them-out-of-the-way-biden-declares-war-on-desantis-and-abbott",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f5166089-57d7-4bc8-8f3e-bd315eb47d33/5264644a-d504-43e8-980c-3595c487b8ed/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/get-them-out-of-the-way-biden-declares-war-on-desantis-and-abbott.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/get-them-out-of-the-way-biden-declares-war-on-desantis-and-abbott.amp",
+      "publishedDateTime": "2021-09-09T16:33:53-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-09-09-psaki-wont-say-if-biden-wrong-to-declare-victory-over-covid-in-july.md",
+      "title": "Psaki won't say if Biden wrong to declare victory over COVID in July",
+      "excerpt": "White House press secretary Jen Psaki on Thursday wouldn't say if President Biden was \"overconfident\" in declaring victory against COVID-19 in July.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/hTEsxeeEpCU/psaki-biden-wrong-declare-victory-covid",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/hTEsxeeEpCU/psaki-biden-wrong-declare-victory-covid",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 235,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d28a3399-37f1-48cf-a2aa-39fbf6806f00/a1d8e4f7-66a2-41bf-ab53-0f75d50be1c6/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/psaki-biden-wrong-declare-victory-covid.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-biden-wrong-declare-victory-covid.amp",
+      "publishedDateTime": "2021-09-09T12:55:51-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-09-09-trump-backs-candidate-in-crowded-wyoming-gop-house-primary-in-push-to-oust-cheney-from-congress.md",
+      "title": "Trump backs candidate in crowded Wyoming GOP House primary in push to oust Cheney from Congress",
+      "excerpt": "Stepping up his efforts to knock Republican Rep. Liz Cheney out of Congress, former President Trump on Thursday took sides in the House GOP primary in Wyoming.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Iz0eQY0B7uE/trump-wyoming-house-endorsement-liz-cheney-challenger",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Iz0eQY0B7uE/trump-wyoming-house-endorsement-liz-cheney-challenger",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
@@ -18,7 +187,7 @@
       "tags": null,
       "images": [
         {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
           "width": 340,
           "height": 340,
           "title": null,
@@ -28,9 +197,65 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-covid-six-prong-plan-white-house.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-covid-six-prong-plan-white-house.amp",
-      "publishedDateTime": "2021-09-09T06:31:15-07:00",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-wyoming-house-endorsement-liz-cheney-challenger.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-wyoming-house-endorsement-liz-cheney-challenger.amp",
+      "publishedDateTime": "2021-09-09T11:51:10-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-09-09-biden-to-campaign-for-california-gov-gavin-newsom-day-before-recall-election.md",
+      "title": "Biden to campaign for California Gov. Gavin Newsom day before recall election",
+      "excerpt": "California Gov. Gavin Newsom's campaign announced Thursday that the day before the state's gubernatorial recall election, President Biden will join Newsom at a rally in Long Beach.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3oKOeY-4M7c/biden-to-campaign-california-governor-gavin-newsom-recall-election",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3oKOeY-4M7c/biden-to-campaign-california-governor-gavin-newsom-recall-election",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 467,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-to-campaign-california-governor-gavin-newsom-recall-election.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-to-campaign-california-governor-gavin-newsom-recall-election.amp",
+      "publishedDateTime": "2021-09-09T11:48:32-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -353,7 +578,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 258,
+      "heat": 238,
       "tags": null,
       "images": [
         {
@@ -453,63 +678,6 @@
       ]
     },
     {
-      "path": "_news/2021-09-08-harris-accuses-texas-gov-abbott-of-arrogantly-dismissing-rape-victims.md",
-      "title": "Harris accuses Texas Gov. Abbott of 'arrogantly' dismissing rape victims",
-      "excerpt": "Vice President Kamala Harris opened up a speech supporting California Gov. Gavin Newsom against a recall effort by slamming Texas Gov. Greg Abbott and his state’s newly enacted law restricting abortions.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/XPudeoBAzzE/harris-slams-abbott-at-pro-newsom-rally-accuses-him-of-arrogantly-dismissing-rape-victims",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/XPudeoBAzzE/harris-slams-abbott-at-pro-newsom-rally-accuses-him-of-arrogantly-dismissing-rape-victims",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 224,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/de97b5d5-9a48-4839-a8a4-d085340888e6/151303eb-e6ed-45a1-867c-254e4a3a3838/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/harris-slams-abbott-at-pro-newsom-rally-accuses-him-of-arrogantly-dismissing-rape-victims.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-slams-abbott-at-pro-newsom-rally-accuses-him-of-arrogantly-dismissing-rape-victims.amp",
-      "publishedDateTime": "2021-09-08T15:13:01-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Kamala Harris"
-      ]
-    },
-    {
       "path": "_news/2021-09-08-biden-admins-response-to-taliban-excuse-for-grounded-flights-slammed-by-lawmakers.md",
       "title": "Biden admin's response to Taliban 'excuse' for grounded flights slammed by lawmakers",
       "excerpt": "Secretary of State Antony Blinken said the Taliban have kept planes grounded because evacuees lack required visa documentation, but Republicans are frustrated with the administration’s “excuse.”",
@@ -522,7 +690,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 168,
+      "heat": 188,
       "tags": null,
       "images": [
         {
@@ -1042,7 +1210,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 264,
+      "heat": 284,
       "tags": null,
       "images": [
         {
@@ -1195,62 +1363,6 @@
       "topics": [
         "Election",
         "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-09-06-the-trump-factor-newsom-spotlights-former-president-in-california-gubernatorial-recall-election.md",
-      "title": "The Trump factor: Newsom spotlights former president in California gubernatorial recall election",
-      "excerpt": "He’s not on the ballot in the California recall election of Gov. Gavin Newsom, but former President Trump’s front and center as the embattled Democratic governor fights to save his job steering the Golden State.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/DqxgJTzrifo/the-trump-factor-newsom-spotlights-former-president-in-california-gubernatorial-recall-election",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/DqxgJTzrifo/the-trump-factor-newsom-spotlights-former-president-in-california-gubernatorial-recall-election",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 197,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/the-trump-factor-newsom-spotlights-former-president-in-california-gubernatorial-recall-election.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/the-trump-factor-newsom-spotlights-former-president-in-california-gubernatorial-recall-election.amp",
-      "publishedDateTime": "2021-09-06T07:42:38-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Republican Voice"
       ]
     },
@@ -1509,118 +1621,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/blinken-blames-trump-admin-siv-backlog-for-failure-to-get-afghan-allies-out-of-the-country.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/blinken-blames-trump-admin-siv-backlog-for-failure-to-get-afghan-allies-out-of-the-country.amp",
       "publishedDateTime": "2021-09-03T14:26:17-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-09-03-biden-doubles-down-on-35-trillion-plan-that-manchin-moderate-dems-oppose-not-about-short-term-stimulus.md",
-      "title": "Biden doubles down on $3.5 trillion plan that Manchin, moderate Dems oppose: 'Not about short term stimulus'",
-      "excerpt": "President Biden argued for his economic agenda in comments following the release of the latest jobs report.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/7TIUH30GAsE/biden-manchin-moderates-reconciliation-stimulus-jobs-september",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/7TIUH30GAsE/biden-manchin-moderates-reconciliation-stimulus-jobs-september",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-manchin-moderates-reconciliation-stimulus-jobs-september.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-manchin-moderates-reconciliation-stimulus-jobs-september.amp",
-      "publishedDateTime": "2021-09-03T08:49:55-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-09-03-biden-gets-foggy-talking-about-daughters-wedding-my-mind-is-going-blank-now.md",
-      "title": "Biden gets foggy talking about daughter's wedding: 'My mind is going blank now'",
-      "excerpt": "President Biden appeared to get a bit confused Thursday when recalling his daughter's wedding during a virtual event to celebrate the start of the Jewish High Holidays.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZhzoXmY75So/biden-gets-foggy-daughters-wedding-mind-going-blank",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZhzoXmY75So/biden-gets-foggy-daughters-wedding-mind-going-blank",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 191,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/09/720/405/AP21245616505528.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-gets-foggy-daughters-wedding-mind-going-blank.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-gets-foggy-daughters-wedding-mind-going-blank.amp",
-      "publishedDateTime": "2021-09-02T20:31:25-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

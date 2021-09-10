@@ -2,12 +2,12 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2021-09-02-psaki-snaps-at-male-reporter-over-question-about-abortion-bidens-faith-youve-never-faced-those-choices.md",
-      "title": "Psaki snaps at male reporter over question about abortion, Biden's faith: 'You've never faced those choices'",
-      "excerpt": "White House press secretary Jen Psaki snapped at a reporter Thursday after he asked how President Biden can consider himself a Catholic while also supporting abortion.",
+      "path": "_news/2021-09-03-biden-doubles-down-on-35-trillion-plan-that-manchin-moderate-dems-oppose-not-about-short-term-stimulus.md",
+      "title": "Biden doubles down on $3.5 trillion plan that Manchin, moderate Dems oppose: 'Not about short term stimulus'",
+      "excerpt": "President Biden argued for his economic agenda in comments following the release of the latest jobs report.",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/PSx_FEa5nFM/psaki-snaps-reporter-abortion-bidens-faith",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/PSx_FEa5nFM/psaki-snaps-reporter-abortion-bidens-faith",
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/7TIUH30GAsE/biden-manchin-moderates-reconciliation-stimulus-jobs-september",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/7TIUH30GAsE/biden-manchin-moderates-reconciliation-stimulus-jobs-september",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
@@ -18,7 +18,63 @@
       "tags": null,
       "images": [
         {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d86e31ba-0f1a-47e5-a0c5-b225000f9b50/81a723a4-3289-4a43-b031-b73ea6346122/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-manchin-moderates-reconciliation-stimulus-jobs-september.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-manchin-moderates-reconciliation-stimulus-jobs-september.amp",
+      "publishedDateTime": "2021-09-03T08:49:55-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-09-03-biden-gets-foggy-talking-about-daughters-wedding-my-mind-is-going-blank-now.md",
+      "title": "Biden gets foggy talking about daughter's wedding: 'My mind is going blank now'",
+      "excerpt": "President Biden appeared to get a bit confused Thursday when recalling his daughter's wedding during a virtual event to celebrate the start of the Jewish High Holidays.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZhzoXmY75So/biden-gets-foggy-daughters-wedding-mind-going-blank",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZhzoXmY75So/biden-gets-foggy-daughters-wedding-mind-going-blank",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 191,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/09/720/405/AP21245616505528.jpg?ve=1&tl=1",
           "width": 720,
           "height": 405,
           "title": null,
@@ -28,9 +84,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/psaki-snaps-reporter-abortion-bidens-faith.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-snaps-reporter-abortion-bidens-faith.amp",
-      "publishedDateTime": "2021-09-02T12:40:43-07:00",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-gets-foggy-daughters-wedding-mind-going-blank.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-gets-foggy-daughters-wedding-mind-going-blank.amp",
+      "publishedDateTime": "2021-09-02T20:31:25-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -70,7 +126,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 415,
+      "heat": 435,
       "tags": null,
       "images": [
         {
@@ -238,7 +294,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 170,
+      "heat": 190,
       "tags": null,
       "images": [
         {
@@ -463,7 +519,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 335,
+      "heat": 315,
       "tags": null,
       "images": [
         {
@@ -1573,62 +1629,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/biden-doesnt-deny-report-of-u-s-handing-over-names-of-americans-to-taliban-theyre-may-have-been.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-doesnt-deny-report-of-u-s-handing-over-names-of-americans-to-taliban-theyre-may-have-been.amp",
       "publishedDateTime": "2021-08-26T15:10:34-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-26-obama-ethics-chief-blasts-hunter-bidens-art-scheme-as-absolutely-appalling.md",
-      "title": "Obama ethics chief blasts Hunter Biden's art scheme as 'absolutely appalling'",
-      "excerpt": "Former President Obama's ethics chief on Wednesday ripped the Biden White House for brokering a deal last month so that Hunter Biden, and the American public at large, would never know who was buying his paintings.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/V3oM6NZP-js/obama-ethics-chief-hunter-biden-art-scheme",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/V3oM6NZP-js/obama-ethics-chief-hunter-biden-art-scheme",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 192,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0a5caf11-1d33-4ad9-8839-db1bd23329a8/06238ea1-d906-4d1f-8726-d9a8c455a054/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/obama-ethics-chief-hunter-biden-art-scheme.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/obama-ethics-chief-hunter-biden-art-scheme.amp",
-      "publishedDateTime": "2021-08-26T05:05:18-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

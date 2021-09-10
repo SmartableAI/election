@@ -2,6 +2,110 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-07-06-joe-biden-ramps-up-vaccination-drive-with-new-initiatives-pfizer-moderna-vaccines-on-brink-of-full-fda-approval-todays-covid-19-updates.md",
+      "title": "Joe Biden ramps up vaccination drive with new initiatives; Pfizer, Moderna vaccines on brink of full FDA approval?: Today's COVID-19 updates",
+      "excerpt": "President Biden unveiled initiatives aimed at the one-third of the eligible U.S. population that has not gotten any COVID vaccine shots. Latest news.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/health/2021/07/06/delta-covid-variant-missouri-mississippi-indonesia-oxygen/7867828002/",
+      "originalUrl": "https://www.usatoday.com/story/news/health/2021/07/06/delta-covid-variant-missouri-mississippi-indonesia-oxygen/7867828002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/07/05/USAT/d9b8c20d-2490-487b-a9f4-3ce0c8477dd1-AP21183799994472.jpg?auto=webp&crop=4644,2613,x0,y236&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/7867828002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7867828002",
+      "publishedDateTime": "2021-07-06T02:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-07-06-profanity-laced-anti-biden-flag-can-remain-in-place-tennessee-mayor-says.md",
+      "title": "Profanity-Laced Anti-Biden Flag Can Remain in Place, Tennessee Mayor Says",
+      "excerpt": "Dwayne Cole—the mayor of Munford, Tennessee—has said that a city resident flying a profanity-laced flag against President Joe Biden can continue to display it. \"F*ck Biden and f*ck you for voting for him,",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/profanity-laced-anti-biden-flag-can-remain-place-tennessee-mayor-says-1606976",
+      "originalUrl": "https://www.newsweek.com/profanity-laced-anti-biden-flag-can-remain-place-tennessee-mayor-says-1606976",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1838067/fuck-joe-biden-flag-tennessee-free-speech.jpg",
+          "width": 2500,
+          "height": 1645,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/profanity-laced-anti-biden-flag-can-remain-place-tennessee-mayor-says-1606976?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/profanity-laced-anti-biden-flag-can-remain-place-tennessee-mayor-says-1606976?amp=1",
+      "publishedDateTime": "2021-07-05T20:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-07-06-nbc-news-historian-fawns-over-bidens-half-century-of-political-experience-hes-made-very-few-mistakes.md",
       "title": "NBC News historian fawns over Biden's 'half-century' of political experience: He's made 'very few mistakes'",
       "excerpt": "NBC News Presidential Historian Michael Beschloss made clear his admiration for President Biden as he praised the latter's Independence Day address to the nation and declared that we were \"lucky\" to have him as president.",
@@ -1469,110 +1573,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-06-25-pentagon-insider-warns-joe-biden-against-major-war-with-china-in-open-letter.md",
-      "title": "Pentagon Insider Warns Joe Biden Against 'Major War' With China in Open Letter",
-      "excerpt": "Franz Gayl, the Pentagon civil servant warning against war with China, told Newsweek he turned to Communist Party tabloid Global Times to address \"American foreign policy decision makers.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/pentagon-insider-warns-joe-biden-major-war-china-xi-jinping-1603774",
-      "originalUrl": "https://www.newsweek.com/pentagon-insider-warns-joe-biden-major-war-china-xi-jinping-1603774",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1829398/joe-biden-xi-jinping.jpg",
-          "width": 1600,
-          "height": 1066,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/pentagon-insider-warns-joe-biden-major-war-china-xi-jinping-1603774?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/pentagon-insider-warns-joe-biden-major-war-china-xi-jinping-1603774?amp=1",
-      "publishedDateTime": "2021-06-24T10:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-06-24-biden-mocked-gun-rights-advocates-who-say-they-need-assault-weapons-to-fight-the-government-you-need-f-15s-and-maybe-some-nuclear-weapons.md",
-      "title": "Biden mocked gun-rights advocates who say they need assault weapons to fight the government: 'You need F-15s and maybe some nuclear weapons'",
-      "excerpt": "President Joe Biden made the joke in a White House speech outlining his administration's plan to combat gun violence in the US.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/biden-mocks-gun-right-advocates-who-say-assault-weapons-needed-fight-government-2021-6",
-      "originalUrl": "https://www.businessinsider.com/biden-mocks-gun-right-advocates-who-say-assault-weapons-needed-fight-government-2021-6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/60d441875f52060018bbec6b?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/biden-mocks-gun-right-advocates-who-say-assault-weapons-needed-fight-government-2021-6?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-mocks-gun-right-advocates-who-say-assault-weapons-needed-fight-government-2021-6?amp",
-      "publishedDateTime": "2021-06-24T08:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

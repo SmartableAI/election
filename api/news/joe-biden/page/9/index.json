@@ -2,6 +2,110 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-05-29-wrong-and-un-american-biden-blasts-texas-republicans-sb7-voting-bill.md",
+      "title": "‘Wrong and un-American’: Biden blasts Texas Republicans’ SB7 voting bill",
+      "excerpt": "Governor has said he will sign restrictive voting bill while president laments effects on ‘Black and brown Americans’",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/may/29/wrong-un-american-biden-republicans-texas-sb7-voting-rights-bill",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/may/29/wrong-un-american-biden-republicans-texas-sb7-voting-rights-bill",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/1233ea0fee8cf090bb13777dedbfc67acae46e5e/0_319_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=84f2155abe07a45e3f9a6e8a6c567430",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/may/29/wrong-un-american-biden-republicans-texas-sb7-voting-rights-bill",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/may/29/wrong-un-american-biden-republicans-texas-sb7-voting-rights-bill",
+      "publishedDateTime": "2021-05-29T08:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-05-29-biden-budget-highlights-lots-of-spending-taxing-the-rich.md",
+      "title": "Biden budget highlights: Lots of spending, taxing the rich",
+      "excerpt": "President Joe Biden’s $6 trillion budget proposal offers major new initiatives like child and elder care subsidies, generous tax credits for families and the working poor, and free community college",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Business/wireStory/biden-budget-highlights-lots-spending-taxing-rich-77975394",
+      "originalUrl": "https://abcnews.go.com/Business/wireStory/biden-budget-highlights-lots-spending-taxing-rich-77975394",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 285,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/WireAP_f0a0e4ffd3e348ec92ebab4bdd69a565_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Business/wireStory/biden-budget-highlights-lots-spending-taxing-rich-77975394",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/biden-budget-highlights-lots-spending-taxing-rich-77975394",
+      "publishedDateTime": "2021-05-28T21:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-05-29-bidens-6-trillion-budget-dropped-key-campaign-promises-on-student-debt-cancellation-and-healthcare-reform.md",
       "title": "Biden's $6 trillion budget dropped key campaign promises on student debt cancellation and healthcare reform",
       "excerpt": "The White House budget blueprint is focused on infrastructure plans already on the table, which include cash payments for parents and universal pre-K.",
@@ -536,7 +640,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/the-latest-eu-hails-gaza-cease-fire-calls-for-peace-talks/2021/05/21/12fb6d5c-ba17-11eb-bc4a-62849cf6cca9_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 365,
+      "heat": 385,
       "tags": null,
       "images": [
         {
@@ -1473,110 +1577,6 @@
         "Election",
         "Joe Biden",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-14-biden-pledges-aggressive-response-to-pipeline-cyberattackers.md",
-      "title": "Biden pledges aggressive response to pipeline cyberattackers",
-      "excerpt": "President Joe Biden has warned gasoline stations not to engage in price gouging as motorists wait for fuel to start flowing reliably through the Colonial Pipeline",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/biden-team-moves-swiftly-to-tackle-pipeline-political-peril/2021/05/13/20745140-b3a2-11eb-bc96-fdf55de43bef_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/biden-team-moves-swiftly-to-tackle-pipeline-political-peril/2021/05/13/20745140-b3a2-11eb-bc96-fdf55de43bef_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 285,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QHX4FJFUBUI6XPEW7X2V3ZB354.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/biden-team-moves-swiftly-to-tackle-pipeline-political-peril/2021/05/13/20745140-b3a2-11eb-bc96-fdf55de43bef_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-team-moves-swiftly-to-tackle-pipeline-political-peril/2021/05/13/20745140-b3a2-11eb-bc96-fdf55de43bef_story.html?outputType=amp",
-      "publishedDateTime": "2021-05-13T10:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-05-13-biden-says-that-fuel-is-beginning-to-flow-as-administration-struggles-to-limit-political-damage-from-gas-shortage.md",
-      "title": "Biden says that fuel is ‘beginning to flow,’ as administration struggles to limit political damage from gas shortage",
-      "excerpt": "Republicans have seized on the crisis to attack Biden’s energy policies and portray him as an agent of chaos amid other challenges.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/biden-gas-shortage-hack/2021/05/12/75869444-b33a-11eb-9059-d8176b9e3798_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/biden-gas-shortage-hack/2021/05/12/75869444-b33a-11eb-9059-d8176b9e3798_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LJC2E7VTKMI6XPEW7X2V3ZB354.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/biden-gas-shortage-hack/2021/05/12/75869444-b33a-11eb-9059-d8176b9e3798_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-gas-shortage-hack/2021/05/12/75869444-b33a-11eb-9059-d8176b9e3798_story.html?outputType=amp",
-      "publishedDateTime": "2021-05-13T09:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

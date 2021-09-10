@@ -2,6 +2,114 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2021-06-22-gop-senators-tear-into-biden-national-security-adviser-for-calling-nord-stream-2-ag-a-swiss-company.md",
+      "title": "GOP senators tear into Biden national security adviser for calling Nord Stream 2 AG a 'Swiss' company",
+      "excerpt": "The senators blasted National Security Adviser Jake Sullivan for his Sunday interview where he was pressed on the Biden administration waiving sanctions on the Nord Stream 2 pipeline, which would give Russia greater influence in Europe.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/FQNayDDaCIU/gop-senators-sullivan-nord-stream-pipeline",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/FQNayDDaCIU/gop-senators-sullivan-nord-stream-pipeline",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b97fd954-04a6-4dd7-a7df-3edb01d82f9b/4b35d8e6-8d1d-4c2a-9367-004a045d6b91/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/gop-senators-sullivan-nord-stream-pipeline.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-senators-sullivan-nord-stream-pipeline.amp",
+      "publishedDateTime": "2021-06-22T13:06:10-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-23-leader-behind-bleach-miracle-cure-claims-trump-consumed-his-product.md",
+      "title": "Leader behind bleach ‘miracle cure’ claims Trump consumed his product",
+      "excerpt": "Mark Grenon says in interview from prison he gave Trump the product and was the source of Trump’s fixation with disinfectant",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/jun/22/bleach-miracle-cure-donald-trump",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/jun/22/bleach-miracle-cure-donald-trump",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/5edf34569ee9fc3692389157f6c2b9262ef820e6/0_60_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=42fee3826a2c52ffe41808621585d86c",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/jun/22/bleach-miracle-cure-donald-trump",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/22/bleach-miracle-cure-donald-trump",
+      "publishedDateTime": "2021-06-22T13:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-06-23-greg-abbotts-border-wall-pushes-democrats-and-activists-to-stop-ignoring-trump.md",
       "title": "Greg Abbott's Border Wall Pushes Democrats and Activists to Stop Ignoring Trump",
       "excerpt": "Many in politics are happy to ignore former president Donald Trump now that he has been banished from most social media networks, but his return to the Texas border June 30 has led Latino groups and activists to mobilize against him once again.",
@@ -1234,110 +1342,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-20-champ-joe-bidens-german-shepherd-and-sweet-good-boy-dies-aged-13.md",
-      "title": "Champ, Joe Biden’s German shepherd and ‘sweet, good boy’, dies aged 13",
-      "excerpt": "Statement says pet was ‘constant, cherished companion during the last 13 years and was adored by the entire Biden family’",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/jun/19/champ-joe-biden-family-pet-dies-aged-13",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/jun/19/champ-joe-biden-family-pet-dies-aged-13",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/afb3cf6445c8c17efda0cce182b0aaad7cc2d50c/0_215_4200_2521/master/4200.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=02b87230864e04daa4522883bbe4a0fd",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/jun/19/champ-joe-biden-family-pet-dies-aged-13",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/19/champ-joe-biden-family-pet-dies-aged-13",
-      "publishedDateTime": "2021-06-19T14:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-06-20-trumps-visits-to-new-jersey-golf-course-cost-taxpayers-over-24m-in-four-years.md",
-      "title": "Trump's Visits to New Jersey Golf Course Cost Taxpayers Over $2.4M in Four Years",
-      "excerpt": "New Jersey golf resort during his tenure in the White House cost taxpayers more than $2 million—with Trump spending a tota",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/trumps-visits-new-jersey-golf-course-cost-taxpayers-over-24m-four-years-1602281",
-      "originalUrl": "https://www.newsweek.com/trumps-visits-new-jersey-golf-course-cost-taxpayers-over-24m-four-years-1602281",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1825828/trump-bedminster.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/trumps-visits-new-jersey-golf-course-cost-taxpayers-over-24m-four-years-1602281?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trumps-visits-new-jersey-golf-course-cost-taxpayers-over-24m-four-years-1602281?amp=1",
-      "publishedDateTime": "2021-06-19T11:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

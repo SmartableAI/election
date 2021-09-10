@@ -2,6 +2,110 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-05-14-biden-pledges-aggressive-response-to-pipeline-cyberattackers.md",
+      "title": "Biden pledges aggressive response to pipeline cyberattackers",
+      "excerpt": "President Joe Biden has warned gasoline stations not to engage in price gouging as motorists wait for fuel to start flowing reliably through the Colonial Pipeline",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/biden-team-moves-swiftly-to-tackle-pipeline-political-peril/2021/05/13/20745140-b3a2-11eb-bc96-fdf55de43bef_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/biden-team-moves-swiftly-to-tackle-pipeline-political-peril/2021/05/13/20745140-b3a2-11eb-bc96-fdf55de43bef_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 285,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QHX4FJFUBUI6XPEW7X2V3ZB354.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/biden-team-moves-swiftly-to-tackle-pipeline-political-peril/2021/05/13/20745140-b3a2-11eb-bc96-fdf55de43bef_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-team-moves-swiftly-to-tackle-pipeline-political-peril/2021/05/13/20745140-b3a2-11eb-bc96-fdf55de43bef_story.html?outputType=amp",
+      "publishedDateTime": "2021-05-13T10:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-05-13-biden-says-that-fuel-is-beginning-to-flow-as-administration-struggles-to-limit-political-damage-from-gas-shortage.md",
+      "title": "Biden says that fuel is ‘beginning to flow,’ as administration struggles to limit political damage from gas shortage",
+      "excerpt": "Republicans have seized on the crisis to attack Biden’s energy policies and portray him as an agent of chaos amid other challenges.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/biden-gas-shortage-hack/2021/05/12/75869444-b33a-11eb-9059-d8176b9e3798_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/biden-gas-shortage-hack/2021/05/12/75869444-b33a-11eb-9059-d8176b9e3798_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LJC2E7VTKMI6XPEW7X2V3ZB354.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/biden-gas-shortage-hack/2021/05/12/75869444-b33a-11eb-9059-d8176b9e3798_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-gas-shortage-hack/2021/05/12/75869444-b33a-11eb-9059-d8176b9e3798_story.html?outputType=amp",
+      "publishedDateTime": "2021-05-13T09:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-05-13-fast-and-efficient-biden-urges-cdc-approved-vaccinations-for-kids-12-15-us-deaths-lowest-in-10-months-latest-covid-19-updates.md",
       "title": "'Fast and efficient': Biden urges CDC-approved vaccinations for kids 12-15; US deaths lowest in 10 months: Latest COVID-19 updates",
       "excerpt": "After weeks of the U.S. reporting around 700 deaths per day, the country is now averaging about 600 deaths a day. Latest COVID-19 news.",
@@ -1486,115 +1590,6 @@
         "Election",
         "Joe Biden",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-01-cnns-gloria-borger-falsely-claims-operation-warp-speed-happened-under-joe-biden.md",
-      "title": "CNN's Gloria Borger falsely claims Operation Warp Speed 'happened under Joe Biden'",
-      "excerpt": "CNN political analyst Gloria Borger falsely said Operation Warp Speed occurred under President Biden on Wednesday, and no one on CNN's panel corrected her in real time.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/cnns-gloria-borger-operation-warp-speed-joe-biden",
-      "originalUrl": "https://www.foxnews.com/media/cnns-gloria-borger-operation-warp-speed-joe-biden",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/02d8a247-9dbf-48a1-90ff-5e2576f98549/c71a7b29-2c1e-46d9-811b-d231e175c379/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/cnns-gloria-borger-operation-warp-speed-joe-biden.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/cnns-gloria-borger-operation-warp-speed-joe-biden.amp",
-      "publishedDateTime": "2021-04-30T10:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-30-officials-in-switzerland-push-back-at-biden-tax-haven-barb.md",
-      "title": "Officials in Switzerland push back at Biden 'tax haven' barb",
-      "excerpt": "Swiss authorities are taking issue with comments from U.S. President Joe Biden to Congress that many companies use Switzerland as a tax haven",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/officials-switzerland-push-back-biden-tax-haven-barb-77417358",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/officials-switzerland-push-back-biden-tax-haven-barb-77417358",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/US/210430_vod_onlocation_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/officials-switzerland-push-back-biden-tax-haven-barb-77417358",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/officials-switzerland-push-back-biden-tax-haven-barb-77417358",
-      "publishedDateTime": "2021-04-30T05:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

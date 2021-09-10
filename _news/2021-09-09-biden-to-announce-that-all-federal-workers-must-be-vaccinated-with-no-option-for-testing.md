@@ -239,6 +239,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden announces new vaccine mandates that could cover 100 million Americans"
+    excerpt: "President Joe Biden on Thursday will impose more stringent vaccine rules on federal workers, and take steps to encourage private businesses to do the same, during a major speech meant to lay out a new approach to combating the coronavirus.\n    \n"
+    publishedDateTime: 2021-09-10T01:01:22Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HWBd9oUYAaw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/09/09/politics/joe-biden-covid-speech/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/09/09/politics/joe-biden-covid-speech/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210909015050-biden-covid-response-remarks-0823-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden set to address the nation following the US withdrawal from Afghanistan"
     excerpt: "President Joe Biden is slated to address the nation Tuesday on the end of the war in Afghanistan, a day after the last American military planes left the country, concluding the nation's longest war nearly 20 years after it began.\n    \n"
     publishedDateTime: 2021-08-31T14:05:37Z
@@ -380,6 +396,22 @@ related:
     quality: 166
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210901152946-01-jill-biden-dover-0829-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "'Show some respect:' Biden blasts travelers who harass flight attendants over face masks"
+    excerpt: "President Joe Biden on Thursday blasted travelers who harass flight attendants because they don't want to wear a face mask and announced fines would double for those who don't comply with the US federal transportation mask mandate.\n    \n"
+    publishedDateTime: 2021-09-09T22:28:24Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/YZOvsOS9f6g/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/09/09/politics/biden-mask-flight-attendants-respect/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/09/09/politics/biden-mask-flight-attendants-respect/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210909175201-04-joe-biden-09-09-2021-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

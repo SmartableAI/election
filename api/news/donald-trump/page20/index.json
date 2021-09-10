@@ -2,6 +2,63 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2021-04-09-trump-other-potential-2024-gop-contenders-gathering-at-major-retreat.md",
+      "title": "Trump, other potential 2024 GOP contenders, gathering at major retreat",
+      "excerpt": "... Trump’s influence is not big enough and we have some donors who think that Trump’s influence is too much.\" \"The party is bigger than any one candidate. Clearly, Donald Trump is a big force in the Republican Party but I think the key for us moving ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/politics/trump-2024-gop-contenders-retreat",
+      "originalUrl": "https://www.foxnews.com/politics/trump-2024-gop-contenders-retreat",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/mar-a-lago.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-2024-gop-contenders-retreat.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-2024-gop-contenders-retreat.amp",
+      "publishedDateTime": "2021-04-09T03:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-09-melania-trump-tough-smart-and-knows-what-she-wants-out-of-marriage-biographers-say.md",
       "title": "Melania Trump 'Tough,' Smart And Knows What She Wants Out Of Marriage, Biographers Say",
       "excerpt": "Four of Melania Trump's biographers have some conflicting views about the former first lady, but they all agreed that she is \"tough\" and smart, according to a report.",
@@ -1525,58 +1582,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-04-dominion-will-one-canadian-company-bring-down-trumps-empire-of-disinformation.md",
-      "title": "Dominion: will one Canadian company bring down Trump's empire of disinformation?",
-      "excerpt": "Dominion has filed defamation lawsuits against several Trump allies for pushing election ‘radioactive falsehoods’ – could it triumph? Last modified on Sun 4 Apr 2021 02.01 EDT When Donald Trump and his allies pushed the “big lie” of voter fraud ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/apr/04/dominion-trump-disinformation-fox-news-sidney-powell-giuliani-mike-lindell-lawsuits",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/apr/04/dominion-trump-disinformation-fox-news-sidney-powell-giuliani-mike-lindell-lawsuits",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/52126a829e901e0c283655aa51405cf255bfb0fc/0_79_2350_1410/master/2350.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f64f72dd689637d64f85025eabe68e81",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/apr/04/dominion-trump-disinformation-fox-news-sidney-powell-giuliani-mike-lindell-lawsuits",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/apr/04/dominion-trump-disinformation-fox-news-sidney-powell-giuliani-mike-lindell-lawsuits",
-      "publishedDateTime": "2021-04-03T22:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

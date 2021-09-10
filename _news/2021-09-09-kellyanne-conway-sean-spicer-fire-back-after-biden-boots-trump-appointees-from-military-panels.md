@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/kellyanne-conway-sean-spicer-biden-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kellyanne-conway-sean-spicer-biden-trump-appointees-military-panels.amp"
 type: article
 quality: 178
-heat: 258
+heat: 238
 published: true
 
 provider:
@@ -78,22 +78,6 @@ related:
       - url: "https://amp.spot.im/loader.png"
         width: 375
         height: 815
-        isCached: true
-  - title: "Joe Biden Is No Jimmy Carter"
-    excerpt: "And if some of his accomplishments provide stark contrasts with his only-18-years-younger successor President Joe Biden, well, draw your own conclusions. I start off by noting that Carter came to the presidency with almost no relevant experience."
-    publishedDateTime: 2021-09-03T10:39:00Z
-    webUrl: "https://www.realclearpolitics.com/articles/2021/09/03/joe_biden_is_no_jimmy_carter_146353.html"
-    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/09/03/joe_biden_is_no_jimmy_carter_146353.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/09/03/joe_biden_is_no_jimmy_carter_146353.amp.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 85
-    images:
-      - url: "https://assets.realclear.com/images/51/519090_5_.jpg"
-        width: 750
-        height: 544
         isCached: true
 
 secured: "29ZB8xFIwZw+CI/7bEU+bWgfmeErh193wDeThvu3amg+KLvyVE54519fWteDkDpPW3LIRkklFIVBDy041ZS87QW++XyCDOn+QS+MtQnE29oIQs1ogf8gU5M/WHN8EdBdn44wfUJL3ramIH74cfUYZK7sBYOcyXaHZIs5oi0paYXh/154XOP65lngrvhDOUDGZ5LxjB0m0lu3Qtt97UzBDMT0D6Z16+05h+RpD7tZ1VhSoiKPntN9M7QQovX9aOoj55oyaeOrxNvGWiUc5DLqTN5qc63khUFxeXyNqNs0aXvuNAZHEooHO/oduRa9TzprPpxSHDHdlF6664oXkBCG9y2emsSgM3hJnikJT/DHY2M=;LOUOnfqeOo0KvxKEhkwnRA=="

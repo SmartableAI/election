@@ -2,6 +2,119 @@
   "page": 73,
   "value": [
     {
+      "path": "_news/2021-04-09-joe-manchin-on-the-fate-of-joe-bidens-agenda.md",
+      "title": "Joe Manchin on the fate of Joe Biden's agenda ",
+      "excerpt": "Joe Manchin says it's no fun being the most powerful man in Washington.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-vVzgys3E60/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-vVzgys3E60/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 655,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210408155128-joe-manchin-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/09/politics/joe-manchin-joe-biden-guns-filibuster-voting-rights/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/09/politics/joe-manchin-joe-biden-guns-filibuster-voting-rights/index.html",
+      "publishedDateTime": "2021-04-08T21:08:59-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-09-mark-steyn-pushes-back-on-bidens-gun-grab-by-executive-order.md",
+      "title": "Mark Steyn pushes back on Biden's 'gun grab' by executive order",
+      "excerpt": "In practical terms, the measures include: restrictions on pistol stabilizing braces, which Joe Biden claims allow hand-guns to be used as high-accuracy low-recoil rifles and yet with easy concealability of a pistol. A new rule closing yet another supposed ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/mark-steyn-pushes-back-on-bidens-gun-grab-by-executive-order",
+      "originalUrl": "https://www.foxnews.com/media/mark-steyn-pushes-back-on-bidens-gun-grab-by-executive-order",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0a73d4e9-e32b-4f78-b01c-7836d4c075f1/1f2816d7-152b-46e5-bcfc-50912e6eb51e/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/mark-steyn-pushes-back-on-bidens-gun-grab-by-executive-order.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/mark-steyn-pushes-back-on-bidens-gun-grab-by-executive-order.amp",
+      "publishedDateTime": "2021-04-08T17:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-09-the-earth-holds-so-much-power-deb-haaland-visits-sacred-site-trump-shrank.md",
       "title": "‘The earth holds so much power’: Deb Haaland visits sacred site Trump shrank",
       "excerpt": "Photograph: Rick Bowmer/AP The interior secretary, Deb Haaland, paid a historic visit on Thursday to Bears Ears national monument, the Utah site sacred to Native Americans that was downsized by President Donald Trump. Haaland is a member of the Laguna ...",
@@ -1264,110 +1377,6 @@
       "topics": [
         "Election",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-04-08-arizona-blocks-federal-gun-control-measures-ahead-of-joe-biden-address.md",
-      "title": "Arizona Blocks Federal Gun Control Measures Ahead of Joe Biden Address",
-      "excerpt": "The Republican has pre-empted President Joe Biden's plan to tackle gun violence with a raft of executive orders this week by signing Arizona House Bill 2111. Under the state legislation, known as the Second Amendment Firearm Freedom Act, federal gun laws ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/arizona-blocks-federal-gun-control-joe-biden-1581921",
-      "originalUrl": "https://www.newsweek.com/arizona-blocks-federal-gun-control-joe-biden-1581921",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 1125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1772989/arizona-governor-doug-ducey.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/arizona-blocks-federal-gun-control-joe-biden-1581921?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/arizona-blocks-federal-gun-control-joe-biden-1581921?amp=1",
-      "publishedDateTime": "2021-04-08T05:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-04-08-913-carson-trump-axelrod.md",
-      "title": "9/13: Carson, Trump, Axelrod",
-      "excerpt": "The latest on the 2016 presidential campaign and the newest polls in key battleground states, with Donald Trump, Ben Carson, CBS News Elections Director Anthony Salvanto, Democratic Strategist David Axelrod,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/video/913-carson-trump-axelrod-1/",
-      "originalUrl": "https://www.cbsnews.com/video/913-carson-trump-axelrod-1/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews3.cbsistatic.com/hub/i/r/2017/12/15/9334678b-ba9b-48ff-9dca-8457084b146a/thumbnail/1200x630/f248e71cc26ba21608939f758781626d/page-2-0912v3-445078-640x360.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-08T04:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

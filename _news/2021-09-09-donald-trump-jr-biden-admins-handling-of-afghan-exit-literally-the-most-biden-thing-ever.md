@@ -76,23 +76,7 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "Joe Biden Is No Jimmy Carter"
-    excerpt: "And if some of his accomplishments provide stark contrasts with his only-18-years-younger successor President Joe Biden, well, draw your own conclusions. I start off by noting that Carter came to the presidency with almost no relevant experience."
-    publishedDateTime: 2021-09-03T10:39:00Z
-    webUrl: "https://www.realclearpolitics.com/articles/2021/09/03/joe_biden_is_no_jimmy_carter_146353.html"
-    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/09/03/joe_biden_is_no_jimmy_carter_146353.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/09/03/joe_biden_is_no_jimmy_carter_146353.amp.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 85
-    images:
-      - url: "https://assets.realclear.com/images/51/519090_5_.jpg"
-        width: 750
-        height: 544
-        isCached: true
 
-secured: "5C0b0i3D0YHO6dBzTVKG17UAt5YbcH9Qzqm0UiEaMODUyHFKj2/iSP6IpjE9fMD1urMC0Y44SVV8VhHRO3ry4G/y8Li/evFH3nB86yl5x+EP5jotwU0JrbyPVbUPj9+915YLdcAUyw/ashmGg7NXLkQirxtLsfmEyGPVno5ObtOyUoPTiPvXh/SNAg4ZBxw/Wcvp1rO1dN8v35o8TcBNfjC/v+iiP672Q3D7lLnI1rRFPXnBdVKXIpIrdiwX5YvNzaAmfnUNdT5LpiAPCZSkfsIHstqPDTqJg6ZtjIjdYkSV3o/GYKjNqR2wo4scGaRFcFX8WmXQKfBqKXGbP7OlRCGHEtKj4el47BKcrrWCnRw=;WU4D3hyil8sC+hvWvBou2g=="
+secured: "BIA0oNGoEAfXlkTlnmv+pqYIA30b9CL/d/nYivBSsTmRwrmP0pKHeBuyPXVcMtbwXtGFT9CGf2XFOMNxppW80crCZzNMgVp582Hj7ilyKbmSklxkiJdtIbM1JIRdPt/1phjdBFfs495RnQ66uhmcu8m5XBsrrZBQEFxBAFgKE3pJzEx0t5CHA11zTnpzydroR/7Esap6Yu3NOieVSnUPkKE7nYWM9zst5zDgpXnoN9ny+n9OmKD4P0mT3F+EU0iOiLHiHJ9VQJiVbTZhvasxXIihjvGj3UvUiuFdU5r0ajw1RW2/RXP0MZBryswQKh7rDAb8SpXHqRVQtcad9NxBgTMjdPfyiP18uwu2FvYkAwVwo9KdEyvpHxB1HILXD/IMQ9Dno3M5NAJM2gxQANG7BGbBnGM3c66YewVmbKGZCm7bVN738ekR8/neNmwZU52id/wdKFyU5qt8V56xXDOKXOeIH+zT55Vgp9Exy1Q4Z8Ujk0exivdNfuNfCQmAIRFFWtNPojKVU9vcJ1E2fpUOfw==;s9zoA97RwyKy5dMvPNG6qA=="
 ---
 

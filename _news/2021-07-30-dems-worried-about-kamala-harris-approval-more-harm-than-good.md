@@ -9,8 +9,8 @@ ampWebUrl: "https://nypost.com/2021/07/29/democrats-worried-about-kamala-harris-
 cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/29/democrats-worried-about-kamala-harris-approval-numbers/amp/"
 type: article
 quality: 135
-heat: 155
-published: true
+heat: -1
+published: false
 
 provider:
   name: New York Post
@@ -28,19 +28,37 @@ images:
     isCached: true
 
 related:
-  - title: "VP Harris Honors Capitol Police: \"You're Not Alone And We All Stand With You\""
-    excerpt: "Vice President Kamala Harris honored Capitol Police officers at a ceremony Thursday where they were presented with medals. \"They secured our democracy, so let us never forget that,\" she said. RCP's Phil Wegmann reports: \"There are some officers who of course continue to suffer from the injuries seen and unseen,"
-    publishedDateTime: 2021-08-05T21:47:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/08/05/vp_harris_honors_capitol_police_youre_not_alone_and_we_all_stand_with_you.html#!"
+  - title: "Kamala Harris to travel to Vietnam, Singapore next month amid China tensions, US border crisis"
+    excerpt: "Vice President Kamala Harris has another big trip ahead – but it won't be a return visit to the U.S.-Mexico border."
+    publishedDateTime: 2021-07-31T05:14:41Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rZ4nafHqb1s/kamala-harris-vietnam-singapore-china-tensions-border-migrant-crisis"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-vietnam-singapore-china-tensions-border-migrant-crisis.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-vietnam-singapore-china-tensions-border-migrant-crisis.amp"
     type: article
     provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 62
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
     images:
-      - url: "https://assets.realclear.com/images/55/550047.jpg"
-        width: 750
-        height: 562
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1598a130-2526-4c35-96e5-9a43f8e5205e/ac2e8573-7c88-43b6-98fc-9fd51511f45b/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Border Patrol union official says situation still 'horrific': ‘No progress’ since Kamala Harris visit"
+    excerpt: "National Border Patrol Council VP Art Del Cueto told “America’s Newsroom” Tuesday that the migrant surge is “horrific” and there’s been zero progress since Vice President Kamala Harris last visited the southern border."
+    publishedDateTime: 2021-08-03T17:26:00Z
+    webUrl: "https://www.foxnews.com/media/border-patrol-del-cueto-migrant-surge-kamala-harris"
+    ampWebUrl: "https://www.foxnews.com/media/border-patrol-del-cueto-migrant-surge-kamala-harris.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/border-patrol-del-cueto-migrant-surge-kamala-harris.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 120
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/098c09e1-5b32-40b2-aca6-8fa85de4aa8e/d16ba95d-5167-4d6c-8cee-5c758971c911/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
 
 secured: "lwddNUtyyM5FlR4IczjRfAl2Guu0WzQFBoRVvApT5G4SjBwdyviVQWIsI77L18c3sWAUBNQduWHMwiB0U3L2F7x5sIWsVFRRqf2j9Wp6EPlkXuV5Hpy3MIM+zqbWxAlje90FGgoX8XintL0VTRAzB5sj7NO08wrx25m5tUPqJ14dCB/5lKse05HFqW8uy1ZNtlH4D46g6nBBNJZ6G+Xug6MewzOmGJkcJd9r+3GU9l8oNP6YQOIP7OyOZXOVRzWX/s/qD3C25vYxRRaUyVHI0R2Dw8MgefkYB4UfgO5DT1aG7hakN12GT2MfQKxMHynal21JMBU6GQg1XQzM2j2Q4MG4zBFlz7MgHqdiQdQeTXglSpZm0TWhkd3N3I3Ix/+oExWQwJYvQ1P2u+jp7/JXj7ZShmEBHsfKB6FtYfFbLsKon9P76qPIczjjxRNnLuyqjoq0btqk6o949X/m8nShARASVbRNCY3aqhFton6E9VSlMV5ZimA5bjkUi+OdYJaQw+7TWvF3Uyf2MpKNt9oauA==;UPeA2gULaxcL6L7QB2H2mQ=="

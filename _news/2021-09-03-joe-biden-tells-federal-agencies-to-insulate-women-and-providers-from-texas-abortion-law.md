@@ -31,21 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "AP source: Biden requiring federal workers to get COVID shot"
-    excerpt: "Biden will sign a new executive order to require vaccination for employees of the executive branch and contractors who do business with the federal government"
-    publishedDateTime: 2021-09-09T15:34:00Z
-    webUrl: "https://www.cleveland.com/nation/2021/09/ap-source-biden-requiring-federal-workers-to-get-covid-shot.html"
-    ampWebUrl: "https://www.cleveland.com/nation/2021/09/ap-source-biden-requiring-federal-workers-to-get-covid-shot.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/nation/2021/09/ap-source-biden-requiring-federal-workers-to-get-covid-shot.html?outputType=amp"
+  - title: "President Joe Biden says Texas' new abortion law \"unleashes unconstitutional chaos\""
+    excerpt: "Biden promised to mobilize the federal government to respond to the Texas law “to ensure that women in Texas have access to safe and legal abortions as protected by Roe.\""
+    publishedDateTime: 2021-09-02T16:24:00Z
+    webUrl: "https://www.texastribune.org/2021/09/02/texas-abortion-law-joe-biden/"
+    ampWebUrl: "https://www.texastribune.org/2021/09/02/texas-abortion-law-joe-biden/amp/"
+    cdnAmpWebUrl: "https://www-texastribune-org.cdn.ampproject.org/c/s/www.texastribune.org/2021/09/02/texas-abortion-law-joe-biden/amp/"
     type: article
     provider:
-      name: Cleveland.com
-      domain: cleveland.com
-    quality: 75
+      name: Texas Tribune
+      domain: texastribune.org
+    quality: 69
     images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/RPWHJQK2CRASZGMNYUSI6LGYHE.jpg"
-        width: 1024
-        height: 682
+      - url: "https://thumbnails.texastribune.org/awXUfugw4V8ATiBjcqo7A4RnVXA=/1200x630/filters:quality(95)/static.texastribune.org/media/files/302214eb567a50813c271e480d6ebd7b/Biden%20Aug%2031%20REUTERS%20TT.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "'An all-out assault on our democracy' | President Joe Biden speaks out against new Texas voting rights law"
     excerpt: "Biden urged Congress to send both bills “to my desk immediately.” “We’re facing an all-out assault on our democracy,” Biden wrote in a tweet. “We need to pass the For the People Act and the John Lewis Voting Rights Advancement Act to protect the sacred right to vote."

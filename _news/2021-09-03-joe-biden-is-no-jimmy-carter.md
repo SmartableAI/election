@@ -28,65 +28,221 @@ images:
     isCached: true
 
 related:
-  - title: "Kellyanne Conway, Sean Spicer fire back after Biden boots Trump appointees from military panels"
-    excerpt: "Biden is facing backlash after asking for resignations from multiple members of military academies’"
-    publishedDateTime: 2021-09-09T00:00:56Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MG74Q-dK0Jg/kellyanne-conway-sean-spicer-biden-trump-appointees-military-panels"
-    ampWebUrl: "https://www.foxnews.com/politics/kellyanne-conway-sean-spicer-biden-trump-appointees-military-panels.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kellyanne-conway-sean-spicer-biden-trump-appointees-military-panels.amp"
+  - title: "Biden to campaign for California Gov. Gavin Newsom day before recall election"
+    excerpt: "California Gov. Gavin Newsom's campaign announced Thursday that the day before the state's gubernatorial recall election, President Biden will join Newsom at a rally in Long Beach."
+    publishedDateTime: 2021-09-09T18:48:32Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3oKOeY-4M7c/biden-to-campaign-california-governor-gavin-newsom-recall-election"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-to-campaign-california-governor-gavin-newsom-recall-election.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-to-campaign-california-governor-gavin-newsom-recall-election.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 187
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden backs Newsom as California recall election looms, urges residents to 'vote no'"
+    excerpt: "President Joe Biden delivered his strongest endorsement to date for embattled Democratic Gov. Gavin Newsom on Thursday, urging Californians to reject an effort to recall the governor in an upcoming special election."
+    publishedDateTime: 2021-08-13T01:49:48Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zNBK8tUn23w/biden-backs-newsom-california-recall-election"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-backs-newsom-california-recall-election.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-backs-newsom-california-recall-election.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 183
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0f18efe6-404a-4e2c-b361-15a6d9a9bc12/671f0271-fb6b-47cd-b5e6-d2efaf051978/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Biden expected to campaign with Newsom next week, ahead of California recall election"
+    excerpt: "With one week to go until ballots must be postmarked, deposited in drop boxes, or handed in in-person in California’s gubernatorial recall election, embattled Democratic Gov. Gavin Newsom is making his closing pitch to save his job steering the nation’s most populous state."
+    publishedDateTime: 2021-09-07T16:52:23Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/LFMGOyab9ss/newsom-spends-big-bucks-teams-up-with-big-names-in-california-recall-election-closing-push"
+    ampWebUrl: "https://www.foxnews.com/politics/newsom-spends-big-bucks-teams-up-with-big-names-in-california-recall-election-closing-push.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/newsom-spends-big-bucks-teams-up-with-big-names-in-california-recall-election-closing-push.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 183
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Harris to campaign for Gov. Gavin Newsom in California after Vietnam, Singapore trip"
+    excerpt: "Vice President Kamala Harris will be making a campaign pit-stop in California next week to support Gov. Gavin Newsom in his race to overcome the recall election."
+    publishedDateTime: 2021-08-21T01:10:57Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ty3BtETzYUg/harris-to-campaign-for-newsom-in-california-after-vietnam-singapore-trip"
+    ampWebUrl: "https://www.foxnews.com/politics/harris-to-campaign-for-newsom-in-california-after-vietnam-singapore-trip.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-to-campaign-for-newsom-in-california-after-vietnam-singapore-trip.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 178
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cc1c997f-286e-4d8c-98db-ad4a6622ad97/d28953bc-1942-4bbb-a47c-9ec8248ffb03/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8495bcff-9b88-4652-a881-c8b9c0e8662d/db7b172a-bb2e-43bc-b3a6-5ac1f6dcf567/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
-  - title: "Anchors away! Biden fires Trump trio from Naval Academy board, drawing ire"
-    excerpt: "President Biden is firing members of the Naval Academy’s board of visitors who were appointed by former President Donald Trump."
-    publishedDateTime: 2021-09-08T19:40:00Z
-    webUrl: "https://nypost.com/2021/09/08/biden-fires-trump-trio-from-naval-academy-board/"
-    ampWebUrl: "https://nypost.com/2021/09/08/biden-fires-trump-trio-from-naval-academy-board/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/09/08/biden-fires-trump-trio-from-naval-academy-board/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 148
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/09/John-p-coale.jpg?quality=90&strip=all&w=1024"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "Lara Trump blasts NY Times for 'double standard' after editing headline about Biden and his son Beau"
-    excerpt: "Fox News contributor Lara Trump blasted the New York Times for softening a headline initially critical of President Biden for talking about his late son Beau when meeting with the families of troops killed in Afghanistan,"
-    publishedDateTime: 2021-09-05T16:56:00Z
-    webUrl: "https://www.foxnews.com/media/ny-times-changes-headline-on-beau-biden"
-    ampWebUrl: "https://www.foxnews.com/media/ny-times-changes-headline-on-beau-biden.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/ny-times-changes-headline-on-beau-biden.amp"
+  - title: "The Trump factor: Newsom spotlights former president in California gubernatorial recall election"
+    excerpt: "He’s not on the ballot in the California recall election of Gov. Gavin Newsom, but former President Trump’s front and center as the embattled Democratic governor fights to save his job steering the Golden State."
+    publishedDateTime: 2021-09-06T14:42:38Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/DqxgJTzrifo/the-trump-factor-newsom-spotlights-former-president-in-california-gubernatorial-recall-election"
+    ampWebUrl: "https://www.foxnews.com/politics/the-trump-factor-newsom-spotlights-former-president-in-california-gubernatorial-recall-election.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/the-trump-factor-newsom-spotlights-former-president-in-california-gubernatorial-recall-election.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 135
+    quality: 177
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ab16235e-7cf3-40a3-9bf0-2d3f23ea92cd/0630e86d-55f3-4867-8638-47312e235d26/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Obama wades deeply into politics, backing Newsom and touting Biden's agenda"
+    excerpt: "Former President Barack Obama waded into the political arena Wednesday touting the work of the Biden administration and issuing support for California Gov. Gavin Newsom who is facing a recall effort."
+    publishedDateTime: 2021-09-09T01:37:50Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/oYQcpeBePoE/obama-wades-deeply-into-politics-backing-newsom-and-touting-bidens-agenda"
+    ampWebUrl: "https://www.foxnews.com/politics/obama-wades-deeply-into-politics-backing-newsom-and-touting-bidens-agenda.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/obama-wades-deeply-into-politics-backing-newsom-and-touting-bidens-agenda.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fc29a4a3-d7b1-45c6-aa23-5fc6d7001490/7bb93ae6-98f7-408f-b483-ee8f979cee82/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
-  - title: "Donald Trump Jr.: Biden Admin's Handling Of Afghan Exit \"Literally The Most Biden Thing Ever\""
-    excerpt: "Donald Trump Jr. said the \"clown show\" that is the Biden administration's withdrawal of U.S. forces from Afghanistan continues to get worse and worse in an interview with Sean Hannity: \"American citizens are doing the job,"
-    publishedDateTime: 2021-09-09T14:40:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/09/09/donald_trump_jr_biden_admins_handling_of_afghan_exit_literally_the_most_biden_thing_ever.html"
-    ampWebUrl: "http://www.realclearpolitics.com/video/2021/09/09/donald_trump_jr_biden_admins_handling_of_afghan_exit_literally_the_most_biden_thing_ever.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/09/09/donald_trump_jr_biden_admins_handling_of_afghan_exit_literally_the_most_biden_thing_ever.amp.html"
+  - title: "Biden to announce vaccine mandate for companies with more than 100 employees"
+    excerpt: "President Joe Biden will announce Thursday that all employers with more than 100 workers will be forced to require coronavirus vaccinations or test employees weekly."
+    publishedDateTime: 2021-09-09T19:51:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/oTFY72hXqKQ/biden-set-to-announce-vaccine-mandate-or-weekly-testing-for-companies-with-more-than-100-employees"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-set-to-announce-vaccine-mandate-or-weekly-testing-for-companies-with-more-than-100-employees.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-set-to-announce-vaccine-mandate-or-weekly-testing-for-companies-with-more-than-100-employees.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/41fc992e-db6c-425e-96d8-3e58c8a3d0ef/af0d6ccc-7b1d-402b-afaf-26ddec63f90a/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Harris to campaign for Newsom in California next week"
+    excerpt: "Vice President Kamala Harris will campaign for California Gov. Gavin Newsom as his recall election looms two weeks away."
+    publishedDateTime: 2021-09-04T21:31:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8xXIRKZE8_o/harris-to-campaign-for-newsom-in-california-next-week"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/06/KAMALAHARRIS-BORDER-TRUMPVISIT.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "California GOP lawmakers call on Biden admin to address aviation fuel shortage to prevent wildfire disaster"
+    excerpt: "Letter to Interior Secretary Deb Haaland and Agriculture Secretary Tom Vilsack calls on them to address a “potential fuel shortage” for airplanes tasked with fighting fires."
+    publishedDateTime: 2021-07-20T20:53:35Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/CbwKjwNIoq0/california-lawmakers-biden-fuel-shortage-wildfire"
+    ampWebUrl: "https://www.foxnews.com/politics/california-lawmakers-biden-fuel-shortage-wildfire.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/california-lawmakers-biden-fuel-shortage-wildfire.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 157
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7036c65d-5b29-40c2-a67b-439d0399fb6e/4ab15bfe-320e-47e0-9ff2-b52ad15f1220/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "RNC hammers Harris for campaigning for Newsom while Californians are stranded in Afghanistan"
+    excerpt: "The ads hold nothing back ripping into the vice president as she galavants around California with the embattled governor."
+    publishedDateTime: 2021-09-08T21:00:04Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/G5xDm2pctJs/rnc-hammers-harris-campaigning-newsom-afghanistan"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 154
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/08/GettyImages-1233448858.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "VP Harris headed to California to help campaign for Gov. Newsom"
+    excerpt: "Harris has a public event scheduled with Newsom, who’s been accused of hypocrisy for imposing COVID-19 restrictions before treating himself to a mask-free indoor soiree."
+    publishedDateTime: 2021-09-08T16:19:00Z
+    webUrl: "https://nypost.com/2021/09/08/kamala-harris-headed-to-california-to-help-gov-gavin-newsom/"
+    ampWebUrl: "https://nypost.com/2021/09/08/kamala-harris-headed-to-california-to-help-gov-gavin-newsom/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/09/08/kamala-harris-headed-to-california-to-help-gov-gavin-newsom/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/09/kamala-gavin-ca-05.jpg?quality=90&strip=all&w=1024"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "VP Harris heading to California to boost Gavin Newsom ahead of recall vote"
+    excerpt: "Vice President Kamala Harris will hit the campaign trail next week alongside embattled California Gov. Gavin Newsom."
+    publishedDateTime: 2021-09-05T01:16:00Z
+    webUrl: "https://nypost.com/2021/09/04/vp-harris-heading-to-california-to-boost-gavin-newsom-ahead-of-recall-vote/"
+    ampWebUrl: "https://nypost.com/2021/09/04/vp-harris-heading-to-california-to-boost-gavin-newsom-ahead-of-recall-vote/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/09/04/vp-harris-heading-to-california-to-boost-gavin-newsom-ahead-of-recall-vote/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 133
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/09/Gavin-Newsom-136.jpg?quality=90&strip=all&w=1024"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "Kamala Harris faces protesters waving Afghanistan flag during Newsom rally in California"
+    excerpt: "Vice President Kamala Harris was on mostly friendly ground in her native California on Wednesday as she campaigned for embattled Gov. Gavin Newsom, who faces a recall election next week. But that didn’t mean Harris fully escaped any criticism of her time in office."
+    publishedDateTime: 2021-09-09T07:29:00Z
+    webUrl: "https://www.foxnews.com/politics/kamala-harris-protesters-afghanistan-newsom-rally-california"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-protesters-afghanistan-newsom-rally-california.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-protesters-afghanistan-newsom-rally-california.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 126
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/93b2ece7-0289-4644-a183-0a18365e3ea9/1bce33fa-c674-40fa-825c-57efc9148214/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Elizabeth Warren Stumps For Newsom: \"Larry Elder Dreams Of Being California's Own Donald Trump\""
+    excerpt: "Sen. Elizabeth Warren stumped for California Gov. Gavin Newsom at a rally Saturday ahead of next week's recall election. \"Gov. Larry Elder leading California should terrify you,\" she said about Newsom's leading GOP challenger Larry Elder."
+    publishedDateTime: 2021-09-05T16:07:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/09/05/elizabeth_warren_stumps_for_newsom_larry_elder_dreams_of_being_californias_donald_trump.html"
+    ampWebUrl: "http://www.realclearpolitics.com/video/2021/09/05/elizabeth_warren_stumps_for_newsom_larry_elder_dreams_of_being_californias_donald_trump.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/09/05/elizabeth_warren_stumps_for_newsom_larry_elder_dreams_of_being_californias_donald_trump.amp.html"
     type: article
     provider:
       name: RealClearPolitics
       domain: realclearpolitics.com
-    quality: 89
+    quality: 73
     images:
       - url: "https://amp.spot.im/loader.png"
         width: 375

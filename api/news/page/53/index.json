@@ -2,6 +2,110 @@
   "page": 53,
   "value": [
     {
+      "path": "_news/2021-05-22-rachel-maddow-trump-backers-use-audit-excuse-to-discredit-elections-after-trump-loss.md",
+      "title": "Rachel Maddow: Trump Backers Use \"Audit\" Excuse To Discredit Elections After Trump Loss",
+      "excerpt": "MSNBC's Rachel Maddow looks at different places around the United States where Donald Trump supporters, inspired by the ballot inspection spectacle in Arizona, are using conspiracy theories to insist on more 'audits' of the 2020 election results Trump lost,",
+      "sourceUrl": null,
+      "webUrl": "https://www.realclearpolitics.com/video/2021/05/21/rachel_maddow_trump_backers_use_audit_excuse_to_discredit_elections_after_trump_loss.html#!",
+      "originalUrl": "https://www.realclearpolitics.com/video/2021/05/21/rachel_maddow_trump_backers_use_audit_excuse_to_discredit_elections_after_trump_loss.html#!",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.realclear.com/images/52/522176.jpg",
+          "width": 1076,
+          "height": 806,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "http://www.realclearpolitics.com/video/2021/05/21/rachel_maddow_trump_backers_use_audit_excuse_to_discredit_elections_after_trump_loss.amp.html",
+      "cdnAmpWebUrl": "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/05/21/rachel_maddow_trump_backers_use_audit_excuse_to_discredit_elections_after_trump_loss.amp.html",
+      "publishedDateTime": "2021-05-21T10:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RealClearPolitics",
+        "domain": "realclearpolitics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-21-biden-claims-progressives-dont-like-him-because-he-doesnt-embrace-a-socialist-agenda.md",
+      "title": "Biden claims progressives don't like him because he doesn't embrace 'a socialist agenda'",
+      "excerpt": "President Biden opened up about his conflict with the more progressive side of the Democratic Party, arguing in a recent interview that he encounters criticism for not embracing a socialist agenda.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/0MvcIGnfMcY/biden-progressives-socialist-agenda",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/0MvcIGnfMcY/biden-progressives-socialist-agenda",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 166,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/618f5785-2270-40bc-abf4-5aaf713d2c2a/71d14e4e-5cad-445f-8928-823183c1bf9d/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-progressives-socialist-agenda.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-progressives-socialist-agenda.amp",
+      "publishedDateTime": "2021-05-21T08:17:43-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-05-21-the-federal-government-puts-out-a-help-wanted-notice-as-biden-seeks-to-undo-trump-cuts.md",
       "title": "The federal government puts out a ‘help wanted’ notice as Biden seeks to undo Trump cuts",
       "excerpt": "The federal bureaucracy, reeling under the effects of the former president, is struggling to make good on the current president’s promises.",
@@ -1227,110 +1331,6 @@
       "topics": [
         "Election",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-05-19-biden-tells-coast-guard-cadets-nations-at-significant-inflection-point-calls-class-dull-after-joke-bombs.md",
-      "title": "Biden tells Coast Guard cadets nation’s at ‘significant inflection point,’ calls class dull after joke bombs",
-      "excerpt": "Emphasizing the importance of their mission ahead in a quickly changing world, President Biden told graduating Coast Guard cadets on Wednesday that “we need you badly - that’s not hyperbole.”",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/uPsiZ9RWCNg/biden-tells-coast-guard-cadets-nations-at-significant-inflection-point",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/uPsiZ9RWCNg/biden-tells-coast-guard-cadets-nations-at-significant-inflection-point",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-tells-coast-guard-cadets-nations-at-significant-inflection-point.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-tells-coast-guard-cadets-nations-at-significant-inflection-point.amp",
-      "publishedDateTime": "2021-05-19T11:52:15-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-20-trump-vance-james-trying-to-cancel-voters-with-criminal-probe-into-organization.md",
-      "title": "Trump: Vance, James trying to ‘cancel’ voters with criminal probe into organization",
-      "excerpt": "Former President Donald Trump blasted New York Attorney General Letitia James and Manhattan District Attorney Cy​rus​ Vance Jr. for their joint criminal investigation into his organization.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/05/19/trump-vance-james-trying-to-cancel-voters-with-probe/",
-      "originalUrl": "https://nypost.com/2021/05/19/trump-vance-james-trying-to-cancel-voters-with-probe/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/05/james-vs-trump-hp1.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/05/19/trump-vance-james-trying-to-cancel-voters-with-probe/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/19/trump-vance-james-trying-to-cancel-voters-with-probe/amp/",
-      "publishedDateTime": "2021-05-19T11:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     }
   ],

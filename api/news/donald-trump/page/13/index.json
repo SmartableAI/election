@@ -2,6 +2,58 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-06-07-coach-v-the-white-house-inside-steve-kerrs-extraordinary-feud-with-donald-trump.md",
+      "title": "Coach v the White House: inside Steve Kerr’s extraordinary feud with Donald Trump",
+      "excerpt": "In a new book about the Golden State Warriors coach, Scott Howard-Cooper explores how the NBA, China and the US president combined for an explosive mix",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/sport/2021/jun/07/steve-kerr-golden-state-warriors-trump-nba-china",
+      "originalUrl": "https://www.theguardian.com/sport/2021/jun/07/steve-kerr-golden-state-warriors-trump-nba-china",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/1735f509f0395827016f8415c722605bb44d6c08/0_213_4976_2985/master/4976.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=acbddd681f2212415f387e57e12a0af3",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/sport/2021/jun/07/steve-kerr-golden-state-warriors-trump-nba-china",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/sport/2021/jun/07/steve-kerr-golden-state-warriors-trump-nba-china",
+      "publishedDateTime": "2021-06-07T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-06-07-trump-adviser-lewandowski-he-lost-the-election-and-will-not-be-reinstated.md",
       "title": "Trump adviser Lewandowski: he ‘lost the election’ and will not be reinstated",
       "excerpt": "Former campaign manager tells Fox News Sunday there is no mechanism by which a loser can return to the White House",
@@ -1517,63 +1569,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-01-trump-turned-nonvoters-into-voters-in-2020-will-they-turn-out-for-next-years-midterms.md",
-      "title": "Trump Turned Nonvoters Into Voters in 2020. Will They Turn Out for Next Year’s Midterms?",
-      "excerpt": "Former President Donald Trump drew substantial support in 2020 from a new pool of voters whose decisions on whether to participate in elections again will be central to next year’s midterms.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/trump-turned-nonvoters-into-voters-in-2020-will-they-turn-out-for-next-years-midterms-11622545202",
-      "originalUrl": "https://www.wsj.com/articles/trump-turned-nonvoters-into-voters-in-2020-will-they-turn-out-for-next-years-midterms-11622545202",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-344446/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/trump-turned-nonvoters-into-voters-in-2020-will-they-turn-out-for-next-years-midterms-11622545202",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-turned-nonvoters-into-voters-in-2020-will-they-turn-out-for-next-years-midterms-11622545202",
-      "publishedDateTime": "2021-06-01T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     }
   ],

@@ -2,63 +2,6 @@
   "page": 15,
   "value": [
     {
-      "path": "_news/2021-06-04-flashback-ted-koppel-predicted-cnn-ratings-would-be-in-the-toilet-without-donald-trump.md",
-      "title": "FLASHBACK: Ted Koppel predicted CNN ratings 'would be in the toilet without Donald Trump'",
-      "excerpt": "Veteran journalist Ted Koppel said “CNN's ratings would be in the toilet without Donald Trump” in a 2018 interview, words that appear prescient as the liberal network's numbers continue to fall without its nemesis in office.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/flashback-ted-koppel-predicted-cnn-ratings-toilet-without-donald-trump",
-      "originalUrl": "https://www.foxnews.com/media/flashback-ted-koppel-predicted-cnn-ratings-toilet-without-donald-trump",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/18c8a7d9-22e9-4c2b-8acd-d0628fefb0ab/e659bf02-7679-45ea-8c23-d27c2bd8c917/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/flashback-ted-koppel-predicted-cnn-ratings-toilet-without-donald-trump.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/flashback-ted-koppel-predicted-cnn-ratings-toilet-without-donald-trump.amp",
-      "publishedDateTime": "2021-06-03T10:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-06-03-republican-leaders-to-summit-with-trump-over-conservative-agenda.md",
       "title": "Republican leaders to summit with Trump over conservative agenda",
       "excerpt": "Republican Study Committee Chairman Jim Banks and other members of the largest Republican caucus’ leadership will hold a summit with former President Donald Trump in New Jersey next week.",
@@ -1637,6 +1580,54 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-28-men-booted-from-yankee-stadium-after-displaying-trump-won-banner.md",
+      "title": "Men booted from Yankee Stadium after displaying ‘Trump Won’ banner",
+      "excerpt": "Two men who brought a ‘Trump Won Save America’ banner to the May 27, 2021 doubleheader between the Yankees and Blue Jays were greeted with boos from the crowd and escorted out of the",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/05/28/two-men-booted-from-yankee-game-for-holding-a-trump-won-sign/",
+      "originalUrl": "https://nypost.com/2021/05/28/two-men-booted-from-yankee-game-for-holding-a-trump-won-sign/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/05/trump-fans-ejected-index.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/05/28/two-men-booted-from-yankee-game-for-holding-a-trump-won-sign/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/28/two-men-booted-from-yankee-game-for-holding-a-trump-won-sign/amp/",
+      "publishedDateTime": "2021-05-27T21:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

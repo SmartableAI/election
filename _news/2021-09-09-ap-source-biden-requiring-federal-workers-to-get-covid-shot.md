@@ -27,47 +27,98 @@ images:
     isCached: true
 
 related:
-  - title: "Joe Biden Tells Federal Agencies to 'Insulate Women and Providers' From Texas Abortion Law"
-    excerpt: "The Supreme Court voted 5-4 in the middle of the night to deny an emergency appeal from abortion providers aimed at blocking the Texas law from taking effect."
-    publishedDateTime: 2021-09-02T17:17:00Z
-    webUrl: "https://www.newsweek.com/joe-biden-tells-federal-agencies-insulate-women-providers-texas-abortion-law-1625552"
-    ampWebUrl: "https://www.newsweek.com/joe-biden-tells-federal-agencies-insulate-women-providers-texas-abortion-law-1625552?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-tells-federal-agencies-insulate-women-providers-texas-abortion-law-1625552?amp=1"
+  - title: "Joe Biden Has 6 New Steps to Curb COVID-19: Here's What They Are"
+    excerpt: "The president wants more vaccine shots, more testing, more masking and more treatments to combat the pandemic."
+    publishedDateTime: 2021-09-09T20:15:00Z
+    webUrl: "https://www.newsweek.com/joe-biden-has-6-new-steps-curb-covid-19-heres-what-they-are-1627569"
+    ampWebUrl: "https://www.newsweek.com/joe-biden-has-6-new-steps-curb-covid-19-heres-what-they-are-1627569?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-has-6-new-steps-curb-covid-19-heres-what-they-are-1627569?amp=1"
     type: article
     provider:
       name: Newsweek
       domain: newsweek.com
-    quality: 115
+    quality: 125
     images:
-      - url: "https://d.newsweek.com/en/full/1886367/supreme-court-denies-emergency-appeal.jpg"
+      - url: "https://d.newsweek.com/en/full/1890963/more-vaccines-part-bidens-covid-19-plan.jpg"
+        width: 2500
+        height: 1664
+        isCached: true
+  - title: "Joe Biden Promised to 'Defeat the Lies.' Then His Presidency Hit a Crisis"
+    excerpt: "President Joe Biden pointedly advocated truth-telling in his inaugural address, in a tacit rebuke of Donald Trump's loose relationship with facts. But a few months on, the crises posed by the U.S. withdrawal from Afghanistan have tested Biden's commitment to truth."
+    publishedDateTime: 2021-09-09T14:10:00Z
+    webUrl: "https://www.newsweek.com/joe-biden-defeat-lies-presidency-crisis-1627349"
+    ampWebUrl: "https://www.newsweek.com/joe-biden-defeat-lies-presidency-crisis-1627349?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-defeat-lies-presidency-crisis-1627349?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 124
+    images:
+      - url: "https://d.newsweek.com/en/full/1890536/biden-delivers-speech-state-dining-room.jpg"
         width: 2500
         height: 1667
         isCached: true
-  - title: "'An all-out assault on our democracy' | President Joe Biden speaks out against new Texas voting rights law"
-    excerpt: "Biden urged Congress to send both bills “to my desk immediately.” “We’re facing an all-out assault on our democracy,” Biden wrote in a tweet. “We need to pass the For the People Act and the John Lewis Voting Rights Advancement Act to protect the sacred right to vote."
-    publishedDateTime: 2021-09-08T11:40:00Z
-    webUrl: "https://www.khou.com/article/news/politics/president-joe-biden-kamala-harris-texas-voting-rights-law/269-552e0c5f-4871-4a5d-8bc1-c561ae193511"
-    ampWebUrl: "https://www.khou.com/amp/article/news/politics/president-joe-biden-kamala-harris-texas-voting-rights-law/269-552e0c5f-4871-4a5d-8bc1-c561ae193511"
-    cdnAmpWebUrl: "https://www-khou-com.cdn.ampproject.org/c/s/www.khou.com/amp/article/news/politics/president-joe-biden-kamala-harris-texas-voting-rights-law/269-552e0c5f-4871-4a5d-8bc1-c561ae193511"
+  - title: "Biden, Dems push Civilian Climate Corps in echo of New Deal"
+    excerpt: "Inspired by the New Deal-era Civilian Conservation Corps, President Joe Biden and congressional Democrats are pushing for a modern counterpart: a Civilian Climate Corps that would create hundreds of thousands of jobs building trails,"
+    publishedDateTime: 2021-09-09T07:25:00Z
+    webUrl: "https://www.ctpost.com/news/article/Biden-Dems-push-Civilian-Climate-Corps-in-echo-16445011.php"
+    ampWebUrl: "https://www.ctpost.com/news/amp/Biden-Dems-push-Civilian-Climate-Corps-in-echo-16445011.php"
+    cdnAmpWebUrl: "https://www-ctpost-com.cdn.ampproject.org/c/s/www.ctpost.com/news/amp/Biden-Dems-push-Civilian-Climate-Corps-in-echo-16445011.php"
     type: article
     provider:
-      name: KHOU 11
-      domain: khou.com
-    quality: 57
+      name: Connecticut Post
+      domain: ctpost.com
+    quality: 75
     images:
-      - url: "https://media.khou.com/assets/KHOU/images/275f81fd-b79a-420e-aa1c-c32cb165a206/275f81fd-b79a-420e-aa1c-c32cb165a206_1140x641.jpg"
-        width: 1140
-        height: 641
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
-  - title: "Biden Calls Top Court Ruling on Texas Abortion Ban 'Unprecedented Assault' on Women's Rights"
-    excerpt: "President Joe Biden on Thursday said the U.S. Supreme Court's ruling on Texas' abortion ban \"is an unprecedented assault on a woman's constitutional rights,\" after the top court allowed the law to remain in place."
-    publishedDateTime: 2021-09-02T15:42:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2021-09-02/biden-calls-top-court-ruling-on-texas-abortion-ban-unprecedented-assault-on-womens-rights"
+  - title: "Many Maryland business groups, unions back Biden’s COVID-19 plan, with some caveats"
+    excerpt: "The new federal vaccine requirement was among a number of stringent new measures announced by the president to try to curb the rise in COVID-19 cases fueled by the delta variant."
+    publishedDateTime: 2021-09-10T01:59:00Z
+    webUrl: "https://www.baltimoresun.com/politics/bs-md-pol-covid-biden-maryland-20210909-wcv6xbetavfijcmq5pcdiaj2ma-story.html"
+    ampWebUrl: "https://www.baltimoresun.com/politics/bs-md-pol-covid-biden-maryland-20210909-wcv6xbetavfijcmq5pcdiaj2ma-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/politics/bs-md-pol-covid-biden-maryland-20210909-wcv6xbetavfijcmq5pcdiaj2ma-story.html?outputType=amp"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 24
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 69
+    images:
+      - url: "https://www.baltimoresun.com/resizer/69Z1VZdJfyNC3MUh5TcheG5lu9c=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/MNQWX5TYR5FF3DJENVYWYN3H3I.jpg"
+        width: 1200
+        height: 910
+        isCached: true
+  - title: "Joe Biden, Dems push Civilian Climate Corps in echo of New Deal"
+    excerpt: "Inspired by the New Deal-era Civilian Conservation Corps, President Joe Biden and congressional Democrats are pushing for a modern counterpart: a Civilian Climate Corps that would create hundreds of thousands of jobs building trails,"
+    publishedDateTime: 2021-09-09T13:00:00Z
+    webUrl: "https://floridapolitics.com/archives/456087-joe-biden-dems-push-civilian-climate-corps-in-echo-of-new-deal/"
+    type: article
+    provider:
+      name: Florida Politics
+      domain: floridapolitics.com
+    quality: 55
+    images:
+      - url: "https://floridapolitics.com/wp-content/uploads/2021/09/Joe-Biden-in-Queens.jpg"
+        width: 733
+        height: 415
+        isCached: true
+  - title: "President Joe Biden speaks about the COVID-19 relief package in the State Dining Room of the Wh"
+    excerpt: "President Joe Biden speaks about the COVID-19 relief package in the State Dining Room of the White House, Monday, March 15, 2021, in Washington. (AP Photo/Patrick Semansky)"
+    publishedDateTime: 2021-09-09T06:35:00Z
+    webUrl: "https://www.reviewjournal.com/news/politics-and-government/help-is-here-biden-says-in-promoting-covid-relief-bill-2305083/attachment/president-joe-biden-speaks-about-the-covid-19-relief-package-in-the-state-dining-room-of-the-wh-5/"
+    type: article
+    provider:
+      name: Las Vegas Review-Journal
+      domain: reviewjournal.com
+    quality: 43
+    images:
+      - url: "https://www.reviewjournal.com/wp-content/themes/rjth2019/images/defaultimage-1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "uoUOiqJ4MspBYYl3X828rW8vJUX2iBmLug981wjtj7Mu/RASHKHXiCEw5TOvHu9qF9rjzp0yZR1Px5sX1T5yLS7IniMR+ifUYB6ZoYbMl4EClQh57YE9WgQAAXJZWIHE6ck0bm8NJn+Gxk2bJq7673kFspGVoDk+6MiknsK9e7yBog3kXovxPCnzjhQbtAjcEsfJDfj1V4w1BDnRAvBmbBNWhAEy7s2iooxOJI49/Qt6nWGkpsXWdHKGSvf2neDccxzl+d8CDxRl6LcSJOe8bKWzzpv+fJSHiOh98GC5hjqxh5k9/YCKWQgAuLGq79sIlVnQj/3pydM5amB5alc3gX38lBxxnTUcTfFwLXePkwg=;GUn0fiF+8twkgpp+7OSVDg=="
 ---

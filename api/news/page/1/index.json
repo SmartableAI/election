@@ -2,6 +2,425 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-09-10-harris-assails-texas-abortion-law-as-patently-unconstitutional.md",
+      "title": "Harris assails Texas abortion law as 'patently unconstitutional'",
+      "excerpt": "Vice President Kamala Harris condemned the Texas abortion law as \"patently unconstitutional\" and called for Roe v. Wade to be codified.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/gwnw3JqIkpY/harris-calls-texas-abortion-law-patently-unconstitutional-urges-roe-v-wade-to-be-codified",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/gwnw3JqIkpY/harris-calls-texas-abortion-law-patently-unconstitutional-urges-roe-v-wade-to-be-codified",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 225,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/50a20733-9d95-4d8b-b7db-5b4dfd356b46/f3c78e9e-9391-4de0-aa90-295132e3c7e3/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/harris-calls-texas-abortion-law-patently-unconstitutional-urges-roe-v-wade-to-be-codified.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-calls-texas-abortion-law-patently-unconstitutional-urges-roe-v-wade-to-be-codified.amp",
+      "publishedDateTime": "2021-09-09T18:48:51-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-09-10-nancy-pelosi-jim-mcgovern-plug-joe-biden-child-tax-credit-during-worcester-visit.md",
+      "title": "Nancy Pelosi, Jim McGovern plug Joe Biden child tax credit during Worcester visit",
+      "excerpt": "Speaker of the House Nancy Pelosi made a pit stop in Worcester to meet children and families who have benefitted from President Biden’s child tax credit and plug a bill that would expand",
+      "sourceUrl": null,
+      "webUrl": "https://www.bostonherald.com/2021/09/09/nancy-pelosi-jim-mcgovern-plug-joe-biden-child-tax-credit-during-worcester-visit/",
+      "originalUrl": "https://www.bostonherald.com/2021/09/09/nancy-pelosi-jim-mcgovern-plug-joe-biden-child-tax-credit-during-worcester-visit/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.bostonherald.com/wp-content/uploads/2021/09/AP21252729611795.jpg?w=1024&#038;h=761",
+          "width": 1024,
+          "height": 761,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bostonherald.com/2021/09/09/nancy-pelosi-jim-mcgovern-plug-joe-biden-child-tax-credit-during-worcester-visit/amp/",
+      "cdnAmpWebUrl": "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2021/09/09/nancy-pelosi-jim-mcgovern-plug-joe-biden-child-tax-credit-during-worcester-visit/amp/",
+      "publishedDateTime": "2021-09-09T16:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Boston Herald",
+        "domain": "bostonherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-09-09-biden-declares-war-on-desantis-and-abbott-get-them-out-of-the-way.md",
+      "title": "Biden declares war on DeSantis and Abbott: 'Get them out of the way'",
+      "excerpt": "President Joe Biden condemned Republican governors who are not enforcing his administration's COVID-19 plan and threatened to resist them with his presidential powers.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Xi-wXD4UNyE/get-them-out-of-the-way-biden-declares-war-on-desantis-and-abbott",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Xi-wXD4UNyE/get-them-out-of-the-way-biden-declares-war-on-desantis-and-abbott",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f5166089-57d7-4bc8-8f3e-bd315eb47d33/5264644a-d504-43e8-980c-3595c487b8ed/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/get-them-out-of-the-way-biden-declares-war-on-desantis-and-abbott.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/get-them-out-of-the-way-biden-declares-war-on-desantis-and-abbott.amp",
+      "publishedDateTime": "2021-09-09T16:33:53-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-09-10-joe-biden-has-6-new-steps-to-curb-covid-19-heres-what-they-are.md",
+      "title": "Joe Biden Has 6 New Steps to Curb COVID-19: Here's What They Are",
+      "excerpt": "The president wants more vaccine shots, more testing, more masking and more treatments to combat the pandemic.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/joe-biden-has-6-new-steps-curb-covid-19-heres-what-they-are-1627569",
+      "originalUrl": "https://www.newsweek.com/joe-biden-has-6-new-steps-curb-covid-19-heres-what-they-are-1627569",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 245,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1890963/more-vaccines-part-bidens-covid-19-plan.jpg",
+          "width": 2500,
+          "height": 1664,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/joe-biden-has-6-new-steps-curb-covid-19-heres-what-they-are-1627569?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-has-6-new-steps-curb-covid-19-heres-what-they-are-1627569?amp=1",
+      "publishedDateTime": "2021-09-09T13:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-09-09-psaki-wont-say-if-biden-wrong-to-declare-victory-over-covid-in-july.md",
+      "title": "Psaki won't say if Biden wrong to declare victory over COVID in July",
+      "excerpt": "White House press secretary Jen Psaki on Thursday wouldn't say if President Biden was \"overconfident\" in declaring victory against COVID-19 in July.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/hTEsxeeEpCU/psaki-biden-wrong-declare-victory-covid",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/hTEsxeeEpCU/psaki-biden-wrong-declare-victory-covid",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 235,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d28a3399-37f1-48cf-a2aa-39fbf6806f00/a1d8e4f7-66a2-41bf-ab53-0f75d50be1c6/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/psaki-biden-wrong-declare-victory-covid.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-biden-wrong-declare-victory-covid.amp",
+      "publishedDateTime": "2021-09-09T12:55:51-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-09-09-trump-backs-candidate-in-crowded-wyoming-gop-house-primary-in-push-to-oust-cheney-from-congress.md",
+      "title": "Trump backs candidate in crowded Wyoming GOP House primary in push to oust Cheney from Congress",
+      "excerpt": "Stepping up his efforts to knock Republican Rep. Liz Cheney out of Congress, former President Trump on Thursday took sides in the House GOP primary in Wyoming.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Iz0eQY0B7uE/trump-wyoming-house-endorsement-liz-cheney-challenger",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Iz0eQY0B7uE/trump-wyoming-house-endorsement-liz-cheney-challenger",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 163,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-wyoming-house-endorsement-liz-cheney-challenger.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-wyoming-house-endorsement-liz-cheney-challenger.amp",
+      "publishedDateTime": "2021-09-09T11:51:10-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-09-09-biden-to-campaign-for-california-gov-gavin-newsom-day-before-recall-election.md",
+      "title": "Biden to campaign for California Gov. Gavin Newsom day before recall election",
+      "excerpt": "California Gov. Gavin Newsom's campaign announced Thursday that the day before the state's gubernatorial recall election, President Biden will join Newsom at a rally in Long Beach.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3oKOeY-4M7c/biden-to-campaign-california-governor-gavin-newsom-recall-election",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3oKOeY-4M7c/biden-to-campaign-california-governor-gavin-newsom-recall-election",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 467,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-to-campaign-california-governor-gavin-newsom-recall-election.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-to-campaign-california-governor-gavin-newsom-recall-election.amp",
+      "publishedDateTime": "2021-09-09T11:48:32-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-09-10-donald-trump-getting-millions-and-millions-for-boxing-analyst-gig-report-says.md",
+      "title": "Donald Trump getting ‘millions and millions’ for boxing analyst gig, report says",
+      "excerpt": "Former President Donald Trump will serve as a commentator for Saturday's fight card at the Hard Rock Hotel & Casino in Hollywood, Florida.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nj.com/sports/2021/09/donald-trump-getting-millions-and-millions-for-boxing-analyst-gig-report-says.html",
+      "originalUrl": "https://www.nj.com/sports/2021/09/donald-trump-getting-millions-and-millions-for-boxing-analyst-gig-report-says.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/VA7TEMXULZBFRKEWICA5CC6JAA.jpg",
+          "width": 2569,
+          "height": 1713,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nj.com/sports/2021/09/donald-trump-getting-millions-and-millions-for-boxing-analyst-gig-report-says.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-nj-com.cdn.ampproject.org/c/s/www.nj.com/sports/2021/09/donald-trump-getting-millions-and-millions-for-boxing-analyst-gig-report-says.html?outputType=amp",
+      "publishedDateTime": "2021-09-09T11:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NJ.com",
+        "domain": "nj.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-09-09-trump-endorses-harriet-hageman-in-gop-primary-challenge-to-liz-cheney.md",
       "title": "Trump endorses Harriet Hageman in GOP primary challenge to Liz Cheney",
       "excerpt": "Former President Donald Trump has endorsed a Republican primary challenger to Wyoming Rep. Liz Cheney, a vocal critic of the former president who voted to impeach him earlier this year.\n    \n",
@@ -101,58 +520,6 @@
       ]
     },
     {
-      "path": "_news/2021-09-09-joe-biden-promised-to-defeat-the-lies-then-his-presidency-hit-a-crisis.md",
-      "title": "Joe Biden Promised to 'Defeat the Lies.' Then His Presidency Hit a Crisis",
-      "excerpt": "President Joe Biden pointedly advocated truth-telling in his inaugural address, in a tacit rebuke of Donald Trump's loose relationship with facts. But a few months on, the crises posed by the U.S. withdrawal from Afghanistan have tested Biden's commitment to truth.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/joe-biden-defeat-lies-presidency-crisis-1627349",
-      "originalUrl": "https://www.newsweek.com/joe-biden-defeat-lies-presidency-crisis-1627349",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 204,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1890536/biden-delivers-speech-state-dining-room.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/joe-biden-defeat-lies-presidency-crisis-1627349?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-defeat-lies-presidency-crisis-1627349?amp=1",
-      "publishedDateTime": "2021-09-09T07:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
       "path": "_news/2021-09-09-donald-trump-endorses-oak-parks-kristina-karamo-for-secretary-of-state.md",
       "title": "Donald Trump endorses Oak Park’s Kristina Karamo for secretary of state",
       "excerpt": "Donald Trump has endorsed Kristina Karama for Michigan Secretary of State. In a statement, the former president said he highly respects the Oak Park resident and that she has his complete and total endorsement to run for “Secretary of State of the Great State of Michigan!",
@@ -193,62 +560,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-09-09-bidens-six-prong-covid-19-plan-includes-vaccine-and-mask-mandates-preview-of-thursday-speech.md",
-      "title": "Biden's six-prong COVID-19 plan includes vaccine and mask mandates: preview of Thursday speech",
-      "excerpt": "The details of President Biden's six-prong plan to fight COVID-19 are unclear, but a White House official says they will include vaccine and mask requirements.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/rt_swDeHprI/biden-covid-six-prong-plan-white-house",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/rt_swDeHprI/biden-covid-six-prong-plan-white-house",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 163,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-covid-six-prong-plan-white-house.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-covid-six-prong-plan-white-house.amp",
-      "publishedDateTime": "2021-09-09T06:31:15-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     },
     {
@@ -466,49 +777,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-09-09-biden-dems-push-civilian-climate-corps-in-echo-of-new-deal.md",
-      "title": "Biden, Dems push Civilian Climate Corps in echo of New Deal",
-      "excerpt": "Inspired by the New Deal-era Civilian Conservation Corps, President Joe Biden and congressional Democrats are pushing for a modern counterpart: a Civilian Climate Corps that would create hundreds of thousands of jobs building trails,",
-      "sourceUrl": null,
-      "webUrl": "https://www.ctpost.com/news/article/Biden-Dems-push-Civilian-Climate-Corps-in-echo-16445011.php",
-      "originalUrl": "https://www.ctpost.com/news/article/Biden-Dems-push-Civilian-Climate-Corps-in-echo-16445011.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
-          "width": 600,
-          "height": 336,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ctpost.com/news/amp/Biden-Dems-push-Civilian-Climate-Corps-in-echo-16445011.php",
-      "cdnAmpWebUrl": "https://www-ctpost-com.cdn.ampproject.org/c/s/www.ctpost.com/news/amp/Biden-Dems-push-Civilian-Climate-Corps-in-echo-16445011.php",
-      "publishedDateTime": "2021-09-09T00:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Connecticut Post",
-        "domain": "ctpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     },
     {
@@ -750,7 +1018,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 258,
+      "heat": 238,
       "tags": null,
       "images": [
         {
@@ -889,63 +1157,6 @@
       ],
       "topics": [
         "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-09-08-harris-accuses-texas-gov-abbott-of-arrogantly-dismissing-rape-victims.md",
-      "title": "Harris accuses Texas Gov. Abbott of 'arrogantly' dismissing rape victims",
-      "excerpt": "Vice President Kamala Harris opened up a speech supporting California Gov. Gavin Newsom against a recall effort by slamming Texas Gov. Greg Abbott and his state’s newly enacted law restricting abortions.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/XPudeoBAzzE/harris-slams-abbott-at-pro-newsom-rally-accuses-him-of-arrogantly-dismissing-rape-victims",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/XPudeoBAzzE/harris-slams-abbott-at-pro-newsom-rally-accuses-him-of-arrogantly-dismissing-rape-victims",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 224,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/de97b5d5-9a48-4839-a8a4-d085340888e6/151303eb-e6ed-45a1-867c-254e4a3a3838/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/harris-slams-abbott-at-pro-newsom-rally-accuses-him-of-arrogantly-dismissing-rape-victims.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-slams-abbott-at-pro-newsom-rally-accuses-him-of-arrogantly-dismissing-rape-victims.amp",
-      "publishedDateTime": "2021-09-08T15:13:01-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
         "Kamala Harris"
       ]
     },
@@ -1103,214 +1314,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-09-08-biden-admins-response-to-taliban-excuse-for-grounded-flights-slammed-by-lawmakers.md",
-      "title": "Biden admin's response to Taliban 'excuse' for grounded flights slammed by lawmakers",
-      "excerpt": "Secretary of State Antony Blinken said the Taliban have kept planes grounded because evacuees lack required visa documentation, but Republicans are frustrated with the administration’s “excuse.”",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Urd-B-YNieI/biden-admin-taliban-grounded-flights-lawmakers",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Urd-B-YNieI/biden-admin-taliban-grounded-flights-lawmakers",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 168,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2e5b21bf-685d-49c1-a532-196bcdaa6507/7a27150e-99b5-4aed-834a-f74efdfb03b7/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-admin-taliban-grounded-flights-lawmakers.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-admin-taliban-grounded-flights-lawmakers.amp",
-      "publishedDateTime": "2021-09-08T11:19:08-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-09-09-pelosi-to-hold-security-briefing-ahead-of-sept-18-rally-planned-by-trump-supporters.md",
-      "title": "Pelosi to hold security briefing ahead of Sept. 18 rally planned by Trump supporters",
-      "excerpt": "Speaker Nancy Pelosi has invited her fellow congressional leaders from the House and Senate to attend a security briefing about an upcoming rally planned at the Capitol in support people who were arrested during the Jan.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/congress/pelosi-hold-security-briefing-ahead-sept-18-rally-planned-trump-n1278713",
-      "originalUrl": "https://www.nbcnews.com/politics/congress/pelosi-hold-security-briefing-ahead-sept-18-rally-planned-trump-n1278713",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 128,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_36/3504362/210908-nancy-pelosi-ew-1238p.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1278713",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1278713",
-      "publishedDateTime": "2021-09-08T10:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-09-08-top-jimmy-carter-aide-says-biden-admin-is-reminiscent-of-reliving-carter-years.md",
-      "title": "Top Jimmy Carter aide says Biden admin is 'reminiscent of reliving' Carter years",
-      "excerpt": "Former White House deputy chief of staff under Carter, Les Francis, said that President Biden seems unable to “catch a break” amid the chaotic, crisis-ridden first year of his term.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8PiYsm3iSrQ/top-jimmy-carter-aide-says-biden-admin-is-reminiscent-of-reliving-carter-years",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8PiYsm3iSrQ/top-jimmy-carter-aide-says-biden-admin-is-reminiscent-of-reliving-carter-years",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 170,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fce9db3d-9d8c-42e7-a5e0-eb6777d4f9ee/80bbd468-54e3-49a9-a0e0-8398c2ee7e4c/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/top-jimmy-carter-aide-says-biden-admin-is-reminiscent-of-reliving-carter-years.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/top-jimmy-carter-aide-says-biden-admin-is-reminiscent-of-reliving-carter-years.amp",
-      "publishedDateTime": "2021-09-08T08:03:03-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-09-08-donald-trump-will-call-evander-holyfield-vitor-belfort-fight-with-son-don-jr.md",
-      "title": "Donald Trump will call Evander Holyfield-Vitor Belfort fight with son Don Jr.",
-      "excerpt": "Former President Donald Trump and his son Donald Trump Jr. will provide commentary on a “gamecast” for Saturday’s pay-per-view boxing event led by the Evander Holyfield vs. Vitor",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/09/08/donald-trump-and-son-calling-belfort-holyfield-triller-fight/",
-      "originalUrl": "https://nypost.com/2021/09/08/donald-trump-and-son-calling-belfort-holyfield-triller-fight/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 112,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/09/08/donald-trump-and-son-calling-belfort-holyfield-triller-fight/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/09/08/donald-trump-and-son-calling-belfort-holyfield-triller-fight/amp/",
-      "publishedDateTime": "2021-09-08T07:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     }
   ],

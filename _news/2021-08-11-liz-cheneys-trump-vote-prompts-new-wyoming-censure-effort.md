@@ -75,6 +75,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Donald Trump endorses GOP challenger to Wyoming Rep. Liz Cheney"
+    excerpt: "Former President Donald Trump endorsed a Wyoming attorney on Thursday in his campaign to unseat U.S. Rep. Liz Cheney, one of his most vocal Republican critics."
+    publishedDateTime: 2021-09-10T01:36:00Z
+    webUrl: "https://www.spokesman.com/stories/2021/sep/09/donald-trump-endorses-gop-challenger-to-wyoming-re/"
+    ampWebUrl: "https://www.spokesman.com/stories/2021/sep/09/donald-trump-endorses-gop-challenger-to-wyoming-re/?amp-content=amp"
+    cdnAmpWebUrl: "https://www-spokesman-com.cdn.ampproject.org/c/s/www.spokesman.com/stories/2021/sep/09/donald-trump-endorses-gop-challenger-to-wyoming-re/?amp-content=amp"
+    type: article
+    provider:
+      name: The Spokesman-Review
+      domain: spokesman.com
+    quality: 75
+    images:
+      - url: "https://thumb.spokesman.com/PNYQwdIlYuZnFT3wrISlMMgzc20=/480x0/media.spokesman.com/photos/2021/09/02/61311cb765353.hires.jpg"
+        width: 480
+        height: 345
+        isCached: true
   - title: "Donald Trump Jr Reacts To Prince Harry Memoir Announcement, Gets Slammed On Twitter"
     excerpt: "Donald Trump Jr. seemingly threw shade at Prince Harry on Twitter following the announcement that the Duke of Sussex is publishing a memoir."
     publishedDateTime: 2021-07-24T10:35:00Z

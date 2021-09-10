@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-09-02-readers-react-why-are-pa-politicians-listening-to-trump.md",
+      "title": "Readers React: Why are Pa. politicians listening to Trump?",
+      "excerpt": "Reader: Instead of spending the money on alleged voter fraud, they should have hearings on senior citizens’ school tax relief.",
+      "sourceUrl": null,
+      "webUrl": "https://www.mcall.com/opinion/readers-react/mc-opi-let-strisofsky-election-investigation-20210902-w6cxkb77rfc6td3bf3gja4def4-story.html",
+      "originalUrl": "https://www.mcall.com/opinion/readers-react/mc-opi-let-strisofsky-election-investigation-20210902-w6cxkb77rfc6td3bf3gja4def4-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mcall.com/resizer/CN-Feg5tqnrPPvST2lo5Z57fxrQ=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/2PA43TU4FZERZHCE7GQB5D3JBU.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.mcall.com/opinion/readers-react/mc-opi-let-strisofsky-election-investigation-20210902-w6cxkb77rfc6td3bf3gja4def4-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-mcall-com.cdn.ampproject.org/c/s/www.mcall.com/opinion/readers-react/mc-opi-let-strisofsky-election-investigation-20210902-w6cxkb77rfc6td3bf3gja4def4-story.html?outputType=amp",
+      "publishedDateTime": "2021-09-02T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morning Call PA",
+        "domain": "mcall.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-09-02-things-are-not-working-well-for-the-trump-picked-pandemic-relief-watchdog.md",
       "title": "Things are 'not working well' for the Trump-picked pandemic relief watchdog",
       "excerpt": "\"Everybody kind of expects you to fail. It's kind of set up to fail,\" Brian Miller told Insider.",
@@ -1408,49 +1451,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-08-23-vos-to-keep-trump-updated-on-election-investigation.md",
-      "title": "Vos to keep Trump \"updated\" on election investigation",
-      "excerpt": "Assembly Speaker Robin Vos the said in a statement Saturday he is going to be keeping Trump “updated on our investigation,” the Journal Times reported. In a statement, Vos said: “It was an honor to be invited to travel by private plane with President Trump and top staff to attend his rally in Alabama.",
-      "sourceUrl": null,
-      "webUrl": "https://www.houstonchronicle.com/news/article/Vos-to-keep-Trump-updated-on-election-16404028.php",
-      "originalUrl": "https://www.houstonchronicle.com/news/article/Vos-to-keep-Trump-updated-on-election-16404028.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 360,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.houstonchronicle.com/news/amp/Vos-to-keep-Trump-updated-on-election-16404028.php",
-      "cdnAmpWebUrl": "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Vos-to-keep-Trump-updated-on-election-16404028.php",
-      "publishedDateTime": "2021-08-22T16:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Houston Chronicle",
-        "domain": "houstonchronicle.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/houstonchronicle.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

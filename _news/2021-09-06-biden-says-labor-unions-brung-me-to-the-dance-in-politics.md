@@ -31,19 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "Obama wades deeply into politics, backing Newsom and touting Biden's agenda"
-    excerpt: "Former President Barack Obama waded into the political arena Wednesday touting the work of the Biden administration and issuing support for California Gov. Gavin Newsom who is facing a recall effort."
-    publishedDateTime: 2021-09-09T01:37:50Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/oYQcpeBePoE/obama-wades-deeply-into-politics-backing-newsom-and-touting-bidens-agenda"
-    ampWebUrl: "https://www.foxnews.com/politics/obama-wades-deeply-into-politics-backing-newsom-and-touting-bidens-agenda.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/obama-wades-deeply-into-politics-backing-newsom-and-touting-bidens-agenda.amp"
+  - title: "Biden violating his campaign pledge, 'politicizing' DOJ to do his bidding, legal experts warn"
+    excerpt: "President Biden is facing harsh criticism from legal experts and elected officials for violating his campaign promise to keep the Department of Justice (DOJ) non-political, after he directed the department to pursue politically charged lawsuits against Republican-led states. "
+    publishedDateTime: 2021-09-09T19:00:07Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6R3wBpvOHIg/biden-violating-campaign-pledge-politicizing-doj-legal-experts-warn"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-violating-campaign-pledge-politicizing-doj-legal-experts-warn.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-violating-campaign-pledge-politicizing-doj-legal-experts-warn.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 173
+    quality: 164
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fc29a4a3-d7b1-45c6-aa23-5fc6d7001490/7bb93ae6-98f7-408f-b483-ee8f979cee82/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/773355cc-3390-4ef3-aeb3-ae51d2b15d77/6173b964-4039-423c-af31-5329957c652d/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
