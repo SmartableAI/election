@@ -2,6 +2,210 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-06-11-pence-to-headline-two-events-in-iowa-fueling-2024-run-speculation.md",
+      "title": "Pence to headline two events in Iowa, fueling 2024 run speculation",
+      "excerpt": "Former Vice President Mike Pence is set to headline two events next month in Iowa, the first state to host a primary for presidential elections, further fueling speculation that the former VP is mulling a run in 2024.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/HyFASMdOgAY/pence-iowa-2024-presidential-speculation",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/HyFASMdOgAY/pence-iowa-2024-presidential-speculation",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 205,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/720/405/pence.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/pence-iowa-2024-presidential-speculation.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-iowa-2024-presidential-speculation.amp",
+      "publishedDateTime": "2021-06-11T10:53:42-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-06-11-mike-pence-to-appear-at-feenstra-family-picnic-event-july-16-in-sioux-center.md",
+      "title": "Mike Pence to appear at 'Feenstra Family Picnic' event July 16 in Sioux Center",
+      "excerpt": "Former Vice President Mike Pence is headlining Rep. Randy Feenstra's inaugural \"Feenstra Family Picnic\" next month in Sioux Center.",
+      "sourceUrl": null,
+      "webUrl": "https://siouxcityjournal.com/news/local/govt-and-politics/mike-pence-to-appear-at-feenstra-family-picnic-event-july-16-in-sioux-center/article_c36c7e6a-bf76-56dd-a78d-6ce106eb5b69.html",
+      "originalUrl": "https://siouxcityjournal.com/news/local/govt-and-politics/mike-pence-to-appear-at-feenstra-family-picnic-event-july-16-in-sioux-center/article_c36c7e6a-bf76-56dd-a78d-6ce106eb5b69.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/siouxcityjournal.com/content/tncms/assets/v3/editorial/c/d2/cd22d76c-4c7a-5009-b490-301bdb2a3e7b/609d95791b0c9.image.jpg?resize=1024%2C476",
+          "width": 1024,
+          "height": 476,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://siouxcityjournal.com/news/local/govt-and-politics/mike-pence-to-appear-at-feenstra-family-picnic-event-july-16-in-sioux-center/article_c36c7e6a-bf76-56dd-a78d-6ce106eb5b69.amp.html",
+      "cdnAmpWebUrl": "https://siouxcityjournal-com.cdn.ampproject.org/c/s/siouxcityjournal.com/news/local/govt-and-politics/mike-pence-to-appear-at-feenstra-family-picnic-event-july-16-in-sioux-center/article_c36c7e6a-bf76-56dd-a78d-6ce106eb5b69.amp.html",
+      "publishedDateTime": "2021-06-11T09:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sioux City Journal",
+        "domain": "siouxcityjournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-06-11-pence-to-visit-iowa-to-headline-event-for-congressman.md",
+      "title": "Pence to visit Iowa to headline event for congressman",
+      "excerpt": "Former Vice President Mike Pence will headline a fundraiser next month for Rep. Randy Feenstra (R-Iowa), marking his third trip in recent weeks to an early primary state and fueling speculation about his 2024 plans.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/campaign/557995-pence-to-visit-iowa-to-headline-event-for-iowa-congressman",
+      "originalUrl": "https://thehill.com/homenews/campaign/557995-pence-to-visit-iowa-to-headline-event-for-iowa-congressman",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 245,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/pencemike_070820getty_lead.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/campaign/557995-pence-to-visit-iowa-to-headline-event-for-iowa-congressman?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/557995-pence-to-visit-iowa-to-headline-event-for-iowa-congressman?amp",
+      "publishedDateTime": "2021-06-11T08:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-06-11-how-mike-pences-new-carmel-home-compares-to-the-last-one-he-owned.md",
+      "title": "How Mike Pence's new Carmel home compares to the last one he owned",
+      "excerpt": "Former Vice President Mike Pence and his wife Karen have improved their position in life since they last owned a home in Indiana in 2013. The Pences bought a modest home in Columbus in 2001 for about $116,",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2021/06/11/mike-pence-house-carmel-indiana/7633750002/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/06/11/mike-pence-house-carmel-indiana/7633750002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 205,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/01/20/PIND/9de87950-7812-481d-bbbd-87bec24d0513-01202021_Pence_GH_030.jpg?auto=webp&crop=2804,1578,x0,y334&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/7633750002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7633750002",
+      "publishedDateTime": "2021-06-11T02:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-06-11-mike-pence-buys-19m-indiana-home-packed-with-amenities.md",
       "title": "Mike Pence buys $1.9M Indiana home packed with amenities",
       "excerpt": "The former Vice President and his wife Karen, have put their Washington D.C. days behind them and are now living in a $1.93 million Indiana home they purchased last month.",
@@ -1341,220 +1545,6 @@
       "topics": [
         "Election",
         "Republican Voice",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-04-29-pence-makes-foray-back-into-political-debate-with-speech-to-sc-conservatives.md",
-      "title": "Pence makes foray back into political debate with speech to S.C. conservatives",
-      "excerpt": "The former vice president is going to a key presidential nominating state to launch his critique of Biden's first 100 days.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/politics-news/pence-makes-foray-back-political-debate-speech-s-c-conservatives-n1265850",
-      "originalUrl": "https://www.nbcnews.com/politics/politics-news/pence-makes-foray-back-political-debate-speech-s-c-conservatives-n1265850",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media1.s-nbcnews.com/i/newscms/2021_17/3468965/210429-mike-pence-se-1054a_1b399ede109376b37a55904d2d142da3.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1265850",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1265850",
-      "publishedDateTime": "2021-04-29T08:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-29-uproar-over-mike-pences-memoir-highlights-growing-conflicts-in-publishing-experts-say.md",
-      "title": "Uproar over Mike Pence's memoir highlights growing conflicts in publishing, experts say",
-      "excerpt": "When the publishing giant Simon & Schuster recently announced it would release former Vice President Mike Pence’s autobiography, the decision evidently infuriated rank-and-file workers, who reportedly submitted a petition demanding the company stop ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/news/all/uproar-over-mike-pence-s-memoir-highlights-growing-conflicts-publishing-n1265701",
-      "originalUrl": "https://www.nbcnews.com/news/all/uproar-over-mike-pence-s-memoir-highlights-growing-conflicts-publishing-n1265701",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media4.s-nbcnews.com/j/newscms/2021_17/3468650/210428-simon-schuster-mb-1717_c6b9bc93a2aac6fdf2390d90c8652b4d.fit-1240w.jpg",
-          "width": 1240,
-          "height": 827,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1265701",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1265701",
-      "publishedDateTime": "2021-04-28T12:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-22-pence-hits-dems-over-border-crisis-touts-trumps-success-stemming-illegal-immigration.md",
-      "title": "Pence hits Dems over border crisis, touts Trump's success stemming illegal immigration",
-      "excerpt": "Former Vice President Mike Pence on Wednesday hit President Biden and Democrats for the escalating crisis at the southern border, while touting the Trump administration’s reduction of illegal immigration -- saying Biden inherited \"the most secure southern border in American history.\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_Ko9a3YWaqg/pence-hits-dems-over-border-crisis-trumps-illegal-immigration",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_Ko9a3YWaqg/pence-hits-dems-over-border-crisis-trumps-illegal-immigration",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 332,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3187e410-9dfa-479b-8233-dd28b7f7ebfd/674047aa-8ec5-40b0-b2b4-9cfb44aac92f/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/pence-hits-dems-over-border-crisis-trumps-illegal-immigration.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-hits-dems-over-border-crisis-trumps-illegal-immigration.amp",
-      "publishedDateTime": "2021-04-22T14:40:10-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-04-23-mike-pence-worst-border-policy-in-history.md",
-      "title": "Mike Pence: 'Worst border policy in history'",
-      "excerpt": "The situation is more than complex on the southern border these days. U.S. Customs and Border Protection offers this update:",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtontimes.com/news/2021/apr/22/inside-the-beltway-mike-pence-worst-border-policy-/",
-      "originalUrl": "https://www.washingtontimes.com/news/2021/apr/22/inside-the-beltway-mike-pence-worst-border-policy-/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://twt-thumbs.washtimes.com/media/image/2021/04/22/4_222021_beltway-border-agen8202_c0-161-3000-1911_s1200x700.jpg?ce8ba673cd04f4ec823de30e08101336c565f046",
-          "width": 1200,
-          "height": 700,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.washingtontimes.com/news/2021/apr/22/inside-the-beltway-mike-pence-worst-border-policy-/",
-      "cdnAmpWebUrl": "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/apr/22/inside-the-beltway-mike-pence-worst-border-policy-/",
-      "publishedDateTime": "2021-04-22T14:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Times",
-        "domain": "washingtontimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Mike Pence"
       ]
     }

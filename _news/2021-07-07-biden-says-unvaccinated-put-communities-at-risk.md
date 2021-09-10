@@ -137,6 +137,20 @@ related:
         width: 1400
         height: 924
         isCached: true
+  - title: "Joe Biden’s war on virus becomes war on unvaccinated"
+    excerpt: "President Joe Biden is trying to concentrate the anger of the nation’s inoculated majority against the stubborn 25% of eligible Americans who remain unvaccinated against COVID-19. Nearly 8 months after declaring “war” on the coronavirus as he took office,"
+    publishedDateTime: 2021-09-10T13:55:00Z
+    webUrl: "https://floridapolitics.com/archives/456570-joe-bidens-war-on-virus-becomes-war-on-unvaccinated/"
+    type: article
+    provider:
+      name: Florida Politics
+      domain: floridapolitics.com
+    quality: 55
+    images:
+      - url: "https://floridapolitics.com/wp-content/uploads/2021/08/1000-47.jpeg"
+        width: 1000
+        height: 666
+        isCached: true
   - title: "User Clip: Joe Biden Warns of Hospital Bed Shortage Due to Unvaccinated"
     excerpt: "Joe Biden Warns of Hospital Bed Shortage Due to Unvaccinated"
     publishedDateTime: 2021-07-29T00:00:00Z

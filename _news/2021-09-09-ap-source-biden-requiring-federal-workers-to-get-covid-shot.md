@@ -43,22 +43,6 @@ related:
         width: 2500
         height: 1664
         isCached: true
-  - title: "Joe Biden Promised to 'Defeat the Lies.' Then His Presidency Hit a Crisis"
-    excerpt: "President Joe Biden pointedly advocated truth-telling in his inaugural address, in a tacit rebuke of Donald Trump's loose relationship with facts. But a few months on, the crises posed by the U.S. withdrawal from Afghanistan have tested Biden's commitment to truth."
-    publishedDateTime: 2021-09-09T14:10:00Z
-    webUrl: "https://www.newsweek.com/joe-biden-defeat-lies-presidency-crisis-1627349"
-    ampWebUrl: "https://www.newsweek.com/joe-biden-defeat-lies-presidency-crisis-1627349?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-defeat-lies-presidency-crisis-1627349?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 124
-    images:
-      - url: "https://d.newsweek.com/en/full/1890536/biden-delivers-speech-state-dining-room.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
   - title: "Biden, Dems push Civilian Climate Corps in echo of New Deal"
     excerpt: "Inspired by the New Deal-era Civilian Conservation Corps, President Joe Biden and congressional Democrats are pushing for a modern counterpart: a Civilian Climate Corps that would create hundreds of thousands of jobs building trails,"
     publishedDateTime: 2021-09-09T07:25:00Z

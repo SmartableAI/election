@@ -2,6 +2,654 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-09-04-biden-to-travel-to-new-york-pennsylvania-and-virginia-to-mark-20th-anniversary-of-the-911-terrorist-attacks.md",
+      "title": "Biden to travel to New York, Pennsylvania, and Virginia to mark 20th anniversary of the 9/11 terrorist attacks",
+      "excerpt": "President Joe Biden and first lady Jill Biden will travel to all three sites of the 9/11 terrorist attacks next Saturday, marking the 20th anniversary of the deadly day, the White House said in a statement Saturday.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Mi-4UXboviE/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Mi-4UXboviE/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200911154718-03-joe-biden-0911-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/09/04/politics/biden-september-11-new-york-pennsylvania-pentagon/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/09/04/politics/biden-september-11-new-york-pennsylvania-pentagon/index.html",
+      "publishedDateTime": "2021-09-04T13:13:18-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-09-04-kamala-harris-to-campaign-with-gavin-newsom-in-final-stretch-before-california-recall-election.md",
+      "title": "Kamala Harris to campaign with Gavin Newsom in final stretch before California recall election ",
+      "excerpt": "Vice President Kamala Harris will campaign with California Gov. Gavin Newsom in the Bay Area Wednesday, according to a source familiar with the plans.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/u50-p3TkL_Q/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/u50-p3TkL_Q/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 248,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210604162206-01-kamala-harris-0602-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/09/04/politics/kamala-harris-gavin-newsom-california-recall/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/09/04/politics/kamala-harris-gavin-newsom-california-recall/index.html",
+      "publishedDateTime": "2021-09-04T11:18:27-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-09-04-bidens-tree-of-life-synagogue-claim-not-true-white-house-admits.md",
+      "title": "Biden’s Tree of Life synagogue claim not true, White House admits",
+      "excerpt": "President Biden did not visit the Tree of Life synagogue in Pittsburgh after the murder of 11 congregants — despite saying so, the White House admitted Friday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/EIGsUiTg1tc/bidens-tree-of-life-synagogue-claim-not-true-white-house-admits",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/EIGsUiTg1tc/bidens-tree-of-life-synagogue-claim-not-true-white-house-admits",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 315,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e7180b1e-c25c-4cc7-bfe5-6d71b1c14191/585fce97-a0df-484d-a52d-153985306af5/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/bidens-tree-of-life-synagogue-claim-not-true-white-house-admits.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-tree-of-life-synagogue-claim-not-true-white-house-admits.amp",
+      "publishedDateTime": "2021-09-03T19:12:29-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-09-04-biden-administrations-sept-20-booster-rollout-may-be-scaled-back-to-just-pfizer-covid-19-vaccine-at-first.md",
+      "title": "Biden administration's Sept. 20 booster rollout may be scaled back to just Pfizer Covid-19 vaccine at first",
+      "excerpt": "There have been internal conversations within the Biden administration about scaling back the ambitious booster plan laid out by top federal health officials last month as the calendar nears September 20, the date when booster shots may start to be offered.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/v_ruVvucPlQ/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/v_ruVvucPlQ/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210827142807-booster-shot-michican-0824-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/09/03/politics/booster-shots-covid-19-vaccines/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/09/03/politics/booster-shots-covid-19-vaccines/index.html",
+      "publishedDateTime": "2021-09-03T18:48:48-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-09-04-joe-biden-walks-storm-ravaged-louisiana-i-know-youre-hurting.md",
+      "title": "Joe Biden walks storm-ravaged Louisiana: “I know you’re hurting”",
+      "excerpt": "Less than a week after Hurricane Ida battered the Gulf Coast, President Joe Biden walked the streets of a hardhit Louisiana neighborhood on Friday and told local residents, “I know you’re hurting, I know you’re hurting.",
+      "sourceUrl": null,
+      "webUrl": "https://www.denverpost.com/2021/09/03/joe-biden-walks-storm-ravaged-louisiana/",
+      "originalUrl": "https://www.denverpost.com/2021/09/03/joe-biden-walks-storm-ravaged-louisiana/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.denverpost.com/wp-content/uploads/2021/09/AP21246697540433.jpg?w=1024&#038;h=683",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.denverpost.com/2021/09/03/joe-biden-walks-storm-ravaged-louisiana/amp/",
+      "cdnAmpWebUrl": "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2021/09/03/joe-biden-walks-storm-ravaged-louisiana/amp/",
+      "publishedDateTime": "2021-09-03T16:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Denver Post",
+        "domain": "denverpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-09-03-fact-check-biden-spoke-to-tree-of-life-rabbi-but-his-claim-about-visiting-the-synagogue-is-false.md",
+      "title": "Fact check: Biden spoke to Tree of Life rabbi, but his claim about visiting the synagogue is false",
+      "excerpt": "In public remarks on Thursday to Jewish leaders in advance of the High Holy Days, President Joe Biden spoke at length about the \"scourge of anti-Semitism.\"\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wJHChd1bj9Q/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wJHChd1bj9Q/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 201,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210903185334-biden-jewish-holiday-call-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/09/03/politics/fact-check-biden-tree-of-life-synagogue-visit/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/09/03/politics/fact-check-biden-tree-of-life-synagogue-visit/index.html",
+      "publishedDateTime": "2021-09-03T16:11:41-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-09-04-former-nyt-reporter-describes-secretive-industry-of-corporate-investigations-that-targeted-pharma-trump.md",
+      "title": "Former NYT reporter describes secretive 'industry' of 'corporate investigations' that targeted, pharma, Trump",
+      "excerpt": "Retired New York Times reporter Barry Meier joined Fox Nation's \"Tucker Carlson Today\" to discuss the impact corporate investigation firms have had on politics and business.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/new-york-times-reporter-corporate-investigations",
+      "originalUrl": "https://www.foxnews.com/media/new-york-times-reporter-corporate-investigations",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/289a68a9-fdb9-4ba9-a13c-16c645abc90c/3c115f48-a95c-4dd3-8d11-af777265cdf2/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/new-york-times-reporter-corporate-investigations.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/new-york-times-reporter-corporate-investigations.amp",
+      "publishedDateTime": "2021-09-03T15:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-09-03-blinken-blames-trump-admin-siv-backlog-for-failure-to-get-afghan-allies-out-of-the-country.md",
+      "title": "Blinken blames Trump admin SIV backlog for failure to get Afghan allies out of the country",
+      "excerpt": "Secretary of State Antony Blinken on Friday said the “backlog” of Special Immigrant Visas (SIVs) that accumulated under the Trump administration is the reason why Afghan allies remain in the now-Taliban-controlled nation.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/sKvLULt71-c/blinken-blames-trump-admin-siv-backlog-for-failure-to-get-afghan-allies-out-of-the-country",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/sKvLULt71-c/blinken-blames-trump-admin-siv-backlog-for-failure-to-get-afghan-allies-out-of-the-country",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e7180b1e-c25c-4cc7-bfe5-6d71b1c14191/585fce97-a0df-484d-a52d-153985306af5/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/blinken-blames-trump-admin-siv-backlog-for-failure-to-get-afghan-allies-out-of-the-country.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/blinken-blames-trump-admin-siv-backlog-for-failure-to-get-afghan-allies-out-of-the-country.amp",
+      "publishedDateTime": "2021-09-03T14:26:17-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-09-03-biden-orders-a-declassification-review-of-documents-related-to-september-11-attacks.md",
+      "title": "Biden orders a declassification review of documents related to September 11 attacks",
+      "excerpt": "President Joe Biden on Friday signed an executive order directing the Department of Justice and other federal agencies to conduct a declassification review related to the FBI's investigation of the September 11, 2001, terrorist attacks.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/kbaYPcfCT9U/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/kbaYPcfCT9U/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 189,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210903110443-01-biden-jobs-report-0903-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/09/03/politics/september-11-documents-classified-review-executive-order/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/09/03/politics/september-11-documents-classified-review-executive-order/index.html",
+      "publishedDateTime": "2021-09-03T12:57:26-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-09-03-biden-taps-former-delaware-governor-to-lead-afghan-resettlement-efforts-in-us.md",
+      "title": "Biden taps former Delaware governor to lead Afghan resettlement efforts in US",
+      "excerpt": "President Joe Biden has tapped former Delaware Gov. Jack Markell as the temporary point person who will oversee the administration's Afghan evacuee resettlement effort in the United States, the White House announced Friday.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/kbRofWuQcvY/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/kbRofWuQcvY/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 172,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/151110132758-jack-markell-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/09/03/politics/jack-markell-afghan-resettlement/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/09/03/politics/jack-markell-afghan-resettlement/index.html",
+      "publishedDateTime": "2021-09-03T12:41:46-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-09-03-trump-administration-deliberately-slowed-entry-of-afghan-allies.md",
+      "title": "Trump administration deliberately slowed entry of Afghan allies",
+      "excerpt": "Stephen Miller seemed floored by the idea, raised during a fall Cabinet meeting in 2018, of  keeping open the doors for Afghan allies and other Middle East refugees to enter the US. \n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/d_gDGsC3zTw/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/d_gDGsC3zTw/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 295,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/191213122539-stephen-miller-white-house-file-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/09/03/politics/trump-adviser-stephen-miller-afghan-allies-us-entry/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/09/03/politics/trump-adviser-stephen-miller-afghan-allies-us-entry/index.html",
+      "publishedDateTime": "2021-09-03T10:54:32-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-09-03-kamala-harris-early-years-at-school-through-the-other-girl-on-the-bus.md",
+      "title": "Kamala Harris’ Early Years At School Through ‘The Other Girl on The Bus’",
+      "excerpt": "Carole Porter, a childhood friend of US VP Kamala Harris, talks about her memories of being bussed to school. Carole Porter lived in a little yellow house, a few doors from Kamala Harris who lived in a duplex on Bancroft street,",
+      "sourceUrl": null,
+      "webUrl": "https://www.thequint.com/us-nri-news/kamala-harris-bussed-to-school-memories-childhood-friend-carole-porter-interview",
+      "originalUrl": "https://www.thequint.com/us-nri-news/kamala-harris-bussed-to-school-memories-childhood-friend-carole-porter-interview",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.thequint.com/thequint%2F2021-09%2F903e773a-9a8d-4c07-b285-16608faa1cdf%2F16.jpeg",
+          "width": 1280,
+          "height": 719,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thequint.com/amp/story/us-nri-news/kamala-harris-bussed-to-school-memories-childhood-friend-carole-porter-interview",
+      "cdnAmpWebUrl": "https://www-thequint-com.cdn.ampproject.org/c/s/www.thequint.com/amp/story/us-nri-news/kamala-harris-bussed-to-school-memories-childhood-friend-carole-porter-interview",
+      "publishedDateTime": "2021-09-03T09:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Quint",
+        "domain": "thequint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-09-03-biden-says-texas-anti-abortion-law-is-almost-un-american-and-sort-of-creates-a-vigilante-system.md",
       "title": "Biden says Texas' anti-abortion law is 'almost un-American' and 'sort of creates a vigilante system'",
       "excerpt": "President Joe Biden said Friday the Texas state law that bans abortion after as early as six weeks into pregnancy is \"almost un-American,\" pointing specifically to a provision allowing individuals to take civil action against people who help a woman get an abortion.\n    \n",
@@ -208,7 +856,7 @@
       "originalUrl": "https://www.cnbc.com/2021/09/03/trump-should-not-lead-gop-ticket-in-2024-retiring-sen-pat-toomey-says.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 485,
+      "heat": 505,
       "tags": null,
       "images": [
         {
@@ -553,7 +1201,7 @@
       "originalUrl": "https://www.cbsnews.com/video/senator-joe-manchin-calls-for-pause-on-bidens-3-trillion-plan/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 385,
+      "heat": 465,
       "tags": null,
       "images": [
         {
@@ -637,650 +1285,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-09-02-manchin-upends-democrats-push-to-enact-bidens-agenda-this-month-calling-for-pause-on-35-trillion-bill.md",
-      "title": "Manchin upends Democrats' push to enact Biden's agenda this month, calling for 'pause' on $3.5 trillion bill",
-      "excerpt": "Sen. Joe Manchin, the most pivotal Democratic swing vote in the Senate, threw a major wrench in his party's carefully crafted plans to pass a massive $3.5 trillion bill by month's end, demanding they take a \"strategic pause\" before considering a sweeping bill to implement much of President Joe Biden's",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rdusILXJWcE/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rdusILXJWcE/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210620115759-joe-manchin-06-10-2021-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/09/02/politics/joe-manchin-reconciliation-pause/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/09/02/politics/joe-manchin-reconciliation-pause/index.html",
-      "publishedDateTime": "2021-09-02T13:25:13-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-09-03-joe-biden-tells-federal-agencies-to-insulate-women-and-providers-from-texas-abortion-law.md",
-      "title": "Joe Biden Tells Federal Agencies to 'Insulate Women and Providers' From Texas Abortion Law",
-      "excerpt": "The Supreme Court voted 5-4 in the middle of the night to deny an emergency appeal from abortion providers aimed at blocking the Texas law from taking effect.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/joe-biden-tells-federal-agencies-insulate-women-providers-texas-abortion-law-1625552",
-      "originalUrl": "https://www.newsweek.com/joe-biden-tells-federal-agencies-insulate-women-providers-texas-abortion-law-1625552",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1886367/supreme-court-denies-emergency-appeal.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/joe-biden-tells-federal-agencies-insulate-women-providers-texas-abortion-law-1625552?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-tells-federal-agencies-insulate-women-providers-texas-abortion-law-1625552?amp=1",
-      "publishedDateTime": "2021-09-02T10:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-09-03-lawyer-for-trump-ally-tom-barrack-pushes-prosecutors-for-evidence-in-united-arab-emirates-lobby-case.md",
-      "title": "Lawyer for Trump ally Tom Barrack pushes prosecutors for evidence in United Arab Emirates lobby case",
-      "excerpt": "Tom Barrack, a private equity investor and close friend of ex-President Donald Trump, is accused of advancing the interests of the United Arab Emirates.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2021/09/02/trump-ally-tom-barrack-in-court-on-uae-lobbying-case.html",
-      "originalUrl": "https://www.cnbc.com/2021/09/02/trump-ally-tom-barrack-in-court-on-uae-lobbying-case.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 130,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106916020-1627047142866-tom.jpg?v=1630591233",
-          "width": 2686,
-          "height": 1790,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2021/09/02/trump-ally-tom-barrack-in-court-on-uae-lobbying-case.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/09/02/trump-ally-tom-barrack-in-court-on-uae-lobbying-case.html",
-      "publishedDateTime": "2021-09-02T10:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-09-02-biden-helps-secure-tajikistans-border-amid-us-border-crisis.md",
-      "title": "Biden helps secure Tajikistan’s border amid US border crisis",
-      "excerpt": "The United States is helping Tajikistan secure a portion of its border with Afghanistan to help combat security threats in the region, despite the ongoing crisis at the U.S. border.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/GCeTB-W6StQ/biden-secure-tajikistans-border-us-crisis",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/GCeTB-W6StQ/biden-secure-tajikistans-border-us-crisis",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 435,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2dd2cd3e-37db-4527-a410-18c2cb90ae1e/c5e78bb9-d1d4-4a01-9c74-4ef1265d20f0/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-secure-tajikistans-border-us-crisis.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-secure-tajikistans-border-us-crisis.amp",
-      "publishedDateTime": "2021-09-02T08:49:14-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-09-02-arizonas-ag-rebuffs-biden-does-mask-probe-wont-tolerate-efforts-to-undermine-state-sovereignty.md",
-      "title": "Arizona's AG rebuffs Biden DOE's mask probe: Won't 'tolerate' efforts to undermine state sovereignty",
-      "excerpt": "Arizona Attorney General Mark Brnovich forcefully responded to the Department of Education (DOE) Tuesday, telling Secretary Miguel Cardona he won't \"tolerate\" any federal overreach through the administration's masking investigation.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4rDsk1S8Fuc/arizona-ag-biden-education-department-mask-probe",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4rDsk1S8Fuc/arizona-ag-biden-education-department-mask-probe",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 160,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/815ebb23-2591-43ee-bb90-9859e5077048/22efde18-2edf-4c8b-95a1-a7c817978585/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/arizona-ag-biden-education-department-mask-probe.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/arizona-ag-biden-education-department-mask-probe.amp",
-      "publishedDateTime": "2021-09-02T07:40:54-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-09-02-readers-react-why-are-pa-politicians-listening-to-trump.md",
-      "title": "Readers React: Why are Pa. politicians listening to Trump?",
-      "excerpt": "Reader: Instead of spending the money on alleged voter fraud, they should have hearings on senior citizens’ school tax relief.",
-      "sourceUrl": null,
-      "webUrl": "https://www.mcall.com/opinion/readers-react/mc-opi-let-strisofsky-election-investigation-20210902-w6cxkb77rfc6td3bf3gja4def4-story.html",
-      "originalUrl": "https://www.mcall.com/opinion/readers-react/mc-opi-let-strisofsky-election-investigation-20210902-w6cxkb77rfc6td3bf3gja4def4-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mcall.com/resizer/CN-Feg5tqnrPPvST2lo5Z57fxrQ=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/2PA43TU4FZERZHCE7GQB5D3JBU.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.mcall.com/opinion/readers-react/mc-opi-let-strisofsky-election-investigation-20210902-w6cxkb77rfc6td3bf3gja4def4-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-mcall-com.cdn.ampproject.org/c/s/www.mcall.com/opinion/readers-react/mc-opi-let-strisofsky-election-investigation-20210902-w6cxkb77rfc6td3bf3gja4def4-story.html?outputType=amp",
-      "publishedDateTime": "2021-09-02T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morning Call PA",
-        "domain": "mcall.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-09-02-biden-to-visit-hurricane-ida-devastation-in-louisiana-on-friday.md",
-      "title": "Biden to visit Hurricane Ida devastation in Louisiana on Friday",
-      "excerpt": "President Biden on Friday will tour the devastation left by Hurricane Ida when it slammed into Louisiana last weekend as a Category 4 storm. He also plans to deliver a speech Thursday outlining the administration’s response plan. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zK4vg3w057I/biden-hurricane-ida-devastation-louisiana-friday",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zK4vg3w057I/biden-hurricane-ida-devastation-louisiana-friday",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 355,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/83fc7f92-2bea-40fd-b69d-16e6093d0fa7/3483f11e-f6d4-4d0b-a4d2-e308c79930a8/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-hurricane-ida-devastation-louisiana-friday.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-hurricane-ida-devastation-louisiana-friday.amp",
-      "publishedDateTime": "2021-09-02T03:23:22-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-09-02-things-are-not-working-well-for-the-trump-picked-pandemic-relief-watchdog.md",
-      "title": "Things are 'not working well' for the Trump-picked pandemic relief watchdog",
-      "excerpt": "\"Everybody kind of expects you to fail. It's kind of set up to fail,\" Brian Miller told Insider.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/covid-19-pandemic-watchdog-cares-act-inspector-general-congress-2021-9",
-      "originalUrl": "https://www.businessinsider.com/covid-19-pandemic-watchdog-cares-act-inspector-general-congress-2021-9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/61300c8c9ef1e50018f952c3?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-02T01:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-09-02-will-cain-kamala-harris-used-on-biden-ticket-been-mia-ever-since.md",
-      "title": "Will Cain: Kamala Harris ‘used’ on Biden ticket, been MIA ever since",
-      "excerpt": "\"The Five\" speculates about Kamala Harris' whereabouts, with co-host Will Cain predicting she will re-emerge from hiding when she's ready to face the fact that she was used for votes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/will-cain-kamala-harris-biden-ticket-mia-since",
-      "originalUrl": "https://www.foxnews.com/media/will-cain-kamala-harris-biden-ticket-mia-since",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 190,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6972f609-5acf-4822-97fb-0148775f443c/f75c6322-2b94-4ce0-90a6-cd48f6631868/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/will-cain-kamala-harris-biden-ticket-mia-since.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/will-cain-kamala-harris-biden-ticket-mia-since.amp",
-      "publishedDateTime": "2021-09-01T19:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-09-02-florida-restaurant-owner-posts-sign-telling-biden-supporters-to-take-business-elsewhere.md",
-      "title": "Florida restaurant owner posts sign telling Biden supporters to 'take business elsewhere'",
-      "excerpt": "A Florida restaurant raised eyebrows after posting a sign outsider the front door telling Biden supporters to dine elsewhere citing his recent handling of the American military withdrawal from Afghanistan.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/wrTdQn23Icw/florida-restaurant-owner-posts-sign-telling-biden-supports-to-take-business-elsewhere",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/wrTdQn23Icw/florida-restaurant-owner-posts-sign-telling-biden-supports-to-take-business-elsewhere",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 166,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dc72ea68-4167-41c2-8ad5-9f3aea6239a7/914977d0-3a4a-4385-8d30-416fec15aa84/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/florida-restaurant-owner-posts-sign-telling-biden-supports-to-take-business-elsewhere.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/florida-restaurant-owner-posts-sign-telling-biden-supports-to-take-business-elsewhere.amp",
-      "publishedDateTime": "2021-09-01T18:03:58-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-09-02-michigan-man-held-in-bomb-hoax-at-trump-hotel-in-las-vegas.md",
-      "title": "Michigan man held in bomb hoax at Trump hotel in Las Vegas",
-      "excerpt": "An arrest report says a 44-year-old Michigan man accused of creating a bomb hoax at the Trump International Hotel in Las Vegas told investigators he wanted to send a message that former Republican Pre",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/US/wireStory/michigan-man-held-bomb-hoax-trump-hotel-las-79778041",
-      "originalUrl": "https://abcnews.go.com/US/wireStory/michigan-man-held-bomb-hoax-trump-hotel-las-79778041",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 285,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/US/210901_vod_onlocationPM_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/US/wireStory/michigan-man-held-bomb-hoax-trump-hotel-las-79778041",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/michigan-man-held-bomb-hoax-trump-hotel-las-79778041",
-      "publishedDateTime": "2021-09-01T17:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-09-01-another-trump-organization-executive-to-appear-before-ny-grand-jury-as-prosecutors-probe-former-presidents-business.md",
-      "title": "Another Trump Organization executive to appear before NY grand jury as prosecutors probe former President's business",
-      "excerpt": "The Trump Organization's corporate director of security is expected to appear before a grand jury on Thursday in Manhattan, where prosecutors are investigating former President Donald Trump's business, according to a person familiar with the matter.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KfdHZFEyQHw/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KfdHZFEyQHw/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 172,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210519090310-02-trump-tower-nyc-file-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/09/01/politics/trump-organization-grand-jury-matthew-calamari-jr/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/09/01/politics/trump-organization-grand-jury-matthew-calamari-jr/index.html",
-      "publishedDateTime": "2021-09-01T16:19:10-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

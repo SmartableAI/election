@@ -2,6 +2,662 @@
   "page": 44,
   "value": [
     {
+      "path": "_news/2021-06-11-undoing-trump-rule-wont-likely-affect-okefenokee-mine-plan.md",
+      "title": "Undoing Trump rule won't likely affect Okefenokee mine plan",
+      "excerpt": "The Biden administration's plan to revive protections for some wetlands and streams that got eliminated during Donald Trump's presidency isn't likely to restore federal oversight of a proposed mine ou",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/US/wireStory/undoing-trump-rule-affect-okefenokee-mine-plan-78203895",
+      "originalUrl": "https://abcnews.go.com/US/wireStory/undoing-trump-rule-affect-okefenokee-mine-plan-78203895",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/US/WireAP_81249ad3817843fcbae119288992a38c_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/US/wireStory/undoing-trump-rule-affect-okefenokee-mine-plan-78203895",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/undoing-trump-rule-affect-okefenokee-mine-plan-78203895",
+      "publishedDateTime": "2021-06-10T11:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-06-11-democrat-henry-cuellar-slams-bidens-handling-of-border-crisis-doing-a-staged-visit-is-not-enough.md",
+      "title": "Democrat Henry Cuellar slams Biden's handling of border crisis: 'Doing a staged visit is not enough'",
+      "excerpt": "Texas, slammed the Biden administration's handling of the border crisis Thursday, stressing the need to address its policies encouraging migrants to make the dangerous journey to the U.S.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/democrat-henry-cuellar-biden-border-crisis-staged-visit",
+      "originalUrl": "https://www.foxnews.com/media/democrat-henry-cuellar-biden-border-crisis-staged-visit",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 140,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4bf61830-4f75-4877-864b-4116fb9b8d17/5d131eef-3cf1-4b0d-b039-63f0f9bfb200/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/democrat-henry-cuellar-biden-border-crisis-staged-visit.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/democrat-henry-cuellar-biden-border-crisis-staged-visit.amp",
+      "publishedDateTime": "2021-06-10T11:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-10-biden-johnson-sign-revitalized-atlantic-charter-reaffirming-commitment-to-global-challenges.md",
+      "title": "Biden, Johnson sign 'revitalized' Atlantic Charter, reaffirming commitment to global challenges",
+      "excerpt": "President Biden and British Prime Minister Boris Johnson on Thursday signed a \"revitalized\" Atlantic Charter reaffirming their commitment to work together to counter the efforts of those who seek to undermine democratic alliances and institutions.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/TaJyIFTn7Fg/biden-johnson-sign-revitalized-atlantic-charter",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/TaJyIFTn7Fg/biden-johnson-sign-revitalized-atlantic-charter",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 163,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-johnson-sign-revitalized-atlantic-charter.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-johnson-sign-revitalized-atlantic-charter.amp",
+      "publishedDateTime": "2021-06-10T10:23:02-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-10-pence-eyes-his-political-future-as-he-tries-to-make-peace-with-trump.md",
+      "title": "Pence eyes his political future as he tries to make peace with Trump ",
+      "excerpt": "Six months after their relationship deteriorated in the midst of an insurrection at the US Capitol, Donald Trump and Mike Pence appear to be on the mend.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/p7SMu5iPngk/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/p7SMu5iPngk/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 700,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210604131734-02-pence-nh-speech-0603-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/10/politics/pence-trump-political-future/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/10/politics/pence-trump-political-future/index.html",
+      "publishedDateTime": "2021-06-10T10:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-06-10-trump-appointed-ambassador-to-brazil-resigns-after-14-months.md",
+      "title": "Trump-appointed ambassador to Brazil resigns after 14 months",
+      "excerpt": "The U.S. ambassador to Brazil, Todd Chapman, has resigned after just over a year in the position and is leaving the diplomatic service",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/International/wireStory/trump-appointed-ambassador-brazil-resigns-14-months-78199990",
+      "originalUrl": "https://abcnews.go.com/International/wireStory/trump-appointed-ambassador-brazil-resigns-14-months-78199990",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/International/WireAP_0b2b40dc82b94649b8e89b979f141b51_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-10T09:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-06-10-piers-morgan-writes-10-point-memo-to-joe-biden-ahead-of-g7.md",
+      "title": "Piers Morgan Writes '10-Point Memo' to Joe Biden Ahead of G7",
+      "excerpt": "The British journalist has advised the president to \"grovel\" to Queen Elizabeth II and not mention Meghan and Harry.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/piers-morgan-writes-10-point-memo-joe-biden-ahead-g7-1599363",
+      "originalUrl": "https://www.newsweek.com/piers-morgan-writes-10-point-memo-joe-biden-ahead-g7-1599363",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1817632/joe-biden-arrives-uk.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/piers-morgan-writes-10-point-memo-joe-biden-ahead-g7-1599363?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/piers-morgan-writes-10-point-memo-joe-biden-ahead-g7-1599363?amp=1",
+      "publishedDateTime": "2021-06-10T08:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-06-10-rep-smith-challenges-biden-budget-director-on-absolutely-absurd-use-of-term-birthing-people.md",
+      "title": "Rep. Smith challenges Biden budget director on 'absolutely absurd' use of term ‘birthing people’",
+      "excerpt": "Mo., on Thursday ripped President Biden’s acting Office of Management and Budget director for defending the move to replace the term woman with “birthing people” during a House hearing yesterday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/biden-budget-birthing-people-woman-jason-smith-hearing",
+      "originalUrl": "https://www.foxnews.com/media/biden-budget-birthing-people-woman-jason-smith-hearing",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/biden-budget-birthing-people-woman-jason-smith-hearing.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/biden-budget-birthing-people-woman-jason-smith-hearing.amp",
+      "publishedDateTime": "2021-06-10T07:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-10-polls-us-image-abroad-has-rebounded-since-biden-took-office.md",
+      "title": "Polls: US image abroad has rebounded since Biden took office",
+      "excerpt": "The United States’ image around the world has improved sharply since President Joe Biden took office The United States' image around the world has improved sharply since President Joe Biden took office,",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/polls-us-image-abroad-rebounded-biden-office-78195103",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/polls-us-image-abroad-rebounded-biden-office-78195103",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 345,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/WireAP_3091bf6a667b4bd684841cf02e7e4ce7_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/polls-us-image-abroad-rebounded-biden-office-78195103",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/polls-us-image-abroad-rebounded-biden-office-78195103",
+      "publishedDateTime": "2021-06-10T06:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-06-10-brexit-trouble-overshadows-biden-and-johnsons-first-meeting.md",
+      "title": "Brexit trouble overshadows Biden and Johnson's first meeting",
+      "excerpt": "Boris Johnson's star turn on the world stage has already been undermined by his previous greatest accomplishment: Brexit.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tWkANR1xQyo/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tWkANR1xQyo/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 515,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210609155509-joe-biden-boris-johnson-split-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/10/uk/joe-biden-boris-johnson-brexit-northern-ireland-intl/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/10/uk/joe-biden-boris-johnson-brexit-northern-ireland-intl/index.html",
+      "publishedDateTime": "2021-06-10T04:52:45-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-10-boris-and-biden-a-diplomatic-odd-couple-faces-pressure-to-define-the-us-uk-relationship.md",
+      "title": "Boris and Biden: A diplomatic odd couple faces pressure to define the US-UK relationship ",
+      "excerpt": "In style and in substance, President Joe Biden and British Prime Minister Boris Johnson are two very different men leading two countries whose relationship makes up one of the most important global alliances.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/w1cczqFk070/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/w1cczqFk070/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 166,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210609155509-joe-biden-boris-johnson-split-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/10/politics/joe-biden-boris-johnson-relationship/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/10/politics/joe-biden-boris-johnson-relationship/index.html",
+      "publishedDateTime": "2021-06-10T04:03:54-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-10-george-p-bush-defends-his-support-for-donald-trump-im-my-own-man.md",
+      "title": "George P. Bush Defends His Support for Donald Trump: 'I'm My Own Man'",
+      "excerpt": "Texas Attorney General Candidate George P. Bush defended his support of Donald Trump on Wednesday, noting that members of his family have \"differences of opinion\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/george-p-bush-defends-donald-trump-support-fox-news-texas-1599245",
+      "originalUrl": "https://www.newsweek.com/george-p-bush-defends-donald-trump-support-fox-news-texas-1599245",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1817426/george-p-bush-houston-texas.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/george-p-bush-defends-donald-trump-support-fox-news-texas-1599245?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/george-p-bush-defends-donald-trump-support-fox-news-texas-1599245?amp=1",
+      "publishedDateTime": "2021-06-10T00:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-06-10-california-latino-caucus-rebukes-harris-for-do-not-come-immigration-warning.md",
+      "title": "California Latino Caucus rebukes Harris for 'do not come' immigration warning",
+      "excerpt": "California Latino lawmakers issued a statement Wednesday rebuking Vice President Kamala Harris’ controversial comments in El Salvador this week when she told “folks” from the northern triangle states \"Do not come.\"",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_wsHBOyti2Y/california-latino-caucus-rebuke-harris-for-immigration-warning-do-not-come",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_wsHBOyti2Y/california-latino-caucus-rebuke-harris-for-immigration-warning-do-not-come",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 202,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bff910dc-4c2d-4082-9b97-da2cfa1ec6fa/8ecf015e-aae7-4cf0-b8fe-a84a924199c9/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/california-latino-caucus-rebuke-harris-for-immigration-warning-do-not-come.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/california-latino-caucus-rebuke-harris-for-immigration-warning-do-not-come.amp",
+      "publishedDateTime": "2021-06-09T18:53:01-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-06-09-blackburn-rubio-cotton-demand-fauci-resign-or-be-fired-by-biden.md",
       "title": "Blackburn, Rubio, Cotton demand Fauci resign or be fired by Biden",
       "excerpt": "EXCLUSIVE: Republican Sens. Marsha Blackburn, Marco Rubio and Tom Cotton are calling on Dr. Anthony Fauci to resign, saying he has “lost the confidence of the American people” amid controversy surrounding the origins of COVID-19 —and if he won’t step down, the Republican senators are urging President",
@@ -716,640 +1372,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-10-trump-hosts-fundraiser-for-new-gop-chair-rep-elise-stefanik.md",
-      "title": "Trump hosts fundraiser for new GOP chair Rep. Elise Stefanik",
-      "excerpt": "Former President Donald Trump is hosting a fundraiser for upstate GOP Rep. Elise Stefanik at his golf course in Bedminster, New Jersey Wednesday night, the Post reveals.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/06/09/donald-trump-hosting-fundraiser-for-ny-rep-elise-stefanik/",
-      "originalUrl": "https://nypost.com/2021/06/09/donald-trump-hosting-fundraiser-for-ny-rep-elise-stefanik/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/06/Elise-Stefanik.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/06/09/donald-trump-hosting-fundraiser-for-ny-rep-elise-stefanik/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/09/donald-trump-hosting-fundraiser-for-ny-rep-elise-stefanik/amp/",
-      "publishedDateTime": "2021-06-09T12:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-09-mollie-hemingway-calls-out-kamala-harris-nervous-laugh-when-facing-tough-questions.md",
-      "title": "Mollie Hemingway calls out Kamala Harris' nervous laugh when facing tough questions",
-      "excerpt": "The Federalist Senior Editor Mollie Hemingway said on Wednesday that Vice President Kamala Harris laughs “nervously” when challenged by journalists, reacting to an interview the former senator had with NBC journalist Lester Holt.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/kamala-harris-nervous-laugh-tough-questions-border-hemingway",
-      "originalUrl": "https://www.foxnews.com/media/kamala-harris-nervous-laugh-tough-questions-border-hemingway",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d9eb52e3-ebd6-468a-906e-47779bf429e6/5abaec05-51d8-4fad-adf4-f8b47dee9050/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/kamala-harris-nervous-laugh-tough-questions-border-hemingway.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/kamala-harris-nervous-laugh-tough-questions-border-hemingway.amp",
-      "publishedDateTime": "2021-06-09T09:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-09-biden-swats-cicada-off-neck-before-europe-trip-watch-out.md",
-      "title": "Biden swats cicada off neck before Europe trip: 'Watch out'",
-      "excerpt": "President Biden on Wednesday morning swatted a cicada off his neck ahead of his trip to Europe for the G-7 Summit.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/46wfYcCqTJo/biden-cicada-europe-trip",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/46wfYcCqTJo/biden-cicada-europe-trip",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 215,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/aa8fd275-aad4-477a-8d33-5e20a2b720ff/5625d18c-715e-4ac0-96c1-deeeaff60369/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-cicada-europe-trip.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-cicada-europe-trip.amp",
-      "publishedDateTime": "2021-06-09T07:35:43-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-09-biden-revokes-trump-executive-orders-targeting-tiktok-and-wechat.md",
-      "title": "Biden revokes Trump executive orders targeting TikTok and WeChat",
-      "excerpt": "President Biden has revoked former President Trump’s executive orders that sought to ban downloads of the Chinese-owned apps TikTok and WeChat in the U.S., according to a fact sheet released by the White House Wednesday.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/policy/technology/557523-biden-revokes-trump-executive-orders-targeting-tiktok-and-wechat",
-      "originalUrl": "https://thehill.com/policy/technology/557523-biden-revokes-trump-executive-orders-targeting-tiktok-and-wechat",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 760,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/tiktok_082619istock.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/policy/technology/557523-biden-revokes-trump-executive-orders-targeting-tiktok-and-wechat?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/557523-biden-revokes-trump-executive-orders-targeting-tiktok-and-wechat?amp",
-      "publishedDateTime": "2021-06-09T07:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-09-hud-to-reinstate-obama-era-fair-housing-rule-gutted-under-trump-minus-the-burdensome-reporting-requirement.md",
-      "title": "HUD to reinstate Obama-era fair housing rule gutted under Trump — minus the ‘burdensome’ reporting requirement",
-      "excerpt": "Biden's housing department is restoring the requirement that communities take steps to reduce racial segregation or risk losing federal funds. But missing from the requirement is the 2015 mandate that communities undergo an extensive analysis of local barriers to integration and submit plans to dismantle them to the Department of Housing and Urban Development.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/us-policy/2021/06/09/hud-biden-fair-housing-rule/",
-      "originalUrl": "https://www.washingtonpost.com/us-policy/2021/06/09/hud-biden-fair-housing-rule/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/G7ZU6FWDNYI6XCNEW6XCFKQZHY.jpg&w=1440",
-          "width": 1440,
-          "height": 956,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/us-policy/2021/06/09/hud-biden-fair-housing-rule/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/us-policy/2021/06/09/hud-biden-fair-housing-rule/?outputType=amp",
-      "publishedDateTime": "2021-06-09T07:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-09-2-years-ago-a-saudi-princess-was-kidnapped-and-jailed-without-charge-her-family-say-theyre-being-stonewalled-and-are-urging-biden-to-step.md",
-      "title": "2 years ago, a Saudi princess was kidnapped and jailed without charge. Her family say they're being stonewalled, and are urging Biden to step in.",
-      "excerpt": "Princess Basmah was kidnapped and imprisoned in February 2019. She tried begging her cousin, Crown Prince Mohammed, for mercy, but was ignored.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/princess-basmah-family-describe-saudi-arabia-stonewalling-urge-biden-intervene-2021-6",
-      "originalUrl": "https://www.businessinsider.com/princess-basmah-family-describe-saudi-arabia-stonewalling-urge-biden-intervene-2021-6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5ece81c72618b912bb2b3373?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/princess-basmah-family-describe-saudi-arabia-stonewalling-urge-biden-intervene-2021-6?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/princess-basmah-family-describe-saudi-arabia-stonewalling-urge-biden-intervene-2021-6?amp",
-      "publishedDateTime": "2021-06-09T06:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-06-09-kamalas-migration-migraine-uber-lyfts-ny-setback-biden-doj-fights-private-prison-ban-pelosi-pushes-on-voting.md",
-      "title": "KAMALA’s migration migraine — UBER, LYFT’s NY setback — BIDEN DOJ fights PRIVATE PRISON ban — PELOSI pushes on voting",
-      "excerpt": "In case there was any doubt, Vice President Kamala Harris’s first official trip abroad has illuminated the supreme political difficulty of her migration policy assignment. When President Joe Biden made Harris his migration point person,",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/newsletters/california-playbook/2021/06/09/kamalas-migration-migraine-uber-lyfts-ny-setback-biden-doj-fights-private-prison-ban-pelosi-pushes-on-voting-493176",
-      "originalUrl": "https://www.politico.com/newsletters/california-playbook/2021/06/09/kamalas-migration-migraine-uber-lyfts-ny-setback-biden-doj-fights-private-prison-ban-pelosi-pushes-on-voting-493176",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg",
-          "width": 1120,
-          "height": 629,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-09T06:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-09-youre-already-changing-the-world-biden-tapes-remarks-for-marjory-stoneman-douglas-graduation.md",
-      "title": "'You're already changing the world': Biden tapes remarks for Marjory Stoneman Douglas graduation",
-      "excerpt": "President Joe Biden delivered a taped graduation message at Marjory Stoneman Douglas High School in Parkland, Florida, where students who were freshmen during a mass shooting three years ago graduated on Tuesday.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/eJsfQucokdU/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/eJsfQucokdU/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 162,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210402113121-01-biden-jobs-0402-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/09/politics/biden-marjory-stoneman-douglas-graduation/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/09/politics/biden-marjory-stoneman-douglas-graduation/index.html",
-      "publishedDateTime": "2021-06-09T05:07:12-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-09-joe-biden-clone-conspiracy-theory-spreads-on-facebook.md",
-      "title": "Joe Biden 'Clone' Conspiracy Theory Spreads on Facebook",
-      "excerpt": "An outlandish theory suggesting the president is \"a lookalike, double or clone\" is starting to spread across social media platforms.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/joe-biden-clone-conspiracy-theory-spreads-1598909",
-      "originalUrl": "https://www.newsweek.com/joe-biden-clone-conspiracy-theory-spreads-1598909",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1816464/joe-biden-speaks-about-may-job-report.jpg",
-          "width": 2500,
-          "height": 1663,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/joe-biden-clone-conspiracy-theory-spreads-1598909?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-clone-conspiracy-theory-spreads-1598909?amp=1",
-      "publishedDateTime": "2021-06-09T04:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-06-09-kwame-kilpatrick-explains-catalyst-behind-donald-trump-cutting-his-jail-time.md",
-      "title": "Kwame Kilpatrick Explains 'Catalyst' Behind Donald Trump Cutting His Jail Time",
-      "excerpt": "The former Detroit mayor said he dropped to his knees when he learned that Trump was freeing him from prison in one of his last acts in office.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/kwame-kilpatrick-explains-catalyst-behind-donald-trump-cutting-jail-time-1598920",
-      "originalUrl": "https://www.newsweek.com/kwame-kilpatrick-explains-catalyst-behind-donald-trump-cutting-jail-time-1598920",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1816483/kwame-kilpatrick.jpg",
-          "width": 3000,
-          "height": 2000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/kwame-kilpatrick-explains-catalyst-behind-donald-trump-cutting-jail-time-1598920?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kwame-kilpatrick-explains-catalyst-behind-donald-trump-cutting-jail-time-1598920?amp=1",
-      "publishedDateTime": "2021-06-09T04:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-09-tucker-carlson-how-did-kamala-harris-wind-up-effectively-in-charge-of-the-united-states.md",
-      "title": "Tucker Carlson: How Did Kamala Harris Wind Up Effectively In Charge Of The United States?",
-      "excerpt": "Two years ago, during the Democratic presidential primaries, Kamala Harris appeared on CNN to explain where she stood in the race. At that moment, Harris had just been memorably humiliated by Tulsi Gabbard of Hawaii during a televised debate,",
-      "sourceUrl": null,
-      "webUrl": "https://www.realclearpolitics.com/video/2021/06/09/tucker_carlson_how_did_kamala_harris_wind_up_effectively_in_charge_of_the_united_states.html#!",
-      "originalUrl": "https://www.realclearpolitics.com/video/2021/06/09/tucker_carlson_how_did_kamala_harris_wind_up_effectively_in_charge_of_the_united_states.html#!",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.realclear.com/images/54/545273.jpg",
-          "width": 1162,
-          "height": 870,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "http://www.realclearpolitics.com/video/2021/06/09/tucker_carlson_how_did_kamala_harris_wind_up_effectively_in_charge_of_the_united_states.amp.html",
-      "cdnAmpWebUrl": "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/06/09/tucker_carlson_how_did_kamala_harris_wind_up_effectively_in_charge_of_the_united_states.amp.html",
-      "publishedDateTime": "2021-06-09T01:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RealClearPolitics",
-        "domain": "realclearpolitics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-09-biden-ends-gop-infrastructure-talks-but-new-group-emerges.md",
-      "title": "Biden ends GOP infrastructure talks, but new group emerges",
-      "excerpt": "President Joe Biden has ended talks with a group of Republican senators on a big infrastructure package and has started to reach out to senators in a new bipartisan effort",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Business/wireStory/biden-ends-gop-infrastructure-talks-group-emerges-78167086",
-      "originalUrl": "https://abcnews.go.com/Business/wireStory/biden-ends-gop-infrastructure-talks-group-emerges-78167086",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 625,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/WireAP_1bff0f645d8344baa26f3f755411995e_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Business/wireStory/biden-ends-gop-infrastructure-talks-group-emerges-78167086",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/biden-ends-gop-infrastructure-talks-group-emerges-78167086",
-      "publishedDateTime": "2021-06-08T21:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

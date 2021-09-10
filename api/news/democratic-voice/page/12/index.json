@@ -2,6 +2,63 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-04-29-uproar-over-mike-pences-memoir-highlights-growing-conflicts-in-publishing-experts-say.md",
+      "title": "Uproar over Mike Pence's memoir highlights growing conflicts in publishing, experts say",
+      "excerpt": "When the publishing giant Simon & Schuster recently announced it would release former Vice President Mike Pence’s autobiography, the decision evidently infuriated rank-and-file workers, who reportedly submitted a petition demanding the company stop ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/news/all/uproar-over-mike-pence-s-memoir-highlights-growing-conflicts-publishing-n1265701",
+      "originalUrl": "https://www.nbcnews.com/news/all/uproar-over-mike-pence-s-memoir-highlights-growing-conflicts-publishing-n1265701",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media4.s-nbcnews.com/j/newscms/2021_17/3468650/210428-simon-schuster-mb-1717_c6b9bc93a2aac6fdf2390d90c8652b4d.fit-1240w.jpg",
+          "width": 1240,
+          "height": 827,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1265701",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1265701",
+      "publishedDateTime": "2021-04-28T12:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-28-bidens-pick-to-serve-on-powerful-dc-based-appellate-says-her-experience-as-a-black-jurist-might-be-valuable-if-confirmed.md",
       "title": "Biden's pick to serve on powerful DC-based appellate says her experience as a Black jurist 'might be valuable' if confirmed ",
       "excerpt": "Judge Ketanji Brown Jackson, President Joe Biden's pick to fill a vacancy on a powerful DC-based appellate court, said at a Senate hearing Wednesday that her race doesn't play a role in her work as a judge, but that her experience as an African American jurist \"might be valuable\" should she be confirmed",
@@ -1635,62 +1692,6 @@
         "Election",
         "Democratic Voice",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-04-15-biden-imposes-new-sanctions-on-russia-in-response-to-election-interference-and-cyber-hacks.md",
-      "title": "Biden imposes new sanctions on Russia in response to election interference and cyber hacks",
-      "excerpt": "The Biden administration is expected to announce sanctions as soon as Thursday targeting Russian individuals and entities, in addition to the expulsion of as many as a dozen Russian diplomats from the US in response to the hack of SolarWinds and election interference, according to two sources familiar",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zKvUE1aRpHs/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zKvUE1aRpHs/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 640,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201218161649-solarwinds-headquarters---stock-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/14/politics/russia-sanctions-expel-officials-hacking-election/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/14/politics/russia-sanctions-expel-officials-hacking-election/index.html",
-      "publishedDateTime": "2021-04-15T05:25:01-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

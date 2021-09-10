@@ -2,6 +2,101 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-08-30-australias-recession-is-as-much-a-problem-for-biden-as-sydney.md",
+      "title": "Australia’s Recession Is As Much A Problem For Biden As Sydney",
+      "excerpt": "Australia’s sizable and open economy is often the closest thing the U.S. has to an early warning system, and experts are now warning that the country down under is sliding back into recession.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/williampesek/2021/08/30/australias-recession-is-as-much-a-problem-for-biden-as-sydney/",
+      "originalUrl": "https://www.forbes.com/sites/williampesek/2021/08/30/australias-recession-is-as-much-a-problem-for-biden-as-sydney/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F612c7e3d4264343d3146dd8c%2F0x0.jpg",
+          "width": 1200,
+          "height": 776,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-30T01:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-08-30-joe-biden-watches-bollywood-movies-new-warning-to-isis-sheds-clues.md",
+      "title": "Joe Biden watches Bollywood movies? New warning to ISIS sheds clues",
+      "excerpt": "The new video by Joe Biden has gone viral, and it made many people speculate that the American president is an ardent fan of Bollywood movies",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.co.in/joe-biden-watches-bollywood-movies-new-warning-isis-sheds-clues-840245",
+      "originalUrl": "https://www.ibtimes.co.in/joe-biden-watches-bollywood-movies-new-warning-isis-sheds-clues-840245",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://data1.ibtimes.co.in/en/full/755862/joe-biden.jpg?w=570&h=350",
+          "width": 570,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.ibtimes.co.in/joe-biden-watches-bollywood-movies-new-warning-isis-sheds-clues-840245",
+      "cdnAmpWebUrl": "https://amp-ibtimes-co-in.cdn.ampproject.org/c/s/amp.ibtimes.co.in/joe-biden-watches-bollywood-movies-new-warning-isis-sheds-clues-840245",
+      "publishedDateTime": "2021-08-30T01:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBTimes India",
+        "domain": "ibtimes.co.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-08-29-howie-carr-think-joe-biden-is-bad-check-out-the-current-line-of-succession.md",
       "title": "Howie Carr: Think Joe Biden is bad? Check out the current line of succession",
       "excerpt": "Before you heed those calls to remove Dementia Joe Biden via either impeachment or the 25th amendment, remember the old saying: Be careful what you wish for.",
@@ -1349,92 +1444,6 @@
       "provider": {
         "name": "San Antonio Express-News",
         "domain": "expressnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-08-19-joe-biden-says-there-was-no-way-to-exit-without-chaos-as-it-happened.md",
-      "title": "Joe Biden says there was no way to exit without ‘chaos’ – as it happened",
-      "excerpt": "This blog is now closed, You can find our latest live coverage here.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/world/live/2021/aug/18/afghanistan-live-news-updates-taliban-kabul-airport-deaths-afghan-crisis?page=with:block-611d91488f0865f6db860f9d",
-      "originalUrl": "https://www.theguardian.com/world/live/2021/aug/18/afghanistan-live-news-updates-taliban-kabul-airport-deaths-afghan-crisis?page=with:block-611d91488f0865f6db860f9d",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/world/live/2021/aug/18/afghanistan-live-news-updates-taliban-kabul-airport-deaths-afghan-crisis",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/live/2021/aug/18/afghanistan-live-news-updates-taliban-kabul-airport-deaths-afghan-crisis",
-      "publishedDateTime": "2021-08-18T15:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-08-18-joe-biden-furious-with-barack-obama-over-pandemic-birthday-bash.md",
-      "title": "Joe Biden Furious With Barack Obama Over Pandemic Birthday Bash?",
-      "excerpt": "Are President Joe Biden and former President Barack Obama locked in a bitter feud over Obama's 60th birthday bash? One tabloid insists the prideful",
-      "sourceUrl": null,
-      "webUrl": "https://www.gossipcop.com/joe-biden-furious-with-barack-obama-over-pandemic-birthday-bash/2570136/",
-      "originalUrl": "https://www.gossipcop.com/joe-biden-furious-with-barack-obama-over-pandemic-birthday-bash/2570136/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://upload.gossipcop.com/gc/uploads/2021/08/Untitled-design-71.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gossipcop.com/joe-biden-furious-with-barack-obama-over-pandemic-birthday-bash/2570136/?amp",
-      "cdnAmpWebUrl": "https://www-gossipcop-com.cdn.ampproject.org/c/s/www.gossipcop.com/joe-biden-furious-with-barack-obama-over-pandemic-birthday-bash/2570136/?amp",
-      "publishedDateTime": "2021-08-18T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gossip Cop",
-        "domain": "gossipcop.com",
         "images": null,
         "publishers": null,
         "authors": null

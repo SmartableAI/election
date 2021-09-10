@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2021/09/03/trump-should-not-lead-gop-ticket
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/09/03/trump-should-not-lead-gop-ticket-in-2024-retiring-sen-pat-toomey-says.html"
 type: article
 quality: 125
-heat: 485
+heat: 505
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "GOP group held 'war games' for state AGs before Trump loss"
+    excerpt: "An offshoot of the Republican Attorneys General Association held a special meeting weeks before the election to discuss its strategies if then-President Donald Trump lost"
+    publishedDateTime: 2021-09-10T16:54:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/gop-group-held-war-games-state-ags-trump-79942308"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/gop-group-held-war-games-state-ags-trump-79942308"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/gop-group-held-war-games-state-ags-trump-79942308"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_6f9cf825ca1740f58c079a2210561837_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Melania Trump isn’t keen on Donald running in 2024 – but that won’t stop him"
     excerpt: "The former president is thinking about standing again. While I’d love to laugh at the idea of him winning a second time, the polls offer a heavy note of caution, says Guardian columnist Arwa Mahdawi"
     publishedDateTime: 2021-09-07T11:06:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/media/trump-gutfeld-fabulous-ratings-biden-a
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/trump-gutfeld-fabulous-ratings-biden-afghan-crisis.amp"
 type: article
 quality: 130
-heat: 130
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -30,6 +30,24 @@ images:
     width: 720
     height: 405
     isCached: true
+
+related:
+  - title: "‘Scolding the American people’: Pence slams Biden’s coronavirus address"
+    excerpt: "Pence, the former VP under Trump, told “Fox & Friends” that Biden’s speech was “unlike anything” he has ever heard from another US president."
+    publishedDateTime: 2021-09-10T17:55:00Z
+    webUrl: "https://nypost.com/2021/09/10/mike-pence-slams-bidens-coronavirus-address/"
+    ampWebUrl: "https://nypost.com/2021/09/10/mike-pence-slams-bidens-coronavirus-address/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/09/10/mike-pence-slams-bidens-coronavirus-address/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 150
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/09/pence-biden-vaccines-02.jpg?quality=90&strip=all&w=1024"
+        width: 1024
+        height: 682
+        isCached: true
 
 secured: "ISP8RiLX4WenqgOoQmM7wr5ZGfveyP/ukQ64uLN0sejoFxDcxAoehuDAtsysjJxBLn1Tzo0Sc8/g+ZkU8PVun8hh6Y6JBQwYRj5pPysvrGnMzoM+7MqQww9OXQ9l6ICKAjTi8hQQOAsIbzaEk1LJejCpG8MTwYbavoEJbWHfc5PdYj8tmvlTjkSzcYYEUt2j2MPGKZ4ZmsMynR4j8lKh+bS01jROTMTcRPiLaprdaFR9CT/19LYHIuu8XHEjwbzxFwJyVsX2CBe+qljZpeHWHI8/sEIebiTd/vd5L2jEsfzectkWWkA3gNUfttiu85XtKiFNmXYE8p//8Us13ZLwtOIqSZd9qycpgTM5vJwdQjU=;7kvBYwIunD72PzYAclcusw=="
 ---

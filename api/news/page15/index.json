@@ -2,6 +2,642 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2021-08-06-biden-grants-safe-haven-to-hongkongers-in-us-amid-china-crackdown.md",
+      "title": "Biden grants ‘safe haven’ to Hongkongers in US amid China crackdown",
+      "excerpt": "President signs memo allowing people from Hong Kong currently residing in US to live and work in country for 18 months",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/world/2021/aug/05/biden-hong-kong-china-crackdown",
+      "originalUrl": "https://www.theguardian.com/world/2021/aug/05/biden-hong-kong-china-crackdown",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/87778799e7d25e3feec766105a7e4d6e927f19da/0_200_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=6621bc54c9b12fba8565edebe23bcc9f",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/world/2021/aug/05/biden-hong-kong-china-crackdown",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2021/aug/05/biden-hong-kong-china-crackdown",
+      "publishedDateTime": "2021-08-05T13:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-08-05-pence-urges-young-conservatives-to-go-get-covid-vaccine-shot.md",
+      "title": "Pence urges young conservatives 'to go get' COVID vaccine shot",
+      "excerpt": "Former Vice President Mike Pence, who was very much the public face of the Trump administration's efforts to help drug makers quickly produce an effective coronavirus vaccine through Operation Warp Speed, is urging young conservatives to get vaccinated.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/p1M_MNzwwTw/pence-young-conservatives-get-covid-vaccine-shot",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/p1M_MNzwwTw/pence-young-conservatives-get-covid-vaccine-shot",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 185,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/pence-young-conservatives-get-covid-vaccine-shot.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-young-conservatives-get-covid-vaccine-shot.amp",
+      "publishedDateTime": "2021-08-05T09:16:31-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-08-05-mike-pence-if-youre-eligible-to-get-a-coronavirus-vaccine-get-one.md",
+      "title": "Mike Pence: If You’re Eligible to Get a Coronavirus Vaccine, Get One",
+      "excerpt": "HOUSTON–Former Vice President Mike Pence is urging everyone to get vaccinated against the coronavirus, if you haven’t already. Pence spoke to a group of conservatives at the Young America’s Foundation in Houston,",
+      "sourceUrl": null,
+      "webUrl": "https://www.wibc.com/news/national/mike-pence-if-youre-eligible-to-get-a-coronavirus-vaccine-get-one/",
+      "originalUrl": "https://www.wibc.com/news/national/mike-pence-if-youre-eligible-to-get-a-coronavirus-vaccine-get-one/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/1317/2021/08/05121038/GettyImages-1234014877-1.jpg",
+          "width": 594,
+          "height": 396,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-05T09:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WIBC",
+        "domain": "wibc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-08-05-squad-backed-dem-jessica-cisneros-to-run-against-rep-cuellar-moderate-critical-of-biden-on-immigration.md",
+      "title": "'Squad'-backed Dem Jessica Cisneros to run against Rep. Cuellar, moderate critical of Biden on immigration",
+      "excerpt": "\"Squad\"-backed Texas Democrat Jessica Cisneros on Thursdsay announced that she will again run against Rep. Henry Cuellar in a primary, teeing up yet another battle between the moderate wing of the Democratic Party and its most progressive members.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vEdQFBEfJsw/squad-dem-jessica-cisneros-texas-primary-rep-henry-cuellar",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vEdQFBEfJsw/squad-dem-jessica-cisneros-texas-primary-rep-henry-cuellar",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/squad-dem-jessica-cisneros-texas-primary-rep-henry-cuellar.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/squad-dem-jessica-cisneros-texas-primary-rep-henry-cuellar.amp",
+      "publishedDateTime": "2021-08-05T08:41:51-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-08-05-woke-means-you-lose-donald-trump-rails-at-uswnt-after-olympic-bronze.md",
+      "title": "‘Woke means you lose’: Donald Trump rails at USWNT after Olympic bronze",
+      "excerpt": "Donald Trump has taken aim at one of his favourite targets, the US national women’s soccer team, after they won bronze at Tokyo 2020",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/football/2021/aug/05/donald-trump-uswnt-usa-soccer-olympics-bronze-megan-rapinoe-tokyo-2020",
+      "originalUrl": "https://www.theguardian.com/football/2021/aug/05/donald-trump-uswnt-usa-soccer-olympics-bronze-megan-rapinoe-tokyo-2020",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/fc024b3640fb35fce3693f00f1ec177e42aa0322/0_77_3000_1800/master/3000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f73ba05b1fca33d077b94bd2db247dd8",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/football/2021/aug/05/donald-trump-uswnt-usa-soccer-olympics-bronze-megan-rapinoe-tokyo-2020",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/football/2021/aug/05/donald-trump-uswnt-usa-soccer-olympics-bronze-megan-rapinoe-tokyo-2020",
+      "publishedDateTime": "2021-08-05T08:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-08-05-the-point-you-shouldnt-miss-this-massive-bombshell-in-trumps-ongoing-election-fraud-lie.md",
+      "title": "The Point: You shouldn't miss this massive bombshell in Trump's ongoing election fraud lie",
+      "excerpt": "Unless you have been living on another planet for the past six months, you know by now that Donald Trump leaned on state and national officials in the final days of his presidency to force investigations into made-up claims of widespread election fraud in the 2020 race.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4zvf6u2BLY4/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4zvf6u2BLY4/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 320,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210527101033-donald-trump-2018-file-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/08/05/politics/donald-trump-jeffrey-rosen-election-fraud-cnn/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/05/politics/donald-trump-jeffrey-rosen-election-fraud-cnn/index.html",
+      "publishedDateTime": "2021-08-05T07:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-08-05-biden-shields-hong-kong-immigrants-from-removal-citing-chinas-significant-erosion-of-rights.md",
+      "title": "Biden shields Hong Kong immigrants from removal, citing China's 'significant erosion' of rights",
+      "excerpt": "President Biden on Thursday signed a memo shielding residents of Hong Kong living in the U.S. from deportation for at least 18 months, citing the \"significant erosion\" of freedoms in the territory by the Chinese communist regime.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/cXEvkWwjteM/biden-hong-kong-immigrants-removal-erosion-rights-china",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/cXEvkWwjteM/biden-hong-kong-immigrants-removal-erosion-rights-china",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 163,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6c33b7e0-001d-4a0e-8e91-cc0189bc3f5b/2fe53756-18f9-4283-ba7b-76d927593c5d/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-hong-kong-immigrants-removal-erosion-rights-china.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-hong-kong-immigrants-removal-erosion-rights-china.amp",
+      "publishedDateTime": "2021-08-05T07:38:45-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-08-05-biden-to-announce-new-emissions-standards-target-that-50-of-vehicles-sold-in-us-by-2030-are-electric.md",
+      "title": "Biden to announce new emissions standards, target that 50% of vehicles sold in US by 2030 are electric",
+      "excerpt": "President Joe Biden will sign an executive order Thursday that points the US auto market toward electric vehicles, announcing a new target that half of vehicles sold in the country by 2030 will be battery electric, fuel-cell electric or plug-in hybrid.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/L09KXlPPWHU/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/L09KXlPPWHU/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 179,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210708143919-01-stellantis-electric-vehicle-strategy-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/08/05/politics/biden-emissions-standards-electric-vehicles/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/05/politics/biden-emissions-standards-electric-vehicles/index.html",
+      "publishedDateTime": "2021-08-05T03:08:40-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-08-05-will-mcconnell-lift-roadblock-of-biden-for-infrastructure.md",
+      "title": "Will McConnell lift roadblock of Biden for infrastructure?",
+      "excerpt": "Senate Republican leader Mitch McConnell had vowed to be “100% focused” on stopping President Joe Biden’s agenda",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/mcconnell-lift-roadblock-biden-infrastructure-79281497",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/mcconnell-lift-roadblock-biden-infrastructure-79281497",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 285,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/WireAP_d780b5e9d5574b8788053aa12c3bd597_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/mcconnell-lift-roadblock-biden-infrastructure-79281497",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/mcconnell-lift-roadblock-biden-infrastructure-79281497",
+      "publishedDateTime": "2021-08-04T21:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-08-05-tara-reade-fires-back-after-jen-psaki-claims-biden-allegations-were-heavily-litigated-during-election.md",
+      "title": "Tara Reade fires back after Jen Psaki claims Biden allegations were 'heavily litigated' during election",
+      "excerpt": "Tara Reade, the former Senate staffer who alleged last year that Joe Biden sexually assaulted her in 1993, fired back at White House Press Secretary Jen Psaki claimed that the allegations made against the president were “heavily litigated” during the 2020 election cycle.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/tara-reade-jen-psaki-biden-allegations-cuomo",
+      "originalUrl": "https://www.foxnews.com/media/tara-reade-jen-psaki-biden-allegations-cuomo",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/217a58f3-a01e-4ac1-8f6d-dec17ec267fb/fce8c9ce-aef7-41f3-adbb-2a597c5e53dc/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/tara-reade-jen-psaki-biden-allegations-cuomo.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/tara-reade-jen-psaki-biden-allegations-cuomo.amp",
+      "publishedDateTime": "2021-08-04T19:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-08-05-trump-targeted-by-protesters-at-winged-foot-golf-club-in-mamaroneck.md",
+      "title": "Trump targeted by protesters at Winged Foot Golf Club in Mamaroneck",
+      "excerpt": "Former President Donald Trump was reportedly being honored at a tribute banquet at the Mamaroneck golf course, where people gathered to protest.",
+      "sourceUrl": null,
+      "webUrl": "https://www.lohud.com/story/news/local/westchester/2021/08/05/winged-foot-banquet-trump-draws-protesters-westchester/5481261001/",
+      "originalUrl": "https://www.lohud.com/story/news/local/westchester/2021/08/05/winged-foot-banquet-trump-draws-protesters-westchester/5481261001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/08/04/PWES/dca1503e-9983-4e39-aa0a-2b3ebd94bb7a-sh080421Trump011.JPG?auto=webp&crop=4724,2658,x0,y46&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.lohud.com/amp/5481261001",
+      "cdnAmpWebUrl": "https://amp-lohud-com.cdn.ampproject.org/c/s/amp.lohud.com/amp/5481261001",
+      "publishedDateTime": "2021-08-04T17:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Journal News",
+        "domain": "lohud.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-08-05-biden-nominates-mark-brzezinski-to-be-ambassador-to-poland.md",
+      "title": "Biden nominates Mark Brzezinski to be ambassador to Poland",
+      "excerpt": "President Joe Biden has tapped former Obama administration diplomat Mark Brzezinski to serve ambassador to Poland.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/iU-Aem-yZ2U/biden-nominates-mark-brzezinski-to-be-ambassador-to-poland",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/iU-Aem-yZ2U/biden-nominates-mark-brzezinski-to-be-ambassador-to-poland",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ef36b715-903f-482b-9224-159a93080ef8/c8c9318c-73c7-47f0-8f01-d8ccf8f03424/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-nominates-mark-brzezinski-to-be-ambassador-to-poland.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-nominates-mark-brzezinski-to-be-ambassador-to-poland.amp",
+      "publishedDateTime": "2021-08-04T17:31:05-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-08-04-white-house-cyber-official-says-commitment-by-ransomware-gang-suggests-bidens-warnings-are-working.md",
       "title": "White House cyber official says 'commitment' by ransomware gang suggests Biden's warnings are working",
       "excerpt": "White House Deputy National Security Advisor Anne Neuberger said Wednesday that the Biden administration thinks recent comments by a representative of a ransomware gang linked to the May attack on the Colonial Pipeline could amount to a \"commitment\" the group would not target critical infrastructure",
@@ -692,643 +1328,6 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-04-janey-invokes-slavery-trump-birtherism-over-question-on-vaccine-passports.md",
-      "title": "Janey invokes slavery, Trump birtherism over question on vaccine passports",
-      "excerpt": "Acting Mayor Kim Janey wouldn’t say whether she’s considering following New York City’s lead and mandating proof of vaccines for various indoor activities — but she did reference slavery, the Jim",
-      "sourceUrl": null,
-      "webUrl": "https://www.bostonherald.com/2021/08/03/janey-invokes-slavery-trump-birtherism-over-question-on-vaccine-passports/",
-      "originalUrl": "https://www.bostonherald.com/2021/08/03/janey-invokes-slavery-trump-birtherism-over-question-on-vaccine-passports/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.bostonherald.com/wp-content/uploads/2021/08/MAYORsc003.jpg?w=1024&#038;h=727",
-          "width": 1024,
-          "height": 727,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bostonherald.com/2021/08/03/janey-invokes-slavery-trump-birtherism-over-question-on-vaccine-passports/amp/",
-      "cdnAmpWebUrl": "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2021/08/03/janey-invokes-slavery-trump-birtherism-over-question-on-vaccine-passports/amp/",
-      "publishedDateTime": "2021-08-03T15:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Boston Herald",
-        "domain": "bostonherald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-08-03-biden-blasted-for-having-called-ny-gov-andrew-cuomo-the-gold-standard-of-leadership.md",
-      "title": "Biden blasted for having called NY Gov. Andrew Cuomo the 'gold standard' of leadership",
-      "excerpt": "President Joe Biden is facing criticism for referring to New York Gov. Andrew Cuomo as the “gold standard” of leadership in the past following a report from New York’s Attorney General concluding the governor sexually harassed multiple women.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Rjf5yKhU0Aw/biden-blasted-for-calling-cuomo-gold-standard-of-leadership-amid-damning-sexual-harassment-report",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Rjf5yKhU0Aw/biden-blasted-for-calling-cuomo-gold-standard-of-leadership-amid-damning-sexual-harassment-report",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 207,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4fc9c59f-f638-41c9-967a-fbeb72bb4377/c98ea31a-14fe-45e8-8171-39c5518bb33a/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-blasted-for-calling-cuomo-gold-standard-of-leadership-amid-damning-sexual-harassment-report.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-blasted-for-calling-cuomo-gold-standard-of-leadership-amid-damning-sexual-harassment-report.amp",
-      "publishedDateTime": "2021-08-03T15:15:10-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-03-inside-the-rise-of-new-york-ag-letitia-james-as-she-takes-on-cuomo-trump.md",
-      "title": "Inside the rise of New York AG Letitia James as she takes on Cuomo, Trump",
-      "excerpt": "New York Attorney General Letitia James’s office released the results of an extensive investigation into allegations of sexual harassment against Gov. Andrew Cuomo on Tuesday potentially derailing his political career and continuing to launch her own as some speculate she has eyes on a higher office.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/PeOgvuqVCUQ/letitia-james-ag-rises-taking-on-cuomo-trump",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/PeOgvuqVCUQ/letitia-james-ag-rises-taking-on-cuomo-trump",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 214,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7da2adab-7141-4f0e-a23e-a48537b34302/d8b2f2f3-4e32-4066-98ab-1a4350e6527a/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/letitia-james-ag-rises-taking-on-cuomo-trump.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/letitia-james-ag-rises-taking-on-cuomo-trump.amp",
-      "publishedDateTime": "2021-08-03T12:39:48-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-04-infowars-pundit-ejected-from-texas-rangers-game-for-trump-won-flag.md",
-      "title": "InfoWars pundit ejected from Texas Rangers game for 'Trump Won' flag",
-      "excerpt": "Two spectators, one of whom reportedly was a former personality on the right-wing radio show InfoWars, hung a banner that read “Trump Won, Save America” from the upper stands during a Texas Rangers game on Sunday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.houstonchronicle.com/news/houston-texas/texas/article/pro-trump-flag-texas-rangers-game-ejected-16360984.php",
-      "originalUrl": "https://www.houstonchronicle.com/news/houston-texas/texas/article/pro-trump-flag-texas-rangers-game-ejected-16360984.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.hdnux.com/photos/01/21/23/14/21312281/5/ratio3x2_400.jpg",
-          "width": 400,
-          "height": 267,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.houstonchronicle.com/news/houston-texas/texas/amp/pro-trump-flag-texas-rangers-game-ejected-16360984.php",
-      "cdnAmpWebUrl": "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/houston-texas/texas/amp/pro-trump-flag-texas-rangers-game-ejected-16360984.php",
-      "publishedDateTime": "2021-08-03T12:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Houston Chronicle",
-        "domain": "houstonchronicle.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/houstonchronicle.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-08-04-biden-set-to-comment-on-cuomo-as-white-house-calls-report-findings-abhorrent.md",
-      "title": "Biden set to comment on Cuomo as White House calls report findings ‘abhorrent’",
-      "excerpt": "President to address issue later on Tuesday, spokesperson says, as New York senators and members of Congress urge Cuomo to quit",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/aug/03/biden-cuomo-white-house-sexual-harassment-investigation",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/aug/03/biden-cuomo-white-house-sexual-harassment-investigation",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 281,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/d50c4bf5178356705905e065c63f90202161f50f/0_0_6930_4158/master/6930.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=fe9d94f9a41a7a9ee93197fd08cd8132",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/aug/03/biden-cuomo-white-house-sexual-harassment-investigation",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/aug/03/biden-cuomo-white-house-sexual-harassment-investigation",
-      "publishedDateTime": "2021-08-03T11:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-08-03-harris-to-promote-america-is-back-message-in-singapore-and-vietnam.md",
-      "title": "Harris to promote 'America is back' message in Singapore and Vietnam",
-      "excerpt": "Vice President Kamala Harris is set to travel to Singapore and Vietnam later this month, becoming the highest-ranking Biden administration official to visit Asia so far.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ElAAwgH7wnY/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ElAAwgH7wnY/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 185,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210622171844-01-kamala-harris-0615-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/08/03/politics/vice-president-kamala-harris-singapore-vietnam/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/03/politics/vice-president-kamala-harris-singapore-vietnam/index.html",
-      "publishedDateTime": "2021-08-03T09:22:45-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-08-03-biden-marks-el-paso-mass-shooting-by-reiterating-gun-control-push-denouncing-hate-fueled-violence.md",
-      "title": "Biden marks El Paso mass shooting by reiterating gun control push, denouncing 'hate-fueled violence'",
-      "excerpt": "President Biden on Tuesday, in marking two years since the El Paso shooting which took the lives of 23 individuals, called for Americans to “stand united against hate and violence,” outlining his administration’s efforts to combat domestic terrorism and end “the plague of gun violence” in the country.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/kUyUvdS5jBA/biden-marks-el-paso-mass-shooting-gun-control-push-hate-fueled-violence",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/kUyUvdS5jBA/biden-marks-el-paso-mass-shooting-gun-control-push-hate-fueled-violence",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 160,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-marks-el-paso-mass-shooting-gun-control-push-hate-fueled-violence.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-marks-el-paso-mass-shooting-gun-control-push-hate-fueled-violence.amp",
-      "publishedDateTime": "2021-08-03T09:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-03-a-trump-bombshell-quietly-dropped-last-week-and-it-should-shock-us-all.md",
-      "title": "A Trump bombshell quietly dropped last week. And it should shock us all",
-      "excerpt": "By all accounts, he is running for president again in 2024. Donald Trump’s proto-fascism poses the largest internal threat to American democracy since the civil war. What to do about it?",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/commentisfree/2021/aug/03/donald-trump-memo-election-corrupt-justice-department",
-      "originalUrl": "https://www.theguardian.com/commentisfree/2021/aug/03/donald-trump-memo-election-corrupt-justice-department",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 265,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/d2d5a649ce41f4ca8f6966c51cd98f587d11de8a/0_156_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=9f3928ea47de4072c77e7a4f4c1dd1c9",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/commentisfree/2021/aug/03/donald-trump-memo-election-corrupt-justice-department",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2021/aug/03/donald-trump-memo-election-corrupt-justice-department",
-      "publishedDateTime": "2021-08-03T03:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-08-03-harris-border-role-faces-new-scrutiny-after-report-of-likely-historic-surge-in-unaccompanied-children.md",
-      "title": "Harris’ border role faces new scrutiny after report of likely historic surge in unaccompanied children",
-      "excerpt": "A report from the Associated Press released Monday night seemed to paint a grim picture of the conditions at the border just over four months since Harris’ appointment to the role.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/J2t1mpoJ3XQ/harris-border-role-faces-new-scrutiny",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/J2t1mpoJ3XQ/harris-border-role-faces-new-scrutiny",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/harris-border-role-faces-new-scrutiny.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-border-role-faces-new-scrutiny.amp",
-      "publishedDateTime": "2021-08-03T00:36:55-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-08-03-americas-recovery-is-joe-bidens-presidency-vulnerable-to-inflation.md",
-      "title": "America’s recovery: is Joe Biden’s presidency vulnerable to inflation?",
-      "excerpt": "Joe Sparacio, who runs the Crate and Press Juice Bar, is worried about the possible hit to come. “The cost of all our produce went up,” he says, “strawberries, blackberries, almond milk. Chicken went up threefold.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ft.com/content/ef204bd1-d9e1-49c0-867f-11e2ce70d1fa",
-      "originalUrl": "https://www.ft.com/content/ef204bd1-d9e1-49c0-867f-11e2ce70d1fa",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 405,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd6c748xw2pzm8.cloudfront.net%2Fprod%2F212df0d0-e94b-11eb-8b52-d9a1d750df18-standard.png?source=google-amp&fit=scale-down&width=500",
-          "width": 500,
-          "height": 357,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.ft.com/content/ef204bd1-d9e1-49c0-867f-11e2ce70d1fa",
-      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/ef204bd1-d9e1-49c0-867f-11e2ce70d1fa",
-      "publishedDateTime": "2021-08-02T21:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Times",
-        "domain": "ft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/ft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-08-03-biden-says-voting-system-under-assault-protecting-it-is-single-most-important-thing.md",
-      "title": "Biden says voting system ‘under assault, protecting it is ‘single most important thing’",
-      "excerpt": "President Biden on Monday warned his fellow Democrats that the voting system was under assault and protecting it was the “single most important thing to do.”",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xTimD-B1Jao/biden-voting-system-under-assault-protecting-single-most-important-thing",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xTimD-B1Jao/biden-voting-system-under-assault-protecting-single-most-important-thing",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 187,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b878e947-4a88-43a4-b2b2-3116ef63ccd5/e836207c-1f0f-4cc6-9963-c0a64f5254fe/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-voting-system-under-assault-protecting-single-most-important-thing.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-voting-system-under-assault-protecting-single-most-important-thing.amp",
-      "publishedDateTime": "2021-08-02T19:09:41-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-03-reporter-to-psaki-is-biden-concerned-that-burden-of-vaccine-id-will-fall-heaviest-on-minorities.md",
-      "title": "Reporter to Psaki: Is Biden \"Concerned\" That \"Burden\" Of Vaccine ID Will Fall Heaviest On Minorities?",
-      "excerpt": "White House press secretary Jen Psaki is asked about the burden put on African-Americans and other minority communities by mandating proof of vaccination by 'Daily Caller' White House correspondent Shelby Talcott at Tuesday's press briefing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.realclearpolitics.com/video/2021/08/03/reporter_to_psaki_is_biden_concerned_that_burden_of_vaccine_id_will_fall_heaviest_on_minorities.html",
-      "originalUrl": "https://www.realclearpolitics.com/video/2021/08/03/reporter_to_psaki_is_biden_concerned_that_burden_of_vaccine_id_will_fall_heaviest_on_minorities.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.realclear.com/images/54/549838.jpg",
-          "width": 920,
-          "height": 690,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "http://www.realclearpolitics.com/video/2021/08/03/reporter_to_psaki_is_biden_concerned_that_burden_of_vaccine_id_will_fall_heaviest_on_minorities.amp.html",
-      "cdnAmpWebUrl": "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/08/03/reporter_to_psaki_is_biden_concerned_that_burden_of_vaccine_id_will_fall_heaviest_on_minorities.amp.html",
-      "publishedDateTime": "2021-08-02T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RealClearPolitics",
-        "domain": "realclearpolitics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
         "Republican Voice"
       ]
     }

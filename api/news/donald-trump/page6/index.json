@@ -2,6 +2,59 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-07-25-donald-trump-rips-mike-pence-for-not-having-courage-on-16-to-reject-election-results.md",
+      "title": "Donald Trump Rips Mike Pence for Not Having 'Courage' on 1/6 to Reject Election Results",
+      "excerpt": "\"I only wish that my friend, Mike Pence, had that additional courage to send the results back to the legislatures,\" Trump said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/donald-trump-rips-mike-pence-not-having-courage-1-6-reject-election-results-1612836",
+      "originalUrl": "https://www.newsweek.com/donald-trump-rips-mike-pence-not-having-courage-1-6-reject-election-results-1612836",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 377,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1854447/donald-trump-speaks-phoenix.jpg",
+          "width": 2500,
+          "height": 1665,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/donald-trump-rips-mike-pence-not-having-courage-1-6-reject-election-results-1612836?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-rips-mike-pence-not-having-courage-1-6-reject-election-results-1612836?amp=1",
+      "publishedDateTime": "2021-07-25T02:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-07-25-i-alone-can-fix-it-carol-leonnig-and-philip-rucker-on-their-trump-bestseller.md",
       "title": "I Alone Can Fix It: Carol Leonnig and Philip Rucker on their Trump bestseller",
       "excerpt": "The Washington Post reporters have unleashed a second startling story of incompetence and malevolence in the White House",
@@ -1482,58 +1535,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-16-gen-milley-warned-trump-on-possible-iran-strikes-youre-gonna-have-a-f-king-war.md",
-      "title": "Gen. Milley warned Trump on possible Iran strikes: 'You're gonna have a f--king war'",
-      "excerpt": "Chairman of the Joint Chiefs Gen. Mark Milley Mark Milley Overnight Defense: Milley feared Trump coup, book says \\| Gillibrand expects fall vote on sweeping military justice bill \\|",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/policy/international/563338-gen-milley-warned-trump-on-possible-iran-strikes-youre-gonna-have-a-f",
-      "originalUrl": "https://thehill.com/policy/international/563338-gen-milley-warned-trump-on-possible-iran-strikes-youre-gonna-have-a-f",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/milleymark_062321upi_lead.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/policy/international/563338-gen-milley-warned-trump-on-possible-iran-strikes-youre-gonna-have-a-f?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/international/563338-gen-milley-warned-trump-on-possible-iran-strikes-youre-gonna-have-a-f?amp",
-      "publishedDateTime": "2021-07-16T04:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

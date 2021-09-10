@@ -2,6 +2,393 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-08-02-comedian-john-oliver-slams-bidens-inexcusable-lack-of-plan-to-save-afghan-translators-from-taliban.md",
+      "title": "Comedian John Oliver slams Biden's 'inexcusable' lack of plan to save Afghan translators from Taliban",
+      "excerpt": "Comedian John Oliver roasted President Joe Biden for an \"inexcusable\" lack of a plan to save Afghan translators who assisted the U.S. military and are currently trapped as the Taliban quickly gain ground there.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/comedian-john-oliver-slams-biden-inexcusable-lack-plan-save-afghan-translators-taliban",
+      "originalUrl": "https://www.foxnews.com/media/comedian-john-oliver-slams-biden-inexcusable-lack-plan-save-afghan-translators-taliban",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/74e56eda-375c-4101-a9f3-324be02bfe0e/34369108-f858-4525-a4f9-3556412e89f1/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/comedian-john-oliver-slams-biden-inexcusable-lack-plan-save-afghan-translators-taliban.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/comedian-john-oliver-slams-biden-inexcusable-lack-plan-save-afghan-translators-taliban.amp",
+      "publishedDateTime": "2021-08-02T06:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-08-02-biden-ignores-pelosis-call-to-extend-eviction-ban-despite-kavanaugh-opinion.md",
+      "title": "Biden ignores Pelosi's call to extend eviction ban despite Kavanaugh opinion",
+      "excerpt": "President Biden and the White House as of Monday morning didn't respond to a statment from House Speaker Nancy Pelosi and her leadership team calling on the executive branch to extend the federal eviction moratorium.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/NckR-cP5Ut4/biden-pelosi-eviction-ban-kavanaugh-squad-democrats",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/NckR-cP5Ut4/biden-pelosi-eviction-ban-kavanaugh-squad-democrats",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 232,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-pelosi-eviction-ban-kavanaugh-squad-democrats.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-pelosi-eviction-ban-kavanaugh-squad-democrats.amp",
+      "publishedDateTime": "2021-08-02T06:00:43-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-08-02-drone-footage-of-migrants-at-texas-bridge-an-absolute-catastrophe-from-biden-republican-says.md",
+      "title": "Drone footage of migrants at Texas bridge an 'absolute catastrophe' from Biden, Republican says",
+      "excerpt": "Troubling drone footage emerged online Sunday that reportedly showed up to 1,000 migrants being held by border patrol in Mission, Texas, prompted criticism from Republicans who said the footage underscores the crisis at the border.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/politics/drone-footage-of-migrants-from-texas-bridge-an-absolute-catastrophe",
+      "originalUrl": "https://www.foxnews.com/politics/drone-footage-of-migrants-from-texas-bridge-an-absolute-catastrophe",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/drone-footage-of-migrants-from-texas-bridge-an-absolute-catastrophe.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/drone-footage-of-migrants-from-texas-bridge-an-absolute-catastrophe.amp",
+      "publishedDateTime": "2021-08-02T02:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-08-02-cnns-brian-stelter-compares-donald-trump-supporters-to-jonestown-cult-members.md",
+      "title": "CNN's Brian Stelter compares Donald Trump supporters to Jonestown cult members",
+      "excerpt": "CNN anchor Brian Stelter used his Sunday show \"Reliable Sources\" to feature a segment comparing Donald Trump supporters to Jonestown cult members. Stelter spoke with Rep. Jackie Speier, D-Calif., to help explain the similarities between Trump supporters and Jonestown cultists.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/cnn-brian-stelter-compares-trump-supporters-jonestown-cult",
+      "originalUrl": "https://www.foxnews.com/media/cnn-brian-stelter-compares-trump-supporters-jonestown-cult",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/33702a68-88a4-4cc6-9da8-7375bb1e813d/d32ddc55-20b0-4c79-80d2-5645d00de2e6/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/cnn-brian-stelter-compares-trump-supporters-jonestown-cult.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/cnn-brian-stelter-compares-trump-supporters-jonestown-cult.amp",
+      "publishedDateTime": "2021-08-01T14:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-08-02-abc-political-director-calls-out-biden-admins-confusing-covid-messaging-were-seeing-this-backslide.md",
+      "title": "ABC political director calls out Biden admin's 'confusing' COVID messaging: 'We're seeing this backslide'",
+      "excerpt": "ABC political director and analyst Rick Klein called out the Biden administration for what he called \"mixed messaging\" following the president's new COVID-19 guidance, which Klein argued was a \"backslide\" from comments the president made a few weeks earlier.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/abc-political-director-biden-confusing-covid-messaging",
+      "originalUrl": "https://www.foxnews.com/media/abc-political-director-biden-confusing-covid-messaging",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 78,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-01T12:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-08-01-trumps-fundraising-prowess-82-million-haul-during-first-half-of-2021.md",
+      "title": "Trump’s fundraising prowess: $82 million haul during first half of 2021",
+      "excerpt": "Former President Trump’s various political committees brought in a combined $82 million in fundraising during the first six months of 2021.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dhQUibOGiSQ/trumps-fundraising-prowess-82-million-haul-during-first-half-of-2021",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dhQUibOGiSQ/trumps-fundraising-prowess-82-million-haul-during-first-half-of-2021",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trumps-fundraising-prowess-82-million-haul-during-first-half-of-2021.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trumps-fundraising-prowess-82-million-haul-during-first-half-of-2021.amp",
+      "publishedDateTime": "2021-08-01T07:29:54-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-31-iowa-republican-governor-rejects-bidens-100-vaccine-incentives.md",
+      "title": "Iowa Republican governor rejects Biden's $100 vaccine incentives",
+      "excerpt": "Republican Iowa Gov. Kim Reynolds rejected President Biden’s request that state and local governments use federal funds to encourage people to get the coronavirus vaccine.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nJdybRnfGcs/iowa-governor-kim-reynolds-biden-vaccine-incentive",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nJdybRnfGcs/iowa-governor-kim-reynolds-biden-vaccine-incentive",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 315,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c8cf00b1-363b-4e1d-b72f-e05113a4bc22/f680b6fb-5223-413f-842b-bb89a04d720c/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/iowa-governor-kim-reynolds-biden-vaccine-incentive.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/iowa-governor-kim-reynolds-biden-vaccine-incentive.amp",
+      "publishedDateTime": "2021-07-31T07:22:44-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-31-kamala-harris-to-travel-to-vietnam-singapore-next-month-amid-china-tensions-us-border-crisis.md",
       "title": "Kamala Harris to travel to Vietnam, Singapore next month amid China tensions, US border crisis",
       "excerpt": "Vice President Kamala Harris has another big trip ahead – but it won't be a return visit to the U.S.-Mexico border.",
@@ -1259,382 +1646,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-25-who-is-adam-kinzinger-conservative-congressman-turned-anti-trump-leader.md",
-      "title": "Who is Adam Kinzinger? Conservative congressman turned anti-Trump leader",
-      "excerpt": "The news on Sunday that House Speaker Nancy Pelosi will appoint Rep. Adam Kinzinger as the second Republican representative on the special House committee investigating the Jan. 6 insurrection at the U.S. Capitol is once again putting the Illinois congressman in the national spotlight.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vU3ekYR9QqI/who-is-adam-kinzinge-conservative-congressman-turned-anti-trump-leader",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vU3ekYR9QqI/who-is-adam-kinzinge-conservative-congressman-turned-anti-trump-leader",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 214,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/who-is-adam-kinzinge-conservative-congressman-turned-anti-trump-leader.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/who-is-adam-kinzinge-conservative-congressman-turned-anti-trump-leader.amp",
-      "publishedDateTime": "2021-07-25T12:03:02-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-26-trump-says-woke-politics-contributed-to-us-womens-soccer-upset-at-olympics.md",
-      "title": "Trump says ‘woke politics’ contributed to US women’s soccer upset at Olympics",
-      "excerpt": "Former President Donald Trump says “woke politics” contributed to the US Women’s soccer team’s dismal opening performance in the Tokyo 2020 Olympics.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/07/25/trump-says-woke-politics-contributed-to-us-womens-soccer-loss/",
-      "originalUrl": "https://nypost.com/2021/07/25/trump-says-woke-politics-contributed-to-us-womens-soccer-loss/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/07/trump-2.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/07/25/trump-says-woke-politics-contributed-to-us-womens-soccer-loss/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/25/trump-says-woke-politics-contributed-to-us-womens-soccer-loss/amp/",
-      "publishedDateTime": "2021-07-25T11:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-26-mark-warner-inflation-today-is-result-of-35-trillion-in-covid-spending-in-2020-under-trump.md",
-      "title": "Mark Warner: Inflation Today Is Result Of $3.5 Trillion In COVID Spending In 2020 Under Trump",
-      "excerpt": "Democratic Sen. Mark Warner told \"FOX News Sunday\" that the expanding \"human infrastructure\" bill will not contribute as much to inflation as did $5 Trillion in COVID spending since last year, \"$3.5 trillion of that under President Trump.",
-      "sourceUrl": null,
-      "webUrl": "https://www.realclearpolitics.com/video/2021/07/25/mark_warner_inflation_today_is_result_of_35_trillion_in_covid_spending_in_2020_under_trump.html",
-      "originalUrl": "https://www.realclearpolitics.com/video/2021/07/25/mark_warner_inflation_today_is_result_of_35_trillion_in_covid_spending_in_2020_under_trump.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.realclear.com/images/54/548989.jpg",
-          "width": 750,
-          "height": 562,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "http://www.realclearpolitics.com/video/2021/07/25/mark_warner_inflation_today_is_result_of_35_trillion_in_covid_spending_in_2020_under_trump.amp.html",
-      "cdnAmpWebUrl": "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/07/25/mark_warner_inflation_today_is_result_of_35_trillion_in_covid_spending_in_2020_under_trump.amp.html",
-      "publishedDateTime": "2021-07-25T10:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RealClearPolitics",
-        "domain": "realclearpolitics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-25-rep-ronny-jackson-ex-white-house-doc-predicts-biden-will-be-forced-to-resign.md",
-      "title": "Rep. Ronny Jackson, ex-White House doc, predicts Biden will be forced to resign",
-      "excerpt": "Rep. Ronny Jackson, the former White House physician-turned-congressman, says he’s “terrified for our country” in the wake of President Joe Biden’s disastrous town hall this week — and that he doubts whether the commander in chief has the cognitive ability to make it through a full term.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/AGqwaTdg3pE/ronny-jackson-biden-forced-resign",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/AGqwaTdg3pE/ronny-jackson-biden-forced-resign",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 171,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/213f48f8-3e13-432e-8f0a-729406f11ecd/7194499b-c1af-4167-bf2e-050b58eaa444/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/ronny-jackson-biden-forced-resign.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ronny-jackson-biden-forced-resign.amp",
-      "publishedDateTime": "2021-07-25T09:42:12-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-25-gov-abbott-rips-bidens-reprehensible-attacks-on-texas-voting-bill-hes-willing-to-lie-to-get-his-way.md",
-      "title": "Gov. Abbott rips Biden's 'reprehensible' attacks on Texas voting bill: He's 'willing to lie' to 'get his way'",
-      "excerpt": "Texas Gov. Greg Abbott on Sunday slammed President Biden’s \"completely reprehensible\" attacks on the Republicans’ election integrity bill in his state, saying the president is \"willing to lie\" to the American people in order to further his political agenda.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/6dP-gSL8n0o/gov-abbott-rips-bidens-reprehensible-attacks-on-texas-voting-bill-hes-willing-to-lie-to-get-his-way",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/6dP-gSL8n0o/gov-abbott-rips-bidens-reprehensible-attacks-on-texas-voting-bill-hes-willing-to-lie-to-get-his-way",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0c8b95a1-c62d-4173-87cd-c638388816c5/edb70e4b-9f68-44ba-bb58-8d8ead8455bd/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/gov-abbott-rips-bidens-reprehensible-attacks-on-texas-voting-bill-hes-willing-to-lie-to-get-his-way.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gov-abbott-rips-bidens-reprehensible-attacks-on-texas-voting-bill-hes-willing-to-lie-to-get-his-way.amp",
-      "publishedDateTime": "2021-07-25T08:43:20-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-25-trump-slams-critical-race-theory-as-flagrant-racism-that-has-no-place-in-our-country.md",
-      "title": "Trump slams Critical Race Theory as ‘flagrant racism’ that has ‘no place’ in our country",
-      "excerpt": "Former President Donald Trump warned critical race theory is \"flagrant racism\" being forced into \"every facet of our society\" during a speech to conservatives Saturday in Phoenix.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/CCwu0ns-j5s/trump-slams-critical-race-theory-as-flagrant-racism",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/CCwu0ns-j5s/trump-slams-critical-race-theory-as-flagrant-racism",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 166,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/019b67a6-b2f0-4873-a7b9-c958122fb58b/a1187a2e-908b-4e45-8484-71e762ec0800/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-slams-critical-race-theory-as-flagrant-racism.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-slams-critical-race-theory-as-flagrant-racism.amp",
-      "publishedDateTime": "2021-07-25T07:12:33-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-24-senate-gop-report-finds-biden-administration-spending-2b-to-suspend-border-wall-construction.md",
-      "title": "Senate GOP report finds Biden administration spending $2B to suspend border wall construction",
-      "excerpt": "A new report by Republicans on a Senate subcommittee has concluded that the Biden administration is spending a minimum of approximately $2 billion to suspend construction of the wall at the southern border, even amid a continuing migrant crisis.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xy786WosRJI/senate-gop-report-biden-administration-2b-suspend-wall-construction",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xy786WosRJI/senate-gop-report-biden-administration-2b-suspend-wall-construction",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 224,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/be4ab425-a0b5-4bb2-b937-8add142c15a2/ea903716-737c-4736-a554-1adbb05e6bce/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/senate-gop-report-biden-administration-2b-suspend-wall-construction.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/senate-gop-report-biden-administration-2b-suspend-wall-construction.amp",
-      "publishedDateTime": "2021-07-24T08:45:29-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Republican Voice"
       ]
     }

@@ -2,6 +2,628 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-08-12-wh-reporters-roiled-by-spacing-constraints-excuse-to-limit-access-to-biden-qas.md",
+      "title": "WH reporters roiled by ‘spacing constraints’ excuse to limit access to Biden Q&As",
+      "excerpt": "President Joe Biden’s interactions with reporters in the White House East Room have resembled press conferences but his staff selects which reporters attend, citing “spacing",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/08/11/wh-journos-roiled-by-spacing-constraints-to-biden-pressers/",
+      "originalUrl": "https://nypost.com/2021/08/11/wh-journos-roiled-by-spacing-constraints-to-biden-pressers/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 130,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/08/white-house-reporters-roiled-434.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/08/11/wh-journos-roiled-by-spacing-constraints-to-biden-pressers/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/11/wh-journos-roiled-by-spacing-constraints-to-biden-pressers/amp/",
+      "publishedDateTime": "2021-08-11T16:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-08-12-for-biden-and-senators-a-sense-that-world-was-watching.md",
+      "title": "For Biden and senators, a sense that 'world was watching'",
+      "excerpt": "Biden recalled infrastructure as “probably the least difficult thing to do” when he was a senator — became an exercise in showing how damaged the legislative process has become in partisan Washington and how a president and core group of senators were determined to try to fix it.",
+      "sourceUrl": null,
+      "webUrl": "https://www.lmtonline.com/news/article/For-Biden-and-senators-a-sense-that-world-was-16378709.php",
+      "originalUrl": "https://www.lmtonline.com/news/article/For-Biden-and-senators-a-sense-that-world-was-16378709.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
+          "width": 600,
+          "height": 336,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.lmtonline.com/news/amp/For-Biden-and-senators-a-sense-that-world-was-16378709.php",
+      "cdnAmpWebUrl": "https://www-lmtonline-com.cdn.ampproject.org/c/s/www.lmtonline.com/news/amp/For-Biden-and-senators-a-sense-that-world-was-16378709.php",
+      "publishedDateTime": "2021-08-11T14:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Laredo Morning Times",
+        "domain": "lmtonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-08-12-trump-gop-slam-dems-35t-budget-as-communist-plan-to-destroy-us.md",
+      "title": "Trump, GOP slam Dems’ $3.5T budget as ‘Communist plan to destroy’ US",
+      "excerpt": "Former President Donald Trump led the Republican criticism after a 15-hour “vote-a-rama” overnight that saw senators pass the $3.5 trillion budget reconciliation package.",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/08/11/trump-gop-slam-dems-3-5t-budget-as-communist-plan-to-destroy-us/",
+      "originalUrl": "https://nypost.com/2021/08/11/trump-gop-slam-dems-3-5t-budget-as-communist-plan-to-destroy-us/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/08/gop-oppose-infrastructure.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/08/11/trump-gop-slam-dems-3-5t-budget-as-communist-plan-to-destroy-us/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/11/trump-gop-slam-dems-3-5t-budget-as-communist-plan-to-destroy-us/amp/",
+      "publishedDateTime": "2021-08-11T13:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-08-11-trump-accountants-must-turn-over-some-tax-records-to-house-panel-federal-judge-rules.md",
+      "title": "Trump accountants must turn over some tax records to House panel, federal judge rules",
+      "excerpt": "A federal judge has ruled that multiple tax records belonging to former President Donald Trump must be turned over to Congress.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5RzIk2_w87Y/trump-accountants-must-turn-over-some-tax-records-to-house-panel-federal-judge-rules",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5RzIk2_w87Y/trump-accountants-must-turn-over-some-tax-records-to-house-panel-federal-judge-rules",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 188,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/990505083001/40a63b4a-2e83-40cb-b3dc-bc01851d10f2/18d62644-0518-41b0-afc0-9ff5e6483fb7/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-accountants-must-turn-over-some-tax-records-to-house-panel-federal-judge-rules.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-accountants-must-turn-over-some-tax-records-to-house-panel-federal-judge-rules.amp",
+      "publishedDateTime": "2021-08-11T13:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-08-11-house-democrats-can-get-some-of-trumps-tax-records-from-accounting-firm-mazars-usa-judge-rules.md",
+      "title": "House Democrats can get some of Trump's tax records from accounting firm Mazars USA, judge rules",
+      "excerpt": "The US House should be able to access some of Donald Trump's tax records through a subpoena to his accounting firm Mazars USA, a federal judge in Washington, DC, ruled on Wednesday.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vlKMb7vCRLE/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vlKMb7vCRLE/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 162,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210211173410-107-trump-impeachment-centered-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/08/11/politics/trump-taxes-mazars-house-democrats/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/11/politics/trump-taxes-mazars-house-democrats/index.html",
+      "publishedDateTime": "2021-08-11T10:12:19-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-08-11-donald-trump-calls-35t-budget-plan-assault-on-our-nation-after-measure-clears-senate.md",
+      "title": "Donald Trump Calls $3.5T Budget Plan 'Assault on Our Nation' After Measure Clears Senate",
+      "excerpt": "Former President Donald Trump said Americans are being \"robbed\" after the Democrats' $3.5 trillion budget plan \"Good morning, America!",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/donald-trump-calls-35t-budget-plan-assault-our-nation-after-measure-clears-senate-1618410",
+      "originalUrl": "https://www.newsweek.com/donald-trump-calls-35t-budget-plan-assault-our-nation-after-measure-clears-senate-1618410",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1868613/trump-slams-35t-budget-plan.jpg",
+          "width": 2500,
+          "height": 1665,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/donald-trump-calls-35t-budget-plan-assault-our-nation-after-measure-clears-senate-1618410?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-calls-35t-budget-plan-assault-our-nation-after-measure-clears-senate-1618410?amp=1",
+      "publishedDateTime": "2021-08-11T08:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-08-11-manchin-has-serious-concerns-about-dems-35t-spending-plan-signaling-trouble-for-biden-agenda.md",
+      "title": "Manchin has 'serious concerns' about Dems' $3.5T spending plan, signaling trouble for Biden agenda",
+      "excerpt": "Sen. Joe Manchin on Wednesday morning said he has \"serious concerns\" about his party's massive $3.5 trillion spending plan, signaling that he may intend to block much of the package supported by President Biden over inflation and debt concerns.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dPyLn-RVA5E/manchin-budget-reconciliation-democrats-spending-plan-serious-concerns",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dPyLn-RVA5E/manchin-budget-reconciliation-democrats-spending-plan-serious-concerns",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 161,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/manchin-budget-reconciliation-democrats-spending-plan-serious-concerns.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/manchin-budget-reconciliation-democrats-spending-plan-serious-concerns.amp",
+      "publishedDateTime": "2021-08-11T05:51:29-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-08-11-biden-nominates-mueller-deputy-elizabeth-prelogar-for-us-solicitor-general.md",
+      "title": "Biden nominates Mueller deputy Elizabeth Prelogar for US solicitor general",
+      "excerpt": "President Biden nominated Elizabeth Prelogar to be the next U.S. solicitor general at the Department of Justice, the White House announced Wednesday morning.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/v0rDI91h05k/biden-nominates-mueller-deputy-elizabeth-prelogar-solicitor-general",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/v0rDI91h05k/biden-nominates-mueller-deputy-elizabeth-prelogar-solicitor-general",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 173,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-nominates-mueller-deputy-elizabeth-prelogar-solicitor-general.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-nominates-mueller-deputy-elizabeth-prelogar-solicitor-general.amp",
+      "publishedDateTime": "2021-08-11T05:40:25-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-08-11-trump-was-in-pain-and-afraid-from-covid-19-says-niece-mary-trump.md",
+      "title": "Trump was 'in pain and afraid' from COVID-19, says niece Mary Trump",
+      "excerpt": "The former president’s niece made the claim in a new book. Former President Trump was allegedly “in pain and afraid” after he contracted the coronavirus back in early October. Mary claimed that he was struggling to breathe while playing up theatrical his return.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/changing-america/well-being/mental-health/567303-trump-was-in-pain-and-afraid-from-covid-19-says",
+      "originalUrl": "https://thehill.com/changing-america/well-being/mental-health/567303-trump-was-in-pain-and-afraid-from-covid-19-says",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 225,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/ca_trumpwindcomments_061721getty_1.jpg",
+          "width": 1320,
+          "height": 880,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/changing-america/well-being/mental-health/567303-trump-was-in-pain-and-afraid-from-covid-19-says?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/changing-america/well-being/mental-health/567303-trump-was-in-pain-and-afraid-from-covid-19-says?amp",
+      "publishedDateTime": "2021-08-11T05:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-08-11-biden-nominates-elizabeth-prelogar-to-be-solicitor-general.md",
+      "title": "Biden nominates Elizabeth Prelogar to be solicitor general",
+      "excerpt": "President Joe Biden on Wednesday nominated acting US Solicitor General Elizabeth Prelogar to permanently take on the role of representing the US government in cases before the Supreme Court.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OpFBiUo7tho/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OpFBiUo7tho/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210811113245-elizabeth-prelogar-headshot-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/08/11/politics/biden-elizabeth-prelogar-solicitor-general/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/11/politics/biden-elizabeth-prelogar-solicitor-general/index.html",
+      "publishedDateTime": "2021-08-11T04:45:26-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-08-11-federal-prosecutors-came-to-suspect-trump-org-cfo-allen-weisselberg-lied.md",
+      "title": "Federal prosecutors came to suspect Trump Org CFO Allen Weisselberg lied",
+      "excerpt": "New York federal prosecutors came to suspect the Trump Organization's chief financial officer, Allen Weisselberg, lied in testimony during their investigation of former Trump personal attorney Michael Cohen three years ago, according to four people familiar with prosecutors' thinking.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/VqvsG_cStZ8/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/VqvsG_cStZ8/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 234,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210701151604-weisselberg-leaves-court-0701-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/08/11/politics/weisselberg-lied-federal-prosecutors-suspect/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/11/politics/weisselberg-lied-federal-prosecutors-suspect/index.html",
+      "publishedDateTime": "2021-08-11T03:18:04-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-08-11-secret-irs-files-reveal-how-much-the-ultrawealthy-gained-by-shaping-trumps-big-beautiful-tax-cut.md",
+      "title": "Secret IRS Files Reveal How Much the Ultrawealthy Gained by Shaping Trump’s “Big, Beautiful Tax Cut”",
+      "excerpt": "Billionaire business owners deployed lobbyists to make sure Trump’s 2017 tax bill was tailored to their benefit. Confidential IRS records show the windfall that followed.",
+      "sourceUrl": null,
+      "webUrl": "https://www.propublica.org/article/secret-irs-files-reveal-how-much-the-ultrawealthy-gained-by-shaping-trumps-big-beautiful-tax-cut",
+      "originalUrl": "https://www.propublica.org/article/secret-irs-files-reveal-how-much-the-ultrawealthy-gained-by-shaping-trumps-big-beautiful-tax-cut",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets-c3.propublica.org/images/series/_threeTwo400w/series-3x2.jpg",
+          "width": 400,
+          "height": 267,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.propublica.org/article/secret-irs-files-reveal-how-much-the-ultrawealthy-gained-by-shaping-trumps-big-beautiful-tax-cut/amp",
+      "cdnAmpWebUrl": "https://www-propublica-org.cdn.ampproject.org/c/s/www.propublica.org/article/secret-irs-files-reveal-how-much-the-ultrawealthy-gained-by-shaping-trumps-big-beautiful-tax-cut/amp",
+      "publishedDateTime": "2021-08-11T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ProPublica",
+        "domain": "propublica.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-08-11-msnbc-opinion-piece-argues-why-ron-desantis-is-more-dangerous-than-trump-ahead-of-2024.md",
       "title": "MSNBC opinion piece argues 'Why Ron DeSantis is more dangerous than Trump' ahead of 2024",
       "excerpt": "Conservative pundits have long predicted ahead of 2024 that members of the media would insist that Republican Florida Gov. Ron DeSantis would be a “worse” president than President Trump. Well, one MSNBC opinion piece is way ahead of schedule.",
@@ -661,602 +1283,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-08-10-trump-says-he-will-do-something-about-homelessness.md",
-      "title": "Trump says he will do ‘something’ about homelessness",
-      "excerpt": "President Donald Trump began a California visit on Tuesday, saying he will do \"something\" about homelessness but offering no specifics beyond the mention of creating a task force.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/article/donald-trump-geoffrey-palmer-california-los-angeles-san-francisco-df5a1a2a105d42eaa3946b586fc29536",
-      "originalUrl": "https://apnews.com/article/donald-trump-geoffrey-palmer-california-los-angeles-san-francisco-df5a1a2a105d42eaa3946b586fc29536",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/afs-prod/media/334c3ffb31f34c3aa8a178bb26ae6f1f/3000.jpeg",
-          "width": 3000,
-          "height": 1999,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-09T14:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-08-10-pence-cruz-desantis-to-headline-ricketts-steak-fry-event.md",
-      "title": "Pence, Cruz, DeSantis to headline Ricketts steak fry event",
-      "excerpt": "Former Vice President Mike Pence, Texas Sen. Ted Cruz and Florida Gov. Ron DeSantis are coming to Nebraska for Gov. Pete Ricketts' annual steak fry next month. The high-profile Republicans will appear at the gathering to celebrate agriculture on Sept.",
-      "sourceUrl": null,
-      "webUrl": "https://www.houstonchronicle.com/news/article/Pence-Cruz-DeSantis-to-headline-Ricketts-steak-16374505.php",
-      "originalUrl": "https://www.houstonchronicle.com/news/article/Pence-Cruz-DeSantis-to-headline-Ricketts-steak-16374505.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 205,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.houstonchronicle.com/news/amp/Pence-Cruz-DeSantis-to-headline-Ricketts-steak-16374505.php",
-      "cdnAmpWebUrl": "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Pence-Cruz-DeSantis-to-headline-Ricketts-steak-16374505.php",
-      "publishedDateTime": "2021-08-09T13:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Houston Chronicle",
-        "domain": "houstonchronicle.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/houstonchronicle.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-08-10-biden-administration-issues-final-extension-of-student-loan-payment-pause-is-cancellation-next.md",
-      "title": "Biden administration issues 'final extension' of student loan payment pause: Is cancellation next?",
-      "excerpt": "Federal student loan borrowers will not have to make payments on their federal loans until February 2022, thanks to the “final extension” from Education Department.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxbusiness.com/personal-finance/biden-student-loan-payment-pause-extension-is-cancellation-next",
-      "originalUrl": "https://www.foxbusiness.com/personal-finance/biden-student-loan-payment-pause-extension-is-cancellation-next",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2021/08/Credible-Biden-admin-extends-student-loan-pause-is-cancellation-next-iStock-1098109720.jpg",
-          "width": 1254,
-          "height": 705,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxbusiness.com/personal-finance/biden-student-loan-payment-pause-extension-is-cancellation-next.amp",
-      "cdnAmpWebUrl": "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/personal-finance/biden-student-loan-payment-pause-extension-is-cancellation-next.amp",
-      "publishedDateTime": "2021-08-09T10:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox Business",
-        "domain": "foxbusiness.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-08-10-biden-covid-origin-investigation-expected-to-end-soon-charlotte-observer.md",
-      "title": "Biden COVID origin investigation expected to end soon | Charlotte Observer",
-      "excerpt": "A 90-day intelligence review into the origins of COVID-19 ordered by President Joe Biden is expected to end largely where it began, without high confidence in how the coronavirus first emerged, government officials told McClatchy. Biden will receive a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.charlotteobserver.com/news/coronavirus/article253365748.html",
-      "originalUrl": "https://www.charlotteobserver.com/news/coronavirus/article253365748.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 153,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557046001/12b39f35-3a05-423f-a838-37e72ee371d0/e503dd4e-6739-4b6c-8212-c4272a4fecad/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.charlotteobserver.com/news/coronavirus/article253365748.html",
-      "cdnAmpWebUrl": "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/coronavirus/article253365748.html",
-      "publishedDateTime": "2021-08-09T10:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Charlotte Observer",
-        "domain": "charlotteobserver.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-08-09-biden-pushes-sanctions-against-belarus-lukashenko-regime.md",
-      "title": "Biden pushes sanctions against Belarus' Lukashenko regime",
-      "excerpt": "President Joe Biden on Monday said the United States is levying new sanctions against Belarus.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/olLR5J0jnK0/biden-sanctions-belarus-lukashenko",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/olLR5J0jnK0/biden-sanctions-belarus-lukashenko",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9bdbfbc4-87fa-49a6-8f09-2a6156f8a0e2/e1261bb5-02f5-493d-a6dd-9b1e23cc0e40/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-sanctions-belarus-lukashenko.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-sanctions-belarus-lukashenko.amp",
-      "publishedDateTime": "2021-08-09T09:45:32-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-09-melania-trump-blasts-historian-after-misleading-rose-garden-criticism.md",
-      "title": "Melania Trump blasts historian after ‘misleading’ Rose Garden criticism",
-      "excerpt": "Former First Lady Melania Trump is firing back after NBC resident historian Michael Beschloss criticized her renovation of the Rose Garden.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/08/09/melania-trump-blasts-historian-after-rose-garden-criticism/",
-      "originalUrl": "https://nypost.com/2021/08/09/melania-trump-blasts-historian-after-rose-garden-criticism/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/08/melania-trump-rose-garden-hp.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/08/09/melania-trump-blasts-historian-after-rose-garden-criticism/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/09/melania-trump-blasts-historian-after-rose-garden-criticism/amp/",
-      "publishedDateTime": "2021-08-09T08:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-09-trump-called-sen-bill-hagerty-prior-to-request-for-more-debate-on-infrastructure-bill.md",
-      "title": "Trump Called Sen. Bill Hagerty Prior to Request for More Debate on Infrastructure Bill",
-      "excerpt": "\"I think he's doing Trump's bidding. I don't think there's any doubt about it,\" said Senator Jon Tester of Montana.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/trump-called-sen-bill-hagerty-prior-request-more-debate-infrastructure-bill-1617471",
-      "originalUrl": "https://www.newsweek.com/trump-called-sen-bill-hagerty-prior-request-more-debate-infrastructure-bill-1617471",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1865962/bill-hagerty-request-further-debate.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/trump-called-sen-bill-hagerty-prior-request-more-debate-infrastructure-bill-1617471?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-called-sen-bill-hagerty-prior-request-more-debate-infrastructure-bill-1617471?amp=1",
-      "publishedDateTime": "2021-08-09T06:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-08-09-dick-durbin-says-trumps-process-to-interfere-in-2020-election-leading-up-to-a-coup.md",
-      "title": "Dick Durbin Says Trump's 'Process' to Interfere in 2020 Election 'Leading Up' to a Coup",
-      "excerpt": "The Senate Majority Whip described the pressure that allegedly Trump placed on ex-acting AG Jeffrey Rosen \"very real\" and \"very specific.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/dick-durbin-says-trumps-process-interfere-2020-election-leading-coup-1617313",
-      "originalUrl": "https://www.newsweek.com/dick-durbin-says-trumps-process-interfere-2020-election-leading-coup-1617313",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 172,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1865609/dick-durbin-january-6-insurrection-trump-coup.jpg",
-          "width": 2500,
-          "height": 1658,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/dick-durbin-says-trumps-process-interfere-2020-election-leading-coup-1617313?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/dick-durbin-says-trumps-process-interfere-2020-election-leading-coup-1617313?amp=1",
-      "publishedDateTime": "2021-08-08T12:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-08-08-former-trump-acting-ag-rosen-testifies-for-nearly-7-hours-before-committee-investigating-election-interference.md",
-      "title": "Former Trump acting AG Rosen testifies for nearly 7 hours before committee investigating election interference",
-      "excerpt": "Former Trump administration acting Attorney General Jeff Rosen testified before senators behind closed doors for nearly seven hours on Saturday in a session focused on possible election interference, Fox News has learned.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/cX3oDNsSwPE/former-trump-acting-ag-rosen-testifies-nearly-7-hours-senate-committee-election-interference",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/cX3oDNsSwPE/former-trump-acting-ag-rosen-testifies-nearly-7-hours-senate-committee-election-interference",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 170,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/former-trump-acting-ag-rosen-testifies-nearly-7-hours-senate-committee-election-interference.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/former-trump-acting-ag-rosen-testifies-nearly-7-hours-senate-committee-election-interference.amp",
-      "publishedDateTime": "2021-08-08T11:58:10-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-08-trumps-acting-attorney-general-revealed-frightening-activity-at-justice-department-senate-judiciary-chair-says.md",
-      "title": "Trump's acting attorney general revealed 'frightening' activity at Justice Department, Senate Judiciary chair says",
-      "excerpt": "Senate Judiciary Chairman Dick Durbin said Sunday that former acting Attorney General Jeffrey Rosen revealed in testimony this weekend \"frightening\" information about what had occurred at the Justice Department during the waning days of the Trump administration.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rBizwHi6MIE/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rBizwHi6MIE/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 153,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210324110033-01-dick-durbin-0323-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/08/08/politics/dick-durbin-jeffrey-rosen-trump-doj-testimony-cnntv/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/08/politics/dick-durbin-jeffrey-rosen-trump-doj-testimony-cnntv/index.html",
-      "publishedDateTime": "2021-08-08T09:32:16-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-08-desantis-banging-on-biden-inflates-his-2024-stature-among-gop-voters.md",
-      "title": "DeSantis' banging on Biden inflates his 2024 stature among GOP voters",
-      "excerpt": "Florida Gov. Ron DeSantis' jousting with President Biden appears to inflates his 2024 stature among GOP voters",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/IPEIiqh-TJI/desantis-jousting-with-biden-inflates-his-2024-stature-among-gop-voters",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/IPEIiqh-TJI/desantis-jousting-with-biden-inflates-his-2024-stature-among-gop-voters",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 255,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/desantis-jousting-with-biden-inflates-his-2024-stature-among-gop-voters.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/desantis-jousting-with-biden-inflates-his-2024-stature-among-gop-voters.amp",
-      "publishedDateTime": "2021-08-08T07:30:18-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-08-donald-trump-100m-people-might-have-died-without-operation-warp-speed.md",
-      "title": "Donald Trump: 100M people might have died without Operation Warp Speed",
-      "excerpt": "I think if we didn’t come up during the Trump administration with the vaccine, you could have 100 million people dead, just like you had in 1917,” Trump said in an interview on",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/08/08/donald-trump-says-operation-warp-speed-saved-lives/",
-      "originalUrl": "https://nypost.com/2021/08/08/donald-trump-says-operation-warp-speed-saved-lives/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/08/trump-002.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/08/08/donald-trump-says-operation-warp-speed-saved-lives/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/08/donald-trump-says-operation-warp-speed-saved-lives/amp/",
-      "publishedDateTime": "2021-08-08T05:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     }
   ],

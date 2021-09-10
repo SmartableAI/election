@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/joe-biden-has-6-new-steps-curb-covid-19-her
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-has-6-new-steps-curb-covid-19-heres-what-they-are-1627569?amp=1"
 type: article
 quality: 125
-heat: 245
+heat: 225
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Joe Biden Promised to 'Defeat the Lies.' Then His Presidency Hit a Crisis"
-    excerpt: "President Joe Biden pointedly advocated truth-telling in his inaugural address, in a tacit rebuke of Donald Trump's loose relationship with facts. But a few months on, the crises posed by the U.S. withdrawal from Afghanistan have tested Biden's commitment to truth."
-    publishedDateTime: 2021-09-09T14:10:00Z
-    webUrl: "https://www.newsweek.com/joe-biden-defeat-lies-presidency-crisis-1627349"
-    ampWebUrl: "https://www.newsweek.com/joe-biden-defeat-lies-presidency-crisis-1627349?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-defeat-lies-presidency-crisis-1627349?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 124
-    images:
-      - url: "https://d.newsweek.com/en/full/1890536/biden-delivers-speech-state-dining-room.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
   - title: "AP source: Biden requiring federal workers to get COVID shot"
     excerpt: "Biden will sign a new executive order to require vaccination for employees of the executive branch and contractors who do business with the federal government"
     publishedDateTime: 2021-09-09T15:34:00Z
@@ -124,6 +108,6 @@ related:
         height: 800
         isCached: true
 
-secured: "Oi+EX26lNseXqP/zGB27khjunPuf1taSroOSZbd4oxDiKPzAPv2ZBukng3aJmoq+0EtK8ySvdeu71y72T458Gdl3LQlnzm7y1JxSTzVvfwVqOet7ST8CP84ifxbdLJxefpqOwt0ctMafdWNfquMPSb9C3WYf5Mksg4LA18kYsUV9PVnwe/mkttaQUppXCBikCL5+qruai3pFPDy36GSt45GrNA2Jr1RezvTfI4bsN9HlX0LZbAZLon3wJOVfK835p/JkVHdm68s/w5dTS0cb9ZiazE5ypd5wIvn5+WJ+ZTWpDkOP6S3wgkl1SqaSWJOdBpWn8vfx1/jJ1QmpXZAp4xGMeLKaGK4fOiQnqLPyTRE=;O2DRi7oV669//Kqyz4kCVQ=="
+secured: "Q+CcYfAOrEAAYjwN7vRnxMhq3BLqijKbLEZ4LcZUUa9TEkaAgilExF1avOB20ovQWdkGs3A9wTU18ewiNGNtnpDtjmU4UvcmFXYnnnqvYgkyhWilXu3/vnuxHd3UT8Ty/Q+MujUYj/21+ujMCM8iUhnZVRPw2g0pmxkjCZPjISauLv7QdNGTV9ev6lMWegyKf6ejfwgIeIHI1rEmDb2lQ7ekt9vaOc49M3p0hMSxnnTE0WBy9Jc5xy8+Rw3QxtHSCQWUDyD+YhVfshtD2N9DusilQ0Ik4Hacz9zcYqkOQZV8jyvmo3gJRFDb61UFfPiez8wau57IFatuXD2ikrj8aWeCpLtg7ZzELFL4eLv1eECeNR4g7cC9MsADMUpqz2NLIUHJmdztGpZo2+4SudgO9VV9YtxIesLt27/qoRRW+swBVtmx0SH2opCowkpi33gSEBGHcfm35rVKLSKpNafEWxvRiyw1d90ViDLyCYGzmexNnupTHLLzvTEWp2ZCkPGfdel9hMdk8Z1jgHrb/hM4fQ==;7kJfE0Z+c6nJGYSI0EXLkA=="
 ---
 

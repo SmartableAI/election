@@ -123,6 +123,31 @@ related:
       name: New York Post
       domain: nypost.com
     quality: 110
+  - title: "Donald Trump Jr.: Biden Admin's Handling Of Afghan Exit \"Literally The Most Biden Thing Ever\""
+    excerpt: "Donald Trump Jr. said the \"clown show\" that is the Biden administration's withdrawal of U.S. forces from Afghanistan continues to get worse and worse in an interview with Sean Hannity: \"American citizens are doing the job,"
+    publishedDateTime: 2021-09-09T14:40:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/09/09/donald_trump_jr_biden_admins_handling_of_afghan_exit_literally_the_most_biden_thing_ever.html"
+    ampWebUrl: "http://www.realclearpolitics.com/video/2021/09/09/donald_trump_jr_biden_admins_handling_of_afghan_exit_literally_the_most_biden_thing_ever.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/09/09/donald_trump_jr_biden_admins_handling_of_afghan_exit_literally_the_most_biden_thing_ever.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 89
+    images:
+      - url: "https://amp.spot.im/loader.png"
+        width: 375
+        height: 815
+        isCached: true
+  - title: "Mike Pence: Biden Vaccine Mandate \"Unlike Anything I’d Ever Heard From An American President\""
+    excerpt: "Former Vice President Mike Pence reacted to President Biden's announcement Thursday about new restrictions and requirements related to COVID-19. \"The president's speech yesterday was unlike anything I'd ever heard from an American president,"
+    publishedDateTime: 2021-09-10T16:11:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/09/10/mike_pence_biden_vaccine_mandate_unlike_anything_id_ever_heard_from_an_american_president.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 49
 
 secured: "uP4VKgLhl672/6xJTARZzULAS8Eq4ro2kKAl5kr1n+o3ePiG0irkLmXexyOexBORgxHUtejga/AT093dbzRi0uz/Mzx/TSfvClT67CgZWCyFHc3hTdpPv2w8jeRTiKF/XiSKOXZvdHTALI3Icd5n0YhIQ3nDKv6KrZ8R932l/RBItwgQKcBKd15lw5R4/mBsBA0g2Ov1ughRWER+9a06nkaSa/NEd+d2oShm2jFLPbg8YBtVfYSaz/qWoxLMXB2W5YenKmt0tdoDZDBiLcdjQPIyAkY+F7UAj3rUcvhQhvoUzSy1Bt3WLYLKZhm45/ih4rOLofqinDV3JNT4ucqJKaa2icHxfvm2t9J2BpRm2Dk=;4fgJa/nvsFrhxT5ehlKvbQ=="
 ---

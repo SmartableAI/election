@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/blumenthal-furious-biden-admin-dela
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/blumenthal-furious-biden-admin-delaying-americans-leaving-afghanistan.amp"
 type: article
 quality: 164
-heat: 284
+heat: 324
 published: true
 
 provider:
@@ -122,6 +122,31 @@ related:
       name: New York Post
       domain: nypost.com
     quality: 110
+  - title: "Donald Trump Jr.: Biden Admin's Handling Of Afghan Exit \"Literally The Most Biden Thing Ever\""
+    excerpt: "Donald Trump Jr. said the \"clown show\" that is the Biden administration's withdrawal of U.S. forces from Afghanistan continues to get worse and worse in an interview with Sean Hannity: \"American citizens are doing the job,"
+    publishedDateTime: 2021-09-09T14:40:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/09/09/donald_trump_jr_biden_admins_handling_of_afghan_exit_literally_the_most_biden_thing_ever.html"
+    ampWebUrl: "http://www.realclearpolitics.com/video/2021/09/09/donald_trump_jr_biden_admins_handling_of_afghan_exit_literally_the_most_biden_thing_ever.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/09/09/donald_trump_jr_biden_admins_handling_of_afghan_exit_literally_the_most_biden_thing_ever.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 89
+    images:
+      - url: "https://amp.spot.im/loader.png"
+        width: 375
+        height: 815
+        isCached: true
+  - title: "Mike Pence: Biden Vaccine Mandate \"Unlike Anything I’d Ever Heard From An American President\""
+    excerpt: "Former Vice President Mike Pence reacted to President Biden's announcement Thursday about new restrictions and requirements related to COVID-19. \"The president's speech yesterday was unlike anything I'd ever heard from an American president,"
+    publishedDateTime: 2021-09-10T16:11:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/09/10/mike_pence_biden_vaccine_mandate_unlike_anything_id_ever_heard_from_an_american_president.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 49
 
 secured: "Ep1JJ77z8gcKcHno5WdlEyNjXwHrLFXyHgY8gkuL9OhrUMOw8DrXwPoCtIVDC+gjXWXhjsfe6cAVzwVUui3onVl9YuUCDOeD3DSUreqtv1L/U1b8z1O2YHnKxv/Yj7cekGWkHB7TwYkP4hKmPj4fU3gpujqv4rvUXKUWYaoIvQyk5Io8tKqWmYfj2GG+mTRC1E+8X9d6viK5WFeWEAfRKNdPtc7YxK/8mgZyydD+OAuIj7n4FqCfAhqwO8nSGW1SFbmb83cTk7aIWRRq/Qr3Z40dICass7GplqsLw/rtw2k4YoptSYbAN29d5vDSf/QHW9c+ehVhFirkKGeY5wgGXAGpJJnaVQBit62aICYWQV0=;PcjBZ4lRXGUxLRUFO67sZA=="
 ---

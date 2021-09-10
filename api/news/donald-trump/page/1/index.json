@@ -2,6 +2,63 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-09-10-trump-tells-gutfeld-i-think-youll-be-very-happy-with-2024-plans.md",
+      "title": "Trump tells Gutfeld ‘I think you’ll be very happy’ with 2024 plans",
+      "excerpt": "President Donald Trump joins 'Gutfeld!' to talk Joe Biden, wokeism in America and the possibility of running in 2024.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/trump-gutfeld-2024-plans",
+      "originalUrl": "https://www.foxnews.com/media/trump-gutfeld-2024-plans",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/46d5eee1-ee87-4c84-93ec-39726e03cf26/97724e1e-9ff2-49f9-9b03-2f2c474bcecb/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/trump-gutfeld-2024-plans.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/trump-gutfeld-2024-plans.amp",
+      "publishedDateTime": "2021-09-10T00:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-09-10-donald-trump-getting-millions-and-millions-for-boxing-analyst-gig-report-says.md",
       "title": "Donald Trump getting ‘millions and millions’ for boxing analyst gig, report says",
       "excerpt": "Former President Donald Trump will serve as a commentator for Saturday's fight card at the Hard Rock Hotel & Casino in Hollywood, Florida.",
@@ -192,63 +249,6 @@
       ]
     },
     {
-      "path": "_news/2021-09-09-trump-to-gutfeld-your-fabulous-ratings-are-beating-some-very-untalented-people-slams-bidens-afghan-crisis.md",
-      "title": "Trump to Gutfeld: 'Your fabulous ratings are beating some very untalented people'; slams Biden's Afghan crisis",
-      "excerpt": "In a “Gutfeld!” exclusive, host Greg Gutfeld sat down for an interview with former President Donald Trump who praised the late-night host for his soaring ratings.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/trump-gutfeld-fabulous-ratings-biden-afghan-crisis",
-      "originalUrl": "https://www.foxnews.com/media/trump-gutfeld-fabulous-ratings-biden-afghan-crisis",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 130,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/da79e517-2779-41d5-9f33-1c0b5ad193bf/51443114-5371-4aa9-b22b-7eb0c20705c5/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/trump-gutfeld-fabulous-ratings-biden-afghan-crisis.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/trump-gutfeld-fabulous-ratings-biden-afghan-crisis.amp",
-      "publishedDateTime": "2021-09-08T21:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-09-09-arizonas-election-audit-isnt-done-but-two-trump-supporting-republicans-are-just-declaring-victory-for-him-anyway.md",
       "title": "Arizona's Election \"Audit\" Isn't Done, But Two Trump-Supporting Republicans Are Just Declaring Victory For Him Anyway",
       "excerpt": "There's no end to the Arizona audit in sight. But with other Trump backers looking to take up audits of their own, some are ready to just call it a win.",
@@ -350,6 +350,54 @@
       "topics": [
         "Election",
         "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-09-09-anchors-away-biden-fires-trump-trio-from-naval-academy-board-drawing-ire.md",
+      "title": "Anchors away! Biden fires Trump trio from Naval Academy board, drawing ire",
+      "excerpt": "President Biden is firing members of the Naval Academy’s board of visitors who were appointed by former President Donald Trump.",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/09/08/biden-fires-trump-trio-from-naval-academy-board/",
+      "originalUrl": "https://nypost.com/2021/09/08/biden-fires-trump-trio-from-naval-academy-board/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 208,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/09/John-p-coale.jpg?quality=90&strip=all&w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/09/08/biden-fires-trump-trio-from-naval-academy-board/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/09/08/biden-fires-trump-trio-from-naval-academy-board/amp/",
+      "publishedDateTime": "2021-09-08T12:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
       ]
     },
     {
@@ -610,7 +658,7 @@
       "originalUrl": "https://abcnews.go.com/Sports/donald-trump-son-provide-commentary-evander-holyfield-vitor/story?id=79884415",
       "featuredContent": null,
       "highlight": null,
-      "heat": 214,
+      "heat": 234,
       "tags": null,
       "images": [
         {
@@ -710,7 +758,7 @@
       "originalUrl": "https://www.houstonchronicle.com/politics/texas/article/How-Texas-is-following-up-on-Trump-s-voter-16441526.php",
       "featuredContent": null,
       "highlight": null,
-      "heat": 479,
+      "heat": 499,
       "tags": null,
       "images": [
         {
@@ -1147,7 +1195,7 @@
       "originalUrl": "https://www.cnbc.com/2021/09/03/trump-should-not-lead-gop-ticket-in-2024-retiring-sen-pat-toomey-says.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 485,
+      "heat": 505,
       "tags": null,
       "images": [
         {
@@ -1402,58 +1450,6 @@
         "name": "Washington Times",
         "domain": "washingtontimes.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-09-03-lawyer-for-trump-ally-tom-barrack-pushes-prosecutors-for-evidence-in-united-arab-emirates-lobby-case.md",
-      "title": "Lawyer for Trump ally Tom Barrack pushes prosecutors for evidence in United Arab Emirates lobby case",
-      "excerpt": "Tom Barrack, a private equity investor and close friend of ex-President Donald Trump, is accused of advancing the interests of the United Arab Emirates.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2021/09/02/trump-ally-tom-barrack-in-court-on-uae-lobbying-case.html",
-      "originalUrl": "https://www.cnbc.com/2021/09/02/trump-ally-tom-barrack-in-court-on-uae-lobbying-case.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 130,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106916020-1627047142866-tom.jpg?v=1630591233",
-          "width": 2686,
-          "height": 1790,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2021/09/02/trump-ally-tom-barrack-in-court-on-uae-lobbying-case.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/09/02/trump-ally-tom-barrack-in-court-on-uae-lobbying-case.html",
-      "publishedDateTime": "2021-09-02T10:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

@@ -28,54 +28,122 @@ images:
     isCached: true
 
 related:
-  - title: "Kellyanne Conway, Sean Spicer fire back after Biden boots Trump appointees from military panels"
-    excerpt: "Biden is facing backlash after asking for resignations from multiple members of military academies’"
-    publishedDateTime: 2021-09-09T00:00:56Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MG74Q-dK0Jg/kellyanne-conway-sean-spicer-biden-trump-appointees-military-panels"
-    ampWebUrl: "https://www.foxnews.com/politics/kellyanne-conway-sean-spicer-biden-trump-appointees-military-panels.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kellyanne-conway-sean-spicer-biden-trump-appointees-military-panels.amp"
+  - title: "Dem Sen. Blumenthal 'furious' over Biden admin delaying Americans trying to leave Afghanistan"
+    excerpt: "Blumenthal issued a press release on Monday eviscerating the Biden administration for delaying flights out of the Mazar-e Sharif airport in Afghanistan following reports of the administration not giving the evacuation flights the green light."
+    publishedDateTime: 2021-09-06T20:19:42Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/kENpkTmIBPE/blumenthal-furious-biden-admin-delaying-americans-leaving-afghanistan"
+    ampWebUrl: "https://www.foxnews.com/politics/blumenthal-furious-biden-admin-delaying-americans-leaving-afghanistan.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/blumenthal-furious-biden-admin-delaying-americans-leaving-afghanistan.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 178
+    quality: 164
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cc1c997f-286e-4d8c-98db-ad4a6622ad97/d28953bc-1942-4bbb-a47c-9ec8248ffb03/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/04b85745-97df-4872-a1d3-4da58d592640/014fa703-791a-4450-8b15-207c99af5c23/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
-  - title: "Anchors away! Biden fires Trump trio from Naval Academy board, drawing ire"
-    excerpt: "President Biden is firing members of the Naval Academy’s board of visitors who were appointed by former President Donald Trump."
-    publishedDateTime: 2021-09-08T19:40:00Z
-    webUrl: "https://nypost.com/2021/09/08/biden-fires-trump-trio-from-naval-academy-board/"
-    ampWebUrl: "https://nypost.com/2021/09/08/biden-fires-trump-trio-from-naval-academy-board/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/09/08/biden-fires-trump-trio-from-naval-academy-board/amp/"
+  - title: "Biden heckled in New Jersey for stranding Americans in Afghanistan: 'He will leave you behind'"
+    excerpt: "President Biden was heckled for stranding Americans in Afghanistan while he surveyed the damage from Hurricane Ida in New Jersey on Tuesday."
+    publishedDateTime: 2021-09-07T19:56:31Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/DsU5dhEsbpI/biden-heckled-new-jersey-americans-afghanistan"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-heckled-new-jersey-americans-afghanistan.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-heckled-new-jersey-americans-afghanistan.amp"
     type: article
     provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 148
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/09/John-p-coale.jpg?quality=90&strip=all&w=1024"
-        width: 1024
-        height: 682
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7fed0c04-f341-4305-b113-5df9d7a29a33/9255072c-c73c-4378-9c67-8b2d77ff92eb/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
-  - title: "Lara Trump blasts NY Times for 'double standard' after editing headline about Biden and his son Beau"
-    excerpt: "Fox News contributor Lara Trump blasted the New York Times for softening a headline initially critical of President Biden for talking about his late son Beau when meeting with the families of troops killed in Afghanistan,"
-    publishedDateTime: 2021-09-05T16:56:00Z
-    webUrl: "https://www.foxnews.com/media/ny-times-changes-headline-on-beau-biden"
-    ampWebUrl: "https://www.foxnews.com/media/ny-times-changes-headline-on-beau-biden.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/ny-times-changes-headline-on-beau-biden.amp"
+  - title: "White House official 'appalled and literally horrified' that Biden stranded Americans in Afghanistan: report"
+    excerpt: "A White House official said they were \"appalled and literally horrified\" that President Biden left Americans stranded in Afghanistan, a new report reveals."
+    publishedDateTime: 2021-09-01T17:23:45Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5g-os7IOm38/white-house-official-horrified-biden-abandoning-americans"
+    ampWebUrl: "https://www.foxnews.com/politics/white-house-official-horrified-biden-abandoning-americans.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-official-horrified-biden-abandoning-americans.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 156
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/405dfe65-f4a7-443e-994b-01a414599434/526a1cb1-9f42-417f-b39b-eb7ea33527eb/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Tom Cotton: Biden kept promise to Taliban, not Americans"
+    excerpt: "President Biden appears to have broken his promise to stay in Afghanistan until every American is evacuated. Marine Corps Gen. Kenneth F. McKenzie Jr. announced Monday evening that the last of the U.S."
+    publishedDateTime: 2021-08-31T08:11:00Z
+    webUrl: "https://www.foxnews.com/media/tom-cotton-biden-kept-promise-to-taliban-not-americans"
+    ampWebUrl: "https://www.foxnews.com/media/tom-cotton-biden-kept-promise-to-taliban-not-americans.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/tom-cotton-biden-kept-promise-to-taliban-not-americans.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 135
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ab16235e-7cf3-40a3-9bf0-2d3f23ea92cd/0630e86d-55f3-4867-8638-47312e235d26/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0d65ccbd-a41f-4591-b906-397b9ae77004/e22f835a-05e3-479d-a9a9-8be130c445c3/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
+  - title: "'MediaBuzz' on mainstream media already moving on from Biden's Afghanistan withdrawal"
+    excerpt: "If there is a media consensus beyond the debate of whether our military should have stayed in Afghanistan for 20 years or gotten out much sooner, it's that the chaotic withdrawal was badly botched, that the terrorist murder of 13 service members was an atrocity,"
+    publishedDateTime: 2021-09-07T19:41:00Z
+    webUrl: "https://www.foxnews.com/transcript/media-buzz-on-mainstream-media-already-moving-on-from-bidens-afghanistan-withdrawal"
+    ampWebUrl: "https://www.foxnews.com/transcript/media-buzz-on-mainstream-media-already-moving-on-from-bidens-afghanistan-withdrawal.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/media-buzz-on-mainstream-media-already-moving-on-from-bidens-afghanistan-withdrawal.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 128
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ed89f9cc-4c07-4899-ae2a-241cedc661aa/b1f15d6f-8f54-4532-acae-dcec617867c9/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "NY Times mocked for piece on 'Biden doctrine' following Afghanistan exit: 'Is this a WH press release?'"
+    excerpt: "The New York Times' became the focus of intense mockery over what was seen as a puff piece seemingly praising President Joe Biden's foreign policy, despite the debacle that took place amid the U.S. withdrawal from Afghanistan last month."
+    publishedDateTime: 2021-09-06T17:33:00Z
+    webUrl: "https://www.foxnews.com/media/new-york-times-puff-piece-biden-doctrine-afghanistan-debacle"
+    ampWebUrl: "https://www.foxnews.com/media/new-york-times-puff-piece-biden-doctrine-afghanistan-debacle.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/new-york-times-puff-piece-biden-doctrine-afghanistan-debacle.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 119
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/28ce96d4-01e7-4d38-b251-616b2c5e33bf/a5ef951d-4ca3-4be5-88db-5f10eaf8b0a0/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Passenger aboard American Airlines flight growls like a dog, shouts, ‘Joe Biden!’"
+    excerpt: "The man, identified as 61-year-old Timothy Armstrong of Las Vegas, was aboard Flight 1802 from LA to Salt Lake City on Monday when he went on his unhinged tirade."
+    publishedDateTime: 2021-09-09T14:59:00Z
+    webUrl: "https://nypost.com/2021/09/09/passenger-aboard-american-airlines-flight-growls-like-a-dog/"
+    ampWebUrl: "https://nypost.com/2021/09/09/passenger-aboard-american-airlines-flight-growls-like-a-dog/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/09/09/passenger-aboard-american-airlines-flight-growls-like-a-dog/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 110
+  - title: "Mike Pence: Biden Vaccine Mandate \"Unlike Anything I’d Ever Heard From An American President\""
+    excerpt: "Former Vice President Mike Pence reacted to President Biden's announcement Thursday about new restrictions and requirements related to COVID-19. \"The president's speech yesterday was unlike anything I'd ever heard from an American president,"
+    publishedDateTime: 2021-09-10T16:11:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/09/10/mike_pence_biden_vaccine_mandate_unlike_anything_id_ever_heard_from_an_american_president.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 49
 
 secured: "BIA0oNGoEAfXlkTlnmv+pqYIA30b9CL/d/nYivBSsTmRwrmP0pKHeBuyPXVcMtbwXtGFT9CGf2XFOMNxppW80crCZzNMgVp582Hj7ilyKbmSklxkiJdtIbM1JIRdPt/1phjdBFfs495RnQ66uhmcu8m5XBsrrZBQEFxBAFgKE3pJzEx0t5CHA11zTnpzydroR/7Esap6Yu3NOieVSnUPkKE7nYWM9zst5zDgpXnoN9ny+n9OmKD4P0mT3F+EU0iOiLHiHJ9VQJiVbTZhvasxXIihjvGj3UvUiuFdU5r0ajw1RW2/RXP0MZBryswQKh7rDAb8SpXHqRVQtcad9NxBgTMjdPfyiP18uwu2FvYkAwVwo9KdEyvpHxB1HILXD/IMQ9Dno3M5NAJM2gxQANG7BGbBnGM3c66YewVmbKGZCm7bVN738ekR8/neNmwZU52id/wdKFyU5qt8V56xXDOKXOeIH+zT55Vgp9Exy1Q4Z8Ujk0exivdNfuNfCQmAIRFFWtNPojKVU9vcJ1E2fpUOfw==;s9zoA97RwyKy5dMvPNG6qA=="
 ---

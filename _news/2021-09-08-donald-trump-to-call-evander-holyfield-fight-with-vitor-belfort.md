@@ -73,6 +73,22 @@ related:
         width: 3324
         height: 2217
         isCached: true
+  - title: "Former President Donald Trump to provide commentary for Evander Holyfield vs. Vitor Belfort fight"
+    excerpt: "Former President Donald Trump will provide live commentary for the boxing match between Evander Holyfield and Vitor Belfort."
+    publishedDateTime: 2021-09-08T02:00:00Z
+    webUrl: "https://www.freep.com/story/sports/boxing/2021/09/07/donald-trump-commentary-evander-holyfield-vitor-belfort-fight/5764933001/"
+    ampWebUrl: "https://amp.freep.com/amp/5764933001"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/5764933001"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 62
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/09/08/USAT/187bc8e2-b9d1-458b-b407-979b66bf2f05-USATSI_16393793.jpg?auto=webp&crop=2681,1508,x0,y4&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Former President Trump to serve as boxing commentator | Charlotte Observer"
     excerpt: "Former President Donald Trump is scheduled to provide commentary from ringside Saturday for an exhibition boxing card headlined by 58-year-old former heavyweight champion Evander Holyfield."
     publishedDateTime: 2021-09-08T21:31:00Z

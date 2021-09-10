@@ -141,6 +141,20 @@ related:
         width: 1400
         height: 924
         isCached: true
+  - title: "Joe Biden’s war on virus becomes war on unvaccinated"
+    excerpt: "President Joe Biden is trying to concentrate the anger of the nation’s inoculated majority against the stubborn 25% of eligible Americans who remain unvaccinated against COVID-19. Nearly 8 months after declaring “war” on the coronavirus as he took office,"
+    publishedDateTime: 2021-09-10T13:55:00Z
+    webUrl: "https://floridapolitics.com/archives/456570-joe-bidens-war-on-virus-becomes-war-on-unvaccinated/"
+    type: article
+    provider:
+      name: Florida Politics
+      domain: floridapolitics.com
+    quality: 55
+    images:
+      - url: "https://floridapolitics.com/wp-content/uploads/2021/08/1000-47.jpeg"
+        width: 1000
+        height: 666
+        isCached: true
 
 secured: "Fo3uL1phKQZlBO7PBYg7esQLqjZ/wdG2duTw02qw5mSykVlehGFtvudvfpxUGT7y6T1NHim7MWZPg8mISlbcAMiy+Byi+tzurG6lp3fL5VjHh7wct8e4JUu04AE7MYGyVKb7+fZmlauXNf8cQnPxCPM2wBQU2koVH2sHRreZmLBIWvLEvrO9l9LTljWt/shSDkj5i5OjYsjSPPkjT4Ruy3xtUsTQjk4iaRFKN18t2uAanJb1ECTkY9/5VKvfugRlcWfzn9B66d9khI8Rp0UvIy29Tlwg/Czu0tSL0501au39TdYc5zGQGv4xaeHE/C4o0fJ+2a+uuMNS0SE0n+rPAPqgFJTImJ1v7n+qSHGdiCM2mb29clYvE8sRD1sjNrfn3Sa6EGl7diej1PeXS/pbLVJKSt7DhBpI/0XRl9KS7RCcaV1c+3fetC6YDHLGVTe9TGxIlJgULx/5JD6mJcR7oOr6CllZ+Iim+SpGw04PZkM5p0eqXyiSXb0NqgwikN9VC1gTzKQy78HW7iLgS/ivvg==;oTPJfl1B41rd4MCi/34h0Q=="
 ---

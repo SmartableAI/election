@@ -2,6 +2,653 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2021-07-22-biden-to-nominate-widow-of-late-sen-ted-kennedy-as-ambassador-to-austria.md",
+      "title": "Biden to nominate widow of late Sen. Ted Kennedy as ambassador to Austria",
+      "excerpt": "President Joe Biden is nominating the widow of late Democratic Sen. Edward M. Kennedy to serve as the United States Ambassador to Austria.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/FCtFiR69Pv0/biden-to-nominates-widow-of-late-sen-ted-kennedy-as-ambassador-to-austria",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/FCtFiR69Pv0/biden-to-nominates-widow-of-late-sen-ted-kennedy-as-ambassador-to-austria",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 174,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e7862f13-9e5a-4ea8-8989-4f240981571b/c3d1dd96-73fe-4544-abee-62b37357c069/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-to-nominates-widow-of-late-sen-ted-kennedy-as-ambassador-to-austria.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-to-nominates-widow-of-late-sen-ted-kennedy-as-ambassador-to-austria.amp",
+      "publishedDateTime": "2021-07-21T17:14:50-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-21-analysis-what-are-the-odds-biden-can-un-stall-the-rest-of-his-agenda.md",
+      "title": "Analysis: What are the odds Biden can un-stall the rest of his agenda?",
+      "excerpt": "We're sIx months into the Joe Biden presidency. The President is set to take part in a CNN Town Hall to be broadcast live at 8 p.m. ET Wednesday night in Cincinnati, Ohio.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OTxGsqn9E-I/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OTxGsqn9E-I/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 315,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210719124237-02-biden-economy-remarks-0719-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/21/politics/biden-infrastructure-agenda-what-matters/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/21/politics/biden-infrastructure-agenda-what-matters/index.html",
+      "publishedDateTime": "2021-07-21T16:45:28-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-22-trump-implores-gop-to-push-back-against-dems-35t-spending-spree.md",
+      "title": "Trump implores GOP to ‘push back’ against Dems’ $3.5T spending spree",
+      "excerpt": "Former President Donald Trump urged House Republicans Wednesday to block the Democrats’ $3.5 trillion budget resolution from passing the Senate after a $1.2 trillion bipartisan",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/07/21/trump-wants-gop-to-push-back-against-dems-3-5t-spending/",
+      "originalUrl": "https://nypost.com/2021/07/21/trump-wants-gop-to-push-back-against-dems-3-5t-spending/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/07/DonaldTrump.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/07/21/trump-wants-gop-to-push-back-against-dems-3-5t-spending/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/21/trump-wants-gop-to-push-back-against-dems-3-5t-spending/amp/",
+      "publishedDateTime": "2021-07-21T14:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-22-biden-nominates-victoria-kennedy-for-austria-ambassadorship.md",
+      "title": "Biden nominates Victoria Kennedy for Austria ambassadorship",
+      "excerpt": "President Joe Biden is nominating Victoria Kennedy, an attorney and the widow of Sen. Ted Kennedy, to serve as his ambassador to Austria WASHINGTON -- President Joe Biden is nominating Victoria ...",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/biden-nominates-victoria-kennedy-austria-ambassadorship-78975901",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/biden-nominates-victoria-kennedy-austria-ambassadorship-78975901",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/WireAP_8ef2cb0f67a04ce08696bd3210b35719_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/biden-nominates-victoria-kennedy-austria-ambassadorship-78975901",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-nominates-victoria-kennedy-austria-ambassadorship-78975901",
+      "publishedDateTime": "2021-07-21T14:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABCNews",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-07-21-ukrainian-president-zelensky-to-visit-biden-in-august.md",
+      "title": "Ukrainian president Zelensky to visit Biden in August",
+      "excerpt": "Ukrainian President Volodymyr Zelensky is set to meet with President Biden next month, the White House announced Wednesday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/hN0eY0h6bdo/ukrainian-president-to-visit-biden-in-august",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/hN0eY0h6bdo/ukrainian-president-to-visit-biden-in-august",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 335,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/216af4a8-262c-428f-8c3c-b0753edaf990/d499b3d7-637d-4397-b5ce-8e666de59a61/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/ukrainian-president-to-visit-biden-in-august.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ukrainian-president-to-visit-biden-in-august.amp",
+      "publishedDateTime": "2021-07-21T13:49:40-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-21-us-and-germany-reach-deal-on-controversial-pipeline-that-biden-sees-as-a-russian-geopolitical-project.md",
+      "title": "US and Germany reach deal on controversial pipeline that Biden sees as a Russian 'geopolitical project'",
+      "excerpt": "The US announced Wednesday that it has reached a deal with Germany that would allow completion of the controversial Nord Stream 2 pipeline opposed by the Biden administration as a \"malign influence project\" that Russia could use to gain leverage over European allies.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/kxD2kBjUb_8/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/kxD2kBjUb_8/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210715101113-merkel-biden-cnn-primera-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/21/politics/us-german-nord-stream-2-deal/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/21/politics/us-german-nord-stream-2-deal/index.html",
+      "publishedDateTime": "2021-07-21T13:47:11-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-21-outraged-pro-life-catholics-call-for-protests-over-biden-appearance-at-a-catholic-university.md",
+      "title": "Outraged pro-life Catholics call for protests over Biden appearance at a Catholic university",
+      "excerpt": "Catholics and pro-life advocates are speaking out against President Biden’s Wednesday night appearance at a Catholic university in Cincinnati, Ohio and urging protesters to show up at the event.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/uXZUV5NewLM/catholics-outraged-over-bidens-appearance-at-catholic-university-call-for-protests",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/uXZUV5NewLM/catholics-outraged-over-bidens-appearance-at-catholic-university-call-for-protests",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/86ae3c04-708c-4604-af91-a66a48c0b01e/ac37f069-d35a-429e-b439-c6e33a5c9bac/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/catholics-outraged-over-bidens-appearance-at-catholic-university-call-for-protests.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/catholics-outraged-over-bidens-appearance-at-catholic-university-call-for-protests.amp",
+      "publishedDateTime": "2021-07-21T13:40:10-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-21-biden-names-ambassadors-to-canada-slovenia-and-austria.md",
+      "title": "Biden names ambassadors to Canada, Slovenia and Austria",
+      "excerpt": "President Joe Biden has selected another round of ambassadors, including choices for posts in Canada, Slovenia and Austria.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Y283jcgngeM/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Y283jcgngeM/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 215,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210716101315-01-biden-0713-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/21/politics/ambassadors-canada-slovenia-austria-biden/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/21/politics/ambassadors-canada-slovenia-austria-biden/index.html",
+      "publishedDateTime": "2021-07-21T13:19:15-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-21-biden-marks-6-months-in-office-on-instagram-gets-shredded-in-comments.md",
+      "title": "Biden marks 6 months in office on Instagram, gets shredded in comments",
+      "excerpt": "Within Biden's first six months, consumer prices rose 5.4% in June from the previous year, and gas prices are now averaging 98 cents higher than this time last year.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dh2CqaJ3UZ4/biden-marks-6-months-in-office-on-instagram-gets-shredded-in-comments",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dh2CqaJ3UZ4/biden-marks-6-months-in-office-on-instagram-gets-shredded-in-comments",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 255,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ff65d410-0f23-4584-912e-960c5257a31c/99d3cbaa-c96e-4963-80ee-de2517a9d308/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-marks-6-months-in-office-on-instagram-gets-shredded-in-comments.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-marks-6-months-in-office-on-instagram-gets-shredded-in-comments.amp",
+      "publishedDateTime": "2021-07-21T07:08:15-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-21-tom-brady-joe-biden-play-political-football-at-white-house-super-bowl-celebration.md",
+      "title": "Tom Brady, Joe Biden play political football at White House Super Bowl celebration",
+      "excerpt": "Tom Brady was out to score political points at the White House, dropping jokes like passes. Brady and the Super Bowl LIV champion Tampa Bay Buccaneers attended a Rose Garden ceremony hosted by President Biden on Tuesday,",
+      "sourceUrl": null,
+      "webUrl": "https://www.mercurynews.com/2021/07/21/tom-brady-visits-white-house-with-bucs-cracks-political-jokes-with-biden/",
+      "originalUrl": "https://www.mercurynews.com/2021/07/21/tom-brady-visits-white-house-with-bucs-cracks-political-jokes-with-biden/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mercurynews.com/wp-content/uploads/2021/07/60f7016893e0a.image_.jpg?w=1024&h=683",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.mercurynews.com/2021/07/21/tom-brady-visits-white-house-with-bucs-cracks-political-jokes-with-biden/amp/",
+      "cdnAmpWebUrl": "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/07/21/tom-brady-visits-white-house-with-bucs-cracks-political-jokes-with-biden/amp/",
+      "publishedDateTime": "2021-07-21T05:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mercury News",
+        "domain": "mercurynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-07-20-former-trump-adviser-tom-barrack-pleading-not-guilty-to-acting-as-uae-agent-attorney.md",
+      "title": "Former Trump adviser Tom Barrack pleading 'not guilty' to acting as UAE agent: attorney",
+      "excerpt": "Barrack, who served as Trump’s 2017 inaugural committee chair, was arrested and charged on Tuesday with being an agent of the United Arab Emirates between April 2016 and April 2018.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/DSjFd7H-Q_A/former-trump-adviser-tom-barrack-pleading-not-guilty-united-arab-emirates-agent",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/DSjFd7H-Q_A/former-trump-adviser-tom-barrack-pleading-not-guilty-united-arab-emirates-agent",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 207,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/05/340/340/marta.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/former-trump-adviser-tom-barrack-pleading-not-guilty-united-arab-emirates-agent.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/former-trump-adviser-tom-barrack-pleading-not-guilty-united-arab-emirates-agent.amp",
+      "publishedDateTime": "2021-07-20T16:08:08-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-20-donald-trumps-favorite-athlete-just-mocked-the-big-lie-to-the-man-who-beat-him.md",
+      "title": "Donald Trump's favorite athlete just mocked the 'Big Lie' to the man who beat him",
+      "excerpt": "Tuesday was not a good day for Donald Trump.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UIvQuvkI4Uk/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UIvQuvkI4Uk/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 190,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210720124442-brady-buccaneers-white-hous-0720-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/20/politics/tom-brady-donald-trump-big-lie-joe-biden/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/20/politics/tom-brady-donald-trump-big-lie-joe-biden/index.html",
+      "publishedDateTime": "2021-07-20T15:32:44-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-20-larry-elder-says-california-law-disqualifying-him-from-recall-ballot-was-designed-to-get-trumps-tax-returns.md",
       "title": "Larry Elder says California law disqualifying him from recall ballot was designed to get Trump's tax returns",
       "excerpt": "Conservative talk radio host Larry Elder says the California law used to disqualify him from being on the ballot for the recall election against Gov. Gavin Newsom was originally passed by state lawmakers to force President Donald Trump to turn over his tax returns if he wanted to qualify for the 2020",
@@ -695,625 +1342,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-19-trump-ally-jim-jordan-among-republicans-tapped-for-jan-6-select-committee.md",
-      "title": "Trump ally Jim Jordan among Republicans tapped for Jan. 6 select committee",
-      "excerpt": "Rep. Jim Jordan, R-Ohio, a prominent ally of former President Donald Trump, is one of a handful of GOP lawmakers set to be appointed to House Speaker Nancy Pelosi’s select committee to investigate the Jan. 6 Capitol riot.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ow7Mg7dj-rQ/jim-jordan-republicans-jan-6-select-committee",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ow7Mg7dj-rQ/jim-jordan-republicans-jan-6-select-committee",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 193,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/650ffed3-b78a-4a9e-a434-ddb20b5cb605/612d639b-0184-4120-bd4d-609c5af00b5b/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/jim-jordan-republicans-jan-6-select-committee.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jim-jordan-republicans-jan-6-select-committee.amp",
-      "publishedDateTime": "2021-07-19T16:51:38-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-19-psaki-says-wh-will-welcome-covid-19-vaccine-psa-from-trump-as-cases-rise.md",
-      "title": "Psaki says WH will 'welcome' COVID-19 vaccine PSA from Trump as cases rise",
-      "excerpt": "Fox News’ Peter Doocy asked Psaki if President Biden would reach out to Trump to “cut a PSA” telling people to get vaccinated against COVID-19.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8taJHKGqous/psaki-trump-covid-psa-welcome",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8taJHKGqous/psaki-trump-covid-psa-welcome",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 193,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8dd557d5-4070-482a-bf1c-9bd4730188fc/a1bea93a-e995-457f-b882-6ab308460503/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/psaki-trump-covid-psa-welcome.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-trump-covid-psa-welcome.amp",
-      "publishedDateTime": "2021-07-19T13:18:37-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-19-mike-pence-would-like-to-be-president-but-no-one-likes-mike-pence.md",
-      "title": "Mike Pence would like to be President. But no one likes Mike Pence.",
-      "excerpt": "Polling shows that Pence's presidential ambitions are dead in the water. The MAGA crowd doesn't trust him, the Never Trumpers hate him, and evangelicals have other",
-      "sourceUrl": null,
-      "webUrl": "https://www.lgbtqnation.com/2021/07/mike-pence-like-president-no-one-likes-mike-pence/",
-      "originalUrl": "https://www.lgbtqnation.com/2021/07/mike-pence-like-president-no-one-likes-mike-pence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://abuwjaawap.cloudimg.io/v7/_lgbtqnation-assets_/assets/2019/07/mike-pence1-702x522.jpg?&auto=format&auto=compress&crop=faces&fit=crop&gravity=face&w=1200&h=630&wat=1&wat_gravity=southeast&wat_pad=40",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.lgbtqnation.com/2021/07/mike-pence-like-president-no-one-likes-mike-pence/",
-      "cdnAmpWebUrl": "https://www-lgbtqnation-com.cdn.ampproject.org/c/s/www.lgbtqnation.com/2021/07/mike-pence-like-president-no-one-likes-mike-pence/",
-      "publishedDateTime": "2021-07-19T07:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LGBTQ Nation",
-        "domain": "lgbtqnation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-07-19-who-is-abdul-latif-nasser-joe-biden-releases-first-guantanamo-bay-prisoner.md",
-      "title": "Who Is Abdul Latif Nasser? Joe Biden Releases First Guantánamo Bay Prisoner",
-      "excerpt": "On Monday, the Biden administration transferred its first detainee out of Guantánamo Bay, repatriating a Moroccan man who has been held in the notorious prison for nearly two decades on no charge. The release of Abdul Latif Nasser,",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/who-abdul-latif-nasser-joe-biden-releases-first-guantanamo-bay-prisoner-1610971",
-      "originalUrl": "https://www.newsweek.com/who-abdul-latif-nasser-joe-biden-releases-first-guantanamo-bay-prisoner-1610971",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 143,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1703346/gitmo2002.jpg",
-          "width": 3000,
-          "height": 1968,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/who-abdul-latif-nasser-joe-biden-releases-first-guantanamo-bay-prisoner-1610971?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/who-abdul-latif-nasser-joe-biden-releases-first-guantanamo-bay-prisoner-1610971?amp=1",
-      "publishedDateTime": "2021-07-19T06:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-07-19-michael-wolff-murdoch-hates-trump-but-loves-fox-news-money-more.md",
-      "title": "Michael Wolff: Murdoch hates Trump but loves Fox News money more",
-      "excerpt": "In book, Wolff says that Murdoch personally approved network’s early call of Arizona, which signalled Trump’s defeat",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/media/2021/jul/19/landslide-michael-wolff-rupert-murdoch-donald-trump-fox-news",
-      "originalUrl": "https://www.theguardian.com/media/2021/jul/19/landslide-michael-wolff-rupert-murdoch-donald-trump-fox-news",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 245,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/a73f231d740d05f5ae6f1fcb8fc8ab138e9c8083/0_73_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=c634a9013950e6eb0b24de4c9b40f10f",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/media/2021/jul/19/landslide-michael-wolff-rupert-murdoch-donald-trump-fox-news",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/media/2021/jul/19/landslide-michael-wolff-rupert-murdoch-donald-trump-fox-news",
-      "publishedDateTime": "2021-07-19T03:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-19-jeb-bush-appeals-to-biden-to-tear-down-cuba-cyberwall.md",
-      "title": "Jeb Bush appeals to Biden to ‘tear down’ Cuba Cyberwall",
-      "excerpt": "Jeb Bush, the former GOP presidential candidate, took to Twitter on Sunday to appeal to the Bide administration to employ the needed technology to restore internet service in Cuba amid the unrest that was sparked a week ago during anti-government protests.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/waYe3EYbmY0/jeb-bush-appeals-to-biden-to-tear-down-cuba-cyberwall",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/waYe3EYbmY0/jeb-bush-appeals-to-biden-to-tear-down-cuba-cyberwall",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 275,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/jeb-bush-appeals-to-biden-to-tear-down-cuba-cyberwall.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jeb-bush-appeals-to-biden-to-tear-down-cuba-cyberwall.amp",
-      "publishedDateTime": "2021-07-19T00:13:47-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-19-msnbc-guest-attacks-biden-as-hypocritical-for-failing-to-end-filibuster.md",
-      "title": "MSNBC guest attacks Biden as 'hypocritical' for failing to end filibuster",
-      "excerpt": "MSNBC host Tiffany Cross and her guests criticized President Joe Biden for \"failing\" to end the filibuster while fighting Republican election reform bills.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/msnbc-attacks-biden-as-hypocritical-for-failing-to-end-filibuster",
-      "originalUrl": "https://www.foxnews.com/media/msnbc-attacks-biden-as-hypocritical-for-failing-to-end-filibuster",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/92f4cc0c-cb4d-4f07-9c3a-50c1dc6bdafe/53331b72-c653-4a88-9b8b-ff321e9b3112/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/msnbc-attacks-biden-as-hypocritical-for-failing-to-end-filibuster.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/msnbc-attacks-biden-as-hypocritical-for-failing-to-end-filibuster.amp",
-      "publishedDateTime": "2021-07-18T13:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-18-harris-visits-walter-reed-for-routine-doctor-appointment-days-after-meeting-with-infected-texas-democrats.md",
-      "title": "Harris visits Walter Reed for 'routine' doctor appointment days after meeting with infected Texas Democrats",
-      "excerpt": "Vice President Kamala Harris is going for what a White House official told Fox News is a \"routine doctor's appointment\" at Walter Reed Medical Center on Sunday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vSg6q0tiK-s/harris-walter-reed-routine-doctor-appointmentdays-texas-democrats-covid",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vSg6q0tiK-s/harris-walter-reed-routine-doctor-appointmentdays-texas-democrats-covid",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 327,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/harris-walter-reed-routine-doctor-appointmentdays-texas-democrats-covid.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-walter-reed-routine-doctor-appointmentdays-texas-democrats-covid.amp",
-      "publishedDateTime": "2021-07-18T11:27:53-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-07-19-former-sf-giants-star-hunter-pence-debuting-as-tv-color-commentator-on-sunday.md",
-      "title": "Former SF Giants star Hunter Pence debuting as TV color commentator on Sunday",
-      "excerpt": "Pence has kept himself busy with various projects and adventures since the day he hung up his spikes last season and on Sunday, the former Giants star announced his latest pursuit. Pence will serve as the color commentator alongside play-by-play broadcaster Dave Flemming for the Giants’ series finale in St.",
-      "sourceUrl": null,
-      "webUrl": "https://www.mercurynews.com/2021/07/18/former-sf-giants-star-hunter-pence-debuting-as-tv-color-commentator-on-sunday",
-      "originalUrl": "https://www.mercurynews.com/2021/07/18/former-sf-giants-star-hunter-pence-debuting-as-tv-color-commentator-on-sunday",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mercurynews.com/wp-content/uploads/2020/02/BNG-L-GIANTSFEST-0209-1.jpg?w=1024&h=669",
-          "width": 1024,
-          "height": 669,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.mercurynews.com/2021/07/18/former-sf-giants-star-hunter-pence-debuting-as-tv-color-commentator-on-sunday/amp/",
-      "cdnAmpWebUrl": "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/07/18/former-sf-giants-star-hunter-pence-debuting-as-tv-color-commentator-on-sunday/amp/",
-      "publishedDateTime": "2021-07-18T10:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mercury News",
-        "domain": "mercurynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-07-19-mullen-says-post-election-chaos-within-trump-white-house-incredibly-disturbing.md",
-      "title": "Mullen says post-election chaos within Trump White House \"incredibly disturbing\"",
-      "excerpt": "New reporting suggests Chairman of the Joint Chiefs of Staff Mark Milley believed former President Trump might stage a coup to try to stay in power. Admiral Mark Mullen, the former Chairman of the Joint Chiefs of Staff,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/video/mullen-says-post-election-chaos-within-trump-white-house-incredibly-disturbing/",
-      "originalUrl": "https://www.cbsnews.com/video/mullen-says-post-election-chaos-within-trump-white-house-incredibly-disturbing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2021/07/18/9e78e3f7-488b-4e32-a39c-bae3726ec8c0/thumbnail/1200x630/a53fc104acade7da91cd63e231fb3690/0718-ftn-michaelmullen-756187-640x360.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/video/mullen-says-post-election-chaos-within-trump-white-house-incredibly-disturbing/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/mullen-says-post-election-chaos-within-trump-white-house-incredibly-disturbing/",
-      "publishedDateTime": "2021-07-18T10:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-18-joe-biden-six-months-on-cold-hard-reality-eclipses-early-euphoria.md",
-      "title": "Joe Biden: six months on, cold, hard reality eclipses early euphoria",
-      "excerpt": "The president reset the tone from the Trump era and passed a huge Covid relief bill but other priorities have hit formidable political obstacles",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/jul/18/joe-biden-six-months-presidency",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/jul/18/joe-biden-six-months-presidency",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/4c9bbca37ce50ea8ab6a6bb1c9b19dc3b40b962b/0_37_5120_3071/master/5120.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=408decbf4eb708f0ca8186ac8d164d10",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/jul/18/joe-biden-six-months-presidency",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jul/18/joe-biden-six-months-presidency",
-      "publishedDateTime": "2021-07-18T04:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-07-18-pence-noem-lament-state-of-the-union-at-iowa-christian-conservative-event.md",
-      "title": "Pence, Noem lament state of the union at Iowa Christian conservative event",
-      "excerpt": "The past seven months under a Democratic administration have made the America of the previous four years unrecognizable to the political speakers at a Christian conservative event",
-      "sourceUrl": null,
-      "webUrl": "https://nonpareilonline.com/lifestyles/faith-and-values/pence-noem-lament-state-of-the-union-at-iowa-christian-conservative-event/article_b89afb89-9fc9-548b-ba19-40d2ef44beff.html",
-      "originalUrl": "https://nonpareilonline.com/lifestyles/faith-and-values/pence-noem-lament-state-of-the-union-at-iowa-christian-conservative-event/article_b89afb89-9fc9-548b-ba19-40d2ef44beff.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/nonpareilonline.com/content/tncms/assets/v3/editorial/0/84/08444b2f-c303-5939-997e-5a1cd1316688/60f31ba1b3370.image.jpg?resize=1024%2C683",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nonpareilonline.com/lifestyles/faith-and-values/pence-noem-lament-state-of-the-union-at-iowa-christian-conservative-event/article_b89afb89-9fc9-548b-ba19-40d2ef44beff.amp.html",
-      "cdnAmpWebUrl": "https://nonpareilonline-com.cdn.ampproject.org/c/s/nonpareilonline.com/lifestyles/faith-and-values/pence-noem-lament-state-of-the-union-at-iowa-christian-conservative-event/article_b89afb89-9fc9-548b-ba19-40d2ef44beff.amp.html",
-      "publishedDateTime": "2021-07-17T22:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Nonpareil",
-        "domain": "nonpareilonline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
       ]
     }
   ],

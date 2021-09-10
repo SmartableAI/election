@@ -2,6 +2,206 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-09-11-scolding-the-american-people-pence-slams-bidens-coronavirus-address.md",
+      "title": "‘Scolding the American people’: Pence slams Biden’s coronavirus address",
+      "excerpt": "Pence, the former VP under Trump, told “Fox & Friends” that Biden’s speech was “unlike anything” he has ever heard from another US president.",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/09/10/mike-pence-slams-bidens-coronavirus-address/",
+      "originalUrl": "https://nypost.com/2021/09/10/mike-pence-slams-bidens-coronavirus-address/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 170,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/09/pence-biden-vaccines-02.jpg?quality=90&strip=all&w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/09/10/mike-pence-slams-bidens-coronavirus-address/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/09/10/mike-pence-slams-bidens-coronavirus-address/amp/",
+      "publishedDateTime": "2021-09-10T10:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-09-10-gop-sends-out-fake-pence-email-calling-2020-election-contested-takeover-then-apologizes.md",
+      "title": "GOP Sends Out Fake Pence Email Calling 2020 Election 'Contested Takeover,' Then Apologizes",
+      "excerpt": "\"It was not approved by Vice President Pence's team and we regret the error,\" a National Republican Senate Committee spokesperson said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/gop-sends-out-fake-pence-email-calling-2020-election-contested-takeover-then-apologizes-1627851",
+      "originalUrl": "https://www.newsweek.com/gop-sends-out-fake-pence-email-calling-2020-election-contested-takeover-then-apologizes-1627851",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 130,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1891562/mike-pence.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/gop-sends-out-fake-pence-email-calling-2020-election-contested-takeover-then-apologizes-1627851?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/gop-sends-out-fake-pence-email-calling-2020-election-contested-takeover-then-apologizes-1627851?amp=1",
+      "publishedDateTime": "2021-09-10T06:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-09-10-pence-returns-to-the-arena-as-a-podcaster.md",
+      "title": "Pence returns to the arena — as a podcaster",
+      "excerpt": "Mike Pence will release the first episode of his new podcast, “American Freedom,” on Friday, the latest volley in the former vice president’s effort to recapture conservative audiences ahead of a potential presidential run in 2024.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2021/09/10/pence-new-podcast-511079",
+      "originalUrl": "https://www.politico.com/news/2021/09/10/pence-new-podcast-511079",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/d3/55/f292a828497eb689b34cd6b0e38f/gettyimages-1232599479-1.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.com/amp/news/2021/09/10/pence-new-podcast-511079",
+      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/09/10/pence-new-podcast-511079",
+      "publishedDateTime": "2021-09-09T21:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-09-09-does-pence-really-call-his-wife-mother.md",
+      "title": "Does Pence Really Call His Wife Mother?",
+      "excerpt": "Former Mike Pence aide Alyssa Farah denied that the former vice president refers to his wife as \"mother,” The Hill reports.Said Farah: “This is a myth that drives me crazy. This has driven me crazy for years because it's weird.",
+      "sourceUrl": null,
+      "webUrl": "https://politicalwire.com/2021/09/09/does-pence-really-call-his-wife-mother/",
+      "originalUrl": "https://politicalwire.com/2021/09/09/does-pence-really-call-his-wife-mother/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://politicalwire.com/wp-content/uploads/2018/02/PW-podcast-logo.jpg",
+          "width": 1400,
+          "height": 1400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-09T03:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Political Wire",
+        "domain": "politicalwire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-09-06-americans-emailed-pence-officials-asking-to-remove-trump-from-office-after-capitol-riot.md",
       "title": "Americans Emailed Pence, Officials Asking to Remove Trump From Office After Capitol Riot",
       "excerpt": "Emails accused Trump of inciting the violence and called for members of the administration to take drastic action.",
@@ -1232,215 +1432,6 @@
         "name": "The Sun",
         "domain": "the-sun.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-07-18-pence-feenstra-slam-dems-for-massive-expansion-of-government-at-picnic.md",
-      "title": "Pence, Feenstra slam Dems for 'massive expansion of government' at picnic",
-      "excerpt": "Former VP Mike Pence decried policies of open borders, high taxes and \"abortion on demand,\" during a fundraiser for Rep. Randy Feenstra.",
-      "sourceUrl": null,
-      "webUrl": "https://globegazette.com/news/state-and-regional/govt-and-politics/pence-feenstra-slam-dems-for-massive-expansion-of-government-at-picnic/article_b6af748b-815b-5b5e-a2c1-ea8e16fd70e8.html",
-      "originalUrl": "https://globegazette.com/news/state-and-regional/govt-and-politics/pence-feenstra-slam-dems-for-massive-expansion-of-government-at-picnic/article_b6af748b-815b-5b5e-a2c1-ea8e16fd70e8.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/globegazette.com/content/tncms/assets/v3/editorial/2/0b/20bba3a4-5da0-56e3-847a-4c23bace4ff6/60f21602604a1.image.jpg?resize=1024%2C738",
-          "width": 1024,
-          "height": 738,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://globegazette.com/news/state-and-regional/govt-and-politics/pence-feenstra-slam-dems-for-massive-expansion-of-government-at-picnic/article_b6af748b-815b-5b5e-a2c1-ea8e16fd70e8.amp.html",
-      "cdnAmpWebUrl": "https://globegazette-com.cdn.ampproject.org/c/s/globegazette.com/news/state-and-regional/govt-and-politics/pence-feenstra-slam-dems-for-massive-expansion-of-government-at-picnic/article_b6af748b-815b-5b5e-a2c1-ea8e16fd70e8.amp.html",
-      "publishedDateTime": "2021-07-17T12:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Globe Gazette",
-        "domain": "globegazette.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-07-17-pence-says-hes-had-enough-of-biden-as-he-looks-to-escape-trumps-shadow-in-iowa.md",
-      "title": "Pence says he's 'had enough' of Biden as he looks to escape Trump's shadow in Iowa",
-      "excerpt": "Former Vice President Mike Pence crisscrossed Iowa on Friday, assailing President Joe Biden's administration for unleashing \"a tidal wave of left-wing policies that threaten to wipe out all the progress that we made\" in speeches that could preview his potential 2024 message.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sOtQEwxHoaA/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sOtQEwxHoaA/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 569,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210716185507-mike-pence-0716-iowa-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/16/politics/pence-noem-pompeo-iowa/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/16/politics/pence-noem-pompeo-iowa/index.html",
-      "publishedDateTime": "2021-07-16T17:19:04-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-07-16-pence-in-iowa-charges-biden-trying-to-turn-america-into-a-secular-welfare-state.md",
-      "title": "Pence, in Iowa, charges Biden trying to turn America into a ‘secular welfare state’",
-      "excerpt": "Former Vice President Mike Pence, making his first visit to Iowa since the end of the Trump administration, took aim at President Biden and spotlighted his social conservative credentials as he addressed a major gathering of Christian conservatives in the state whose caucuses for half a century have",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Yv-YWtnetg4/pence-in-iowa-charges-biden-trying-to-turn-america-into-secular-welfare-state",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Yv-YWtnetg4/pence-in-iowa-charges-biden-trying-to-turn-america-into-secular-welfare-state",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 334,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/pence-in-iowa-charges-biden-trying-to-turn-america-into-secular-welfare-state.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-in-iowa-charges-biden-trying-to-turn-america-into-secular-welfare-state.amp",
-      "publishedDateTime": "2021-07-16T16:50:31-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-07-16-mike-pence-refused-to-get-in-car-with-secret-service-during-capitol-riot-book.md",
-      "title": "Mike Pence Refused to Get in Car With Secret Service During Capitol Riot: Book",
-      "excerpt": "The former vice president twice refused to be evacuated as rioters stormed the Capitol on January 6, according to a new book about the final days of the Trump administration.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/mike-pence-refused-car-secret-service-capitol-riot-book-1610326",
-      "originalUrl": "https://www.newsweek.com/mike-pence-refused-car-secret-service-capitol-riot-book-1610326",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1847383/mike-pence-speaks-crowd.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/mike-pence-refused-car-secret-service-capitol-riot-book-1610326?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mike-pence-refused-car-secret-service-capitol-riot-book-1610326?amp=1",
-      "publishedDateTime": "2021-07-16T01:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/business/the-latest-india-confirms-40
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/the-latest-india-confirms-400k-dead-half-in-past-2-months/2021/07/02/be07bbd4-dafa-11eb-8c87-ad6f27918c78_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 285
+heat: 305
 published: true
 
 provider:
@@ -136,6 +136,20 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/ZRBNCZL2OBHQJP5HNRJCZDKECU.jpg"
         width: 1400
         height: 924
+        isCached: true
+  - title: "Joe Biden’s war on virus becomes war on unvaccinated"
+    excerpt: "President Joe Biden is trying to concentrate the anger of the nation’s inoculated majority against the stubborn 25% of eligible Americans who remain unvaccinated against COVID-19. Nearly 8 months after declaring “war” on the coronavirus as he took office,"
+    publishedDateTime: 2021-09-10T13:55:00Z
+    webUrl: "https://floridapolitics.com/archives/456570-joe-bidens-war-on-virus-becomes-war-on-unvaccinated/"
+    type: article
+    provider:
+      name: Florida Politics
+      domain: floridapolitics.com
+    quality: 55
+    images:
+      - url: "https://floridapolitics.com/wp-content/uploads/2021/08/1000-47.jpeg"
+        width: 1000
+        height: 666
         isCached: true
   - title: "User Clip: Joe Biden Warns of Hospital Bed Shortage Due to Unvaccinated"
     excerpt: "Joe Biden Warns of Hospital Bed Shortage Due to Unvaccinated"

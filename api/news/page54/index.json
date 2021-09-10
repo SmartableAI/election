@@ -2,6 +2,640 @@
   "page": 54,
   "value": [
     {
+      "path": "_news/2021-05-20-biden-says-hate-can-be-given-no-safe-harbor-as-he-signs-anti-asian-hate-crimes-bill.md",
+      "title": "Biden says ‘hate can be given no safe harbor’ as he signs anti-Asian hate crimes bill",
+      "excerpt": "President Biden on Thursday signed into law a bipartisan bill that would speed the review of hate crimes and make it easier to aid in their reporting.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/AgkMhieKPXs/biden-says-hate-can-be-given-no-safe-harbor-as-he-signs-anti-asian-hate-crimes-bill",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/AgkMhieKPXs/biden-says-hate-can-be-given-no-safe-harbor-as-he-signs-anti-asian-hate-crimes-bill",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 208,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-says-hate-can-be-given-no-safe-harbor-as-he-signs-anti-asian-hate-crimes-bill.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-says-hate-can-be-given-no-safe-harbor-as-he-signs-anti-asian-hate-crimes-bill.amp",
+      "publishedDateTime": "2021-05-20T15:07:37-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-21-biden-meets-with-kennedy-center-honorees-at-white-house.md",
+      "title": "Biden meets with Kennedy Center honorees at White House",
+      "excerpt": "President Joe Biden spent Thursday morning in a star-studded meeting with this year’s Kennedy Center honorees. The president met at the White House with the recipients of the lifetime artistic achievement awards: country music legend Garth Brooks,",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Entertainment/wireStory/biden-meets-kennedy-center-honorees-white-house-77813089",
+      "originalUrl": "https://abcnews.go.com/Entertainment/wireStory/biden-meets-kennedy-center-honorees-white-house-77813089",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 305,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Entertainment/WireAP_5ac365c5e65e44b8992dfc210d726686_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Entertainment/wireStory/biden-meets-kennedy-center-honorees-white-house-77813089",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/biden-meets-kennedy-center-honorees-white-house-77813089",
+      "publishedDateTime": "2021-05-20T13:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-05-20-un-refugee-agency-urges-biden-to-end-asylum-restrictions-on-the-border.md",
+      "title": "UN refugee agency urges Biden to end asylum restrictions on the border",
+      "excerpt": "The United Nations refugee agency urged the United States on Thursday to end Trump-era asylum restrictions on the US-Mexico border the Biden administration continues to rely on.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PNKtuV1z4uU/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PNKtuV1z4uU/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 695,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210430194632-migrants-biden-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/20/politics/un-refugee-immigration-asylum/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/20/politics/un-refugee-immigration-asylum/index.html",
+      "publishedDateTime": "2021-05-20T11:52:59-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-20-biden-increasingly-impatient-with-netanyahu-sources-say.md",
+      "title": "Biden increasingly impatient with Netanyahu, sources say",
+      "excerpt": "President Joe Biden has become increasingly impatient with Israeli Prime Minister Benjamin Netanyahu following a blunt phone call Wednesday in which the US President set a deadline for violence to ease between Israel and Hamas.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Rqwr5ZD6UVE/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Rqwr5ZD6UVE/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 475,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210201133546-biden-netanyahu-split-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/20/politics/joe-biden-benjamin-netanyahu/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/20/politics/joe-biden-benjamin-netanyahu/index.html",
+      "publishedDateTime": "2021-05-20T07:29:08-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-20-house-gop-revolt-against-trump-sets-up-tough-senate-battle-on-january-6-probe.md",
+      "title": "House GOP revolt against Trump sets up tough Senate battle on January 6 probe",
+      "excerpt": "Thirty-five House Republicans chose the truth and American democracy over Donald Trump's personality cult. Now their Senate colleagues face the same battle of conscience over the effort to investigate the Capitol insurrection.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/L-vLpdc8J3Y/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/L-vLpdc8J3Y/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 212,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210519123436-mcconnell-gop-0518-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/20/politics/house-january-6-probe-senate/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/20/politics/house-january-6-probe-senate/index.html",
+      "publishedDateTime": "2021-05-19T23:58:16-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-20-ted-cruz-biden-rewarded-russia-for-hacking-us-pipeline-by-blessing-russian-one.md",
+      "title": "Ted Cruz: Biden 'rewarded' Russia for hacking US pipeline by blessing Russian one",
+      "excerpt": "Sen. Ted Cruz, R-Texas, sounded off Wednesday on President Biden responding to a debilitating hack of a U.S. oil pipeline from within the Russian Federation, by turning around and giving his approval to a lucrative Russian pipeline that will supply energy to Germany.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/u5tzn7FUQa4/ted-cruz-biden-rewarded-russia-for-hacking-us-pipeline-by-blessing-russian-one",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/u5tzn7FUQa4/ted-cruz-biden-rewarded-russia-for-hacking-us-pipeline-by-blessing-russian-one",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 230,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3f4eb9de-2cb5-4510-8484-472066a72fd4/41d40886-d2bf-4211-a0e3-2d5708f9195f/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/ted-cruz-biden-rewarded-russia-for-hacking-us-pipeline-by-blessing-russian-one.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ted-cruz-biden-rewarded-russia-for-hacking-us-pipeline-by-blessing-russian-one.amp",
+      "publishedDateTime": "2021-05-19T20:59:41-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-20-obama-alleged-r-rated-criticism-of-trump-published-in-new-book-f-ing-lunatic.md",
+      "title": "Obama Alleged R-Rated Criticism Of Trump Published In New Book: 'F---ing Lunatic'",
+      "excerpt": "Former President Barack Obama had previously refused to speak out against Donald Trump after leaving the White House in 2017.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/obama-alleged-r-rated-criticism-trump-published-new-book-f-ing-lunatic-3203390",
+      "originalUrl": "https://www.ibtimes.com/obama-alleged-r-rated-criticism-trump-published-new-book-f-ing-lunatic-3203390",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/11/10/exactly-four-years-ago-us-president-barack-obama.jpg",
+          "width": 1024,
+          "height": 727,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/obama-alleged-r-rated-criticism-trump-published-new-book-f-ing-lunatic-3203390?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/obama-alleged-r-rated-criticism-trump-published-new-book-f-ing-lunatic-3203390?amp=1",
+      "publishedDateTime": "2021-05-19T18:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-05-20-new-york-attorney-general-investigating-the-trump-organization-in-a-criminal-capacity.md",
+      "title": "New York Attorney General \"investigating the Trump Organization in a criminal capacity\"",
+      "excerpt": "New York Attorney General Letitia James launched a civil probe into the company in 2019, but that investigation \"is no longer purely civil in nature\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/trump-organization-criminal-investigation-new-york/",
+      "originalUrl": "https://www.cbsnews.com/news/trump-organization-criminal-investigation-new-york/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2021/05/19/716aff60-3e3b-4a3e-b9a4-cf5a687cbabb/thumbnail/1200x630/7ebaf3a75f14a065879c2c0f557dd93d/gettyimages-1301295023.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/trump-organization-criminal-investigation-new-york/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-organization-criminal-investigation-new-york/",
+      "publishedDateTime": "2021-05-19T16:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-05-19-trump-allies-seek-to-import-arizonas-election-audit-to-georgia.md",
+      "title": "Trump allies seek to import Arizona's election audit to Georgia",
+      "excerpt": "In a bid to bolster former President Donald Trump's lies about widespread fraud in the 2020 election, Trump's Republican allies are now seeking Arizona-style audits in other swing states -- including Georgia, where the former President's false claims have set off an intraparty war.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4uEmzFnER9g/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4uEmzFnER9g/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 590,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210303224724-donald-trump-file-201126-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/19/politics/trump-allies-seek-more-audits/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/19/politics/trump-allies-seek-more-audits/index.html",
+      "publishedDateTime": "2021-05-19T15:44:56-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-20-president-joe-biden-to-visit-cleveland-next-week-marking-second-ohio-trip-this-year.md",
+      "title": "President Joe Biden to visit Cleveland next week, marking second Ohio trip this year",
+      "excerpt": "President Joe Biden will visit Cleveland next week, marking his second trip to Ohio this year. White House officials said Wednesday that Biden will deliver remarks about the economy during his trip May 27.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cincinnati.com/story/news/2021/05/19/president-joe-biden-visit-cleveland-ohio-may-27/5173738001/",
+      "originalUrl": "https://www.cincinnati.com/story/news/2021/05/19/president-joe-biden-visit-cleveland-ohio-may-27/5173738001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/-mm-/110829cb56c19181e8e5ed866a9c55ca2ff254a7/c=0-92-1763-1084/local/-/media/2021/04/28/Somerset/6e297bd498304b83f7e13c262caa39a7.jpg?auto=webp&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cincinnati.com/amp/5173738001",
+      "cdnAmpWebUrl": "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/5173738001",
+      "publishedDateTime": "2021-05-19T15:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cincinnati Enquirer",
+        "domain": "cincinnati.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-05-19-biden-calls-former-dem-senator-accused-of-sexual-misconduct-one-of-the-finest-men-ive-ever-served-with.md",
+      "title": "Biden calls former Dem senator accused of sexual misconduct 'One of the finest men I've ever served with'’",
+      "excerpt": "President Biden called a former Democratic senator whose past is checkered with complicity in a sexual assault allegation “one of the finest men I’ve ever served with.”’",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ldDnX4M10TY/biden-calls-chris-dodd-sexual-misconduct-finest-men",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ldDnX4M10TY/biden-calls-chris-dodd-sexual-misconduct-finest-men",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/media2.foxnews.com/thumbnails/720/405/010207_010207_greta_dodd_16_9.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-calls-chris-dodd-sexual-misconduct-finest-men.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-calls-chris-dodd-sexual-misconduct-finest-men.amp",
+      "publishedDateTime": "2021-05-19T14:42:33-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-20-sfchronicle-podcast-chronicled-who-is-kamala-harris-wins-webby-award.md",
+      "title": "SFChronicle podcast 'Chronicled: Who is Kamala Harris?' wins Webby Award",
+      "excerpt": "Those were the questions reporters Joe Garofoli and Tal Kopan explored in the six-part series “Chronicled: Who is Kamala Harris?,” named Best Documentary Podcast (Limited-Series/Specials) by the 2021 Webby Awards this week.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sfchronicle.com/about/newsroomnews/article/SFChronicle-podcast-Chronicled-Who-is-Kamala-16187215.php",
+      "originalUrl": "https://www.sfchronicle.com/about/newsroomnews/article/SFChronicle-podcast-Chronicled-Who-is-Kamala-16187215.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.hdnux.com/photos/01/20/11/27/21009919/4/ratio3x2_400.jpg",
+          "width": 400,
+          "height": 267,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.sfchronicle.com/about/newsroomnews/amp/SFChronicle-podcast-Chronicled-Who-is-Kamala-16187215.php",
+      "cdnAmpWebUrl": "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/about/newsroomnews/amp/SFChronicle-podcast-Chronicled-Who-is-Kamala-16187215.php",
+      "publishedDateTime": "2021-05-19T11:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "San Francisco Chronicle",
+        "domain": "sfchronicle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-05-19-biden-tells-coast-guard-cadets-nations-at-significant-inflection-point-calls-class-dull-after-joke-bombs.md",
       "title": "Biden tells Coast Guard cadets nation’s at ‘significant inflection point,’ calls class dull after joke bombs",
       "excerpt": "Emphasizing the importance of their mission ahead in a quickly changing world, President Biden told graduating Coast Guard cadets on Wednesday that “we need you badly - that’s not hyperbole.”",
@@ -693,629 +1327,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-18-biden-and-the-squads-tlaib-stage-heated-confrontation-on-tarmac-in-detroit.md",
-      "title": "Biden and The Squad's Tlaib stage heated confrontation on tarmac in Detroit",
-      "excerpt": "President Biden and Democratic Rep. Rashida Tlaib engaged in a tense, roughly eight-minute conversation on the airport tarmac Detroit after Biden's arrival there Monday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/m8nVGbBVkPg/biden-praises-squads-tlaib-after-tarmac-confrontation-on-palestinian-conflict-botches-her-name",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/m8nVGbBVkPg/biden-praises-squads-tlaib-after-tarmac-confrontation-on-palestinian-conflict-botches-her-name",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 173,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7bbcc3bf-9d3a-4fb6-b46a-89e3f17a74ca/7e5e6aac-c4d1-4a2c-ac01-d834bd8b28d1/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-praises-squads-tlaib-after-tarmac-confrontation-on-palestinian-conflict-botches-her-name.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-praises-squads-tlaib-after-tarmac-confrontation-on-palestinian-conflict-botches-her-name.amp",
-      "publishedDateTime": "2021-05-18T12:35:51-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-18-white-house-says-trump-admin-did-not-do-anything-constructive-to-end-conflict-in-middle-east.md",
-      "title": "White House says Trump admin did not do 'anything constructive' to end conflict in Middle East",
-      "excerpt": "The White House on Tuesday said the Trump administration didn’t do \"anything constructive\" to end the conflict in the Middle East, while defending the Biden administration's approach to the ongoing violence in between Israeli forces and Palestinian militants, and maintaining that a \"two-state solution\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/7hrbdsmA7LI/white-house-trump-admin-middle-east-conflict",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/7hrbdsmA7LI/white-house-trump-admin-middle-east-conflict",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 163,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/white-house-trump-admin-middle-east-conflict.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-trump-admin-middle-east-conflict.amp",
-      "publishedDateTime": "2021-05-18T12:26:21-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-19-what-an-old-politician-understands-biden-turns-the-age-issue-to-advantage.md",
-      "title": "‘What an old politician understands’ — Biden turns the age issue to advantage",
-      "excerpt": "Biden has seemed a changed man, calmer yet bolder. He savors the job, yet governs like a guy who knows the hurdles are high and time is short.",
-      "sourceUrl": null,
-      "webUrl": "https://www.latimes.com/politics/story/2021-05-18/new-biden-surprises-even-longtime-watchers-by-his-governance-so-far",
-      "originalUrl": "https://www.latimes.com/politics/story/2021-05-18/new-biden-surprises-even-longtime-watchers-by-his-governance-so-far",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ca-times.brightspotcdn.com/dims4/default/b4f3b0d/2147483647/strip/true/crop/3901x2548+49+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F18%2F5c%2F090f2eb74320953e4d22f41fd085%2Fla-photos-1staff-645664-la-me-schools-waivers-equity-15-als.JPG",
-          "width": 320,
-          "height": 209,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.latimes.com/politics/story/2021-05-18/new-biden-surprises-even-longtime-watchers-by-his-governance-so-far?_amp=true",
-      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-05-18/new-biden-surprises-even-longtime-watchers-by-his-governance-so-far?_amp=true",
-      "publishedDateTime": "2021-05-18T11:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Los Angeles Times",
-        "domain": "latimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-05-18-ex-trump-dhs-officials-call-for-mayorkas-dismissal-over-border-crisis-enough-is-enough.md",
-      "title": "Ex-Trump DHS officials call for Mayorkas' dismissal over border crisis: 'Enough is enough'",
-      "excerpt": "Three top Trump-era Department of Homeland Security officials are calling on President Biden to dismiss Secretary Alejandro Mayorkas over his handling of the crisis at the southern border, accusing him of \"reckless abandonment\" of securing the border.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1qva-stK91w/ex-trump-dhs-officials-mayorkas-fire-border-crisis",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1qva-stK91w/ex-trump-dhs-officials-mayorkas-fire-border-crisis",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8a570c73-98d6-4f91-b742-2b7220d15df9/2dcdb4f5-ef07-458a-9628-0d6274662406/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/ex-trump-dhs-officials-mayorkas-fire-border-crisis.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ex-trump-dhs-officials-mayorkas-fire-border-crisis.amp",
-      "publishedDateTime": "2021-05-18T10:55:27-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-19-pennsylvania-town-saved-by-fracking-fears-biden-will-kill-its-prosperity.md",
-      "title": "Pennsylvania Town Saved By Fracking Fears Biden Will Kill Its Prosperity",
-      "excerpt": "Thirty years ago, Jason Capps was a young man with ambition, but when he looked around this town near Pittsburgh, where he grew up, all",
-      "sourceUrl": null,
-      "webUrl": "https://www.realclearpolitics.com/articles/2021/05/18/_pennsylvania_town_saved_by_fracking_fears_biden_will_kill_its_prosperity_145779.html#!",
-      "originalUrl": "https://www.realclearpolitics.com/articles/2021/05/18/_pennsylvania_town_saved_by_fracking_fears_biden_will_kill_its_prosperity_145779.html#!",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.realclear.com/images/47/478783_5_.jpg",
-          "width": 750,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.realclearpolitics.com/articles/2021/05/18/_pennsylvania_town_saved_by_fracking_fears_biden_will_kill_its_prosperity_145779.amp.html",
-      "cdnAmpWebUrl": "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/05/18/_pennsylvania_town_saved_by_fracking_fears_biden_will_kill_its_prosperity_145779.amp.html",
-      "publishedDateTime": "2021-05-18T10:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RealClearPolitics",
-        "domain": "realclearpolitics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-19-former-vp-pence-to-speak-at-michigan-republican-conference.md",
-      "title": "Former VP Pence to speak at Michigan Republican conference",
-      "excerpt": "Former Vice President Mike Pence will be among the speakers at a gathering of Michigan Republicans on Mackinac Island this fall.",
-      "sourceUrl": null,
-      "webUrl": "https://www.detroitnews.com/story/news/politics/2021/05/18/former-vp-pence-speak-michigan-republican-conference/5138070001/",
-      "originalUrl": "https://www.detroitnews.com/story/news/politics/2021/05/18/former-vp-pence-speak-michigan-republican-conference/5138070001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/11/03/PDTN/a61a3c96-22be-4634-8948-2b41f1de0432-AP20308060390607.jpg?auto=webp&crop=3935,2214,x0,y131&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.detroitnews.com/amp/5138070001",
-      "cdnAmpWebUrl": "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/5138070001",
-      "publishedDateTime": "2021-05-18T10:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Detroit News",
-        "domain": "detroitnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-05-18-val-demings-prosecutor-in-trumps-first-impeachment-trial-challenging-marco-rubio-for-senate-in-florida.md",
-      "title": "Val Demings, Prosecutor in Trump's First Impeachment Trial, Challenging Marco Rubio for Senate in Florida",
-      "excerpt": "Demings competing against Rubio as a Democrat could decide the control of the Senate. She previously considered campaigning for governor.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/val-demings-prosecutor-trumps-first-impeachment-trial-challenging-marco-rubio-senate-florida-1592497",
-      "originalUrl": "https://www.newsweek.com/val-demings-prosecutor-trumps-first-impeachment-trial-challenging-marco-rubio-senate-florida-1592497",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 128,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1799712/rep-val-demings.jpg",
-          "width": 2500,
-          "height": 1673,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/val-demings-prosecutor-trumps-first-impeachment-trial-challenging-marco-rubio-senate-florida-1592497?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/val-demings-prosecutor-trumps-first-impeachment-trial-challenging-marco-rubio-senate-florida-1592497?amp=1",
-      "publishedDateTime": "2021-05-18T06:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-05-18-joe-biden-to-talk-infrastructure-in-michigan-amid-pressure-over-gaza-live.md",
-      "title": "Joe Biden to talk infrastructure in Michigan amid pressure over Gaza – live",
-      "excerpt": "The president will be promoting his $2.3tn plan in Dearborn, whose large Arab-American plans to protest against his stance on Middle East strife",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/live/2021/may/18/joe-biden-infrastructure-gaza-us-politics-live",
-      "originalUrl": "https://www.theguardian.com/us-news/live/2021/may/18/joe-biden-infrastructure-gaza-us-politics-live",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 163,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/34a1c622cfd38e00fb5ba2e8ed1ffc7968c1ada0/0_16_6048_3628/master/6048.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=33d1fc7610ce9200fe4d3d6225fc9904",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2021/may/18/joe-biden-infrastructure-gaza-us-politics-live",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/may/18/joe-biden-infrastructure-gaza-us-politics-live",
-      "publishedDateTime": "2021-05-18T05:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-05-18-trump-allies-promote-portfolios-targeting-unwoke-investors.md",
-      "title": "Trump Allies Promote Portfolios Targeting ‘Unwoke Investors’",
-      "excerpt": "A group of conservative money managers is seeking to woo investors disgruntled by increased involvement by some companies in political and social issues.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/trump-allies-promote-portfolios-targeting-unwoke-investors-11621342803",
-      "originalUrl": "https://www.wsj.com/articles/trump-allies-promote-portfolios-targeting-unwoke-investors-11621342803",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-339796/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/trump-allies-promote-portfolios-targeting-unwoke-investors-11621342803",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-allies-promote-portfolios-targeting-unwoke-investors-11621342803",
-      "publishedDateTime": "2021-05-18T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-18-supreme-court-could-cut-into-biden-agenda-the-note.md",
-      "title": "Supreme Court could cut into Biden agenda: The Note",
-      "excerpt": "The full meaning of the 6-3 conservative edge on the Supreme Court is only beginning to be felt. That matters for President Joe Biden and his agenda.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/supreme-court-cut-biden-agenda-note/story?id=77739645",
-      "originalUrl": "https://abcnews.go.com/Politics/supreme-court-cut-biden-agenda-note/story?id=77739645",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 485,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/supreme-court-gty-jef-210517_1621286530595_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/supreme-court-cut-biden-agenda-note/story?id=77739645",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/supreme-court-cut-biden-agenda-note/story?id=77739645",
-      "publishedDateTime": "2021-05-18T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-05-18-harris-county-to-lower-covid-threat-level-khou-11-confirms.md",
-      "title": "Harris County to lower COVID threat level, KHOU 11 confirms",
-      "excerpt": "Harris County has spent a majority of this pandemic in the red threat level, but that is expected to change on Tuesday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.khou.com/video/news/local/video/harris-county-to-lower-covid-threat-level-khou-11-confirms/285-28843615-0a37-42f6-a400-817d4f0b5032",
-      "originalUrl": "https://www.khou.com/video/news/local/video/harris-county-to-lower-covid-threat-level-khou-11-confirms/285-28843615-0a37-42f6-a400-817d4f0b5032",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.khou.com/assets/KHOU/images/226da1c8-2490-44c6-8bf8-b5d355bf9a99/226da1c8-2490-44c6-8bf8-b5d355bf9a99_1140x641.jpg",
-          "width": 1140,
-          "height": 641,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-17T20:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KHOU 11",
-        "domain": "khou.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-05-18-us-military-intercepted-small-aircraft-in-restricted-airspace-as-biden-visited-delaware-home.md",
-      "title": "US military intercepted small aircraft in restricted airspace as Biden visited Delaware home",
-      "excerpt": "The U.S. military intercepted a small aircraft that flew into restricted airspace over the weekend, grounding the pilot at a nearby airport in Pennsylvania as President Biden visited his home in Delaware.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-SZVVUQU-i4/us-military-intercepts-small-aircraft-restricted-airspace-biden-home",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-SZVVUQU-i4/us-military-intercepts-small-aircraft-restricted-airspace-biden-home",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d00d31a1-6666-4ac8-b26f-64d7e428d11f/4d96ae63-73cc-421d-9348-814592008d48/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/us-military-intercepts-small-aircraft-restricted-airspace-biden-home.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/us-military-intercepts-small-aircraft-restricted-airspace-biden-home.amp",
-      "publishedDateTime": "2021-05-17T19:01:12-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

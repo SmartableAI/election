@@ -2,6 +2,115 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-05-01-joe-biden-issues-11-proclamations-his-highest-daily-tally-so-far.md",
+      "title": "Joe Biden Issues 11 Proclamations, His Highest Daily Tally So Far",
+      "excerpt": "President Joe Biden set a personal daily record for The president issued 11 proclamations on April 30. Proclamations are statements that serve a variety of functions, such as issuing a directive, acknowledging an event or person,",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/joe-biden-issues-11-proclamations-his-highest-daily-tally-so-far-1588054",
+      "originalUrl": "https://www.newsweek.com/joe-biden-issues-11-proclamations-his-highest-daily-tally-so-far-1588054",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 185,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1786140/biden-addresses-joint-session-congress.jpg",
+          "width": 2836,
+          "height": 1900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/joe-biden-issues-11-proclamations-his-highest-daily-tally-so-far-1588054?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-issues-11-proclamations-his-highest-daily-tally-so-far-1588054?amp=1",
+      "publishedDateTime": "2021-05-01T08:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-05-01-amtrak-became-my-family-biden-a-longtime-commuter-says-on-the-railroads-50th-anniversary.md",
+      "title": "‘Amtrak became my family,’ Biden, a longtime commuter, says on the railroad’s 50th anniversary.",
+      "excerpt": "The president has been called “Amtrak Joe” because of the years he spent taking the train between Washington and Delaware.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/04/30/us/politics/biden-amtrak.html",
+      "originalUrl": "https://www.nytimes.com/2021/04/30/us/politics/biden-amtrak.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/04/30/us/politics/30new-washington-briefing-BidenAmtrak/30new-washington-briefing-BidenAmtrak-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/04/30/us/politics/biden-amtrak.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/30/us/politics/biden-amtrak.amp.html",
+      "publishedDateTime": "2021-04-30T14:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-05-01-cnns-gloria-borger-falsely-claims-operation-warp-speed-happened-under-joe-biden.md",
       "title": "CNN's Gloria Borger falsely claims Operation Warp Speed 'happened under Joe Biden'",
       "excerpt": "CNN political analyst Gloria Borger falsely said Operation Warp Speed occurred under President Biden on Wednesday, and no one on CNN's panel corrected her in real time.",
@@ -1496,110 +1605,6 @@
         "Election",
         "Joe Biden",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-20-biden-praying-for-right-verdict-in-chauvin-trial.md",
-      "title": "Biden praying for 'right verdict' in Chauvin trial",
-      "excerpt": "President Joe Biden says he is “praying the verdict is the right verdict” in the trial of former Minneapolis Police Officer Derek Chauvin and that he believes the case to be “overwhelming.”",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/feds-weighing-respond-verdict-chauvin-trial-77180555",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/feds-weighing-respond-verdict-chauvin-trial-77180555",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 445,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/WireAP_1fe7eb0b138b4ec7aedff414479335c6_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/feds-weighing-respond-verdict-chauvin-trial-77180555",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/feds-weighing-respond-verdict-chauvin-trial-77180555",
-      "publishedDateTime": "2021-04-20T09:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-04-20-sikh-coalition-urges-biden-to-appoint-sikh-american-liaison-in-wake-of-indianapolis-fedex-shooting.md",
-      "title": "Sikh Coalition urges Biden to appoint Sikh American liaison in wake of Indianapolis FedEx shooting",
-      "excerpt": "In the wake of the FedEx shooting that left eight people dead, including four members of the Sikh community, the Sikh Coalition wants President Joe Biden’s administration to enact policies to address “long standing challenges” impacting Sikh Americans.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/religion/sikh-coalition-urges-biden-to-appoint-sikh-american-liaison-in-wake-of-indianapolis-fedex-shooting/2021/04/20/4463d01c-a1fa-11eb-b314-2e993bd83e31_story.html",
-      "originalUrl": "https://www.washingtonpost.com/religion/sikh-coalition-urges-biden-to-appoint-sikh-american-liaison-in-wake-of-indianapolis-fedex-shooting/2021/04/20/4463d01c-a1fa-11eb-b314-2e993bd83e31_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-          "width": 1484,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/religion/sikh-coalition-urges-biden-to-appoint-sikh-american-liaison-in-wake-of-indianapolis-fedex-shooting/2021/04/20/4463d01c-a1fa-11eb-b314-2e993bd83e31_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/religion/sikh-coalition-urges-biden-to-appoint-sikh-american-liaison-in-wake-of-indianapolis-fedex-shooting/2021/04/20/4463d01c-a1fa-11eb-b314-2e993bd83e31_story.html?outputType=amp",
-      "publishedDateTime": "2021-04-20T09:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

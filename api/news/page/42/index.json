@@ -2,6 +2,651 @@
   "page": 42,
   "value": [
     {
+      "path": "_news/2021-06-14-liberals-tell-breyer-to-retire-after-mcconnell-says-he-wont-support-biden-supreme-court-pick-in-2024.md",
+      "title": "Liberals tell Breyer to retire after McConnell says he won't support Biden Supreme Court pick in 2024",
+      "excerpt": "Some on the left are re-upping their calls for Supreme Court Justice Stephen Breyer to retire from the bench Monday after Senate Minority Leader Mitch McConnell said he would block a nominee from President Biden in 2024 if Republicans are in the Senate majority.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dY_fXYq6EgE/liberals-breyer-retire-supreme-court-mcconnell-biden-pick-2024",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dY_fXYq6EgE/liberals-breyer-retire-supreme-court-mcconnell-biden-pick-2024",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 180,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/liberals-breyer-retire-supreme-court-mcconnell-biden-pick-2024.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/liberals-breyer-retire-supreme-court-mcconnell-biden-pick-2024.amp",
+      "publishedDateTime": "2021-06-14T11:31:50-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-14-mcconnell-says-highly-unlikely-he-would-let-biden-fill-a-supreme-court-vacancy-in-2024-if-gop-wins-back-senate.md",
+      "title": "McConnell says 'highly unlikely' he would let Biden fill a Supreme Court vacancy in 2024 if GOP wins back Senate",
+      "excerpt": "Senate Minority Leader Mitch McConnell said on Monday that if his party regains the majority in 2022 it's \"highly unlikely\" he would let President Joe Biden confirm a Supreme Court vacancy if one opened up in 2024, and was non-committal when asked about an opening at the end of 2023.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-8by_Xs0Zx8/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-8by_Xs0Zx8/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210527142427-01-mcconnell-0525-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/14/politics/mcconnell-scotus-nominee-biden-2024/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/14/politics/mcconnell-scotus-nominee-biden-2024/index.html",
+      "publishedDateTime": "2021-06-14T10:53:24-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-15-volodymyr-zelenskyy-hopes-joe-biden-will-give-specific-answer-on-supporting-ukraines-nato-bid.md",
+      "title": "Volodymyr Zelenskyy Hopes Joe Biden Will Give 'Specific' Answer on Supporting Ukraine's NATO Bid",
+      "excerpt": "\"I understand that this should be the agreed position of the alliance countries. Nevertheless, we must get clear dates and the likelihood of this for Ukraine,\" said Volodymyr Zelenskyy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/volodymyr-zelenskyy-hopes-joe-biden-will-give-specific-answer-supporting-ukraines-nato-bid-1600492",
+      "originalUrl": "https://www.newsweek.com/volodymyr-zelenskyy-hopes-joe-biden-will-give-specific-answer-supporting-ukraines-nato-bid-1600492",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1820669/ukrainian-president-volodymyr-zelenskyy.jpg",
+          "width": 2500,
+          "height": 1708,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/volodymyr-zelenskyy-hopes-joe-biden-will-give-specific-answer-supporting-ukraines-nato-bid-1600492?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/volodymyr-zelenskyy-hopes-joe-biden-will-give-specific-answer-supporting-ukraines-nato-bid-1600492?amp=1",
+      "publishedDateTime": "2021-06-14T10:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-06-14-biden-calls-natos-common-defense-pact-a-sacred-obligation-amid-cyberattacks.md",
+      "title": "Biden calls NATO's common defense pact 'a sacred obligation' amid cyberattacks",
+      "excerpt": "President Joe Biden on Monday called NATO's Article 5 common defense pact \"a sacred obligation\" amid the growing global threat of cyberattacks.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/biden-calls-natos-common-defense-pact-sacred-obligation/story?id=78265937",
+      "originalUrl": "https://abcnews.go.com/Politics/biden-calls-natos-common-defense-pact-sacred-obligation/story?id=78265937",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/International/nato-summit-rt-ml-210614_1623672722581_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/biden-calls-natos-common-defense-pact-sacred-obligation/story?id=78265937",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-calls-natos-common-defense-pact-sacred-obligation/story?id=78265937",
+      "publishedDateTime": "2021-06-14T08:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-06-14-trump-era-sentencing-reform-law-doesnt-apply-to-low-level-crack-cocaine-offenders-supreme-court-says.md",
+      "title": "Trump-era sentencing reform law doesn't apply to low-level crack cocaine offenders, Supreme Court says",
+      "excerpt": "The Supreme Court held Monday that a low-level crack-cocaine offender is ineligible to seek a reduced sentence under the Trump-era First Step Act sentencing reform law.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/d3luDHVLMWI/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/d3luDHVLMWI/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 179,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201224043021-01-us-supreme-court-1211-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/14/politics/supreme-court-first-step-act-crack-cocaine-conviction-case/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/14/politics/supreme-court-first-step-act-crack-cocaine-conviction-case/index.html",
+      "publishedDateTime": "2021-06-14T08:43:13-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-14-comer-jordan-send-letter-demanding-more-sunlight-on-kerrys-role-in-biden-admin.md",
+      "title": "Comer, Jordan send letter demanding more sunlight on Kerry's role in Biden admin",
+      "excerpt": "House Republicans Jim Jordan and James Comer are demanding answers from U.S. special envoy for climate John Kerry about his role.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WEXZyUufKtY/john-kerry-biden-jim-jordan-china-comer",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WEXZyUufKtY/john-kerry-biden-jim-jordan-china-comer",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 230,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/eb93b34e-8221-4b4f-bf73-ff1988a82d9f/7215d31c-6422-49ea-897a-513f1af09ae9/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/john-kerry-biden-jim-jordan-china-comer.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/john-kerry-biden-jim-jordan-china-comer.amp",
+      "publishedDateTime": "2021-06-14T08:06:55-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-14-will-joe-biden-polices-raise-american-household-income-charlotte-observer.md",
+      "title": "Will Joe Biden polices raise American household income? | Charlotte Observer",
+      "excerpt": "A typical household’s income will grow an additional $36,000 over the next 10 years, says the Biden administration, because of its economic policies. But outside economists disagree with the White House’s assessment.",
+      "sourceUrl": null,
+      "webUrl": "https://www.charlotteobserver.com/news/politics-government/article252065033.html",
+      "originalUrl": "https://www.charlotteobserver.com/news/politics-government/article252065033.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998029001/ec808c67-d8e2-44c8-aece-9bdc9c47ba61/d47ad739-4381-4706-b06f-ce53bfe89ec6/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 719,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.charlotteobserver.com/news/politics-government/article252065033.html",
+      "cdnAmpWebUrl": "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/politics-government/article252065033.html",
+      "publishedDateTime": "2021-06-14T05:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Charlotte Observer",
+        "domain": "charlotteobserver.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-06-14-mike-pence-tells-kamala-harris-its-time-to-visit-southern-border.md",
+      "title": "Mike Pence Tells Kamala Harris 'It's Time' to Visit Southern Border",
+      "excerpt": "Donald Trump's former VP criticized Harris while tweeting images of him visiting the border during his time in the office.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/mike-pence-kamala-harris-border-1600275",
+      "originalUrl": "https://www.newsweek.com/mike-pence-kamala-harris-border-1600275",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 1770,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1820252/mike-pence-harris.jpg",
+          "width": 2400,
+          "height": 1800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/mike-pence-kamala-harris-border-1600275?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mike-pence-kamala-harris-border-1600275?amp=1",
+      "publishedDateTime": "2021-06-14T03:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-06-14-republicans-who-voted-for-impeachment-face-barrage-of-pro-trump-primary-challengers.md",
+      "title": "Republicans who voted for impeachment face barrage of pro-Trump primary challengers",
+      "excerpt": "Nine out of the 10 Republicans who voted to impeach former President Donald Trump over his alleged role in inspiring the attack on the Capitol by a mob of his supporters are already facing primary challenges – and some of them may have a very hard time holding on to their seats.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/T6oABemcA9U/house-republicans-impeachment-pro-trump-primary-challengers",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/T6oABemcA9U/house-republicans-impeachment-pro-trump-primary-challengers",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 249,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/house-republicans-impeachment-pro-trump-primary-challengers.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/house-republicans-impeachment-pro-trump-primary-challengers.amp",
+      "publishedDateTime": "2021-06-14T03:09:25-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-13-biden-congratulates-israels-incoming-pm-naftali-bennett-vows-support-for-israelis-palestinians.md",
+      "title": "Biden congratulates Israel’s incoming PM Naftali Bennett, vows support for 'Israelis, Palestinians'",
+      "excerpt": "President Joe Biden on Sunday congratulated Israel’s incoming Prime Minister Naftali Bennett after Israel’s parliament voted to approve a new government, effectively ending Benjamin Netanyahu’s historic 12 years in office.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/VuCLqcy-Gok/biden-congratulates-israels-incoming-pm-naftali-bennett-vows-support-for-israelis-palestinians",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/VuCLqcy-Gok/biden-congratulates-israels-incoming-pm-naftali-bennett-vows-support-for-israelis-palestinians",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 161,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9ba207a5-e5c3-44d7-ac5a-5bb6e1c12fb7/13469762-5405-4e01-b991-9d0ec4c05076/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-congratulates-israels-incoming-pm-naftali-bennett-vows-support-for-israelis-palestinians.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-congratulates-israels-incoming-pm-naftali-bennett-vows-support-for-israelis-palestinians.amp",
+      "publishedDateTime": "2021-06-13T13:00:25-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-14-media-fawning-over-joe-biden-for-return-to-normalcy-are-missing-destabilizing-effects-ben-domenech.md",
+      "title": "Media fawning over Joe Biden for ‘return to normalcy’ are missing 'destabilizing effects': Ben Domenech",
+      "excerpt": "The mainstream media has spotlighted President Biden for replacing Trump, The Federalist founder Ben Domenech argued on \"Media Buzz.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/media-fawning-over-joe-biden-for-return-to-normalcy-from-trump-years-ben-domenech",
+      "originalUrl": "https://www.foxnews.com/media/media-fawning-over-joe-biden-for-return-to-normalcy-from-trump-years-ben-domenech",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2411cae0-9c18-4a55-abf0-2cae2c64bb7d/a9cabb4f-5ce4-40c3-84ca-8a10a3d1e0ba/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/media-fawning-over-joe-biden-for-return-to-normalcy-from-trump-years-ben-domenech.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/media-fawning-over-joe-biden-for-return-to-normalcy-from-trump-years-ben-domenech.amp",
+      "publishedDateTime": "2021-06-13T12:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-14-biden-says-very-gracious-queen-reminded-me-of-my-mother.md",
+      "title": "Biden says 'very gracious' queen 'reminded me of my mother'",
+      "excerpt": "President Joe Biden and first lady Jill Biden visited Queen Elizabeth II at Windsor Castle on Sunday, and afterward the president told reporters traveling with him that the 95-year-old monarch was “ve",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/biden-aviators-greet-queen-sunny-afternoon-78254205",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/biden-aviators-greet-queen-sunny-afternoon-78254205",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/WireAP_9a0e9670065a46418d27a01c55230205_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/biden-aviators-greet-queen-sunny-afternoon-78254205",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-aviators-greet-queen-sunny-afternoon-78254205",
+      "publishedDateTime": "2021-06-13T11:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-06-14-did-covid-19-start-in-a-chinese-lab-former-trump-official-gives-bold-answer.md",
       "title": "Did COVID-19 Start In A Chinese Lab? Former Trump Official Gives Bold Answer",
       "excerpt": "In an interview with Fox News, the former secretary of state said he strongly believed Covid-19 originated from a Chinese lab.",
@@ -649,651 +1294,6 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/12/politics/tariffs-trump-biden-whiskey/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/12/politics/tariffs-trump-biden-whiskey/index.html",
       "publishedDateTime": "2021-06-12T07:01:37-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-12-trump-lost-40-million-on-his-scottish-golf-clubs-by-failing-to-implement-a-very-basic-financial-practice-say-experts.md",
-      "title": "Trump lost $40 million on his Scottish golf clubs by failing to implement a very basic financial practice, say experts",
-      "excerpt": "Trump's failure to hedge loans he made to his Scottish golf courses may have cost him tens of millions of dollars in recent years.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-lost-40-million-dollars-golf-course-loans-scotland-2021-6",
-      "originalUrl": "https://www.businessinsider.com/trump-lost-40-million-dollars-golf-course-loans-scotland-2021-6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/605718b7cad7d300183f8350?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trump-lost-40-million-dollars-golf-course-loans-scotland-2021-6?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-lost-40-million-dollars-golf-course-loans-scotland-2021-6?amp",
-      "publishedDateTime": "2021-06-12T05:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-12-biden-pick-for-navy-secretary-is-cuban-born-carlos-del-toro-a-22-year-navy-veteran.md",
-      "title": "Biden pick for Navy secretary is Cuban-born Carlos Del Toro, a 22-year Navy veteran",
-      "excerpt": "President Biden said Friday he plans to nominate Carlos Del Toro for secretary of the Navy. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/g7Vt4u_iRGA/biden-nominates-carlos-del-toro-as-navy-secretary",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/g7Vt4u_iRGA/biden-nominates-carlos-del-toro-as-navy-secretary",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/535d031e-e499-41ed-984b-bf132bd69c5b/7a7138b9-bda4-45c9-94ec-9d533682eec7/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-nominates-carlos-del-toro-as-navy-secretary.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-nominates-carlos-del-toro-as-navy-secretary.amp",
-      "publishedDateTime": "2021-06-12T01:14:57-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-12-aocs-aunt-says-blame-puerto-rico-pols-not-trump-for-abuela-misery-report.md",
-      "title": "AOC’s aunt says blame Puerto Rico pols, not Trump, for ‘abuela’ misery: report",
-      "excerpt": "If the grandmother of U.S. Rep. Alexandria Ocasio-Cortez has suffered in Puerto Rico since Hurricane Maria in 2017, then Puerto Rican politicians are to blame, not former President Trump.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/UOaDnhAfI88/aocs-aunt-says-blame-puerto-rico-pols-not-trump-for-abuela-misery-report",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/UOaDnhAfI88/aocs-aunt-says-blame-puerto-rico-pols-not-trump-for-abuela-misery-report",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 191,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e4fd5fb5-83f2-4861-b108-1ba47e4ff053/c6a6343e-88a5-4bfe-a221-9c75c0fadebf/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/aocs-aunt-says-blame-puerto-rico-pols-not-trump-for-abuela-misery-report.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aocs-aunt-says-blame-puerto-rico-pols-not-trump-for-abuela-misery-report.amp",
-      "publishedDateTime": "2021-06-11T21:26:26-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-12-putin-calls-trump-an-extraordinary-individual-biden-a-career-man.md",
-      "title": "Putin calls Trump an ‘extraordinary individual,’ Biden, a ‘career man’",
-      "excerpt": "Russian President Vladimir Putin compared his relationship with former President Trump, who he praised as an “extraordinary individual,” and President Biden, who he called a “career man.”",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/UZbmxPirZSc/putin-trump-extraordinary-individual-biden-career-man",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/UZbmxPirZSc/putin-trump-extraordinary-individual-biden-career-man",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 570,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/720/405/Russia-Vladimir-Putin-AP.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/putin-trump-extraordinary-individual-biden-career-man.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/putin-trump-extraordinary-individual-biden-career-man.amp",
-      "publishedDateTime": "2021-06-11T17:38:50-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-12-joe-biden-unearthing-the-presidents-unsung-english-roots.md",
-      "title": "Joe Biden: Unearthing the president's unsung English roots",
-      "excerpt": "Joe Biden's presence in the UK this week brings him closer to a part of his family heritage that had been obscure - until recently. Last year an English link was added to Mr Biden's well-known Irish ancestry.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/world-us-canada-57394351.amp",
-      "originalUrl": "https://www.bbc.com/news/world-us-canada-57394351.amp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 265,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/B551/production/_118871464_gettyimages-1233359683-594x594.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/world-us-canada-57394351.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-57394351.amp",
-      "publishedDateTime": "2021-06-11T16:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-06-12-feds-will-repeal-or-replace-trump-era-decision-to-lift-logging-road-building-restrictions-in-alaskas-tongass-national-forest.md",
-      "title": "Feds will 'repeal or replace' Trump-era decision to lift logging, road building restrictions in Alaska's Tongass National Forest",
-      "excerpt": "Republican Alaska Gov. Mike Dunleavy criticized the Biden's administration's plan and vowed to use \"every tool available to push back\" against it.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/nation/2021/06/11/alaska-tongass-national-forest-trump-roadless-rule/7662402002/",
-      "originalUrl": "https://www.usatoday.com/story/news/nation/2021/06/11/alaska-tongass-national-forest-trump-roadless-rule/7662402002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2018/11/06/USAT/07f2e10a-a895-4a3b-8a78-4ca7d17513ae-Alaska_110618.jpg?auto=webp&crop=599,335,x0,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 671,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/7662402002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7662402002",
-      "publishedDateTime": "2021-06-11T16:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-11-migrant-childrens-flights-prompt-iowa-tennessee-governors-to-demand-answers-from-biden-administration.md",
-      "title": "Migrant childrens' flights prompt Iowa, Tennessee governors to demand answers from Biden administration",
-      "excerpt": "The governors of Iowa and Tennessee are calling for hearings into what they describe as a lack of transparency from the Biden administration about the transportation of unaccompanied migrant children into their states.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/g3WBUAu-q0g/tennessee-iowa-child-migrant-flights",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/g3WBUAu-q0g/tennessee-iowa-child-migrant-flights",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/41ef6126-d339-4ab8-b892-902c1d90189a/ea2f9116-2659-46fa-8b52-f4952bf3e2ff/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/tennessee-iowa-child-migrant-flights.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tennessee-iowa-child-migrant-flights.amp",
-      "publishedDateTime": "2021-06-11T14:16:32-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-11-pence-to-headline-two-events-in-iowa-fueling-2024-run-speculation.md",
-      "title": "Pence to headline two events in Iowa, fueling 2024 run speculation",
-      "excerpt": "Former Vice President Mike Pence is set to headline two events next month in Iowa, the first state to host a primary for presidential elections, further fueling speculation that the former VP is mulling a run in 2024.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/HyFASMdOgAY/pence-iowa-2024-presidential-speculation",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/HyFASMdOgAY/pence-iowa-2024-presidential-speculation",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 205,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/720/405/pence.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/pence-iowa-2024-presidential-speculation.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-iowa-2024-presidential-speculation.amp",
-      "publishedDateTime": "2021-06-11T10:53:42-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-06-12-biden-nominee-takes-heat-over-critical-race-theory.md",
-      "title": "Biden nominee takes heat over ‘critical race theory’",
-      "excerpt": "The group cites Ahuja’s embrace of “critical race theory,” which they say “draws a large question as to this nominee’s ability to neutrality, fairness, and impartiality.” “Although we have not weighed in on this nomination in the past,",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/newsletters/playbook-pm/2021/06/11/biden-nominee-takes-heat-over-critical-race-theory-493221",
-      "originalUrl": "https://www.politico.com/newsletters/playbook-pm/2021/06/11/biden-nominee-takes-heat-over-critical-race-theory-493221",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/3d/74/4604fc834fe882f0a6e4c85944dd/210611-ahuja-ap-1160.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-11T10:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-11-mike-pence-to-appear-at-feenstra-family-picnic-event-july-16-in-sioux-center.md",
-      "title": "Mike Pence to appear at 'Feenstra Family Picnic' event July 16 in Sioux Center",
-      "excerpt": "Former Vice President Mike Pence is headlining Rep. Randy Feenstra's inaugural \"Feenstra Family Picnic\" next month in Sioux Center.",
-      "sourceUrl": null,
-      "webUrl": "https://siouxcityjournal.com/news/local/govt-and-politics/mike-pence-to-appear-at-feenstra-family-picnic-event-july-16-in-sioux-center/article_c36c7e6a-bf76-56dd-a78d-6ce106eb5b69.html",
-      "originalUrl": "https://siouxcityjournal.com/news/local/govt-and-politics/mike-pence-to-appear-at-feenstra-family-picnic-event-july-16-in-sioux-center/article_c36c7e6a-bf76-56dd-a78d-6ce106eb5b69.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/siouxcityjournal.com/content/tncms/assets/v3/editorial/c/d2/cd22d76c-4c7a-5009-b490-301bdb2a3e7b/609d95791b0c9.image.jpg?resize=1024%2C476",
-          "width": 1024,
-          "height": 476,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://siouxcityjournal.com/news/local/govt-and-politics/mike-pence-to-appear-at-feenstra-family-picnic-event-july-16-in-sioux-center/article_c36c7e6a-bf76-56dd-a78d-6ce106eb5b69.amp.html",
-      "cdnAmpWebUrl": "https://siouxcityjournal-com.cdn.ampproject.org/c/s/siouxcityjournal.com/news/local/govt-and-politics/mike-pence-to-appear-at-feenstra-family-picnic-event-july-16-in-sioux-center/article_c36c7e6a-bf76-56dd-a78d-6ce106eb5b69.amp.html",
-      "publishedDateTime": "2021-06-11T09:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Sioux City Journal",
-        "domain": "siouxcityjournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-06-11-pence-to-visit-iowa-to-headline-event-for-congressman.md",
-      "title": "Pence to visit Iowa to headline event for congressman",
-      "excerpt": "Former Vice President Mike Pence will headline a fundraiser next month for Rep. Randy Feenstra (R-Iowa), marking his third trip in recent weeks to an early primary state and fueling speculation about his 2024 plans.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/campaign/557995-pence-to-visit-iowa-to-headline-event-for-iowa-congressman",
-      "originalUrl": "https://thehill.com/homenews/campaign/557995-pence-to-visit-iowa-to-headline-event-for-iowa-congressman",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 245,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/pencemike_070820getty_lead.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/campaign/557995-pence-to-visit-iowa-to-headline-event-for-iowa-congressman?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/557995-pence-to-visit-iowa-to-headline-event-for-iowa-congressman?amp",
-      "publishedDateTime": "2021-06-11T08:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-06-11-swalwell-says-trump-weaponized-justice-department-against-enemies.md",
-      "title": "Swalwell says Trump 'weaponized' Justice Department against enemies",
-      "excerpt": "California Democratic Rep. Eric Swalwell, whose data was seized by the Trump administration as part of a leak probe, on Friday said former President Donald Trump \"weaponized\" the Justice Department to dig into the private communications of his political opponents.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KLsUJzJiscI/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KLsUJzJiscI/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 235,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210611150142-01-eric-swalwell-file-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/11/politics/trump-doj-subpoenas-house-democrats-swalwell-reaction-cnntv/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/11/politics/trump-doj-subpoenas-house-democrats-swalwell-reaction-cnntv/index.html",
-      "publishedDateTime": "2021-06-11T08:07:51-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",

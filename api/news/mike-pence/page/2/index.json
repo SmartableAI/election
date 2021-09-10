@@ -2,6 +2,215 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-07-18-pence-feenstra-slam-dems-for-massive-expansion-of-government-at-picnic.md",
+      "title": "Pence, Feenstra slam Dems for 'massive expansion of government' at picnic",
+      "excerpt": "Former VP Mike Pence decried policies of open borders, high taxes and \"abortion on demand,\" during a fundraiser for Rep. Randy Feenstra.",
+      "sourceUrl": null,
+      "webUrl": "https://globegazette.com/news/state-and-regional/govt-and-politics/pence-feenstra-slam-dems-for-massive-expansion-of-government-at-picnic/article_b6af748b-815b-5b5e-a2c1-ea8e16fd70e8.html",
+      "originalUrl": "https://globegazette.com/news/state-and-regional/govt-and-politics/pence-feenstra-slam-dems-for-massive-expansion-of-government-at-picnic/article_b6af748b-815b-5b5e-a2c1-ea8e16fd70e8.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/globegazette.com/content/tncms/assets/v3/editorial/2/0b/20bba3a4-5da0-56e3-847a-4c23bace4ff6/60f21602604a1.image.jpg?resize=1024%2C738",
+          "width": 1024,
+          "height": 738,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://globegazette.com/news/state-and-regional/govt-and-politics/pence-feenstra-slam-dems-for-massive-expansion-of-government-at-picnic/article_b6af748b-815b-5b5e-a2c1-ea8e16fd70e8.amp.html",
+      "cdnAmpWebUrl": "https://globegazette-com.cdn.ampproject.org/c/s/globegazette.com/news/state-and-regional/govt-and-politics/pence-feenstra-slam-dems-for-massive-expansion-of-government-at-picnic/article_b6af748b-815b-5b5e-a2c1-ea8e16fd70e8.amp.html",
+      "publishedDateTime": "2021-07-17T12:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Globe Gazette",
+        "domain": "globegazette.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-07-17-pence-says-hes-had-enough-of-biden-as-he-looks-to-escape-trumps-shadow-in-iowa.md",
+      "title": "Pence says he's 'had enough' of Biden as he looks to escape Trump's shadow in Iowa",
+      "excerpt": "Former Vice President Mike Pence crisscrossed Iowa on Friday, assailing President Joe Biden's administration for unleashing \"a tidal wave of left-wing policies that threaten to wipe out all the progress that we made\" in speeches that could preview his potential 2024 message.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sOtQEwxHoaA/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sOtQEwxHoaA/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 569,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210716185507-mike-pence-0716-iowa-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/16/politics/pence-noem-pompeo-iowa/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/16/politics/pence-noem-pompeo-iowa/index.html",
+      "publishedDateTime": "2021-07-16T17:19:04-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-07-16-pence-in-iowa-charges-biden-trying-to-turn-america-into-a-secular-welfare-state.md",
+      "title": "Pence, in Iowa, charges Biden trying to turn America into a ‘secular welfare state’",
+      "excerpt": "Former Vice President Mike Pence, making his first visit to Iowa since the end of the Trump administration, took aim at President Biden and spotlighted his social conservative credentials as he addressed a major gathering of Christian conservatives in the state whose caucuses for half a century have",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Yv-YWtnetg4/pence-in-iowa-charges-biden-trying-to-turn-america-into-secular-welfare-state",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Yv-YWtnetg4/pence-in-iowa-charges-biden-trying-to-turn-america-into-secular-welfare-state",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 334,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/pence-in-iowa-charges-biden-trying-to-turn-america-into-secular-welfare-state.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-in-iowa-charges-biden-trying-to-turn-america-into-secular-welfare-state.amp",
+      "publishedDateTime": "2021-07-16T16:50:31-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-07-16-mike-pence-refused-to-get-in-car-with-secret-service-during-capitol-riot-book.md",
+      "title": "Mike Pence Refused to Get in Car With Secret Service During Capitol Riot: Book",
+      "excerpt": "The former vice president twice refused to be evacuated as rioters stormed the Capitol on January 6, according to a new book about the final days of the Trump administration.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/mike-pence-refused-car-secret-service-capitol-riot-book-1610326",
+      "originalUrl": "https://www.newsweek.com/mike-pence-refused-car-secret-service-capitol-riot-book-1610326",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 141,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1847383/mike-pence-speaks-crowd.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/mike-pence-refused-car-secret-service-capitol-riot-book-1610326?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mike-pence-refused-car-secret-service-capitol-riot-book-1610326?amp=1",
+      "publishedDateTime": "2021-07-16T01:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-07-16-local-matters-mike-pence-and-other-gop-heavyweights-to-address-evangelicals-in-iowa.md",
       "title": "Local Matters: Mike Pence and other GOP heavyweights to address evangelicals in Iowa",
       "excerpt": "Despite the sustained popularity of former President Donald Trump in the GOP, other would-be 2024 Republican presidential contenders are heading to Iowa to address conservative voters. The Des Moines Register's chief political reporter Brianne Pfannenstiel has more on who will be headlining the Family Leadership Summit on Friday,",
@@ -1324,210 +1533,6 @@
         "name": "Penn Live",
         "domain": "pennlive.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-06-11-pence-to-headline-two-events-in-iowa-fueling-2024-run-speculation.md",
-      "title": "Pence to headline two events in Iowa, fueling 2024 run speculation",
-      "excerpt": "Former Vice President Mike Pence is set to headline two events next month in Iowa, the first state to host a primary for presidential elections, further fueling speculation that the former VP is mulling a run in 2024.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/HyFASMdOgAY/pence-iowa-2024-presidential-speculation",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/HyFASMdOgAY/pence-iowa-2024-presidential-speculation",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 205,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/720/405/pence.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/pence-iowa-2024-presidential-speculation.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-iowa-2024-presidential-speculation.amp",
-      "publishedDateTime": "2021-06-11T10:53:42-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-06-11-mike-pence-to-appear-at-feenstra-family-picnic-event-july-16-in-sioux-center.md",
-      "title": "Mike Pence to appear at 'Feenstra Family Picnic' event July 16 in Sioux Center",
-      "excerpt": "Former Vice President Mike Pence is headlining Rep. Randy Feenstra's inaugural \"Feenstra Family Picnic\" next month in Sioux Center.",
-      "sourceUrl": null,
-      "webUrl": "https://siouxcityjournal.com/news/local/govt-and-politics/mike-pence-to-appear-at-feenstra-family-picnic-event-july-16-in-sioux-center/article_c36c7e6a-bf76-56dd-a78d-6ce106eb5b69.html",
-      "originalUrl": "https://siouxcityjournal.com/news/local/govt-and-politics/mike-pence-to-appear-at-feenstra-family-picnic-event-july-16-in-sioux-center/article_c36c7e6a-bf76-56dd-a78d-6ce106eb5b69.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/siouxcityjournal.com/content/tncms/assets/v3/editorial/c/d2/cd22d76c-4c7a-5009-b490-301bdb2a3e7b/609d95791b0c9.image.jpg?resize=1024%2C476",
-          "width": 1024,
-          "height": 476,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://siouxcityjournal.com/news/local/govt-and-politics/mike-pence-to-appear-at-feenstra-family-picnic-event-july-16-in-sioux-center/article_c36c7e6a-bf76-56dd-a78d-6ce106eb5b69.amp.html",
-      "cdnAmpWebUrl": "https://siouxcityjournal-com.cdn.ampproject.org/c/s/siouxcityjournal.com/news/local/govt-and-politics/mike-pence-to-appear-at-feenstra-family-picnic-event-july-16-in-sioux-center/article_c36c7e6a-bf76-56dd-a78d-6ce106eb5b69.amp.html",
-      "publishedDateTime": "2021-06-11T09:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Sioux City Journal",
-        "domain": "siouxcityjournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-06-11-pence-to-visit-iowa-to-headline-event-for-congressman.md",
-      "title": "Pence to visit Iowa to headline event for congressman",
-      "excerpt": "Former Vice President Mike Pence will headline a fundraiser next month for Rep. Randy Feenstra (R-Iowa), marking his third trip in recent weeks to an early primary state and fueling speculation about his 2024 plans.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/campaign/557995-pence-to-visit-iowa-to-headline-event-for-iowa-congressman",
-      "originalUrl": "https://thehill.com/homenews/campaign/557995-pence-to-visit-iowa-to-headline-event-for-iowa-congressman",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 245,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/pencemike_070820getty_lead.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/campaign/557995-pence-to-visit-iowa-to-headline-event-for-iowa-congressman?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/557995-pence-to-visit-iowa-to-headline-event-for-iowa-congressman?amp",
-      "publishedDateTime": "2021-06-11T08:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-06-11-how-mike-pences-new-carmel-home-compares-to-the-last-one-he-owned.md",
-      "title": "How Mike Pence's new Carmel home compares to the last one he owned",
-      "excerpt": "Former Vice President Mike Pence and his wife Karen have improved their position in life since they last owned a home in Indiana in 2013. The Pences bought a modest home in Columbus in 2001 for about $116,",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2021/06/11/mike-pence-house-carmel-indiana/7633750002/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/06/11/mike-pence-house-carmel-indiana/7633750002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 205,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/01/20/PIND/9de87950-7812-481d-bbbd-87bec24d0513-01202021_Pence_GH_030.jpg?auto=webp&crop=2804,1578,x0,y334&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/7633750002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7633750002",
-      "publishedDateTime": "2021-06-11T02:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

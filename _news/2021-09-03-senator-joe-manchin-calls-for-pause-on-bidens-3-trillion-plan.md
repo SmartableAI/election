@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/video/senator-joe-manchin-calls-for-paus
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/senator-joe-manchin-calls-for-pause-on-bidens-3-trillion-plan/"
 type: article
 quality: 125
-heat: 385
+heat: 465
 published: true
 
 provider:
@@ -79,6 +79,22 @@ related:
         width: 500
         height: 281
         isCached: true
+  - title: "Joe Biden and Xi Jinping hold second call in bid to reset relations"
+    excerpt: "Joe Biden has held his second call with Chinese leader Xi Jinping since becoming US president in an effort to break an impasse in the relationship between the countries after two rounds of top-level meetings produced little progress."
+    publishedDateTime: 2021-09-10T03:13:00Z
+    webUrl: "https://www.ft.com/content/5527d9e5-ed0d-416d-8bd2-e9b12732f16d"
+    ampWebUrl: "https://amp.ft.com/content/5527d9e5-ed0d-416d-8bd2-e9b12732f16d"
+    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/5527d9e5-ed0d-416d-8bd2-e9b12732f16d"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 125
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F0aec81fb-a044-4d64-ae06-547f12bf2ddd.jpg?source=google-amp&fit=scale-down&width=500"
+        width: 500
+        height: 281
+        isCached: true
   - title: "Biden tours destruction of storm-ravaged Manville"
     excerpt: "President Joe Biden toured a neighborhood in storm-ravaged New Jersey, surveying the aftermath of Hurricane Ida's floods. Biden heard a harrowing tale from a couple who escaped before the storm destroyed their home and their daughter's nursery."
     publishedDateTime: 2021-09-07T21:40:00Z
@@ -125,6 +141,22 @@ related:
         width: 512
         height: 341
         isCached: true
+  - title: "Joe Biden calls Xi Jinping as U.S.-China relationship grows more fraught"
+    excerpt: "President Joe Biden spoke with China’s Xi Jinping on Thursday amid growing frustration on the American side that high-level engagement between the two leaders’ top"
+    publishedDateTime: 2021-09-10T05:05:00Z
+    webUrl: "https://www.denverpost.com/2021/09/09/joe-biden-calls-xi-jinping-us-china-relationship/"
+    ampWebUrl: "https://www.denverpost.com/2021/09/09/joe-biden-calls-xi-jinping-us-china-relationship/amp/"
+    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2021/09/09/joe-biden-calls-xi-jinping-us-china-relationship/amp/"
+    type: article
+    provider:
+      name: The Denver Post
+      domain: denverpost.com
+    quality: 74
+    images:
+      - url: "https://www.denverpost.com/wp-content/uploads/2021/09/AP21252793092479.jpg?w=1024&#038;h=683"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Biden calls for companies with more than 100 workers to require COVID-19 vaccinations or tests"
     excerpt: "The president is also calling for a vaccination or testing policy at many health care facilities. The steps would affect 100 million Americans."
     publishedDateTime: 2021-09-09T19:54:00Z
@@ -158,16 +190,16 @@ related:
   - title: "President Joe Biden Deliver Remarks in Honor of Labor Unions"
     excerpt: "President Joe Biden deliver remarks in honor of labor unions during an event in the East Room of the White House in Washington, DC, on Wednesday, September 8 2021. Photo by Shawn Thew/UPI"
     publishedDateTime: 2021-09-08T16:34:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/05f9c116747fbce74ef23bbe7a146c93/President-Joe-Biden-Deliver-Remarks-in-Honor-of-Labor-Unions/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/0780d645dd81667d6e38f3effadedfff/President-Joe-Biden-Deliver-Remarks-in-Honor-of-Labor-Unions/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/05f9c116747fbce74ef23bbe7a146c93/BIDEN-LABOR-UNIONS.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/0780d645dd81667d6e38f3effadedfff/BIDEN-LABOR-UNIONS.jpg"
         width: 650
-        height: 975
+        height: 433
         isCached: true
   - title: "Biden expected to push broad vaccination mandates"
     excerpt: "About 27% of the eligible U.S. population age 12 and older have not received any coronavirus vaccinations, according to data from the Centers for Disease Control and Prevention."
@@ -193,6 +225,20 @@ related:
       - url: "https://cdnph.upi.com/pv/upi/d56b095e1367e837233d75d514c4b21e/BIDEN-LABOR-UNIONS.jpg"
         width: 650
         height: 433
+        isCached: true
+  - title: "Biden calls Xi as U.S.-China relationship grows more fraught"
+    excerpt: "President Joe Biden spoke with China's Xi Jinping on Thursday amid growing frustration on the American side that high-level"
+    publishedDateTime: 2021-09-10T05:58:00Z
+    webUrl: "https://www.theday.com/nationworld-news/20210910/biden-calls-xi-as-us-china-relationship-grows-more-fraught"
+    type: article
+    provider:
+      name: The Day
+      domain: theday.com
+    quality: 55
+    images:
+      - url: "https://www.theday.com/storyimage/NL/20210910/NWS13/210919966/AR/0/AR-210919966.jpg&imageversion=16by9&Maxw=960"
+        width: 960
+        height: 540
         isCached: true
   - title: "Greg Steube calls for Joe Biden resignation after reported Marine deaths"
     excerpt: "Greg Steube called for President Joe Biden’s resignation after the reported death of four Marines in Kabul. “Horrific,” Steube tweeted. “Joe Biden needs to take"
@@ -221,6 +267,20 @@ related:
       - url: "https://floridapolitics.com/wp-content/uploads/2021/06/Steube.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "President Joe Biden calls President Xi Jinping amid growing strain in US-China relationship"
+    excerpt: "President Joe Biden calls President Xi Jinping amid growing strain in US-China relationship. Copyright 2021 The Associated Press. All rights reserved. This material may not be published, broadcast, rewritten or redistributed without permission."
+    publishedDateTime: 2021-09-10T02:12:00Z
+    webUrl: "https://www.stltoday.com/news/national/govt-and-politics/president-joe-biden-calls-president-xi-jinping-amid-growing-strain-in-us-china-relationship/article_91f1c19d-a9c8-5f08-b8c1-e6b91e1978c7.html"
+    type: article
+    provider:
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 45
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/custom/image/4ce82390-59b2-11e6-a3c5-b77ec6e8d16d.png?resize=600%2C517"
+        width: 600
+        height: 517
         isCached: true
 
 secured: "yqOou+LOCisWiUPr1PvAwOj/F1LFr/ym3eo0I9tns6sp/0k5ffkuM5RTXL3+SyjjHup5+ZD2lXqViTa4IiP7efpKf/nAUE9bo7dM0YkYB9DRHL/sZbKJG1VtvDX7OCEoxxV8PyeqIGlyKL9+Dpqb5wmPXJooG35ccQ6sz8nmNpjVU7n6MvlL5J5Eb897Sna+uSrWh4qDSKPl/Kfj2hOCMacMu1trfFTf1c3FLmC8XSUcL2jjUHDAQXLSOusWAt6RcMdLF2JGIeBeFwR61PpQS4hU/BvIstfzhsGplDO7dIEWJscpfRiN6QxgKRpomdX+4nFqIFLt2nhCkTM7a9TlkeHtH9X+pyHyLfd6IEStvCf6BAW9vkJK7hch+d6umL4B/4RDoRBVKvwVewcdRVaOPSgee2Zt4J5xDQT5ubW8kZTbajYGmoBfr75exIJj7V/nkgHMhuszd3junXlwbIk6tMrkX/4JGj2NmuN1NoRYB8ArTFXBhfOMxXZNZZiLho5dGnBp1egFh3FvkpqptDQksw==;vH431HUnKUiv04jOomTf+A=="

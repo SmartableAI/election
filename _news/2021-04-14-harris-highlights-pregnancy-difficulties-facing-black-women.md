@@ -765,17 +765,17 @@ related:
         isCached: true
   - title: "Recall election: Kamala Harris holds up Texas as a warning to fire up Dems to vote ‘No’ on Newsom recall"
     excerpt: "The vice president made a stop Wednesday in the Bay Area in a bid to mobilize Democrats to vote against the recall. “They think if they can win in California, they can do this"
-    publishedDateTime: 2021-09-08T18:41:00Z
-    webUrl: "https://www.eastbaytimes.com/2021/09/08/recall-election-vice-president-kamala-harris-campaigns-for-newsom-in-east-bay/"
-    ampWebUrl: "https://www.eastbaytimes.com/2021/09/08/recall-election-vice-president-kamala-harris-campaigns-for-newsom-in-east-bay/amp/"
-    cdnAmpWebUrl: "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2021/09/08/recall-election-vice-president-kamala-harris-campaigns-for-newsom-in-east-bay/amp/"
+    publishedDateTime: 2021-09-08T17:41:00Z
+    webUrl: "https://www.mercurynews.com/2021/09/08/recall-election-vice-president-kamala-harris-campaigns-for-newsom-in-east-bay/"
+    ampWebUrl: "https://www.mercurynews.com/2021/09/08/recall-election-vice-president-kamala-harris-campaigns-for-newsom-in-east-bay/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/09/08/recall-election-vice-president-kamala-harris-campaigns-for-newsom-in-east-bay/amp/"
     type: article
     provider:
-      name: East Bay Times
-      domain: eastbaytimes.com
+      name: Mercury News
+      domain: mercurynews.com
     quality: 73
     images:
-      - url: "https://www.eastbaytimes.com/wp-content/uploads/2021/09/SJM-L-KAMALA-0909-2-2.jpg?w=1024&#038;h=683"
+      - url: "https://www.mercurynews.com/wp-content/uploads/2021/09/SJM-L-KAMALA-0909-2.jpg?w=1024&#038;h=683"
         width: 1024
         height: 683
         isCached: true

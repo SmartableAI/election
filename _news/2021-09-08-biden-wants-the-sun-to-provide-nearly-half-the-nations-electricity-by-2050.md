@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Joe Biden Faces an Avalanche of Vaccine Mandate Lawsuits"
+    excerpt: "Many lawmakers said they're considering legal action against a mandate requiring businesses with 100 or more employees to have workers vaccinated."
+    publishedDateTime: 2021-09-10T09:00:00Z
+    webUrl: "https://www.newsweek.com/joe-biden-vaccine-mandate-lawsuits-republican-1627751"
+    ampWebUrl: "https://www.newsweek.com/joe-biden-vaccine-mandate-lawsuits-republican-1627751?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-vaccine-mandate-lawsuits-republican-1627751?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
+    images:
+      - url: "https://d.newsweek.com/en/full/1891294/joe-biden-vaccine-mandate.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Joe Biden tells FBI to release files on 9/11 investigation – and possible Saudi links"
     excerpt: "Executive order responds to call by victims’ families suing Riyadh and full record to be released in tranches over six months after review"
     publishedDateTime: 2021-09-03T20:25:00Z
@@ -57,6 +73,17 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Alert: President Joe Biden calls President Xi Jinping amid growing strain in US-China relationship"
+    excerpt: "President Joe Biden calls President Xi Jinping amid growing strain in US-China relationship. Latest Local News. Harris County adds $30 million to direct relief"
+    publishedDateTime: 2021-09-10T02:36:00Z
+    webUrl: "https://www.houstonchronicle.com/news/article/Alert-President-Joe-Biden-calls-President-Xi-16447764.php"
+    ampWebUrl: "https://www.houstonchronicle.com/news/amp/Alert-President-Joe-Biden-calls-President-Xi-16447764.php"
+    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Alert-President-Joe-Biden-calls-President-Xi-16447764.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 91
   - title: "Biden visit buoys up NJ family who lost home to Ida remnants"
     excerpt: "The Dommar family of Manville, New Jersey, gave a tour Tuesday to the president of the United States of their home, devastated by the torrential leftovers of Ida: That’s the roof down the block. The baby’s room is in two pieces on the west and east sides of their property."
     publishedDateTime: 2021-09-08T03:10:00Z
@@ -166,6 +193,20 @@ related:
       - url: "https://floridapolitics.com/wp-content/uploads/2020/12/moody.jpg"
         width: 1246
         height: 695
+        isCached: true
+  - title: "President Joe Biden urges all children 12 and up to get vaccinated"
+    excerpt: "President Joe Biden is urging all children 12 and up to get the COVID-19 vaccine. He says its the safest way to keep kids safe."
+    publishedDateTime: 2021-09-10T18:37:00Z
+    webUrl: "https://www.freep.com/videos/news/nation/2021/09/10/joe-biden-wants-students-keep-wearing-masks-and-get-vaccinated/8277659002/"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 55
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/09/10/USAT/8a01f129-0c21-4acf-a2b8-a7bbf1d55331-desktop_biden_thumb.png?quality=10"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Watch live: President Joe Biden to address storm devastated region from LaPlace"
     excerpt: "President Joe Biden arrived in the storm devastated region on Friday to see the damage caused by Hurricane Ida first hand. He is scheduled to make remarks this afternoon from LaPlace. Watch Biden's remarks live in the player below. Can't see the video?"

@@ -2,6 +2,54 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-06-23-chris-hayes-red-states-suffering-from-the-toxic-legacy-of-donald-trump.md",
+      "title": "Chris Hayes: Red States Suffering From The Toxic Legacy Of Donald Trump",
+      "excerpt": "We are seeing the effects of the toxic, devastating legacy of Donald Trump right now in the places that supported him the most,” MSNBC's Chris Hayes said Tuesday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.realclearpolitics.com/video/2021/06/23/chris_hayes_red_states_suffering_from_the_toxic_legacy_of_donald_trump.html#!",
+      "originalUrl": "https://www.realclearpolitics.com/video/2021/06/23/chris_hayes_red_states_suffering_from_the_toxic_legacy_of_donald_trump.html#!",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.realclear.com/images/48/482369.jpg",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "http://www.realclearpolitics.com/video/2021/06/23/chris_hayes_red_states_suffering_from_the_toxic_legacy_of_donald_trump.amp.html",
+      "cdnAmpWebUrl": "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/06/23/chris_hayes_red_states_suffering_from_the_toxic_legacy_of_donald_trump.amp.html",
+      "publishedDateTime": "2021-06-23T06:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RealClearPolitics",
+        "domain": "realclearpolitics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-23-ted-cruz-defends-texas-rep-chip-roy-as-donald-trump-attacks-him.md",
       "title": "Ted Cruz defends Texas Rep. Chip Roy as Donald Trump attacks him",
       "excerpt": "Donald Trump may be gunning for Congressman Chip Roy, but U.S. Sen. Ted Cruz is making it clear he’s going to fight to defend Roy, his former chief of staff. A month after Trump publicly blasted Roy,",
@@ -1514,58 +1562,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-17-with-election-fraud-claims-perus-keiko-fujimori-takes-a-page-from-the-trump-playbook-shes-not-alone.md",
-      "title": "With election fraud claims, Peru’s Keiko Fujimori takes a page from the Trump playbook. She’s not alone.",
-      "excerpt": "Fujimori’s approach, following Trump’s effort to discredit the outcome of the 2020 U.S. presidential election over false fraud claims, could signal the emergence of a trend.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/world/2021/06/16/trump-playbook-peru-democracy/",
-      "originalUrl": "https://www.washingtonpost.com/world/2021/06/16/trump-playbook-peru-democracy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YMOIGWGNYAI6XIREXVM32IQZPQ.jpg&w=1440",
-          "width": 1440,
-          "height": 1003,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/world/2021/06/16/trump-playbook-peru-democracy/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/2021/06/16/trump-playbook-peru-democracy/?outputType=amp",
-      "publishedDateTime": "2021-06-16T11:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

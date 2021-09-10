@@ -2,6 +2,647 @@
   "page": 58,
   "value": [
     {
+      "path": "_news/2021-05-12-more-than-120-retired-generals-and-admirals-wrote-to-biden-suggesting-he-wasnt-legitimately-elected-and-questioning-his-mental-health.md",
+      "title": "More than 120 retired generals and admirals wrote to Biden suggesting he wasn't legitimately elected and questioning his mental health",
+      "excerpt": "The letter published by \"Flag Officers 4 America\" appeared to advance a false conspiracy theory that the 2020 election was illegitimate.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/former-generals-admirals-letter-question-election-biden-health-2021-5",
+      "originalUrl": "https://www.businessinsider.com/former-generals-admirals-letter-question-election-biden-health-2021-5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6077445474da0300181e1b3a?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/former-generals-admirals-letter-question-election-biden-health-2021-5?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/former-generals-admirals-letter-question-election-biden-health-2021-5?amp",
+      "publishedDateTime": "2021-05-12T07:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-05-12-former-trump-officials-to-defend-response-to-capitol-riot-when-they-appear-before-congress-wednesday.md",
+      "title": "Former Trump officials to defend response to Capitol riot when they appear before Congress Wednesday",
+      "excerpt": "Two senior Trump administration officials plan to defend their actions during the Jan. 6 riot at the U.S. Capitol when they appear before Congress Wednesday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chicagotribune.com/nation-world/ct-aud-nw-capitol-riot-defense-secretary-congress-20210512-moa2hajy3naa3mdftdmhln4a34-story.html",
+      "originalUrl": "https://www.chicagotribune.com/nation-world/ct-aud-nw-capitol-riot-defense-secretary-congress-20210512-moa2hajy3naa3mdftdmhln4a34-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chicagotribune.com/resizer/FRpP3hB8ynGmt-z0pw-6qbu9_Cc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/PGYJO7TJW2FMIGATWOMTP4VVCY.aspx",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.chicagotribune.com/nation-world/ct-aud-nw-capitol-riot-defense-secretary-congress-20210512-moa2hajy3naa3mdftdmhln4a34-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-capitol-riot-defense-secretary-congress-20210512-moa2hajy3naa3mdftdmhln4a34-story.html?outputType=amp",
+      "publishedDateTime": "2021-05-12T04:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Tribune",
+        "domain": "chicagotribune.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-05-12-cheney-shames-colleagues-who-will-purge-her-for-disloyalty-to-trump.md",
+      "title": "Cheney shames colleagues who will purge her for disloyalty to Trump",
+      "excerpt": "Liz Cheney won't move on and stop speaking about the threat to American democracy posed by Donald Trump for a simple reason: It hasn't gone away.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/CmPR2gXUgy8/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/CmPR2gXUgy8/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 275,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210505064526-01-liz-cheney-0414-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/12/politics/liz-cheney-house-gop/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/12/politics/liz-cheney-house-gop/index.html",
+      "publishedDateTime": "2021-05-12T03:51:31-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-12-exclusive-biden-names-new-federal-judges-including-a-bush-nominee-with-an-emphasis-on-diversity.md",
+      "title": "Exclusive: Biden names new federal judges, including a Bush nominee, with an emphasis on diversity",
+      "excerpt": "Biden is filling federal judgeships with an eye toward racial and professional diversity. The White House is now unveiling its next round of nominees.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2021/05/12/biden-names-new-federal-judges-including-puerto-ricos-gustavo-gelpi/5035176001/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/05/12/biden-names-new-federal-judges-including-puerto-ricos-gustavo-gelpi/5035176001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/05/11/USAT/6c42eaee-2600-428b-89af-560edd76d80f-Biden_Judges.jpg?auto=webp&crop=3626,2040,x0,y524&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/5035176001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5035176001",
+      "publishedDateTime": "2021-05-12T02:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "YAHOO!News",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-05-12-analysis-violence-upends-bidens-israel-palestinian-outlook.md",
+      "title": "Analysis: Violence upends Biden's Israel-Palestinian outlook",
+      "excerpt": "The surge in Israeli-Palestinian violence has flummoxed the Biden administration in its first four months as it attempts to craft a Middle East policy it believes will be more durable and fairer than",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/analysis-violence-upends-bidens-israel-palestinian-outlook/2021/05/12/88a0876e-b2d7-11eb-bc96-fdf55de43bef_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/analysis-violence-upends-bidens-israel-palestinian-outlook/2021/05/12/88a0876e-b2d7-11eb-bc96-fdf55de43bef_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 385,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AN6GYPFSUEI6XPEW7X2V3ZB354.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/analysis-violence-upends-bidens-israel-palestinian-outlook/2021/05/12/88a0876e-b2d7-11eb-bc96-fdf55de43bef_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/analysis-violence-upends-bidens-israel-palestinian-outlook/2021/05/12/88a0876e-b2d7-11eb-bc96-fdf55de43bef_story.html?outputType=amp",
+      "publishedDateTime": "2021-05-12T01:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-05-12-ilhan-omar-fires-back-at-donald-trump-for-support-of-israel.md",
+      "title": "Ilhan Omar Fires Back at Donald Trump for Support of Israel",
+      "excerpt": "Violence in Israel, the worst seen since the 2014 Gaza war, has left at least 36 people dead—five Israelis and 31 Palestinians.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/ilhan-omar-donald-trump-israel-1590708",
+      "originalUrl": "https://www.newsweek.com/ilhan-omar-donald-trump-israel-1590708",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1794155/ilhan-omar-minnesota.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/ilhan-omar-donald-trump-israel-1590708?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/ilhan-omar-donald-trump-israel-1590708?amp=1",
+      "publishedDateTime": "2021-05-12T00:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-05-12-trump-calls-on-us-to-follow-uk-lead-with-voter-id-plans-as-democrats-push-hr1.md",
+      "title": "Trump calls on US to follow UK lead with voter ID plans as Democrats push HR1",
+      "excerpt": "Former President Donald Trump gave his full support Tuesday to British legislation that would require UK voters to show a photo ID in future elections — and called on all US states to follow",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/05/11/trump-wants-us-to-follow-brits-lead-on-voter-photo-id/",
+      "originalUrl": "https://nypost.com/2021/05/11/trump-wants-us-to-follow-brits-lead-on-voter-photo-id/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/05/graham-doubles-down-on-trump-107.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/05/11/trump-wants-us-to-follow-brits-lead-on-voter-photo-id/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/11/trump-wants-us-to-follow-brits-lead-on-voter-photo-id/amp/",
+      "publishedDateTime": "2021-05-11T16:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-11-rolling-to-remember-issa-introduces-bill-forcing-biden-to-allow-dc-memorial-day-biker-tradition.md",
+      "title": "Rolling to Remember: Issa introduces bill forcing Biden to allow DC Memorial Day biker tradition",
+      "excerpt": "EXCLUSIVE - Rep. Darrell Issa, R-Calif., introduced a bill on Tuesday to ensure a Memorial Day veterans event with a long history is able continue every year, after the Department of Defense blocked the Rolling to Remember motorcycle rally from staging in the Pentagon parking lot this month.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/B8hUTR7uvIU/rolling-to-remember-issa-biden-veterans-pentagon",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/B8hUTR7uvIU/rolling-to-remember-issa-biden-veterans-pentagon",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 162,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ba409605-554d-476c-b289-4aa191309534/79e7774b-fcda-498a-b91a-dc89ed5125fe/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/rolling-to-remember-issa-biden-veterans-pentagon.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rolling-to-remember-issa-biden-veterans-pentagon.amp",
+      "publishedDateTime": "2021-05-11T15:58:42-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-12-trump-endorses-florida-senate-president-simpson-for-agriculture-commissioner.md",
+      "title": "Trump endorses Florida Senate President Simpson for agriculture commissioner",
+      "excerpt": "Wilton has been a great supporter and worked hard to get many good Conservatives elected in Florida,\" the former president said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/states/florida/story/2021/05/11/trump-endorses-florida-senate-president-simpson-for-agriculture-commissioner-1381379",
+      "originalUrl": "https://www.politico.com/states/florida/story/2021/05/11/trump-endorses-florida-senate-president-simpson-for-agriculture-commissioner-1381379",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/95/ac/7f66be1541e29a09699304d68144/ap21061728747528-1.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-11T13:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-11-biden-says-he-expects-a-more-aggressive-effort-to-relax-cdc-guidance-for-fully-vaccinated-people.md",
+      "title": "Biden says he expects ‘a more aggressive effort’ to relax CDC guidance for fully vaccinated people",
+      "excerpt": "President Biden predicted \"a more aggressive effort\" within his administration to increase the \"desire\" to get vaccinated by relaxing the Centers for Disease Control and Prevention's guidance on what fully vaccinated people can do safely. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/uqfuJ5lhgOQ/biden-more-aggressive-effort-relax-cdc-guidance-fully-vaccinated",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/uqfuJ5lhgOQ/biden-more-aggressive-effort-relax-cdc-guidance-fully-vaccinated",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 161,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/720/405/GettyImages-1312682563.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-more-aggressive-effort-relax-cdc-guidance-fully-vaccinated.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-more-aggressive-effort-relax-cdc-guidance-fully-vaccinated.amp",
+      "publishedDateTime": "2021-05-11T13:36:31-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-11-mike-pompeo-bidens-stance-on-israel-and-iran-emboldens-terrorists.md",
+      "title": "Mike Pompeo: Biden's stance on Israel and Iran 'emboldens terrorists'",
+      "excerpt": "Former Secretary of State Mike Pompeo tore into President Biden's foreign policy regarding Israel and Iran, saying its stance on the long-standing disputes in the region \"emboldens terrorists.\"",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1qVVZjpj4_Q/pompeo-biden-israel-hamas-iran-terrorists",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1qVVZjpj4_Q/pompeo-biden-israel-hamas-iran-terrorists",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 215,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ae7a3b50-1eb5-4eb1-88c0-cb7eb37bbcb2/ef1326cd-9d60-4c6f-a38a-ac991775de88/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/pompeo-biden-israel-hamas-iran-terrorists.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pompeo-biden-israel-hamas-iran-terrorists.amp",
+      "publishedDateTime": "2021-05-11T13:01:58-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-12-trump-family-members-got-inappropriately-close-to-secret-service-agents-book-claims.md",
+      "title": "Trump family members got ‘inappropriately close’ to Secret Service agents, book claims",
+      "excerpt": "Concerns over bonds involving Trump’s then daughter in-law Vanessa and daughter Tiffany revealed in Zero Fail by Carol Leonnig",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/may/11/trump-family-members-secret-service",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/may/11/trump-family-members-secret-service",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/11561139299edbc7f8d3970677ad92cbae9c2a7c/0_1_3914_2349/master/3914.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=edbad52088432403c9d2d0b917585123",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/may/11/trump-family-members-secret-service",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/may/11/trump-family-members-secret-service",
+      "publishedDateTime": "2021-05-11T10:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-05-11-biden-to-tap-rahm-emanuel-as-japan-ambassador-reports.md",
       "title": "Biden to tap Rahm Emanuel as Japan ambassador: reports",
       "excerpt": "President Biden is reportedly set to tap Rahm Emanuel -- former President Barack Obama's chief of staff and Chicago mayor -- as U.S. ambassador to Japan. ",
@@ -695,651 +1336,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-10-i-saw-it-on-tv-why-trump-supporter-says-she-believes-election-lie.md",
-      "title": "'I saw it on TV!': Why Trump supporter says she believes election lie",
-      "excerpt": "A couple attending an event hosted by Rep. Matt Gaetz (R-FL) and Rep. Marjorie Taylor Greene (R-GA) tell CNN's Donie O'Sullivan why they still believe debunked conspiracy theories cited as evidence that the 2020 presidential election was \"stolen\" from former President Donald Trump.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iyRhQrB_ZpY/trump-voter-gaetz-rally-election-conspiracy-big-lie-o-sullivan-lkl-vpx.cnn",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iyRhQrB_ZpY/trump-voter-gaetz-rally-election-conspiracy-big-lie-o-sullivan-lkl-vpx.cnn",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 510,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210510110049-donie-osullivan-gaetz-event-trump-voter-01-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/videos/media/2021/05/10/trump-voter-gaetz-rally-election-conspiracy-big-lie-o-sullivan-lkl-vpx.cnn",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/media/2021/05/10/trump-voter-gaetz-rally-election-conspiracy-big-lie-o-sullivan-lkl-vpx.cnn",
-      "publishedDateTime": "2021-05-10T08:11:32-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-10-ap-norc-poll-biden-approval-buoyed-by-his-pandemic-response.md",
-      "title": "AP-NORC poll: Biden approval buoyed by his pandemic response",
-      "excerpt": "President Joe Biden is entering the next phase of his administration with the steady approval of a majority of Americans",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/ap-norc-poll-biden-approval-buoyed-pandemic-response-77598908",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/ap-norc-poll-biden-approval-buoyed-pandemic-response-77598908",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 185,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/WireAP_1dbd7ae9d62042af9c8ad0ac023f319c_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/ap-norc-poll-biden-approval-buoyed-pandemic-response-77598908",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-norc-poll-biden-approval-buoyed-pandemic-response-77598908",
-      "publishedDateTime": "2021-05-10T05:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-05-10-biden-embarks-on-his-bipartisan-push-for-an-infrastructure-deal.md",
-      "title": "Biden embarks on his bipartisan push for an infrastructure deal",
-      "excerpt": "President Joe Biden faces a daunting task as he embarks on a bipartisan push with top congressional leaders to advance several of his key priorities -- which will advance or collapse depending on how the coming weeks shake out.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/GTUYTPQNdSA/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/GTUYTPQNdSA/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 1115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210506155226-01-joe-biden-speech-louisiana-0506-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/09/politics/what-matters-may-9/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/09/politics/what-matters-may-9/index.html",
-      "publishedDateTime": "2021-05-10T03:42:41-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-10-white-house-chief-of-staff-says-he-wouldnt-want-to-estimate-or-underestimate-trump-if-he-decides-to-run-in-2024.md",
-      "title": "White House chief of staff says he 'wouldn't want to estimate or underestimate' Trump if he decides to run in 2024 ",
-      "excerpt": "White House chief of staff Ron Klain says that while President Joe Biden will likely seek re-election in 2024, the Biden administration is anticipating a bruising general election matchup if former President Donald Trump decides to run again.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5VF_kr1WEGA/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5VF_kr1WEGA/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 153,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210226160610-02-ron-klain-2020-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/09/politics/ron-klain-donald-trump-2024-presidential-run/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/09/politics/ron-klain-donald-trump-2024-presidential-run/index.html",
-      "publishedDateTime": "2021-05-09T19:52:40-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-10-roger-stone-said-michael-flynn-should-be-drafted-by-trump-supporters-for-2024-run-if-trump-decides-not-to.md",
-      "title": "Roger Stone said Michael Flynn should be 'drafted' by Trump supporters for 2024 run if Trump decides not to",
-      "excerpt": "Roger Stone appeared on Newsmax to tout Michael Flynn, a fellow longtime Trump ally and conspiracy theorist who was pardoned by the former president.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/roger-stone-michael-flynn-trump-2024-election-supporters-2021-5",
-      "originalUrl": "https://www.businessinsider.com/roger-stone-michael-flynn-trump-2024-election-supporters-2021-5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5c956a69ffcb27247e073fb8?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/roger-stone-michael-flynn-trump-2024-election-supporters-2021-5?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/roger-stone-michael-flynn-trump-2024-election-supporters-2021-5?amp",
-      "publishedDateTime": "2021-05-09T14:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-05-10-pastor-greg-locke-attacks-joe-biden-calls-pope-biggest-pedophile-on-the-planet.md",
-      "title": "Pastor Greg Locke Attacks Joe Biden, Calls Pope 'Biggest Pedophile on the Planet'",
-      "excerpt": "People tell me \"Joe Biden is a practicing Catholic,\" Locke said. \"So is the pope but he's the biggest pedophile on the planet.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/pastor-greg-locke-attacks-joe-biden-calls-pope-biggest-pedophile-planet-1589908",
-      "originalUrl": "https://www.newsweek.com/pastor-greg-locke-attacks-joe-biden-calls-pope-biggest-pedophile-planet-1589908",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1791763/pastor-greg-locke-attacks-biden.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/pastor-greg-locke-attacks-joe-biden-calls-pope-biggest-pedophile-planet-1589908?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/pastor-greg-locke-attacks-joe-biden-calls-pope-biggest-pedophile-planet-1589908?amp=1",
-      "publishedDateTime": "2021-05-09T11:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-05-10-trump-calls-medina-spirit-a-junky-after-horse-tests-positive-for-betamethasone.md",
-      "title": "Trump calls Medina Spirit a ‘junky’ after horse tests positive for betamethasone",
-      "excerpt": "Former President Donald Trump called Medina Spirit a “junky” on Sunday, after the Kentucky Derby winner’s trainer revealed the horse tested positive for an illegal",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/05/09/trump-calls-medina-spirit-a-junky-after-drug-test-revelation/",
-      "originalUrl": "https://nypost.com/2021/05/09/trump-calls-medina-spirit-a-junky-after-drug-test-revelation/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 130,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/05/trump-calls-medina-spirit-junky-3.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/05/09/trump-calls-medina-spirit-a-junky-after-drug-test-revelation/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/09/trump-calls-medina-spirit-a-junky-after-drug-test-revelation/amp/",
-      "publishedDateTime": "2021-05-09T11:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-09-trump-presidency-worst-four-years-ever-for-gop-says-republican-gov-larry-hogan.md",
-      "title": "Trump Presidency 'Worst Four Years' Ever for GOP, Says Republican Gov. Larry Hogan",
-      "excerpt": "Maryland Governor Larry Hogan, a Republican, slammed former President Donald Trump's tenure in the White House, describing it as the \"worst four years\" the GOP has \"ever\" experienced. Despite being a Republican,",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/trump-presidency-worst-four-years-ever-gop-says-republican-gov-larry-hogan-1589888",
-      "originalUrl": "https://www.newsweek.com/trump-presidency-worst-four-years-ever-gop-says-republican-gov-larry-hogan-1589888",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1791741/larry-hogan.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/trump-presidency-worst-four-years-ever-gop-says-republican-gov-larry-hogan-1589888?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-presidency-worst-four-years-ever-gop-says-republican-gov-larry-hogan-1589888?amp=1",
-      "publishedDateTime": "2021-05-09T08:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-05-09-biden-admin-faces-lack-of-icebreakers-increasing-russian-and-chinese-threats-in-arctic.md",
-      "title": "Biden admin faces lack of icebreakers, increasing Russian and Chinese threats in Arctic",
-      "excerpt": "One of the least talked-about challenges for the new administration is one that's been brewing for years, long before Donald Trump's presidency: growing challenges to the United States' ability to assert its will in the Arctic. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/gDcW-M7RqbE/biden-administration-arctic-challenges-russia-china-threats",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/gDcW-M7RqbE/biden-administration-arctic-challenges-russia-china-threats",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-administration-arctic-challenges-russia-china-threats.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-administration-arctic-challenges-russia-china-threats.amp",
-      "publishedDateTime": "2021-05-09T06:30:02-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-09-pence-trips-spark-further-2024-white-house-race-speculation.md",
-      "title": "Pence trips spark further 2024 White House race speculation",
-      "excerpt": "In a move that will spark further 2024 speculation, former Vice President Mike Pence will headline a major Republican Party dinner and fundraising event in early June in New Hampshire, the state that for a century has held the first primary in the race for the White House.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/SGmQKRGgpLs/pence-trips-2024-white-house-race-speculation",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/SGmQKRGgpLs/pence-trips-2024-white-house-race-speculation",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 205,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/pence-trips-2024-white-house-race-speculation.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-trips-2024-white-house-race-speculation.amp",
-      "publishedDateTime": "2021-05-09T04:27:49-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-05-09-bidens-economic-agenda-isnt-quite-as-transformational-as-it-seems.md",
-      "title": "Biden's economic agenda isn't quite as 'transformational' as it seems",
-      "excerpt": "\"Transformational\"? Don't get carried away.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sAzLQ7CG7Uo/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sAzLQ7CG7Uo/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210507133814-01-joe-biden-0507-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/09/politics/biden-economic-agenda-transformational/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/09/politics/biden-economic-agenda-transformational/index.html",
-      "publishedDateTime": "2021-05-09T04:14:07-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-09-hes-like-an-upside-down-iceberg-historian-jon-meacham-on-joe-biden.md",
-      "title": "‘He’s like an upside down iceberg’: historian Jon Meacham on Joe Biden",
-      "excerpt": "With Biden what you see is what you get, says the Pulitzer prize winner, who has advised the president, but FDR informs his approach to democracy in peril",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/may/09/jon-meacham-joe-biden-fdr",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/may/09/jon-meacham-joe-biden-fdr",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/75963551a9eac3f4659d382a17b4f727ee3e6bfa/0_365_5472_3283/master/5472.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=89f9494d8415059d4bd83d8b67aaf6fb",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/may/09/jon-meacham-joe-biden-fdr",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/may/09/jon-meacham-joe-biden-fdr",
-      "publishedDateTime": "2021-05-09T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

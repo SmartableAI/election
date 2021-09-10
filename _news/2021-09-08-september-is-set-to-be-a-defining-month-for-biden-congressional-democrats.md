@@ -240,6 +240,38 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden administration appeals ruling that found DACA unlawful"
+    excerpt: "The Biden administration appealed on Friday a Texas court ruling that found the Obama-era Deferred Action for Childhood Arrivals program unlawful -- injecting fresh uncertainty into the lives of thousands of immigrants.\n    \n"
+    publishedDateTime: 2021-09-10T19:38:01Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/drJsZU_g0SA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/09/10/politics/daca-biden-administration-appeals-ruling/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/09/10/politics/daca-biden-administration-appeals-ruling/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210910153608-daca-scotus-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden's six-step Covid plan, explained"
+    excerpt: "The US Covid situation is as dire as ever, with 1,500 people dying each day -- an average of 150,000 new cases each day.\n    \n"
+    publishedDateTime: 2021-09-10T06:56:07Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wYVEjU0l5Ok/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/09/10/politics/what-matters-biden-covid-plan/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/09/10/politics/what-matters-biden-covid-plan/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210909175201-04-joe-biden-09-09-2021-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden announces new vaccine mandates that could cover 100 million Americans"
     excerpt: "President Joe Biden on Thursday will impose more stringent vaccine rules on federal workers, and take steps to encourage private businesses to do the same, during a major speech meant to lay out a new approach to combating the coronavirus.\n    \n"
     publishedDateTime: 2021-09-10T01:01:22Z
@@ -285,6 +317,22 @@ related:
     quality: 172
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210907151855-04-biden-new-jersey-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden speaks with Chinese President Xi Jinping amid tensions in recent months"
+    excerpt: "President Joe Biden spoke with China's President Xi Jinping on Thursday evening as relations between the two countries have remained tense in recent months, particularly in cyberspace, with the US having accused China of widespread malfeasance, including a massive hack of Microsoft's email system and"
+    publishedDateTime: 2021-09-10T10:28:14Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mkV-bWHor4I/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/09/09/politics/biden-xi-jinping-china-call/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/09/09/politics/biden-xi-jinping-china-call/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210909224238-joe-biden-xi-jinping-split-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -432,6 +480,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden to GOP critics looking to challenge new vaccine requirements in court: 'Have at it'"
+    excerpt: "President Joe Biden challenged Republicans to test his new vaccine requirements in court Friday as he stressed his administration's commitment to keeping students safe as he visited a Washington, DC, middle school on Friday.\n    \n"
+    publishedDateTime: 2021-09-10T15:32:52Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/07ea3If8iO8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/09/10/politics/biden-schools-covid/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/09/10/politics/biden-schools-covid/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210910110755-01-bidens-dc-school-0910-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "After hitting an Obamacare record, Biden's top health administrator eyes further expansion"
     excerpt: "The Affordable Care Act's upcoming open enrollment period is going to look very different this year. It will be the first since 2016 that the official in charge is actively supporting efforts to get people coverage under the landmark law, rather than trying to undermine it.\n    \n"
     publishedDateTime: 2021-09-09T14:04:43Z
@@ -576,6 +640,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Joe Biden tries to push the nation past the 9/11 era as he commemorates 20th anniversary of the attacks "
+    excerpt: "In the middle of chaos 20 years ago, Sen. Joe Biden wanted to get inside the US Capitol.\n    \n"
+    publishedDateTime: 2021-09-10T10:37:50Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lhEWkkv_oR0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/09/10/politics/joe-biden-moving-nation-past-september-11-era/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/09/10/politics/joe-biden-moving-nation-past-september-11-era/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 158
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210829171242-03-biden-afghanistan-0829-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden's chief of staff won't say when booster shots will be available but commits to following the science"
     excerpt: "White House chief of staff Ron Klain would not give a specific date as to when Covid-19 booster shots would be available to the public but committed to following the science and waiting for full approval from health officials before making a third dose available to those who seek one.\n    \n"
     publishedDateTime: 2021-09-05T13:21:37Z
@@ -717,6 +797,20 @@ related:
       - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
         width: 1120
         height: 629
+        isCached: true
+  - title: "Joe Biden’s Covid 180"
+    excerpt: "The only group of people that has disappointed JOE BIDEN more than the Afghan national army is unvaccinated Americans. “Our patience is wearing thin,” Biden said last night of the 80 million Americans who haven’t received a shot,"
+    publishedDateTime: 2021-09-10T10:14:00Z
+    webUrl: "https://www.politico.com/newsletters/playbook/2021/09/10/joe-bidens-covid-180-494273"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/d8/d2/6567a3e144a59faf6f708e2a201f/210910-biden-ap-1160.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "fdd0MbjfoaWU8sP3bnC+nhkbbpGKf5v1fv/vqEx/DPLkHtv63dmRgl5WtvGI1Ypm7xeYNLkGT6y/zpbPS0pU47TWjWf6Z3mPDKLI7aHbW3Ubaco4bRNC1GPqg5x5buufOKTfjIMJSOxFGVW5Np7WoRs284N25G/ksTVvhIPgGFWPjSKIzezoFunSFZjWHNh1bmOVt6ZOXuVv4KKSyR8g1LDfCsrDr6h6ToynmbVHNINT7e/YN95mtK4Yfo6A0fsc5IxkheVi5IkdNCLGeqjn5jrbzDPHXzPdV0oMLqT2YoziPLrhPtK7ydcr+GBU9WZwHct+hi9MohDPLfSK9AzLcrzGBey3QJQg6qM7h5oN37M=;AFVP6YXwwD9N2B6UJ1JVQQ=="

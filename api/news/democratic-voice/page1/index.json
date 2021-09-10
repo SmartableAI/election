@@ -2,6 +2,119 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-09-10-trumps-house-gop-enemies-get-boost-from-mccarthys-leadership-team.md",
+      "title": "Trump's House GOP enemies get boost from McCarthy's leadership team",
+      "excerpt": "House Minority Leader Kevin McCarthy and his leadership team are quietly working to prop up some of the GOP incumbents targeted by former President Donald Trump, putting the California Republican directly in the crosshairs of the right as he seeks to win back the majority.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/VDpiFhQ7su0/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/VDpiFhQ7su0/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210721133155-02-kevin-mccarthy-0701-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/09/10/politics/kevin-mccarthy-house-republicans-trump/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/09/10/politics/kevin-mccarthy-house-republicans-trump/index.html",
+      "publishedDateTime": "2021-09-10T03:36:02-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-09-10-pence-returns-to-the-arena-as-a-podcaster.md",
+      "title": "Pence returns to the arena — as a podcaster",
+      "excerpt": "Mike Pence will release the first episode of his new podcast, “American Freedom,” on Friday, the latest volley in the former vice president’s effort to recapture conservative audiences ahead of a potential presidential run in 2024.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2021/09/10/pence-new-podcast-511079",
+      "originalUrl": "https://www.politico.com/news/2021/09/10/pence-new-podcast-511079",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/d3/55/f292a828497eb689b34cd6b0e38f/gettyimages-1232599479-1.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.com/amp/news/2021/09/10/pence-new-podcast-511079",
+      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/09/10/pence-new-podcast-511079",
+      "publishedDateTime": "2021-09-09T21:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-09-09-trump-endorses-harriet-hageman-in-gop-primary-challenge-to-liz-cheney.md",
       "title": "Trump endorses Harriet Hageman in GOP primary challenge to Liz Cheney",
       "excerpt": "Former President Donald Trump has endorsed a Republican primary challenger to Wyoming Rep. Liz Cheney, a vocal critic of the former president who voted to impeach him earlier this year.\n    \n",
@@ -296,7 +409,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 1046,
+      "heat": 1166,
       "tags": null,
       "images": [
         {
@@ -509,62 +622,6 @@
       ]
     },
     {
-      "path": "_news/2021-09-04-january-6-select-committee-refutes-claim-by-mccarthy-that-the-justice-department-cleared-trump-of-any-role-in-insurrection.md",
-      "title": "January 6 select committee refutes claim by McCarthy that the Justice Department cleared Trump of any role in insurrection",
-      "excerpt": "The top members of the select committee investigating the January 6 riot on Capitol Hill refuted recent claims by House Minority Leader Kevin McCarthy that former President Donald Trump has been cleared by the Justice Department of any role in the insurrection.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1cr0zKRtiiU/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1cr0zKRtiiU/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210726221744-06-capitol-riot-file-0106-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/09/04/politics/mccarthy-trump-select-committee-justice-department/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/09/04/politics/mccarthy-trump-select-committee-justice-department/index.html",
-      "publishedDateTime": "2021-09-04T10:00:16-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2021-09-04-biden-administrations-sept-20-booster-rollout-may-be-scaled-back-to-just-pfizer-covid-19-vaccine-at-first.md",
       "title": "Biden administration's Sept. 20 booster rollout may be scaled back to just Pfizer Covid-19 vaccine at first",
       "excerpt": "There have been internal conversations within the Biden administration about scaling back the ambitious booster plan laid out by top federal health officials last month as the calendar nears September 20, the date when booster shots may start to be offered.\n    \n",
@@ -689,7 +746,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 169,
+      "heat": 189,
       "tags": null,
       "images": [
         {
@@ -1626,63 +1683,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-24-possible-havana-syndrome-incident-delayed-harris-flight-to-vietnam.md",
-      "title": "Possible Havana syndrome incident delayed Harris flight to Vietnam",
-      "excerpt": "Vice President Kamala Harris' departure for Vietnam was delayed by several hours Tuesday afternoon after her office was informed by the US embassy in Hanoi, Vietnam, of a \"report of a recent possible anomalous health incident.\"\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dC3gzpQyBKE/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dC3gzpQyBKE/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 205,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210822174905-01-harris-singapore-0822-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/08/24/politics/kamala-harris-vietnam/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/24/politics/kamala-harris-vietnam/index.html",
-      "publishedDateTime": "2021-08-24T08:16:14-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice",
-        "Kamala Harris"
       ]
     }
   ],

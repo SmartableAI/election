@@ -28,7 +28,7 @@ related:
   - title: "U.S. Vice President Kamala Harris to Visit Hampton University on Friday, September 10"
     excerpt: "U.S. Vice President Kamala Harris will visit Hampton University on Friday, September 10, to recognize the contributions of HBCUs a"
     publishedDateTime: 2021-09-09T15:27:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/kamala-harris-hampton-university-ea2f36913b333cebf7b3566e3d343498"
+    webUrl: "https://apnews.com/press-release/GlobeNewswire/kamala-harris-hampton-university-ea2f36913b333cebf7b3566e3d343498"
     type: article
     provider:
       name: Associated Press
@@ -99,6 +99,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "U.S. VP Harris Says State Legislatures Cannot Circumvent Abortion Rights Precedent"
+    excerpt: "Vice President Kamala Harris, in remarks on Thursday after the Justice Department filed a lawsuit against a Texas abortion law, said no legislative body has the right to circumvent the U.S. Constitution."
+    publishedDateTime: 2021-09-09T20:10:00Z
+    webUrl: "https://www.usnews.com/news/us/articles/2021-09-09/us-vp-harris-says-state-legislatures-cannot-circumvent-abortion-rights-precedent"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 29
 
 secured: "AWD6jQgZMR6IvjGUD3v8jxeM9XzkpG2VjVL5fuAWABDIkgWL5rKKGD3AF5cachLbt0uHJAsf89gmE9oO56ldcduaxWx6GglFgbma+IS4ESqp1QGRQAv8zrnizUQ8bp3y1NZTsXSRk7035a7bla0fxkUSoNi/x96Pyez9jpeUAvcUJu1rJa5+iHx71mWvYi3Zj9mYqfHxgPpLRD9QPqgepXW9HHAKF4/0kyZ8g4Uj6wZYHcEpTlkARYunaqfobEPCpFM6GwP1L34cBmEWczXhfaJzbdegJpf+f/GzkhFcTEB6swIibAOGPJ4qLvaIcPlCxCgjGxOATq96h+0ou0DA8hE+H785bu4XlCC6P6QtOdT0qNJz3SJtWarab4cnHlq1rLolTwPEgM7PRPxFCzXpkDkFc7CmyzVgCbnlYikIY2VDRdkB3eKZNqiYP0XoGoAPE0AEQKJimv0CR2Y+bfF7+SoQeXKzwHD6sxwL7IhgzLmP9c4LNGlNCEDHYcGZOSc2+VhJJYaAtn+s1QRxqsWGhw==;66IFy7TLKiSflDzeYXJtLg=="
 ---

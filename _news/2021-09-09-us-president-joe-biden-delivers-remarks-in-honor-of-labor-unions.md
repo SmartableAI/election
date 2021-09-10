@@ -89,6 +89,22 @@ related:
         width: 500
         height: 281
         isCached: true
+  - title: "Joe Biden and Xi Jinping hold second call in bid to reset relations"
+    excerpt: "Joe Biden has held his second call with Chinese leader Xi Jinping since becoming US president in an effort to break an impasse in the relationship between the countries after two rounds of top-level meetings produced little progress."
+    publishedDateTime: 2021-09-10T03:13:00Z
+    webUrl: "https://www.ft.com/content/5527d9e5-ed0d-416d-8bd2-e9b12732f16d"
+    ampWebUrl: "https://amp.ft.com/content/5527d9e5-ed0d-416d-8bd2-e9b12732f16d"
+    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/5527d9e5-ed0d-416d-8bd2-e9b12732f16d"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 125
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F0aec81fb-a044-4d64-ae06-547f12bf2ddd.jpg?source=google-amp&fit=scale-down&width=500"
+        width: 500
+        height: 281
+        isCached: true
   - title: "Biden tours destruction of storm-ravaged Manville"
     excerpt: "President Joe Biden toured a neighborhood in storm-ravaged New Jersey, surveying the aftermath of Hurricane Ida's floods. Biden heard a harrowing tale from a couple who escaped before the storm destroyed their home and their daughter's nursery."
     publishedDateTime: 2021-09-07T21:40:00Z
@@ -135,6 +151,22 @@ related:
         width: 512
         height: 341
         isCached: true
+  - title: "Joe Biden calls Xi Jinping as U.S.-China relationship grows more fraught"
+    excerpt: "President Joe Biden spoke with China’s Xi Jinping on Thursday amid growing frustration on the American side that high-level engagement between the two leaders’ top"
+    publishedDateTime: 2021-09-10T05:05:00Z
+    webUrl: "https://www.denverpost.com/2021/09/09/joe-biden-calls-xi-jinping-us-china-relationship/"
+    ampWebUrl: "https://www.denverpost.com/2021/09/09/joe-biden-calls-xi-jinping-us-china-relationship/amp/"
+    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2021/09/09/joe-biden-calls-xi-jinping-us-china-relationship/amp/"
+    type: article
+    provider:
+      name: The Denver Post
+      domain: denverpost.com
+    quality: 74
+    images:
+      - url: "https://www.denverpost.com/wp-content/uploads/2021/09/AP21252793092479.jpg?w=1024&#038;h=683"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Biden calls for companies with more than 100 workers to require COVID-19 vaccinations or tests"
     excerpt: "The president is also calling for a vaccination or testing policy at many health care facilities. The steps would affect 100 million Americans."
     publishedDateTime: 2021-09-09T19:54:00Z
@@ -168,16 +200,16 @@ related:
   - title: "President Joe Biden Deliver Remarks in Honor of Labor Unions"
     excerpt: "President Joe Biden deliver remarks in honor of labor unions during an event in the East Room of the White House in Washington, DC, on Wednesday, September 8 2021. Photo by Shawn Thew/UPI"
     publishedDateTime: 2021-09-08T16:34:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/05f9c116747fbce74ef23bbe7a146c93/President-Joe-Biden-Deliver-Remarks-in-Honor-of-Labor-Unions/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/0780d645dd81667d6e38f3effadedfff/President-Joe-Biden-Deliver-Remarks-in-Honor-of-Labor-Unions/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/05f9c116747fbce74ef23bbe7a146c93/BIDEN-LABOR-UNIONS.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/0780d645dd81667d6e38f3effadedfff/BIDEN-LABOR-UNIONS.jpg"
         width: 650
-        height: 975
+        height: 433
         isCached: true
   - title: "Biden expected to push broad vaccination mandates"
     excerpt: "About 27% of the eligible U.S. population age 12 and older have not received any coronavirus vaccinations, according to data from the Centers for Disease Control and Prevention."
@@ -190,6 +222,20 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 55
+  - title: "Biden calls Xi as U.S.-China relationship grows more fraught"
+    excerpt: "President Joe Biden spoke with China's Xi Jinping on Thursday amid growing frustration on the American side that high-level"
+    publishedDateTime: 2021-09-10T05:58:00Z
+    webUrl: "https://www.theday.com/nationworld-news/20210910/biden-calls-xi-as-us-china-relationship-grows-more-fraught"
+    type: article
+    provider:
+      name: The Day
+      domain: theday.com
+    quality: 55
+    images:
+      - url: "https://www.theday.com/storyimage/NL/20210910/NWS13/210919966/AR/0/AR-210919966.jpg&imageversion=16by9&Maxw=960"
+        width: 960
+        height: 540
+        isCached: true
   - title: "Greg Steube calls for Joe Biden resignation after reported Marine deaths"
     excerpt: "Greg Steube called for President Joe Biden’s resignation after the reported death of four Marines in Kabul. “Horrific,” Steube tweeted. “Joe Biden needs to take"
     publishedDateTime: 2021-08-26T18:13:00Z
@@ -218,7 +264,21 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "President Joe Biden calls President Xi Jinping amid growing strain in US-China relationship"
+    excerpt: "President Joe Biden calls President Xi Jinping amid growing strain in US-China relationship. Copyright 2021 The Associated Press. All rights reserved. This material may not be published, broadcast, rewritten or redistributed without permission."
+    publishedDateTime: 2021-09-10T02:12:00Z
+    webUrl: "https://www.stltoday.com/news/national/govt-and-politics/president-joe-biden-calls-president-xi-jinping-amid-growing-strain-in-us-china-relationship/article_91f1c19d-a9c8-5f08-b8c1-e6b91e1978c7.html"
+    type: article
+    provider:
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 45
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/custom/image/4ce82390-59b2-11e6-a3c5-b77ec6e8d16d.png?resize=600%2C517"
+        width: 600
+        height: 517
+        isCached: true
 
-secured: "MbF/7GHwRMBt2VFG4ldRVAUFEzejeETg5zKrDFyKSYIqib1Z4ceslIz2AJQ0HDUBDjiyfdlZ6GulGE2E6368ZTww9GG1KzNsHieCKOb3p3RNplkQt7nCltxZQFTm1Qwo2/LZapkEJvl1G7OBITkXlrt36NaggUkszJnYjzwR37ZlWPnIzZmfv7OV3MVeusINU+/SNGdy53N4LNJ23NQ3G7YazijSe9oSXfiHvjQkLO2PgOzM+4I9GnjJfyCffIaGsMd3gTWN/rXR33he1yJGYbSk+eKsjDIyzMtejg+iy5iLIBBKOR6U87q67nRX+d8oZ9xKdudFn7HV2mTFwJeBxxzEpCruJMVmqXs9U8mqzZ8=;85zXVG69Xisf562UXeonaA=="
+secured: "jM5PMnImiDagE+PJMmLu9mdkTRN41V7JbvcE4DOs9KoDGX6VSP+Kiv252eIyFOPcdZoHOfOXCJpMqHsFXr/2JqZX/N61yXcDOBXpdhLZMQtKsPttd9th1i9FKeek1DDmgf+vbAhzF0/CDdn7zbeQehBu85awUNbTBRLdh7qXXiLMmRgPpSsv3vv7HcQSmxffyqoGjQTVKyCrAoAf1+sTHrGxsPEluoEnx22JEpVPE8A4xHrJJxnZN4G5s7QahNqgULU9LpmJJ7AT8KU87HC9P23wuHKeatL8Ym02IOQL/Xg6CFyGhB3NYhVBLiv6768oNrlJW+TUr0cy1yEY7eNSyKuZBzX2BBKag2vPKsBjTuw=;m0w9ZFFe9nRQCYEUOnb+CQ=="
 ---
 

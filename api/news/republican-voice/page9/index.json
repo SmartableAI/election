@@ -2,6 +2,383 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-07-13-dem-candidate-harley-rouda-calls-gop-voters-morons-for-supporting-trump.md",
+      "title": "Dem candidate Harley Rouda calls GOP voters 'morons' for supporting Trump",
+      "excerpt": "Former Rep. Harley Rouda, D-Calif., singled out supporters of former President Trump by calling them \"morons\" during a campaign event last week.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/GL4EnuXf5PA/harley-rouda-republicans-morons-supporting-trump",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/GL4EnuXf5PA/harley-rouda-republicans-morons-supporting-trump",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 174,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3fbdc1ab-a848-4592-8830-5949d371c1a9/489007b9-2d3a-44ed-98fb-f8380619d512/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/harley-rouda-republicans-morons-supporting-trump.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harley-rouda-republicans-morons-supporting-trump.amp",
+      "publishedDateTime": "2021-07-13T09:47:18-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-13-tammy-bruce-kamala-harris-clearly-doesnt-know-america-at-all.md",
+      "title": "Tammy Bruce: Kamala Harris clearly doesn't know America at all",
+      "excerpt": "Fox News contributor Tammy Bruce joined “Tucker Carlson Tonight” to react to Vice President Kamala Harris' comments on rural voters not being able to photocopy an ID.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/tammy-bruce-kamala-harris-doesnt-know-america",
+      "originalUrl": "https://www.foxnews.com/media/tammy-bruce-kamala-harris-doesnt-know-america",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 215,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4aed3fb8-f75b-402e-999e-50a80149916a/543856b3-355a-4b2a-836b-d49bc1330f04/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/tammy-bruce-kamala-harris-doesnt-know-america.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/tammy-bruce-kamala-harris-doesnt-know-america.amp",
+      "publishedDateTime": "2021-07-12T19:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-13-biden-the-united-states-stands-firmly-with-the-people-of-cuba.md",
+      "title": "Biden: \"The United States Stands Firmly With The People Of Cuba\"",
+      "excerpt": "President Joe Biden addressed civil unrest in Cuba before delivering remarks on gun crime at a press availability on Monday. \"The United States stands firmly with the people of Cuba as they assert their universal rights,",
+      "sourceUrl": null,
+      "webUrl": "https://www.realclearpolitics.com/video/2021/07/12/biden_the_united_states_stands_firmly_with_the_people_of_cuba.html",
+      "originalUrl": "https://www.realclearpolitics.com/video/2021/07/12/biden_the_united_states_stands_firmly_with_the_people_of_cuba.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.realclear.com/images/54/547926.jpg",
+          "width": 912,
+          "height": 684,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "http://www.realclearpolitics.com/video/2021/07/12/biden_the_united_states_stands_firmly_with_the_people_of_cuba.amp.html",
+      "cdnAmpWebUrl": "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/07/12/biden_the_united_states_stands_firmly_with_the_people_of_cuba.amp.html",
+      "publishedDateTime": "2021-07-12T14:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RealClearPolitics",
+        "domain": "realclearpolitics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-12-rubio-slams-biden-admins-major-failure-of-initially-tying-of-cuban-protests-to-rising-covid-cases.md",
+      "title": "Rubio slams Biden admin’s 'major failure' of initially tying of Cuban protests to rising COVID cases",
+      "excerpt": "Sen. Marco Rubio, R-Fla., is criticizing President Biden’s administration for its initial diagnosis on the causes of mass protests that broke out in Cuba on Sunday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/fG817xC7KTA/rubio-slams-bidens-initial-comments-blaming-cuba-protests-on-covid-cases-as-a-major-failure",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/fG817xC7KTA/rubio-slams-bidens-initial-comments-blaming-cuba-protests-on-covid-cases-as-a-major-failure",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 180,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9e672453-260e-4c64-8f74-5bc0d75728a5/f9d731d8-9075-49ec-afa5-898ba6ed7492/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/rubio-slams-bidens-initial-comments-blaming-cuba-protests-on-covid-cases-as-a-major-failure.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rubio-slams-bidens-initial-comments-blaming-cuba-protests-on-covid-cases-as-a-major-failure.amp",
+      "publishedDateTime": "2021-07-12T14:30:57-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-12-trump-rips-through-the-roof-crime-in-nyc-other-democrat-led-cities.md",
+      "title": "Trump rips ‘through the roof’ crime in NYC, other Democrat-led cities",
+      "excerpt": "The former president said “New York is totally out of control” ​because there is “no more cash bail” and “all they do is go after Republicans.”",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/07/12/trump-rips-through-the-roof-crime-in-nyc-other-cities/",
+      "originalUrl": "https://nypost.com/2021/07/12/trump-rips-through-the-roof-crime-in-nyc-other-cities/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/07/donald-trump-003.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/07/12/trump-rips-through-the-roof-crime-in-nyc-other-cities/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/12/trump-rips-through-the-roof-crime-in-nyc-other-cities/amp/",
+      "publishedDateTime": "2021-07-12T09:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-11-trump-easily-wins-cpac-2024-gop-presidential-nomination-straw-poll.md",
+      "title": "Trump easily wins CPAC 2024 GOP presidential nomination straw poll",
+      "excerpt": "Former Presidentv Donald Trump easily won the 2024 GOP presidential nomination poll at the Conservative Political Action Conference (CPAC) gathering this weekend in Texas.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nx3cBoACH8g/trump-easily-wins-cpac-2024-gop-presidential-nomination-straw-poll",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nx3cBoACH8g/trump-easily-wins-cpac-2024-gop-presidential-nomination-straw-poll",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 435,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-easily-wins-cpac-2024-gop-presidential-nomination-straw-poll.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-easily-wins-cpac-2024-gop-presidential-nomination-straw-poll.amp",
+      "publishedDateTime": "2021-07-11T13:22:40-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-11-trump-on-big-tech-theyre-immune-from-so-many-different-things-but-theyre-not-immune-from-this-lawsuit.md",
+      "title": "Trump on Big Tech: 'They're immune from so many different things, but they're not immune from this lawsuit'",
+      "excerpt": "Former President Donald Trump continued his fight against tech industry giants he claims are improperly censoring him, telling Fox News' \"Sunday Morning Futures\" that what Twitter, Facebook and YouTube are doing amounts to campaign contributions to Democrats.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/n9DcPav6ekE/trump-big-tech-not-immune-from-this-lawsuit",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/n9DcPav6ekE/trump-big-tech-not-immune-from-this-lawsuit",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 217,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-big-tech-not-immune-from-this-lawsuit.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-big-tech-not-immune-from-this-lawsuit.amp",
+      "publishedDateTime": "2021-07-11T09:09:46-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-11-missouri-ag-schmitt-spotlights-pushback-against-biden-in-2022-senate-gop-primary.md",
       "title": "Missouri AG Schmitt spotlights 'pushback' against Biden in 2022 Senate GOP primary",
       "excerpt": "In a crowded U.S. Senate GOP primary field, Missouri Attorney General Eric Schmitt says his efforts in taking on what he calls the \"really radical\" agenda of President Biden's administration is making his campaign stand out.",
@@ -1256,375 +1633,6 @@
       "provider": {
         "name": "New York Post",
         "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-06-pences-contortions-reexamining-laffer-remote-workers.md",
-      "title": "Pence's Contortions; Reexamining Laffer; Remote Workers",
-      "excerpt": "Good morning, its Tuesday, July 6, 2021. President Biden will speak later today about the nations progress in administering COVID vaccinations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.realclearpolitics.com/articles/2021/07/06/pences_contortions_reexamining_laffer_remote_workers_146041.html",
-      "originalUrl": "https://www.realclearpolitics.com/articles/2021/07/06/pences_contortions_reexamining_laffer_remote_workers_146041.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://amp.spot.im/loader.png",
-          "width": 375,
-          "height": 815,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.realclearpolitics.com/articles/2021/07/06/pences_contortions_reexamining_laffer_remote_workers_146041.amp.html",
-      "cdnAmpWebUrl": "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/07/06/pences_contortions_reexamining_laffer_remote_workers_146041.amp.html",
-      "publishedDateTime": "2021-07-06T06:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RealClearPolitics",
-        "domain": "realclearpolitics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-06-mike-pence-twists-into-a-painful-pointless-pretzel.md",
-      "title": "Mike Pence Twists Into a Painful, Pointless Pretzel",
-      "excerpt": "Mention that Mike Pence is trying to run for president in 2024 and people laugh  out loud. But he is. Even more hilarious is that the former vice",
-      "sourceUrl": null,
-      "webUrl": "https://www.realclearpolitics.com/articles/2021/07/06/mike_pence_twists_into_a_painful_pointless_pretzel.html#!",
-      "originalUrl": "https://www.realclearpolitics.com/articles/2021/07/06/mike_pence_twists_into_a_painful_pointless_pretzel.html#!",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.realclear.com/images/54/547254_5_.jpg",
-          "width": 750,
-          "height": 487,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.realclearpolitics.com/articles/2021/07/06/mike_pence_twists_into_a_painful_pointless_pretzel.amp.html",
-      "cdnAmpWebUrl": "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/07/06/mike_pence_twists_into_a_painful_pointless_pretzel.amp.html",
-      "publishedDateTime": "2021-07-06T03:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RealClearPolitics",
-        "domain": "realclearpolitics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-06-some-rnc-staffers-did-not-vote-for-trump-amid-2020-campaign-power-struggle-new-book-claims.md",
-      "title": "Some RNC staffers did not vote for Trump amid 2020 campaign power struggle, new book claims",
-      "excerpt": "Some Republican National Committee officials didn’t vote for then-President Donald Trump in last November’s election, according to a forthcoming book by Wall Street Journal reporter Michael Bender.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-n6WJL6tSdE/rnc-staffers-trump-2020-campaign-power-struggle-new-book",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-n6WJL6tSdE/rnc-staffers-trump-2020-campaign-power-struggle-new-book",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/88376ef7-5b29-4486-87a8-20fec2672c8d/47252811-a31f-4063-a1a2-be20407f7b37/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/rnc-staffers-trump-2020-campaign-power-struggle-new-book.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rnc-staffers-trump-2020-campaign-power-struggle-new-book.amp",
-      "publishedDateTime": "2021-07-06T03:16:44-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-06-nbc-news-historian-fawns-over-bidens-half-century-of-political-experience-hes-made-very-few-mistakes.md",
-      "title": "NBC News historian fawns over Biden's 'half-century' of political experience: He's made 'very few mistakes'",
-      "excerpt": "NBC News Presidential Historian Michael Beschloss made clear his admiration for President Biden as he praised the latter's Independence Day address to the nation and declared that we were \"lucky\" to have him as president.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/nbc-news-historioan-fawns-over-biden-half-century-political-experience-made-very-few-mistakes",
-      "originalUrl": "https://www.foxnews.com/media/nbc-news-historioan-fawns-over-biden-half-century-political-experience-made-very-few-mistakes",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8122e021-ff21-45a8-890a-34f0c3af0978/b429fe34-719c-47cb-a97c-6727f39f312b/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/nbc-news-historioan-fawns-over-biden-half-century-political-experience-made-very-few-mistakes.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/nbc-news-historioan-fawns-over-biden-half-century-political-experience-made-very-few-mistakes.amp",
-      "publishedDateTime": "2021-07-05T13:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-05-ex-acting-ice-director-root-cause-of-border-chaos-is-reversal-of-trumps-immigration-policies.md",
-      "title": "Ex-acting ICE director: Root cause of border 'chaos' is reversal of Trump’s immigration policies",
-      "excerpt": "Former Acting Director of U.S. Immigration and Customs Enforcement (ICE) Ron Vitiello argued on “Fox & Friends First” on Monday that the “root cause of the chaos” at the southern border is the reversal of former President Trump’s immigration policies.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nCexhhTjG2s/ex-acting-ice-director-root-cause-of-border-chaos-is-reversal-of-trumps-immigration-policies",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nCexhhTjG2s/ex-acting-ice-director-root-cause-of-border-chaos-is-reversal-of-trumps-immigration-policies",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 162,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/ex-acting-ice-director-root-cause-of-border-chaos-is-reversal-of-trumps-immigration-policies.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ex-acting-ice-director-root-cause-of-border-chaos-is-reversal-of-trumps-immigration-policies.amp",
-      "publishedDateTime": "2021-07-05T12:05:22-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-04-america-together-but-apart-biden-first-lady-vp-go-separate-ways-for-july-4-weekend.md",
-      "title": "‘America Together’ but apart: Biden, first lady, VP, go separate ways for July 4 weekend",
-      "excerpt": "President Biden, Vice President Kamala Harris, the first lady and the second gentlemen all go their separate ways as part of the administration's \"America's Back Together\" tour.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_E8OC476-h8/america-together-but-apart-biden-first-lady-vp-go-separate-ways-for-july-4-weekend",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_E8OC476-h8/america-together-but-apart-biden-first-lady-vp-go-separate-ways-for-july-4-weekend",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 146,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/07/AP21184779335087.jpg",
-          "width": 1024,
-          "height": 714,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-04T09:58:25-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-04-bill-oreilly-pelosi-cheney-team-up-against-trump-on-january-6-commission.md",
-      "title": "Bill O'Reilly: Pelosi & Cheney Team Up Against Trump On January 6 Commission",
-      "excerpt": "Pelosi \"rammed through\" a select committee on January 6... & appointed Liz Cheney to it, reports Bill O'Reilly. \"Why? The FBI is already doing it.\" \"What a colossal waste of money,\" he said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.realclearpolitics.com/video/2021/07/04/bill_oreilly_pelosi__cheney_team_up_against_trump_on_january_6_commission.html#!",
-      "originalUrl": "https://www.realclearpolitics.com/video/2021/07/04/bill_oreilly_pelosi__cheney_team_up_against_trump_on_january_6_commission.html#!",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.realclear.com/images/54/547276.jpg",
-          "width": 750,
-          "height": 562,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "http://www.realclearpolitics.com/video/2021/07/04/bill_oreilly_pelosi__cheney_team_up_against_trump_on_january_6_commission.amp.html",
-      "cdnAmpWebUrl": "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/07/04/bill_oreilly_pelosi__cheney_team_up_against_trump_on_january_6_commission.amp.html",
-      "publishedDateTime": "2021-07-04T07:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RealClearPolitics",
-        "domain": "realclearpolitics.com",
         "images": null,
         "publishers": null,
         "authors": null

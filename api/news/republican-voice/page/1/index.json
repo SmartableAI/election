@@ -2,6 +2,448 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-09-10-hawley-pens-scathing-letter-to-biden-admin-demanding-answers-about-unlawful-vaccine-mandate.md",
+      "title": "Hawley pens scathing letter to Biden admin demanding answers about 'unlawful' vaccine mandate",
+      "excerpt": "Missouri Republican Sen. Josh Hawley called on Department of Labor Secretary Martin Walsh in a Friday letter to block an order by President Biden that would allow for a sweeping vaccine mandate.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/cwlRTzk9bmo/hawley-letter-biden-admin-answers-new-vaccine-mandate",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/cwlRTzk9bmo/hawley-letter-biden-admin-answers-new-vaccine-mandate",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6b0d2621-5c40-4d19-a109-f893d0e23375/51920eec-45cf-412f-b4d6-9f03d9576594/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/hawley-letter-biden-admin-answers-new-vaccine-mandate.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hawley-letter-biden-admin-answers-new-vaccine-mandate.amp",
+      "publishedDateTime": "2021-09-10T12:33:28-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-09-11-hannity-on-taliban-gaining-strength-woke-kamala-harris.md",
+      "title": "‘Hannity’ on Taliban gaining strength, 'woke' Kamala Harris",
+      "excerpt": "Guests: Lara Logan, Dakota Meyer, Leo Terrell, Gregg Jarrett, Kayleigh McEnany, Donald Trump Jr., Ric Grenell, Dana Loesch, Clay Travis",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/transcript/hannity-on-biden-taliban",
+      "originalUrl": "https://www.foxnews.com/transcript/hannity-on-biden-taliban",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/18f1dd37-d46b-4177-a218-0e5a6b5caf36/494e3a48-1ab4-4da0-b2f1-d629469f276e/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/transcript/hannity-on-biden-taliban.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/hannity-on-biden-taliban.amp",
+      "publishedDateTime": "2021-09-10T12:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-09-11-scolding-the-american-people-pence-slams-bidens-coronavirus-address.md",
+      "title": "‘Scolding the American people’: Pence slams Biden’s coronavirus address",
+      "excerpt": "Pence, the former VP under Trump, told “Fox & Friends” that Biden’s speech was “unlike anything” he has ever heard from another US president.",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/09/10/mike-pence-slams-bidens-coronavirus-address/",
+      "originalUrl": "https://nypost.com/2021/09/10/mike-pence-slams-bidens-coronavirus-address/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 170,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/09/pence-biden-vaccines-02.jpg?quality=90&strip=all&w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/09/10/mike-pence-slams-bidens-coronavirus-address/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/09/10/mike-pence-slams-bidens-coronavirus-address/amp/",
+      "publishedDateTime": "2021-09-10T10:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-09-10-turley-says-ron-klains-vaccine-retweet-is-legal-issue-for-biden-breathtakingly-daft.md",
+      "title": "Turley says Ron Klain's vaccine retweet is legal issue for Biden: 'Breathtakingly daft'",
+      "excerpt": "Constitutional scholar Jonathan Turley called White House chief of staff Ron Klain’s recent retweet appearing to praise the Biden administration for executing the “ultimate work-around” for President Biden’s recent vaccine mandate “breathtakingly daft.”",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ePisZUaL7Q4/jonathan-turley-biden-ron-klain-vaccine-retweet-daft",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ePisZUaL7Q4/jonathan-turley-biden-ron-klain-vaccine-retweet-daft",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a67c1f32-aeb8-448f-a46f-3a01cefd39fd/5c177c8c-bd50-4a08-a18c-5e424db33207/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/jonathan-turley-biden-ron-klain-vaccine-retweet-daft.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jonathan-turley-biden-ron-klain-vaccine-retweet-daft.amp",
+      "publishedDateTime": "2021-09-10T09:41:19-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-09-10-bidens-afghan-refugee-request-sparks-conservative-fears-of-unlimited-green-cards.md",
+      "title": "Biden's Afghan refugee request sparks conservative fears of 'unlimited green cards'",
+      "excerpt": "The Biden administration this week made a request for $6.4 billion in funding for Afghan refugee resettlement and language that would allow for the tens of thousands of Afghans being brought in to quickly apply for permanent U.S. residency -- sparking conservative fears of \"unlimited green cards\" for",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vWFokovccas/bidens-afghan-refugee-request-conservative-fears-unlimited-green-cards",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vWFokovccas/bidens-afghan-refugee-request-conservative-fears-unlimited-green-cards",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6b08a886-6ead-4014-ba30-0972d0ad7f19/c21454f0-d85f-4452-9831-39d01665a238/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/bidens-afghan-refugee-request-conservative-fears-unlimited-green-cards.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-afghan-refugee-request-conservative-fears-unlimited-green-cards.amp",
+      "publishedDateTime": "2021-09-10T08:33:27-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-09-10-biden-disappointed-in-gop-governors-who-plan-to-resist-vaccine-mandate-have-at-it.md",
+      "title": "Biden 'disappointed' in GOP governors who plan to resist vaccine mandate: 'Have at it'",
+      "excerpt": "President Biden said he’s “disappointed” in the Republican governors who plan to resist his vaccine mandate and are even threatening legal action.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/YhCPb6OquNY/biden-disappointed-republican-governors-vaccine-mandate",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/YhCPb6OquNY/biden-disappointed-republican-governors-vaccine-mandate",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 227,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9e4a7332-ff32-456b-8190-567a0763c603/57c3147c-a83d-4739-8141-93e89506b5da/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-disappointed-republican-governors-vaccine-mandate.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-disappointed-republican-governors-vaccine-mandate.amp",
+      "publishedDateTime": "2021-09-10T08:08:33-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-09-10-trump-tells-gutfeld-i-think-youll-be-very-happy-with-2024-plans.md",
+      "title": "Trump tells Gutfeld ‘I think you’ll be very happy’ with 2024 plans",
+      "excerpt": "President Donald Trump joins 'Gutfeld!' to talk Joe Biden, wokeism in America and the possibility of running in 2024.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/trump-gutfeld-2024-plans",
+      "originalUrl": "https://www.foxnews.com/media/trump-gutfeld-2024-plans",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/46d5eee1-ee87-4c84-93ec-39726e03cf26/97724e1e-9ff2-49f9-9b03-2f2c474bcecb/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/trump-gutfeld-2024-plans.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/trump-gutfeld-2024-plans.amp",
+      "publishedDateTime": "2021-09-10T00:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-09-10-biden-in-call-with-chinas-xi-jinping-sets-guardrails-to-ensure-competition-does-not-veer-into-conflict.md",
+      "title": "Biden, in call with China's Xi Jinping, sets 'guardrails' to ensure 'competition does not veer into conflict'",
+      "excerpt": "President Biden spoke with China's President Xi Jinping by phone Thursday night, aiming to set \"guardrails and parameters\" in the U.S.-China relationship to ensure that while the two nations are in \"stiff competition,\" they do not \"veer into conflict,\" senior Biden administration officials said. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/mps6DUch2EU/biden-xi-china-guardrails",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/mps6DUch2EU/biden-xi-china-guardrails",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-xi-china-guardrails.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-xi-china-guardrails.amp",
+      "publishedDateTime": "2021-09-09T19:34:42-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-09-10-harris-assails-texas-abortion-law-as-patently-unconstitutional.md",
       "title": "Harris assails Texas abortion law as 'patently unconstitutional'",
       "excerpt": "Vice President Kamala Harris condemned the Texas abortion law as \"patently unconstitutional\" and called for Roe v. Wade to be codified.",
@@ -397,63 +839,6 @@
       ]
     },
     {
-      "path": "_news/2021-09-09-trump-to-gutfeld-your-fabulous-ratings-are-beating-some-very-untalented-people-slams-bidens-afghan-crisis.md",
-      "title": "Trump to Gutfeld: 'Your fabulous ratings are beating some very untalented people'; slams Biden's Afghan crisis",
-      "excerpt": "In a “Gutfeld!” exclusive, host Greg Gutfeld sat down for an interview with former President Donald Trump who praised the late-night host for his soaring ratings.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/trump-gutfeld-fabulous-ratings-biden-afghan-crisis",
-      "originalUrl": "https://www.foxnews.com/media/trump-gutfeld-fabulous-ratings-biden-afghan-crisis",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 130,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/da79e517-2779-41d5-9f33-1c0b5ad193bf/51443114-5371-4aa9-b22b-7eb0c20705c5/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/trump-gutfeld-fabulous-ratings-biden-afghan-crisis.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/trump-gutfeld-fabulous-ratings-biden-afghan-crisis.amp",
-      "publishedDateTime": "2021-09-08T21:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-09-09-biden-names-3-picks-for-ninth-circuit-5-for-other-courts-stressing-diversity-reports.md",
       "title": "Biden names 3 picks for Ninth Circuit, 5 for other courts, stressing diversity: reports",
       "excerpt": "President Biden on Wednesday disclosed the names of eight judicial nominees, including three picks for the U.S. Court of Appeals for the Ninth Circuit.",
@@ -566,62 +951,6 @@
       ]
     },
     {
-      "path": "_news/2021-09-09-kellyanne-conway-sean-spicer-fire-back-after-biden-boots-trump-appointees-from-military-panels.md",
-      "title": "Kellyanne Conway, Sean Spicer fire back after Biden boots Trump appointees from military panels",
-      "excerpt": "Biden is facing backlash after asking for resignations from multiple members of military academies’",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/MG74Q-dK0Jg/kellyanne-conway-sean-spicer-biden-trump-appointees-military-panels",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/MG74Q-dK0Jg/kellyanne-conway-sean-spicer-biden-trump-appointees-military-panels",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 238,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cc1c997f-286e-4d8c-98db-ad4a6622ad97/d28953bc-1942-4bbb-a47c-9ec8248ffb03/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/kellyanne-conway-sean-spicer-biden-trump-appointees-military-panels.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kellyanne-conway-sean-spicer-biden-trump-appointees-military-panels.amp",
-      "publishedDateTime": "2021-09-08T17:00:56-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-09-08-gop-letter-to-biden-flags-afghan-evacuees-rushed-and-incomplete-vetting.md",
       "title": "GOP letter to Biden flags Afghan evacuees' 'rushed and incomplete' vetting",
       "excerpt": "More than 40 Congressional Republicans have sent a letter to President Joe Biden, raising flags about the “rushed and incomplete vetting of Afghan evacuees” who were brought to America from Afghanistan following the Taliban's takeover.",
@@ -678,6 +1007,54 @@
       ]
     },
     {
+      "path": "_news/2021-09-09-anchors-away-biden-fires-trump-trio-from-naval-academy-board-drawing-ire.md",
+      "title": "Anchors away! Biden fires Trump trio from Naval Academy board, drawing ire",
+      "excerpt": "President Biden is firing members of the Naval Academy’s board of visitors who were appointed by former President Donald Trump.",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/09/08/biden-fires-trump-trio-from-naval-academy-board/",
+      "originalUrl": "https://nypost.com/2021/09/08/biden-fires-trump-trio-from-naval-academy-board/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 208,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/09/John-p-coale.jpg?quality=90&strip=all&w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/09/08/biden-fires-trump-trio-from-naval-academy-board/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/09/08/biden-fires-trump-trio-from-naval-academy-board/amp/",
+      "publishedDateTime": "2021-09-08T12:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-09-08-biden-admins-response-to-taliban-excuse-for-grounded-flights-slammed-by-lawmakers.md",
       "title": "Biden admin's response to Taliban 'excuse' for grounded flights slammed by lawmakers",
       "excerpt": "Secretary of State Antony Blinken said the Taliban have kept planes grounded because evacuees lack required visa documentation, but Republicans are frustrated with the administration’s “excuse.”",
@@ -690,7 +1067,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 188,
+      "heat": 208,
       "tags": null,
       "images": [
         {
@@ -1210,7 +1587,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 284,
+      "heat": 324,
       "tags": null,
       "images": [
         {
@@ -1227,400 +1604,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/blumenthal-furious-biden-admin-delaying-americans-leaving-afghanistan.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/blumenthal-furious-biden-admin-delaying-americans-leaving-afghanistan.amp",
       "publishedDateTime": "2021-09-06T13:19:42-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-09-06-biden-says-labor-unions-brung-me-to-the-dance-in-politics.md",
-      "title": "Biden says labor unions 'brung me to the dance' in politics",
-      "excerpt": "President Biden lauded his close relationship with union workers Monday during an unscheduled Labor Day trip to a local branch of International Brotherhood of Electrical Workers in Delaware.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/FQpLbAN5svE/biden-union-labor-day-trip-delaware-electrical-workers",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/FQpLbAN5svE/biden-union-labor-day-trip-delaware-electrical-workers",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 235,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c391175a-9e29-4bc2-b4cd-da7913f72d05/0e834aff-eeed-4aac-8ca4-24a511e779fa/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-union-labor-day-trip-delaware-electrical-workers.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-union-labor-day-trip-delaware-electrical-workers.amp",
-      "publishedDateTime": "2021-09-06T12:34:13-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-09-06-son-of-911-victim-to-biden-do-not-come-to-ground-zero-memorials.md",
-      "title": "Son of 9/11 victim to Biden: Do not come to Ground Zero memorials",
-      "excerpt": "Nic Haros Jr., the son of a 9/11 victim, urged President Biden to avoid attending 20-year memorials during an interview on \"Fox & Friends\" on Monday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/son-9-11-victim-urges-biden-avoid-ground-zero-memorial",
-      "originalUrl": "https://www.foxnews.com/media/son-9-11-victim-urges-biden-avoid-ground-zero-memorial",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c7287a1d-46a0-4b90-be6f-0af4de47b4d2/8ff0fc81-a822-4fb5-b437-50b0bd85f38c/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/son-9-11-victim-urges-biden-avoid-ground-zero-memorial.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/son-9-11-victim-urges-biden-avoid-ground-zero-memorial.amp",
-      "publishedDateTime": "2021-09-06T08:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-09-05-did-trump-just-go-up-with-the-first-tv-ad-of-the-2024-presidential-campaign.md",
-      "title": "Did Trump just go up with the first TV ad of the 2024 presidential campaign?",
-      "excerpt": "A new ad by former President Trump's political action committee that blasts President Biden over the U.S. exit from Afghanistan can be seen as the first TV ad of the 2024 presidential campaign",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5iY7Yflm_LQ/did-trump-just-go-up-with-the-first-tv-ad-of-the-2024-presidential-campaign",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5iY7Yflm_LQ/did-trump-just-go-up-with-the-first-tv-ad-of-the-2024-presidential-campaign",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 252,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/did-trump-just-go-up-with-the-first-tv-ad-of-the-2024-presidential-campaign.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/did-trump-just-go-up-with-the-first-tv-ad-of-the-2024-presidential-campaign.amp",
-      "publishedDateTime": "2021-09-05T07:23:27-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-09-05-squad-members-go-after-biden-for-being-silent-on-minnesota-oil-pipeline.md",
-      "title": "Squad members go after Biden for being 'silent' on Minnesota oil pipeline",
-      "excerpt": "Four members of the Democratic “Squad” went after President Biden Saturday for being “silent” on a controversial Minnesota oil pipeline.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/eX7jiATbgkM/squad-go-after-biden-for-being-silent-on-minnesota-oil-pipeline",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/eX7jiATbgkM/squad-go-after-biden-for-being-silent-on-minnesota-oil-pipeline",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 174,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/15769fbd-0b21-4f5a-8c09-0e3029a328c2/81f25dce-10d1-4c45-b884-0c3ec9a033f2/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/squad-go-after-biden-for-being-silent-on-minnesota-oil-pipeline.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/squad-go-after-biden-for-being-silent-on-minnesota-oil-pipeline.amp",
-      "publishedDateTime": "2021-09-04T18:08:07-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-09-04-bidens-tree-of-life-synagogue-claim-not-true-white-house-admits.md",
-      "title": "Biden’s Tree of Life synagogue claim not true, White House admits",
-      "excerpt": "President Biden did not visit the Tree of Life synagogue in Pittsburgh after the murder of 11 congregants — despite saying so, the White House admitted Friday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/EIGsUiTg1tc/bidens-tree-of-life-synagogue-claim-not-true-white-house-admits",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/EIGsUiTg1tc/bidens-tree-of-life-synagogue-claim-not-true-white-house-admits",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 295,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e7180b1e-c25c-4cc7-bfe5-6d71b1c14191/585fce97-a0df-484d-a52d-153985306af5/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/bidens-tree-of-life-synagogue-claim-not-true-white-house-admits.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-tree-of-life-synagogue-claim-not-true-white-house-admits.amp",
-      "publishedDateTime": "2021-09-03T19:12:29-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-09-04-former-nyt-reporter-describes-secretive-industry-of-corporate-investigations-that-targeted-pharma-trump.md",
-      "title": "Former NYT reporter describes secretive 'industry' of 'corporate investigations' that targeted, pharma, Trump",
-      "excerpt": "Retired New York Times reporter Barry Meier joined Fox Nation's \"Tucker Carlson Today\" to discuss the impact corporate investigation firms have had on politics and business.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/new-york-times-reporter-corporate-investigations",
-      "originalUrl": "https://www.foxnews.com/media/new-york-times-reporter-corporate-investigations",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/289a68a9-fdb9-4ba9-a13c-16c645abc90c/3c115f48-a95c-4dd3-8d11-af777265cdf2/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/new-york-times-reporter-corporate-investigations.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/new-york-times-reporter-corporate-investigations.amp",
-      "publishedDateTime": "2021-09-03T15:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-09-03-blinken-blames-trump-admin-siv-backlog-for-failure-to-get-afghan-allies-out-of-the-country.md",
-      "title": "Blinken blames Trump admin SIV backlog for failure to get Afghan allies out of the country",
-      "excerpt": "Secretary of State Antony Blinken on Friday said the “backlog” of Special Immigrant Visas (SIVs) that accumulated under the Trump administration is the reason why Afghan allies remain in the now-Taliban-controlled nation.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/sKvLULt71-c/blinken-blames-trump-admin-siv-backlog-for-failure-to-get-afghan-allies-out-of-the-country",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/sKvLULt71-c/blinken-blames-trump-admin-siv-backlog-for-failure-to-get-afghan-allies-out-of-the-country",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e7180b1e-c25c-4cc7-bfe5-6d71b1c14191/585fce97-a0df-484d-a52d-153985306af5/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/blinken-blames-trump-admin-siv-backlog-for-failure-to-get-afghan-allies-out-of-the-country.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/blinken-blames-trump-admin-siv-backlog-for-failure-to-get-afghan-allies-out-of-the-country.amp",
-      "publishedDateTime": "2021-09-03T14:26:17-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

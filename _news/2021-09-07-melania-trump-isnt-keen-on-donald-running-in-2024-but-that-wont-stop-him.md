@@ -47,6 +47,22 @@ related:
         width: 3744
         height: 5616
         isCached: true
+  - title: "GOP group held 'war games' for state AGs before Trump loss"
+    excerpt: "An offshoot of the Republican Attorneys General Association held a special meeting weeks before the election to discuss its strategies if then-President Donald Trump lost"
+    publishedDateTime: 2021-09-10T16:54:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/gop-group-held-war-games-state-ags-trump-79942308"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/gop-group-held-war-games-state-ags-trump-79942308"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/gop-group-held-war-games-state-ags-trump-79942308"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_6f9cf825ca1740f58c079a2210561837_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Republican Adam Kinzinger Says GOP Audits 'About Being Too Scared' to Admit Trump Lost"
     excerpt: "The GOP congressman's criticism comes as Republicans continue to push for probes of last year's presidential election—10 months after it was held."
     publishedDateTime: 2021-09-04T20:51:00Z

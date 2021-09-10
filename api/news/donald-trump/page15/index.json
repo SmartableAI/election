@@ -2,6 +2,58 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2021-05-25-donald-trump-says-his-website-drew-367m-views-over-past-month-more-traffic-than-in-2020.md",
+      "title": "Donald Trump Says His Website Drew 36.7M Views Over Past Month: 'More Traffic Than in 2020'",
+      "excerpt": "\"This number would be even greater if we were still on Twitter and Facebook,\" Trump claimed, \"but since Big Tech has illegally banned me, tens of millions of our supporters have stopped using these platforms.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/donald-trump-says-his-website-drew-367m-views-over-past-month-more-traffic-2020-1594371",
+      "originalUrl": "https://www.newsweek.com/donald-trump-says-his-website-drew-367m-views-over-past-month-more-traffic-2020-1594371",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1805617/donald-trump-website-traffic-millions-brag-claim.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/donald-trump-says-his-website-drew-367m-views-over-past-month-more-traffic-2020-1594371?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-says-his-website-drew-367m-views-over-past-month-more-traffic-2020-1594371?amp=1",
+      "publishedDateTime": "2021-05-24T14:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-05-25-sondland-sues-pompeo-us-government-for-legal-fees-over-trump-impeachment-probe.md",
       "title": "Sondland sues Pompeo, U.S. government, for legal fees over Trump impeachment probe",
       "excerpt": "Former U.S. ambassador to the European Union, Gordon Sondland, filed a lawsuit against former Secretary of State Mike Pompeo and the U.S. government. Sondland is seeking $1.8 million in legal fees he accumulated during the first House impeachment investigation against then-President Donald Trump.",
@@ -1537,63 +1589,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-05-16-kinzinger-trump-continually-brings-up-a-stolen-election-narrative.md",
-      "title": "Kinzinger: Trump ‘continually brings up a stolen-election narrative’",
-      "excerpt": "In an exclusive interview with Meet the Press, Rep. Adam Kinzinger (R-Ill.) says former President Trump \"set the table\" for Republicans who are questioning the 2020 election.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/meet-the-press/video/kinzinger-trump-continually-brings-up-a-stolen-election-narrative-112053317614",
-      "originalUrl": "https://www.nbcnews.com/meet-the-press/video/kinzinger-trump-continually-brings-up-a-stolen-election-narrative-112053317614",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 170,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media14.s-nbcnews.com/i/mpx/2704722219/2021_05/1621173648246_mtp_clip_kinzinger_210516_1920x1080.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo112053317614",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo112053317614",
-      "publishedDateTime": "2021-05-16T07:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/media/will-cain-kamala-harris-biden-ticket-m
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/will-cain-kamala-harris-biden-ticket-mia-since.amp"
 type: article
 quality: 150
-heat: 190
+heat: 210
 published: true
 
 provider:
@@ -47,6 +47,22 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/09/shooting-97.jpg?quality=90&strip=all&w=1024"
         width: 1024
         height: 682
+        isCached: true
+  - title: "VP Kamala Harris: When People Can Make Choices Without Government Interference, We Are A Stronger Society"
+    excerpt: "Vice President Kamala Harris spoke about being pro-choice on the same day President Biden mandated vaccines for federal employees and admonished the unvaccinated. \"When people are able to design their lives in the way they can determine their own futures,"
+    publishedDateTime: 2021-09-09T00:00:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/09/09/vp_kamala_harris_when_people_can_make_choices_without_government_interference_we_are_a_stronger_society.html"
+    ampWebUrl: "http://www.realclearpolitics.com/video/2021/09/09/vp_kamala_harris_when_people_can_make_choices_without_government_interference_we_are_a_stronger_society.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/09/09/vp_kamala_harris_when_people_can_make_choices_without_government_interference_we_are_a_stronger_society.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 68
+    images:
+      - url: "https://amp.spot.im/loader.png"
+        width: 375
+        height: 815
         isCached: true
   - title: "Beneficiary of Kamala Harris-endorsed bail fund charged with murder"
     excerpt: "V ice President Kamala Harris may have some of the worst political instincts of anyone in Washington, D.C. The beneficiary of a bail fund Harris personally endorsed has been charged with murder. George Howard,"

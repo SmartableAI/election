@@ -2,6 +2,63 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2021-05-16-kinzinger-trump-continually-brings-up-a-stolen-election-narrative.md",
+      "title": "Kinzinger: Trump ‘continually brings up a stolen-election narrative’",
+      "excerpt": "In an exclusive interview with Meet the Press, Rep. Adam Kinzinger (R-Ill.) says former President Trump \"set the table\" for Republicans who are questioning the 2020 election.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/meet-the-press/video/kinzinger-trump-continually-brings-up-a-stolen-election-narrative-112053317614",
+      "originalUrl": "https://www.nbcnews.com/meet-the-press/video/kinzinger-trump-continually-brings-up-a-stolen-election-narrative-112053317614",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 170,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media14.s-nbcnews.com/i/mpx/2704722219/2021_05/1621173648246_mtp_clip_kinzinger_210516_1920x1080.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo112053317614",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo112053317614",
+      "publishedDateTime": "2021-05-16T07:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-05-16-republican-arizona-election-official-says-trump-unhinged.md",
       "title": "Republican Arizona election official says Trump 'unhinged'",
       "excerpt": "The Republican now leading the Arizona county elections department targeted by a GOP audit of the 2020 election results is slamming former President Donald Trump and others in his party for their cont",
@@ -1344,7 +1401,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/live/2021/may/07/liz-cheney-trump-republicans-us-politics-live",
       "featuredContent": null,
       "highlight": null,
-      "heat": 937,
+      "heat": 957,
       "tags": null,
       "images": [
         {
@@ -1494,58 +1551,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-06-chris-ruddy-and-newsmax-went-all-in-on-trump-now-they-might-pay-a-price-for-it.md",
-      "title": "Chris Ruddy and Newsmax went all-in on Trump. Now they might pay a price for it.",
-      "excerpt": "The conservative media entrepreneur became Trump’s most quotable friend. His cable channel became one of the biggest promoters of Trump’s election-fraud fantasies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/lifestyle/ruddy-newsmax-trump/2021/05/05/32b09714-9d32-11eb-9d05-ae06f4529ece_story.html",
-      "originalUrl": "https://www.washingtonpost.com/lifestyle/ruddy-newsmax-trump/2021/05/05/32b09714-9d32-11eb-9d05-ae06f4529ece_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 160,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YCJTFSVNXEI6XLGTES2EUVYJHI.jpg&w=1440",
-          "width": 1440,
-          "height": 1008,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/lifestyle/ruddy-newsmax-trump/2021/05/05/32b09714-9d32-11eb-9d05-ae06f4529ece_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/lifestyle/ruddy-newsmax-trump/2021/05/05/32b09714-9d32-11eb-9d05-ae06f4529ece_story.html?outputType=amp",
-      "publishedDateTime": "2021-05-06T01:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

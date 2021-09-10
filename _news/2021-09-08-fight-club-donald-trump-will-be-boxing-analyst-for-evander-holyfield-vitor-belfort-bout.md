@@ -59,6 +59,22 @@ related:
         width: 799
         height: 399
         isCached: true
+  - title: "Former President Donald Trump to provide commentary for Evander Holyfield vs. Vitor Belfort fight"
+    excerpt: "Former President Donald Trump will provide live commentary for the boxing match between Evander Holyfield and Vitor Belfort."
+    publishedDateTime: 2021-09-08T02:00:00Z
+    webUrl: "https://www.freep.com/story/sports/boxing/2021/09/07/donald-trump-commentary-evander-holyfield-vitor-belfort-fight/5764933001/"
+    ampWebUrl: "https://amp.freep.com/amp/5764933001"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/5764933001"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 62
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/09/08/USAT/187bc8e2-b9d1-458b-b407-979b66bf2f05-USATSI_16393793.jpg?auto=webp&crop=2681,1508,x0,y4&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Donald Trump to call Evander Holyfield fight with Vitor Belfort"
     excerpt: "When former heavyweight champion Evander Holyfield enters the ring to fight Vitor Belfort this weekend, the tag team of Donald Trump and Donald Trump Jr. will be sitting ringside. ESPN fight reporter Mike Coppinger said Tuesday that event organizers told him the ink is dry on a deal that will have the two Trumps weighing in when Holyfield,"
     publishedDateTime: 2021-09-08T01:18:00Z

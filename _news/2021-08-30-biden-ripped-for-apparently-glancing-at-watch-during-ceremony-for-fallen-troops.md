@@ -92,6 +92,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "GOP governors rip Biden over new mandate, threaten legal action"
+    excerpt: "South Dakota Gov. Kristi Noem and Georgia Gov. Brian Kemp were among the GOP governors to announce they will take action against the Biden administration’s “unlawful mandate.”"
+    publishedDateTime: 2021-09-10T06:05:00Z
+    webUrl: "https://nypost.com/2021/09/10/biden-ripped-by-gop-governors-over-vaccine-mandate-threaten-legal-action/"
+    ampWebUrl: "https://nypost.com/2021/09/10/biden-ripped-by-gop-governors-over-vaccine-mandate-threaten-legal-action/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/09/10/biden-ripped-by-gop-governors-over-vaccine-mandate-threaten-legal-action/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/09/gop-govs-blast-biden-729.jpg?quality=90&strip=all&w=1024"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Clay Travis: This is why the media hid Biden, he’s too incompetent to be president"
     excerpt: "The red flags were in plain sight the second Joe Biden hid from cameras during his presidential campaign; in fear that the public may catch on to his incompetence as a politician, and complete lack of qualification to be the President of the United States."
     publishedDateTime: 2021-08-27T11:09:00Z

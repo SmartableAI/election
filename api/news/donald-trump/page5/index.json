@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-08-01-alexander-vindman-nsc-staffer-who-sparked-trumps-first-impeachment-tells-his-story.md",
+      "title": "Alexander Vindman, NSC staffer who sparked Trump's first impeachment, tells his story",
+      "excerpt": "In \"Here, right matters,\" retired Lt. Col. Alexander Vindman talks about reporting Trump's infamous Ukraine call, and the cost to him and his family.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/videos/news/politics/2021/08/01/alexander-vindman-here-right-matters-trump-impeachment/5439749001/",
+      "originalUrl": "https://www.usatoday.com/videos/news/politics/2021/08/01/alexander-vindman-here-right-matters-trump-impeachment/5439749001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/07/30/USAT/775b9555-9383-43a6-918a-bd4eac7d28d0-XXX_VINDMAN_HGS_001.JPG?quality=10",
+          "width": 6000,
+          "height": 3376,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-01T07:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-08-01-kinzinger-mccarthy-and-jordan-should-face-6-january-subpoenas-but-maybe-not-trump.md",
       "title": "Kinzinger: McCarthy and Jordan should face 6 January subpoenas – but maybe not Trump",
       "excerpt": "Republican on select committee seeks Capitol attack answers but Collins toes GOP line in saying panel not sufficiently bipartisan",
@@ -1495,59 +1547,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-25-donald-trump-rips-mike-pence-for-not-having-courage-on-16-to-reject-election-results.md",
-      "title": "Donald Trump Rips Mike Pence for Not Having 'Courage' on 1/6 to Reject Election Results",
-      "excerpt": "\"I only wish that my friend, Mike Pence, had that additional courage to send the results back to the legislatures,\" Trump said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/donald-trump-rips-mike-pence-not-having-courage-1-6-reject-election-results-1612836",
-      "originalUrl": "https://www.newsweek.com/donald-trump-rips-mike-pence-not-having-courage-1-6-reject-election-results-1612836",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 377,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1854447/donald-trump-speaks-phoenix.jpg",
-          "width": 2500,
-          "height": 1665,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/donald-trump-rips-mike-pence-not-having-courage-1-6-reject-election-results-1612836?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-rips-mike-pence-not-having-courage-1-6-reject-election-results-1612836?amp=1",
-      "publishedDateTime": "2021-07-25T02:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
-        "Donald Trump"
       ]
     }
   ],

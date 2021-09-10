@@ -2,6 +2,110 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-05-31-biden-commemorates-fallen-veterans-at-arlington-cemetery.md",
+      "title": "Biden commemorates fallen veterans at Arlington Cemetery",
+      "excerpt": "President Joe Biden has honored America’s war dead at Arlington National Cemetery on Memorial Day by laying a wreath at the hallowed burial ground",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/biden-commemorates-fallen-veterans-arlington-cemetery-78001615",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/biden-commemorates-fallen-veterans-arlington-cemetery-78001615",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 325,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/WireAP_d8f908ec483f4c1e81bdf58d3c69d946_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/biden-commemorates-fallen-veterans-arlington-cemetery-78001615",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-commemorates-fallen-veterans-arlington-cemetery-78001615",
+      "publishedDateTime": "2021-05-31T07:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-05-31-senator-ted-cruz-in-israel-calls-on-biden-to-deliver-more-weapons-to-the-country.md",
+      "title": "Senator Ted Cruz, in Israel, calls on Biden to deliver more weapons to the country",
+      "excerpt": "Cruz last week, introduced a resolution approving two arms sales to Israel after Democrats voiced concern and moved to block a sale of weapons.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/ted-cruz-israel-calls-on-biden-deliver-weapons-to-country-2021-5",
+      "originalUrl": "https://www.businessinsider.com/ted-cruz-israel-calls-on-biden-deliver-weapons-to-country-2021-5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/60b4379fbee0fc0019d5a791?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/ted-cruz-israel-calls-on-biden-deliver-weapons-to-country-2021-5?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ted-cruz-israel-calls-on-biden-deliver-weapons-to-country-2021-5?amp",
+      "publishedDateTime": "2021-05-30T19:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-05-29-wrong-and-un-american-biden-blasts-texas-republicans-sb7-voting-bill.md",
       "title": "‘Wrong and un-American’: Biden blasts Texas Republicans’ SB7 voting bill",
       "excerpt": "Governor has said he will sign restrictive voting bill while president laments effects on ‘Black and brown Americans’",
@@ -1450,115 +1554,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonexaminer.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-14-delaware-state-university-will-use-bidens-stimulus-to-cancel-over-700000-in-student-debt.md",
-      "title": "Delaware State University will use Biden's stimulus to cancel over $700,000 in student debt",
-      "excerpt": "On average, $3,276 in student debt will be canceled for eligible borrowers: recent graduates who faced financial hardships during the pandemic.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/student-loan-debt-cancelation-delaware-state-university-pandemic-financial-hardships-2021-5",
-      "originalUrl": "https://www.businessinsider.com/student-loan-debt-cancelation-delaware-state-university-pandemic-financial-hardships-2021-5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/609e7c2167e41a00186220db?width=1200&format=jpeg",
-          "width": 811,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/student-loan-debt-cancelation-delaware-state-university-pandemic-financial-hardships-2021-5?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/student-loan-debt-cancelation-delaware-state-university-pandemic-financial-hardships-2021-5?amp",
-      "publishedDateTime": "2021-05-14T06:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-05-14-nomination-of-kristen-clarke-controversial-biden-civil-rights-pick-hangs-in-balance.md",
-      "title": "Nomination of Kristen Clarke, controversial Biden civil-rights pick, hangs in balance",
-      "excerpt": "The Senate Judiciary Committee advanced the nomination of Kristen Clarke to run the civil rights division at the Department of Justice on Thursday, but her confirmation is still not certain as a handful of key moderate senators have yet to announce their stance on the nominee.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/department-of-justice-kristen-clarke-nomination-moderate-senators-manchin-murkowski-sinema-collins",
-      "originalUrl": "https://www.foxnews.com/politics/department-of-justice-kristen-clarke-nomination-moderate-senators-manchin-murkowski-sinema-collins",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 168,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7b5c045d-f123-483e-bf61-47f1ec138734/82a4dec4-33fd-444e-951d-72ca464a2df4/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/department-of-justice-kristen-clarke-nomination-moderate-senators-manchin-murkowski-sinema-collins.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/department-of-justice-kristen-clarke-nomination-moderate-senators-manchin-murkowski-sinema-collins.amp",
-      "publishedDateTime": "2021-05-14T06:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

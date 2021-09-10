@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/bidens-tree-of-life-synagogue-claim
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-tree-of-life-synagogue-claim-not-true-white-house-admits.amp"
 type: article
 quality: 175
-heat: 295
+heat: 315
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f188be8b-e340-4069-80b9-ad723e80a3cf/dace7a46-d606-4e77-905a-4480e0c2bb8d/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "GOP governors rip Biden over new mandate, threaten legal action"
+    excerpt: "South Dakota Gov. Kristi Noem and Georgia Gov. Brian Kemp were among the GOP governors to announce they will take action against the Biden administration’s “unlawful mandate.”"
+    publishedDateTime: 2021-09-10T06:05:00Z
+    webUrl: "https://nypost.com/2021/09/10/biden-ripped-by-gop-governors-over-vaccine-mandate-threaten-legal-action/"
+    ampWebUrl: "https://nypost.com/2021/09/10/biden-ripped-by-gop-governors-over-vaccine-mandate-threaten-legal-action/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/09/10/biden-ripped-by-gop-governors-over-vaccine-mandate-threaten-legal-action/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/09/gop-govs-blast-biden-729.jpg?quality=90&strip=all&w=1024"
+        width: 1024
+        height: 682
         isCached: true
   - title: "Biden ripped for apparently glancing at watch during ceremony for fallen troops"
     excerpt: "President Joe Biden has come under fire for apparently glancing at his watch during a solemn ceremony at Dover Air Force Base in Delaware for the 13 US troops killed in the terror attack near the"

@@ -2,6 +2,595 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-08-28-trump-insists-he-would-have-stopped-the-isis-k-bombing-at-kabul-airport-but-kept-calling-the-terror-group-isis-x.md",
+      "title": "Trump insists he would have stopped the ISIS-K bombing at Kabul airport but kept calling the terror group 'ISIS-X'",
+      "excerpt": "Speaking to Sean Hannity on Fox News, Trump said that the attack wouldn't \"would not have happened if I were your president.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/watch-trump-says-he-would-have-stopped-isis-k-but-calls-them-isis-x-2021-8",
+      "originalUrl": "https://www.businessinsider.com/watch-trump-says-he-would-have-stopped-isis-k-but-calls-them-isis-x-2021-8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6129fe7212b9cc0019633e61?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/watch-trump-says-he-would-have-stopped-isis-k-but-calls-them-isis-x-2021-8?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/watch-trump-says-he-would-have-stopped-isis-k-but-calls-them-isis-x-2021-8?amp",
+      "publishedDateTime": "2021-08-28T04:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-08-28-joe-biden-says-china-still-withholding-critical-info-on-covid-19-origins.md",
+      "title": "Joe Biden says China still withholding 'critical' info on Covid-19 origins",
+      "excerpt": "PRESIDENT JOE BIDEN said that China was withholding “critical information” on the origins of Covid-19 after the US intelligence community said it did not believe the virus was a bioweapon – but remained split on whether it escaped from a lab.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thejournal.ie/joe-biden-china-covid-origins-5534218-Aug2021/",
+      "originalUrl": "https://www.thejournal.ie/joe-biden-china-covid-origins-5534218-Aug2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img2.thejournal.ie/article/5534218/listing/?width=600&version=5534221",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thejournal.ie/joe-biden-china-covid-origins-5534218-Aug2021/?amp=1",
+      "cdnAmpWebUrl": "https://www-thejournal-ie.cdn.ampproject.org/c/s/www.thejournal.ie/joe-biden-china-covid-origins-5534218-Aug2021/?amp=1",
+      "publishedDateTime": "2021-08-28T02:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TheJournal.ie",
+        "domain": "thejournal.ie",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-08-28-afghanistan-former-advisor-to-mike-pence-warned-in-2020-that-trump-was-setting-up-another-benghazi.md",
+      "title": "Afghanistan: Former advisor to Mike Pence warned in 2020 that Trump was setting up another 'Benghazi'",
+      "excerpt": "The advisor wrote Trump left \"an unsustainable presence in Afghanistan, a crisis for the Afghan people, and a mess for the Biden-Harris administration.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/kabul-ex-pence-adviser-warned-trump-setting-up-another-benghazi-2021-8",
+      "originalUrl": "https://www.businessinsider.com/kabul-ex-pence-adviser-warned-trump-setting-up-another-benghazi-2021-8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 325,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/612805a612b9cc0019630f06?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/kabul-ex-pence-adviser-warned-trump-setting-up-another-benghazi-2021-8?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/kabul-ex-pence-adviser-warned-trump-setting-up-another-benghazi-2021-8?amp",
+      "publishedDateTime": "2021-08-27T17:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-08-28-joe-biden-just-ruined-americas-special-relationship-with-great-britain.md",
+      "title": "Joe Biden just ruined America’s ‘special relationship’ with Great Britain",
+      "excerpt": "Despite such loud promises that he would make America’s alliances great again, Biden’s initially foolish, now fatal, Afghan catastrophe has atomized US international ties.",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/08/27/joe-biden-just-ruined-americas-special-relationship-with-great-britain/",
+      "originalUrl": "https://nypost.com/2021/08/27/joe-biden-just-ruined-americas-special-relationship-with-great-britain/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/08/biden-boris-johnson.jpg?quality=90&strip=all&w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/08/27/joe-biden-just-ruined-americas-special-relationship-with-great-britain/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/27/joe-biden-just-ruined-americas-special-relationship-with-great-britain/amp/",
+      "publishedDateTime": "2021-08-27T16:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-08-28-franklin-delano-roosevelt-vs-john-f-kennedy-vs-joe-robinette-biden.md",
+      "title": "Franklin Delano Roosevelt vs. John F. Kennedy vs. Joe Robinette Biden",
+      "excerpt": "After the deaths of 13 U.S. troops and at least 90 Afghans outside the Kabul airport, Joe Biden gave a speech from a position of weakness.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailysignal.com/2021/08/27/franklin-delano-roosevelt-vs-john-f-kennedy-vs-joe-robinette-biden/",
+      "originalUrl": "https://www.dailysignal.com/2021/08/27/franklin-delano-roosevelt-vs-john-f-kennedy-vs-joe-robinette-biden/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dailysignal.com/wp-content/uploads/Biden-2.gif",
+          "width": 1250,
+          "height": 650,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailysignal.com/2021/08/27/franklin-delano-roosevelt-vs-john-f-kennedy-vs-joe-robinette-biden/amp/",
+      "cdnAmpWebUrl": "https://www-dailysignal-com.cdn.ampproject.org/c/s/www.dailysignal.com/2021/08/27/franklin-delano-roosevelt-vs-john-f-kennedy-vs-joe-robinette-biden/amp/",
+      "publishedDateTime": "2021-08-27T16:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Signal",
+        "domain": "dailysignal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-08-28-jack-nicklaus-on-if-tiger-woods-will-play-again-supporting-donald-trump-and-needing-a-cane.md",
+      "title": "Jack Nicklaus on if Tiger Woods will play again, supporting Donald Trump and needing a cane",
+      "excerpt": "Jack Nicklaus with a cane? Apparently the 81-year-old legend suffered an injury playing pickleball. Allow me to speak for everyone when I say that’s an image we’re not ready to see. It’s bad",
+      "sourceUrl": null,
+      "webUrl": "https://golfweek.usatoday.com/lists/jack-nicklaus-qa-tiger-woods-donald-trump-cane/",
+      "originalUrl": "https://golfweek.usatoday.com/lists/jack-nicklaus-qa-tiger-woods-donald-trump-cane/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://golfweek.usatoday.com/wp-content/uploads/sites/87/2017/03/gettyimages-463960886.jpg",
+          "width": 3656,
+          "height": 2339,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://golfweek.usatoday.com/lists/jack-nicklaus-qa-tiger-woods-donald-trump-cane/amp/",
+      "cdnAmpWebUrl": "https://golfweek-usatoday-com.cdn.ampproject.org/c/s/golfweek.usatoday.com/lists/jack-nicklaus-qa-tiger-woods-donald-trump-cane/amp/",
+      "publishedDateTime": "2021-08-27T12:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-08-28-joe-biden-seeks-diplomacy-with-iran-on-nuclear-deal-but-open-to-other-options.md",
+      "title": "Joe Biden seeks diplomacy with Iran on nuclear deal, but open to 'other options'",
+      "excerpt": "President Joe Biden on Friday said the United States will try diplomacy to keep Iran from obtaining nuclear weapons, but will use \"other options\" if necessary.",
+      "sourceUrl": null,
+      "webUrl": "https://www.upi.com/Top_News/US/2021/08/27/president-joe-biden-israel-naftali-bennett-iran-nuclear/3931630085407/",
+      "originalUrl": "https://www.upi.com/Top_News/US/2021/08/27/president-joe-biden-israel-naftali-bennett-iran-nuclear/3931630085407/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdnph.upi.com/sv/ph/og/upi/3931630085407/2021/1/5a644c6dc5548efdc6df8cce0f83b200/v1.5/Joe-Biden-seeks-diplomacy-with-Iran-on-nuclear-deal-but-open-to-other-options.jpg",
+          "width": 800,
+          "height": 532,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.upi.com/amp/Top_News/US/2021/08/27/president-joe-biden-israel-naftali-bennett-iran-nuclear/3931630085407/",
+      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/08/27/president-joe-biden-israel-naftali-bennett-iran-nuclear/3931630085407/",
+      "publishedDateTime": "2021-08-27T11:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UPI.com",
+        "domain": "upi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-08-27-biden-meets-with-israeli-prime-minister-after-deadly-kabul-bombing.md",
+      "title": "Biden meets with Israeli prime minister after deadly Kabul bombing",
+      "excerpt": "President Biden sat down with the newly installed Israeli Prime Minister Naftali Bennett Friday, roughly 24 hours after the deadly suicide bombing in Kabul.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4W3al9aPvbY/biden-israeli-prime-minister-kabul-bombing",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4W3al9aPvbY/biden-israeli-prime-minister-kabul-bombing",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 335,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c013c6db-e7ea-41bb-93f5-be557d7321c8/209d8f8e-15b3-41c1-99db-334ce2c78307/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-israeli-prime-minister-kabul-bombing.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-israeli-prime-minister-kabul-bombing.amp",
+      "publishedDateTime": "2021-08-27T10:32:30-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-08-27-michael-caputo-not-comfortable-with-his-smashmouth-style-advising-donald-trump.md",
+      "title": "Michael Caputo 'Not Comfortable' With His 'Smashmouth' Style Advising Donald Trump",
+      "excerpt": "\"It nearly killed me,\" the former assistant secretary for public affairs said about the style of politics he once engaged in.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/michael-caputo-not-comfortable-smashmouth-style-advising-donald-trump-1623670",
+      "originalUrl": "https://www.newsweek.com/michael-caputo-not-comfortable-smashmouth-style-advising-donald-trump-1623670",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1881567/michael-caputo-waves-reporters-2017.jpg",
+          "width": 3000,
+          "height": 2000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/michael-caputo-not-comfortable-smashmouth-style-advising-donald-trump-1623670?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/michael-caputo-not-comfortable-smashmouth-style-advising-donald-trump-1623670?amp=1",
+      "publishedDateTime": "2021-08-27T08:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-08-27-elliott-abrams-im-afraid-people-will-pay-for-bidens-stubbornness-with-their-lives.md",
+      "title": "Elliott Abrams: I'm afraid people will pay for Biden's 'stubbornness' with their lives",
+      "excerpt": "Former deputy national security adviser Elliott Abrams blasted President Biden for his \"stubbornness\" that could cost human lives.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/elliott-abrams-biden-stubborn-afghanistan-withdrawal-deadline",
+      "originalUrl": "https://www.foxnews.com/media/elliott-abrams-biden-stubborn-afghanistan-withdrawal-deadline",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/elliott-abrams-biden-stubborn-afghanistan-withdrawal-deadline.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/elliott-abrams-biden-stubborn-afghanistan-withdrawal-deadline.amp",
+      "publishedDateTime": "2021-08-27T08:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-08-27-opinion-like-donald-trump-in-16-larry-elder-may-benefit-from-all-the-criticism.md",
+      "title": "Opinion: Like Donald Trump in ’16, Larry Elder May Benefit from All the Criticism",
+      "excerpt": "Elder may be, as his critics say, unfit to be governor. However, like Trump, he probably loves the attention because his enemies are making him more friends.",
+      "sourceUrl": null,
+      "webUrl": "https://timesofsandiego.com/opinion/2021/08/26/like-donald-trump-in-16-larry-elder-may-benefit-from-all-the-criticism/",
+      "originalUrl": "https://timesofsandiego.com/opinion/2021/08/26/like-donald-trump-in-16-larry-elder-may-benefit-from-all-the-criticism/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://timesofsandiego.com/wp-content/uploads/2021/07/Larry-Elder-e1626989678782.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://timesofsandiego.com/opinion/2021/08/26/like-donald-trump-in-16-larry-elder-may-benefit-from-all-the-criticism/",
+      "cdnAmpWebUrl": "https://timesofsandiego-com.cdn.ampproject.org/c/s/timesofsandiego.com/opinion/2021/08/26/like-donald-trump-in-16-larry-elder-may-benefit-from-all-the-criticism/",
+      "publishedDateTime": "2021-08-27T05:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Times of San Diego",
+        "domain": "timesofsandiego.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-08-27-trump-says-kabul-airport-explosion-wouldnt-have-happened-if-he-was-president.md",
+      "title": "Trump says Kabul airport explosion wouldn’t have happened if he was president",
+      "excerpt": "Donald Trump hammered Biden over the suicide bombings outside Kabul’s airport, claiming that “it would not have happened if I was your president.”",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/08/27/trump-says-kabul-airport-explosion-wouldnt-have-happened-if-he-was-president/",
+      "originalUrl": "https://nypost.com/2021/08/27/trump-says-kabul-airport-explosion-wouldnt-have-happened-if-he-was-president/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/08/trump-afghanistan-bomging-index.jpg?quality=90&strip=all&w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/08/27/trump-says-kabul-airport-explosion-wouldnt-have-happened-if-he-was-president/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/27/trump-says-kabul-airport-explosion-wouldnt-have-happened-if-he-was-president/amp/",
+      "publishedDateTime": "2021-08-26T21:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-08-27-trumps-former-national-security-advisor-john-bolton-says-its-impossible-for-mike-pompeo-to-rewrite-history-on-his-negotiations-with-the.md",
       "title": "Trump's former national security advisor John Bolton says it's 'impossible' for Mike Pompeo to 'rewrite history' on his negotiations with the Taliban",
       "excerpt": "\"That's a prescription for Democratic attack ads that would be fatal to someone's credibility,\" Bolton told Politico.",
@@ -641,627 +1230,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-08-26-meet-the-9-local-georgia-investigators-who-have-donald-trump-in-their-sights.md",
-      "title": "Meet the 9 local Georgia investigators who have Donald Trump in their sights",
-      "excerpt": "An inside look at the top Georgia investigators that are leading an effort that — at the extreme — could land Trump in prison.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/fani-willis-georgia-investigation-election-trump-phone-call-2021-8",
-      "originalUrl": "https://www.businessinsider.com/fani-willis-georgia-investigation-election-trump-phone-call-2021-8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 142,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6126d12512b9cc001962e5c2?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-26T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-08-26-trump-slams-biden-over-catastrophic-border-disaster.md",
-      "title": "Trump slams Biden over ‘catastrophic border disaster’",
-      "excerpt": "President Biden is being ripped by his predecessor for creating a “catastrophic border disaster” as the Supreme Court says his administration may have violated federal law by dropping",
-      "sourceUrl": null,
-      "webUrl": "https://www.bostonherald.com/2021/08/25/trump-slams-biden-over-catastrophic-border-disaster/",
-      "originalUrl": "https://www.bostonherald.com/2021/08/25/trump-slams-biden-over-catastrophic-border-disaster/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.bostonherald.com/wp-content/uploads/2021/08/AP21232169221338.jpg?w=1024&#038;h=683",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bostonherald.com/2021/08/25/trump-slams-biden-over-catastrophic-border-disaster/amp/",
-      "cdnAmpWebUrl": "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2021/08/25/trump-slams-biden-over-catastrophic-border-disaster/amp/",
-      "publishedDateTime": "2021-08-25T17:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Boston Herald",
-        "domain": "bostonherald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-08-26-ramesh-ponnuru-why-all-the-bad-press-for-joe-biden.md",
-      "title": "Ramesh Ponnuru: Why all the bad press for Joe Biden?",
-      "excerpt": "President Joe Biden’s handling of Afghanistan has few vocal defenders. What they lack in numbers, though, they make up for in unity of message: The press is being too hard",
-      "sourceUrl": null,
-      "webUrl": "https://greensboro.com/opinion/columnists/ramesh-ponnuru-why-all-the-bad-press-for-joe-biden/article_20501b14-05c7-11ec-b064-ff9806d41487.html",
-      "originalUrl": "https://greensboro.com/opinion/columnists/ramesh-ponnuru-why-all-the-bad-press-for-joe-biden/article_20501b14-05c7-11ec-b064-ff9806d41487.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/greensboro.com/content/tncms/assets/v3/editorial/d/de/ddeab818-05c8-11ec-92ae-eb234dfa1a11/61267c6c32cbc.image.jpg",
-          "width": 1000,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://greensboro.com/opinion/columnists/ramesh-ponnuru-why-all-the-bad-press-for-joe-biden/article_20501b14-05c7-11ec-b064-ff9806d41487.amp.html",
-      "cdnAmpWebUrl": "https://greensboro-com.cdn.ampproject.org/c/s/greensboro.com/opinion/columnists/ramesh-ponnuru-why-all-the-bad-press-for-joe-biden/article_20501b14-05c7-11ec-b064-ff9806d41487.amp.html",
-      "publishedDateTime": "2021-08-25T17:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News & Record",
-        "domain": "greensboro.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-08-26-biden-signs-us-rep-elissa-slotkins-paws-for-veterans-therapy-act-into-law.md",
-      "title": "Biden signs U.S. Rep. Elissa Slotkin's PAWS for Veterans Therapy Act into law",
-      "excerpt": "The program is set to begin on Jan. 1, 2022, at five VA locations. Slotkin is advocating that Michigan be one of them.",
-      "sourceUrl": null,
-      "webUrl": "https://www.livingstondaily.com/story/news/local/community/livingston-county/2021/08/25/paws-veterans-therapy-act-slotkin-biden-law/5592741001/",
-      "originalUrl": "https://www.livingstondaily.com/story/news/local/community/livingston-county/2021/08/25/paws-veterans-therapy-act-slotkin-biden-law/5592741001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2019/12/09/PLID/cdeb9b18-d5ab-46a1-b3f5-f02fba7e0e65-Blue_Star_Service_Dogs_01.jpg?auto=webp&crop=1932,1087,x1,y77&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.livingstondaily.com/amp/5592741001",
-      "cdnAmpWebUrl": "https://amp-livingstondaily-com.cdn.ampproject.org/c/s/amp.livingstondaily.com/amp/5592741001",
-      "publishedDateTime": "2021-08-25T16:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Livingston Daily",
-        "domain": "livingstondaily.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-08-25-judge-sanctions-pro-trump-lawyers-who-brought-frivolous-election-fraud-lawsuits.md",
-      "title": "Judge sanctions pro-Trump lawyers who brought 'frivolous' election fraud lawsuits",
-      "excerpt": "A federal judge ordered sanctions Wednesday for Sidney Powell, Lin Wood and several other lawyers who worked on Trump-aligned lawsuits seeking to challenge the results of the 2020 election.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/eVlFnBho9LI/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/eVlFnBho9LI/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 245,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201123110753-sidney-powell-gop-donald-trump-newday-diamond-vpx-00000015-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/08/25/politics/judge-sanctions-powell-wood-kraken-lawsuits/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/25/politics/judge-sanctions-powell-wood-kraken-lawsuits/index.html",
-      "publishedDateTime": "2021-08-25T15:55:51-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-25-fact-checking-jake-sullivans-claim-trump-admin-didnt-process-afghan-visas-for-a-year.md",
-      "title": "Fact checking Jake Sullivan's claim Trump admin didn't process Afghan visas for a year",
-      "excerpt": "During a press briefing Monday, White House national security adviser Jake Sullivan suggested a slowdown in approvals for the Afghan Special Immigrant Visa (SIV) program during the Trump administration contributed to the current delays in evacuating Afghans.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WNHa7UwGkP4/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WNHa7UwGkP4/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 267,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210813155757-us-embassy-kabul-file-073021-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/08/25/politics/afghan-visas-trump-admin-fact-check/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/25/politics/afghan-visas-trump-admin-fact-check/index.html",
-      "publishedDateTime": "2021-08-25T15:09:22-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-25-biden-looks-for-air-clearing-in-first-meeting-with-israels-new-leader.md",
-      "title": "Biden looks for air-clearing in first meeting with Israel's new leader",
-      "excerpt": "When Israel's prime minister visits the White House on Thursday, for the first time in 12 years, it will be someone other than Benjamin Netanyahu.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/whe0kR4nQ58/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/whe0kR4nQ58/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 295,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210825144206-restricted-split-joe-biden-naftali-bennett-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/08/25/politics/biden-bennett-israel/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/25/politics/biden-bennett-israel/index.html",
-      "publishedDateTime": "2021-08-25T14:16:15-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-26-beto-orourke-pushes-joe-biden-to-help-pass-federal-voting-bill.md",
-      "title": "Beto O'Rourke pushes Joe Biden to help pass federal voting bill",
-      "excerpt": "Former Congressman Beto O’Rourke is using his political platform to turn up the heat on President Joe Biden on voting rights legislation that is unlikely to pass the U.S. Senate, laying the fate of the legislation squarely at Biden’s feet.",
-      "sourceUrl": null,
-      "webUrl": "https://www.houstonchronicle.com/politics/texas/article/Beto-O-Rourke-pushes-Joe-Biden-to-help-pass-16411342.php",
-      "originalUrl": "https://www.houstonchronicle.com/politics/texas/article/Beto-O-Rourke-pushes-Joe-Biden-to-help-pass-16411342.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 705,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.hdnux.com/photos/01/21/46/51/21391940/3/400x0.jpg",
-          "width": 400,
-          "height": 266,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.houstonchronicle.com/politics/texas/amp/Beto-O-Rourke-pushes-Joe-Biden-to-help-pass-16411342.php",
-      "cdnAmpWebUrl": "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/politics/texas/amp/Beto-O-Rourke-pushes-Joe-Biden-to-help-pass-16411342.php",
-      "publishedDateTime": "2021-08-25T10:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Houston Chronicle",
-        "domain": "houstonchronicle.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/houstonchronicle.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-08-25-biden-ally-claims-trump-greater-threat-to-us-than-al-qaeda.md",
-      "title": "Biden ally claims Trump greater 'threat' to US than al Qaeda",
-      "excerpt": "A Democratic insider and vocal ally of President Biden claimed last week that former President Trump and his “Trumpist” supporters are a bigger threat to the United States than the Taliban and al Qaeda fighters.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/oGIOCzBQ88A/biden-ally-trump-more-dangerous-taliban-al-qaeda",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/oGIOCzBQ88A/biden-ally-trump-more-dangerous-taliban-al-qaeda",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 290,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c34b2f4d-518c-4bf2-84bd-016180d30cf8/77b6a3b5-56bf-4b2d-9c4e-e0e7cc4b07a2/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-ally-trump-more-dangerous-taliban-al-qaeda.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-ally-trump-more-dangerous-taliban-al-qaeda.amp",
-      "publishedDateTime": "2021-08-25T09:04:50-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-25-climate-measures-in-reconciliation-infrastructure-bills-will-mostly-meet-bidens-emissions-goals-schumer-says.md",
-      "title": "Climate measures in reconciliation, infrastructure bills will mostly meet Biden's emissions goals, Schumer says",
-      "excerpt": "An analysis from Senate Majority Leader Chuck Schumer's office estimates that combined, the bipartisan infrastructure bill and $3.5 trillion budget reconciliation bill can meet the majority of President Joe Biden's target to drastically slash emissions by the end of the decade.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/oy6x8opHz4U/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/oy6x8opHz4U/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210825090638-schumer-washington-reconciliation-climate-0805-file-restricted-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/08/25/politics/reconciliation-climate-change-emissions-schumer-biden/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/25/politics/reconciliation-climate-change-emissions-schumer-biden/index.html",
-      "publishedDateTime": "2021-08-25T07:48:47-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-25-charles-barkley-blasts-crowd-stupidity-for-booing-donald-trump-over-vaccines.md",
-      "title": "Charles Barkley Blasts Crowd 'Stupidity' For Booing Donald Trump Over Vaccines",
-      "excerpt": "The NBA legend is headlining an event in Alabama on Saturday to encourage people to take the COVID-19 vaccine.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/charles-barkley-blasts-crowd-stupidity-booing-donald-trump-vaccines-alabama-1622803",
-      "originalUrl": "https://www.newsweek.com/charles-barkley-blasts-crowd-stupidity-booing-donald-trump-vaccines-alabama-1622803",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 361,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1879344/charles-barkley-speaks-podium.jpg",
-          "width": 3763,
-          "height": 2509,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/charles-barkley-blasts-crowd-stupidity-booing-donald-trump-vaccines-alabama-1622803?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/charles-barkley-blasts-crowd-stupidity-booing-donald-trump-vaccines-alabama-1622803?amp=1",
-      "publishedDateTime": "2021-08-25T04:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-08-25-with-biden-poll-numbers-plunging-democrats-worry-afghan-exit-may-impact-next-years-elections.md",
-      "title": "With Biden poll numbers plunging, Democrats worry Afghan exit may impact next year's elections",
-      "excerpt": "The rushed U.S. evacuation in Afghanistan appears to be a key contributing factor in the plunge in President Biden's approval rating in new polls. Some Democrats are worried the political fallout could impair their prospects in the 2022 midterms.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/PEfZ-75ZWeU/biden-poll-numbers-plunging-democrats-worry-afghanistan-midterms",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/PEfZ-75ZWeU/biden-poll-numbers-plunging-democrats-worry-afghanistan-midterms",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 638,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-poll-numbers-plunging-democrats-worry-afghanistan-midterms.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-poll-numbers-plunging-democrats-worry-afghanistan-midterms.amp",
-      "publishedDateTime": "2021-08-25T03:38:13-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

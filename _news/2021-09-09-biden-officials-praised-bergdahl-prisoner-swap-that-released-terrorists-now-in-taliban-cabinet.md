@@ -47,6 +47,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Jesse Watters: Joe Biden is threatening the unvaccinated more than he's threatening the Taliban"
+    excerpt: "Fox News host Jesse Watters criticized slammed President Biden Thursday on \"Tucker Carlson Tonight,\" saying the president is \"threatening the unvaccinated more than he's threatening the Taliban.\" JESSE WATTERS: Joe Biden is threatening the unvaccinated more than he's threatening the Taliban."
+    publishedDateTime: 2021-09-10T03:21:00Z
+    webUrl: "https://www.foxnews.com/media/jesse-watters-joe-biden-threatening-unvaccinated-taliban"
+    ampWebUrl: "https://www.foxnews.com/media/jesse-watters-joe-biden-threatening-unvaccinated-taliban.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/jesse-watters-joe-biden-threatening-unvaccinated-taliban.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 123
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9f4fe7af-0de6-4488-999b-099cbb10e46e/8ca6a2cf-bdff-4050-bbb0-10add01b6a7e/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
 
 secured: "/KwnEp9L3cATHU4NAcmNPhZtaG6E7cSK6aWGhIWL65fowormx3/aKi78kqIKYs48Ds+l6xQNwhdj6ah6G9kXSlJYNrBHxqSodGIOLJlXsYnpfGksSLcnQFsYx6sg96FjcA7x8H7Iz0LO7u0gjYyJ5ftJNPSBA0CnpO3o0XWJLaDcZfO9zjuoZ2IFAsVUg6VNiq3rznEihJay5WsfqwBUe57CWrqUAQCfHpD8o2YNY2FK4gSJfjJREGvSx0s+Jqm6/U0k+0tbb4KbDtMzo4o/i1eO1c2pbnlaabXFC/2/eZa8KRhig9QB4y8bpGGCZ1kq6zsgoRKaIn735ZSTnbVMaS8vWFuZ6896/SbsSbmnhnA=;F3p7nDQjjOu99gZNMVAPPQ=="
 ---

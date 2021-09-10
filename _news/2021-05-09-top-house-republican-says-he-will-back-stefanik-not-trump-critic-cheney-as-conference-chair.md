@@ -648,6 +648,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "Trump endorses lawyer to unseat Liz Cheney"
+    excerpt: "Donald Trump announced Thursday that he is endorsing Harriet Hageman to take on Republican Rep. Liz Cheney in a Wyoming primary contest that will"
+    publishedDateTime: 2021-09-10T05:39:00Z
+    webUrl: "https://www.theday.com/national-politics/20210910/trump-endorses-lawyer-to-unseat-liz-cheney"
+    type: article
+    provider:
+      name: The Day
+      domain: theday.com
+    quality: 55
+    images:
+      - url: "https://www.theday.com/storyimage/NL/20210910/NWS21/210919970/AR/0/AR-210919970.jpg&imageversion=16by9&Maxw=960"
+        width: 960
+        height: 540
+        isCached: true
 
 secured: "Mn5VYFb4LqSqqZfwvR/qvjwNMawHHx0lRDQd4evkoFD3lc9UD/0vHh4DxhocN+C1l4uxamEAL07VXUJ766xHgqOydf1D9+dO+PYJ/Xao3OfOPD7KHfRCMloBV+sYl6rGSoPqAbkZWDeY9EPT1F7fi49FG6UU2mi7u3+cW7h4raRzaoKz+MBnIW833+QztjA+QJN92+/Z3qIUrvd7DhA63kF7MJV245ChuWjYuBp4Cw5oolqTHj9fyJVA7IuSViH1GbV20p8vlzIFAXIL8ycxOBiopRjlkonCQlDdzYIibtru9c9bTbw6M0jxpcBH/tJw/kjuh9nRTBhfbyfk+m/6Kc4BohyNKVelMA+D4+RJdBmNH+acljwr1813B6DGuQs/ZkIDkqjF08BByTFKBf56Vr+hrnnOe+j9PiOpupesN3OHiABwqVi58D+yIK0j+lwZ70yS/8hKDMt2EZvdQx98ECJ3/LDGGxxDw83nHU9FiLbygHLznTyWRLAlVUG4CuuB5ywEqjkUA1wliToIGoEBbw==;QBN57EEjAtunSC3c1uNCYA=="
 ---

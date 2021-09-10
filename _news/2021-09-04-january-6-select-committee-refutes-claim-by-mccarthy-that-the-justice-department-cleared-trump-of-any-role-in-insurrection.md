@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/09/04/politics/mccarthy-trump-select-co
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/09/04/politics/mccarthy-trump-select-committee-justice-department/index.html"
 type: article
 quality: 149
-heat: 149
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -29,6 +29,24 @@ images:
     width: 1100
     height: 619
     isCached: true
+
+related:
+  - title: "Trump's House GOP enemies get boost from McCarthy's leadership team"
+    excerpt: "House Minority Leader Kevin McCarthy and his leadership team are quietly working to prop up some of the GOP incumbents targeted by former President Donald Trump, putting the California Republican directly in the crosshairs of the right as he seeks to win back the majority.\n    \n"
+    publishedDateTime: 2021-09-10T10:36:02Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/VDpiFhQ7su0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/09/10/politics/kevin-mccarthy-house-republicans-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/09/10/politics/kevin-mccarthy-house-republicans-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210721133155-02-kevin-mccarthy-0701-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "avavWv1H2v2O/f8/zHbDuFq3Fk/D+YnQettjqa4oFS5TxmNnDEg5CfsMdoUgtiGmjIO+5cMGJOQFHwdjl34YI4O/uJ94R7POYxtf1XgV3EHpaJSmLAUPfvhUkKnOf+3UvWqFlrKXis9AQ+sUIGSM8X89yoDWJ0IOnfgoxJFE9LFhew1DnkLYH6z2CYWz42e5nu/jEhU1MrzBQzd7C6LNMh32Iwfxc6K99HOOlz9Kz/obOslwp6sRrEyjq+kxjxRvoOjbGyv+Dc3YhYTpnVkZehUbpYlQzD8ZmSW0LYnO4rsqLfa6GQxbo7X80Wsib7jv5e/64AtsQUB7WDveoVBuML21E+9ViKODozZFks9Vijk=;2kUnnJ3Iiff+QeVUx1lKWg=="
 ---

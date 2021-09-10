@@ -177,6 +177,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Roger Stone says he believes Donald Trump will run for president again in 2024"
+    excerpt: "Roger Stone, former President Donald Trump’s longtime confidant, said he believes his friend has decided to run for the White House again in 2024."
+    publishedDateTime: 2021-09-10T17:40:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/sep/10/roger-stone-says-he-believes-donald-trump-will-run/"
+    ampWebUrl: "https://amp.washingtontimes.com/news/2021/sep/10/roger-stone-says-he-believes-donald-trump-will-run/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/sep/10/roger-stone-says-he-believes-donald-trump-will-run/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 71
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/06/26/Trump-Russia_Probe-Stone_13127.jpg-30762_c0-124-3000-1874_s1200x700.jpg?6f06f4aee5bb8338517b1376bdd55b0df3bd0bc5"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "Fact check: Donald Trump falsely claims California recall election is 'rigged' for Gavin Newsom"
     excerpt: "Claim: Former President Donald Trump, speaking on Newsmax Tuesday night, claimed that the California recall against Gov. Gavin Newsom is likely \"rigged,\" suggesting that the widespread use of mail bal"
     publishedDateTime: 2021-09-09T16:21:00Z

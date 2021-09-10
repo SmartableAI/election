@@ -634,6 +634,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "Trump endorses lawyer to unseat Liz Cheney"
+    excerpt: "Donald Trump announced Thursday that he is endorsing Harriet Hageman to take on Republican Rep. Liz Cheney in a Wyoming primary contest that will"
+    publishedDateTime: 2021-09-10T05:39:00Z
+    webUrl: "https://www.theday.com/national-politics/20210910/trump-endorses-lawyer-to-unseat-liz-cheney"
+    type: article
+    provider:
+      name: The Day
+      domain: theday.com
+    quality: 55
+    images:
+      - url: "https://www.theday.com/storyimage/NL/20210910/NWS21/210919970/AR/0/AR-210919970.jpg&imageversion=16by9&Maxw=960"
+        width: 960
+        height: 540
+        isCached: true
   - title: "Top House Republican Says He Will Back Stefanik, Not Trump Critic Cheney, as Conference Chair"
     excerpt: "The top Republican in the U.S. House of Representatives signaled on Sunday that he would vote to remove fellow Republican and Trump critic Liz Cheney as a party leader, saying he will back Representative Elise Stefanik instead."
     publishedDateTime: 2021-05-09T16:23:00Z

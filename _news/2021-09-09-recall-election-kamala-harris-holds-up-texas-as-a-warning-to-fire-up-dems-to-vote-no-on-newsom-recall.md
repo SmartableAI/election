@@ -2,26 +2,26 @@
 category: news
 title: "Recall election: Kamala Harris holds up Texas as a warning to fire up Dems to vote ‘No’ on Newsom recall"
 excerpt: "The vice president made a stop Wednesday in the Bay Area in a bid to mobilize Democrats to vote against the recall. “They think if they can win in California, they can do this"
-publishedDateTime: 2021-09-08T18:41:00Z
-originalUrl: "https://www.eastbaytimes.com/2021/09/08/recall-election-vice-president-kamala-harris-campaigns-for-newsom-in-east-bay/"
-webUrl: "https://www.eastbaytimes.com/2021/09/08/recall-election-vice-president-kamala-harris-campaigns-for-newsom-in-east-bay/"
-ampWebUrl: "https://www.eastbaytimes.com/2021/09/08/recall-election-vice-president-kamala-harris-campaigns-for-newsom-in-east-bay/amp/"
-cdnAmpWebUrl: "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2021/09/08/recall-election-vice-president-kamala-harris-campaigns-for-newsom-in-east-bay/amp/"
+publishedDateTime: 2021-09-08T17:41:00Z
+originalUrl: "https://www.mercurynews.com/2021/09/08/recall-election-vice-president-kamala-harris-campaigns-for-newsom-in-east-bay/"
+webUrl: "https://www.mercurynews.com/2021/09/08/recall-election-vice-president-kamala-harris-campaigns-for-newsom-in-east-bay/"
+ampWebUrl: "https://www.mercurynews.com/2021/09/08/recall-election-vice-president-kamala-harris-campaigns-for-newsom-in-east-bay/amp/"
+cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/09/08/recall-election-vice-president-kamala-harris-campaigns-for-newsom-in-east-bay/amp/"
 type: article
 quality: 73
 heat: -1
 published: false
 
 provider:
-  name: East Bay Times
-  domain: eastbaytimes.com
+  name: Mercury News
+  domain: mercurynews.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://www.eastbaytimes.com/wp-content/uploads/2021/09/SJM-L-KAMALA-0909-2-2.jpg?w=1024&#038;h=683"
+  - url: "https://www.mercurynews.com/wp-content/uploads/2021/09/SJM-L-KAMALA-0909-2.jpg?w=1024&#038;h=683"
     width: 1024
     height: 683
     isCached: true
@@ -1228,6 +1228,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "2u6ldI61GBOCyoTciq3dXJiBKj5Yi3ft4020Cbk1xnI/TBMKMFwJ0Zm2o6uMmhvUG0ZL3q1IO14gUrQlqJVOK5wrGbFo7KlbZBhiuod91QTgMf+QRjLkIQ1cYQgaXZlG2HSnHvJg+w6jGSHEKzjWjt3FhAA1IrVbltA9pEPhG+xt6kIeRsQFZdtRGlSZQEW//7/ZDhgV40kTzRf7b5wwyU+S6N76WUVX6310pcsU5784cFr/WI7ByEa+JWD7HaNhduJNha3IHAs6cth2NPUC44eUmpNoGKIv0XdezQAQ+EGVXrKn8o9r1LYIoaZk0EA2Mr58oylhKpFESa7lru902pIhxUxIWV9bVYFbPx4CNs88x9xCiy7PTFBlSS2JfFSnJ7mJBkDC8LJjHVD9YOTS7c/lduKOhQY5lEw9kqweArk3svoze+jTR5Gi8fx33cPAuxAzvrTYECax3+YIQtrOctH0qRnJwhlVN0BqZvxny6w9t756gJ/ThvvmMXu/ojTUyhOhGj1HWWy41gFD3nuzZA==;sPpd6zglQ7lS6ekFhPRv+A=="
+secured: "zxZob0BAn9ER1za035T4JANjFUzPoq0bE1gXWdfO3xRDSF8oPPR+a9yYvdZicGc2lhV4DJuK6GLKYGItlulf4FgIi7/Uq1ou6gdFqv5buxE/p/eMJG/6Eufff5vi5QitQMM0+IV9FQzwivENdlTf4Z38tzk2TBvD1vL30DRtQ1k7DIyagt0vqQ/OlKmqIx0dqt2zZtknTa3/HRQqIzzU0o4tkZICfHHlAAYeSbLWsXVa6ir+PbHL8h4dg2aBeOcxt7CxQoLhp0EMTpWHLAYenRg/D74186tcx1MxMwJUti7xqjwVHWWt73QDccyJ97Lq4nHvNAPl2f4r/q5bRtGtNhyky+xUYJtbpbgGiklAqce/USuMjf38TMrC8FWGXsgzEm/JR4mdcVZYyrrN+ftKvxNfab/BNjJ8llgYMGbX7xFJoukzRojbFaG+ZsE/22PQMhNsF2ydSxOawb4Cf8O3+t3d+qe17umgbVsIUBpU94OE7S5wM72ZtTiYeUX455hf4ldWzW6IqemAbV32g4YMIQ==;WqMFvhohXE8HU0/m5y/3lg=="
 ---
 

@@ -58,6 +58,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "VP Kamala Harris: When People Can Make Choices Without Government Interference, We Are A Stronger Society"
+    excerpt: "Vice President Kamala Harris spoke about being pro-choice on the same day President Biden mandated vaccines for federal employees and admonished the unvaccinated. \"When people are able to design their lives in the way they can determine their own futures,"
+    publishedDateTime: 2021-09-09T00:00:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/09/09/vp_kamala_harris_when_people_can_make_choices_without_government_interference_we_are_a_stronger_society.html"
+    ampWebUrl: "http://www.realclearpolitics.com/video/2021/09/09/vp_kamala_harris_when_people_can_make_choices_without_government_interference_we_are_a_stronger_society.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/09/09/vp_kamala_harris_when_people_can_make_choices_without_government_interference_we_are_a_stronger_society.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 68
+    images:
+      - url: "https://amp.spot.im/loader.png"
+        width: 375
+        height: 815
+        isCached: true
 
 secured: "+klbMkrrcrdFttmworAKA/NeMeFqviRZ/2PrhPNrDMa4qe9WiSNsbv4ekMXBShSDILqX0nIXZUSZzK+9arO6hK6K+ouN/gX5LpSPWYGlp+dMcAtyTA9ouOUpXP59wjm2QbJGe8Rgl4bdiKPjCmdyBqBR9wFI7UbQxhPBYO/V1UiGWQTRFpwYG+XwI5TLLbvzjKpAr7iAJIlF2Vp8W7dPh/RJHS2FpdgrPTCvBkDTTSnFXTHHLa9yEaQJVvAdnnS2lSKrB7VctSWbNB8Y4mayiufoLnWOM5DMk4YjtUWvn1EkJ/r8ALyeHY+JKF6V6I7NH+M3+7JnOkiiaKSOMJbcHycAtD0FBd1CSn8fGm9CRDA7FbURVzMrYihwQV96dN3pAWE/uUZsXw1ypHtxb9c+GL1iNhKhmvCBbzXv5NSSu9WPBz0rS3Uc9XZK/d9utJoHhZ1fkFk3qJfyZHaXT3bvk2BJe4/Fc8DD9UkJqAs9AbgWATn2Y6y09BuMKa5XyAdsg/vpypt3Su6HX/ACLg2wqA==;NDxe5zdFbvayIsdU/oM0Wg=="
 ---

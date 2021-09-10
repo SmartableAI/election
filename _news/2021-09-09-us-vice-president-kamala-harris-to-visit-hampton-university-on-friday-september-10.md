@@ -3,11 +3,11 @@ category: news
 title: "U.S. Vice President Kamala Harris to Visit Hampton University on Friday, September 10"
 excerpt: "U.S. Vice President Kamala Harris will visit Hampton University on Friday, September 10, to recognize the contributions of HBCUs a"
 publishedDateTime: 2021-09-09T15:27:00Z
-originalUrl: "https://apnews.com/press-release/globe-newswire/kamala-harris-hampton-university-ea2f36913b333cebf7b3566e3d343498"
-webUrl: "https://apnews.com/press-release/globe-newswire/kamala-harris-hampton-university-ea2f36913b333cebf7b3566e3d343498"
+originalUrl: "https://apnews.com/press-release/GlobeNewswire/kamala-harris-hampton-university-ea2f36913b333cebf7b3566e3d343498"
+webUrl: "https://apnews.com/press-release/GlobeNewswire/kamala-harris-hampton-university-ea2f36913b333cebf7b3566e3d343498"
 type: article
 quality: 98
-heat: 198
+heat: 218
 published: true
 
 provider:
@@ -99,7 +99,16 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "U.S. VP Harris Says State Legislatures Cannot Circumvent Abortion Rights Precedent"
+    excerpt: "Vice President Kamala Harris, in remarks on Thursday after the Justice Department filed a lawsuit against a Texas abortion law, said no legislative body has the right to circumvent the U.S. Constitution."
+    publishedDateTime: 2021-09-09T20:10:00Z
+    webUrl: "https://www.usnews.com/news/us/articles/2021-09-09/us-vp-harris-says-state-legislatures-cannot-circumvent-abortion-rights-precedent"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 29
 
-secured: "MgrvX3ZuBi//SEqljmJXKx9wWfPngUF6OGTyVKBd/Q5QlJFNexXAlKbEKZR49NOpguwJYWf7yl/ylwqDUwkFmlw28H4GFzQJQ7XXqweFUQRdYv2eu6kGIsMW3PSbYVIrhDD8Z0g855ZzJLp8rJTijgF5PK3mw8n9RjOylZJ/JRsts8aJQ9lO6xB1+KS/GHoj1G/MI/XFRfbQEd4Dx+XaQrqhDgGgV/wxBZTH/NUdaWwRKhjIXNqF0sHPzjLCHEpj3ZZubLegFsKzoJ95Kd41dv86IE6NHe+uxFlxY8il9enO/FskiY7H9aswrPjkawuFAv8iMavkE07Zv++X4MNEqeqVieiU1gkX30cIjOPaf/U=;CQXfg4cNNkvPPdjRjnyO9Q=="
+secured: "VoBRHhj1HVCc4Cb9abnWOzGdJO8moLB8w/DPW+0WLUcsGrMu/prnZ5sDFT3hN42VN+Iqa4vKmfVB7z3zLm33ceuYUAZQWkyyl6SNa5yQh/EnFrfuOYfzgULFrSbArQsJ9WALEOzUTX8Na73dP5ESnyFwQrFPNQyf9LX1rpLHSLTXrSF+SXuGCD7CbWxUvhr7g9k/LqwZ+NLAE8/wuuj/9IwzG6dRwR04LSBV0ptRX66ODv5zMR7Bpc00ncwrZE6fbQiwc+hwrZuGeWQe90X0vjb3LQ2HAiXziGAHXDsBQI6k1i0IDnBQ3nI6RpDA/JENPG+0k1hN4WlM3cP2sbowM6A9S5ZkDAJqO2pMoHlpa/U=;lb4a3BtLCwQ7RQUQsxjZlg=="
 ---
 
