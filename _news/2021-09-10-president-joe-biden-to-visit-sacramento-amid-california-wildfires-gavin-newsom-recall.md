@@ -162,6 +162,20 @@ related:
       name: The Denver Post
       domain: denverpost.com
     quality: 55
+  - title: "President Joe Biden Boards Marine One to Travel to New York"
+    excerpt: "U.S. President Joe Biden walks to Marine One to depart to Joint Base Andrews, then onto New York City from the White House in Washington, DC on Friday, September 10, 2021. President Biden will travel to New York,"
+    publishedDateTime: 2021-09-11T01:15:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/10a914f2af969c7ca829a9438d57046e/President-Joe-Biden-Boards-Marine-One-to-Travel-to-New-York/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/10a914f2af969c7ca829a9438d57046e/BIDEN-BOARDS-MARINE-ONE.jpg"
+        width: 650
+        height: 433
+        isCached: true
   - title: "U.S. VP Harris Rallies for California Governor Facing Recall"
     excerpt: "U.S. Vice President Kamala Harris speaks during an appearance with California Governor Gavin Newsom, who is facing a Republican-led recall election in September, in San Leandro, California, U.S., September 8,"
     publishedDateTime: 2021-09-08T20:48:00Z

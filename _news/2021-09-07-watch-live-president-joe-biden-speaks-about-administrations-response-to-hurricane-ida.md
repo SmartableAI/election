@@ -134,6 +134,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Gov. Greg Abbott slams Biden administration over vaccine mandate for employers"
+    excerpt: "Abbott — who has resisted making vaccinations mandatory in any form in Texas, going as far as to bar local governments and school districts from enacting their own vaccine mandates — dubbed Biden’s move to compel businesses with more than 100 employees to make their workforce either get the shot or submit a negative COVID-19 test result each week a “power grab."
+    publishedDateTime: 2021-09-10T20:32:00Z
+    webUrl: "https://www.chron.com/politics/article/Greg-Abbott-vaccine-mandate-Biden-constitutional-16449111.php"
+    ampWebUrl: "https://www.chron.com/politics/amp/Greg-Abbott-vaccine-mandate-Biden-constitutional-16449111.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/politics/amp/Greg-Abbott-vaccine-mandate-Biden-constitutional-16449111.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 71
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Biden approves N.Y. major disaster declaration after Ida; homeowners can now file for FEMA"
     excerpt: "President Joe Biden on Monday approved a major disaster declaration for New York in the wake of Hurricane Ida, making federal funding available to those who had property damaged by the storm. Biden first granted an emergency declaration for New York last week;"
     publishedDateTime: 2021-09-06T17:37:00Z

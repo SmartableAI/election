@@ -93,6 +93,20 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Pence tears into Biden following vaccine mandate: ‘Unlike anything I’d ever heard’ from a US president"
+    excerpt: "\"To have the president of the United States say that he has been patient but his patience is wearing thin,\" Pence said."
+    publishedDateTime: 2021-09-10T17:56:00Z
+    webUrl: "https://www.bizpacreview.com/2021/09/10/pence-tears-into-biden-following-vaccine-mandate-unlike-anything-id-ever-heard-from-a-us-president-1132546/"
+    type: article
+    provider:
+      name: BizPac Review
+      domain: bizpacreview.com
+    quality: 54
+    images:
+      - url: "https://www.bizpacreview.com/wp-content/uploads/2021/01/SG-Mike-Pence-1200x630.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "‘Have at it’: Joe Biden goads GOP Governors over threatened vaccine mandate suits"
     excerpt: "President Joe Biden continued on Friday to goad Republican Governors resisting COVID-19 vaccine mandates he rolled out the day before. When asked about them being challenged in court by a reporter at a Washington D."
     publishedDateTime: 2021-09-10T15:33:00Z

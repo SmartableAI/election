@@ -512,6 +512,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Joe Biden's COVID-19 vaccine mandate for workers draws support, ire"
+    excerpt: "The response to President Joe Biden's COVID-19 vaccine requirement -- which mandates inoculation for federal workers and contractors, and sets rules for private companies -- has been met with support and criticism."
+    publishedDateTime: 2021-09-10T15:48:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2021/09/10/joe-biden-covid-vaccine-mandate/3351631285578/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/09/10/joe-biden-covid-vaccine-mandate/3351631285578/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/09/10/joe-biden-covid-vaccine-mandate/3351631285578/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 75
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/3351631285578/2021/1/dcb090a41beca2fddbdba5dd981fa0a1/v1.5/Joe-Bidens-COVID-19-vaccine-mandate-for-workers-draws-support-ire.jpg"
+        width: 800
+        height: 532
+        isCached: true
   - title: "President Joe Biden directs Pentagon to plan for mandatory COVID-19 vaccines"
     excerpt: "In a rebuke of Biden's annoucement, U.S. Rep. Cathy McMorris Rodgers called any effort to mandate a vaccine an overreach by the White House.  A spokesman confirmed that her criticism included mandatory COVID-19 vaccines for members of the military."
     publishedDateTime: 2021-07-30T03:36:00Z

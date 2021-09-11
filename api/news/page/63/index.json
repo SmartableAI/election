@@ -2,6 +2,166 @@
   "page": 63,
   "value": [
     {
+      "path": "_news/2021-04-30-pence-touts-our-accomplishments-in-first-remarks-since-leaving-office.md",
+      "title": "Pence touts \"our\" accomplishments in first remarks since leaving office",
+      "excerpt": "In speaking to the Palmetto Family Council, a South Carolina social conservative Christian group, Pence criticized Mr. Biden for what he called \"an avalanche of liberal policies.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/pence-speech-south-carolina-2021-04-29/",
+      "originalUrl": "https://www.cbsnews.com/news/pence-speech-south-carolina-2021-04-29/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 205,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews3.cbsistatic.com/hub/i/r/2021/04/30/ebb6bd27-0803-4d04-8470-606e80f3aa00/thumbnail/1200x630/f196ff31d354a22d129afc18f0d33fbd/gettyimages-1232601399.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/pence-speech-south-carolina-2021-04-29/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/pence-speech-south-carolina-2021-04-29/",
+      "publishedDateTime": "2021-04-30T04:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-04-30-two-border-state-dems-break-with-biden-on-the-crisis-want-to-see-more-action.md",
+      "title": "Two border state Dems break with Biden on the crisis: 'Want to see more action'",
+      "excerpt": "Two border state Democratic senators say President Biden is not doing enough to address the ongoing border crisis. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/JNnmXg8jt2I/senate-dems-biden-border-security",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/JNnmXg8jt2I/senate-dems-biden-border-security",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 171,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9d3999f0-05d5-42d3-85ce-11b71b6f0ca5/290ed328-1fa5-4854-9aa8-ac73dd07ceb0/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/senate-dems-biden-border-security.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/senate-dems-biden-border-security.amp",
+      "publishedDateTime": "2021-04-30T03:04:26-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-30-10-things-in-politics-how-bidens-100-days-compare.md",
+      "title": "10 Things in Politics: How Biden's 100 days compare",
+      "excerpt": "I hope you'll take your turn when it comes. Here's what we're talking about: With Jordan Erb. 1. ONE HUNDRED PROOF: President Joe Biden has now passed the FDR-inspired first lap of his presidency. Insider decided to compare him with his more-modern ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/10-things-in-politics-biden-100-days-history",
+      "originalUrl": "https://www.businessinsider.com/10-things-in-politics-biden-100-days-history",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 605,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/608af05135c46f0018c0b494?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/10-things-in-politics-biden-100-days-history?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/10-things-in-politics-biden-100-days-history?amp",
+      "publishedDateTime": "2021-04-30T03:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-04-30-mike-pence-is-returning-to-the-public-eye-today-and-insiders-say-it-could-foreshadow-a-2024-presidential-run.md",
       "title": "Mike Pence is returning to the public eye today — and insiders say it could foreshadow a 2024 presidential run",
       "excerpt": "Mike Pence is plotting a return to public prominence, employing a methodical approach that's a hallmark of his career in politics.",
@@ -1217,171 +1377,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-04-29-woke-cancel-culture-movement-backfired-on-joe-biden-stacey-abrams-gov-kemp.md",
-      "title": "'Woke cancel culture movement' backfired on Joe Biden, Stacey Abrams: Gov. Kemp",
-      "excerpt": "Georgia Gov. Brian Kemp told “Fox & Friends” Thursday, President Biden and Georgia voting rights activist Stacey Abrams has driven the “far-reaching, woke cancel culture movement” too far and now it has backfired on the Democratic Party for “lying” about the state’s election law.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/kemp-georgia-election-law-biden-abrams",
-      "originalUrl": "https://www.foxnews.com/media/kemp-georgia-election-law-biden-abrams",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/kemp-georgia-election-law-biden-abrams.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/kemp-georgia-election-law-biden-abrams.amp",
-      "publishedDateTime": "2021-04-29T06:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-29-white-supremacy-is-terrorism-biden-condemns-terrorism-in-address.md",
-      "title": "'White supremacy is terrorism': Biden condemns terrorism in address",
-      "excerpt": "President Joe Biden addressed gun violence and white supremacy in his speech to Congress. Associated Press Associated Press, USA TODAY",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/videos/news/politics/2021/04/29/president-biden-told-congress-white-supremacy-terrorism-during-speech/4886343001/",
-      "originalUrl": "https://www.usatoday.com/videos/news/politics/2021/04/29/president-biden-told-congress-white-supremacy-terrorism-during-speech/4886343001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/04/29/USAT/0bbcefca-2b66-4bb1-b574-9a1034977d49-VPC_BIDEN_ON_WHITE_SUPREMACY_DESK.00_01_06_07.Still003.jpg?quality=10",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-29T06:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-04-29-hear-trumps-response-to-the-fbis-raid-of-rudy-giuliani.md",
-      "title": "Hear Trump's response to the FBI's raid of Rudy Giuliani",
-      "excerpt": "Former President Donald Trump reacts in a Fox Business interview after federal investigators executed a search warrant at the home and office of Rudy Giuliani.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Qj3ThxS9z_0/donald-trump-reacts-rudy-giuliani-fbi-raid-newday-vpx.cnn",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Qj3ThxS9z_0/donald-trump-reacts-rudy-giuliani-fbi-raid-newday-vpx.cnn",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 255,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/180731112944-01-trump-with-giuliani-file-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/videos/politics/2021/04/29/donald-trump-reacts-rudy-giuliani-fbi-raid-newday-vpx.cnn",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/04/29/donald-trump-reacts-rudy-giuliani-fbi-raid-newday-vpx.cnn",
-      "publishedDateTime": "2021-04-29T06:21:32-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

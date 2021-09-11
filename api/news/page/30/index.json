@@ -2,6 +2,166 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2021-07-07-in-illinois-biden-to-push-money-for-families-and-child-care.md",
+      "title": "In Illinois, Biden to push money for families and child care",
+      "excerpt": "President Joe Biden is turning his focus to pitching his proposed investments in families and education, using a visit to a community college in a key Illinois swing district to highlight how his spending on so-called human infrastructure would boost the economy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/in-illinois-biden-to-push-money-for-families-and-child-care/2021/07/07/751e9afc-df03-11eb-a27f-8b294930e95b_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/in-illinois-biden-to-push-money-for-families-and-child-care/2021/07/07/751e9afc-df03-11eb-a27f-8b294930e95b_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 365,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ODUJAZG7AMI6XIT7RMUUSMHJLM.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/in-illinois-biden-to-push-money-for-families-and-child-care/2021/07/07/751e9afc-df03-11eb-a27f-8b294930e95b_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/in-illinois-biden-to-push-money-for-families-and-child-care/2021/07/07/751e9afc-df03-11eb-a27f-8b294930e95b_story.html?outputType=amp",
+      "publishedDateTime": "2021-07-07T01:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-07-07-lindsey-graham-amazed-at-how-badly-bidens-first-six-months-have-been.md",
+      "title": "Lindsey Graham 'amazed at how badly' Biden's first six months have been",
+      "excerpt": "South Carolina Sen. Lindsey Graham told reporters Tuesday he was “amazed at how badly” the first six months of the Biden administration has been for the U.S.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/qRu39j-uavk/lindsey-graham-amazed-at-how-badly-bidens-first-six-months-have-been",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/qRu39j-uavk/lindsey-graham-amazed-at-how-badly-bidens-first-six-months-have-been",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d0d8d343-77f3-4ad6-bd1a-c04ecad07862/2046e61b-479e-43b3-bf29-896fac829fb1/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/lindsey-graham-amazed-at-how-badly-bidens-first-six-months-have-been.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lindsey-graham-amazed-at-how-badly-bidens-first-six-months-have-been.amp",
+      "publishedDateTime": "2021-07-06T18:15:50-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-07-biden-says-democracy-did-prevail-on-six-month-anniversary-of-capitol-riots.md",
+      "title": "Biden Says 'Democracy Did Prevail' On Six-Month Anniversary of Capitol Riots",
+      "excerpt": "Democratic President Joe Biden issued a statement on the six-month anniversary of the January 6 Capitol riots. In the statement he said that \"democracy did prevail.\" \"While it shocked and saddened the nation and the world,",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/biden-says-democracy-did-prevail-six-month-anniversary-capitol-riots-1607364",
+      "originalUrl": "https://www.newsweek.com/biden-says-democracy-did-prevail-six-month-anniversary-capitol-riots-1607364",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 142,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1838952/joe-biden-capitol-riots-statement-democracy-prevailed.jpg",
+          "width": 3337,
+          "height": 2500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/biden-says-democracy-did-prevail-six-month-anniversary-capitol-riots-1607364?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/biden-says-democracy-did-prevail-six-month-anniversary-capitol-riots-1607364?amp=1",
+      "publishedDateTime": "2021-07-06T16:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-07-06-biden-and-harris-to-focus-on-voting-rights-thursday-expand-dnc-program.md",
       "title": "Biden and Harris to focus on voting rights Thursday, expand DNC program ",
       "excerpt": "President Joe Biden and Vice President Kamala Harris will hold separate events Thursday to focus attention on Democratic efforts to combat voter suppression and protect voting rights nationwide, Democratic officials tell CNN.\n    \n",
@@ -1157,162 +1317,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-05-trump-endorsed-greg-abbott-gets-gop-challenger-for-texas-governor-who-is-allen-west.md",
-      "title": "Trump-Endorsed Greg Abbott Gets GOP Challenger for Texas Governor. Who Is Allen West?",
-      "excerpt": "West said \"the sovereignty of Texas\" is at risk from illegal immigration, and he's interested in going after banks laundering money for drug cartels.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/trump-endorsed-greg-abbott-gets-gop-challenger-texas-governor-who-allen-west-1606758",
-      "originalUrl": "https://www.newsweek.com/trump-endorsed-greg-abbott-gets-gop-challenger-texas-governor-who-allen-west-1606758",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 158,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1790063/republican-texas-allen-west-pushups-press-conference.jpg",
-          "width": 3000,
-          "height": 2184,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/trump-endorsed-greg-abbott-gets-gop-challenger-texas-governor-who-allen-west-1606758?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-endorsed-greg-abbott-gets-gop-challenger-texas-governor-who-allen-west-1606758?amp=1",
-      "publishedDateTime": "2021-07-04T13:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-05-clyburn-trump-could-be-called-to-testify-before-jan-6-panel.md",
-      "title": "Clyburn: Trump could be called to testify before Jan. 6 panel",
-      "excerpt": "House Majority Whip James Clyburn (D-S.C.) said Sunday that former President Trump could be called to testify before the new House select committee investigating the Jan.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/house/561534-clyburn-trump-could-be-called-to-testify-before-capitol-riot-panel",
-      "originalUrl": "https://thehill.com/homenews/house/561534-clyburn-trump-could-be-called-to-testify-before-capitol-riot-panel",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/clyburnjames_061721gn_lead.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/house/561534-clyburn-trump-could-be-called-to-testify-before-capitol-riot-panel?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/house/561534-clyburn-trump-could-be-called-to-testify-before-capitol-riot-panel?amp",
-      "publishedDateTime": "2021-07-04T12:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-05-mike-lindell-promises-cyber-symposium-on-election-fraud-will-change-history-reinstate-trump.md",
-      "title": "Mike Lindell Promises 'Cyber Symposium' on Election Fraud Will 'Change History,' Reinstate Trump",
-      "excerpt": "\"These three days in August are gonna change history…you can't change these packet captures, they're forever captured in time.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/mike-lindell-promises-cyber-symposium-election-fraud-will-change-history-reinstate-trump-1606755",
-      "originalUrl": "https://www.newsweek.com/mike-lindell-promises-cyber-symposium-election-fraud-will-change-history-reinstate-trump-1606755",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1837447/mike-lindell.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/mike-lindell-promises-cyber-symposium-election-fraud-will-change-history-reinstate-trump-1606755?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mike-lindell-promises-cyber-symposium-election-fraud-will-change-history-reinstate-trump-1606755?amp=1",
-      "publishedDateTime": "2021-07-04T12:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

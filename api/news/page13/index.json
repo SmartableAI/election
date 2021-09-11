@@ -2,6 +2,162 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-08-12-biden-forges-ahead-where-trump-and-obama-failed-on-infrastructure-and-afghanistan.md",
+      "title": "Biden forges ahead where Trump and Obama failed on infrastructure and Afghanistan",
+      "excerpt": "Every president since George W. Bush has said it's time to leave Afghanistan and turn to nation building at home.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/LvOfikeAgF0/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/LvOfikeAgF0/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 1005,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210811142120-01-biden-0811-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/08/12/politics/joe-biden-donald-trump-barack-obama-afghanistan-infrastructure/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/08/12/politics/joe-biden-donald-trump-barack-obama-afghanistan-infrastructure/index.html",
+      "publishedDateTime": "2021-08-12T04:27:44-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-08-12-kamala-harris-invites-business-leaders-to-the-white-house-to-discuss-child-care.md",
+      "title": "Kamala Harris invites business leaders to the White House to discuss child care.",
+      "excerpt": "Executives from companies like Airbnb, Chobani, Etsy and Microsoft were invited in an effort to drum up support for a key pillar of President Biden's $3.5 trillion budget.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/08/12/business/kamala-harris-child-care-business.html",
+      "originalUrl": "https://www.nytimes.com/2021/08/12/business/kamala-harris-child-care-business.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 130,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/08/12/business/12econ-brf-whitehouse/12econ-brf-whitehouse-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/08/12/business/kamala-harris-child-care-business.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/08/12/business/kamala-harris-child-care-business.amp.html",
+      "publishedDateTime": "2021-08-12T01:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-08-12-trump-tax-cuts-saved-bloomberg-68-million-in-just-one-year.md",
+      "title": "Trump Tax Cuts Saved Bloomberg $68 Million in Just One Year",
+      "excerpt": "IRS records obtained by ProPublica show how the Trump tax cuts are a boon for many billionaires — even billionaires who called Trump a “clown.”",
+      "sourceUrl": null,
+      "webUrl": "https://nymag.com/intelligencer/2021/08/trump-tax-cuts-saved-bloomberg-usd68-million-in-just-one-year.html",
+      "originalUrl": "https://nymag.com/intelligencer/2021/08/trump-tax-cuts-saved-bloomberg-usd68-million-in-just-one-year.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://pyxis.nymag.com/v1/imgs/e7a/076/e01d163b08d4050e87e9ebc98d7134e95c-GettyImages-619826792.1x.rsocial.w1200.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nymag.com/intelligencer/amp/2021/08/trump-tax-cuts-saved-bloomberg-usd68-million-in-just-one-year.html",
+      "cdnAmpWebUrl": "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/08/trump-tax-cuts-saved-bloomberg-usd68-million-in-just-one-year.html",
+      "publishedDateTime": "2021-08-12T01:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Magazine",
+        "domain": "nymag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-08-12-joe-biden-put-his-foot-on-the-neck-of-the-energy-industry-now-he-wants-more-oil-salena-zito.md",
       "title": "Joe Biden 'put his foot on the neck' of the energy industry, now he wants more oil: Salena Zito",
       "excerpt": "Washington Examiner National Political Reporter Salena Zito criticized Joe Biden Wednesday for calling on OPEC to produce more oil as gas prices soar in the United States, saying what the president is doing is \"befuddling.",
@@ -1117,153 +1273,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/hunter-biden-relaxes-with-family-in-malibu-as-he-readies-for-high-priced-art-sale.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-relaxes-with-family-in-malibu-as-he-readies-for-high-priced-art-sale.amp",
       "publishedDateTime": "2021-08-09T18:50:09-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-10-trump-cant-say-hasta-la-vista-to-celebrity-apprentice.md",
-      "title": "Trump can’t say ‘Hasta la vista’ to ‘Celebrity Apprentice’",
-      "excerpt": "President Donald Trump can't seem to bring himself to say \"Hasta la vista, baby\" to \"Celebrity Apprentice.\" Twice in the past month, Trump, who once hosted the NBC reality TV show, has taken pot shots at the current host,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/article/entertainment-politics-donald-trump-reality-tv-celebrity-5f84cc92895c43988ae86485793c2d02",
-      "originalUrl": "https://apnews.com/article/entertainment-politics-donald-trump-reality-tv-celebrity-5f84cc92895c43988ae86485793c2d02",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/afs-prod/media/media:a7dd2932954c4bd5a98a8a1fcccfe5cb/3000.jpeg",
-          "width": 3000,
-          "height": 1994,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-09T17:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-08-10-trump-couture-ex-president-unveils-new-version-of-maga-hat-he-just-designed.md",
-      "title": "Trump couture: Ex-president unveils new version of MAGA hat he ‘just designed’",
-      "excerpt": "In an email to supporters, former President Donald Trump announced a new version of the “Make America Great Again” hats and claimed he had “just designed” it.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/08/09/trump-unveils-new-version-of-maga-hat-he-just-designed/",
-      "originalUrl": "https://nypost.com/2021/08/09/trump-unveils-new-version-of-maga-hat-he-just-designed/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/08/donald-trump-hat-21.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/08/09/trump-unveils-new-version-of-maga-hat-he-just-designed/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/09/trump-unveils-new-version-of-maga-hat-he-just-designed/amp/",
-      "publishedDateTime": "2021-08-09T16:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-09-az-attorney-general-scolds-biden-administration-for-releasing-covid-positive-migrants.md",
-      "title": "AZ Attorney General scolds Biden administration for releasing COVID-positive migrants",
-      "excerpt": "Arizona's attorney general penned a letter demanding the Biden administration halt releasing COVID-positive migrants",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5681Baq7HIQ/az-attorney-general-scolds-biden-administration-for-releasing-covid-positive-migrants",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5681Baq7HIQ/az-attorney-general-scolds-biden-administration-for-releasing-covid-positive-migrants",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 228,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/50517ce6-cb22-4701-85a7-061adf640228/d384ee59-b9ed-4310-a6a3-6cd19ec7dcf0/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/az-attorney-general-scolds-biden-administration-for-releasing-covid-positive-migrants.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/az-attorney-general-scolds-biden-administration-for-releasing-covid-positive-migrants.amp",
-      "publishedDateTime": "2021-08-09T15:03:11-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

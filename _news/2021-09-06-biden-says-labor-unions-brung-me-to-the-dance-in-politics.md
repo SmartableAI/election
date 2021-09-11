@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-union-labor-day-trip-delaware
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-union-labor-day-trip-delaware-electrical-workers.amp"
 type: article
 quality: 175
-heat: 255
+heat: 275
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 175
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0f80e07e-e3ce-44d0-bb29-fe6c8ebef418/f1c57749-b860-48ae-a29e-9e45b6f87854/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Biden DOJ appeals ruling that said DACA is unlawful"
+    excerpt: "The Biden administration is appealing a Texas court ruling that concluded the Obama-era Deferred Action for Childhood Arrivals policy is unconstitutional."
+    publishedDateTime: 2021-09-11T00:02:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/iRtL3RyLF_I/biden-doj-files-appeal-to-ruling-that-said-daca-is-unlawful"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-doj-files-appeal-to-ruling-that-said-daca-is-unlawful.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-doj-files-appeal-to-ruling-that-said-daca-is-unlawful.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/92b5bb6d-7b23-4f5f-b255-b2168efd1909/b2f57a60-dff2-412a-8349-8583c1bd381d/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true

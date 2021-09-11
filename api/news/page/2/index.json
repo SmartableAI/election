@@ -2,6 +2,148 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-09-10-donald-trump-getting-millions-and-millions-for-boxing-analyst-gig-report-says.md",
+      "title": "Donald Trump getting ‘millions and millions’ for boxing analyst gig, report says",
+      "excerpt": "Former President Donald Trump will serve as a commentator for Saturday's fight card at the Hard Rock Hotel & Casino in Hollywood, Florida.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nj.com/sports/2021/09/donald-trump-getting-millions-and-millions-for-boxing-analyst-gig-report-says.html",
+      "originalUrl": "https://www.nj.com/sports/2021/09/donald-trump-getting-millions-and-millions-for-boxing-analyst-gig-report-says.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/VA7TEMXULZBFRKEWICA5CC6JAA.jpg",
+          "width": 2569,
+          "height": 1713,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nj.com/sports/2021/09/donald-trump-getting-millions-and-millions-for-boxing-analyst-gig-report-says.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-nj-com.cdn.ampproject.org/c/s/www.nj.com/sports/2021/09/donald-trump-getting-millions-and-millions-for-boxing-analyst-gig-report-says.html?outputType=amp",
+      "publishedDateTime": "2021-09-09T11:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NJ.com",
+        "domain": "nj.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-09-09-trump-endorses-harriet-hageman-in-gop-primary-challenge-to-liz-cheney.md",
+      "title": "Trump endorses Harriet Hageman in GOP primary challenge to Liz Cheney",
+      "excerpt": "Former President Donald Trump has endorsed a Republican primary challenger to Wyoming Rep. Liz Cheney, a vocal critic of the former president who voted to impeach him earlier this year.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/yn3pu5i05Kc/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/yn3pu5i05Kc/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210908171145-harriet-hageman-2018-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/09/09/politics/trump-endorses-harriet-hageman-cheney-challenger/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/09/09/politics/trump-endorses-harriet-hageman-cheney-challenger/index.html",
+      "publishedDateTime": "2021-09-09T08:55:01-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-09-09-us-vice-president-kamala-harris-to-visit-hampton-university-on-friday-september-10.md",
+      "title": "U.S. Vice President Kamala Harris to Visit Hampton University on Friday, September 10",
+      "excerpt": "U.S. Vice President Kamala Harris will visit Hampton University on Friday, September 10, to recognize the contributions of HBCUs a",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/GlobeNewswire/kamala-harris-hampton-university-ea2f36913b333cebf7b3566e3d343498",
+      "originalUrl": "https://apnews.com/press-release/GlobeNewswire/kamala-harris-hampton-university-ea2f36913b333cebf7b3566e3d343498",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 218,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-09T08:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-09-09-donald-trump-endorses-oak-parks-kristina-karamo-for-secretary-of-state.md",
       "title": "Donald Trump endorses Oak Park’s Kristina Karamo for secretary of state",
       "excerpt": "Donald Trump has endorsed Kristina Karama for Michigan Secretary of State. In a statement, the former president said he highly respects the Oak Park resident and that she has his complete and total endorsement to run for “Secretary of State of the Great State of Michigan!",
@@ -110,7 +252,7 @@
       "originalUrl": "https://www.cbsnews.com/news/biden-trump-military-academy-board-appointees-spicer-conway/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 276,
+      "heat": 296,
       "tags": null,
       "images": [
         {
@@ -581,7 +723,7 @@
       "originalUrl": "https://www.cbsnews.com/news/solar-power-increase-tenfold-2035-40-percent-of-electricity/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 405,
+      "heat": 425,
       "tags": null,
       "images": [
         {
@@ -1143,158 +1285,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-09-08-fact-check-did-chinese-media-depict-joe-biden-as-loser-soldier-captured-by-taliban.md",
-      "title": "Fact Check: Did Chinese Media Depict Joe Biden as 'Loser' Soldier Captured by Taliban?",
-      "excerpt": "A cartoon of President Joe Biden surrendering to Taliban militants appeared on popular social media sites in the final days of the U.S. military withdrawal from Afghanistan. An illustration showing a giant figure of Biden—in military fatigues and kneeling on the ground while surrounded by smaller Taliban fighters—was said to have been produced by China 's state-owned media to mock America.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/fact-check-did-chinese-media-depict-joe-biden-loser-soldier-captured-taliban-1626732",
-      "originalUrl": "https://www.newsweek.com/fact-check-did-chinese-media-depict-joe-biden-loser-soldier-captured-taliban-1626732",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1889652/president-joe-biden-addresses-nation-afghanistan.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/fact-check-did-chinese-media-depict-joe-biden-loser-soldier-captured-taliban-1626732?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/fact-check-did-chinese-media-depict-joe-biden-loser-soldier-captured-taliban-1626732?amp=1",
-      "publishedDateTime": "2021-09-08T03:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-09-08-trump-announces-rallies-in-georgia-iowa-as-2024-speculation-mounts.md",
-      "title": "Trump announces rallies in Georgia, Iowa as 2024 speculation mounts",
-      "excerpt": "Former President Donald Trump will hold two more campaign-style rallies in the coming weeks, as speculation continues to grow that he will make yet another run for the White House in 2024.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/09/08/trump-to-hold-rallies-in-georgia-iowa-amid-rumors-of-2024-presidential-run/",
-      "originalUrl": "https://nypost.com/2021/09/08/trump-to-hold-rallies-in-georgia-iowa-amid-rumors-of-2024-presidential-run/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/09/AFP_9LP8WG.jpg?quality=90&strip=all&w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/09/08/trump-to-hold-rallies-in-georgia-iowa-amid-rumors-of-2024-presidential-run/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/09/08/trump-to-hold-rallies-in-georgia-iowa-amid-rumors-of-2024-presidential-run/amp/",
-      "publishedDateTime": "2021-09-08T01:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-09-08-donald-trump-son-to-provide-commentary-on-evander-holyfield-vitor-belfort-alternate-telecast.md",
-      "title": "Donald Trump, son to provide commentary on Evander Holyfield-Vitor Belfort alternate telecast",
-      "excerpt": "Former president Donald Trump has signed a contract to provide commentary on a \"gamecast\" of Saturday's boxing event headlined by Evander Holyfield vs. Vitor Belfort, Triller told ESPN. His son, Donald Trump Jr.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Sports/donald-trump-son-provide-commentary-evander-holyfield-vitor/story?id=79884415",
-      "originalUrl": "https://abcnews.go.com/Sports/donald-trump-son-provide-commentary-evander-holyfield-vitor/story?id=79884415",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 234,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/site/ABCNews_flat_black.png",
-          "width": 834,
-          "height": 308,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Sports/donald-trump-son-provide-commentary-evander-holyfield-vitor/story?id=79884415",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Sports/donald-trump-son-provide-commentary-evander-holyfield-vitor/story?id=79884415",
-      "publishedDateTime": "2021-09-07T17:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

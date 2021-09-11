@@ -2,6 +2,92 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-09-11-mike-pence-lies-about-everything-part-infinity.md",
+      "title": "Mike Pence Lies About Everything, Part Infinity",
+      "excerpt": "Former vice president Mike Pence tried to rewrite his own history on Fox and Friends about how his administration bungled the pandemic. We have the receipts.",
+      "sourceUrl": null,
+      "webUrl": "https://crooksandliars.com/2021/09/mike-pence-lies",
+      "originalUrl": "https://crooksandliars.com/2021/09/mike-pence-lies",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://crooksandliars.com/files/mediaposters/2021/09/48491.jpg",
+          "width": 1200,
+          "height": 672,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://crooksandliars.com/2021/09/mike-pence-lies/amp",
+      "cdnAmpWebUrl": "https://crooksandliars-com.cdn.ampproject.org/c/s/crooksandliars.com/2021/09/mike-pence-lies/amp",
+      "publishedDateTime": "2021-09-10T14:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crooks and Liars",
+        "domain": "crooksandliars.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-09-11-mike-pence-stands-with-anti-vaxxers.md",
+      "title": "Mike Pence Stands With Anti-Vaxxers",
+      "excerpt": "The former vice president lied about vaccines, public health, and more.",
+      "sourceUrl": null,
+      "webUrl": "https://crooksandliars.com/cltv/2021/09/mike-pence-stands-anti-vaxers",
+      "originalUrl": "https://crooksandliars.com/cltv/2021/09/mike-pence-stands-anti-vaxers",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://crooksandliars.com/files/mediaposters/2021/09/48491.jpg",
+          "width": 1200,
+          "height": 672,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://crooksandliars.com/cltv/2021/09/mike-pence-stands-anti-vaxers/amp",
+      "cdnAmpWebUrl": "https://crooksandliars-com.cdn.ampproject.org/c/s/crooksandliars.com/cltv/2021/09/mike-pence-stands-anti-vaxers/amp",
+      "publishedDateTime": "2021-09-10T14:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crooks and Liars",
+        "domain": "crooksandliars.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-09-10-political-experts-weigh-in-ahead-of-bidens-address-to-nation-on-911-no-one-wants-to-be-spun.md",
       "title": "Political experts weigh in ahead of Biden's address to nation on 9/11: 'No one wants to be spun'",
       "excerpt": "To mark 20 years since the 9/11 terror attacks, President Biden will address the nation and visit NYC, the Pentagon, and the memorial outside Shanksville, Pennsylvania.",
@@ -327,6 +413,49 @@
       ]
     },
     {
+      "path": "_news/2021-09-10-mike-pence-bidens-speech-was-unlike-anything-ive-ever-heard.md",
+      "title": "Mike Pence: Biden’s Speech Was Unlike Anything I’ve Ever Heard",
+      "excerpt": "WASHINGTON--When former Vice President Mike Pence was watching President Joe Biden’s coronavirus response speech Thursday, he called it “unlike anything he had ever heard from an American President.” “I mean,",
+      "sourceUrl": null,
+      "webUrl": "https://www.wibc.com/news/coronavirus/mike-pence-bidens-speech-was-unlike-anything-ive-ever-heard/",
+      "originalUrl": "https://www.wibc.com/news/coronavirus/mike-pence-bidens-speech-was-unlike-anything-ive-ever-heard/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/1317/2021/04/30103211/GettyImages-1232601211.jpg",
+          "width": 594,
+          "height": 396,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-10T08:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WIBC",
+        "domain": "wibc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-09-10-joe-biden-could-obliterate-tradition-and-pack-the-federal-election-commission-with-liberals-but-he-wont-take-the-dare.md",
       "title": "Joe Biden could obliterate tradition and 'pack' the Federal Election Commission with liberals. But he won't take the dare.",
       "excerpt": "Erase a decades-long détente between Democrats and Republicans and go his own way on political money.",
@@ -551,7 +680,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/2021/sep/10/joe-biden-vaccine-mandates-coronavirus-covid",
       "featuredContent": null,
       "highlight": null,
-      "heat": 265,
+      "heat": 285,
       "tags": null,
       "images": [
         {
@@ -1194,148 +1323,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-09-10-donald-trump-getting-millions-and-millions-for-boxing-analyst-gig-report-says.md",
-      "title": "Donald Trump getting ‘millions and millions’ for boxing analyst gig, report says",
-      "excerpt": "Former President Donald Trump will serve as a commentator for Saturday's fight card at the Hard Rock Hotel & Casino in Hollywood, Florida.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nj.com/sports/2021/09/donald-trump-getting-millions-and-millions-for-boxing-analyst-gig-report-says.html",
-      "originalUrl": "https://www.nj.com/sports/2021/09/donald-trump-getting-millions-and-millions-for-boxing-analyst-gig-report-says.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/VA7TEMXULZBFRKEWICA5CC6JAA.jpg",
-          "width": 2569,
-          "height": 1713,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nj.com/sports/2021/09/donald-trump-getting-millions-and-millions-for-boxing-analyst-gig-report-says.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-nj-com.cdn.ampproject.org/c/s/www.nj.com/sports/2021/09/donald-trump-getting-millions-and-millions-for-boxing-analyst-gig-report-says.html?outputType=amp",
-      "publishedDateTime": "2021-09-09T11:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NJ.com",
-        "domain": "nj.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-09-09-trump-endorses-harriet-hageman-in-gop-primary-challenge-to-liz-cheney.md",
-      "title": "Trump endorses Harriet Hageman in GOP primary challenge to Liz Cheney",
-      "excerpt": "Former President Donald Trump has endorsed a Republican primary challenger to Wyoming Rep. Liz Cheney, a vocal critic of the former president who voted to impeach him earlier this year.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/yn3pu5i05Kc/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/yn3pu5i05Kc/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210908171145-harriet-hageman-2018-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/09/09/politics/trump-endorses-harriet-hageman-cheney-challenger/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/09/09/politics/trump-endorses-harriet-hageman-cheney-challenger/index.html",
-      "publishedDateTime": "2021-09-09T08:55:01-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-09-09-us-vice-president-kamala-harris-to-visit-hampton-university-on-friday-september-10.md",
-      "title": "U.S. Vice President Kamala Harris to Visit Hampton University on Friday, September 10",
-      "excerpt": "U.S. Vice President Kamala Harris will visit Hampton University on Friday, September 10, to recognize the contributions of HBCUs a",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/globe-newswire/kamala-harris-hampton-university-ea2f36913b333cebf7b3566e3d343498",
-      "originalUrl": "https://apnews.com/press-release/globe-newswire/kamala-harris-hampton-university-ea2f36913b333cebf7b3566e3d343498",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 218,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-09T08:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
       ]
     }
   ],

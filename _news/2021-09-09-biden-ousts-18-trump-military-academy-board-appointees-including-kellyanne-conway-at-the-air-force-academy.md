@@ -76,6 +76,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Mike Pence tears into Biden's COVID speech"
+    excerpt: "Mike Pence on Friday tore into the tone of President Joe Biden's COVID speech, while blaming the current president and vice president for some Americans' vaccine hesitancy."
+    publishedDateTime: 2021-09-10T17:21:00Z
+    webUrl: "https://www.dailymail.co.uk/news/article-9977535/Mike-Pence-tears-Bidens-COVID-speech.html"
+    ampWebUrl: "https://www.dailymail.co.uk/news/article-9977535/amp/Mike-Pence-tears-Bidens-COVID-speech.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-9977535/amp/Mike-Pence-tears-Bidens-COVID-speech.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 90
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2021/09/10/14/47750315-0-image-a-36_1631281576175.jpg"
+        width: 636
+        height: 382
+        isCached: true
   - title: "Lying Joe Biden, from comedy to tragedy"
     excerpt: "How could a comic figure from the world of politics such as President Joe Biden suddenly become such a tragic figure on the American scene?"
     publishedDateTime: 2021-09-07T19:18:00Z

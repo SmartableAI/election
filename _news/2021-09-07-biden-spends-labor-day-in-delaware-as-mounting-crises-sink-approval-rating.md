@@ -60,6 +60,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden DOJ appeals ruling that said DACA is unlawful"
+    excerpt: "The Biden administration is appealing a Texas court ruling that concluded the Obama-era Deferred Action for Childhood Arrivals policy is unconstitutional."
+    publishedDateTime: 2021-09-11T00:02:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/iRtL3RyLF_I/biden-doj-files-appeal-to-ruling-that-said-daca-is-unlawful"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-doj-files-appeal-to-ruling-that-said-daca-is-unlawful.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-doj-files-appeal-to-ruling-that-said-daca-is-unlawful.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/92b5bb6d-7b23-4f5f-b255-b2168efd1909/b2f57a60-dff2-412a-8349-8583c1bd381d/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Biden violating his campaign pledge, 'politicizing' DOJ to do his bidding, legal experts warn"
     excerpt: "President Biden is facing harsh criticism from legal experts and elected officials for violating his campaign promise to keep the Department of Justice (DOJ) non-political, after he directed the department to pursue politically charged lawsuits against Republican-led states. "
     publishedDateTime: 2021-09-09T19:00:07Z

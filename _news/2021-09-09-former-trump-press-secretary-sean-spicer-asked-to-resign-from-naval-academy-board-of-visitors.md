@@ -73,6 +73,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Mike Pence tears into Biden's COVID speech"
+    excerpt: "Mike Pence on Friday tore into the tone of President Joe Biden's COVID speech, while blaming the current president and vice president for some Americans' vaccine hesitancy."
+    publishedDateTime: 2021-09-10T17:21:00Z
+    webUrl: "https://www.dailymail.co.uk/news/article-9977535/Mike-Pence-tears-Bidens-COVID-speech.html"
+    ampWebUrl: "https://www.dailymail.co.uk/news/article-9977535/amp/Mike-Pence-tears-Bidens-COVID-speech.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-9977535/amp/Mike-Pence-tears-Bidens-COVID-speech.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 90
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2021/09/10/14/47750315-0-image-a-36_1631281576175.jpg"
+        width: 636
+        height: 382
+        isCached: true
   - title: "Biden ousts 18 Trump military academy board appointees, including Kellyanne Conway at the Air Force Academy"
     excerpt: "The Biden administration on Wednesday removed 18 appointees named to U.S. military academy boards by Donald Trump in the final months of the Republican president’s term in office, according"
     publishedDateTime: 2021-09-09T01:30:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/03/joe-biden-repub
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/03/joe-biden-republicans-covid-coronavirus-politics-latest-updates"
 type: article
 quality: 125
-heat: 885
+heat: 905
 published: true
 
 provider:
@@ -499,6 +499,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998031001/f9f31e34-3a02-410c-8cb9-a9861bd8215e/f8ee1dac-e7db-460c-ac52-9de660aa28d7/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Joe Biden's COVID-19 vaccine mandate for workers draws support, ire"
+    excerpt: "The response to President Joe Biden's COVID-19 vaccine requirement -- which mandates inoculation for federal workers and contractors, and sets rules for private companies -- has been met with support and criticism."
+    publishedDateTime: 2021-09-10T15:48:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2021/09/10/joe-biden-covid-vaccine-mandate/3351631285578/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/09/10/joe-biden-covid-vaccine-mandate/3351631285578/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/09/10/joe-biden-covid-vaccine-mandate/3351631285578/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 75
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/3351631285578/2021/1/dcb090a41beca2fddbdba5dd981fa0a1/v1.5/Joe-Bidens-COVID-19-vaccine-mandate-for-workers-draws-support-ire.jpg"
+        width: 800
+        height: 532
         isCached: true
   - title: "Stimulus check update: President Joe Biden leaves door open to 4th payment"
     excerpt: "Some lawmakers are pushing for a fourth round of coronavirus stimulus checks. So are more than 2 million Americans."

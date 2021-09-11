@@ -152,6 +152,20 @@ related:
       name: The Denver Post
       domain: denverpost.com
     quality: 55
+  - title: "President Joe Biden Boards Marine One to Travel to New York"
+    excerpt: "U.S. President Joe Biden walks to Marine One to depart to Joint Base Andrews, then onto New York City from the White House in Washington, DC on Friday, September 10, 2021. President Biden will travel to New York,"
+    publishedDateTime: 2021-09-11T01:15:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/10a914f2af969c7ca829a9438d57046e/President-Joe-Biden-Boards-Marine-One-to-Travel-to-New-York/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/10a914f2af969c7ca829a9438d57046e/BIDEN-BOARDS-MARINE-ONE.jpg"
+        width: 650
+        height: 433
+        isCached: true
   - title: "President Joe Biden to visit Sacramento amid California wildfires, Gavin Newsom recall"
     excerpt: "President Joe Biden will visit Sacramento next week to survey wildfire damage and then travel to Long Beach to campaign with Gov. Gavin Newsom against the recall election, the White House said Thursday."
     publishedDateTime: 2021-09-09T17:15:00Z

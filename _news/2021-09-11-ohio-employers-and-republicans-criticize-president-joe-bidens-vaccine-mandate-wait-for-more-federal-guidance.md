@@ -89,6 +89,20 @@ related:
         width: 640
         height: 427
         isCached: true
+  - title: "Pence tears into Biden following vaccine mandate: ‘Unlike anything I’d ever heard’ from a US president"
+    excerpt: "\"To have the president of the United States say that he has been patient but his patience is wearing thin,\" Pence said."
+    publishedDateTime: 2021-09-10T17:56:00Z
+    webUrl: "https://www.bizpacreview.com/2021/09/10/pence-tears-into-biden-following-vaccine-mandate-unlike-anything-id-ever-heard-from-a-us-president-1132546/"
+    type: article
+    provider:
+      name: BizPac Review
+      domain: bizpacreview.com
+    quality: 54
+    images:
+      - url: "https://www.bizpacreview.com/wp-content/uploads/2021/01/SG-Mike-Pence-1200x630.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "‘Have at it’: Joe Biden goads GOP Governors over threatened vaccine mandate suits"
     excerpt: "President Joe Biden continued on Friday to goad Republican Governors resisting COVID-19 vaccine mandates he rolled out the day before. When asked about them being challenged in court by a reporter at a Washington D."
     publishedDateTime: 2021-09-10T15:33:00Z
@@ -127,6 +141,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "ltysdeUR+sHty2RkjvRksJuSFu5779ARmYA1gSPdNgmVCPFA7Wd7Fu5qdU3qfhF/BLfnJEuFaORZzRTDKMhVyvHBGQHsG2RzvCCHo49t7Uo1qXNijMeXgjUE7aChLfBO/jVebV2chdm1FedCzlt+hhrHcTr52V9YLhxQ8l/jNYukf01ykkKHHnVA7xZnLAwkFQZTdYsoRWITvBrKBHbiIacVEzLuWKz013IVJk4Fl1ufM3yncH+Ehb12eTv7AkSu+jgGdGfD6K1QUA+nXT4+B3RPDAaXB+P8K0AVICGv/hco1U1cpz9gdGGBMV/X4IBFFWONRZS8RKqr+/RAHt7H4eLkx6xOuFOFGWWarEp/13g=;Oy0dpf191A1LwvuY6617Gw=="
+secured: "VUnuczLMknYS3n4fac8AGj8MwLqbSausMVAa0P/rCPEWgrlLVSi1x0aLSRLWnMJDj8xQcx4AYspYfceoOMDHW9nGPca87KJ2UHgcS9qDDCIXp6QYk9rnBwPfMckR4zHu3+u+g5WNzqIwlYZ/JTphrPitqhdb2EafcmCtjUTcWAHEWnAyfExU7UTd4BwDp17ho76ejkG4E7b9z9IiTRpoHF0vYfFHS7rBR7VxpzZdeVSBzPpWWu4HJbPtJCOE/0x3wVsBPeWdcvCRZtiX27dkCmp6n7QBJJFEuMJKHGvpCA2H50NcVCYhVbGBAAcESd8oinfjBvsq3M42ds9IbalMzrA15wD9wuEccOTeFWYX9DItbcGb6iQNNJ28Nm1MrDSy0mzJTtPwqh4ZEQwXJDwf5cv0P3ZwcxS7M+Nc0UYWGBX5lPVvYRTUxMGF4PEQiSv7qAQSRtJ0uVtqcQ5TlaokxGUAzT32p18yo3Qc8H6F/5zFOFPdwj2v/LkHL0OeCTXU64fNff7xJj3ygp+unMBVrg==;apLDn3wspn3jy8ccv2rzPw=="
 ---
 

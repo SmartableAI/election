@@ -2,6 +2,166 @@
   "page": 48,
   "value": [
     {
+      "path": "_news/2021-06-03-jill-biden-gets-delaware-beach-day-for-her-70th-birthday.md",
+      "title": "Jill Biden gets Delaware beach day for her 70th birthday",
+      "excerpt": "The trip was a rare midweek getaway from the White House by a president. It also was Biden's first visit to the couple's vacation home since he took office in January.",
+      "sourceUrl": null,
+      "webUrl": "https://www.latimes.com/politics/story/2021-06-03/jill-biden-birthday-delaware-beach-day",
+      "originalUrl": "https://www.latimes.com/politics/story/2021-06-03/jill-biden-birthday-delaware-beach-day",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 605,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ca-times.brightspotcdn.com/dims4/default/1b46bff/2147483647/strip/true/crop/3619x2364+0+25/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F83%2F8d%2F49ba68437eface87637124193ea2%2F5189605cb4724ba8a4dd8ff54178610c",
+          "width": 320,
+          "height": 209,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.latimes.com/politics/story/2021-06-03/jill-biden-birthday-delaware-beach-day?_amp=true",
+      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-06-03/jill-biden-birthday-delaware-beach-day?_amp=true",
+      "publishedDateTime": "2021-06-03T07:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Los Angeles Times",
+        "domain": "latimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-06-03-pence-returns-to-another-key-early-presidential-voting-state.md",
+      "title": "Pence returns to another key early presidential voting state",
+      "excerpt": "Mike Pence is returning to another key early presidential voting state as he's set to give a speech Thursday evening in New Hampshire",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/pence-returns-key-early-presidential-voting-state-78064289",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/pence-returns-key-early-presidential-voting-state-78064289",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/WireAP_3225d2202f634d0385c9d389a4cc92d9_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/pence-returns-key-early-presidential-voting-state-78064289",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/pence-returns-key-early-presidential-voting-state-78064289",
+      "publishedDateTime": "2021-06-03T07:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-06-03-biden-floats-bringing-down-infrastructure-price-tag-but-wants-gop-concessions.md",
+      "title": "Biden floats bringing down infrastructure price tag but wants GOP concessions",
+      "excerpt": "President Joe Biden met with Republican Sen. Shelley Moore Capito of West Virginia at the White House on Wednesday as part of ongoing discussions between his administration and the Senate GOP on infrastructure.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/hj7E-NIlVfU/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/hj7E-NIlVfU/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 332,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210531145551-01-biden-0527-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/02/politics/shelley-moore-capito-biden-meeting/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/02/politics/shelley-moore-capito-biden-meeting/index.html",
+      "publishedDateTime": "2021-06-03T05:52:07-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-03-biden-to-meet-with-queen-elizabeth-ii-at-windsor-castle-on-june-13.md",
       "title": "Biden to meet with Queen Elizabeth II at Windsor Castle on June 13",
       "excerpt": "President Biden and first lady Jill Biden are set to meet with Queen Elizabeth II at Windsor Castle during his trip to Europe next month for the G-7 summit, the palace said Thursday. ",
@@ -1174,174 +1334,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-01-biden-seemingly-blasts-sinema-manchin-for-voting-more-with-my-republican-friends.md",
-      "title": "Biden seemingly blasts Sinema, Manchin for 'voting more with my Republican friends'",
-      "excerpt": "President Biden laid blame on two Democratic senators for not passing voting rights legislation while speaking in Tulsa, Okla. on Tuesday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/KkNJroQDveg/biden-sinema-manchin-voting-republicans",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/KkNJroQDveg/biden-sinema-manchin-voting-republicans",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7c819f4d-29e3-40e1-a5eb-928bef64e622/7b993a18-9673-4ecf-a637-462dd7d51236/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-sinema-manchin-voting-republicans.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-sinema-manchin-voting-republicans.amp",
-      "publishedDateTime": "2021-06-01T16:41:26-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-01-doj-seeks-dismissal-of-case-by-aclu-blm-against-trump-barr-for-clearing-lafayette-park.md",
-      "title": "DOJ seeks dismissal of case by ACLU, BLM against Trump, Barr for clearing Lafayette Park",
-      "excerpt": "Tuesday marks one year since the controversial clearing of Lafayette Square protesters before President Trump visited St. John’s Church, and Department of Justice (DOJ) lawyers have requested a federal judge toss out cases against former President Trump, former Attorney General Bill Barr and other Trump-era",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-4QeX3236BY/doj-dismissal-aclu-blm-trump-barr-clearing-lafayette-park",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-4QeX3236BY/doj-dismissal-aclu-blm-trump-barr-clearing-lafayette-park",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 226,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/720/405/Lafayette-Park.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/doj-dismissal-aclu-blm-trump-barr-clearing-lafayette-park.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/doj-dismissal-aclu-blm-trump-barr-clearing-lafayette-park.amp",
-      "publishedDateTime": "2021-06-01T14:20:56-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-01-fact-checking-sidney-powells-claim-trump-could-be-reinstated.md",
-      "title": "Fact-checking Sidney Powell's claim Trump could be reinstated",
-      "excerpt": "Months into President Joe Biden's first term, supporters of former President Donald Trump are still touting the \"big lie\" that Trump actually won the 2020 election. One of the prominent supporters of these theories is Trump's former lawyer Sidney Powell, who is facing a $1.3 billion defamation lawsuit",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/J5FpAVwaiHA/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/J5FpAVwaiHA/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 415,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201123162610-sidney-powell-1119-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/01/politics/powell-trump-inauguration-fact-check/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/01/politics/powell-trump-inauguration-fact-check/index.html",
-      "publishedDateTime": "2021-06-01T13:49:25-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],
