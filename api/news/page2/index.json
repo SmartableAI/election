@@ -2,6 +2,62 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-09-09-trump-backs-candidate-in-crowded-wyoming-gop-house-primary-in-push-to-oust-cheney-from-congress.md",
+      "title": "Trump backs candidate in crowded Wyoming GOP House primary in push to oust Cheney from Congress",
+      "excerpt": "Stepping up his efforts to knock Republican Rep. Liz Cheney out of Congress, former President Trump on Thursday took sides in the House GOP primary in Wyoming.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Iz0eQY0B7uE/trump-wyoming-house-endorsement-liz-cheney-challenger",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Iz0eQY0B7uE/trump-wyoming-house-endorsement-liz-cheney-challenger",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 163,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-wyoming-house-endorsement-liz-cheney-challenger.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-wyoming-house-endorsement-liz-cheney-challenger.amp",
+      "publishedDateTime": "2021-09-09T11:51:10-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-09-09-biden-to-campaign-for-california-gov-gavin-newsom-day-before-recall-election.md",
       "title": "Biden to campaign for California Gov. Gavin Newsom day before recall election",
       "excerpt": "California Gov. Gavin Newsom's campaign announced Thursday that the day before the state's gubernatorial recall election, President Biden will join Newsom at a rally in Long Beach.",
@@ -161,8 +217,8 @@
       "title": "U.S. Vice President Kamala Harris to Visit Hampton University on Friday, September 10",
       "excerpt": "U.S. Vice President Kamala Harris will visit Hampton University on Friday, September 10, to recognize the contributions of HBCUs a",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/globe-newswire/kamala-harris-hampton-university-ea2f36913b333cebf7b3566e3d343498",
-      "originalUrl": "https://apnews.com/press-release/globe-newswire/kamala-harris-hampton-university-ea2f36913b333cebf7b3566e3d343498",
+      "webUrl": "https://apnews.com/press-release/GlobeNewswire/kamala-harris-hampton-university-ea2f36913b333cebf7b3566e3d343498",
+      "originalUrl": "https://apnews.com/press-release/GlobeNewswire/kamala-harris-hampton-university-ea2f36913b333cebf7b3566e3d343498",
       "featuredContent": null,
       "highlight": null,
       "heat": 218,
@@ -1237,62 +1293,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-09-08-gold-star-mom-invites-trump-to-sons-funeral-would-be-such-an-honor.md",
-      "title": "Gold Star mom invites Trump to son's funeral: 'Would be such an honor'",
-      "excerpt": "A California Gold Star mother whose Marine son was killed in last month’s ISIS suicide terror attack outside Kabul’s international airport invited former President Trump to her child’s funeral, writing on Facebook that “[i]t would be such an honor” if he could be there.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ecpP8vhOKCY/mom-invites-trump-sons-funeral-honor",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ecpP8vhOKCY/mom-invites-trump-sons-funeral-honor",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 215,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b8170602-a7b7-4573-b8cb-b65b69a3d703/ae6557dc-bd9e-41d6-9033-898ec939eb36/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/mom-invites-trump-sons-funeral-honor.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mom-invites-trump-sons-funeral-honor.amp",
-      "publishedDateTime": "2021-09-08T07:16:23-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

@@ -2,6 +2,62 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-06-17-arizona-sheriff-says-no-distinct-border-changes-from-biden-administration-despite-sec-mayorkas-meetings.md",
+      "title": "Arizona sheriff says 'no distinct' border changes from Biden administration despite Sec. Mayorkas meetings",
+      "excerpt": "An Arizona sheriff says there have been no changes in policy, messaging or results from the Biden administration on the crisis at the southern border -- despite multiple meetings between sheriffs and Homeland Security Secretary Alejandro Mayorkas.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vEzJrhg8Ras/arizona-sheriff-border-changes-biden-mayorkas",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vEzJrhg8Ras/arizona-sheriff-border-changes-biden-mayorkas",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/abac2688-257e-4275-af2e-a3d4b1e197ec/97c79c78-24d2-437e-a39f-1696bc5f8bfe/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/arizona-sheriff-border-changes-biden-mayorkas.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/arizona-sheriff-border-changes-biden-mayorkas.amp",
+      "publishedDateTime": "2021-06-17T13:00:55-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-17-white-house-cheers-supreme-court-obamacare-decision-with-nod-to-bidens-big-f-deal-hot-mic-comment.md",
       "title": "White House cheers Supreme Court ObamaCare decision with nod to Biden's 'big f--- deal' hot mic comment",
       "excerpt": "The White House cheered the U.S. Supreme Court’s decision to uphold Obamacare, with a nod at President Biden’s 2010 “big f**king deal” reaction to then-President Obama signing the Affordable Care Act into law.",
@@ -1579,62 +1635,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/putin-trump-extraordinary-individual-biden-career-man.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/putin-trump-extraordinary-individual-biden-career-man.amp",
       "publishedDateTime": "2021-06-11T17:38:50-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-11-migrant-childrens-flights-prompt-iowa-tennessee-governors-to-demand-answers-from-biden-administration.md",
-      "title": "Migrant childrens' flights prompt Iowa, Tennessee governors to demand answers from Biden administration",
-      "excerpt": "The governors of Iowa and Tennessee are calling for hearings into what they describe as a lack of transparency from the Biden administration about the transportation of unaccompanied migrant children into their states.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/g3WBUAu-q0g/tennessee-iowa-child-migrant-flights",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/g3WBUAu-q0g/tennessee-iowa-child-migrant-flights",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/41ef6126-d339-4ab8-b892-902c1d90189a/ea2f9116-2659-46fa-8b52-f4952bf3e2ff/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/tennessee-iowa-child-migrant-flights.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tennessee-iowa-child-migrant-flights.amp",
-      "publishedDateTime": "2021-06-11T14:16:32-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

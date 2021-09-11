@@ -2,6 +2,62 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-09-08-gold-star-mom-invites-trump-to-sons-funeral-would-be-such-an-honor.md",
+      "title": "Gold Star mom invites Trump to son's funeral: 'Would be such an honor'",
+      "excerpt": "A California Gold Star mother whose Marine son was killed in last month’s ISIS suicide terror attack outside Kabul’s international airport invited former President Trump to her child’s funeral, writing on Facebook that “[i]t would be such an honor” if he could be there.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ecpP8vhOKCY/mom-invites-trump-sons-funeral-honor",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ecpP8vhOKCY/mom-invites-trump-sons-funeral-honor",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 215,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b8170602-a7b7-4573-b8cb-b65b69a3d703/ae6557dc-bd9e-41d6-9033-898ec939eb36/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/mom-invites-trump-sons-funeral-honor.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mom-invites-trump-sons-funeral-honor.amp",
+      "publishedDateTime": "2021-09-08T07:16:23-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-09-08-trump-fueled-by-stress-and-looking-younger-at-75-don-jr-says.md",
       "title": "Trump ‘fueled by stress’ and looking younger at 75, Don Jr. says",
       "excerpt": "The secret to former President Donald Trump looking good at 75? Agita. Donald Trump Jr. said “stress fuels him” and pointed out that his father has had to take “more crap than",
@@ -1237,49 +1293,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-09-06-trumps-long-campaign-to-steal-the-presidency-a-timeline.md",
-      "title": "Trump’s Long Campaign to Steal the Presidency: A Timeline",
-      "excerpt": "The insurrection wasn’t a one-day event. It was the culmination of a multifaceted, yearslong plot — and it isn’t over.",
-      "sourceUrl": null,
-      "webUrl": "https://nymag.com/intelligencer/article/trump-campaign-steal-presidency-timeline.html",
-      "originalUrl": "https://nymag.com/intelligencer/article/trump-campaign-steal-presidency-timeline.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://pyxis.nymag.com/v1/imgs/0c7/d7c/20a3acd661e5113bfd8825a177d26a0649-trump-steal-01.1x.rsocial.w1200.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nymag.com/intelligencer/amp/article/trump-campaign-steal-presidency-timeline.html",
-      "cdnAmpWebUrl": "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/article/trump-campaign-steal-presidency-timeline.html",
-      "publishedDateTime": "2021-09-05T13:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Magazine",
-        "domain": "nymag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

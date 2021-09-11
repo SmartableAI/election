@@ -2,6 +2,63 @@
   "page": 72,
   "value": [
     {
+      "path": "_news/2021-04-12-old-trump-health-team-rivalries-resurface-in-texas-house-race.md",
+      "title": "Old Trump health team rivalries resurface in Texas House race",
+      "excerpt": "A senior Trump health official’s bid to become the first administration alumnus elected to Congress is running into resistance from an unlikely source: his own former colleagues. Brian Harrison, a chief of staff to former Health and Human Services ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2021/04/12/trump-health-texas-house-race-480689",
+      "originalUrl": "https://www.politico.com/news/2021/04/12/trump-health-texas-house-race-480689",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/9f/95/6083ce4d4093a63bafe1c7155074/gettyimages-906623620-1.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.com/amp/news/2021/04/12/trump-health-texas-house-race-480689",
+      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/04/12/trump-health-texas-house-race-480689",
+      "publishedDateTime": "2021-04-12T01:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-12-stephen-colbert-on-donald-trumps-one-saving-grace.md",
       "title": "Stephen Colbert on Donald Trump's \"one saving grace\"",
       "excerpt": "The \"Late Show\" host tells \"Face the Nation\" what he thinks of the outspoken businessman who has dominated the 2016 Republican presidential primary.",
@@ -1305,58 +1362,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-10-casey-urlacher-following-trump-pardon-claims-victory-as-write-in-candidate-in-mettawa-mayors-race.md",
-      "title": "Casey Urlacher, following Trump pardon, claims victory as write-in candidate in Mettawa mayor’s race",
-      "excerpt": "He was pardoned by former President Donald Trump on Jan. 20, and became a write-in candidate. Between the two candidates, approximately $85,000 was raised. O’Connor said there are only 450 registered voters in the village. Results will not be final until ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.chicagotribune.com/suburbs/lake-county-news-sun/ct-lns-mettawa-mayor-st-0410-20210409-lzxyh6bus5bfrlt3beq3k65m44-story.html",
-      "originalUrl": "https://www.chicagotribune.com/suburbs/lake-county-news-sun/ct-lns-mettawa-mayor-st-0410-20210409-lzxyh6bus5bfrlt3beq3k65m44-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.chicagotribune.com/resizer/jpovwQp5Tsg1X_OddJ0dELjLLO8=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/EWNYX4JHJVAQZC3EQMEXF6QY6E.jpg",
-          "width": 1200,
-          "height": 921,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.chicagotribune.com/suburbs/lake-county-news-sun/ct-lns-mettawa-mayor-st-0410-20210409-lzxyh6bus5bfrlt3beq3k65m44-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/suburbs/lake-county-news-sun/ct-lns-mettawa-mayor-st-0410-20210409-lzxyh6bus5bfrlt3beq3k65m44-story.html?outputType=amp",
-      "publishedDateTime": "2021-04-09T15:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chicago Tribune",
-        "domain": "chicagotribune.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

@@ -2,6 +2,49 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-08-10-vp-harris-husband-to-represent-us-at-paralympic-games-in-tokyo.md",
+      "title": "VP Harris' husband to represent US at Paralympic Games in Tokyo",
+      "excerpt": "About 4,400 athletes with physical disabilities from 160 countries will compete in more than 20 sporting events under strict public health measures.",
+      "sourceUrl": null,
+      "webUrl": "https://www.11alive.com/article/sports/olympics/doug-emhoff-represent-us-at-paralympic-games/507-e8a7098a-0411-4cd0-8d00-99bc23bf759c",
+      "originalUrl": "https://www.11alive.com/article/sports/olympics/doug-emhoff-represent-us-at-paralympic-games/507-e8a7098a-0411-4cd0-8d00-99bc23bf759c",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.11alive.com/assets/CCT/images/14f5a6dc-2338-4ed0-ba93-64bf5799ffd3/14f5a6dc-2338-4ed0-ba93-64bf5799ffd3_1140x641.jpg",
+          "width": 1140,
+          "height": 641,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.11alive.com/amp/article/sports/olympics/doug-emhoff-represent-us-at-paralympic-games/507-e8a7098a-0411-4cd0-8d00-99bc23bf759c",
+      "cdnAmpWebUrl": "https://www-11alive-com.cdn.ampproject.org/c/s/www.11alive.com/amp/article/sports/olympics/doug-emhoff-represent-us-at-paralympic-games/507-e8a7098a-0411-4cd0-8d00-99bc23bf759c",
+      "publishedDateTime": "2021-08-10T07:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "11Alive",
+        "domain": "11alive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-08-10-hunter-biden-relaxes-with-family-in-malibu-as-he-readies-for-high-priced-art-sale-see-the-photos.md",
       "title": "Hunter Biden relaxes with family in Malibu as he readies for high-priced art sale: See the photos",
       "excerpt": "President Joe Biden's son Hunter Biden was seen in Malibu Sunday afternoon with family and friends ahead of meeting with potential buyers of his controversial art.",
@@ -1235,62 +1278,6 @@
       "topics": [
         "Election",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-08-06-ohio-rep-bob-gibbs-seeks-articles-of-impeachment-against-biden.md",
-      "title": "Ohio Rep. Bob Gibbs seeks articles of impeachment against Biden",
-      "excerpt": "An Ohio congressman on Friday asked his GOP House colleagues to consider filing articles of impeachment against President Biden for an \"unconstitutional\" order to extend the eviction moratorium and for his \"dereliction\" of duty in securing the southern border. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/EhuY1KsVds4/ohio-bob-gibbs-articles-impeachment-biden",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/EhuY1KsVds4/ohio-bob-gibbs-articles-impeachment-biden",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 375,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/340/340/Marisa-Schultz.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/ohio-bob-gibbs-articles-impeachment-biden.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ohio-bob-gibbs-articles-impeachment-biden.amp",
-      "publishedDateTime": "2021-08-06T13:15:32-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

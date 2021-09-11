@@ -3,8 +3,8 @@ category: news
 title: "President Joe Biden Boards Marine One to Travel to New York"
 excerpt: "U.S. President Joe Biden walks to Marine One to depart to Joint Base Andrews, then onto New York City from the White House in Washington, DC on Friday, September 10, 2021. President Biden will travel to New York,"
 publishedDateTime: 2021-09-11T01:15:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/10a914f2af969c7ca829a9438d57046e/President-Joe-Biden-Boards-Marine-One-to-Travel-to-New-York/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/10a914f2af969c7ca829a9438d57046e/President-Joe-Biden-Boards-Marine-One-to-Travel-to-New-York/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/880aa53d33f08a605130c404fbe7792c/President-Joe-Biden-Boards-Marine-One-to-Travel-to-New-York/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/880aa53d33f08a605130c404fbe7792c/President-Joe-Biden-Boards-Marine-One-to-Travel-to-New-York/"
 type: article
 quality: 55
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/10a914f2af969c7ca829a9438d57046e/BIDEN-BOARDS-MARINE-ONE.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/880aa53d33f08a605130c404fbe7792c/BIDEN-BOARDS-MARINE-ONE.jpg"
     width: 650
     height: 433
     isCached: true
@@ -203,6 +203,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "2oGdemI+N3dIThqK9Kaw6LlQnlI9RsE/IYJQVlu+8WmaTZH/Kf0L+JcGD29PC6Lqp52aQkuOIIteOaB9grJmSktXoXLtwnRkecmg6hDLNLx6kuhApDP2J+Z6a4fl6CfmNzwotoy1mGLh0/Ts3cmq4yJEMT7ziY3NvAhoqcwhTTxo0n845XULwd/EljcprYkskOU0iUMaWvLMTDl6LyWR6p/Lx8+xnhDSjWGIJYZhlGCMMi1+GfIYWhgMd3faNjHJtQ84APH+k5B4j8tyrblROTCTLgnErk7oir5kEHYeDUOKjGw4kWEvCYcVsxf94CkI8hhutDxxu41McTuNcOgdb60NuojhezMtU/GeOSPopDVMBJyaai5PJR/ZAEPe3ojHTZrVFRRYYVj0lkSNLj4djotXqBGQEyUhOsUc5t/V4E+WoSO6SAoEORUcu/51awtoYlg4EFBxU6gdgPLKxXOAlJ/lOvIxFkPJwDerJVpNJvrgXs6SihSSNi3eCNpJ/yy4gj/vgn3kSYgIIiszQLonGQ==;1nL5Bws9iBceVhWFslJhEw=="
+secured: "EWHn+6EWegxPQBOhBN3vLS2OrU7EeGnqPuvpWhHKX6BJH586ZW8YAyPOMZVgRc4iAmecHXtoNm5V1c7QTTXFfzpN4GK+Xo1Ei+EO3BB0js7yiR/C4GdjA6uMuRiXvfQVC5xCnziDVI4GnUenfY7KPNe1sTrgIcBhVau41hfe216aecwUSso7f7fN5ftug4hZ1V0BU/KTUzpA7bCXkCV8H0+T4wlU9Yeg7ZpxTiBIRo+f4eue/C6Xdij9JRFVVEwFc7Y1D7sqk1ESGVtWxjVcjG5mgrsg5L84hxShLzuXZLblIY198rHoruNZxX4miPokXaQ8iA26mRnulsaWOQ6d6vg54EaaJ43nvNYzYF93tFA=;+UnnScTeNEuPulqL2gDcyA=="
 ---
 

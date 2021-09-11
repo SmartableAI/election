@@ -171,14 +171,14 @@ related:
   - title: "President Joe Biden Boards Marine One to Travel to New York"
     excerpt: "U.S. President Joe Biden walks to Marine One to depart to Joint Base Andrews, then onto New York City from the White House in Washington, DC on Friday, September 10, 2021. President Biden will travel to New York,"
     publishedDateTime: 2021-09-11T01:15:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/10a914f2af969c7ca829a9438d57046e/President-Joe-Biden-Boards-Marine-One-to-Travel-to-New-York/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/880aa53d33f08a605130c404fbe7792c/President-Joe-Biden-Boards-Marine-One-to-Travel-to-New-York/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/10a914f2af969c7ca829a9438d57046e/BIDEN-BOARDS-MARINE-ONE.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/880aa53d33f08a605130c404fbe7792c/BIDEN-BOARDS-MARINE-ONE.jpg"
         width: 650
         height: 433
         isCached: true
@@ -203,6 +203,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "ZKRNqLpDVIP7MUqwEG3MJvjFSswHNN3kvmjzn18pDYR36y/C4ej3SqkWmZHY23Q0cwOgPqRT0BFDLEOFHQfR3CawPSzMVurA73sox9Z1gbNs2gWWbeK4NITGVv0OROvgw3Mmtjyk1U6/wvyBUSs9U01cRBnN7OHh7N44L18kE4tiCnq0MVnh4v7A/VJqgETD53MmkFRdDNQzdibuM6/PyswAO3dtjYhGURjte/ou6REuqAXk9HxxEMvw/8FfpBM0KqV2WYieONrLzbc5iKfYZLOuTyw98d/NpSLP1fppKh14C6ARK7hBUzc/WqojQhKdxrOkHfzkxUoE2SS6bH4LOtykwCa/r1MtmxiWdTIZDFQ=;cUW2jhv/qz3Xx3mSRpxKEQ=="
+secured: "x38Pp28doWj46YpNiyHYQ2j+onFGacJoZ4cCDODOS1nIhg3fSAElkD1WKtSmNMbKVDGd5oqN66KpwEdD+dGPolTmt5cjmkLfLb98B4/o4bmQoMHaPzzGZsShalP/4UF/8id/9EfZbIYbYm0TgoMRHP7bosSXr+CA355AXsUMcZEyAZxuqFqNR768DkAWR2UyuINCWin0MhqkbPpMsCr5dpYNOZnblvzNMFT7DgqHgdmf9enDcTacUy48YYpeihF40vJB+wVhZos3zzmAwQT36vb5bhVI0ffhwr/XF95SVy6MCmt19TipnWacMBcP/8cnC1E9Ymlz17v2YI0JBBc3pWP04+hlx3B6ZPcSfGt6JZKqn4GuRv4lqjQZAERG9z+6Xi81TVAZX6RpMEAcucxYKtbm2BjDVrsWEMFOsKz1zacZ5trLNq49dQC9yUn5K0OTreP8yy7QlRuKFdXBXZPbGRcMTFpFOQYj2XBOAUORHzN2d6lPXJL/PQH6bEwhUTeGDdJ5RC02rZjEbpcg88TAfQ==;FFDOzuYJx+VLSmV0ORU5dQ=="
 ---
 

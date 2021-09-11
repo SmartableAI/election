@@ -3,8 +3,8 @@ category: news
 title: "U.S. Vice President Kamala Harris to Visit Hampton University on Friday, September 10"
 excerpt: "U.S. Vice President Kamala Harris will visit Hampton University on Friday, September 10, to recognize the contributions of HBCUs a"
 publishedDateTime: 2021-09-09T15:27:00Z
-originalUrl: "https://apnews.com/press-release/globe-newswire/kamala-harris-hampton-university-ea2f36913b333cebf7b3566e3d343498"
-webUrl: "https://apnews.com/press-release/globe-newswire/kamala-harris-hampton-university-ea2f36913b333cebf7b3566e3d343498"
+originalUrl: "https://apnews.com/press-release/GlobeNewswire/kamala-harris-hampton-university-ea2f36913b333cebf7b3566e3d343498"
+webUrl: "https://apnews.com/press-release/GlobeNewswire/kamala-harris-hampton-university-ea2f36913b333cebf7b3566e3d343498"
 type: article
 quality: 98
 heat: 218
@@ -109,6 +109,6 @@ related:
       domain: usnews.com
     quality: 29
 
-secured: "+WFfJH3Q0RskeMaVV/NxsewtsXZjnFNjkvJsqZIiy4Zmo3ZXIl7ZPzYPW2ZtU17bWy/0bezBGbdIbd2AyA0+iHZ+eSOBdKl27qf8SBs1+pZzeR4uVXmhewnragJpAN8f19YT7mlB87aTKPpHS+XbmZDrFNbjGGMX1oeI1g1COFN7A3s5aZc19BOK3v9PHd1lx83hGfOQcBSRfAKJgy+OLyfFL/TuPa6mfAj0m/QrrkUYp/Cv0d2kCQFWKcccGbvntpfH0s7ItEb0R+bicKydFI9w3pgUjLqqdHy6mol8N1AxsPRyBAD6zqgo/8R+wxFtatABEPWgGLvmVxb3ZrxI3UUAMAleWPPkIrqnTQvS+EM=;flINzdagAiFJ2rfxXfGjPw=="
+secured: "H0VwFC2Ifie1BidiaMerdDacu2+3sjQxsZ0L7PxZ3dYuzpFVvwfH/w2FDQiIZwNzbwTU90dbG7+keXFxxmUPZgaxFRWjxYCLae/mN3ud830bcQPOrKeawQJqBe9sJHvpsBRAifm6ki2BmqmO2NjLDrkxUW08IoWk3eqsFelaTabuiWBzl4vd5Xu4OGZoLNoB1iEeJHL+KLnTgdT5xX5oVrPrRgIgMIQBxSabgsU4ViH2PMhiYHmRajl2R4xUEhmhmiOBvEonP7WwxIMBBJuSG2jIn7fxrnpBdu8/rL11dv4aik99Gj8cIsuXFIKNPegYrRrk8FdVk6iNRItenuoXmmyUKRpxDJrgFkvlt7W9T50=;t40C4NoG9/c13UBsiJBogA=="
 ---
 

@@ -2,6 +2,63 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-09-11-donald-trump-slams-not-funny-late-night-tv-reminisces-about-appearance-on-jimmy-fallon.md",
+      "title": "Donald Trump slams 'not funny' late-night TV, reminisces about appearance on Jimmy Fallon",
+      "excerpt": "Former President Donald Trump discussed the state of late-night TV, the border crisis, and the treatment he received as a candidate for President in an exclusive interview on \"Gutfeld!\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/donald-trump-late-night-tv-jimmy-fallon",
+      "originalUrl": "https://www.foxnews.com/media/donald-trump-late-night-tv-jimmy-fallon",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/28de8e29-ec57-4bf6-aeef-de7751b25e9b/04b9b376-b98c-43ff-a4c0-d06762ef71f3/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/donald-trump-late-night-tv-jimmy-fallon.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/donald-trump-late-night-tv-jimmy-fallon.amp",
+      "publishedDateTime": "2021-09-10T21:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-09-11-portland-protests-slain-trump-supporter-aaron-danielsons-estate-files-13m-lawsuit-against-city-mayor-da.md",
       "title": "Portland protests: Slain Trump supporter Aaron Danielson’s estate files $13M lawsuit against city, mayor, DA",
       "excerpt": "The estate of Aaron \"Jay\" Danielson, a 39-year-old supporter of former President Donald Trump who was fatally shot by an Antifa backer in Portland, Oregon, last year, filed a $13 million federal lawsuit Friday against the city, its mayor and the county district attorney, according to a report.",
@@ -1547,62 +1604,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/biden-protesters-who-heckled-him-as-he-toured-storm-damaged-northeast-they-dont-understand.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-protesters-who-heckled-him-as-he-toured-storm-damaged-northeast-they-dont-understand.amp",
       "publishedDateTime": "2021-09-07T15:01:05-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-09-07-more-migrants-being-returned-to-mexico-after-supreme-court-order-reinstates-trump-era-policy.md",
-      "title": "More migrants being returned to Mexico after Supreme Court order reinstates Trump-era policy",
-      "excerpt": "A Supreme Court order reinstating the Trump-era \"Remain-in-Mexico\" policy is already having an effect, with Border Patrol officials telling Fox News they have started turning away more migrants trying to enter the U.S.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/y5Rus9i-E7U/more-migrants-mexico-scotus-order-reinstates-trump-era-policy",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/y5Rus9i-E7U/more-migrants-mexico-scotus-order-reinstates-trump-era-policy",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/024e0fbd-ddfc-43c8-9bdf-dd35a37b4713/13048900-b1a3-46da-abd0-f23eb95de595/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/more-migrants-mexico-scotus-order-reinstates-trump-era-policy.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/more-migrants-mexico-scotus-order-reinstates-trump-era-policy.amp",
-      "publishedDateTime": "2021-09-07T12:01:51-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

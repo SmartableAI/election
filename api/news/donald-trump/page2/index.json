@@ -2,6 +2,40 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-09-03-trump-backs-jones-in-georgia-renews-support-for-walker.md",
+      "title": "Trump backs Jones in Georgia, renews support for Walker",
+      "excerpt": "Former President Donald Trump put his thumb on the scale of Georgia Republican politics again Thursday, endorsing state Sen. Burt Jones in the GOP primary for lieutenant governor and reiterating his support for newly declared U.",
+      "sourceUrl": null,
+      "webUrl": "https://www.islandpacket.com/news/politics-government/national-politics/article253963198.html",
+      "originalUrl": "https://www.islandpacket.com/news/politics-government/national-politics/article253963198.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.islandpacket.com/news/politics-government/national-politics/article253963198.html",
+      "cdnAmpWebUrl": "https://amp-islandpacket-com.cdn.ampproject.org/c/s/amp.islandpacket.com/news/politics-government/national-politics/article253963198.html",
+      "publishedDateTime": "2021-09-03T02:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Island Packet",
+        "domain": "islandpacket.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-09-03-twitter-wants-trumps-lawsuit-moved-to-san-francisco-court-and-then-dismissed.md",
       "title": "Twitter wants Trump’s lawsuit moved to San Francisco court and then dismissed",
       "excerpt": "Twitter wants former President Donald Trump’s lawsuit transferred to a federal judge in San Francisco and scrapped.",
@@ -1406,49 +1440,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-08-23-josh-duggars-lawyers-trying-to-get-the-case-dismissed-with-a-donald-trump-oriented-argument.md",
-      "title": "Josh Duggar's Lawyers Trying To Get The Case Dismissed With A Donald Trump-Oriented Argument",
-      "excerpt": "Josh Duggar’s legal team has been busy in recent weeks as the former 19 Kids and Counting’s star preps for trial. The eldest son of Jim Bob and Michelle Duggar was arrested on one count of receipt of child pornography and one count of possession of child pornography back in April.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cinemablend.com/television/2572395/josh-duggar-lawyer-case-dismissed-donald-trump-oriented-argument?pv=related_list",
-      "originalUrl": "https://www.cinemablend.com/television/2572395/josh-duggar-lawyer-case-dismissed-donald-trump-oriented-argument?pv=related_list",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.cinemablend.com/quill/4/5/8/a/9/0/458a9063ffa8791c4da283f5ee12d513513c70e7.jpg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cinemablend.com/television/2572395/josh-duggar-lawyer-case-dismissed-donald-trump-oriented-argument",
-      "cdnAmpWebUrl": "https://amp-cinemablend-com.cdn.ampproject.org/c/s/amp.cinemablend.com/television/2572395/josh-duggar-lawyer-case-dismissed-donald-trump-oriented-argument",
-      "publishedDateTime": "2021-08-23T09:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cinema Blend",
-        "domain": "cinemablend.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
