@@ -27,37 +27,63 @@ images:
     isCached: true
 
 related:
-  - title: "Trump’s Long Campaign to Steal the Presidency: A Timeline"
-    excerpt: "The insurrection wasn’t a one-day event. It was the culmination of a multifaceted, yearslong plot — and it isn’t over."
-    publishedDateTime: 2021-09-05T20:00:00Z
-    webUrl: "https://nymag.com/intelligencer/article/trump-campaign-steal-presidency-timeline.html"
-    ampWebUrl: "https://nymag.com/intelligencer/amp/article/trump-campaign-steal-presidency-timeline.html"
-    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/article/trump-campaign-steal-presidency-timeline.html"
+  - title: "Donald Trump to join Sean Feucht worship concert on 9/11 at National Mall"
+    excerpt: "Evangelical Christian musician and activist Sean Feucht will hold a two-day concert event in the nation’s capital over the weekend, continuing a tour that has resisted pandemic restrictions and is slated to feature an address from former President Donald Trump."
+    publishedDateTime: 2021-09-10T19:34:00Z
+    webUrl: "https://www.washingtonpost.com/religion/donald-trump-to-join-sean-feucht-worship-concert-on-911-at-national-mall/2021/09/10/6a67c010-1276-11ec-baca-86b144fc8a2d_story.html"
     type: article
     provider:
-      name: New York Magazine
-      domain: nymag.com
-    quality: 75
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 104
     images:
-      - url: "https://pyxis.nymag.com/v1/imgs/0c7/d7c/20a3acd661e5113bfd8825a177d26a0649-trump-steal-01.1x.rsocial.w1200.jpg"
-        width: 1200
-        height: 630
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
-  - title: "Trump will 'definitely' run for president in 2024, former adviser predicts"
-    excerpt: "A former adviser to former President Donald Trump has confidently declared there's nearly a 100 percent chance he'll seek another term as president. Jason Miller, who served as senior adviser to Trump's 2020 campaign,"
-    publishedDateTime: 2021-09-03T14:40:00Z
-    webUrl: "https://theweek.com/donald-trump/1004509/trump-will-definitely-run-for-president-in-2024-former-adviser-predicts"
-    ampWebUrl: "https://theweek.com/donald-trump/1004509/trump-will-definitely-run-for-president-in-2024-former-adviser-predicts?amp"
-    cdnAmpWebUrl: "https://theweek-com.cdn.ampproject.org/c/s/theweek.com/donald-trump/1004509/trump-will-definitely-run-for-president-in-2024-former-adviser-predicts?amp"
+  - title: "Mary Trump slams ‘disgraceful’ uncle Donald for participating in boxing event on 9/11 anniversary"
+    excerpt: "Mary Trump, former President Donald Trump’s niece, railed against her uncle for participating in a pay-per-view boxing match this Saturday evening on the 20th anniversary of the terrorist attacks of Sept."
+    publishedDateTime: 2021-09-10T17:39:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/sep/10/mary-trump-slams-disgraceful-uncle-donald-for-part/"
+    ampWebUrl: "https://amp.washingtontimes.com/news/2021/sep/10/mary-trump-slams-disgraceful-uncle-donald-for-part/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/sep/10/mary-trump-slams-disgraceful-uncle-donald-for-part/"
     type: article
     provider:
-      name: THE WEEK
-      domain: theweek.com
-    quality: 73
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 62
     images:
-      - url: "https://mediacloud.theweek.com/image/upload/f_auto,t_primary-image-mobile@1/v1630678687/GettyImages-1057825656%20%281%29.jpg"
-        width: 375
-        height: 211
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/12/04/mary_trump_interview_65466_c0-62-1500-937_s1200x700.jpg?3d74182b5f2adf0dd6fb22cf0cc6f078029b556e"
+        width: 1200
+        height: 700
+        isCached: true
+  - title: "Trump launches new National Faith Advisory Board with Paula White at helm"
+    excerpt: "Lamenting the current state of faith and religion in America as “not good,” former President Donald Trump launched a new National Faith Advisory Board last Thursday, with his spiritual advisor and televangelist Paula White at the helm."
+    publishedDateTime: 2021-09-07T21:30:00Z
+    webUrl: "https://www.christianpost.com/politics/trump-launches-new-national-faith-advisory-board.html"
+    type: article
+    provider:
+      name: The Christian Post
+      domain: christianpost.com
+    quality: 54
+    images:
+      - url: "https://cdn.christianpost.com/files/original/thumbnail/24/47/244724.jpg"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "Donald Trump recalls defending ‘Judeo-Christian values,’ says religion is under attack"
+    excerpt: "Trump called it an honor to defend 'the Judeo-Christian values and principles of our nation's founding.' Former President Donald Trump fielded questions Thursday from religious leaders on a call with a group meant to shore up support from evangelical Christians."
+    publishedDateTime: 2021-09-03T12:59:00Z
+    webUrl: "https://floridapolitics.com/archives/454979-donald-trump-recalls-defending-judeo-christian-values-says-religion-is-under-attack/"
+    type: article
+    provider:
+      name: Florida Politics
+      domain: floridapolitics.com
+    quality: 47
+    images:
+      - url: "https://floridapolitics.com/wp-content/uploads/2021/08/Trump-ap-photo.jpg"
+        width: 1600
+        height: 900
         isCached: true
 
 secured: "RbNn0+L70HgKvFWaX2P6oGsuyt62SVwCOKrArE8twzGVrUH0VTrKsg5imoxD8zy+jTqQ2SN6lROvfgICbVj/od3fyQhj4dWummfvJHQaYzHzLDy4Hyk5RfRN4FaJJINdtvZsfpQrNHITEAqreJigVifhKFCLn2Jee9rJ3SXlqUFe+Dvw3Z9C4CI+c7/Jqm3fZ04KEHqBtbM/V91Jfas46X+RrPvqweino5Q20iDsSb4zPJ5cpUySN+1BB32CaW+eqXjO8IEjNmGStIUriHPdc0VGOa+mRdjjBzok0FZmQcG7fM1vrAom/vjaQSOOxQ7osIsqeYFovI/3vChmFlTOBTaC9z/z+CDHlRXR8TL7/b8=;taJOilzmPUHacIuq7ja/eQ=="

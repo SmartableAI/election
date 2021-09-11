@@ -225,6 +225,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "GOP group held 'war games' for state AGs before Trump loss"
+    excerpt: "An offshoot of the Republican Attorneys General Association"
+    publishedDateTime: 2021-09-10T21:57:00Z
+    webUrl: "https://www.thetelegraph.com/news/article/GOP-group-held-war-games-for-state-AGs-before-16449193.php"
+    ampWebUrl: "https://www.thetelegraph.com/news/amp/GOP-group-held-war-games-for-state-AGs-before-16449193.php"
+    cdnAmpWebUrl: "https://www-thetelegraph-com.cdn.ampproject.org/c/s/www.thetelegraph.com/news/amp/GOP-group-held-war-games-for-state-AGs-before-16449193.php"
+    type: article
+    provider:
+      name: The Telegraph
+      domain: thetelegraph.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Trump attacks Lehigh Valley’s Pat Toomey as ‘not the sharpest tool in the shed’"
     excerpt: "A fundraising email from the former president claims the senator from Lehigh County only won re-election \"because of my victory.\""
     publishedDateTime: 2021-09-07T20:37:00Z

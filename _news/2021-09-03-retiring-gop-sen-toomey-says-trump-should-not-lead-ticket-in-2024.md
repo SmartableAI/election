@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2021/09/03/trump-should-not-lead-gop-ticket
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/09/03/trump-should-not-lead-gop-ticket-in-2024-retiring-sen-pat-toomey-says.html"
 type: article
 quality: 125
-heat: 505
+heat: 525
 published: true
 
 provider:
@@ -223,6 +223,22 @@ related:
     provider:
       name: Laredo Morning Times
       domain: lmtonline.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
+  - title: "GOP group held 'war games' for state AGs before Trump loss"
+    excerpt: "An offshoot of the Republican Attorneys General Association"
+    publishedDateTime: 2021-09-10T21:57:00Z
+    webUrl: "https://www.thetelegraph.com/news/article/GOP-group-held-war-games-for-state-AGs-before-16449193.php"
+    ampWebUrl: "https://www.thetelegraph.com/news/amp/GOP-group-held-war-games-for-state-AGs-before-16449193.php"
+    cdnAmpWebUrl: "https://www-thetelegraph-com.cdn.ampproject.org/c/s/www.thetelegraph.com/news/amp/GOP-group-held-war-games-for-state-AGs-before-16449193.php"
+    type: article
+    provider:
+      name: The Telegraph
+      domain: thetelegraph.com
     quality: 75
     images:
       - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"

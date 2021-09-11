@@ -211,14 +211,14 @@ related:
   - title: "US President Joe Biden Delivers Remarks in Honor of Labor Unions"
     excerpt: "US President Joe Biden delivers remarks in honor of labor unions during an event in the East Room of the White House in Washington, DC on September 8, 2021. Pool Photo by Shawn Thew/UPI"
     publishedDateTime: 2021-09-08T18:45:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/d56b095e1367e837233d75d514c4b21e/US-President-Joe-Biden-Delivers-Remarks-in-Honor-of-Labor-Unions/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/85e1d095d2a5b86d3113fa28eb7e277e/US-President-Joe-Biden-Delivers-Remarks-in-Honor-of-Labor-Unions/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/d56b095e1367e837233d75d514c4b21e/BIDEN-LABOR-UNIONS.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/85e1d095d2a5b86d3113fa28eb7e277e/BIDEN-LABOR-UNIONS.jpg"
         width: 650
         height: 433
         isCached: true
@@ -279,6 +279,6 @@ related:
         height: 517
         isCached: true
 
-secured: "ePkT8gj5dqT2hFxks4QZNPt7FnxjaQuSAHvmdCDq1h5XM/bJQNC2t/wCysHgIPDLpqQl4NTcxdjDlM+Dz1ZZtG2BgIXKdctdSyVOeQjERfYnqeQMcYA/WHrji9qrChB3YCoUME4OuLhcsep0TRv0MriFVU0y0UQFfQsigz/P9GvGExK/Ejv2cYRu5xv5RHw+QrHyTDLTLB46UBenOi62jnn3qrPaluEaIUFEhu7FrUm5SKf3+pnCKQ6CnkHPMhmjtGH/xt2y8o/rFdaHMy7JJp6d8ANIufvmR9j5jGyOxqCbJbYm45NwXUpYMZXEtJEy8jjUBXgCss7EqQ0U71GngrTIlTOFwx2nx0sRi/27KwI=;+tINucrXNfNBrGaBbaB7Xw=="
+secured: "b4V0e1xl4jxxTiqKmvi6X66cZuCNZ4jnbIyu2e1UTIj5iE3FqSjMX86ncO2ltW1MrEa/5Lznu8IpXdTf9bZL3+x4EqcFq8b0HWABKXFgres5rg97vIKTB9M9vxRPPtImtzLwTpzBFWasiPIU33erQmHyj8LOIvqfN2BfXeL10fQizHh1Oln++DKKORbgQLVFIdDTJIU7mTt2TiLYrzvV87Yi2DK8178K2HcDWOMTSj6tAyadHOy2YK9s2DLFZAwlA54EOC4x7bSV9DpM1YRWWYtkRMjUeIilrkBdwelZNDEBKKbyOLgJ6GIWSYI7E1nzmw1avNaf65sqxVgX6Ld696fOhk2sPdZiS6buU/xrO8wf1ybNKURc2hryjTk8av5EhRC/XOoOpLLdYqJiju4VB0dw4bU3vCzfXWMMRE05TFqL4PUC0Sx84mZRY5bBOjmbAGfgE2DnIKiTYKf8tNbgJN50lgUR8p7JqJFoQOgZ+QEW9jEsgce4vZM4CIpP/JdHlqRTUvMrug5l5TOi/zelgw==;yMINI91R99o8TgLFHlhXAA=="
 ---
 

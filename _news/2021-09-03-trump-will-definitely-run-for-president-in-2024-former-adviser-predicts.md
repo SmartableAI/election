@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "‘Reign of Terror’ brilliantly traces the course from 9/11 to President Trump"
-    excerpt: "Government euphemisms and constant portrayal of Muslims as potential terrorists contributed to an ugly, winning narrative, author Spencer Ackerman argues."
-    publishedDateTime: 2021-09-05T09:45:00Z
-    webUrl: "https://www.dailypress.com/entertainment/books/vp-db-book-nyt-reign-terror-ackerman-090521-20210905-wezrbfxjozapxhreornstjgonq-story.html"
-    ampWebUrl: "https://www.dailypress.com/entertainment/books/vp-db-book-nyt-reign-terror-ackerman-090521-20210905-wezrbfxjozapxhreornstjgonq-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-dailypress-com.cdn.ampproject.org/c/s/www.dailypress.com/entertainment/books/vp-db-book-nyt-reign-terror-ackerman-090521-20210905-wezrbfxjozapxhreornstjgonq-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Daily Press
-      domain: dailypress.com
-    quality: 72
-    images:
-      - url: "https://www.dailypress.com/resizer/rzRqmwl_SFH_ZWmHsoGrjUUsI3g=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/G7GHEQYAJVAXPBXDGX2R2AHHZM.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "PiWkazaHNS6SYUJ70ocQM8e850hN9uX/fJuJO29Izo6ajaTmzpf7fwh33LZH9A8M3hOzckO5b0A5VjG/rrk9KDZb3w0M3g1y93jIpLiXp0xh3KKA/XTQT0Q9WRNTuAuuWW9RGIwudp5uzegXaFZv4Q36DjicneP8KjaQwtBr+fbKTHAwrNTOe4XTo737mQn/uAxUrQHjWpJ95msa0wbpd9/gB4hGoZF7Lpk6+jen3m9meYSvTut09LZA/QXQlGKkn2zNtvs//ynEGBmLcdEG4vUqnpQ/ZUr8j+vkxhTe70WmPQ+8k5wJ6Exmo3jlpvEU8/Oth5NMfh2rJBQW/XLVE2yH7rzUaNQQOumJ9sOxliE=;a5iPJfEympdZ8U3SZlRIPQ=="
 ---

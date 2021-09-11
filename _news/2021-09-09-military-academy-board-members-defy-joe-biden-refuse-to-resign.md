@@ -109,6 +109,17 @@ related:
         width: 600
         height: 399
         isCached: true
+  - title: "President Joe Biden to visit national fire center in Boise"
+    excerpt: "President Joe Biden will be in Boise, Idaho on Monday to visit the National Interagency Fire Center. Biden's trip to the western U.S. will also include a stop in Sacramento, California to survey wildfire damage."
+    publishedDateTime: 2021-09-10T18:30:00Z
+    webUrl: "https://www.newsobserver.com/news/politics-government/national-politics/article254144848.html"
+    ampWebUrl: "https://amp.newsobserver.com/news/politics-government/national-politics/article254144848.html"
+    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/politics-government/national-politics/article254144848.html"
+    type: article
+    provider:
+      name: Raleigh News & Observer
+      domain: newsobserver.com
+    quality: 55
   - title: "Former Trump press secretary Sean Spicer asked to resign from Naval Academy Board of Visitors"
     excerpt: "Former Trump press secretary Sean Spicer was among several people asked to resign from the Naval Academy Board of Visitors, as President Joe Biden removes Trump appointees from service academy advisory boards."
     publishedDateTime: 2021-09-09T00:42:00Z

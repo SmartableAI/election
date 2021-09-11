@@ -2,6 +2,114 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-09-10-political-experts-weigh-in-ahead-of-bidens-address-to-nation-on-911-no-one-wants-to-be-spun.md",
+      "title": "Political experts weigh in ahead of Biden's address to nation on 9/11: 'No one wants to be spun'",
+      "excerpt": "To mark 20 years since the 9/11 terror attacks, President Biden will address the nation and visit NYC, the Pentagon, and the memorial outside Shanksville, Pennsylvania.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_AOs2yRQNN0/911-attacks-president-biden-speech-afghanistan",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_AOs2yRQNN0/911-attacks-president-biden-speech-afghanistan",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 182,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1fb944c6-4903-4862-bdd5-cfb665e05073/0aec448c-9dd8-44fa-8a2d-dc744a37e7c3/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/911-attacks-president-biden-speech-afghanistan.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/911-attacks-president-biden-speech-afghanistan.amp",
+      "publishedDateTime": "2021-09-10T13:21:33-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-09-11-donald-trump-to-join-sean-feucht-worship-concert-on-911-at-national-mall.md",
+      "title": "Donald Trump to join Sean Feucht worship concert on 9/11 at National Mall",
+      "excerpt": "Evangelical Christian musician and activist Sean Feucht will hold a two-day concert event in the nation’s capital over the weekend, continuing a tour that has resisted pandemic restrictions and is slated to feature an address from former President Donald Trump.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/religion/donald-trump-to-join-sean-feucht-worship-concert-on-911-at-national-mall/2021/09/10/6a67c010-1276-11ec-baca-86b144fc8a2d_story.html",
+      "originalUrl": "https://www.washingtonpost.com/religion/donald-trump-to-join-sean-feucht-worship-concert-on-911-at-national-mall/2021/09/10/6a67c010-1276-11ec-baca-86b144fc8a2d_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 184,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-10T12:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-09-10-hawley-pens-scathing-letter-to-biden-admin-demanding-answers-about-unlawful-vaccine-mandate.md",
       "title": "Hawley pens scathing letter to Biden admin demanding answers about 'unlawful' vaccine mandate",
       "excerpt": "Missouri Republican Sen. Josh Hawley called on Department of Labor Secretary Martin Walsh in a Friday letter to block an order by President Biden that would allow for a sweeping vaccine mandate.",
@@ -339,7 +447,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 227,
+      "heat": 247,
       "tags": null,
       "images": [
         {
@@ -443,7 +551,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/2021/sep/10/joe-biden-vaccine-mandates-coronavirus-covid",
       "featuredContent": null,
       "highlight": null,
-      "heat": 225,
+      "heat": 265,
       "tags": null,
       "images": [
         {
@@ -825,7 +933,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 175,
+      "heat": 195,
       "tags": null,
       "images": [
         {
@@ -1192,8 +1300,8 @@
       "title": "U.S. Vice President Kamala Harris to Visit Hampton University on Friday, September 10",
       "excerpt": "U.S. Vice President Kamala Harris will visit Hampton University on Friday, September 10, to recognize the contributions of HBCUs a",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/GlobeNewswire/kamala-harris-hampton-university-ea2f36913b333cebf7b3566e3d343498",
-      "originalUrl": "https://apnews.com/press-release/GlobeNewswire/kamala-harris-hampton-university-ea2f36913b333cebf7b3566e3d343498",
+      "webUrl": "https://apnews.com/press-release/globe-newswire/kamala-harris-hampton-university-ea2f36913b333cebf7b3566e3d343498",
+      "originalUrl": "https://apnews.com/press-release/globe-newswire/kamala-harris-hampton-university-ea2f36913b333cebf7b3566e3d343498",
       "featuredContent": null,
       "highlight": null,
       "heat": 218,
@@ -1228,106 +1336,6 @@
       "topics": [
         "Election",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-09-09-donald-trump-endorses-oak-parks-kristina-karamo-for-secretary-of-state.md",
-      "title": "Donald Trump endorses Oak Park’s Kristina Karamo for secretary of state",
-      "excerpt": "Donald Trump has endorsed Kristina Karama for Michigan Secretary of State. In a statement, the former president said he highly respects the Oak Park resident and that she has his complete and total endorsement to run for “Secretary of State of the Great State of Michigan!",
-      "sourceUrl": null,
-      "webUrl": "https://www.theoaklandpress.com/2021/09/09/donald-trump-endorses-oak-parks-kristina-karama-for-secretary-of-state",
-      "originalUrl": "https://www.theoaklandpress.com/2021/09/09/donald-trump-endorses-oak-parks-kristina-karama-for-secretary-of-state",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.theoaklandpress.com/wp-content/uploads/2021/06/20210603_4502b028-c460-11eb-b412-d780dcc68576.jpg?w=1024&#038;h=683",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theoaklandpress.com/2021/09/09/donald-trump-endorses-oak-parks-kristina-karama-for-secretary-of-state/amp/",
-      "cdnAmpWebUrl": "https://www-theoaklandpress-com.cdn.ampproject.org/c/s/www.theoaklandpress.com/2021/09/09/donald-trump-endorses-oak-parks-kristina-karama-for-secretary-of-state/amp/",
-      "publishedDateTime": "2021-09-09T06:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Oakland Press",
-        "domain": "theoaklandpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-09-09-kamala-harris-backed-bail-fund-other-groups-wreaking-havoc-on-communities-former-mn-congressional-candidate.md",
-      "title": "Kamala Harris-backed bail fund, other groups wreaking havoc on communities: Former MN congressional candidate",
-      "excerpt": "Kamala Harris-backed Minnesota bail fund helping free an alleged domestic abuser who is now accused of murder is a “reckless disregard for communities,\" Lacy Lee said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/kamala-harris-bail-fund-minnesota-reckless-disregard-communities",
-      "originalUrl": "https://www.foxnews.com/media/kamala-harris-bail-fund-minnesota-reckless-disregard-communities",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9a8dfa8e-3dba-4455-839e-4062f16e08a6/04da69cf-432d-4304-b4b4-864e5be261c7/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/kamala-harris-bail-fund-minnesota-reckless-disregard-communities.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/kamala-harris-bail-fund-minnesota-reckless-disregard-communities.amp",
-      "publishedDateTime": "2021-09-09T06:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris",
-        "Republican Voice"
       ]
     }
   ],

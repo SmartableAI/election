@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-09-11-donald-trump-to-join-sean-feucht-worship-concert-on-911-at-national-mall.md",
+      "title": "Donald Trump to join Sean Feucht worship concert on 9/11 at National Mall",
+      "excerpt": "Evangelical Christian musician and activist Sean Feucht will hold a two-day concert event in the nation’s capital over the weekend, continuing a tour that has resisted pandemic restrictions and is slated to feature an address from former President Donald Trump.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/religion/donald-trump-to-join-sean-feucht-worship-concert-on-911-at-national-mall/2021/09/10/6a67c010-1276-11ec-baca-86b144fc8a2d_story.html",
+      "originalUrl": "https://www.washingtonpost.com/religion/donald-trump-to-join-sean-feucht-worship-concert-on-911-at-national-mall/2021/09/10/6a67c010-1276-11ec-baca-86b144fc8a2d_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 184,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-10T12:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-09-10-trump-tells-gutfeld-i-think-youll-be-very-happy-with-2024-plans.md",
       "title": "Trump tells Gutfeld ‘I think you’ll be very happy’ with 2024 plans",
       "excerpt": "President Donald Trump joins 'Gutfeld!' to talk Joe Biden, wokeism in America and the possibility of running in 2024.",
@@ -153,7 +205,7 @@
       "originalUrl": "https://www.cbsnews.com/news/biden-trump-military-academy-board-appointees-spicer-conway/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 256,
+      "heat": 276,
       "tags": null,
       "images": [
         {
@@ -758,7 +810,7 @@
       "originalUrl": "https://www.houstonchronicle.com/politics/texas/article/How-Texas-is-following-up-on-Trump-s-voter-16441526.php",
       "featuredContent": null,
       "highlight": null,
-      "heat": 499,
+      "heat": 539,
       "tags": null,
       "images": [
         {
@@ -1009,7 +1061,7 @@
       "originalUrl": "https://nymag.com/intelligencer/article/trump-campaign-steal-presidency-timeline.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 115,
+      "heat": 95,
       "tags": null,
       "images": [
         {
@@ -1195,7 +1247,7 @@
       "originalUrl": "https://www.cnbc.com/2021/09/03/trump-should-not-lead-gop-ticket-in-2024-retiring-sen-pat-toomey-says.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 505,
+      "heat": 525,
       "tags": null,
       "images": [
         {
@@ -1406,49 +1458,6 @@
       "provider": {
         "name": "The Island Packet",
         "domain": "islandpacket.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-09-03-twitter-wants-trumps-lawsuit-moved-to-san-francisco-court-and-then-dismissed.md",
-      "title": "Twitter wants Trump’s lawsuit moved to San Francisco court and then dismissed",
-      "excerpt": "Twitter wants former President Donald Trump’s lawsuit transferred to a federal judge in San Francisco and scrapped.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtontimes.com/news/2021/sep/2/twitter-wants-donald-trumps-lawsuit-moved-san-fran/",
-      "originalUrl": "https://www.washingtontimes.com/news/2021/sep/2/twitter-wants-donald-trumps-lawsuit-moved-san-fran/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://twt-thumbs.washtimes.com/media/image/2021/07/30/Trump_Justice_Department_56084.jpg-e702c_c0-0-3600-2100_s1200x700.jpg?bd461f07e95b0f5f36779822774ec445b04d6d07",
-          "width": 1200,
-          "height": 700,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.washingtontimes.com/news/2021/sep/2/twitter-wants-donald-trumps-lawsuit-moved-san-fran/",
-      "cdnAmpWebUrl": "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/sep/2/twitter-wants-donald-trumps-lawsuit-moved-san-fran/",
-      "publishedDateTime": "2021-09-02T14:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Times",
-        "domain": "washingtontimes.com",
         "images": null,
         "publishers": null,
         "authors": null

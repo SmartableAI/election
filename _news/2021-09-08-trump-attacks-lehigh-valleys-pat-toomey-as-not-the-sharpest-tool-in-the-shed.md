@@ -241,6 +241,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "GOP group held 'war games' for state AGs before Trump loss"
+    excerpt: "An offshoot of the Republican Attorneys General Association"
+    publishedDateTime: 2021-09-10T21:57:00Z
+    webUrl: "https://www.thetelegraph.com/news/article/GOP-group-held-war-games-for-state-AGs-before-16449193.php"
+    ampWebUrl: "https://www.thetelegraph.com/news/amp/GOP-group-held-war-games-for-state-AGs-before-16449193.php"
+    cdnAmpWebUrl: "https://www-thetelegraph-com.cdn.ampproject.org/c/s/www.thetelegraph.com/news/amp/GOP-group-held-war-games-for-state-AGs-before-16449193.php"
+    type: article
+    provider:
+      name: The Telegraph
+      domain: thetelegraph.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Retiring Trump Critic Urges GOP Not To Renominate 'Unacceptable' Ex-President In 2024"
     excerpt: "Retiring Republican Senator Pat Toomey is urging his party to become a \"party of ideas\" over that of an individual."
     publishedDateTime: 2021-09-03T16:59:00Z

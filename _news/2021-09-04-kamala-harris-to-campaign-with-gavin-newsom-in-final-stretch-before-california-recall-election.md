@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/09/04/politics/kamala-harris-gavin-news
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/09/04/politics/kamala-harris-gavin-newsom-california-recall/index.html"
 type: article
 quality: 188
-heat: 248
+heat: 268
 published: true
 
 provider:
@@ -77,6 +77,22 @@ related:
     quality: 165
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210902140750-01-biden-ida-0902-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Newsom stands behind Biden's new Covid vaccine requirements as he fights California recall "
+    excerpt: "California Gov. Gavin Newsom backed President Joe Biden's newly announced coronavirus vaccine requirements during a news conference on Friday, telling reporters that he \"broadly\" supports the move and the \"President's intentionality.\"\n    \n"
+    publishedDateTime: 2021-09-10T21:19:45Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mhwAJyZnHpo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/09/10/politics/california-recall-newsom-biden-covid-vaccine-requirements/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/09/10/politics/california-recall-newsom-biden-covid-vaccine-requirements/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 165
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210909141543-02-gavin-newsom-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

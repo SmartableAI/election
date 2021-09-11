@@ -117,6 +117,22 @@ related:
         width: 1440
         height: 961
         isCached: true
+  - title: "Gavin Newsom blasts Donald Trump, Lary Elder over recall election fraud claims"
+    excerpt: "10, 2021, at the California Museum in Sacramento. Lezlie Sterling lsterling@sacbee.com Gov. Gavin Newsom on Friday blasted former President Donald Trump and recall candidate Larry Elder for sowing mistrust in California’s upcoming election before any ..."
+    publishedDateTime: 2021-09-10T20:34:00Z
+    webUrl: "https://www.sacbee.com/news/politics-government/capitol-alert/article254147583.html"
+    ampWebUrl: "https://amp.sacbee.com/news/politics-government/capitol-alert/article254147583.html"
+    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/politics-government/capitol-alert/article254147583.html"
+    type: article
+    provider:
+      name: Sacramento Bee
+      domain: sacbee.com
+    quality: 86
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557042001/e4e373b7-def6-431f-92d9-ad810d601498/ef22e23f-8c10-448a-a5c2-96a77aba5c50/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Judge tosses Trump rollback of clean water safeguards"
     excerpt: "A federal judge has thrown out a Trump-era rule that ended federal protections for hundreds of thousands of small streams, wetlands and other waterways and left them vulnerable to pollution from nearby development."
     publishedDateTime: 2021-08-31T21:36:00Z
@@ -180,6 +196,20 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/07/07/former-us-president-donald-trump-reportedly-told-his.jpg"
         width: 1024
         height: 682
+        isCached: true
+  - title: "Gavin Newsom blasts Donald Trump, Larry Elder over recall election fraud claims"
+    excerpt: "Gov. Gavin Newsom on Friday blasted former President Donald Trump and recall candidate Larry Elder for sowing mistrust in California’s upcoming election before any results have been"
+    publishedDateTime: 2021-09-10T22:08:00Z
+    webUrl: "https://www.bozemandailychronicle.com/ap_news/politics/gavin-newsom-blasts-donald-trump-larry-elder-over-recall-election-fraud-claims/article_dc4f4899-82b9-5dc4-8b61-7f4621bb851d.html"
+    type: article
+    provider:
+      name: Bozeman Daily Chronicle
+      domain: bozemandailychronicle.com
+    quality: 66
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/custom/image/2ffee154-edef-11e4-a572-ab4a61dde6eb.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Fact check: Donald Trump falsely claims California recall election is 'rigged' for Gavin Newsom"
     excerpt: "Claim: Former President Donald Trump, speaking on Newsmax Tuesday night, claimed that the California recall against Gov. Gavin Newsom is likely \"rigged,\" suggesting that the widespread use of mail bal"

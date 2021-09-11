@@ -47,6 +47,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden touts 'national unity' in prerecorded 9/11 message to America"
+    excerpt: "In a video released Friday, President Biden reflected on the Sept. 11, 2001, terrorist attacks in America, insisting that “national unity” is America's \"greatest strength.\""
+    publishedDateTime: 2021-09-10T22:50:25Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fQIftV_JsPc/biden-touts-national-unity-in-pre-recorded-9-11-message-to-americans"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-touts-national-unity-in-pre-recorded-9-11-message-to-americans.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-touts-national-unity-in-pre-recorded-9-11-message-to-americans.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0f80e07e-e3ce-44d0-bb29-fe6c8ebef418/f1c57749-b860-48ae-a29e-9e45b6f87854/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Biden spends Labor Day in Delaware as mounting crises sink approval rating"
     excerpt: "It’s Biden’s 19th trip to his private residences in Delaware since taking office. He is scheduled to return to the White House around 6 p.m. Monday."
     publishedDateTime: 2021-09-06T17:16:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/sep/10/joe-biden-vaccine-ma
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/sep/10/joe-biden-vaccine-mandates-coronavirus-covid"
 type: article
 quality: 125
-heat: 225
+heat: 265
 published: true
 
 provider:
@@ -77,6 +77,22 @@ related:
         width: 640
         height: 427
         isCached: true
+  - title: "Ohio employers and Republicans criticize President Joe Biden’s vaccine mandate, wait for more federal guidance"
+    excerpt: "President Joe Biden announced Thursday that the Department of Labor will mandate that all companies with 100 or more employees require that their workforce be vaccinated or show weekly negative coronavirus tests."
+    publishedDateTime: 2021-09-10T22:30:00Z
+    webUrl: "https://www.cleveland.com/open/2021/09/ohio-employers-and-republicans-criticize-president-joe-bidens-vaccine-mandate-wait-for-more-federal-guidance.html"
+    ampWebUrl: "https://www.cleveland.com/open/2021/09/ohio-employers-and-republicans-criticize-president-joe-bidens-vaccine-mandate-wait-for-more-federal-guidance.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/open/2021/09/ohio-employers-and-republicans-criticize-president-joe-bidens-vaccine-mandate-wait-for-more-federal-guidance.html?outputType=amp"
+    type: article
+    provider:
+      name: Cleveland.com
+      domain: cleveland.com
+    quality: 55
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/T7EC4ZMPZRA3FBKKIR2V5TYUUA.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "‘Have at it’: Joe Biden goads GOP Governors over threatened vaccine mandate suits"
     excerpt: "President Joe Biden continued on Friday to goad Republican Governors resisting COVID-19 vaccine mandates he rolled out the day before. When asked about them being challenged in court by a reporter at a Washington D."
     publishedDateTime: 2021-09-10T15:33:00Z
@@ -105,7 +121,16 @@ related:
         width: 1024
         height: 640
         isCached: true
+  - title: "Mississippi Governor Calls Biden Vaccine Mandate 'Tyranny'"
+    excerpt: "Mississippi Gov_ Tate Reeves said that Democratic President Joe Biden’s new federal vaccine requirements are “clearly unconstitutional.\"."
+    publishedDateTime: 2021-09-10T22:37:00Z
+    webUrl: "https://www.usnews.com/news/best-states/mississippi/articles/2021-09-10/mississippi-governor-calls-biden-vaccine-mandate-tyranny"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
-secured: "6k7qjIGrMHuq2DtIyCcfiFs00fPauZDiHvLiyYc+V5uQuhHI3K6aRhRv8QqznRZcQKI78Os+LWIs1DFLLX/nH1KPlAkPfeSnG0WCEM0qug0rwrdkD/DXLoFXYkq4l0y0dGv8IitWwz77+FDw7iMCjlB7snKdY0ajHR4y5YBWgdW/0047Owl+UmwhPdiEO13vAQ+5P2e7uz5xN6skpT+Un/MC68oXuml75gpL95rxSi2i4OtOPwV0Tcsi9YYvBBXc5eZSRr20lLcHuRFMQj4llhziV7MLspgyX5/Ve0nYx2bkAGMJ71SaW6NGdSqAdWN4FVi9zkX8apx4PKeEhJMxdnamiLCNt2xbbzAbTdJMr8M=;Ovji7bGgDa2GuyVQAU/PHA=="
+secured: "sbSJwMN3lIN4D9bs1NVDb2Uidc/dzOSN+raK23OKhi7pcM5VgEd5UwmhSRLfbczmbp0Nlfqeett8kFzfcbnna3uCzj3yHs83VjVGd/2+P7rSBALos1XCZGQBWqCB3i1pqKjnP5MZXbobj3vrV8QVe9raGVLCoIB26dRGEyppbVkfXIQwRFE4g8CNz47tli98ZqLA9BqeGQysyztxy6HkHg5QR8vWtCRiD7XQUfCOW3upeli6+AFC3uT1/3MRKu7WCUDYMOS+e5N42e9uyaYgkb6Cm3zoYdBy8CPzXEKEgECayLwPyxzJTRYb3UEsDne24yGhxfXE4b+1ukA+3ulahlz/wrzAEZjMscUO6Y8Kz1HMdE9Tc2KOgr2leHKSUyGmTS+2FVwqJsBYBCugmhvxYtnyqXNXDAGkhF6Kv820bWI6lC0qQAP0KpdteeiefhAzSHOKEPqcU+25T/LStCYpQ1rgLAguP0uie3KU3C/CCp+8reDsiZpK1uw2iGYXHbrwHT2OsUAECDZilwhG0qUlfg==;p/jTXmVG3DNXN5NjX84msA=="
 ---
 

@@ -80,6 +80,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Newsom stands behind Biden's new Covid vaccine requirements as he fights California recall "
+    excerpt: "California Gov. Gavin Newsom backed President Joe Biden's newly announced coronavirus vaccine requirements during a news conference on Friday, telling reporters that he \"broadly\" supports the move and the \"President's intentionality.\"\n    \n"
+    publishedDateTime: 2021-09-10T21:19:45Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mhwAJyZnHpo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/09/10/politics/california-recall-newsom-biden-covid-vaccine-requirements/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/09/10/politics/california-recall-newsom-biden-covid-vaccine-requirements/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 165
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210909141543-02-gavin-newsom-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "5icNJoxrq7hlYE95ZKu1+mvI7AdRQ48b8wsygudHpkAI4Bu82xngOKWZIUVl9/wc5xUqCgIAr26q91I7ayJDlkQe1PsZQtCF68T2TLAByWuL3cIN/XTm71GyJB4KurG9JikoiP52MaYWrkuyCwczF2xSexfGRcsJdDWxavSuaeibTDwnryW8+4rTiIInMrJxezI0X1cVyZbUOGLaf/lzoJsStcliGjk7Kw3xxdyNeYSlz38t8bNBxIEqq9sN8gTMhS/1PP9xUaiH0MXWlLNzbbMVurlV3SaPIblKeRrEWJ8lQUGUE4VGqnm6qvd68U0uZoVEE0eUZ2tEf8z/ot3L5O7U4s/imMVVgRXZt/oUmaQ=;VodN//qlsykhp/e0pdmC7Q=="
 ---

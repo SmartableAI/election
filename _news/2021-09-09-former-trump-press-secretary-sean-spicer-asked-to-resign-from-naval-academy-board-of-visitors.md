@@ -119,6 +119,17 @@ related:
         width: 600
         height: 399
         isCached: true
+  - title: "President Joe Biden to visit national fire center in Boise"
+    excerpt: "President Joe Biden will be in Boise, Idaho on Monday to visit the National Interagency Fire Center. Biden's trip to the western U.S. will also include a stop in Sacramento, California to survey wildfire damage."
+    publishedDateTime: 2021-09-10T18:30:00Z
+    webUrl: "https://www.newsobserver.com/news/politics-government/national-politics/article254144848.html"
+    ampWebUrl: "https://amp.newsobserver.com/news/politics-government/national-politics/article254144848.html"
+    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/politics-government/national-politics/article254144848.html"
+    type: article
+    provider:
+      name: Raleigh News & Observer
+      domain: newsobserver.com
+    quality: 55
 
 secured: "TRMxswQZLmE4dIS5D3k6YGAeo1VQHWJJGtgW2l51969fwqUEcVkDP7CpbwvLQevvAQH0Whgh8X8TbsZeLgkVhEJg3+1TVOFVIxmDecpfH0frPdNQwZUE5iNWcKABKU0zIYnsJmpNyR9CaBuMxrimPmHyeft327nOsSIFKK14YqOGxISIOuPDKzl/agiRbrRH/lA12Gq52q6ZpTqNkCCsZ8KkFQfqFDy2n0xyRbO6jCG5oAwi8ydK/m8o08GqG06jJEds0UxjOIOaIGWZNlaUxPYfGc+lVZGg/2M4+lU7xFaVy0Vtj7luJIfoUjYg94QqaCAU46LyoGdwaz6xo1Fm5FJYeE/HAEdlt/ManqcJq411lL9ANjpOGMY0V7c96unFTNZIB1151iwT7iCyKNaWDlbLDpQFE7ZyzzC6ORfcmpBw2hA11dA2P+ekBoMlFan+DJmKcBGMLRlVjqq5DK+uHtXgmP/jbzBrYN3keFIgXy7OfxZrWw62Xr4QKvHTsyW7ROM35UcykGT3Jx6SxDVlJw==;M78xy56EVX+UM/z2TtZxbg=="
 ---

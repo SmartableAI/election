@@ -3,8 +3,8 @@ category: news
 title: "US President Joe Biden Delivers Remarks in Honor of Labor Unions"
 excerpt: "US President Joe Biden delivers remarks in honor of labor unions during an event in the East Room of the White House in Washington, DC on September 8, 2021. Pool Photo by Shawn Thew/UPI"
 publishedDateTime: 2021-09-08T18:45:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/d56b095e1367e837233d75d514c4b21e/US-President-Joe-Biden-Delivers-Remarks-in-Honor-of-Labor-Unions/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/d56b095e1367e837233d75d514c4b21e/US-President-Joe-Biden-Delivers-Remarks-in-Honor-of-Labor-Unions/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/85e1d095d2a5b86d3113fa28eb7e277e/US-President-Joe-Biden-Delivers-Remarks-in-Honor-of-Labor-Unions/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/85e1d095d2a5b86d3113fa28eb7e277e/US-President-Joe-Biden-Delivers-Remarks-in-Honor-of-Labor-Unions/"
 type: article
 quality: 55
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/d56b095e1367e837233d75d514c4b21e/BIDEN-LABOR-UNIONS.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/85e1d095d2a5b86d3113fa28eb7e277e/BIDEN-LABOR-UNIONS.jpg"
     width: 650
     height: 433
     isCached: true
@@ -279,6 +279,6 @@ related:
         height: 517
         isCached: true
 
-secured: "jM5PMnImiDagE+PJMmLu9mdkTRN41V7JbvcE4DOs9KoDGX6VSP+Kiv252eIyFOPcdZoHOfOXCJpMqHsFXr/2JqZX/N61yXcDOBXpdhLZMQtKsPttd9th1i9FKeek1DDmgf+vbAhzF0/CDdn7zbeQehBu85awUNbTBRLdh7qXXiLMmRgPpSsv3vv7HcQSmxffyqoGjQTVKyCrAoAf1+sTHrGxsPEluoEnx22JEpVPE8A4xHrJJxnZN4G5s7QahNqgULU9LpmJJ7AT8KU87HC9P23wuHKeatL8Ym02IOQL/Xg6CFyGhB3NYhVBLiv6768oNrlJW+TUr0cy1yEY7eNSyKuZBzX2BBKag2vPKsBjTuw=;m0w9ZFFe9nRQCYEUOnb+CQ=="
+secured: "Ig3MlfGwWYGe3uHQSI+zLBdCicrOVrdBjeOCl0VbJxNGCpvEeAeftey5cNuIRizv4ZPKLRTAFJLqR1GQfktEgjRldZkhHWrmvuaZ87+5/uStw+vgq/CBPd7FawImVJr1OxJgtOCKv04JHoDllVw2OmKmu70fEDk/raLt5LYAsG97FtpBycWjkSa4qXVnKYUmUfG5QxcFb07UlnyFUc1QWpWNS7A0qPpX9UBqvrB2ToaKbAGQGufJtCq3ZBgBE3JSnxsmDUwYDtC9cBU7fZgZgMVWyVgdbAX0qRmFc9S9nABM1EOrHjoDXRoYLQni99TWO+l7ICMYk4L/jq+FOkJ8+q/ETQREj6PmFJzTGydCmlA=;0Ux5I5kZaB+LofcRPUQYpA=="
 ---
 

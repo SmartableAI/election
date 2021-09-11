@@ -87,6 +87,22 @@ related:
         width: 640
         height: 427
         isCached: true
+  - title: "Ohio employers and Republicans criticize President Joe Biden’s vaccine mandate, wait for more federal guidance"
+    excerpt: "President Joe Biden announced Thursday that the Department of Labor will mandate that all companies with 100 or more employees require that their workforce be vaccinated or show weekly negative coronavirus tests."
+    publishedDateTime: 2021-09-10T22:30:00Z
+    webUrl: "https://www.cleveland.com/open/2021/09/ohio-employers-and-republicans-criticize-president-joe-bidens-vaccine-mandate-wait-for-more-federal-guidance.html"
+    ampWebUrl: "https://www.cleveland.com/open/2021/09/ohio-employers-and-republicans-criticize-president-joe-bidens-vaccine-mandate-wait-for-more-federal-guidance.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/open/2021/09/ohio-employers-and-republicans-criticize-president-joe-bidens-vaccine-mandate-wait-for-more-federal-guidance.html?outputType=amp"
+    type: article
+    provider:
+      name: Cleveland.com
+      domain: cleveland.com
+    quality: 55
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/T7EC4ZMPZRA3FBKKIR2V5TYUUA.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "‘Have at it’: Joe Biden goads GOP Governors over threatened vaccine mandate suits"
     excerpt: "President Joe Biden continued on Friday to goad Republican Governors resisting COVID-19 vaccine mandates he rolled out the day before. When asked about them being challenged in court by a reporter at a Washington D."
     publishedDateTime: 2021-09-10T15:33:00Z
@@ -101,6 +117,15 @@ related:
         width: 1396
         height: 930
         isCached: true
+  - title: "Mississippi Governor Calls Biden Vaccine Mandate 'Tyranny'"
+    excerpt: "Mississippi Gov_ Tate Reeves said that Democratic President Joe Biden’s new federal vaccine requirements are “clearly unconstitutional.\"."
+    publishedDateTime: 2021-09-10T22:37:00Z
+    webUrl: "https://www.usnews.com/news/best-states/mississippi/articles/2021-09-10/mississippi-governor-calls-biden-vaccine-mandate-tyranny"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "O4jhYV8YZj5YcZfX4eWFEd/I2mkFmU4ygJsdpvHJXc8xKvh0X9Ci0GVWUmv/9OsVQhNGA5YfibDkoAIREwAo+qvF9LEOh6JjKHW1ztO/txz2wJdigriHSgL4bcUR+PLDzyJvuJ16A/AkWWM0tULdicWbEZBILH0HkhhIxQLupRxB+MvJ6NWcVyq5rICMZvxg+H7vVVKdWC4fRXiFskWiWuJeNkB+nPOF5gu/jD8zz29Ncd0SogbCZM7RytXEyAZPbqmB/4iSK2OMPtLDYWMZpF5xv+mozJxSCwhkPiRP4H0WCPKHzWrjtXAiwxn/6FFO1Q64WWl6pe9GfrS1oLop1/UlLb2EvO2TXIq4O/BOJ7g=;CXevVwRAgplOVmWDPcz1BQ=="
 ---

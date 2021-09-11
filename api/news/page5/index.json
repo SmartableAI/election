@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-09-03-twitter-wants-trumps-lawsuit-moved-to-san-francisco-court-and-then-dismissed.md",
+      "title": "Twitter wants Trump’s lawsuit moved to San Francisco court and then dismissed",
+      "excerpt": "Twitter wants former President Donald Trump’s lawsuit transferred to a federal judge in San Francisco and scrapped.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtontimes.com/news/2021/sep/2/twitter-wants-donald-trumps-lawsuit-moved-san-fran/",
+      "originalUrl": "https://www.washingtontimes.com/news/2021/sep/2/twitter-wants-donald-trumps-lawsuit-moved-san-fran/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://twt-thumbs.washtimes.com/media/image/2021/07/30/Trump_Justice_Department_56084.jpg-e702c_c0-0-3600-2100_s1200x700.jpg?bd461f07e95b0f5f36779822774ec445b04d6d07",
+          "width": 1200,
+          "height": 700,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.washingtontimes.com/news/2021/sep/2/twitter-wants-donald-trumps-lawsuit-moved-san-fran/",
+      "cdnAmpWebUrl": "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/sep/2/twitter-wants-donald-trumps-lawsuit-moved-san-fran/",
+      "publishedDateTime": "2021-09-02T14:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Times",
+        "domain": "washingtontimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-09-02-manchin-upends-democrats-push-to-enact-bidens-agenda-this-month-calling-for-pause-on-35-trillion-bill.md",
       "title": "Manchin upends Democrats' push to enact Biden's agenda this month, calling for 'pause' on $3.5 trillion bill",
       "excerpt": "Sen. Joe Manchin, the most pivotal Democratic swing vote in the Senate, threw a major wrench in his party's carefully crafted plans to pass a massive $3.5 trillion bill by month's end, demanding they take a \"strategic pause\" before considering a sweeping bill to implement much of President Joe Biden's",
@@ -1276,62 +1319,6 @@
       "topics": [
         "Election",
         "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-31-biden-warns-isis-k-we-are-not-done-with-you-yet.md",
-      "title": "Biden warns ISIS-K: ‘We are not done with you yet’",
-      "excerpt": "In a defiant speech Tuesday, President Biden stood by his decision to withdraw all troops from Afghanistan but warned the terrorist group ISIS-K, “We are not done with you yet.”",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/pxwHIYERnQA/biden-tells-isis-k-we-are-not-done-with-you-yet",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/pxwHIYERnQA/biden-tells-isis-k-we-are-not-done-with-you-yet",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/669b09aa-cbab-4093-ba18-463f158607fa/7e71a5c2-7513-4b0e-8c51-c38b8fcb7408/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-tells-isis-k-we-are-not-done-with-you-yet.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-tells-isis-k-we-are-not-done-with-you-yet.amp",
-      "publishedDateTime": "2021-08-31T14:05:52-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Republican Voice"
       ]
     }

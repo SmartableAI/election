@@ -60,6 +60,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Second Amendment groups on Biden mandate: If he can force a needle in your arm, can he take your gun?"
+    excerpt: "Second Amendment supporters are expressing concern over President Biden’s move Thursday forcing large employers to vaccinate their employees, fearing that the logic behind the federal edict could be applied to confiscating guns or drastically limiting gun rights. "
+    publishedDateTime: 2021-09-10T20:14:45Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cufzPpy56-0/second-amendment-groups-biden-mandate-needle-gun"
+    ampWebUrl: "https://www.foxnews.com/politics/second-amendment-groups-biden-mandate-needle-gun.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/second-amendment-groups-biden-mandate-needle-gun.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 160
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/aaafde46-06c1-423f-a605-8de2613d67df/062feec6-e2c6-41f0-bb22-c1229d302361/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Pence tells 'Fox & Friends' Biden vaccine mandate ‘unlike anything I ever heard from an American president’"
     excerpt: "Former Vice President Mike Pence on Friday reacted to President Biden’s speech on vaccine mandates, arguing that it was “unlike anything he has ever heard from an American president.”"
     publishedDateTime: 2021-09-10T13:29:00Z
