@@ -2,6 +2,49 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-08-26-mike-lindells-obsession-with-trump-a-symptom-of-human-nature-letter.md",
+      "title": "Mike Lindell’s obsession with Trump a symptom of human nature | Letter",
+      "excerpt": "Mike Lindell may be in love with “the Donald,” an unrequited love that will never become realized, writer says.",
+      "sourceUrl": null,
+      "webUrl": "https://www.lehighvalleylive.com/opinion/2021/08/mike-lindells-obsession-with-trump-a-symptom-of-human-nature-letter.html",
+      "originalUrl": "https://www.lehighvalleylive.com/opinion/2021/08/mike-lindells-obsession-with-trump-a-symptom-of-human-nature-letter.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/3PTKE2NFOFAC7HM5YIQA26RQB4.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.lehighvalleylive.com/opinion/2021/08/mike-lindells-obsession-with-trump-a-symptom-of-human-nature-letter.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-lehighvalleylive-com.cdn.ampproject.org/c/s/www.lehighvalleylive.com/opinion/2021/08/mike-lindells-obsession-with-trump-a-symptom-of-human-nature-letter.html?outputType=amp",
+      "publishedDateTime": "2021-08-26T06:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Lehigh Valley Live",
+        "domain": "lehighvalleylive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-08-26-did-erik-prince-save-joe-biden-from-taliban-blackwater-chief-recalls-2008-rescue.md",
       "title": "Did Erik Prince save Joe Biden from Taliban? Blackwater chief recalls 2008 rescue",
       "excerpt": "White House Press Secretary Jen Psaki described Erik Prince, 52, as having no 'heart and soul,' profiting off 'people's agony and pain'",
@@ -1220,63 +1263,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-24-kamala-harris-plane-from-singapore-delayed-over-possible-havana-syndrome-incident.md",
-      "title": "Kamala Harris' plane from Singapore delayed over possible 'Havana syndrome' incident",
-      "excerpt": "Vice President Kamala Harris’ plane was delayed in Singapore on Tuesday for three hours after a possible case of the mysterious \"Havana syndrome.\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-G5VtDs4TmM/kamala-harris-plane-singapore-delayed-possible-havana-syndrome",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-G5VtDs4TmM/kamala-harris-plane-singapore-delayed-possible-havana-syndrome",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 218,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/08/340/340/jacqui-heinrich-headshot.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/kamala-harris-plane-singapore-delayed-possible-havana-syndrome.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-plane-singapore-delayed-possible-havana-syndrome.amp",
-      "publishedDateTime": "2021-08-24T09:03:26-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Kamala Harris"
       ]
     }
   ],

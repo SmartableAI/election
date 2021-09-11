@@ -2,6 +2,62 @@
   "page": 47,
   "value": [
     {
+      "path": "_news/2021-06-06-trump-endorses-ted-budd-in-north-carolina-senate-gop-primary.md",
+      "title": "Trump endorses Ted Budd in North Carolina Senate GOP primary",
+      "excerpt": "Former President Donald Trump on Saturday endorsed Rep. Ted Budd's campaign for Senate in North Carolina, making the surprise announcement just minutes after his daughter-in-law Lara Trump confirmed she would not be entering the Republican primary for the open seat in 2022.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Wwnxuhryh0Y/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Wwnxuhryh0Y/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 215,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210428092747-rep-ted-budd-file-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/05/politics/north-carolina-senate-race-ted-budd-donald-trump/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/05/politics/north-carolina-senate-race-ted-budd-donald-trump/index.html",
+      "publishedDateTime": "2021-06-05T18:55:21-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-05-bidens-justice-department-says-it-will-no-longer-seize-reporters-records-for-leak-investigations.md",
       "title": "Biden's Justice Department says it will no longer seize reporters' records for leak investigations",
       "excerpt": "The Justice Department on Saturday said it will no longer seize reporters' records in leak investigations, a notable policy shift on the heels of disclosures that federal prosecutors aggressively pursued communication data from reporters to identify their sources.\n    \n",
@@ -1295,58 +1351,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-06-03-jimmy-kimmel-on-trump-abandoning-his-blog-its-a-move-he-calls-the-eric.md",
-      "title": "Jimmy Kimmel on Trump abandoning his blog: ‘It’s a move he calls the Eric’",
-      "excerpt": "With most late-night hosts on holiday this week, Kimmel mocks the end of Trump’s short-lived website and Amazon’s new cannabis policy",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/culture/2021/jun/03/jimmy-kimmel-donald-trump-blog-late-night-recap",
-      "originalUrl": "https://www.theguardian.com/culture/2021/jun/03/jimmy-kimmel-donald-trump-blog-late-night-recap",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/f06f499090879d7c5709f6eb7602fabe4aa920dd/207_107_2428_1457/master/2428.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=32045ce26666f3a7005ff1443790be4c",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/culture/2021/jun/03/jimmy-kimmel-donald-trump-blog-late-night-recap",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/culture/2021/jun/03/jimmy-kimmel-donald-trump-blog-late-night-recap",
-      "publishedDateTime": "2021-06-03T08:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

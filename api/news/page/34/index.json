@@ -2,6 +2,62 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2021-06-30-fact-check-biden-keeps-repeating-a-false-story-about-an-amtrak-conductor-he-knew.md",
+      "title": "Fact check: Biden keeps repeating a false story about an Amtrak conductor he knew",
+      "excerpt": "On Tuesday, President Joe Biden repeated a vivid story he has been telling since at least his 2020 presidential campaign.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pqZJT7Xerck/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pqZJT7Xerck/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 170,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210630133654-01-angelo-negri-biden-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/30/politics/fact-check-biden-amtrak-angelo-negri-miles-traveled/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/30/politics/fact-check-biden-amtrak-angelo-negri-miles-traveled/index.html",
+      "publishedDateTime": "2021-06-30T11:46:12-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-01-trump-lawyer-bruce-castor-plays-a-central-role-in-bill-cosby-going-free.md",
       "title": "Trump lawyer Bruce Castor plays a central role in Bill Cosby going free",
       "excerpt": "Castor's representation of Trump in his impeachment trial raised questions about his past decisions about Cosby's prosecution. Now the Pennsylvania Supreme Court has set Cosby free based upon Castor's testimony.",
@@ -1301,62 +1357,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-28-greg-abbotts-fight-to-keep-trumps-border-wall-dream-alive.md",
-      "title": "Greg Abbott's fight to keep Trump's border wall dream alive",
-      "excerpt": "Texas Gov. Greg Abbott is pulling out all the stops to build a border wall between his state and Mexico, and a new poll shows that his base is all for it. \n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vFcVN-fPtfQ/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vFcVN-fPtfQ/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 215,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210112115647-primera-trump-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/28/politics/greg-abbott-texas-border-wall-trump-crowdfunding/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/28/politics/greg-abbott-texas-border-wall-trump-crowdfunding/index.html",
-      "publishedDateTime": "2021-06-28T15:32:32-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

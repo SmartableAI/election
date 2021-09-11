@@ -2,6 +2,62 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-08-18-biden-pushes-for-vaccine-booster-shots-starting-in-september.md",
+      "title": "Biden pushes for vaccine booster shots starting in September",
+      "excerpt": "Biden announced a plan to offer COVID-19 vaccine booster shots beginning the week of September 20",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2asPfLZtTzY/biden-pushes-for-vaccine-booster-shots-starting-in-september",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2asPfLZtTzY/biden-pushes-for-vaccine-booster-shots-starting-in-september",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 295,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f850f181-a8b7-4e53-aff1-b2f6a57a4421/b2dd30f1-028f-4be2-90c5-01a4b4eaf1d4/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-pushes-for-vaccine-booster-shots-starting-in-september.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-pushes-for-vaccine-booster-shots-starting-in-september.amp",
+      "publishedDateTime": "2021-08-18T14:36:43-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-08-19-trump-family-friend-associate-ken-kurson-re-arrested-on-cyber-stalking-charges.md",
       "title": "Trump family friend, associate Ken Kurson re-arrested on cyber-stalking charges",
       "excerpt": "Seven months after he was granted a pardon by then-President Trump, Ken Kurson, a friend of Trump's son-in-law, was arrested Wednesday on new charges.",
@@ -1250,49 +1306,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-14-newsom-paints-larry-elder-as-right-of-donald-trump-as-recall-election-heats-up.md",
-      "title": "Newsom paints Larry Elder as ‘right of Donald Trump’ as recall election heats up",
-      "excerpt": "Gov. Gavin Newsom was joined by prominent San Francisco politicians at Manny’s in San Francisco’s Mission District on Friday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eastbaytimes.com/2021/08/13/newsom-recall-election-heats-up-as-governor-and-candidates-hit-the-campaign-trail/",
-      "originalUrl": "https://www.eastbaytimes.com/2021/08/13/newsom-recall-election-heats-up-as-governor-and-candidates-hit-the-campaign-trail/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eastbaytimes.com/wp-content/uploads/2021/08/SJM-L-CAMPAIGN-0814-09-1.jpg?w=1024&#038;h=685",
-          "width": 1024,
-          "height": 685,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.eastbaytimes.com/2021/08/13/newsom-recall-election-heats-up-as-governor-and-candidates-hit-the-campaign-trail/amp/",
-      "cdnAmpWebUrl": "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2021/08/13/newsom-recall-election-heats-up-as-governor-and-candidates-hit-the-campaign-trail/amp/",
-      "publishedDateTime": "2021-08-13T23:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "East Bay Times",
-        "domain": "eastbaytimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

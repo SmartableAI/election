@@ -2,6 +2,62 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-08-02-fundraiser-in-chief-biden-headlining-democratic-party-fundraiser.md",
+      "title": "Fundraiser-in-chief: Biden headlining Democratic Party fundraiser",
+      "excerpt": "President Biden headlines a fundraiser for the Democratic National Committee on Monday evening, in an effort to build up resources ahead of next year’s midterm elections, when the Democrats will be defending the razor thin majorities in both the House and Senate.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/273rEu_bMWg/fundraiser-in-chief-biden-headlining-democratic-party-fundraiser",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/273rEu_bMWg/fundraiser-in-chief-biden-headlining-democratic-party-fundraiser",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 215,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://amp.spot.im/loader.png",
+          "width": 375,
+          "height": 815,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/fundraiser-in-chief-biden-headlining-democratic-party-fundraiser.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/fundraiser-in-chief-biden-headlining-democratic-party-fundraiser.amp",
+      "publishedDateTime": "2021-08-02T08:10:34-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-08-02-comedian-john-oliver-slams-bidens-inexcusable-lack-of-plan-to-save-afghan-translators-from-taliban.md",
       "title": "Comedian John Oliver slams Biden's 'inexcusable' lack of plan to save Afghan translators from Taliban",
       "excerpt": "Comedian John Oliver roasted President Joe Biden for an \"inexcusable\" lack of a plan to save Afghan translators who assisted the U.S. military and are currently trapped as the Taliban quickly gain ground there.",
@@ -1588,54 +1644,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-26-sarah-huckabee-sanders-urges-people-to-get-the-trump-vaccine.md",
-      "title": "Sarah Huckabee Sanders urges people to get the ‘Trump vaccine’",
-      "excerpt": "Former White House press secretary Sarah Huckabee Sanders acknowledged Sunday that she was inoculated against COVID-19 “months ago” — with the “Trump vaccine.”",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/07/25/sarah-huckabee-sanders-urges-people-to-get-the-trump-vaccine/",
-      "originalUrl": "https://nypost.com/2021/07/25/sarah-huckabee-sanders-urges-people-to-get-the-trump-vaccine/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/07/sarah-huckabee-sanders.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/07/25/sarah-huckabee-sanders-urges-people-to-get-the-trump-vaccine/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/25/sarah-huckabee-sanders-urges-people-to-get-the-trump-vaccine/amp/",
-      "publishedDateTime": "2021-07-25T17:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

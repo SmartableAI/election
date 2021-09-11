@@ -2,6 +2,62 @@
   "page": 75,
   "value": [
     {
+      "path": "_news/2021-04-07-boehner-lays-blame-for-that-bloody-insurrection-at-trumps-feet.md",
+      "title": "Boehner lays blame for 'that bloody insurrection' at Trump's feet",
+      "excerpt": "Former House Speaker John Boehner said former President Donald Trump \"incited that bloody insurrection\" at the US Capitol and blamed his false election claims for the GOP losing control of Congress, according to excerpts from his forthcoming book obtained by The New York Times.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ikjj7tB7bJQ/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ikjj7tB7bJQ/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 255,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210407094117-john-boehner-file-2019-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/07/politics/john-boehner-donald-trump-insurrection/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/07/politics/john-boehner-donald-trump-insurrection/index.html",
+      "publishedDateTime": "2021-04-07T16:58:03-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-08-trump-endorses-alabamas-mo-brooks-for-senate-a-promoter-of-his-false-claims-of-a-stolen-election.md",
       "title": "Trump endorses Alabama’s Mo Brooks for Senate, a promoter of his false claims of a stolen election",
       "excerpt": "Trump’s early endorsement is a major boost to Brooks, who has operated on the rightmost edge of the Republican Party during his time in the House.",
@@ -1294,63 +1350,6 @@
         "Election",
         "Democratic Voice",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-04-07-joe-biden-is-not-planning-to-solve-the-israeli-palestinian-conflict.md",
-      "title": "Joe Biden is not planning to solve the Israeli-Palestinian conflict",
-      "excerpt": "Joe Biden, though, isn’t all that interested. Unlike Barack Obama and Donald Trump, Biden hasn’t named a special envoy to focus on the Israeli-Palestinian portfolio. Unlike Bill Clinton, Biden has no plans for any sort of peace conference, or even a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2021/04/06/joe-biden-israel-palestine-conflict-479405",
-      "originalUrl": "https://www.politico.com/news/2021/04/06/joe-biden-israel-palestine-conflict-479405",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/52/24/4d5812e541128852ed8c3d89e2db/210406-biden-israel-getty-773.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/2021/04/06/joe-biden-israel-palestine-conflict-479405",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/04/06/joe-biden-israel-palestine-conflict-479405",
-      "publishedDateTime": "2021-04-06T15:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
       ]
     }
   ],

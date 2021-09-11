@@ -2,6 +2,58 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-08-12-meet-joe-bidens-secret-weapon-the-woman-who-wrangles-with-congress.md",
+      "title": "Meet Joe Biden’s secret weapon: the woman who wrangles with Congress",
+      "excerpt": "Louisa Terrell, White House director of the office of legislative affairs, is the tip of the spear of Biden’s team as she fulfills one of the most difficult jobs in a deeply divided political landscap",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/aug/12/joe-biden-secret-weapon-louisa-terrell-congress",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/aug/12/joe-biden-secret-weapon-louisa-terrell-congress",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 285,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/74a2c7eb79f9c8ef9db653798c8fcb347c1a4719/654_0_3346_2007/master/3346.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=cb7abaeb929f3807f0f8aaed493fc44b",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/aug/12/joe-biden-secret-weapon-louisa-terrell-congress",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/aug/12/joe-biden-secret-weapon-louisa-terrell-congress",
+      "publishedDateTime": "2021-08-12T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-08-12-biden-forges-ahead-where-trump-and-obama-failed-on-infrastructure-and-afghanistan.md",
       "title": "Biden forges ahead where Trump and Obama failed on infrastructure and Afghanistan",
       "excerpt": "Every president since George W. Bush has said it's time to leave Afghanistan and turn to nation building at home.\n    \n",
@@ -1241,62 +1293,6 @@
       "topics": [
         "Election",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-08-10-hunter-biden-relaxes-with-family-in-malibu-as-he-readies-for-high-priced-art-sale-see-the-photos.md",
-      "title": "Hunter Biden relaxes with family in Malibu as he readies for high-priced art sale: See the photos",
-      "excerpt": "President Joe Biden's son Hunter Biden was seen in Malibu Sunday afternoon with family and friends ahead of meeting with potential buyers of his controversial art.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/oc0_gPcBM2g/hunter-biden-relaxes-with-family-in-malibu-as-he-readies-for-high-priced-art-sale",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/oc0_gPcBM2g/hunter-biden-relaxes-with-family-in-malibu-as-he-readies-for-high-priced-art-sale",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 182,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3d6e1904-5f76-4296-8d43-5d253226be8c/187fcfeb-e169-46cd-accd-ef3072a9eada/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/hunter-biden-relaxes-with-family-in-malibu-as-he-readies-for-high-priced-art-sale.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-relaxes-with-family-in-malibu-as-he-readies-for-high-priced-art-sale.amp",
-      "publishedDateTime": "2021-08-09T18:50:09-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

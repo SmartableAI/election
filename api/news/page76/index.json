@@ -2,6 +2,63 @@
   "page": 76,
   "value": [
     {
+      "path": "_news/2021-04-07-joe-biden-is-not-planning-to-solve-the-israeli-palestinian-conflict.md",
+      "title": "Joe Biden is not planning to solve the Israeli-Palestinian conflict",
+      "excerpt": "Joe Biden, though, isn’t all that interested. Unlike Barack Obama and Donald Trump, Biden hasn’t named a special envoy to focus on the Israeli-Palestinian portfolio. Unlike Bill Clinton, Biden has no plans for any sort of peace conference, or even a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2021/04/06/joe-biden-israel-palestine-conflict-479405",
+      "originalUrl": "https://www.politico.com/news/2021/04/06/joe-biden-israel-palestine-conflict-479405",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/52/24/4d5812e541128852ed8c3d89e2db/210406-biden-israel-getty-773.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.com/amp/news/2021/04/06/joe-biden-israel-palestine-conflict-479405",
+      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/04/06/joe-biden-israel-palestine-conflict-479405",
+      "publishedDateTime": "2021-04-06T15:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-06-biden-to-nominate-robin-carnahan-as-administrator-of-general-services-administration.md",
       "title": "Biden to nominate Robin Carnahan as administrator of General Services Administration",
       "excerpt": "President Joe Biden announced Tuesday that he plans to nominate former Missouri Secretary of State Robin Carnahan as administrator of the General Services Administration, a powerful position whose previous occupant played a role in his delayed transition to the presidency.\n    \n",
@@ -1274,62 +1331,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/biden-in-easter-message-calls-getting-vaccine-a-moral-obligation.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-in-easter-message-calls-getting-vaccine-a-moral-obligation.amp",
       "publishedDateTime": "2021-04-04T16:04:19-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-04-hunter-biden-convinced-reluctant-joe-to-publicly-support-his-relationship-with-beaus-widow-hallie.md",
-      "title": "Hunter Biden convinced 'reluctant' Joe to publicly support his relationship with Beau's widow Hallie",
-      "excerpt": "Hunter Biden convinced his father Joe in early 2017 to put out a statement approving of the affair he was having with his deceased brother Beau's widow, Hallie Biden, telling Joe that if he didn't, the relationship would \"seem wrong.\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/0OdceAXBzgQ/hunter-biden-convinced-reluctant-joe-to-publicly-support-his-relationship-with-beaus-widow-hallie",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/0OdceAXBzgQ/hunter-biden-convinced-reluctant-joe-to-publicly-support-his-relationship-with-beaus-widow-hallie",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 180,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ec65f932-ba5e-46fc-90fb-78616b81afbe/db300423-7131-4072-90c4-e18e48b5851d/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/hunter-biden-convinced-reluctant-joe-to-publicly-support-his-relationship-with-beaus-widow-hallie.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-convinced-reluctant-joe-to-publicly-support-his-relationship-with-beaus-widow-hallie.amp",
-      "publishedDateTime": "2021-04-04T12:15:13-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

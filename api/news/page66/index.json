@@ -2,6 +2,62 @@
   "page": 66,
   "value": [
     {
+      "path": "_news/2021-04-22-with-trumps-backing-walker-freezes-senate-gop-field-in-georgia.md",
+      "title": "With Trump's backing, Walker freezes Senate GOP field in Georgia  ",
+      "excerpt": "Former President Donald Trump's backing of football great Herschel Walker to run for the Georgia Senate seat has been enough to effectively freeze the GOP field in place -- even though some Republicans privately worry the political neophyte might fizzle against Sen. Raphael Warnock in a high-stakes general",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Hnl9_MRoAQk/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Hnl9_MRoAQk/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 355,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210421194818-01-herschel-walker-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/22/politics/georgia-senate-race-2022-herschel-walker-donald-trump/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/22/politics/georgia-senate-race-2022-herschel-walker-donald-trump/index.html",
+      "publishedDateTime": "2021-04-22T09:50:58-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-22-the-trump-admin-awarded-a-firm-up-to-13-billion-to-make-covid-vaccine-syringes-where-are-they.md",
       "title": "The Trump admin awarded a firm up to $1.3 billion to make Covid vaccine syringes. Where are they?",
       "excerpt": "The Trump admin awarded a firm up to $1.3 billion to make Covid vaccine syringes. Where are they? The Covid vaccines are here, but the ApiJect syringe is not yet approved by federal regulators. WASHINGTON — A year after a Connecticut company was awarded federal loans and contracts worth up to nearly $1.",
@@ -1295,63 +1351,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-04-21-biden-ignores-1b-in-riot-damage-while-praising-george-floyd-protesters-after-chauvin-conviction.md",
-      "title": "Biden ignores $1B in riot damage while praising George Floyd protesters after Chauvin conviction",
-      "excerpt": "President Biden neglected to acknowledge the rioting, looting, arson and worse that reportedly caused more than $1 billion in property damage last year as he praised George Floyd protesters Tuesday following Derek Chauvin's conviction on murder charges.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/us/biden-ignores-1b-in-riot-damage-while-praising-george-floyd-protesters-after-chauvin-conviction",
-      "originalUrl": "https://www.foxnews.com/us/biden-ignores-1b-in-riot-damage-while-praising-george-floyd-protesters-after-chauvin-conviction",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/GettyImages-1312682563.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/us/biden-ignores-1b-in-riot-damage-while-praising-george-floyd-protesters-after-chauvin-conviction.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/biden-ignores-1b-in-riot-damage-while-praising-george-floyd-protesters-after-chauvin-conviction.amp",
-      "publishedDateTime": "2021-04-21T06:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
       ]
     }
   ],

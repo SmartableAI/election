@@ -271,6 +271,38 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Analysis: Joe Biden may have staked his presidency on the vaccine mandate"
+    excerpt: "Whether you love Joe Biden, hate him or aren't totally sure how you feel about him, we can all agree on this: His first term -- and maybe his entire presidency -- will hinge on how he is perceived to have dealt with the Covid-19 pandemic.\n    \n"
+    publishedDateTime: 2021-09-10T22:30:28Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/I7d-Vvu1ZAM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/09/10/politics/biden-vaccine-mandate-legacy/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/09/10/politics/biden-vaccine-mandate-legacy/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210829070546-01-joe-biden-08-29-2021-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden releases video commemorating 9/11 attacks ahead of 20th anniversary"
+    excerpt: "President Joe Biden paid tribute to the victims of the September 11 terror attacks in a short video address on Friday, saying ahead of the attacks' 20th anniversary that the \"central lesson\" of 9/11 is that national unity is America's greatest strength.\n    \n"
+    publishedDateTime: 2021-09-10T22:28:08Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/isYXneVj4oA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/09/10/politics/biden-september-11-anniversary-video/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/09/10/politics/biden-september-11-anniversary-video/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210910182515-biden-9-11-speech-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden announces new vaccine mandates that could cover 100 million Americans"
     excerpt: "President Joe Biden on Thursday will impose more stringent vaccine rules on federal workers, and take steps to encourage private businesses to do the same, during a major speech meant to lay out a new approach to combating the coronavirus.\n    \n"
     publishedDateTime: 2021-09-10T01:01:22Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/sep/10/joe-biden-vaccine-ma
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/sep/10/joe-biden-vaccine-mandates-coronavirus-covid"
 type: article
 quality: 125
-heat: 285
+heat: 305
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998031001/1d8ced6c-2a38-4e97-8955-b22320db511a/f3d0c067-6cd5-4bb8-8fa2-a5b474cd562c/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Ohio employer groups and Republicans criticize President Joe Biden’s vaccine mandate"
+    excerpt: "President Joe Biden announced Thursday that the Department of Labor will mandate that all companies with 100 or more employees require that their workforce be vaccinated or show weekly negative coronavirus tests."
+    publishedDateTime: 2021-09-10T21:25:00Z
+    webUrl: "https://www.cleveland.com/open/2021/09/ohio-employers-and-republicans-criticize-president-joe-bidens-vaccine-mandate-wait-for-more-federal-guidance.html"
+    ampWebUrl: "https://www.cleveland.com/open/2021/09/ohio-employers-and-republicans-criticize-president-joe-bidens-vaccine-mandate-wait-for-more-federal-guidance.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/open/2021/09/ohio-employers-and-republicans-criticize-president-joe-bidens-vaccine-mandate-wait-for-more-federal-guidance.html?outputType=amp"
+    type: article
+    provider:
+      name: Cleveland.com
+      domain: cleveland.com
+    quality: 68
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/T7EC4ZMPZRA3FBKKIR2V5TYUUA.jpg"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Ashley Moody vows fight against Joe Biden vaccine mandate"
     excerpt: "Attorney General Ashley Moody vowed Friday to take “any and all action” against federal plans to mandate COVID-19 vaccinations for more than 80 million Americans working in the private sector. “Joe Biden does not have the legal authority to force vaccines on millions of Americans,"

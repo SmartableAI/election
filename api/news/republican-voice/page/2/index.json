@@ -2,6 +2,63 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-09-08-tomi-lahren-rips-kamala-harris-havent-seen-this-level-of-tone-deafness-since-american-idol-auditions.md",
+      "title": "Tomi Lahren rips Kamala Harris: Haven't seen this level of tone-deafness since 'American Idol' auditions",
+      "excerpt": "Fox Nation host Tomi Lahren ripped into Vice President Kamala Harris Tuesday on ‘Outnumbered’ for traveling to California to campaign for Governor Gavin Newsom while remaining largely silent on Afghanistan.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/tomi-lahren-kamala-harris-tone-deafness-american-idol-newsom-recall",
+      "originalUrl": "https://www.foxnews.com/media/tomi-lahren-kamala-harris-tone-deafness-american-idol-newsom-recall",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6c75ca39-bfcc-4e29-b458-97825ace5fcd/12358397-8be6-4f5e-96fc-61f6f16b99f7/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-07T10:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-09-06-dem-sen-blumenthal-furious-over-biden-admin-delaying-americans-trying-to-leave-afghanistan.md",
       "title": "Dem Sen. Blumenthal 'furious' over Biden admin delaying Americans trying to leave Afghanistan",
       "excerpt": "Blumenthal issued a press release on Monday eviscerating the Biden administration for delaying flights out of the Mazar-e Sharif airport in Afghanistan following reports of the administration not giving the evacuation flights the green light.",
@@ -1589,62 +1646,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/trump-lawyer-john-coale-google-big-tech-lawsuit-hypocrisy.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-lawyer-john-coale-google-big-tech-lawsuit-hypocrisy.amp",
       "publishedDateTime": "2021-08-30T07:46:14-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-29-who-is-deanne-criswell-bidens-fema-boss.md",
-      "title": "Who is Deanne Criswell, Biden’s FEMA boss?",
-      "excerpt": "As Louisiana and the Gulf Coast braced for Hurricane Ida, set to make landfall on Sunday potentially as a Category 4 storm, the Federal Emergency Management Agency (FEMA) was expected to play a key role in disaster relief. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5li4tKMQcHI/who-is-deanne-criswell-bidens-fema-boss",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5li4tKMQcHI/who-is-deanne-criswell-bidens-fema-boss",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 235,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9eae107d-7ab8-4997-b3b5-16388e743752/931d726d-8b7f-4176-ba05-327a3e199447/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/who-is-deanne-criswell-bidens-fema-boss.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/who-is-deanne-criswell-bidens-fema-boss.amp",
-      "publishedDateTime": "2021-08-28T23:38:23-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

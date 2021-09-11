@@ -2,6 +2,62 @@
   "page": 42,
   "value": [
     {
+      "path": "_news/2021-06-15-biden-wh-strategy-for-battling-domestic-terror-labels-white-supremacy-militia-extremists-as-biggest-threats.md",
+      "title": "Biden WH strategy for battling domestic terror labels White supremacy, militia 'extremists' as biggest threats",
+      "excerpt": "The Biden administration on Tuesday unveiled its national strategy for countering domestic terrorism, with officials telling Fox News it is designed to cut across the political spectrum and is “laser focused” on combating violence in the U.S., while warning that White supremacy and “militia violent extremists”",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/eBnlwRf0n_8/biden-strategy-domestic-terrorism-white-supremacy-militia-extremists-threats",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/eBnlwRf0n_8/biden-strategy-domestic-terrorism-white-supremacy-militia-extremists-threats",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-strategy-domestic-terrorism-white-supremacy-militia-extremists-threats.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-strategy-domestic-terrorism-white-supremacy-militia-extremists-threats.amp",
+      "publishedDateTime": "2021-06-15T03:12:13-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-15-dana-carveys-joe-biden-impression-on-colbert-praised-as-perfect.md",
       "title": "Dana Carvey's Joe Biden Impression on Colbert Praised As 'Perfect'",
       "excerpt": "Dana Carvey appeared as Joe Biden for a full-interview with Stephen Colbert on The Late Show. His impression of the President went down well with fans.",
@@ -1271,58 +1327,6 @@
       "topics": [
         "Election",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-06-13-lara-trump-urges-americans-living-at-southern-border-to-arm-up-get-guns.md",
-      "title": "Lara Trump Urges Americans Living at Southern Border to 'Arm Up, Get Guns'",
-      "excerpt": "Lara Trump, former President Donald Trump's daughter-in-law, on Saturday night urged Americans living at the southern border to \"arm up\" and \"get guns\" as she railed against President Joe Biden's immigration policies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/lara-trump-urges-americans-living-southern-border-arm-get-guns-1600116",
-      "originalUrl": "https://www.newsweek.com/lara-trump-urges-americans-living-southern-border-arm-get-guns-1600116",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 143,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1819949/lara-trump-bidens-border-crisis.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/lara-trump-urges-americans-living-southern-border-arm-get-guns-1600116?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/lara-trump-urges-americans-living-southern-border-arm-get-guns-1600116?amp=1",
-      "publishedDateTime": "2021-06-12T20:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

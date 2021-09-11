@@ -2,6 +2,49 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-08-14-newsom-paints-larry-elder-as-right-of-donald-trump-as-recall-election-heats-up.md",
+      "title": "Newsom paints Larry Elder as ‘right of Donald Trump’ as recall election heats up",
+      "excerpt": "Gov. Gavin Newsom was joined by prominent San Francisco politicians at Manny’s in San Francisco’s Mission District on Friday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eastbaytimes.com/2021/08/13/newsom-recall-election-heats-up-as-governor-and-candidates-hit-the-campaign-trail/",
+      "originalUrl": "https://www.eastbaytimes.com/2021/08/13/newsom-recall-election-heats-up-as-governor-and-candidates-hit-the-campaign-trail/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eastbaytimes.com/wp-content/uploads/2021/08/SJM-L-CAMPAIGN-0814-09-1.jpg?w=1024&#038;h=685",
+          "width": 1024,
+          "height": 685,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.eastbaytimes.com/2021/08/13/newsom-recall-election-heats-up-as-governor-and-candidates-hit-the-campaign-trail/amp/",
+      "cdnAmpWebUrl": "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2021/08/13/newsom-recall-election-heats-up-as-governor-and-candidates-hit-the-campaign-trail/amp/",
+      "publishedDateTime": "2021-08-13T23:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "East Bay Times",
+        "domain": "eastbaytimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-08-14-moscow-says-no-plans-to-discuss-edward-snowdens-status-during-trump-putin-summit.md",
       "title": "Moscow says no plans to discuss Edward Snowden’s status during Trump-Putin summit",
       "excerpt": "Russia's foreign minister on Friday cast doubt on the possibility of extraditing Edward Snowden, the fugitive former National Security Agency contractor who received political asylum from Moscow after leaking classified documents to the media in 2013.",
@@ -1253,58 +1296,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-08-12-meet-joe-bidens-secret-weapon-the-woman-who-wrangles-with-congress.md",
-      "title": "Meet Joe Biden’s secret weapon: the woman who wrangles with Congress",
-      "excerpt": "Louisa Terrell, White House director of the office of legislative affairs, is the tip of the spear of Biden’s team as she fulfills one of the most difficult jobs in a deeply divided political landscap",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/aug/12/joe-biden-secret-weapon-louisa-terrell-congress",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/aug/12/joe-biden-secret-weapon-louisa-terrell-congress",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 285,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/74a2c7eb79f9c8ef9db653798c8fcb347c1a4719/654_0_3346_2007/master/3346.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=cb7abaeb929f3807f0f8aaed493fc44b",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/aug/12/joe-biden-secret-weapon-louisa-terrell-congress",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/aug/12/joe-biden-secret-weapon-louisa-terrell-congress",
-      "publishedDateTime": "2021-08-12T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

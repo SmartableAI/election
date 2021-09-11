@@ -2,6 +2,62 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-08-29-who-is-deanne-criswell-bidens-fema-boss.md",
+      "title": "Who is Deanne Criswell, Biden’s FEMA boss?",
+      "excerpt": "As Louisiana and the Gulf Coast braced for Hurricane Ida, set to make landfall on Sunday potentially as a Category 4 storm, the Federal Emergency Management Agency (FEMA) was expected to play a key role in disaster relief. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5li4tKMQcHI/who-is-deanne-criswell-bidens-fema-boss",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5li4tKMQcHI/who-is-deanne-criswell-bidens-fema-boss",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 235,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9eae107d-7ab8-4997-b3b5-16388e743752/931d726d-8b7f-4176-ba05-327a3e199447/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/who-is-deanne-criswell-bidens-fema-boss.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/who-is-deanne-criswell-bidens-fema-boss.amp",
+      "publishedDateTime": "2021-08-28T23:38:23-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-08-28-al-sharpton-to-biden-black-community-is-being-stabbed-in-the-back.md",
       "title": "Al Sharpton to Biden: Black community is being stabbed ‘in the back’",
       "excerpt": "Rev. Al Sharpton hit the stage Saturday during a voting rights rally to tell President Biden that supporters of the filibuster are “stabbing” the Black community “in the back.”",
@@ -1591,63 +1647,6 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-19-vivek-ramaswamy-calls-out-kamala-harris-silence-on-afghan-women-shes-totally-lost.md",
-      "title": "Vivek Ramaswamy calls out Kamala Harris' silence on Afghan women: 'She's totally lost'",
-      "excerpt": "Vivek Ramaswamy, author of Woke, Inc., called out Vice President Kamala Harris for her silence as some Afghan women face civil rights violations at the hands of the Taliban. Ramaswamy called it a ‘wasted opportunity’ for the vice president who could have positioned herself as a leader on women's rights.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/kamala-harris-silence-afghan-women-vivek-ramaswamy",
-      "originalUrl": "https://www.foxnews.com/media/kamala-harris-silence-afghan-women-vivek-ramaswamy",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7fbcb30d-5c36-4b64-8bf5-6342b1ea9899/b2d0d9e2-8c40-4f28-b0b8-7df556b93879/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/kamala-harris-silence-afghan-women-vivek-ramaswamy.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/kamala-harris-silence-afghan-women-vivek-ramaswamy.amp",
-      "publishedDateTime": "2021-08-18T11:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris",
         "Republican Voice"
       ]
     }

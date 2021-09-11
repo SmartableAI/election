@@ -75,6 +75,22 @@ related:
         width: 1024
         height: 580
         isCached: true
+  - title: "Now president, Joe Biden to mark 9/11 rite amid new terror fear"
+    excerpt: "He will again make the ritual journey to sacred American landmarks of loss. He will once more bow his head in silent prayer. He will repeat words of comfort for those whose lives changed forever"
+    publishedDateTime: 2021-09-11T02:30:00Z
+    webUrl: "https://www.denverpost.com/2021/09/10/joe-biden-to-mark-9-11-rite-amid-new-terror-fear/"
+    ampWebUrl: "https://www.denverpost.com/2021/09/10/joe-biden-to-mark-9-11-rite-amid-new-terror-fear/amp/"
+    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2021/09/10/joe-biden-to-mark-9-11-rite-amid-new-terror-fear/amp/"
+    type: article
+    provider:
+      name: The Denver Post
+      domain: denverpost.com
+    quality: 75
+    images:
+      - url: "https://www.denverpost.com/wp-content/uploads/2021/09/AP21254044178384.jpg?w=1024&#038;h=683"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Biden to travel to California ‘early next week’ to campaign for Gov. Newsom ahead of recall vote"
     excerpt: "Newsom is attempting to stave off a Republican-backed effort to oust him, which is motivated in part by anger toward his pandemic restrictions. Biden’s visit would come in the final hours of"
     publishedDateTime: 2021-09-07T23:38:00Z

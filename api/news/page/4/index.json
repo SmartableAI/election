@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-09-05-lara-trump-slams-hypocritical-kamala-harris-michelle-obama-for-silence-on-afghan-women.md",
+      "title": "Lara Trump Slams 'Hypocritical' Kamala Harris, Michelle Obama for Silence on Afghan Women",
+      "excerpt": "\"They are happy to be activists when it's politically advantageous,\" Donald Trump's daughter-in-law said on Fox News.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/lara-trump-slams-hypocritical-kamala-harris-michelle-obama-silence-afghan-women-1626238",
+      "originalUrl": "https://www.newsweek.com/lara-trump-slams-hypocritical-kamala-harris-michelle-obama-silence-afghan-women-1626238",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 191,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1887939/lara-trump-slams-kamala-harris-michelle-obama.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/lara-trump-slams-hypocritical-kamala-harris-michelle-obama-silence-afghan-women-1626238?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/lara-trump-slams-hypocritical-kamala-harris-michelle-obama-silence-afghan-women-1626238?amp=1",
+      "publishedDateTime": "2021-09-05T08:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-09-05-did-trump-just-go-up-with-the-first-tv-ad-of-the-2024-presidential-campaign.md",
       "title": "Did Trump just go up with the first TV ad of the 2024 presidential campaign?",
       "excerpt": "A new ad by former President Trump's political action committee that blasts President Biden over the U.S. exit from Afghanistan can be seen as the first TV ad of the 2024 presidential campaign",
@@ -1259,58 +1311,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-09-03-trump-towers-key-tenants-have-fallen-behind-on-rent-and-moved-out-but-trump-has-one-reliable-customer-his-own-pac.md",
-      "title": "Trump Tower’s key tenants have fallen behind on rent and moved out. But Trump has one reliable customer: His own PAC.",
-      "excerpt": "Trump’s PAC pays more than $37,000 a month for space at the tower — the latest instance of Trump using donors’ money to prop up his businesses.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/trump-tower-pac-rent-campaign-finance/2021/09/02/dfeae19e-0b2f-11ec-9781-07796ffb56fe_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/trump-tower-pac-rent-campaign-finance/2021/09/02/dfeae19e-0b2f-11ec-9781-07796ffb56fe_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JEFP3DGEWII6VKBFQ4RAATSBKA.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-03T03:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

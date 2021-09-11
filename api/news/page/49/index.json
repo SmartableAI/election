@@ -2,6 +2,58 @@
   "page": 49,
   "value": [
     {
+      "path": "_news/2021-06-02-us-ends-trump-era-immigration-policy-that-forced-asylum-seekers-to-wait-in-mexico-for-hearings-in-immigration-court.md",
+      "title": "US ends Trump-era immigration policy that forced asylum-seekers to wait in Mexico for hearings in immigration court",
+      "excerpt": "The Biden administration on Tuesday formally ended a Trump-era immigration policy that forced asylum-seekers to wait in Mexico for hearings in U.S. immigration court.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chicagotribune.com/nation-world/ct-aud-nw-us-biden-end-trump-immigration-policy-asylum-mexico-court-20210601-ozztyq5cojhileqsbuog232ipq-story.html",
+      "originalUrl": "https://www.chicagotribune.com/nation-world/ct-aud-nw-us-biden-end-trump-immigration-policy-asylum-mexico-court-20210601-ozztyq5cojhileqsbuog232ipq-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chicagotribune.com/resizer/6HwP7hGhWlXmHzuJczhcTG55y6A=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/7AK2LAGF26SSGEEMGLS2DI6RVE.aspx",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.chicagotribune.com/nation-world/ct-aud-nw-us-biden-end-trump-immigration-policy-asylum-mexico-court-20210601-ozztyq5cojhileqsbuog232ipq-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-us-biden-end-trump-immigration-policy-asylum-mexico-court-20210601-ozztyq5cojhileqsbuog232ipq-story.html?outputType=amp",
+      "publishedDateTime": "2021-06-01T16:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Tribune",
+        "domain": "chicagotribune.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-06-01-biden-seemingly-blasts-sinema-manchin-for-voting-more-with-my-republican-friends.md",
       "title": "Biden seemingly blasts Sinema, Manchin for 'voting more with my Republican friends'",
       "excerpt": "President Biden laid blame on two Democratic senators for not passing voting rights legislation while speaking in Tulsa, Okla. on Tuesday.",
@@ -1310,58 +1362,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-05-29-us-seeks-dismissal-of-cases-against-trump-for-clearing-lafayette-square.md",
-      "title": "US seeks dismissal of cases against Trump for clearing Lafayette Square",
-      "excerpt": "Last June, law enforcement removed protesters before the then president walked to a church for a photo op with a Bible",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/may/29/trump-lafayette-square-protests-us-seeks-dismissal",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/may/29/trump-lafayette-square-protests-us-seeks-dismissal",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 225,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/182fdb98428aecee4ee42c211a403b595d2cb823/0_115_3705_2222/master/3705.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f893f4da2f4a0eb32537a5f5f3d23843",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/may/29/trump-lafayette-square-protests-us-seeks-dismissal",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/may/29/trump-lafayette-square-protests-us-seeks-dismissal",
-      "publishedDateTime": "2021-05-29T04:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

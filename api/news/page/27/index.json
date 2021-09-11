@@ -2,6 +2,54 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2021-07-13-biden-the-united-states-stands-firmly-with-the-people-of-cuba.md",
+      "title": "Biden: \"The United States Stands Firmly With The People Of Cuba\"",
+      "excerpt": "President Joe Biden addressed civil unrest in Cuba before delivering remarks on gun crime at a press availability on Monday. \"The United States stands firmly with the people of Cuba as they assert their universal rights,",
+      "sourceUrl": null,
+      "webUrl": "https://www.realclearpolitics.com/video/2021/07/12/biden_the_united_states_stands_firmly_with_the_people_of_cuba.html",
+      "originalUrl": "https://www.realclearpolitics.com/video/2021/07/12/biden_the_united_states_stands_firmly_with_the_people_of_cuba.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.realclear.com/images/54/547926.jpg",
+          "width": 912,
+          "height": 684,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "http://www.realclearpolitics.com/video/2021/07/12/biden_the_united_states_stands_firmly_with_the_people_of_cuba.amp.html",
+      "cdnAmpWebUrl": "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/07/12/biden_the_united_states_stands_firmly_with_the_people_of_cuba.amp.html",
+      "publishedDateTime": "2021-07-12T14:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RealClearPolitics",
+        "domain": "realclearpolitics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-12-rubio-slams-biden-admins-major-failure-of-initially-tying-of-cuban-protests-to-rising-covid-cases.md",
       "title": "Rubio slams Biden admin’s 'major failure' of initially tying of Cuban protests to rising COVID cases",
       "excerpt": "Sen. Marco Rubio, R-Fla., is criticizing President Biden’s administration for its initial diagnosis on the causes of mass protests that broke out in Cuba on Sunday.",
@@ -1298,62 +1346,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-10-donald-trump-jr-tears-into-avenatti-fauci-hunter-biden-and-cnn-in-a-fiery-cpac-dallas-speech.md",
-      "title": "Donald Trump Jr. tears into Avenatti, Fauci, Hunter Biden, and CNN in a fiery CPAC Dallas speech",
-      "excerpt": "Donald Trump Jr. took aim at several high-profile targets during a fiery speech at CPAC in Dallas.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/VRqfz9RzIuw/donald-trump-jr-cpac-dallas",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/VRqfz9RzIuw/donald-trump-jr-cpac-dallas",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 297,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/17d470ea-38fb-4d7f-b7a5-03a24b8cdba2/d107bd62-0119-4c28-b168-13c81a54275f/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/donald-trump-jr-cpac-dallas.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/donald-trump-jr-cpac-dallas.amp",
-      "publishedDateTime": "2021-07-09T17:58:18-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

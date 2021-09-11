@@ -2,6 +2,62 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2021-06-06-trump-demands-100-tariffs-on-chinese-goods-debt-cancellation-and-10t-in-reparations-for-covid-19.md",
+      "title": "Trump demands 100% tariffs on Chinese goods, debt cancellation, and $10T in reparations for COVID-19",
+      "excerpt": "Donald Trump returned to the GOP political scene Saturday with a speech at the North Carolina Republican Convention, where he called on China to pay “reparations” to the U.S. for coronavirus-related damages.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/XBdeF-Oi6t0/trump-china-pay-10-trillion-in-reparations-for-covid-19",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/XBdeF-Oi6t0/trump-china-pay-10-trillion-in-reparations-for-covid-19",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 200,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5d804ca7-92c4-4052-92f1-2c73cbe36b5c/0a7739a1-8be0-4390-891e-d5b2a298df51/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-china-pay-10-trillion-in-reparations-for-covid-19.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-china-pay-10-trillion-in-reparations-for-covid-19.amp",
+      "publishedDateTime": "2021-06-05T19:28:39-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-04-biden-pentagon-state-department-at-odds-over-pride-flag.md",
       "title": "Biden Pentagon, State Department at odds over pride flag",
       "excerpt": "The Defense Department will not allow the Pride flag to be flown at military bases, unlike the State Department, spokesperson John Kirby said Friday.",
@@ -1560,62 +1616,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/senators-belarus.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/senators-belarus.amp",
       "publishedDateTime": "2021-05-29T14:11:52-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-29-pompeo-calls-biden-budget-proposal-smorgasbord-of-left-wing-activities.md",
-      "title": "Pompeo calls Biden budget proposal ‘smorgasbord of left-wing activities’",
-      "excerpt": "Former Secretary of State Mike Pompeo on Saturday described President Biden’s budget proposal as a “smorgasbord of left-wing activities” -- the costs of which, he warned, would be inflicted upon future generations.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-T9XdhO-j3s/pompeo-biden-budget-proposal-smorgasboard-left-wing-activities",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-T9XdhO-j3s/pompeo-biden-budget-proposal-smorgasboard-left-wing-activities",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 174,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c68c707b-ea0a-444c-9b13-86f72acd99cc/b5fb0970-9acf-4cf8-b486-143b7510d448/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/pompeo-biden-budget-proposal-smorgasboard-left-wing-activities.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pompeo-biden-budget-proposal-smorgasboard-left-wing-activities.amp",
-      "publishedDateTime": "2021-05-29T13:58:55-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

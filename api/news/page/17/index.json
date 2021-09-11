@@ -2,6 +2,62 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2021-08-02-mark-meadows-trump-meeting-with-his-cabinet-despite-not-having-one.md",
+      "title": "Mark Meadows: Trump meeting with his 'cabinet' (despite not having one)",
+      "excerpt": "Former Trump White House Chief of Staff Mark Meadows told Newsmax that the former president has been holding meetings with his \"cabinet\" despite not being president. New York Times reporter and CNN political analyst Maggie Haberman has the details.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-0N70X6ATSE/mark-meadows-trump-cabinet-newsmax-haberman-sot-newday-vpx.cnn",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-0N70X6ATSE/mark-meadows-trump-cabinet-newsmax-haberman-sot-newday-vpx.cnn",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210802081536-mark-meadows-newsmax-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/videos/politics/2021/08/02/mark-meadows-trump-cabinet-newsmax-haberman-sot-newday-vpx.cnn",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/08/02/mark-meadows-trump-cabinet-newsmax-haberman-sot-newday-vpx.cnn",
+      "publishedDateTime": "2021-08-02T05:47:19-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-08-02-pastor-greg-locke-says-only-crack-smoking-leftists-believe-joe-biden-won-election.md",
       "title": "Pastor Greg Locke Says Only 'Crack-Smoking' Leftists Believe Joe Biden Won Election",
       "excerpt": "Controversial Tennessee pastor Greg Locke again insisted President Joe Biden was not legitimately elected, and claimed only \"crack-smoking\" leftists would think he beat Donald Trump to the White House.",
@@ -1261,62 +1317,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-07-30-justice-department-advises-biden-administration-to-hand-over-trump-tax-returns-to-congress.md",
-      "title": "Justice Department advises Biden administration to hand over Trump tax returns to Congress",
-      "excerpt": "The Justice Department told the Treasury Department that it \"must\" turn over former President Donald Trump's tax returns to the House Ways and Means Committee, which first requested them more than two years ago.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QxYi1VG0usc/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QxYi1VG0usc/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 1200,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/190919130022-20190918-trump-tax-forms-generic-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/30/politics/biden-justice-department-olc-trump-tax-returns-house/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/30/politics/biden-justice-department-olc-trump-tax-returns-house/index.html",
-      "publishedDateTime": "2021-07-30T10:29:16-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

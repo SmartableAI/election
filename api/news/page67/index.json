@@ -2,6 +2,63 @@
   "page": 67,
   "value": [
     {
+      "path": "_news/2021-04-21-biden-ignores-1b-in-riot-damage-while-praising-george-floyd-protesters-after-chauvin-conviction.md",
+      "title": "Biden ignores $1B in riot damage while praising George Floyd protesters after Chauvin conviction",
+      "excerpt": "President Biden neglected to acknowledge the rioting, looting, arson and worse that reportedly caused more than $1 billion in property damage last year as he praised George Floyd protesters Tuesday following Derek Chauvin's conviction on murder charges.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/us/biden-ignores-1b-in-riot-damage-while-praising-george-floyd-protesters-after-chauvin-conviction",
+      "originalUrl": "https://www.foxnews.com/us/biden-ignores-1b-in-riot-damage-while-praising-george-floyd-protesters-after-chauvin-conviction",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/GettyImages-1312682563.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/us/biden-ignores-1b-in-riot-damage-while-praising-george-floyd-protesters-after-chauvin-conviction.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/biden-ignores-1b-in-riot-damage-while-praising-george-floyd-protesters-after-chauvin-conviction.amp",
+      "publishedDateTime": "2021-04-21T06:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-21-foxconn-plant-once-touted-by-trump-as-a-13000-job-juggernaut-will-now-create-just-1500-jobs.md",
       "title": "Foxconn plant, once touted by Trump as a 13,000-job juggernaut, will now create just 1,500 jobs",
       "excerpt": "Taiwan electronics manufacturer Foxconn is drastically scaling back a planned $10 billion factory in Wisconsin, confirming its retreat from a project that former President Donald Trump once called \"the eighth wonder of the world.",
@@ -1296,58 +1353,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-19-the-us-counties-lagging-in-covid-19-vaccinations-have-one-thing-in-common-trump-voters.md",
-      "title": "The US counties lagging in COVID-19 vaccinations have one thing in common: Trump voters",
-      "excerpt": "But in hundreds of counties around the country, vaccination rates are low, with some even languishing in the teens. The disparity in vaccination rates has so far mainly broken down along political lines.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chicagotribune.com/coronavirus/vaccine/ct-aud-nw-nyt-coronavirus-vaccine-hesitancy-politics-20210419-4cjra7mwmnh6tgugojjpfrjeoi-story.html",
-      "originalUrl": "https://www.chicagotribune.com/coronavirus/vaccine/ct-aud-nw-nyt-coronavirus-vaccine-hesitancy-politics-20210419-4cjra7mwmnh6tgugojjpfrjeoi-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.chicagotribune.com/resizer/vupPRWS9uJuXNtvMaqKGiBTxMgs=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/XGTUB5W2POGVA4PKVIRGW235VI.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.chicagotribune.com/coronavirus/vaccine/ct-aud-nw-nyt-coronavirus-vaccine-hesitancy-politics-20210419-4cjra7mwmnh6tgugojjpfrjeoi-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/coronavirus/vaccine/ct-aud-nw-nyt-coronavirus-vaccine-hesitancy-politics-20210419-4cjra7mwmnh6tgugojjpfrjeoi-story.html?outputType=amp",
-      "publishedDateTime": "2021-04-19T08:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chicago Tribune",
-        "domain": "chicagotribune.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

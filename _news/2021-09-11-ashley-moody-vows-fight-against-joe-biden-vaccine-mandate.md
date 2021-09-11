@@ -73,6 +73,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Ohio employer groups and Republicans criticize President Joe Biden’s vaccine mandate"
+    excerpt: "President Joe Biden announced Thursday that the Department of Labor will mandate that all companies with 100 or more employees require that their workforce be vaccinated or show weekly negative coronavirus tests."
+    publishedDateTime: 2021-09-10T21:25:00Z
+    webUrl: "https://www.cleveland.com/open/2021/09/ohio-employers-and-republicans-criticize-president-joe-bidens-vaccine-mandate-wait-for-more-federal-guidance.html"
+    ampWebUrl: "https://www.cleveland.com/open/2021/09/ohio-employers-and-republicans-criticize-president-joe-bidens-vaccine-mandate-wait-for-more-federal-guidance.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/open/2021/09/ohio-employers-and-republicans-criticize-president-joe-bidens-vaccine-mandate-wait-for-more-federal-guidance.html?outputType=amp"
+    type: article
+    provider:
+      name: Cleveland.com
+      domain: cleveland.com
+    quality: 68
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/T7EC4ZMPZRA3FBKKIR2V5TYUUA.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Ohio employers and Republicans criticize President Joe Biden’s vaccine mandate, wait for more federal guidance"
     excerpt: "President Joe Biden announced Thursday that the Department of Labor will mandate that all companies with 100 or more employees require that their workforce be vaccinated or show weekly negative coronavirus tests."
     publishedDateTime: 2021-09-10T22:30:00Z

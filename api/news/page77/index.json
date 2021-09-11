@@ -2,6 +2,62 @@
   "page": 77,
   "value": [
     {
+      "path": "_news/2021-04-04-hunter-biden-convinced-reluctant-joe-to-publicly-support-his-relationship-with-beaus-widow-hallie.md",
+      "title": "Hunter Biden convinced 'reluctant' Joe to publicly support his relationship with Beau's widow Hallie",
+      "excerpt": "Hunter Biden convinced his father Joe in early 2017 to put out a statement approving of the affair he was having with his deceased brother Beau's widow, Hallie Biden, telling Joe that if he didn't, the relationship would \"seem wrong.\"",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/0OdceAXBzgQ/hunter-biden-convinced-reluctant-joe-to-publicly-support-his-relationship-with-beaus-widow-hallie",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/0OdceAXBzgQ/hunter-biden-convinced-reluctant-joe-to-publicly-support-his-relationship-with-beaus-widow-hallie",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 180,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ec65f932-ba5e-46fc-90fb-78616b81afbe/db300423-7131-4072-90c4-e18e48b5851d/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/hunter-biden-convinced-reluctant-joe-to-publicly-support-his-relationship-with-beaus-widow-hallie.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-convinced-reluctant-joe-to-publicly-support-his-relationship-with-beaus-widow-hallie.amp",
+      "publishedDateTime": "2021-04-04T12:15:13-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-04-trump-campaign-and-allies-refund-122m-to-winred-donors-report.md",
       "title": "Trump campaign and allies refund $122M to WinRed donors: report",
       "excerpt": "The Trump campaign and allies including the Republican National Committee refunded more than $120 million to online donors in 2020.",
@@ -1280,58 +1336,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-04-03-trump-on-the-ballot-again-daughter-in-law-lara-ponders-senate-run.md",
-      "title": "Trump on the ballot again? Daughter-in-law Lara ponders Senate run",
-      "excerpt": "Photograph: Chip Somodevilla/Getty Images The Trump flags and yard signs are still up. Flags that shout “Impeach Biden” fly on the back of pickup trucks. “Most people here believe Donald Trump is still the president,” says Nancy Allen of her ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/apr/03/lara-trump-daughter-in-law-senate-run-republicans",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/apr/03/lara-trump-daughter-in-law-senate-run-republicans",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 205,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/dbb525dc690d09b3956ee913a02d71a72e7d5adb/0_63_4269_2561/master/4269.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=00ef5a90d76b2b847e7b97239dee1c5b",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/apr/03/lara-trump-daughter-in-law-senate-run-republicans",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/apr/03/lara-trump-daughter-in-law-senate-run-republicans",
-      "publishedDateTime": "2021-04-02T22:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

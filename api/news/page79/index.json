@@ -2,6 +2,58 @@
   "page": 79,
   "value": [
     {
+      "path": "_news/2021-04-02-biden-only-wants-to-raise-taxes-on-the-wealthy-but-hes-misleading-families-with-400000-plus-income.md",
+      "title": "Biden only wants to raise taxes on the wealthy, but he's misleading families with $400,000-plus income",
+      "excerpt": "DOW S&P 500 NASDAQ 100 President Joe Biden has repeatedly hinged his massive spending plans on a series of tax hikes with the single rule that \"no one making under $400,000 will see their federal taxes go up.\" The assertion is true, depending on your ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/biden-infrastructure-400000-federal-tax-hike-murky-wealthy-americans-affected-2021-4",
+      "originalUrl": "https://www.businessinsider.com/biden-infrastructure-400000-federal-tax-hike-murky-wealthy-americans-affected-2021-4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6065e9f652f11d001943196a?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/biden-infrastructure-400000-federal-tax-hike-murky-wealthy-americans-affected-2021-4?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-infrastructure-400000-federal-tax-hike-murky-wealthy-americans-affected-2021-4?amp",
+      "publishedDateTime": "2021-04-01T10:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-04-01-kennedy-blasts-bidens-massive-spending-plans-moving-toward-the-china-model-of-capitalism.md",
       "title": "Kennedy blasts Biden's massive spending plans: Moving toward the 'China model of capitalism'",
       "excerpt": "Republican Louisiana Sen. John Kennedy told \"America's Newsroom\" on Thursday that the Biden administration's infrastructure plan is a \"bold-neo socialist experiment\" that is similar to the \"Chinese model of capitalism.\"",
@@ -1306,49 +1358,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-quotes-from-bold-vision-to-dangerously-misguided-reactions-to-biden-infrastructure-plan.md",
-      "title": "QUOTES-From 'bold' vision to 'dangerously misguided' - reactions to Biden infrastructure plan",
-      "excerpt": "March 31 (Reuters) - U.S. President Joe Biden is asking Congress to pass a $2.3 trillion jobs and infrastructure plan that fixes roads and bridges and boosts social services like care for the elderly. To pay for it, Biden is seeking to raise corporate tax ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/usa-biden-infrastructure-reaction-idUSL1N2LT1TF",
-      "originalUrl": "https://www.reuters.com/article/usa-biden-infrastructure-reaction-idUSL1N2LT1TF",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL1N2LT1TF",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2LT1TF",
-      "publishedDateTime": "2021-03-31T07:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

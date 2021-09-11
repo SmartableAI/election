@@ -2,6 +2,63 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-06-30-ny-times-columnist-mocked-for-claiming-kamala-harris-should-be-given-easier-tasks-not-impossible-problems.md",
+      "title": "NY Times columnist mocked for claiming Kamala Harris should be given easier tasks, not ‘impossible problems’",
+      "excerpt": "New York Times columnist Ezra Klein feels President Biden is making life too difficult for Vice President Kamala Harris and feels she should be given simpler tasks to enhance her reputation, but critics on both sides quickly found problems with his argument.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/new-york-times-kamala-harris-impossible",
+      "originalUrl": "https://www.foxnews.com/media/new-york-times-kamala-harris-impossible",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d1876f41-1b77-41e2-94c6-274afbb4a204/a0c83d60-335a-43ff-90b6-412cc70addb2/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/new-york-times-kamala-harris-impossible.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/new-york-times-kamala-harris-impossible.amp",
+      "publishedDateTime": "2021-06-30T06:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-30-washington-posts-glenn-kessler-sen-tom-cotton-clash-over-fact-check-on-bidens-defund-the-police-stance.md",
       "title": "Washington Post's Glenn Kessler, Sen. Tom Cotton clash over fact-check on Biden's 'defund the police' stance",
       "excerpt": "Washington Post fact-checker Glenn Kessler took a swipe at Sen. Tom Cotton, R-Ark., who knocked his reporting on President Biden's stance on the “defund the police” movement.",
@@ -1604,62 +1661,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/michigan-report-reaffirms-2020-election-results-discrediting-trumps-fraud-claims.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/michigan-report-reaffirms-2020-election-results-discrediting-trumps-fraud-claims.amp",
       "publishedDateTime": "2021-06-23T17:25:47-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-23-biden-nominates-cindy-mccain-to-un-post-with-rank-of-ambassador.md",
-      "title": "Biden nominates Cindy McCain to UN post with rank of 'ambassador'",
-      "excerpt": "President Biden nominated Cindy McCain, wife of the late Arizona Republican Sen. John McCain, to be the U.S. representative to the United Nations Agencies for Food and Agriculture Wednesday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_IHJg0dIBrQ/biden-nominates-cindy-mccain-in-second-round-of-key-administration-roles",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_IHJg0dIBrQ/biden-nominates-cindy-mccain-in-second-round-of-key-administration-roles",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b8f5f98e-a448-4dca-9a4c-f1954c8ef45e/472077b9-875e-45ac-b263-61ccec8d21b0/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-nominates-cindy-mccain-in-second-round-of-key-administration-roles.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-nominates-cindy-mccain-in-second-round-of-key-administration-roles.amp",
-      "publishedDateTime": "2021-06-23T15:36:01-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

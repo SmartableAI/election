@@ -2,6 +2,49 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2021-08-04-will-bernie-sanders-kamala-harris-and-president-biden-campaign-for-newsom-stay-tuned-aide-says.md",
+      "title": "Will Bernie Sanders, Kamala Harris and President Biden campaign for Newsom? 'Stay tuned,' aide says",
+      "excerpt": "With California's recall election now just six weeks away, and polls showing the race tightening for Governor Newsom, Democrats are hoping to get some big name endorsements.",
+      "sourceUrl": null,
+      "webUrl": "https://abc7news.com/gavin-newsom-california-recall-ca-governor-joe-biden/10928433/",
+      "originalUrl": "https://abc7news.com/gavin-newsom-california-recall-ca-governor-joe-biden/10928433/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.abcotvs.com/dip/images/10928574_080321-kgo-ap-gavin-newsom-img.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abc7news.com/amp/gavin-newsom-california-recall-ca-governor-joe-biden/10928433/",
+      "cdnAmpWebUrl": "https://abc7news-com.cdn.ampproject.org/c/s/abc7news.com/amp/gavin-newsom-california-recall-ca-governor-joe-biden/10928433/",
+      "publishedDateTime": "2021-08-03T19:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC7 San Francisco",
+        "domain": "abc7news.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-08-04-ohio-special-election-underscores-donald-trumps-grip-on-republicans.md",
       "title": "Ohio special election underscores Donald Trump’s grip on Republicans",
       "excerpt": "Donald Trump’s grip on the Republican party was bolstered on Tuesday when a coal lobbyist endorsed by the former president defeated 10 fellow Republicans in a closely watched special election in Ohio.",
@@ -1298,62 +1341,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-08-02-mark-meadows-trump-meeting-with-his-cabinet-despite-not-having-one.md",
-      "title": "Mark Meadows: Trump meeting with his 'cabinet' (despite not having one)",
-      "excerpt": "Former Trump White House Chief of Staff Mark Meadows told Newsmax that the former president has been holding meetings with his \"cabinet\" despite not being president. New York Times reporter and CNN political analyst Maggie Haberman has the details.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-0N70X6ATSE/mark-meadows-trump-cabinet-newsmax-haberman-sot-newday-vpx.cnn",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-0N70X6ATSE/mark-meadows-trump-cabinet-newsmax-haberman-sot-newday-vpx.cnn",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210802081536-mark-meadows-newsmax-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/videos/politics/2021/08/02/mark-meadows-trump-cabinet-newsmax-haberman-sot-newday-vpx.cnn",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/08/02/mark-meadows-trump-cabinet-newsmax-haberman-sot-newday-vpx.cnn",
-      "publishedDateTime": "2021-08-02T05:47:19-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

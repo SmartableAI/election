@@ -2,6 +2,63 @@
   "page": 53,
   "value": [
     {
+      "path": "_news/2021-05-24-ex-trump-iran-envoy-brian-hook-joins-cerberus.md",
+      "title": "Ex-Trump Iran Envoy Brian Hook Joins Cerberus",
+      "excerpt": "Former State Department Iran envoy Brian Hook has joined private-equity firm Cerberus Capital Management.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/ex-trump-iran-envoy-brian-hook-joins-cerberus-11621854001",
+      "originalUrl": "https://www.wsj.com/articles/ex-trump-iran-envoy-brian-hook-joins-cerberus-11621854001",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-342381/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-24T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-05-24-kamala-harris-tells-2021-graduating-class-you-give-me-such-inspiration.md",
       "title": "Kamala Harris tells 2021 graduating class 'you give me such inspiration'",
       "excerpt": "\"I couldn't be more proud of you guys,\" she told the seniors. \"The things that you all have accomplished, you give me such inspiration.\"",
@@ -1291,54 +1348,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-05-21-sure-mccarthy-says-hed-tell-jan-6-commission-about-trump-phone-call.md",
-      "title": "‘Sure’: McCarthy says he’d tell Jan. 6 commission about Trump phone call",
-      "excerpt": "House Minority Leader Kevin McCarthy signaled Thursday that he’d be willing to detail his phone conversation with then-President Donald Trump during the Jan. 6 Capitol riot.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/05/20/mccarthy-says-hed-tell-jan-6-commission-about-trump-phone-call/",
-      "originalUrl": "https://nypost.com/2021/05/20/mccarthy-says-hed-tell-jan-6-commission-about-trump-phone-call/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/05/mccarthy-trump-phone-call-index.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/05/20/mccarthy-says-hed-tell-jan-6-commission-about-trump-phone-call/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/20/mccarthy-says-hed-tell-jan-6-commission-about-trump-phone-call/amp/",
-      "publishedDateTime": "2021-05-20T18:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     }
   ],

@@ -2,6 +2,63 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-06-11-pence-to-headline-two-events-in-iowa-fueling-2024-run-speculation.md",
+      "title": "Pence to headline two events in Iowa, fueling 2024 run speculation",
+      "excerpt": "Former Vice President Mike Pence is set to headline two events next month in Iowa, the first state to host a primary for presidential elections, further fueling speculation that the former VP is mulling a run in 2024.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/HyFASMdOgAY/pence-iowa-2024-presidential-speculation",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/HyFASMdOgAY/pence-iowa-2024-presidential-speculation",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 205,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/720/405/pence.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/pence-iowa-2024-presidential-speculation.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-iowa-2024-presidential-speculation.amp",
+      "publishedDateTime": "2021-06-11T10:53:42-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-06-11-swalwell-donald-trump-was-the-biggest-brother-weve-ever-seen-in-terms-of-spying-on-opponents.md",
       "title": "Swalwell: Donald Trump \"Was The Biggest Brother We've Ever Seen\" In Terms Of Spying On Opponents",
       "excerpt": "Rep. Eric Swalwell (D-CA) said former President Donald Trump used the Department of Justice to spy on him: \"I hope Trump supporters who fear big brother see that Donald Trump was the biggest brother we've ever seen in our country who did weaponize this to go all the way down the stack into the private communications of people he perceived as political opponents.",
@@ -1602,62 +1659,6 @@
         "Election",
         "Republican Voice",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-06-06-trump-demands-100-tariffs-on-chinese-goods-debt-cancellation-and-10t-in-reparations-for-covid-19.md",
-      "title": "Trump demands 100% tariffs on Chinese goods, debt cancellation, and $10T in reparations for COVID-19",
-      "excerpt": "Donald Trump returned to the GOP political scene Saturday with a speech at the North Carolina Republican Convention, where he called on China to pay “reparations” to the U.S. for coronavirus-related damages.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/XBdeF-Oi6t0/trump-china-pay-10-trillion-in-reparations-for-covid-19",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/XBdeF-Oi6t0/trump-china-pay-10-trillion-in-reparations-for-covid-19",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 200,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5d804ca7-92c4-4052-92f1-2c73cbe36b5c/0a7739a1-8be0-4390-891e-d5b2a298df51/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-china-pay-10-trillion-in-reparations-for-covid-19.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-china-pay-10-trillion-in-reparations-for-covid-19.amp",
-      "publishedDateTime": "2021-06-05T19:28:39-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

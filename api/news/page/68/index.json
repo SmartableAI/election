@@ -2,6 +2,58 @@
   "page": 68,
   "value": [
     {
+      "path": "_news/2021-04-19-the-us-counties-lagging-in-covid-19-vaccinations-have-one-thing-in-common-trump-voters.md",
+      "title": "The US counties lagging in COVID-19 vaccinations have one thing in common: Trump voters",
+      "excerpt": "But in hundreds of counties around the country, vaccination rates are low, with some even languishing in the teens. The disparity in vaccination rates has so far mainly broken down along political lines.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chicagotribune.com/coronavirus/vaccine/ct-aud-nw-nyt-coronavirus-vaccine-hesitancy-politics-20210419-4cjra7mwmnh6tgugojjpfrjeoi-story.html",
+      "originalUrl": "https://www.chicagotribune.com/coronavirus/vaccine/ct-aud-nw-nyt-coronavirus-vaccine-hesitancy-politics-20210419-4cjra7mwmnh6tgugojjpfrjeoi-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chicagotribune.com/resizer/vupPRWS9uJuXNtvMaqKGiBTxMgs=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/XGTUB5W2POGVA4PKVIRGW235VI.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.chicagotribune.com/coronavirus/vaccine/ct-aud-nw-nyt-coronavirus-vaccine-hesitancy-politics-20210419-4cjra7mwmnh6tgugojjpfrjeoi-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/coronavirus/vaccine/ct-aud-nw-nyt-coronavirus-vaccine-hesitancy-politics-20210419-4cjra7mwmnh6tgugojjpfrjeoi-story.html?outputType=amp",
+      "publishedDateTime": "2021-04-19T08:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Tribune",
+        "domain": "chicagotribune.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-04-19-biden-rejoining-iran-nuclear-agreement-dangerous-lieberman.md",
       "title": "Biden rejoining Iran nuclear agreement dangerous: Lieberman",
       "excerpt": "Former Senator Joe Lieberman (I) provides insight into the possible dangers that can come from U.S.-Iran negotiations.",
@@ -1310,62 +1362,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-16-tom-cotton-intel-on-russia-bounties-selectively-leaked-to-media-to-help-biden-campaign.md",
-      "title": "Tom Cotton: Intel on Russia bounties 'selectively leaked' to media to help Biden campaign",
-      "excerpt": "Sen. Tom Cotton, a Republican member of the Senate Judiciary Committee, told “The Faulkner Focus” Friday that Russia bounty intel “selectively leaked” information to the media to help the Biden campaign, after a senior Biden administration official said the intelligence community only had “low to moderate”",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/d1kmkK4Qw5M/tom-cotton-russia-bounty-intel-biden",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/d1kmkK4Qw5M/tom-cotton-russia-bounty-intel-biden",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 166,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/tom-cotton-russia-bounty-intel-biden.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tom-cotton-russia-bounty-intel-biden.amp",
-      "publishedDateTime": "2021-04-16T11:17:38-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Republican Voice"
       ]
     }

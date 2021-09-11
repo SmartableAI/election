@@ -2,6 +2,58 @@
   "page": 50,
   "value": [
     {
+      "path": "_news/2021-05-29-us-seeks-dismissal-of-cases-against-trump-for-clearing-lafayette-square.md",
+      "title": "US seeks dismissal of cases against Trump for clearing Lafayette Square",
+      "excerpt": "Last June, law enforcement removed protesters before the then president walked to a church for a photo op with a Bible",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/may/29/trump-lafayette-square-protests-us-seeks-dismissal",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/may/29/trump-lafayette-square-protests-us-seeks-dismissal",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 225,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/182fdb98428aecee4ee42c211a403b595d2cb823/0_115_3705_2222/master/3705.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f893f4da2f4a0eb32537a5f5f3d23843",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/may/29/trump-lafayette-square-protests-us-seeks-dismissal",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/may/29/trump-lafayette-square-protests-us-seeks-dismissal",
+      "publishedDateTime": "2021-05-29T04:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-05-29-biden-budget-highlights-lots-of-spending-taxing-the-rich.md",
       "title": "Biden budget highlights: Lots of spending, taxing the rich",
       "excerpt": "President Joe Biden’s $6 trillion budget proposal offers major new initiatives like child and elder care subsidies, generous tax credits for families and the working poor, and free community college",
@@ -1267,62 +1319,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/biden-commission-jan-6-riot.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-commission-jan-6-riot.amp",
       "publishedDateTime": "2021-05-27T15:25:11-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-27-biden-pick-for-top-intelligence-lawyer-refuses-to-rule-out-working-for-ccp-linked-huawei-in-future.md",
-      "title": "Biden pick for top intelligence lawyer refuses to rule out working for CCP-linked Huawei in future",
-      "excerpt": "President Biden’s pick as chief legal counsel for the U.S. intelligence community refused to renounce the possibility of future work with the Chinese government or the tech giant Huawei.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/LB17jW4Jee8/bidens-pick-for-top-spy-lawyer-refuses-to-rule-out-working-for-china-in-future",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/LB17jW4Jee8/bidens-pick-for-top-spy-lawyer-refuses-to-rule-out-working-for-china-in-future",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 161,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7a956baa-0cb5-479e-9a25-40885a488c9a/458ceed5-b020-4a2c-b47d-30ec012bedf5/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/bidens-pick-for-top-spy-lawyer-refuses-to-rule-out-working-for-china-in-future.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-pick-for-top-spy-lawyer-refuses-to-rule-out-working-for-china-in-future.amp",
-      "publishedDateTime": "2021-05-27T14:30:07-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

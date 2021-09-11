@@ -2,6 +2,62 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-09-09-biden-to-campaign-for-california-gov-gavin-newsom-day-before-recall-election.md",
+      "title": "Biden to campaign for California Gov. Gavin Newsom day before recall election",
+      "excerpt": "California Gov. Gavin Newsom's campaign announced Thursday that the day before the state's gubernatorial recall election, President Biden will join Newsom at a rally in Long Beach.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3oKOeY-4M7c/biden-to-campaign-california-governor-gavin-newsom-recall-election",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3oKOeY-4M7c/biden-to-campaign-california-governor-gavin-newsom-recall-election",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 467,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-to-campaign-california-governor-gavin-newsom-recall-election.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-to-campaign-california-governor-gavin-newsom-recall-election.amp",
+      "publishedDateTime": "2021-09-09T11:48:32-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-09-10-donald-trump-getting-millions-and-millions-for-boxing-analyst-gig-report-says.md",
       "title": "Donald Trump getting ‘millions and millions’ for boxing analyst gig, report says",
       "excerpt": "Former President Donald Trump will serve as a commentator for Saturday's fight card at the Hard Rock Hotel & Casino in Hollywood, Florida.",
@@ -105,8 +161,8 @@
       "title": "U.S. Vice President Kamala Harris to Visit Hampton University on Friday, September 10",
       "excerpt": "U.S. Vice President Kamala Harris will visit Hampton University on Friday, September 10, to recognize the contributions of HBCUs a",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/GlobeNewswire/kamala-harris-hampton-university-ea2f36913b333cebf7b3566e3d343498",
-      "originalUrl": "https://apnews.com/press-release/GlobeNewswire/kamala-harris-hampton-university-ea2f36913b333cebf7b3566e3d343498",
+      "webUrl": "https://apnews.com/press-release/globe-newswire/kamala-harris-hampton-university-ea2f36913b333cebf7b3566e3d343498",
+      "originalUrl": "https://apnews.com/press-release/globe-newswire/kamala-harris-hampton-university-ea2f36913b333cebf7b3566e3d343498",
       "featuredContent": null,
       "highlight": null,
       "heat": 218,
@@ -1236,54 +1292,6 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-09-08-trump-fueled-by-stress-and-looking-younger-at-75-don-jr-says.md",
-      "title": "Trump ‘fueled by stress’ and looking younger at 75, Don Jr. says",
-      "excerpt": "The secret to former President Donald Trump looking good at 75? Agita. Donald Trump Jr. said “stress fuels him” and pointed out that his father has had to take “more crap than",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/09/08/trump-fueled-by-stress-and-looking-younger-at-75-don-jr-says/",
-      "originalUrl": "https://nypost.com/2021/09/08/trump-fueled-by-stress-and-looking-younger-at-75-don-jr-says/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/09/donald-trump-health-03.jpg?quality=90&strip=all&w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/09/08/trump-fueled-by-stress-and-looking-younger-at-75-don-jr-says/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/09/08/trump-fueled-by-stress-and-looking-younger-at-75-don-jr-says/amp/",
-      "publishedDateTime": "2021-09-08T06:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Republican Voice"
       ]
     }

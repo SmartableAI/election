@@ -2,6 +2,54 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-09-08-trump-fueled-by-stress-and-looking-younger-at-75-don-jr-says.md",
+      "title": "Trump ‘fueled by stress’ and looking younger at 75, Don Jr. says",
+      "excerpt": "The secret to former President Donald Trump looking good at 75? Agita. Donald Trump Jr. said “stress fuels him” and pointed out that his father has had to take “more crap than",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/09/08/trump-fueled-by-stress-and-looking-younger-at-75-don-jr-says/",
+      "originalUrl": "https://nypost.com/2021/09/08/trump-fueled-by-stress-and-looking-younger-at-75-don-jr-says/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/09/donald-trump-health-03.jpg?quality=90&strip=all&w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/09/08/trump-fueled-by-stress-and-looking-younger-at-75-don-jr-says/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/09/08/trump-fueled-by-stress-and-looking-younger-at-75-don-jr-says/amp/",
+      "publishedDateTime": "2021-09-08T06:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-09-08-fact-check-did-chinese-media-depict-joe-biden-as-loser-soldier-captured-by-taliban.md",
       "title": "Fact Check: Did Chinese Media Depict Joe Biden as 'Loser' Soldier Captured by Taliban?",
       "excerpt": "A cartoon of President Joe Biden surrendering to Taliban militants appeared on popular social media sites in the final days of the U.S. military withdrawal from Afghanistan. An illustration showing a giant figure of Biden—in military fatigues and kneeling on the ground while surrounded by smaller Taliban fighters—was said to have been produced by China 's state-owned media to mock America.",
@@ -487,7 +535,7 @@
       "originalUrl": "https://thehill.com/homenews/administration/571071-biden-expected-to-campaign-for-newsom-in-california-next-week",
       "featuredContent": null,
       "highlight": null,
-      "heat": 365,
+      "heat": 385,
       "tags": null,
       "images": [
         {
@@ -733,7 +781,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 1166,
+      "heat": 1206,
       "tags": null,
       "images": [
         {
@@ -1232,58 +1280,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-09-05-lara-trump-slams-hypocritical-kamala-harris-michelle-obama-for-silence-on-afghan-women.md",
-      "title": "Lara Trump Slams 'Hypocritical' Kamala Harris, Michelle Obama for Silence on Afghan Women",
-      "excerpt": "\"They are happy to be activists when it's politically advantageous,\" Donald Trump's daughter-in-law said on Fox News.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/lara-trump-slams-hypocritical-kamala-harris-michelle-obama-silence-afghan-women-1626238",
-      "originalUrl": "https://www.newsweek.com/lara-trump-slams-hypocritical-kamala-harris-michelle-obama-silence-afghan-women-1626238",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 191,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1887939/lara-trump-slams-kamala-harris-michelle-obama.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/lara-trump-slams-hypocritical-kamala-harris-michelle-obama-silence-afghan-women-1626238?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/lara-trump-slams-hypocritical-kamala-harris-michelle-obama-silence-afghan-women-1626238?amp=1",
-      "publishedDateTime": "2021-09-05T08:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
       ]
     }
   ],

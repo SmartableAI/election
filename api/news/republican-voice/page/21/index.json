@@ -2,6 +2,62 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2021-04-22-florida-ag-moody-demands-biden-make-supreme-court-commission-meetings-public.md",
+      "title": "Florida AG Moody demands Biden make Supreme Court commission meetings public",
+      "excerpt": "Florida Attorney General Ashley Moody called this week for President Biden to allow public access to meetings of a commission he formed to explore a potential expansion of the Supreme Court, among other reforms.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ewBhAupQ7FQ/florida-ag-moody-demands-biden-make-supreme-court-commission-meetings-public",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ewBhAupQ7FQ/florida-ag-moody-demands-biden-make-supreme-court-commission-meetings-public",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 192,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/05c2a13b-83af-4d3f-9d1f-6b9fdb7bfc9c/1903328b-8ba5-4353-a238-68996472ba7c/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/florida-ag-moody-demands-biden-make-supreme-court-commission-meetings-public.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/florida-ag-moody-demands-biden-make-supreme-court-commission-meetings-public.amp",
+      "publishedDateTime": "2021-04-21T19:07:26-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-21-biden-admin-blocking-veterans-annual-memorial-day-motorcycle-rally-rep-mast-says.md",
       "title": "Biden admin blocking veterans' annual Memorial Day motorcycle rally, Rep. Mast says",
       "excerpt": "Rep. Brian Mast, R-Fla., accused the Biden administration of blocking the annual Rolling to Remember motorcycle rally, a 30-year-plus Memorial Day tradition for veterans that has always been staged in the Pentagon parking lot.",
@@ -1625,62 +1681,6 @@
         "Election",
         "Republican Voice",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-04-15-ex-trump-official-kellyanne-conway-named-senior-adviser-to-ohio-senate-candidate-bernie-moreno.md",
-      "title": "Ex-Trump official Kellyanne Conway named senior adviser to Ohio Senate candidate Bernie Moreno",
-      "excerpt": "Former Trump campaign manager Kellyanne Conway will serve as a senior adviser to Ohio Senate candidate Bernie Moreno, his campaign announced on Thursday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/HbMI4K9W-yY/ex-trump-official-kellyanne-conway-senior-adviser-ohio-senate-candidate-bernie-moreno",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/HbMI4K9W-yY/ex-trump-official-kellyanne-conway-senior-adviser-ohio-senate-candidate-bernie-moreno",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 163,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0b9ac759-5944-4eae-a66a-9543f7b07e79/4d7bc46b-988a-4b72-8a6a-96c59393937f/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/ex-trump-official-kellyanne-conway-senior-adviser-ohio-senate-candidate-bernie-moreno.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ex-trump-official-kellyanne-conway-senior-adviser-ohio-senate-candidate-bernie-moreno.amp",
-      "publishedDateTime": "2021-04-15T15:09:32-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

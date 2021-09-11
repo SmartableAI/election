@@ -2,6 +2,62 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2021-07-10-donald-trump-jr-tears-into-avenatti-fauci-hunter-biden-and-cnn-in-a-fiery-cpac-dallas-speech.md",
+      "title": "Donald Trump Jr. tears into Avenatti, Fauci, Hunter Biden, and CNN in a fiery CPAC Dallas speech",
+      "excerpt": "Donald Trump Jr. took aim at several high-profile targets during a fiery speech at CPAC in Dallas.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/VRqfz9RzIuw/donald-trump-jr-cpac-dallas",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/VRqfz9RzIuw/donald-trump-jr-cpac-dallas",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 297,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/17d470ea-38fb-4d7f-b7a5-03a24b8cdba2/d107bd62-0119-4c28-b168-13c81a54275f/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/donald-trump-jr-cpac-dallas.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/donald-trump-jr-cpac-dallas.amp",
+      "publishedDateTime": "2021-07-09T17:58:18-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-10-cpac-trump-jr-calls-biden-dolt-gloats-that-stripper-stormy-daniels-lawyer-is-going-to-prison.md",
       "title": "CPAC: Trump Jr. calls Biden ‘dolt,’ gloats that stripper Stormy Daniels’ lawyer is going to prison",
       "excerpt": "Calling the president who ousted his dad a “dolt” whose aides reward him with ice cream when he doesn’t fumble his lines, Donald Trump Jr.",
@@ -1299,49 +1355,6 @@
       "topics": [
         "Election",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-07-09-mike-pence-reportedly-once-lost-it-after-trump-threw-a-crumpled-newspaper-article-at-him.md",
-      "title": "Mike Pence reportedly once 'lost it' after Trump threw a crumpled newspaper article at him",
-      "excerpt": "Former Vice President Mike Pence reportedly \"lost it\" and \"snarled\" at former President Donald Trump in 2018 after getting a crumpled up newspaper article thrown at him. At the time, Pence's political committee had just hired Trump's adviser Corey Lewandowski,",
-      "sourceUrl": null,
-      "webUrl": "https://theweek.com/mike-pence/1002422/mike-pence-reportedly-once-lost-it-after-trump-threw-a-crumpled-newspaper",
-      "originalUrl": "https://theweek.com/mike-pence/1002422/mike-pence-reportedly-once-lost-it-after-trump-threw-a-crumpled-newspaper",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mediacloud.theweek.com/image/upload/f_auto,t_primary-image-mobile@1/v1625768503/GettyImages-1208915582%20%281%29.jpg",
-          "width": 375,
-          "height": 211,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://theweek.com/mike-pence/1002422/mike-pence-reportedly-once-lost-it-after-trump-threw-a-crumpled-newspaper?amp",
-      "cdnAmpWebUrl": "https://theweek-com.cdn.ampproject.org/c/s/theweek.com/mike-pence/1002422/mike-pence-reportedly-once-lost-it-after-trump-threw-a-crumpled-newspaper?amp",
-      "publishedDateTime": "2021-07-08T12:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "THE WEEK",
-        "domain": "theweek.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
       ]
     }
   ],

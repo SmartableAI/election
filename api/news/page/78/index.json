@@ -2,6 +2,58 @@
   "page": 78,
   "value": [
     {
+      "path": "_news/2021-04-03-trump-on-the-ballot-again-daughter-in-law-lara-ponders-senate-run.md",
+      "title": "Trump on the ballot again? Daughter-in-law Lara ponders Senate run",
+      "excerpt": "Photograph: Chip Somodevilla/Getty Images The Trump flags and yard signs are still up. Flags that shout “Impeach Biden” fly on the back of pickup trucks. “Most people here believe Donald Trump is still the president,” says Nancy Allen of her ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/apr/03/lara-trump-daughter-in-law-senate-run-republicans",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/apr/03/lara-trump-daughter-in-law-senate-run-republicans",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 205,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/dbb525dc690d09b3956ee913a02d71a72e7d5adb/0_63_4269_2561/master/4269.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=00ef5a90d76b2b847e7b97239dee1c5b",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/apr/03/lara-trump-daughter-in-law-senate-run-republicans",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/apr/03/lara-trump-daughter-in-law-senate-run-republicans",
+      "publishedDateTime": "2021-04-02T22:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-04-03-donald-trump-ga-gov-brian-kemp-call-out-woke-companies-like-mlb-delta.md",
       "title": "Donald Trump, GA Gov. Brian Kemp Call Out 'Woke Companies' Like MLB, Delta",
       "excerpt": "\"Boycott baseball and all of the woke companies that are interfering with Free and Fair Elections. Are you listening Coke, Delta, and all!\" Trump wrote.",
@@ -1300,58 +1352,6 @@
       "topics": [
         "Election",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-04-02-biden-only-wants-to-raise-taxes-on-the-wealthy-but-hes-misleading-families-with-400000-plus-income.md",
-      "title": "Biden only wants to raise taxes on the wealthy, but he's misleading families with $400,000-plus income",
-      "excerpt": "DOW S&P 500 NASDAQ 100 President Joe Biden has repeatedly hinged his massive spending plans on a series of tax hikes with the single rule that \"no one making under $400,000 will see their federal taxes go up.\" The assertion is true, depending on your ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/biden-infrastructure-400000-federal-tax-hike-murky-wealthy-americans-affected-2021-4",
-      "originalUrl": "https://www.businessinsider.com/biden-infrastructure-400000-federal-tax-hike-murky-wealthy-americans-affected-2021-4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6065e9f652f11d001943196a?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/biden-infrastructure-400000-federal-tax-hike-murky-wealthy-americans-affected-2021-4?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-infrastructure-400000-federal-tax-hike-murky-wealthy-americans-affected-2021-4?amp",
-      "publishedDateTime": "2021-04-01T10:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

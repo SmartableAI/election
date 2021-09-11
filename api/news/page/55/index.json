@@ -2,6 +2,62 @@
   "page": 55,
   "value": [
     {
+      "path": "_news/2021-05-19-mark-mccloskey-st-louis-man-who-defended-home-from-blm-announces-senate-run-to-stop-bidens-socialism.md",
+      "title": "Mark McCloskey, St. Louis man who defended home from BLM, announces Senate run to stop Biden's 'socialism'",
+      "excerpt": "A St. Louis attorney who famously defended his home from Black Lives Matter protesters who broke into his neighborhood announced his bid for U.S. Senate on Tuesday, telling \"Tucker Carlson Tonight\" he will defend Missourians the same way he defended his wife and family.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/krpMf8CaaSY/mark-mccloskey-st-louis-man-who-defended-home-from-blm-announces-senate-run-ill-defend-the-people-of-mo",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/krpMf8CaaSY/mark-mccloskey-st-louis-man-who-defended-home-from-blm-announces-senate-run-ill-defend-the-people-of-mo",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/14fca3c4-f0a8-4078-8686-1d1eae5b5d72/fbb34b74-7307-43e6-b444-106706c1aa0c/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/mark-mccloskey-st-louis-man-who-defended-home-from-blm-announces-senate-run-ill-defend-the-people-of-mo.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mark-mccloskey-st-louis-man-who-defended-home-from-blm-announces-senate-run-ill-defend-the-people-of-mo.amp",
+      "publishedDateTime": "2021-05-18T19:26:35-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-05-19-vp-kamala-harris-covid-an-opportunity-to-transform-how-we-live-how-we-work-and-how-we-vote.md",
       "title": "VP Kamala Harris: COVID An \"Opportunity\" to \"Transform\" How We Live, How We Work, And How We Vote",
       "excerpt": "Vice President Kamala Harris called COVID-19 an \"opportunity\" to transform society in a speech to the Asian American Pacific Islander Heritage Month unity summit on Wednesday. \"As we emerge from the pandemic,",
@@ -1274,63 +1330,6 @@
         "Election",
         "Democratic Voice",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-05-17-1m-ad-campaign-accuses-biden-of-working-with-dark-money-teachers-unions-to-keep-schools-closed.md",
-      "title": "$1M ad campaign accuses Biden of working with dark money, teachers unions, to keep schools closed",
-      "excerpt": "Americans for Public Trust launched a million-dollar ad campaign going after Biden and the CDC after it was revealed recently the agency was lobbied by the American Federation of Teachers on school reopenings.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/biden-cdc-coronavirus-teachers-unions-school-reopening-guidelines",
-      "originalUrl": "https://www.foxnews.com/politics/biden-cdc-coronavirus-teachers-unions-school-reopening-guidelines",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/add16d20-9f6c-4889-b1f3-9beabe54d1da/be7b1d13-226b-42ba-9109-873a6ca93bfe/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-cdc-coronavirus-teachers-unions-school-reopening-guidelines.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-cdc-coronavirus-teachers-unions-school-reopening-guidelines.amp",
-      "publishedDateTime": "2021-05-17T04:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
       ]
     }
   ],

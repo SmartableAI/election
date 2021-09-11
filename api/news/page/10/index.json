@@ -2,6 +2,49 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-08-23-vos-to-keep-trump-updated-on-election-investigation.md",
+      "title": "Vos to keep Trump \"updated\" on election investigation",
+      "excerpt": "Assembly Speaker Robin Vos the said in a statement Saturday he is going to be keeping Trump “updated on our investigation,” the Journal Times reported. In a statement, Vos said: “It was an honor to be invited to travel by private plane with President Trump and top staff to attend his rally in Alabama.",
+      "sourceUrl": null,
+      "webUrl": "https://www.houstonchronicle.com/news/article/Vos-to-keep-Trump-updated-on-election-16404028.php",
+      "originalUrl": "https://www.houstonchronicle.com/news/article/Vos-to-keep-Trump-updated-on-election-16404028.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 360,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.houstonchronicle.com/news/amp/Vos-to-keep-Trump-updated-on-election-16404028.php",
+      "cdnAmpWebUrl": "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Vos-to-keep-Trump-updated-on-election-16404028.php",
+      "publishedDateTime": "2021-08-22T16:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Houston Chronicle",
+        "domain": "houstonchronicle.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/houstonchronicle.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-08-22-analysis-why-bidens-afghanistan-exit-wasnt-about-good-politics.md",
       "title": "Analysis: Why Biden's Afghanistan exit wasn't about good politics",
       "excerpt": "In ending America's longest war, President Joe Biden did something popular. It was never going to help him politically.\n    \n",
@@ -1204,62 +1247,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-08-18-biden-pushes-for-vaccine-booster-shots-starting-in-september.md",
-      "title": "Biden pushes for vaccine booster shots starting in September",
-      "excerpt": "Biden announced a plan to offer COVID-19 vaccine booster shots beginning the week of September 20",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2asPfLZtTzY/biden-pushes-for-vaccine-booster-shots-starting-in-september",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2asPfLZtTzY/biden-pushes-for-vaccine-booster-shots-starting-in-september",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 295,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f850f181-a8b7-4e53-aff1-b2f6a57a4421/b2dd30f1-028f-4be2-90c5-01a4b4eaf1d4/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-pushes-for-vaccine-booster-shots-starting-in-september.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-pushes-for-vaccine-booster-shots-starting-in-september.amp",
-      "publishedDateTime": "2021-08-18T14:36:43-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

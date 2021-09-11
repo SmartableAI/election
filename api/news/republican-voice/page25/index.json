@@ -2,6 +2,62 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2021-04-03-trump-says-companies-playing-to-woke-cancel-culture-over-ga-election-bill-calls-for-boycott.md",
+      "title": "Trump says companies playing to 'woke cancel culture' over Ga. election bill, calls for boycott",
+      "excerpt": "Former President Trump suggested Saturday that Republicans take a page out of what he sees as Democrats' playbook by boycotting the major businesses that have condemned Georgia's new election reform. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/AuHxtQA0JlU/trump-suggests-boycotting-ga-businesses-that-condemn-new-voting-law-we-can-play-the-game-better-than-them",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/AuHxtQA0JlU/trump-suggests-boycotting-ga-businesses-that-condemn-new-voting-law-we-can-play-the-game-better-than-them",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 258,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2018/09/rtx25h92.jpg",
+          "width": 4436,
+          "height": 2957,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-suggests-boycotting-ga-businesses-that-condemn-new-voting-law-we-can-play-the-game-better-than-them.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-suggests-boycotting-ga-businesses-that-condemn-new-voting-law-we-can-play-the-game-better-than-them.amp",
+      "publishedDateTime": "2021-04-03T16:54:33-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-03-bidens-quest-to-pass-a-multitrillion-dollar-spending-bill-could-be-imperiled-by-legislative-fatigue.md",
       "title": "Biden's quest to pass a multitrillion-dollar spending bill could be imperiled by 'legislative fatigue'",
       "excerpt": "President Biden and Congressional Democrats are prepping trillions of dollars in new spending.",

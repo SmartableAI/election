@@ -2,6 +2,49 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-08-30-whoopi-goldberg-mike-pence-didnt-show-north-korea-enough-respect-at-olympics.md",
+      "title": "Whoopi Goldberg: Mike Pence didn’t show North Korea enough ‘respect’ at Olympics",
+      "excerpt": "Whoopi Goldberg says U.S. Vice President Mike Pence should have shown more \"respect\" to North Koreans at the Pyeongchang 2018 Olympic Winter Games. \"He should have given enoughhad enough respect to say,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/article/2020-tokyo-olympics-sports-michael-pence-winter-olympics-whoopi-goldberg-fef42ba0a32d72cc55a6f28f99c95859",
+      "originalUrl": "https://apnews.com/article/2020-tokyo-olympics-sports-michael-pence-winter-olympics-whoopi-goldberg-fef42ba0a32d72cc55a6f28f99c95859",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/ShareLogo2.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-30T00:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-08-30-house-panel-tees-up-trump-executive-privilege-fight-in-jan-6-probe.md",
       "title": "House panel tees up Trump executive privilege fight in Jan. 6 probe",
       "excerpt": "The House committee seeking executive branch documents in its investigation of the Jan. 6 attack is likely to force a standoff between Congress and former President Trump Donald Trump Pollsters confront tough survey landscape after 2020 flubs The Memo: Will DeSantis's star fall as Florida COVID numbers rise?",
@@ -1209,49 +1252,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-08-26-mike-lindells-obsession-with-trump-a-symptom-of-human-nature-letter.md",
-      "title": "Mike Lindell’s obsession with Trump a symptom of human nature | Letter",
-      "excerpt": "Mike Lindell may be in love with “the Donald,” an unrequited love that will never become realized, writer says.",
-      "sourceUrl": null,
-      "webUrl": "https://www.lehighvalleylive.com/opinion/2021/08/mike-lindells-obsession-with-trump-a-symptom-of-human-nature-letter.html",
-      "originalUrl": "https://www.lehighvalleylive.com/opinion/2021/08/mike-lindells-obsession-with-trump-a-symptom-of-human-nature-letter.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/3PTKE2NFOFAC7HM5YIQA26RQB4.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.lehighvalleylive.com/opinion/2021/08/mike-lindells-obsession-with-trump-a-symptom-of-human-nature-letter.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-lehighvalleylive-com.cdn.ampproject.org/c/s/www.lehighvalleylive.com/opinion/2021/08/mike-lindells-obsession-with-trump-a-symptom-of-human-nature-letter.html?outputType=amp",
-      "publishedDateTime": "2021-08-26T06:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Lehigh Valley Live",
-        "domain": "lehighvalleylive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],
