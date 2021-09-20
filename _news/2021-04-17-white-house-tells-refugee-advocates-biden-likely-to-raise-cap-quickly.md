@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/04/17/politics/biden-refugee-cap-advoca
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/17/politics/biden-refugee-cap-advocates/index.html"
 type: article
 quality: 175
-heat: 555
+heat: 575
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210418073547-01-joe-biden-0417-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden administration to raise refugee cap to 125,000 for 2022"
+    excerpt: "The Biden administration is planning to raise the refugee cap for fiscal year 2022 to 125,000, according to a source familiar with the decision, in line with the goal President Joe Biden set.\n    \n"
+    publishedDateTime: 2021-09-20T17:01:16Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6hB0O3Q8HEs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/09/20/politics/refugee-cap/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/09/20/politics/refugee-cap/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210918084722-joe-biden-09-16-2021-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

@@ -75,6 +75,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "PHOTOS: President Joe Biden visits Colorado"
+    excerpt: "President Joe Biden arrived in Colorado on Tuesday, Sept. 14, 2021, making a visit to the National Renewable Energy Laboratory in Golden and delivering remarks about investments in his bipartisan"
+    publishedDateTime: 2021-09-14T22:49:00Z
+    webUrl: "https://www.denverpost.com/2021/09/14/president-joe-biden-visits-colorado-photos/"
+    ampWebUrl: "https://www.denverpost.com/2021/09/14/president-joe-biden-visits-colorado-photos/amp/"
+    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2021/09/14/president-joe-biden-visits-colorado-photos/amp/"
+    type: article
+    provider:
+      name: The Denver Post
+      domain: denverpost.com
+    quality: 75
+    images:
+      - url: "https://www.denverpost.com/wp-content/uploads/2021/09/TDP-L-BIDEN_382.jpg?w=1024&#038;h=683"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Joe Biden, Dems push Civilian Climate Corps in echo of New Deal"
     excerpt: "Inspired by the New Deal-era Civilian Conservation Corps, President Joe Biden and congressional Democrats are pushing for a modern counterpart: a Civilian Climate Corps that would create hundreds of thousands of jobs building trails,"
     publishedDateTime: 2021-09-09T13:00:00Z

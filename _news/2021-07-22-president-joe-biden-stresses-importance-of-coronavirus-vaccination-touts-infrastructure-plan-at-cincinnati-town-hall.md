@@ -207,6 +207,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Biden easing foreign travel restrictions, requiring COVID vaccines"
+    excerpt: "President Joe Biden will ease foreign travel restrictions into the U.S. beginning in November, when his administration will require all foreign nationals flying into the country to be fully vaccinated."
+    publishedDateTime: 2021-09-20T17:53:00Z
+    webUrl: "https://www.al.com/news/2021/09/biden-easing-foreign-travel-restrictions-requiring-covid-vaccines.html"
+    ampWebUrl: "https://www.al.com/news/2021/09/biden-easing-foreign-travel-restrictions-requiring-covid-vaccines.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/09/biden-easing-foreign-travel-restrictions-requiring-covid-vaccines.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/5G2KUFZUQVCUPKZGOEKEZPAXOE.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "President Joe Biden Supports COVID-⁠19 Vaccines for Service Members"
     excerpt: "On Monday, President Joe Biden released a Statement on COVID-⁠19 vaccines for service members. I strongly support Secretary Austin’s message to the Force today on the Department of Defense’s plan to add the COVID-19 vaccine to the list of required vaccinations for our service members not later than mid-September."
     publishedDateTime: 2021-08-10T12:57:00Z

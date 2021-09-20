@@ -2,6 +2,119 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-09-20-26-governors-demand-biden-meeting-over-border-crisis.md",
+      "title": "26 governors demand Biden meeting over border crisis",
+      "excerpt": "More than two dozen Republican governors are demanding a meeting with President Biden to address border security, saying the illegal immigration surge has created an \"international humanitarian crisis.\"",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/o-67F8WgoBk/26-governors-demand-biden-meeting-over-border-crisis",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/o-67F8WgoBk/26-governors-demand-biden-meeting-over-border-crisis",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/44ced94b-d769-4291-ae97-93a849ded277/ed672dac-48b5-490f-a525-0e620619bce6/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/26-governors-demand-biden-meeting-over-border-crisis.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/26-governors-demand-biden-meeting-over-border-crisis.amp",
+      "publishedDateTime": "2021-09-20T08:08:03-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-09-19-times-square-swarmed-by-hundreds-protesting-covid-vaccine-mandate-chanting-f-joe-biden.md",
+      "title": "Times Square swarmed by hundreds protesting COVID vaccine mandate, chanting 'F--- Joe Biden'",
+      "excerpt": "Hundreds of protesters took to the streets in New York City’s Times Square Saturday to protest coronavirus vaccine mandate requirements.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/politics/times-square-swarmed-by-hundreds-protesting-covid-vaccine-mandate",
+      "originalUrl": "https://www.foxnews.com/politics/times-square-swarmed-by-hundreds-protesting-covid-vaccine-mandate",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/06/military_vaccines_istock.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-18T18:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-09-11-donald-trump-slams-not-funny-late-night-tv-reminisces-about-appearance-on-jimmy-fallon.md",
       "title": "Donald Trump slams 'not funny' late-night TV, reminisces about appearance on Jimmy Fallon",
       "excerpt": "Former President Donald Trump discussed the state of late-night TV, the border crisis, and the treatment he received as a candidate for President in an exclusive interview on \"Gutfeld!\"",
@@ -1523,110 +1636,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-09-08-trump-to-headline-nrcc-fundraiser-in-november-with-eye-on-2022.md",
-      "title": "Trump to headline NRCC fundraiser in November with eye on 2022",
-      "excerpt": "Former President Donald Trump is slated to attend a National Republican Congressional Committee fundraiser in Tampa in early November.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/09/07/trump-to-headline-nrcc-fundraiser-in-november-with-eye-on-2022/",
-      "originalUrl": "https://nypost.com/2021/09/07/trump-to-headline-nrcc-fundraiser-in-november-with-eye-on-2022/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/09/trump.jpg?quality=90&strip=all&w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/09/07/trump-to-headline-nrcc-fundraiser-in-november-with-eye-on-2022/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/09/07/trump-to-headline-nrcc-fundraiser-in-november-with-eye-on-2022/amp/",
-      "publishedDateTime": "2021-09-07T16:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-09-07-biden-dismisses-protesters-who-heckled-him-as-he-toured-storm-damaged-northeast-they-dont-understand.md",
-      "title": "Biden dismisses protesters who heckled him as he toured storm-damaged northeast: 'They don't understand'",
-      "excerpt": "President Joe Biden addressed hecklers who shouted at him about his chaotic withdrawal from Afghanistan and claimed they don’t actually live in the area he was touring and suggested they were upset about his climate change position.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/hvc8ph_w4OE/biden-protesters-who-heckled-him-as-he-toured-storm-damaged-northeast-they-dont-understand",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/hvc8ph_w4OE/biden-protesters-who-heckled-him-as-he-toured-storm-damaged-northeast-they-dont-understand",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 158,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1c649efb-45d4-4f8b-927c-ba62139ec925/842ee78d-4f0f-4584-9bc6-1838db8c0ae5/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-protesters-who-heckled-him-as-he-toured-storm-damaged-northeast-they-dont-understand.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-protesters-who-heckled-him-as-he-toured-storm-damaged-northeast-they-dont-understand.amp",
-      "publishedDateTime": "2021-09-07T15:01:05-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Republican Voice"
       ]
     }

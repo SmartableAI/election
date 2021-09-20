@@ -119,6 +119,20 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Joe Biden at the Major Economies Forum"
+    excerpt: "U.S. President Joe Biden with Secretary of State Antony Blinken (not shown) participate in the virtual Major Economies Forum from South Court Auditorium at the White House in Washington on Friday, September 17,"
+    publishedDateTime: 2021-09-17T13:15:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/b8ce701b8245dd67d484c13e64dbfc4b/Joe-Biden-at-the-Major-Economies-Forum/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/b8ce701b8245dd67d484c13e64dbfc4b/BIDEN-WORLD.jpg"
+        width: 650
+        height: 433
+        isCached: true
   - title: "‘Have at it’: Joe Biden goads GOP Governors over threatened vaccine mandate suits"
     excerpt: "President Joe Biden continued on Friday to goad Republican Governors resisting COVID-19 vaccine mandates he rolled out the day before. When asked about them being challenged in court by a reporter at a Washington D."
     publishedDateTime: 2021-09-10T15:33:00Z

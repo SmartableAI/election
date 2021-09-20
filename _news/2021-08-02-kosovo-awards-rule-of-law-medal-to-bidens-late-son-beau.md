@@ -410,6 +410,20 @@ related:
       name: The Boston Globe
       domain: bostonglobe.com
     quality: 55
+  - title: "Ron DeSantis, GOP governors request border security meeting with Joe Biden"
+    excerpt: "Ron DeSantis is among a collective of GOP governors seeking to meet and discuss the ongoing border crisis with President Joe Biden at the White House. In a letter addressed Monday to Biden, DeSantis and 25 Republican governors described the border situation as a “national security crisis” that is spiraling out of control."
+    publishedDateTime: 2021-09-20T16:23:00Z
+    webUrl: "https://floridapolitics.com/archives/458853-ron-desantis-gop-governors-request-border-security-meeting-with-joe-biden/"
+    type: article
+    provider:
+      name: Florida Politics
+      domain: floridapolitics.com
+    quality: 53
+    images:
+      - url: "https://floridapolitics.com/wp-content/uploads/2021/08/DeSantis-2.jpg"
+        width: 1000
+        height: 537
+        isCached: true
 
 secured: "vGOVU/xol/ATCOgXw+Uw+i+BcaUIlHUn98kZLkbhb6rEbk/tQKTzZ1KJDP4vrJ3ReXxtDNHuyDXZEjjuzqOOGibHuyN0X3Xb4KL3/tyjIwdysMOL4QjRIcNn0FVxpGa9KDx9gITbqMj4KSomU7Gpw2vrNA1580lSTYRplDLKNasHU7MZ24KN8KNh0MPzzJ7eLSms44siTxXMAT/03IxcQgSNcJb22EOQsj90M7kXZOINymfgBLX/AlMb3LQFophXAb9p0BvSmg8mANQjzdCWdAr1QCsEOsrM6l9fvCtdgRGj1KipBnB4zWae+4/halxHK53s0t1Zwr46jNUlPMcmeRBNGhvcfDuornL2AHPES3hGN3e7jkVIM9jCESI2ezxGF7arHobWLdP84Q4B5kQxNS/qqiGbzFgqrF7NhQd4j1d7mCeRZnBcIJcO4N7HKM2jNkoASBzqqsL4Gy2yPdIvfSPpXd3t0hDdCN0FUUvHeRx/JpPT6/zvuKcFqmGdQxrXRwPQD4ajMDIrj490hzZi4A==;xD9eArfKvwXJTyULi0ObnQ=="
 ---

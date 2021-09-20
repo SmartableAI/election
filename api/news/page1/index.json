@@ -2,6 +2,685 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-09-20-trump-organization-trial-is-set-for-next-summer-judge-says.md",
+      "title": "Trump Organization Trial Is Set for Next Summer, Judge Says",
+      "excerpt": "At a court hearing on Monday, a Manhattan judge set a trial schedule that could coincide with the run-up to the 2022 midterm elections.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/09/20/nyregion/allen-weisselberg-trump-organization.html",
+      "originalUrl": "https://www.nytimes.com/2021/09/20/nyregion/allen-weisselberg-trump-organization.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/09/20/nyregion/20weisselberg01/20weisselberg01-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/09/20/nyregion/allen-weisselberg-trump-organization.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/09/20/nyregion/allen-weisselberg-trump-organization.amp.html",
+      "publishedDateTime": "2021-09-20T09:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-09-20-26-governors-demand-biden-meeting-over-border-crisis.md",
+      "title": "26 governors demand Biden meeting over border crisis",
+      "excerpt": "More than two dozen Republican governors are demanding a meeting with President Biden to address border security, saying the illegal immigration surge has created an \"international humanitarian crisis.\"",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/o-67F8WgoBk/26-governors-demand-biden-meeting-over-border-crisis",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/o-67F8WgoBk/26-governors-demand-biden-meeting-over-border-crisis",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/44ced94b-d769-4291-ae97-93a849ded277/ed672dac-48b5-490f-a525-0e620619bce6/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/26-governors-demand-biden-meeting-over-border-crisis.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/26-governors-demand-biden-meeting-over-border-crisis.amp",
+      "publishedDateTime": "2021-09-20T08:08:03-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-09-20-biden-is-mobilizing-the-federal-government-to-deal-with-the-effects-of-extreme-heat.md",
+      "title": "Biden is mobilizing the federal government to deal with the effects of extreme heat",
+      "excerpt": "President Joe Biden is mobilizing an interagency effort to deal with the effects of extreme heat across the country, the White House announced Monday.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/i12CMuQFBSE/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/i12CMuQFBSE/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210920092535-heat-ida-new-orleans-090121-file-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/09/20/politics/biden-interagency-heat-plan-climate/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/09/20/politics/biden-interagency-heat-plan-climate/index.html",
+      "publishedDateTime": "2021-09-20T06:57:52-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-09-20-the-rundown-sen-mike-lee-investigated-whether-pence-could-declare-trump-winner-of-2020-election.md",
+      "title": "‘The Rundown’: Sen. Mike Lee investigated whether Pence could declare Trump winner of 2020 election",
+      "excerpt": "Sen. Mike Lee investigated whether former Vice President Mike Pence could declare Donald Trump the winner of the 2020 election according to a new book.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sltrib.com/news/politics/2021/09/20/rundown-sen-mike-lee/",
+      "originalUrl": "https://www.sltrib.com/news/politics/2021/09/20/rundown-sen-mike-lee/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.sltrib.com/resizer/_ucVGIZZB3DXCpD6jduq_Qgh-bE=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/sltrib/D2NAG4FCOBGG3KKMTB5XT3WKVM.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-20T05:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Salt Lake Tribune",
+        "domain": "sltrib.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-09-20-pelosi-faces-internal-dem-strife-as-key-deadline-could-sink-biden-agenda.md",
+      "title": "Pelosi faces internal Dem strife as key deadline could sink Biden agenda",
+      "excerpt": "House Speaker Nancy Pelosi is facing a major dilemma: September 27 -- the day she promised a vote on a trillion-dollar infrastructure deal that passed the Senate last month -- is fast approaching.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/LdVifm5My9k/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/LdVifm5My9k/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 174,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210824141516-01-pelosi-0824-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/09/20/politics/nancy-pelosi-democratic-caucus-biden-agenda/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/09/20/politics/nancy-pelosi-democratic-caucus-biden-agenda/index.html",
+      "publishedDateTime": "2021-09-20T04:00:17-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-09-20-democrats-media-blame-donald-trump-for-pipe-bombs.md",
+      "title": "Democrats, media blame Donald Trump for pipe bombs",
+      "excerpt": "The list of people targeted with suspected pipe bombs reads like President Trump's Twitter feed: Hillary and Bill Clinton, Barack Obama, John Brennan, Maxine Waters, George Soros, CNN, Debbie Wasserman Schultz,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/article/donald-trump-bill-clinton-maxine-waters-jamal-khashoggi-barack-obama-71f6cccfeba67473aa841c05690f99a5",
+      "originalUrl": "https://apnews.com/article/donald-trump-bill-clinton-maxine-waters-jamal-khashoggi-barack-obama-71f6cccfeba67473aa841c05690f99a5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/ShareLogo2.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-19T20:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-09-20-boris-johnson-seeks-to-strengthen-ties-with-joe-biden-on-back-of-aukus.md",
+      "title": "Boris Johnson seeks to strengthen ties with Joe Biden on back of Aukus",
+      "excerpt": "Boris Johnson will meet Joe Biden in the White House for the first time this week as he seeks to restore transatlantic relations following the west’s chaotic withdrawal from Afg",
+      "sourceUrl": null,
+      "webUrl": "https://www.ft.com/content/7beeb33b-1068-4d51-af2f-8b152403c5f5",
+      "originalUrl": "https://www.ft.com/content/7beeb33b-1068-4d51-af2f-8b152403c5f5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 185,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F8e996772-9b0a-4fcf-983b-8e79c1ef50e1.jpg?source=google-amp&fit=scale-down&width=500",
+          "width": 500,
+          "height": 281,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.ft.com/content/7beeb33b-1068-4d51-af2f-8b152403c5f5",
+      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/7beeb33b-1068-4d51-af2f-8b152403c5f5",
+      "publishedDateTime": "2021-09-19T14:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Times",
+        "domain": "ft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/ft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-09-19-are-bidens-vaccine-mandates-unlawful.md",
+      "title": "Are Biden's vaccine mandates 'unlawful'?",
+      "excerpt": "President Joe Biden's new vaccine requirements could apply to as many as 100 million Americans, or almost two-thirds of the American workforce, and have spawned a predictable pushback from a handful of Republican states -- making them the latest frontier in the fight between the administration and state",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5WCcstSZU3Y/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5WCcstSZU3Y/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 215,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210916234755-01-pfizer-vaccine-0914-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/09/19/politics/biden-vaccine-mandate-fact-check/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/09/19/politics/biden-vaccine-mandate-fact-check/index.html",
+      "publishedDateTime": "2021-09-19T05:59:42-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-09-19-jeanine-pirro-slams-liarinchief-joe-biden-over-kabul-strike-heads-must-roll.md",
+      "title": "Jeanine Pirro Slams 'Liar–in–Chief' Joe Biden Over Kabul Strike: 'Heads Must Roll'",
+      "excerpt": "U.S. officials initially claimed the August 29 strike took out an ISIS militant, but it has been revealed that it killed 10 civilians, including seven children.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/jeanine-pirro-slams-liarchief-joe-biden-over-kabul-strike-heads-must-roll-1630552",
+      "originalUrl": "https://www.newsweek.com/jeanine-pirro-slams-liarchief-joe-biden-over-kabul-strike-heads-must-roll-1630552",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1897459/joe-biden.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/jeanine-pirro-slams-liarchief-joe-biden-over-kabul-strike-heads-must-roll-1630552?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/jeanine-pirro-slams-liarchief-joe-biden-over-kabul-strike-heads-must-roll-1630552?amp=1",
+      "publishedDateTime": "2021-09-19T05:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-09-19-biden-administration-has-made-little-progress-towards-goal-of-closing-notorious-guantanamo-bay-prison.md",
+      "title": "Biden administration has made little progress towards goal of closing notorious Guantanamo Bay prison",
+      "excerpt": "President Joe Biden has said he wants to close the Guantanamo Bay detention facility, where 39 detainees still reside, by the end of his term, but his administration is yet to make much progress towards meeting that goal.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2yccO5yLxqs/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2yccO5yLxqs/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210906134714-guantanamo-bay-naval-station-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/09/19/politics/guantanamo-state-of-play/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/09/19/politics/guantanamo-state-of-play/index.html",
+      "publishedDateTime": "2021-09-19T05:01:58-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-09-19-times-square-swarmed-by-hundreds-protesting-covid-vaccine-mandate-chanting-f-joe-biden.md",
+      "title": "Times Square swarmed by hundreds protesting COVID vaccine mandate, chanting 'F--- Joe Biden'",
+      "excerpt": "Hundreds of protesters took to the streets in New York City’s Times Square Saturday to protest coronavirus vaccine mandate requirements.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/politics/times-square-swarmed-by-hundreds-protesting-covid-vaccine-mandate",
+      "originalUrl": "https://www.foxnews.com/politics/times-square-swarmed-by-hundreds-protesting-covid-vaccine-mandate",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/06/military_vaccines_istock.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-18T18:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-09-18-donald-trump-blames-incompetent-generals-for-kabul-drone-strike.md",
+      "title": "Donald Trump Blames 'Incompetent Generals' For Kabul Drone Strike",
+      "excerpt": "Former President Donald Trump has blamed President Joe Biden and \"incompetent Generals\" for the drone strike that killed civilians in Kabul, Afghanistan late last month. Gen. Kenneth McKenzie, commander of the United States General Command,",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/donald-trump-blames-incompetent-generals-kabul-drone-strike-1630431",
+      "originalUrl": "https://www.newsweek.com/donald-trump-blames-incompetent-generals-kabul-drone-strike-1630431",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1897284/donald-trump-kabul-drone-strike-joe-biden.jpg",
+          "width": 3197,
+          "height": 2131,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/donald-trump-blames-incompetent-generals-kabul-drone-strike-1630431?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-blames-incompetent-generals-kabul-drone-strike-1630431?amp=1",
+      "publishedDateTime": "2021-09-17T19:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-09-15-joe-biden-in-colorado-we-have-to-make-changes-to-slow-climate-change-now.md",
+      "title": "Joe Biden in Colorado: “We have to make changes to slow climate change now”",
+      "excerpt": "In his first visit to Colorado as president, Biden toured the National Renewable Energy Laboratory campus in Arvada, which is home to the National Wind Technology Center.",
+      "sourceUrl": null,
+      "webUrl": "https://www.denverpost.com/2021/09/14/joe-biden-colorado-visit-climate-energy-infrastructure/",
+      "originalUrl": "https://www.denverpost.com/2021/09/14/joe-biden-colorado-visit-climate-energy-infrastructure/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.denverpost.com/wp-content/uploads/2021/09/TDP-L-BIDEN_899.jpg?w=1024&#038;h=683",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.denverpost.com/2021/09/14/joe-biden-colorado-visit-climate-energy-infrastructure/amp/",
+      "cdnAmpWebUrl": "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2021/09/14/joe-biden-colorado-visit-climate-energy-infrastructure/amp/",
+      "publishedDateTime": "2021-09-14T15:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Denver Post",
+        "domain": "denverpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-09-11-donald-trump-slams-not-funny-late-night-tv-reminisces-about-appearance-on-jimmy-fallon.md",
       "title": "Donald Trump slams 'not funny' late-night TV, reminisces about appearance on Jimmy Fallon",
       "excerpt": "Former President Donald Trump discussed the state of late-night TV, the border crisis, and the treatment he received as a candidate for President in an exclusive interview on \"Gutfeld!\"",
@@ -618,712 +1297,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-09-10-bidens-afghan-refugee-request-sparks-conservative-fears-of-unlimited-green-cards.md",
-      "title": "Biden's Afghan refugee request sparks conservative fears of 'unlimited green cards'",
-      "excerpt": "The Biden administration this week made a request for $6.4 billion in funding for Afghan refugee resettlement and language that would allow for the tens of thousands of Afghans being brought in to quickly apply for permanent U.S. residency -- sparking conservative fears of \"unlimited green cards\" for",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vWFokovccas/bidens-afghan-refugee-request-conservative-fears-unlimited-green-cards",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vWFokovccas/bidens-afghan-refugee-request-conservative-fears-unlimited-green-cards",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6b08a886-6ead-4014-ba30-0972d0ad7f19/c21454f0-d85f-4452-9831-39d01665a238/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/bidens-afghan-refugee-request-conservative-fears-unlimited-green-cards.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-afghan-refugee-request-conservative-fears-unlimited-green-cards.amp",
-      "publishedDateTime": "2021-09-10T08:33:27-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-09-10-biden-disappointed-in-gop-governors-who-plan-to-resist-vaccine-mandate-have-at-it.md",
-      "title": "Biden 'disappointed' in GOP governors who plan to resist vaccine mandate: 'Have at it'",
-      "excerpt": "President Biden said he’s “disappointed” in the Republican governors who plan to resist his vaccine mandate and are even threatening legal action.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/YhCPb6OquNY/biden-disappointed-republican-governors-vaccine-mandate",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/YhCPb6OquNY/biden-disappointed-republican-governors-vaccine-mandate",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 247,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9e4a7332-ff32-456b-8190-567a0763c603/57c3147c-a83d-4739-8141-93e89506b5da/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-disappointed-republican-governors-vaccine-mandate.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-disappointed-republican-governors-vaccine-mandate.amp",
-      "publishedDateTime": "2021-09-10T08:08:33-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-09-10-gop-sends-out-fake-pence-email-calling-2020-election-contested-takeover-then-apologizes.md",
-      "title": "GOP Sends Out Fake Pence Email Calling 2020 Election 'Contested Takeover,' Then Apologizes",
-      "excerpt": "\"It was not approved by Vice President Pence's team and we regret the error,\" a National Republican Senate Committee spokesperson said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/gop-sends-out-fake-pence-email-calling-2020-election-contested-takeover-then-apologizes-1627851",
-      "originalUrl": "https://www.newsweek.com/gop-sends-out-fake-pence-email-calling-2020-election-contested-takeover-then-apologizes-1627851",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 130,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1891562/mike-pence.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/gop-sends-out-fake-pence-email-calling-2020-election-contested-takeover-then-apologizes-1627851?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/gop-sends-out-fake-pence-email-calling-2020-election-contested-takeover-then-apologizes-1627851?amp=1",
-      "publishedDateTime": "2021-09-10T06:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-09-10-have-at-it-joe-biden-dares-vaccine-mandate-opponents-to-take-him-on.md",
-      "title": "‘Have at it’: Joe Biden dares vaccine mandate opponents to take him on",
-      "excerpt": "South Carolina governor vows to fight White House ‘to the gates of hell’ over president’s large-scale vaccine requirements",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/sep/10/joe-biden-vaccine-mandates-coronavirus-covid",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/sep/10/joe-biden-vaccine-mandates-coronavirus-covid",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 305,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/5bc9ebba43c5acead2ce842102b339dee2a158a6/0_170_5092_3056/master/5092.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=5be583b9dd9377df7b433c3e37f94f63",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/sep/10/joe-biden-vaccine-mandates-coronavirus-covid",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/sep/10/joe-biden-vaccine-mandates-coronavirus-covid",
-      "publishedDateTime": "2021-09-10T06:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-09-10-trumps-house-gop-enemies-get-boost-from-mccarthys-leadership-team.md",
-      "title": "Trump's House GOP enemies get boost from McCarthy's leadership team",
-      "excerpt": "House Minority Leader Kevin McCarthy and his leadership team are quietly working to prop up some of the GOP incumbents targeted by former President Donald Trump, putting the California Republican directly in the crosshairs of the right as he seeks to win back the majority.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/VDpiFhQ7su0/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/VDpiFhQ7su0/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210721133155-02-kevin-mccarthy-0701-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/09/10/politics/kevin-mccarthy-house-republicans-trump/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/09/10/politics/kevin-mccarthy-house-republicans-trump/index.html",
-      "publishedDateTime": "2021-09-10T03:36:02-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-09-10-trump-tells-gutfeld-i-think-youll-be-very-happy-with-2024-plans.md",
-      "title": "Trump tells Gutfeld ‘I think you’ll be very happy’ with 2024 plans",
-      "excerpt": "President Donald Trump joins 'Gutfeld!' to talk Joe Biden, wokeism in America and the possibility of running in 2024.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/trump-gutfeld-2024-plans",
-      "originalUrl": "https://www.foxnews.com/media/trump-gutfeld-2024-plans",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/46d5eee1-ee87-4c84-93ec-39726e03cf26/97724e1e-9ff2-49f9-9b03-2f2c474bcecb/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/trump-gutfeld-2024-plans.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/trump-gutfeld-2024-plans.amp",
-      "publishedDateTime": "2021-09-10T00:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-09-10-pence-returns-to-the-arena-as-a-podcaster.md",
-      "title": "Pence returns to the arena — as a podcaster",
-      "excerpt": "Mike Pence will release the first episode of his new podcast, “American Freedom,” on Friday, the latest volley in the former vice president’s effort to recapture conservative audiences ahead of a potential presidential run in 2024.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2021/09/10/pence-new-podcast-511079",
-      "originalUrl": "https://www.politico.com/news/2021/09/10/pence-new-podcast-511079",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/d3/55/f292a828497eb689b34cd6b0e38f/gettyimages-1232599479-1.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/2021/09/10/pence-new-podcast-511079",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/09/10/pence-new-podcast-511079",
-      "publishedDateTime": "2021-09-09T21:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-09-10-biden-in-call-with-chinas-xi-jinping-sets-guardrails-to-ensure-competition-does-not-veer-into-conflict.md",
-      "title": "Biden, in call with China's Xi Jinping, sets 'guardrails' to ensure 'competition does not veer into conflict'",
-      "excerpt": "President Biden spoke with China's President Xi Jinping by phone Thursday night, aiming to set \"guardrails and parameters\" in the U.S.-China relationship to ensure that while the two nations are in \"stiff competition,\" they do not \"veer into conflict,\" senior Biden administration officials said. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/mps6DUch2EU/biden-xi-china-guardrails",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/mps6DUch2EU/biden-xi-china-guardrails",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-xi-china-guardrails.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-xi-china-guardrails.amp",
-      "publishedDateTime": "2021-09-09T19:34:42-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-09-10-harris-assails-texas-abortion-law-as-patently-unconstitutional.md",
-      "title": "Harris assails Texas abortion law as 'patently unconstitutional'",
-      "excerpt": "Vice President Kamala Harris condemned the Texas abortion law as \"patently unconstitutional\" and called for Roe v. Wade to be codified.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/gwnw3JqIkpY/harris-calls-texas-abortion-law-patently-unconstitutional-urges-roe-v-wade-to-be-codified",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/gwnw3JqIkpY/harris-calls-texas-abortion-law-patently-unconstitutional-urges-roe-v-wade-to-be-codified",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 225,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/50a20733-9d95-4d8b-b7db-5b4dfd356b46/f3c78e9e-9391-4de0-aa90-295132e3c7e3/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/harris-calls-texas-abortion-law-patently-unconstitutional-urges-roe-v-wade-to-be-codified.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-calls-texas-abortion-law-patently-unconstitutional-urges-roe-v-wade-to-be-codified.amp",
-      "publishedDateTime": "2021-09-09T18:48:51-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-09-10-nancy-pelosi-jim-mcgovern-plug-joe-biden-child-tax-credit-during-worcester-visit.md",
-      "title": "Nancy Pelosi, Jim McGovern plug Joe Biden child tax credit during Worcester visit",
-      "excerpt": "Speaker of the House Nancy Pelosi made a pit stop in Worcester to meet children and families who have benefitted from President Biden’s child tax credit and plug a bill that would expand",
-      "sourceUrl": null,
-      "webUrl": "https://www.bostonherald.com/2021/09/09/nancy-pelosi-jim-mcgovern-plug-joe-biden-child-tax-credit-during-worcester-visit/",
-      "originalUrl": "https://www.bostonherald.com/2021/09/09/nancy-pelosi-jim-mcgovern-plug-joe-biden-child-tax-credit-during-worcester-visit/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.bostonherald.com/wp-content/uploads/2021/09/AP21252729611795.jpg?w=1024&#038;h=761",
-          "width": 1024,
-          "height": 761,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bostonherald.com/2021/09/09/nancy-pelosi-jim-mcgovern-plug-joe-biden-child-tax-credit-during-worcester-visit/amp/",
-      "cdnAmpWebUrl": "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2021/09/09/nancy-pelosi-jim-mcgovern-plug-joe-biden-child-tax-credit-during-worcester-visit/amp/",
-      "publishedDateTime": "2021-09-09T16:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Boston Herald",
-        "domain": "bostonherald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-09-09-biden-declares-war-on-desantis-and-abbott-get-them-out-of-the-way.md",
-      "title": "Biden declares war on DeSantis and Abbott: 'Get them out of the way'",
-      "excerpt": "President Joe Biden condemned Republican governors who are not enforcing his administration's COVID-19 plan and threatened to resist them with his presidential powers.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Xi-wXD4UNyE/get-them-out-of-the-way-biden-declares-war-on-desantis-and-abbott",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Xi-wXD4UNyE/get-them-out-of-the-way-biden-declares-war-on-desantis-and-abbott",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f5166089-57d7-4bc8-8f3e-bd315eb47d33/5264644a-d504-43e8-980c-3595c487b8ed/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/get-them-out-of-the-way-biden-declares-war-on-desantis-and-abbott.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/get-them-out-of-the-way-biden-declares-war-on-desantis-and-abbott.amp",
-      "publishedDateTime": "2021-09-09T16:33:53-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-09-10-joe-biden-has-6-new-steps-to-curb-covid-19-heres-what-they-are.md",
-      "title": "Joe Biden Has 6 New Steps to Curb COVID-19: Here's What They Are",
-      "excerpt": "The president wants more vaccine shots, more testing, more masking and more treatments to combat the pandemic.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/joe-biden-has-6-new-steps-curb-covid-19-heres-what-they-are-1627569",
-      "originalUrl": "https://www.newsweek.com/joe-biden-has-6-new-steps-curb-covid-19-heres-what-they-are-1627569",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 225,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1890963/more-vaccines-part-bidens-covid-19-plan.jpg",
-          "width": 2500,
-          "height": 1664,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/joe-biden-has-6-new-steps-curb-covid-19-heres-what-they-are-1627569?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-has-6-new-steps-curb-covid-19-heres-what-they-are-1627569?amp=1",
-      "publishedDateTime": "2021-09-09T13:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-09-09-psaki-wont-say-if-biden-wrong-to-declare-victory-over-covid-in-july.md",
-      "title": "Psaki won't say if Biden wrong to declare victory over COVID in July",
-      "excerpt": "White House press secretary Jen Psaki on Thursday wouldn't say if President Biden was \"overconfident\" in declaring victory against COVID-19 in July.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/hTEsxeeEpCU/psaki-biden-wrong-declare-victory-covid",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/hTEsxeeEpCU/psaki-biden-wrong-declare-victory-covid",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 235,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d28a3399-37f1-48cf-a2aa-39fbf6806f00/a1d8e4f7-66a2-41bf-ab53-0f75d50be1c6/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/psaki-biden-wrong-declare-victory-covid.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-biden-wrong-declare-victory-covid.amp",
-      "publishedDateTime": "2021-09-09T12:55:51-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

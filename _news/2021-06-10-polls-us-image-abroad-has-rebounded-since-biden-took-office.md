@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/polls-us-image-abroad-
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/polls-us-image-abroad-rebounded-biden-office-78195103"
 type: article
 quality: 125
-heat: 345
+heat: 365
 published: true
 
 provider:
@@ -152,6 +152,22 @@ related:
       - url: "https://www.reuters.com/resizer/uZj81OCXpuuXKkM9IUSLVnv7q8Y=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/4OYIJ42VRBNPVA2ZY5WNXMTOHM.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Majority says US more divided since President Joe Biden took office, poll shows"
+    excerpt: "A recent Fox News poll suggests a majority of Americans believe the country has become even more divided since President Joe Biden took office in January. Fifty-four percent of respondents in the nationwide survey of more than 2,"
+    publishedDateTime: 2021-09-19T20:49:00Z
+    webUrl: "https://www.masslive.com/politics/2021/09/majority-says-us-more-divided-since-president-joe-biden-took-office-poll-shows.html"
+    ampWebUrl: "https://www.masslive.com/politics/2021/09/majority-says-us-more-divided-since-president-joe-biden-took-office-poll-shows.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2021/09/majority-says-us-more-divided-since-president-joe-biden-took-office-poll-shows.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 71
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/QHC565E3YZGDVKQRHQWUFB7DWI.jpg"
+        width: 5673
+        height: 3782
         isCached: true
   - title: "52% of Americans trust President Joe Biden to negotiate with world leaders, poll shows"
     excerpt: "A majority of Americans trust President Joe Biden to negotiate on the United States’ behalf with foreign leaders, a new ABC News/Ipsos poll shows. News of the poll comes as Biden prepared to meet Queen Elizabeth II at Windsor Castle after leaders of the Group of Seven wealthy nations agreed to provide poor nations 1 billion COVID-19 vaccine doses,"

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/solar-power-increase-tenfold-2035-4
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/solar-power-increase-tenfold-2035-40-percent-of-electricity/"
 type: article
 quality: 125
-heat: 425
+heat: 445
 published: true
 
 provider:
@@ -227,6 +227,20 @@ related:
       - url: "https://www.adn.com/resizer//fk09Tui8UwN63_uB5fnbkmhThZo=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/adn/IELILHWGVVG63D6UNUYTL7NZQM.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "President Joe Biden Hosts Meeting with Business Leaders about Covid Response"
+    excerpt: "President Joe Biden meets with business leaders and CEOs on the Covid-19 response, in the EEOB Library next to the White House in Washington, DC on Wednesday, September 15, 2021. Photo by Oliver Contr"
+    publishedDateTime: 2021-09-15T18:19:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/50bccdbab929983ed5f97875735a37f9/President-Joe-Biden-Hosts-Meeting-with-Business-Leaders-about-Covid-Response/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 52
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/50bccdbab929983ed5f97875735a37f9/BIDEN-BUSINESS.jpg"
+        width: 650
+        height: 433
         isCached: true
   - title: "Watch live: President Joe Biden to address storm devastated region from LaPlace"
     excerpt: "President Joe Biden arrived in the storm devastated region on Friday to see the damage caused by Hurricane Ida first hand. He is scheduled to make remarks this afternoon from LaPlace. Watch Biden's remarks live in the player below. Can't see the video?"

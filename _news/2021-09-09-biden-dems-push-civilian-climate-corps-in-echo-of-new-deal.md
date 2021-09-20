@@ -59,6 +59,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "PHOTOS: President Joe Biden visits Colorado"
+    excerpt: "President Joe Biden arrived in Colorado on Tuesday, Sept. 14, 2021, making a visit to the National Renewable Energy Laboratory in Golden and delivering remarks about investments in his bipartisan"
+    publishedDateTime: 2021-09-14T22:49:00Z
+    webUrl: "https://www.denverpost.com/2021/09/14/president-joe-biden-visits-colorado-photos/"
+    ampWebUrl: "https://www.denverpost.com/2021/09/14/president-joe-biden-visits-colorado-photos/amp/"
+    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2021/09/14/president-joe-biden-visits-colorado-photos/amp/"
+    type: article
+    provider:
+      name: The Denver Post
+      domain: denverpost.com
+    quality: 75
+    images:
+      - url: "https://www.denverpost.com/wp-content/uploads/2021/09/TDP-L-BIDEN_382.jpg?w=1024&#038;h=683"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Many Maryland business groups, unions back Biden’s COVID-19 plan, with some caveats"
     excerpt: "The new federal vaccine requirement was among a number of stringent new measures announced by the president to try to curb the rise in COVID-19 cases fueled by the delta variant."
     publishedDateTime: 2021-09-10T01:59:00Z

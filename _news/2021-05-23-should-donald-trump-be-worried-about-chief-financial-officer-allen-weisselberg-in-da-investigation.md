@@ -889,6 +889,22 @@ related:
         width: 1024
         height: 688
         isCached: true
+  - title: "Lawyer for Indicted Trump CFO Weisselberg Says He Suspects More Charges on Way"
+    excerpt: "A lawyer for Donald Trump’s indicted corporate finance chief told a judge Monday he has “strong reason to believe” more indictments are coming in an ongoing New York investigation into the former pres"
+    publishedDateTime: 2021-09-20T16:55:00Z
+    webUrl: "https://www.nbcnewyork.com/news/politics/lawyer-for-indicted-trump-cfo-weisselberg-says-he-suspects-more-charges-on-way/3281856/"
+    ampWebUrl: "https://www.nbcnewyork.com/news/politics/lawyer-for-indicted-trump-cfo-weisselberg-says-he-suspects-more-charges-on-way/3281856/?amp"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/politics/lawyer-for-indicted-trump-cfo-weisselberg-says-he-suspects-more-charges-on-way/3281856/?amp"
+    type: article
+    provider:
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 71
+    images:
+      - url: "https://media.nbcnewyork.com/2021/09/106944209-1632145626817-gettyimages-1235381252-WEISSELBERG_COURT.jpeg?quality=85&strip=all&fit=594%2C395"
+        width: 594
+        height: 395
+        isCached: true
   - title: "Trump Organization Sues New York City for Ending Golf Course Contract"
     excerpt: "Former President Donald Trump's company sued New York City on Monday, accusing it of terminating a golf course contract with the Trump Organization to punish it after Trump supporters stormed the Capitol on Jan."
     publishedDateTime: 2021-06-22T00:31:00Z

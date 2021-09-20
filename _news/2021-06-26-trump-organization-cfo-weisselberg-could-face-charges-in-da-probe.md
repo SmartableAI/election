@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/administration/560262-trump-organizatio
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/560262-trump-organization-chief-financial-officer-could-face-charges?amp"
 type: article
 quality: 125
-heat: 1465
+heat: 1485
 published: true
 
 provider:
@@ -872,6 +872,22 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/04/president-donald-trump-pictured-december-who-still-refuses.jpg"
         width: 1024
         height: 688
+        isCached: true
+  - title: "Lawyer for Indicted Trump CFO Weisselberg Says He Suspects More Charges on Way"
+    excerpt: "A lawyer for Donald Trump’s indicted corporate finance chief told a judge Monday he has “strong reason to believe” more indictments are coming in an ongoing New York investigation into the former pres"
+    publishedDateTime: 2021-09-20T16:55:00Z
+    webUrl: "https://www.nbcnewyork.com/news/politics/lawyer-for-indicted-trump-cfo-weisselberg-says-he-suspects-more-charges-on-way/3281856/"
+    ampWebUrl: "https://www.nbcnewyork.com/news/politics/lawyer-for-indicted-trump-cfo-weisselberg-says-he-suspects-more-charges-on-way/3281856/?amp"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/politics/lawyer-for-indicted-trump-cfo-weisselberg-says-he-suspects-more-charges-on-way/3281856/?amp"
+    type: article
+    provider:
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 71
+    images:
+      - url: "https://media.nbcnewyork.com/2021/09/106944209-1632145626817-gettyimages-1235381252-WEISSELBERG_COURT.jpeg?quality=85&strip=all&fit=594%2C395"
+        width: 594
+        height: 395
         isCached: true
   - title: "Should Donald Trump Be Worried About Chief Financial Officer Allen Weisselberg In DA Investigation?"
     excerpt: "Longtime Trump Organization Executive Allen Weisselberg has stood loyal for decades, but the most recent criminal probe has extended to his family."

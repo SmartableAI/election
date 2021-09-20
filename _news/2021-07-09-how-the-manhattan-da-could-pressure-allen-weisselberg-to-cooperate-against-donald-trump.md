@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Indicted Trump Org. ex-CFO Weisselberg expects more indictments, his lawyer says"
+    excerpt: "Allen Weisselberg -- the former Trump Organization CFO who has been charged by Manhattan prosecutors for an alleged tax evasion scheme -- is expecting that more indictments will be filed in the case, his lawyer said in court Monday.\n    \n"
+    publishedDateTime: 2021-09-20T17:35:40Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fif0VitU-Pw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/09/20/politics/allen-weisselberg-trump-org-hearing-cy-vance-case/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/09/20/politics/allen-weisselberg-trump-org-hearing-cy-vance-case/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210701151604-weisselberg-leaves-court-0701-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump Organization Strips Weisselberg of Roles After Indictment"
     excerpt: "The removal of Allen Weisselberg from dozens of subsidiaries could signal a looming shake-up in former President Donald Trump’s family business."
     publishedDateTime: 2021-07-13T00:03:00Z

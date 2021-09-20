@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-09-20-the-rundown-sen-mike-lee-investigated-whether-pence-could-declare-trump-winner-of-2020-election.md",
+      "title": "‘The Rundown’: Sen. Mike Lee investigated whether Pence could declare Trump winner of 2020 election",
+      "excerpt": "Sen. Mike Lee investigated whether former Vice President Mike Pence could declare Donald Trump the winner of the 2020 election according to a new book.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sltrib.com/news/politics/2021/09/20/rundown-sen-mike-lee/",
+      "originalUrl": "https://www.sltrib.com/news/politics/2021/09/20/rundown-sen-mike-lee/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.sltrib.com/resizer/_ucVGIZZB3DXCpD6jduq_Qgh-bE=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/sltrib/D2NAG4FCOBGG3KKMTB5XT3WKVM.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-20T05:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Salt Lake Tribune",
+        "domain": "sltrib.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-09-11-mike-pence-lies-about-everything-part-infinity.md",
       "title": "Mike Pence Lies About Everything, Part Infinity",
       "excerpt": "Former vice president Mike Pence tried to rewrite his own history on Fox and Friends about how his administration bungled the pandemic. We have the receipts.",
@@ -1054,6 +1097,49 @@
       ]
     },
     {
+      "path": "_news/2021-08-03-former-vice-president-mike-pence-announced-as-featured-speaker.md",
+      "title": "Former Vice President Mike Pence announced as featured speaker",
+      "excerpt": "Former Vice President Mike Pence will speak during The National Symposium on Patriotic Education hosted by College of the Ozarks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bransontrilakesnews.com/news/local/article_33ee168e-f475-11eb-9242-57937f2488d5.html",
+      "originalUrl": "https://www.bransontrilakesnews.com/news/local/article_33ee168e-f475-11eb-9242-57937f2488d5.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/bransontrilakesnews.com/content/tncms/assets/v3/editorial/a/90/a90422b0-f475-11eb-8c36-bfcdee65b8e9/61096b06db264.image.jpg?resize=504%2C630",
+          "width": 504,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-03T08:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Branson Tri-Lakes News",
+        "domain": "bransontrilakesnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-07-29-mike-pence-joins-conservative-groups-in-jumping-into-abortion-debate-at-supreme-court.md",
       "title": "Mike Pence joins conservative groups in jumping into abortion debate at Supreme Court",
       "excerpt": "WASHINGTON – A conservative advocacy group launched by former Vice President Mike Pence is wading into a high-profile abortion case at the Supreme Court, arguing the landmark Roe v. Wade decision has contributed to the destabilization of families.",
@@ -1337,101 +1423,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-07-21-its-a-free-country-trump-addresses-pence-as-potential-2024-competitor-in-new-interview.md",
-      "title": "'It’s a free country': Trump addresses Pence as potential 2024 competitor in new interview",
-      "excerpt": "In a newly-released book excerpt, Donald Trump upholds his false election claims, knocks Mike Pence and says he's a potential 2024 presidential rival.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2021/07/20/donald-trump-news-book-mike-pence-potential-2024-presidential-election-candidates-rivals/8023849002/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/07/20/donald-trump-news-book-mike-pence-potential-2024-presidential-election-candidates-rivals/8023849002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 130,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/-mm-/4748097f30d3c081c091f5625cb14d838cab864a/c=0-248-4778-2936/local/-/media/2021/06/11/Hagerstown/27191107f746a16e6127c7fab24d23f4.jpg?auto=webp&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/8023849002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/8023849002",
-      "publishedDateTime": "2021-07-20T11:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-07-19-mike-pence-would-like-to-be-president-but-no-one-likes-mike-pence.md",
-      "title": "Mike Pence would like to be President. But no one likes Mike Pence.",
-      "excerpt": "Polling shows that Pence's presidential ambitions are dead in the water. The MAGA crowd doesn't trust him, the Never Trumpers hate him, and evangelicals have other",
-      "sourceUrl": null,
-      "webUrl": "https://www.lgbtqnation.com/2021/07/mike-pence-like-president-no-one-likes-mike-pence/",
-      "originalUrl": "https://www.lgbtqnation.com/2021/07/mike-pence-like-president-no-one-likes-mike-pence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://abuwjaawap.cloudimg.io/v7/_lgbtqnation-assets_/assets/2019/07/mike-pence1-702x522.jpg?&auto=format&auto=compress&crop=faces&fit=crop&gravity=face&w=1200&h=630&wat=1&wat_gravity=southeast&wat_pad=40",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.lgbtqnation.com/2021/07/mike-pence-like-president-no-one-likes-mike-pence/",
-      "cdnAmpWebUrl": "https://www-lgbtqnation-com.cdn.ampproject.org/c/s/www.lgbtqnation.com/2021/07/mike-pence-like-president-no-one-likes-mike-pence/",
-      "publishedDateTime": "2021-07-19T07:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LGBTQ Nation",
-        "domain": "lgbtqnation.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

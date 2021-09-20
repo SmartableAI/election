@@ -205,6 +205,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Biden easing foreign travel restrictions, requiring COVID vaccines"
+    excerpt: "President Joe Biden will ease foreign travel restrictions into the U.S. beginning in November, when his administration will require all foreign nationals flying into the country to be fully vaccinated."
+    publishedDateTime: 2021-09-20T17:53:00Z
+    webUrl: "https://www.al.com/news/2021/09/biden-easing-foreign-travel-restrictions-requiring-covid-vaccines.html"
+    ampWebUrl: "https://www.al.com/news/2021/09/biden-easing-foreign-travel-restrictions-requiring-covid-vaccines.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/09/biden-easing-foreign-travel-restrictions-requiring-covid-vaccines.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/5G2KUFZUQVCUPKZGOEKEZPAXOE.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "President Joe Biden stresses importance of coronavirus vaccination, touts infrastructure plan at Cincinnati town hall"
     excerpt: "President Joe Biden, appearing at Mount St. Joseph University in Cincinnati, stressed the importance of getting vaccinated against the coronavirus."
     publishedDateTime: 2021-07-22T01:33:00Z

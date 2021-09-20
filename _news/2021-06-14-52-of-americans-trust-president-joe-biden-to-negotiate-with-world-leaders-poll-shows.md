@@ -165,6 +165,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Majority says US more divided since President Joe Biden took office, poll shows"
+    excerpt: "A recent Fox News poll suggests a majority of Americans believe the country has become even more divided since President Joe Biden took office in January. Fifty-four percent of respondents in the nationwide survey of more than 2,"
+    publishedDateTime: 2021-09-19T20:49:00Z
+    webUrl: "https://www.masslive.com/politics/2021/09/majority-says-us-more-divided-since-president-joe-biden-took-office-poll-shows.html"
+    ampWebUrl: "https://www.masslive.com/politics/2021/09/majority-says-us-more-divided-since-president-joe-biden-took-office-poll-shows.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2021/09/majority-says-us-more-divided-since-president-joe-biden-took-office-poll-shows.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 71
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/QHC565E3YZGDVKQRHQWUFB7DWI.jpg"
+        width: 5673
+        height: 3782
+        isCached: true
   - title: "Biden abroad: Pitching America to welcoming if wary allies"
     excerpt: "President Joe Biden spent his first trip overseas highlighting a sharp break from his disruptive predecessor, selling that the United States was once more a reliable ally with a steady hand at the wheel."
     publishedDateTime: 2021-06-17T05:12:00Z

@@ -238,6 +238,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "President Joe Biden Hosts Meeting with Business Leaders about Covid Response"
+    excerpt: "President Joe Biden meets with business leaders and CEOs on the Covid-19 response, in the EEOB Library next to the White House in Washington, DC on Wednesday, September 15, 2021. Photo by Oliver Contr"
+    publishedDateTime: 2021-09-15T18:19:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/50bccdbab929983ed5f97875735a37f9/President-Joe-Biden-Hosts-Meeting-with-Business-Leaders-about-Covid-Response/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 52
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/50bccdbab929983ed5f97875735a37f9/BIDEN-BUSINESS.jpg"
+        width: 650
+        height: 433
+        isCached: true
   - title: "Biden to Require All Federal Workers to Be Vaccinated -- Source"
     excerpt: "U.S. President Joe Biden plans to require all federal employees and government contractors to get vaccinated against COVID-19, a source briefed on the matter told Reuters. In July, Biden said federal workers had to get vaccinated or face regular COVID-19 testing and other restrictions like mandatory face masks at workplaces."
     publishedDateTime: 2021-09-09T13:41:00Z

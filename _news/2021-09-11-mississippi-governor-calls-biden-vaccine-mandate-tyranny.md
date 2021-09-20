@@ -117,6 +117,20 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Joe Biden at the Major Economies Forum"
+    excerpt: "U.S. President Joe Biden with Secretary of State Antony Blinken (not shown) participate in the virtual Major Economies Forum from South Court Auditorium at the White House in Washington on Friday, September 17,"
+    publishedDateTime: 2021-09-17T13:15:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/b8ce701b8245dd67d484c13e64dbfc4b/Joe-Biden-at-the-Major-Economies-Forum/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/b8ce701b8245dd67d484c13e64dbfc4b/BIDEN-WORLD.jpg"
+        width: 650
+        height: 433
+        isCached: true
   - title: "Pence tears into Biden following vaccine mandate: ‘Unlike anything I’d ever heard’ from a US president"
     excerpt: "\"To have the president of the United States say that he has been patient but his patience is wearing thin,\" Pence said."
     publishedDateTime: 2021-09-10T17:56:00Z
